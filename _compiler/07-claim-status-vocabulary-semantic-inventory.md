@@ -9,7 +9,7 @@ Status: compiler working artifact. Source authority: original wiki only.
 
 ## Preservation rule
 
-This source is a control document. Its semantic units govern status translation and must not be merged with evidentiary or methodological vocabulary.
+This source is a control document. Only living semantic units are compiled. Deprecated or eliminated terminology is not assigned a semantic identity.
 
 ---
 
@@ -33,13 +33,13 @@ This source is a control document. Its semantic units govern status translation 
 
 **Kind:** controlled vocabulary
 
-**Content:** Package-era physics claims are to be translated into exactly four live statuses: Open, Conjectured, Registered, and Registered and Sealed.
+**Content:** Live physics claims use exactly four statuses: Open, Conjectured, Registered, and Registered and Sealed.
 
 **Source:** `Live claim statuses`.
 
 **Parents:** CSV-001.
 
-**Spent by:** package-era decrementing, physics ledgers, result-page summaries.
+**Spent by:** physics ledgers, result-page summaries, and canonical status assignments.
 
 **Standing:** current control rule.
 
@@ -101,23 +101,7 @@ This source is a control document. Its semantic units govern status translation 
 
 ---
 
-## CSV-007 — Locked actual is deprecated
-
-**Kind:** status deprecation
-
-**Content:** `Locked actual` is disfavored package-era shorthand for an actual trajectory fact not derived. It is not precise enough to reveal whether a claim is Open, Conjectured, Registered, or Registered and Sealed, and must not be used for live claims.
-
-**Parents:** CSV-002.
-
-**Spent by:** corpus cleanup and package-era translation.
-
-**Relations:** requires the separate `locked-actual-decrement-map` before reuse.
-
-**Standing:** deprecated.
-
----
-
-## CSV-008 — Instrument vocabulary and live claim status are distinct axes
+## CSV-007 — Instrument vocabulary and live claim status are distinct axes
 
 **Kind:** categorical distinction
 
@@ -131,13 +115,13 @@ This source is a control document. Its semantic units govern status translation 
 
 ---
 
-## CSV-009 — Status may never be upgraded in translation or summary
+## CSV-008 — Status may never be upgraded in translation or summary
 
 **Kind:** execution rule
 
-**Content:** Never upgrade status. `Argued` may not be reported as `proved`; any package-era status must be translated through the governing decrement rule before use.
+**Content:** Never upgrade status. `Argued` may not be reported as `proved`; summaries and canonical rewrites must preserve or weaken the source standing, never strengthen it.
 
-**Parents:** CSV-001, CSV-008.
+**Parents:** CSV-001, CSV-007.
 
 **Spent by:** every compiler summary and canonical rewrite.
 
@@ -148,7 +132,7 @@ This source is a control document. Its semantic units govern status translation 
 ## Dependency and preservation effects
 
 1. Live status and warrant-route must remain separate metadata fields in the compiler graph.
-2. `Locked actual` occurrences cannot be normalized directly; each must be routed through `locked-actual-decrement-map`.
+2. No deprecated or eliminated status receives a semantic unit in the living compiler graph.
 3. No later document may use `forced`, `recognition`, `selection`, or similar route language as a substitute for one of the four live physics statuses.
 4. Any canonical summary inherits the weakest live status of the claims it summarizes; prose compression cannot promote standing.
-5. This source does not define the later expanded status vocabulary found in subsequent audit work. Any expansion must be separately sourced and related to, not silently substituted for, this four-status control document.
+5. This source does not define any later expanded status vocabulary. Any expansion must be separately sourced and related to, not silently substituted for, this four-status control document.
