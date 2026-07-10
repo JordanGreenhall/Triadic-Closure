@@ -1,0 +1,154 @@
+# Claim Status Vocabulary Semantic Inventory
+
+Status: compiler working artifact. Source authority: original wiki only.
+
+## Source
+
+- `concepts/claim-status-vocabulary.md`
+- Drive file ID: `1ly4Tkcer4TyBQDQk6nefnqvQueDjScsB`
+
+## Preservation rule
+
+This source is a control document. Its semantic units govern status translation and must not be merged with evidentiary or methodological vocabulary.
+
+---
+
+## CSV-001 — Modal status must be preserved exactly
+
+**Kind:** control invariant
+
+**Content:** Future agents must preserve the modal status assigned to a claim exactly.
+
+**Source:** opening directive.
+
+**Parents:** none internal to this source.
+
+**Spent by:** every later compiler pass, migration decision, canonical rendering, and status summary.
+
+**Standing:** current control rule.
+
+---
+
+## CSV-002 — The live physics-claim status vocabulary has four members
+
+**Kind:** controlled vocabulary
+
+**Content:** Package-era physics claims are to be translated into exactly four live statuses: Open, Conjectured, Registered, and Registered and Sealed.
+
+**Source:** `Live claim statuses`.
+
+**Parents:** CSV-001.
+
+**Spent by:** package-era decrementing, physics ledgers, result-page summaries.
+
+**Standing:** current control rule.
+
+---
+
+## CSV-003 — Open marks an explicitly unclosed work frontier
+
+**Kind:** status definition
+
+**Content:** Open means the claim or joint is explicitly not closed and remains part of the work frontier.
+
+**Parents:** CSV-002.
+
+**Spent by:** frontier ledgers and prohibition on downstream expenditure as closed structure.
+
+**Standing:** definition.
+
+---
+
+## CSV-004 — Conjectured marks a live proposal not registered by the framework
+
+**Kind:** status definition
+
+**Content:** Conjectured means plausible and live, but not yet registered by the framework.
+
+**Parents:** CSV-002.
+
+**Spent by:** candidate hypotheses, provisional routes, and downgrade decisions.
+
+**Standing:** definition.
+
+---
+
+## CSV-005 — Registered marks essential or conditional framework reach without full sealing
+
+**Kind:** status definition
+
+**Content:** Registered means the framework reaches the item in essence or under stated conditions, while sealing or full closure remains incomplete.
+
+**Parents:** CSV-002.
+
+**Spent by:** conditional results and essential-form claims.
+
+**Standing:** definition.
+
+---
+
+## CSV-006 — Registered and Sealed marks bidirectional content identity or equivalent closure
+
+**Kind:** status definition
+
+**Content:** Registered and Sealed means bidirectional content identity, or equivalent framework closure, such that the named item carries no surplus load beyond the registered structure.
+
+**Parents:** CSV-002, sealed-recognition discipline from Architectonic Rigor.
+
+**Spent by:** mature equivalence claims and terminology allowed to carry its full registered content.
+
+**Standing:** definition.
+
+---
+
+## CSV-007 — Locked actual is deprecated
+
+**Kind:** status deprecation
+
+**Content:** `Locked actual` is disfavored package-era shorthand for an actual trajectory fact not derived. It is not precise enough to reveal whether a claim is Open, Conjectured, Registered, or Registered and Sealed, and must not be used for live claims.
+
+**Parents:** CSV-002.
+
+**Spent by:** corpus cleanup and package-era translation.
+
+**Relations:** requires the separate `locked-actual-decrement-map` before reuse.
+
+**Standing:** deprecated.
+
+---
+
+## CSV-008 — Instrument vocabulary and live claim status are distinct axes
+
+**Kind:** categorical distinction
+
+**Content:** Retorsion-secured, forced, defended posit, selection, recognition, checked, and argued describe the instrument or evidence behind a claim. They do not replace the live claim status, which for the physics wiki must be one of the four statuses in CSV-002.
+
+**Parents:** CSV-002; Architectonic Rigor.
+
+**Spent by:** prevention of status inflation and the later crosswalk between warrant-route and claim-standing.
+
+**Standing:** current control rule.
+
+---
+
+## CSV-009 — Status may never be upgraded in translation or summary
+
+**Kind:** execution rule
+
+**Content:** Never upgrade status. `Argued` may not be reported as `proved`; any package-era status must be translated through the governing decrement rule before use.
+
+**Parents:** CSV-001, CSV-008.
+
+**Spent by:** every compiler summary and canonical rewrite.
+
+**Standing:** current control rule.
+
+---
+
+## Dependency and preservation effects
+
+1. Live status and warrant-route must remain separate metadata fields in the compiler graph.
+2. `Locked actual` occurrences cannot be normalized directly; each must be routed through `locked-actual-decrement-map`.
+3. No later document may use `forced`, `recognition`, `selection`, or similar route language as a substitute for one of the four live physics statuses.
+4. Any canonical summary inherits the weakest live status of the claims it summarizes; prose compression cannot promote standing.
+5. This source does not define the later expanded status vocabulary found in subsequent audit work. Any expansion must be separately sourced and related to, not silently substituted for, this four-status control document.
