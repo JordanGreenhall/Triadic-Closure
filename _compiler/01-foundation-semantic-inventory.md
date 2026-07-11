@@ -1,239 +1,133 @@
-# Foundation Semantic Inventory — Pass 1
+# Foundation Semantic Inventory — Cross-Source Index
 
-Status: compiler working artifact. This file is not canonical theory. It records source-semantic units before any consolidation or rewrite.
+Status: compiler working artifact. This is a cross-source index of living foundational semantic identities. It is not canonical theory and does not replace the source documents or their detailed inventories.
 
-## Source set for this pass
+## Authority and scope
 
-- `archivist-instructions-foundation-audit.md` (uploaded 2026-07-10; compile instruction)
-- `architectonic-rigor.md` / `architectonic-rigor-complete.md`
-- `triadic-structure-of-relating.md` / `triadic-structure-of-relating-rev-canonical.md`
-- `claim-status-vocabulary.md`
-- `vertical-and-horizontal.md`
-- relevant control references named by the audit
+Authoritative sources for this index are:
 
-## Inventory rule
+- the original wiki in Google Drive;
+- `architectonic-rigor-complete.md`;
+- `triadic-structure-of-relating-rev-canonical.md`;
+- the original wiki control pages, including `claim-status-vocabulary.md` and `vertical-and-horizontal.md`;
+- the supplemental `archivist-instructions-foundation-audit.md`, only at its stated grades.
 
-Each unit below is preserved before rendering. No unit is deleted because it is duplicated, stylistically inconvenient, or located in a noncanonical source. Equivalence, supersession, and dissolution are recorded as relations rather than enacted by omission.
+The nine-document reconstruction is excluded from authority and must not be consulted as a source.
+
+## Compilation rule
+
+Only living semantic content is represented. Explicitly eliminated, withdrawn, or deprecated formulations do not receive semantic identities. Supersession is recorded only where the superseding relation itself remains necessary to understand a living claim.
+
+Detailed argument, source wording, and route standing remain in the source-specific inventories. The `FND-*` labels below are stable crosswalk identities, not substitute derivations.
 
 ---
 
 ## FND-001 — Architectonic standing is dependency-bounded
 
-**Kind:** methodological claim
+A conclusion may not receive stronger standing than the dependency route that secures it. Formal proof operates within a fixed system; architectonic rigor also examines the grounds and terms presupposed by such systems.
 
-**Content:** A conclusion may not receive stronger standing than the dependency route that secures it. Formal proof works only after a system has been fixed; architectonic work also examines the grounds that such systems presuppose.
-
-**Source locations:** `architectonic-rigor.md`; `architectonic-rigor-complete.md`; repository method/control draft.
-
-**Parents:** none within the present corpus inventory; this is part of the governing method.
-
-**Spent by:** all claim grading, all domain walks, all audits.
-
-**Relations:** supports FND-002, FND-003, FND-010.
-
-**Standing:** current governing rule.
+**Detailed source:** `03-architectonic-rigor-semantic-inventory.md`.
 
 ---
 
-## FND-002 — Totalization ceiling on exact inventories
+## FND-002 — Exact inventories face a totalization ceiling
 
-**Kind:** limit claim
+A system cannot certify an ultimate inventory as exactly complete from a position wholly outside the inventory it deploys. This ceiling applies symmetrically to every candidate exact count.
 
-**Content:** Any claim that an ultimate inventory has exactly N irreducible members faces a totalization limit: certifying completeness requires an act that deploys the inventory, so the instrument cannot close itself from outside. This ceiling binds every candidate count symmetrically.
-
-**Source locations:** audit §2; `architectonic-rigor.md`; canonical triadic-structure source.
-
-**Parents:** FND-001.
-
-**Spent by:** FND-003; all exact-inventory claims including exactly-three, 3+1, and exact local Lorentz framing.
-
-**Relations:** does not weaken FND-003; fixes its maximum possible warrant.
-
-**Standing:** current framing to be made explicit.
+**Parents:** FND-001; AR-009; AR-015.
 
 ---
 
-## FND-003 — Exactly-three carries maximal available warrant
+## FND-003 — Exactly-three is a defended posit
 
-**Kind:** foundational posit with warrant profile
-
-**Content:** The From / With / This inventory carries the strongest warrant available beneath FND-002 because: (a) the collapse to two is blocked by retorsion; denying the third office deploys it; (b) proposed fourth offices examined to date return as subdivisions or second-order statuses; (c) the defense of the count is reflexively stable as an instance of the triad.
-
-**Source locations:** audit §2; `triadic-structure-of-relating-rev-canonical.md`; `claim-status-vocabulary.md`.
-
-**Parents:** FND-001, FND-002.
-
-**Spent by:** foundational triadic structure; exact 3+1; color count; two-mode budgets where specifically derived; all domain stress tests.
-
-**Relations:** open to refutation by one genuine irreducible fourth office. Empirical passes in downstream domains may support upward along the dependency trace but cannot remove FND-002.
+The From / With / This inventory carries the strongest warrant available beneath FND-002: reduction below three is blocked by retorsion; proposed additional offices examined in the source return as subdivisions or second-order statuses; and the triad remains reflexively stable when applied to its own defense.
 
 **Standing:** Defended posit.
+
+**Detailed source:** `04-triadic-structure-inventory-part-1.md`.
 
 ---
 
 ## FND-004 — Relating is primitive
 
-**Kind:** ontological claim
+The primitive is relating, not independent relata subsequently joined by an external relation.
 
-**Content:** The primitive is relating, not independent relata later joined by an external relation.
-
-**Source locations:** canonical triadic-structure documents; current foundational draft.
-
-**Parents:** architectonic argument in the canonical source; exact derivation route still to be atomized in a later pass.
-
-**Spent by:** FND-005 through FND-009; all domain entries.
-
-**Relations:** closure is a relating standing as one; this unit must not be rewritten as a substance claim.
-
-**Standing:** preserve source standing pending full route extraction.
+**Detailed source:** `04-triadic-structure-inventory-part-1.md` and `05-triadic-structure-inventory-part-2.md`.
 
 ---
 
-## FND-005 — From / With / This are offices of one act
+## FND-005 — From, With, and This are offices of one act
 
-**Kind:** foundational articulation
+From, With, and This are three irreducible offices of one relating, not three substances or independently standing relata.
 
-**Content:** From, With, and This are not three substances or independent relata. They are three irreducible offices of one relating.
-
-**Source locations:** canonical triadic-structure documents.
-
-**Parents:** FND-003, FND-004.
-
-**Spent by:** FND-006, FND-007, FND-008, all domain walks.
-
-**Relations:** term identities and full office descriptions require later source extraction; no replacement vocabulary introduced here.
-
-**Standing:** preserve source standing.
+**Parents:** FND-003; FND-004.
 
 ---
 
 ## FND-006 — Vertical mutual composition
 
-**Kind:** structural claim
+Each office is composed through the other two: From is the relating of With and This; With is the relating of From and This; This is the relating of From and With. The offices are irreducible without being atomic.
 
-**Content:** Each office is composed of the other two: From is the relating of With and This; With is the relating of From and This; This is the relating of From and With. The offices are irreducible without being atomic.
-
-**Source locations:** `triadic-structure-of-relating-rev-canonical.md`; `vertical-and-horizontal.md`.
-
-**Parents:** FND-004, FND-005.
-
-**Spent by:** held/registered discipline; office-specific domain transpositions; vertical/horizontal distinction.
-
-**Relations:** must not be weakened to mutual implication or metaphor.
-
-**Standing:** source standing to be preserved pending full route extraction.
+**Detailed source:** `05-triadic-structure-inventory-part-2.md`.
 
 ---
 
 ## FND-007 — Modal triad
 
-**Kind:** structural/modal articulation
+The offices articulate admissibility, realizability, and actuality. These are three readings of one relating, not detachable ontological layers.
 
-**Content:** The three offices articulate admissibility, realizability, and actuality. These are not detachable layers but the same act read through its three offices.
-
-**Source locations:** canonical triadic-structure documents; foundational result pages.
-
-**Parents:** FND-005, FND-006.
-
-**Spent by:** weighting law; actualization-selection; domain-entry filtering; closure.
-
-**Relations:** the audit’s dissolution of frequency=weight depends on actuality being primitive within this modal triad.
-
-**Standing:** preserve source standing.
+**Detailed source:** `06-triadic-structure-inventory-part-3.md`.
 
 ---
 
-## FND-008 — Closure replaces substance/being as the ontological unit
+## FND-008 — Closure is the foundational ontological unit
 
-**Kind:** foundational ontological claim
-
-**Content:** A closure is relating standing as one. An atom, a domain, and other coherent standings are not different meanings of closure but instances of the same foundational concept at different scales and under different constraints.
-
-**Source locations:** canonical triadic-structure and closure pages; user correction in the present refactor conversation.
+Closure is the triadic act standing as one. The same foundational concept recurs at different scales and under different constraints; scale does not create a second meaning of closure.
 
 **Parents:** FND-004 through FND-007.
 
-**Spent by:** all domain walks; mass-as-self-closure; chemistry bond and molecular closure; domain closure.
-
-**Relations:** no separate “procedural closure” concept is admitted by this inventory. Any apparent distinction must first be tested as recurrence of this same unit.
-
-**Standing:** foundational control clarification; final wording must be checked against canonical closure pages.
+**Detailed source:** `05-triadic-structure-inventory-part-2.md`.
 
 ---
 
-## FND-009 — Vertical and horizontal are distinct
+## FND-009 — Vertical and horizontal are distinct dimensions
 
-**Kind:** control distinction
+Vertical means synchronic office-constitution. Horizontal means diachronic accumulation, nesting, lineage, and re-texturing of realizability by what has stood. Apparent hierarchy does not make a horizontal layer vertical.
 
-**Content:** Vertical concerns synchronic office-composition and constitution within a standing. Horizontal concerns diachronic accumulation of actuals and the consequent constraint on future realizability. Nesting/layering belongs primarily to the horizontal and is not to be renamed vertical because it appears hierarchical.
-
-**Source locations:** `vertical-and-horizontal.md`; control pages; Jordan decisions.
-
-**Parents:** FND-006, FND-007, FND-008.
-
-**Spent by:** all multiscale and domain-transition descriptions; prevention of category drift.
-
-**Standing:** current control distinction.
+**Detailed source:** `15-vertical-and-horizontal-semantic-inventory.md`.
 
 ---
 
-## FND-010 — Claim-status vocabulary includes Dissolved and Defended posit
+## FND-010 — Claim standing and warrant route are distinct metadata
 
-**Kind:** metadata/control unit
+Live claim standing must be preserved exactly. Warrant-route terms such as forced, recognition, selection, retorsion-secured, checked, or argued do not by themselves determine claim standing. No translation or summary may upgrade either axis.
 
-**Content:** Live grading must preserve at least Open, Conjectured, Conjectured-strong, Registered-candidate, Registered, Registered and Sealed, Defended posit, Dissolved, and Lead where the source corpus uses them. `Locked actual` is deprecated and must be translated rather than copied forward.
-
-**Source locations:** audit frontmatter and §§1–2; `claim-status-vocabulary.md`; current control draft.
-
-**Parents:** FND-001, FND-002.
-
-**Spent by:** all compiler adjudication and final ledgers.
-
-**Relations:** status metadata is not ontology and must not silently alter theoretical content.
-
-**Standing:** current compiler control.
+**Detailed source:** `07-claim-status-vocabulary-semantic-inventory.md` and `03-architectonic-rigor-semantic-inventory.md`.
 
 ---
 
-## AUD-001 — frequency=weight is a dissolved smuggled demand
+## AUD-001 — The frequency-equals-weight demand is dissolved
 
-**Kind:** correction / dissolution
+The demand for a categorical or independently probabilistic derivation that long-run frequency equals realizability weight is treated by the supplemental audit as a smuggled demand. A categorical derivation would remove chanciness; a probabilistic derivation would presuppose the structure it claims to derive.
 
-**Content:** The demand to derive that long-run frequencies match weights is classified as a category error imported from an ontology that denies genuine actualization-selection. A categorical derivation would destroy chanciness; a probabilistic derivation would be circular. Within the framework, degree-of-coherence-toward and degree-of-actualization are one quantity, so the demand asks why a thing is itself.
+**Standing:** Dissolved at the audit's stated grade.
 
-**Source locations:** audit §1.
-
-**Parents:** FND-007; realizability-weighting-law; actualization-selection.
-
-**Spent by:** Born instance, amplitude/readout, mass derivations, flavor/neutron pages, physics-chemistry gate crossing.
-
-**Relations:** downstream `conditional on frequency=weight` caveats are to be removed. Native typicality and reproducibility may remain as ordinary consistency walks, not conditions.
-
-**Standing:** Dissolved.
+**Detailed source:** `02-audit-repairs-semantic-inventory.md`.
 
 ---
 
-## AUD-002 — Smuggled demand is a failure mode
+## AUD-002 — Smuggled demands must be audited before becoming open gates
 
-**Kind:** methodological correction
+A question inherited from a rival ontology may not be carried as a live debt merely because it is traditionally asked. The compiler must first test whether the demand survives reconstruction in the framework's own terms.
 
-**Content:** A question imported from a rival ontology may be smuggled into the framework and treated as if the framework owed an answer. Such a demand must be audited before being carried as an Open gate.
-
-**Source locations:** audit §1.
-
-**Parents:** FND-001, AUD-001.
-
-**Spent by:** known-failure-modes; all future gate audits.
-
-**Standing:** current compiler instruction; canonical wording pending source integration.
+**Parents:** FND-001; AUD-001.
 
 ---
 
-## Preservation obligations opened by this pass
+## Governing effects
 
-1. Extract the full derivation route for FND-004 from the complete architectonic-rigor and canonical triadic-structure sources.
-2. Extract the exact source wording and standing for FND-005 through FND-008 before rewriting `02-foundational-architectonics.md`.
-3. Do not delete any repeated expression until equivalence has been recorded in the semantic inventory.
-4. Do not remove the current source files from Google Drive; they remain the archival serialization.
-5. Do not treat audit instructions as canonical claims beyond their stated grades.
-6. Continue next with the audit’s two flagship repairs before moving into the broader physics graph, because they change downstream dependency and standing.
+1. Source-specific inventories govern detailed content and route standing; this file supplies stable cross-source identities only.
+2. No semantic unit may cite conversation-only material or the nine-document reconstruction as authority.
+3. Eliminated or deprecated formulations are omitted rather than fossilized.
+4. Duplicate expressions may be merged only after semantic equivalence has been established.
+5. Audit instructions remain bounded by their stated grades and do not become canonical merely by being indexed here.
