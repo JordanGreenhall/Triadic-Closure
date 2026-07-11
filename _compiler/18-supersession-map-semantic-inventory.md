@@ -35,7 +35,7 @@ Only living control rules are compiled. Superseded formulations are not preserve
 
 **Parents:** SUP-001.
 
-**Spent by:** F8–F11, gravity, gauge, mass, and other modular result families.
+**Spent by:** F8–F11, gravity, gauge, and other modular result families.
 
 **Standing:** current control rule.
 
@@ -115,23 +115,7 @@ Only living control rules are compiled. Superseded formulations are not preserve
 
 ---
 
-## SUP-008 — The current mass-ratio spine retains `2π^5`, additive three-seat spatialization, and the chiral residual
-
-**Kind:** result-routing rule
-
-**Content:** The closure-inherited metric gives `2π^5`; additive bearing across three With-flattened spatial degrees gives the registered `6π^5` seating term; the proton/electron form is `m_p/m_e = 6π^5 (1 + ε_FW)`. The observed residual belongs to the From-With chiral face and is not a defect in the seating term. Its framework numbering remains open.
-
-**Parents:** closure-inherited metric; mass-derivation-three-faces; audit repairs on metric and mass linearity.
-
-**Spent by:** mass, proton/electron ratio, and chemistry inheritance.
-
-**Relations:** drag-boundary and metrology-seam explanations are excluded and do not remain live alternatives.
-
-**Standing:** preserve current dedicated-source grades; `ε_FW` numbering remains Open.
-
----
-
-## SUP-009 — Historical physics reconstructions are provenance, not fallback doctrine
+## SUP-008 — Historical physics reconstructions are provenance, not fallback doctrine
 
 **Kind:** source-use prohibition
 
@@ -145,7 +129,7 @@ Only living control rules are compiled. Superseded formulations are not preserve
 
 ---
 
-## SUP-010 — Consolidation must preserve current derivations and explicit open joints
+## SUP-009 — Consolidation must preserve current derivations and explicit open joints
 
 **Kind:** compiler obligation
 
