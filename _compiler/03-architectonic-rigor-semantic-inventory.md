@@ -1,303 +1,131 @@
-# Architectonic Rigor Semantic Inventory — Pass 3
+# Architectonic Rigor — Adjudicated Semantic Inventory
 
-Status: compiler working artifact. This file atomizes the canonical `architectonic-rigor-complete.md` source before any canonical rewrite.
+Status: corpus-wide adjudicated compiler artifact. Source basis: the original `architectonic-rigor-complete.md`, the canonical Triadic Structure source, the domain-entry materials, later control pages, and downstream uses throughout the original wiki. The nine-document reconstruction is excluded.
 
-## Source
+## Adjudication result
 
-- `architectonic-rigor-complete.md`
+Every claim below was checked against later detailed uses of dependency, retorsion, construction, selection, recognition, the completeness diagnostic, and defended posit. No later detailed derivation reverses these methodological claims. Later work does, however, require two clarifications:
 
-## Preservation rule
-
-The source argument is preserved as a dependency-ordered set of semantic units. No term is replaced, no instrument is merged with another, and no conclusion is upgraded beyond the source.
+1. claim standing and warrant route remain distinct; labels such as “source claim,” “source result,” or “source instrument” are provenance descriptions, not claim-status grades;
+2. the method is not a license to treat an early formulation as current merely because it was correctly produced by one of these instruments. Corpus-wide claim adjudication remains required.
 
 ---
 
 ## AR-001 — Formal proof is a restricted child of a more fundamental securing relation
 
-**Kind:** methodological foundation
+A proof secures a conclusion from grounds within a frame whose terms and moves are fixed. Architectonic rigor operates the same securing relation while the frame, terms, and grounds remain under examination. Formal proof remains valid within its frame; it is not the architectonic floor.
 
-**Content:** A proof secures a conclusion by a ground within a system whose admissible terms and moves are fixed in advance. If that restriction is removed, the securing relation remains. Architectonic rigor operates that parent relation where the system itself, its terms, and its grounds are still under examination.
+**Disposition:** retained without substantive change.
 
-**Source:** §1, “Proof is not the floor.”
+## AR-002 — Architectonic rigor works prior to a fixed system
 
-**Parents:** none internal to this source.
+Architectonic rigor is not a weaker substitute for proof. It is the discipline required where the system that proof would presuppose has not yet been secured.
 
-**Spent by:** AR-002 through AR-015; all later claim-standing discipline.
-
-**Relations:** formal proof is not rejected; it is treated as the parent securing relation relativized to a fixed frame.
-
-**Standing:** source claim.
-
----
-
-## AR-002 — Architectonic rigor is exacting because it works prior to a fixed system
-
-**Kind:** methodological definition
-
-**Content:** Architectonic rigor is not a looser substitute for proof. It is the discipline of operating the securing relation at the level where systems are not yet given and therefore cannot be presupposed.
-
-**Source:** §1.
-
-**Parents:** AR-001.
-
-**Spent by:** the full instrument toolkit and all domain-entry work.
-
-**Standing:** source definition.
-
----
+**Disposition:** retained.
 
 ## AR-003 — Dependency is the instrument of priority
 
-**Kind:** instrument definition
+For X and Y, test whether each can stand without the other. One-way need establishes priority; mutual independence establishes independence; mutual need establishes co-constitution.
 
-**Content:** For two items X and Y, test whether each can stand without recourse to the other. If X needs Y and Y does not need X, Y is more fundamental. If neither needs the other, they are independent. If each needs the other, they are co-constitutive and must be taken whole.
+**Disposition:** retained.
 
-**Source:** §2.
+## AR-004 — Dependency generates a partial order, not necessarily a chain
 
-**Parents:** AR-002.
+Repeated dependency tests yield an architecture of priority with co-constitutive joints. The result is generally a partial order rather than a total sequence.
 
-**Spent by:** architecture-building, primitive audits, co-constitution detection, domain-entry ordering.
+**Disposition:** retained and clarified.
 
-**Relations:** priority is read from asymmetry of necessity, not stipulated.
+## AR-005 — Dependency has two primary failure modes
 
-**Standing:** source instrument.
+A hidden dependency can make a false primitive appear foundational. A co-constitutive pair can also be falsified by arbitrarily assigning priority to one member.
 
----
+**Disposition:** retained.
 
-## AR-004 — Dependency builds a partial order of concepts
+## AR-006 — Dependency alone does not secure the floor
 
-**Kind:** methodological result
+Dependency can establish relative priority but cannot by itself establish that the terminal floor is ineliminable.
 
-**Content:** Repeated dependency tests generate an architecture: a partial order of priority with co-constitutive joints marked. The source examples include position before velocity before acceleration before jerk, and distinction before unit before count.
+**Disposition:** retained.
 
-**Source:** §2.
+## AR-007 — Retorsion tests roots
 
-**Parents:** AR-003.
+Deny a candidate root and inspect what the performance of the denial must deploy. When every intelligible denial necessarily instantiates the denied condition, the denial defeats itself in performance.
 
-**Spent by:** all dependency graphs and semantic inventories.
+**Disposition:** retained.
 
-**Standing:** source result.
+## AR-008 — Retorsion halts the regress by using the denial as ground
 
----
+Retorsion does not require a prior premise external to the dispute. The act of denial supplies the relevant ground.
 
-## AR-005 — Dependency has two named failure modes
-
-**Kind:** failure-mode inventory
-
-**Content:** First, hidden dependence can make a false primitive look like a floor. Second, a co-constitutive pair can be falsified by arbitrarily crowning one member as prior.
-
-**Source:** §2.
-
-**Parents:** AR-003.
-
-**Spent by:** compiler review, primitive audits, co-constitution checks.
-
-**Standing:** source warning.
-
----
-
-## AR-006 — Dependency does not secure the standing of the floor
-
-**Kind:** limit claim
-
-**Content:** Dependency can show that one item is prior to another, but it cannot by itself show that the terminal floor is ineliminable or secured against denial.
-
-**Source:** end of §2.
-
-**Parents:** AR-003, AR-004.
-
-**Spent by:** transition to retorsion.
-
-**Standing:** source limit.
-
----
-
-## AR-007 — Retorsion is the instrument of roots
-
-**Kind:** instrument definition
-
-**Content:** Form the denial of a candidate root and inspect what the performance of that denial must deploy. If the act of denial instantiates what it denies, the denial cancels itself in the making and the candidate stands as a condition of intelligibility.
-
-**Source:** §3.
-
-**Parents:** AR-002, AR-006.
-
-**Spent by:** root securing, ineliminability claims, foundational denials.
-
-**Standing:** source instrument.
-
----
-
-## AR-008 — Retorsion halts regress by taking the denial itself as ground
-
-**Kind:** methodological result
-
-**Content:** Retorsion does not appeal to an already secured premise. Its ground is supplied by the opponent’s own act of denial, so the regress of grounds has nowhere further to descend.
-
-**Source:** §3.
-
-**Parents:** AR-007.
-
-**Spent by:** foundational root claims.
-
-**Standing:** source result.
-
----
+**Disposition:** retained.
 
 ## AR-009 — Retorsion secures ineliminability, not exhaustiveness
 
-**Kind:** limit claim
+Retorsion can establish “at least this.” It cannot by itself establish “exactly these and no others,” because any universally operative condition will also be present within the retorsive act and may remain undifferentiated there.
 
-**Content:** Retorsion can show “at least this” because the denied condition is deployed in the denial. It cannot show “exactly these and no other,” because any condition operative in every act is also operative in the retorsion itself and therefore may remain invisible to it.
+**Disposition:** retained; this remains the controlling limit on exact-inventory claims.
 
-**Source:** §3.
+## AR-010 — Genuine retorsion differs from incidental self-defeat
 
-**Parents:** AR-007, AR-008.
+A specially worded proposition may contradict itself without showing that the denied item is a condition of all assertion. Genuine retorsion requires necessary deployment across any intelligible denial of the candidate root.
 
-**Spent by:** totalization ceiling, exactly-three warrant profile, defended posit.
+**Disposition:** retained.
 
-**Relations:** this is the source basis for FND-002.
+## AR-011 — Formal proof can be read as frame-relative retorsion
 
-**Standing:** source limit.
+Given admitted premises and valid inference rules, denying the licensed conclusion contradicts the granted frame. This is a structural recognition about formal proof, not a reduction of all proof practice to rhetorical self-reference.
 
----
-
-## AR-010 — Counterfeit retorsion must be distinguished from genuine retorsion
-
-**Kind:** failure-mode distinction
-
-**Content:** A particular self-applying claim may undercut itself without establishing that the denied thing is a condition of all assertion. Genuine retorsion requires necessary deployment in any assertion, not incidental self-reference in one special claim.
-
-**Source:** §3.
-
-**Parents:** AR-007.
-
-**Spent by:** audit of foundational arguments.
-
-**Standing:** source distinction.
-
----
-
-## AR-011 — Formal proof can be recast as retorsion relative to a fixed frame
-
-**Kind:** structural recognition
-
-**Content:** To grant premises and inference rules while denying a valid conclusion is self-contradictory. Formal proof is therefore retorsion relativized to a fixed inventory of premises and rules.
-
-**Source:** end of §3.
-
-**Parents:** AR-001, AR-007.
-
-**Spent by:** relation between architectonic rigor and formal proof.
-
-**Standing:** source recognition.
-
----
+**Disposition:** retained with scope clarification.
 
 ## AR-012 — Construction exhibits the genesis of a dependent concept
 
-**Kind:** instrument definition
+Construction assembles a later concept from already secured materials. Any indispensable material introduced without warrant is a smuggle.
 
-**Content:** Construction takes materials already established as prior and assembles a later concept openly. Any step that introduces an unearned material is a smuggle.
+**Disposition:** retained.
 
-**Source:** §4.
+## AR-013 — Selection records licensed contingency
 
-**Parents:** AR-003, AR-004.
+Where established priors admit several structures without forcing one, selection records which admissible structure is taken. It does not retroactively convert that choice into necessity.
 
-**Spent by:** objecthood derivations, domain walks, all positive reconstructions.
+**Disposition:** retained.
 
-**Standing:** source instrument.
+## AR-014 — Sealed recognition permits borrowed names without importing surplus
 
----
+Earn the structure in native terms first; only then attach an established name. Theorems, connotations, and associations not independently earned remain sealed off. The recognition is defeasible without undoing the native construction.
 
-## AR-013 — Selection secures what the priors admit but do not force
-
-**Kind:** instrument definition
-
-**Content:** Where several structures are admitted by an established boundary, selection records the chosen structure as licensed rather than necessary. Alternative selections under the same boundary remain legitimate.
-
-**Source:** §4.
-
-**Parents:** AR-003, AR-012.
-
-**Spent by:** all contingent joints in domain constructions.
-
-**Standing:** source instrument.
-
----
-
-## AR-014 — Sealed recognition allows borrowed names without importing surplus
-
-**Kind:** instrument definition
-
-**Content:** First articulate the earned structure in native terms; then attach the established name; then seal every theorem, connotation, and association not earned by the construction. The name is defeasible without disturbing the constructed structure.
-
-**Source:** §4.
-
-**Parents:** AR-012.
-
-**Spent by:** all mappings to established mathematics and physics.
-
-**Standing:** source instrument.
-
----
+**Disposition:** retained.
 
 ## AR-015 — The completeness diagnostic identifies self-enclosing totality claims
 
-**Kind:** diagnostic instrument
+When a claim asserts the exact completeness of a totality by means that belong to that totality, retorsion and construction face a principled ceiling. Such a claim cannot honestly be presented as exhaustively proved by those instruments alone.
 
-**Content:** Ask whether a claim asserts the completeness of a totality by means that are themselves members of that totality. If so, the claim has a known ceiling: it cannot be established by retorsion or construction and must be defended rather than proved.
+**Disposition:** retained.
 
-**Source:** §4.
+## AR-016 — Defended posit is the maximal honest warrant for some exact-totality claims
 
-**Parents:** AR-009.
+A defended posit is explicit about the completeness ceiling. Its defense requires at least: no exhibited counterexample, reflexive stability under application to itself, and examination showing that apparent rivals are not genuine alternatives.
 
-**Spent by:** exactly-three, exact inventory claims, defended posit.
+**Disposition:** retained. “Defended posit” is a warrant profile; downstream sources must state separately the live claim standing they assign to the proposition.
 
-**Relations:** this is the operative source for the totalization ceiling.
+## AR-017 — The instruments form one procedure
 
-**Standing:** source diagnostic.
+Map dependency; secure roots by retorsion; construct dependents from secured priors; mark selections as selections; use sealed recognition for established names; and apply the completeness diagnostic whenever exact totality is claimed.
 
----
-
-## AR-016 — A defended posit is the maximal honest standing for some completeness claims
-
-**Kind:** standing category
-
-**Content:** A defended posit is explicit rather than hidden. Its defense profile requires that no counterexample has been exhibited, that the posit returns itself rather than self-destructing when turned on itself, and that apparent rivals have been examined and shown not to be genuine alternatives.
-
-**Source:** §4.
-
-**Parents:** AR-015.
-
-**Spent by:** exactly-three and other exact-inventory claims.
-
-**Standing:** source standing category.
+**Disposition:** retained and supplemented by the compiler rule below.
 
 ---
 
-## AR-017 — The toolkit combines into a single architectonic procedure
+## Compiler extension forced by the corpus
 
-**Kind:** procedural synthesis
+The source procedure governs the derivation of claims. It does not by itself determine which historical formulation is currently authoritative. The compiler therefore adds a distinct adjudicative operation:
 
-**Content:** The source procedure begins by mapping dependency, then securing roots by retorsion, constructing dependents from established priors, marking selections as selections, sealing recognitions, and applying the completeness diagnostic where exact totality is claimed.
+> For each semantic claim, search the whole original corpus for later detailed derivations, repairs, objections, downstream expenditures, status changes, and explicit present rulings. Preserve the strongest coherent living formulation. Detailed successful work governs summaries; authority is claim-specific rather than document-wide.
 
-**Source:** §5.
+This extension does not modify the architectonic instruments. It governs how their products are reconciled across an evolving corpus.
 
-**Parents:** AR-003, AR-007, AR-012, AR-013, AR-014, AR-015, AR-016.
+## Completed adjudication ledger
 
-**Spent by:** method-and-control rendering; domain-entry protocol; compiler workflow.
-
-**Standing:** source synthesis.
-
----
-
-## Preservation obligations opened by Pass 3
-
-1. Preserve the exact distinction between dependency and retorsion; they are not interchangeable methods of “grounding.”
-2. Preserve co-constitution as a positive output of dependency rather than forcing priority.
-3. Preserve retorsion’s ineliminability/exhaustiveness boundary.
-4. Preserve the counterfeit-retorsion warning.
-5. Preserve construction, selection, sealed recognition, completeness diagnostic, and defended posit as distinct instruments.
-6. Do not reduce `architectonic-rigor-complete.md` to a generic methodology summary; the argument that proof is a restricted child of the parent securing relation is a substantive semantic unit.
-7. Before rewriting `01-method-and-control.md`, extract the remainder of §5 and any later sections omitted by the current connector truncation.
+- AR-001 through AR-017: searched against later foundational, domain-entry, physics-control, and result usage.
+- Contradictions requiring substantive reversal: none found.
+- Clarifications applied: standing/warrant separation; partial-order language; scope of proof-as-retorsion; defended posit as warrant profile; corpus-wide adjudication added as a compiler operation.
+- Deprecated content preserved as live claims: none.
