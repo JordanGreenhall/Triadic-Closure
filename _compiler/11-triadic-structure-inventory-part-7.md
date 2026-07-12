@@ -1,247 +1,109 @@
-# Triadic Structure Semantic Inventory — Part 7
+# Triadic Structure Semantic Inventory — Part 7, Corpus-Adjudicated
 
-Status: compiler working artifact. Source authority: original wiki only.
+Source locus: §§7.1–7.6 of the original `triadic-structure-of-relating-rev-canonical.md`.
 
-## Source
+Method: each invariant and placement claim was checked against the later vertical/horizontal control, mathematics walk, domain controls, and emergence/stratum uses. No later detailed source reverses the axis distinction. Corrections below prevent `J`, `rho`, and terminality from being treated as primitive imported mathematics.
 
-- `raw/package/triadic-structure-of-relating-rev-canonical.md`
-- Original Drive source: `triadic-structure-of-relating-rev-canonical.md`
-- Scope of this pass: §§7.1–7.6
+## TSR-7-001 — Cross-domain invariants precede domain phases
+The invariants must be articulated before phase structure and the mathematical terminal object.
 
-## Preservation rule
-
-This pass compiles only living semantic content. Disciplinary names introduced solely as defeasible recognitions are not promoted beyond the standing assigned in the source.
-
----
-
-## TSR-7-001 — Cross-domain invariants precede domain phase structure
-
-**Kind:** dependency-placement rule
-
-**Content:** The cross-domain invariants must be articulated before the domain phase structure and before the terminal mathematical object, because they explain how later objects can carry the structures later named `J`, `rho`, and terminality without importing those structures from mathematics.
-
-**Parents:** office structure; vertical/horizontal distinction; modal engine.
-
-**Spent by:** domain phase structure; mathematics walk; physics gate.
-
-**Standing:** forced dependency placement.
-
----
+**Adjudication:** retained as dependency placement.
+**Claim standing:** Registered.
 
 ## TSR-7-002 — Admissibility is the vertical boundary axis
+A domain boundary determines what is admissible; From supplies cut, side, and complement.
 
-**Kind:** invariant mapping
-
-**Content:** Admissibility is the vertical, synchronic, constitutive axis. A domain boundary determines what is admissible within the domain, and From operates here as the cut establishing side and complement.
-
-**Parents:** From; constraint as selection; vertical constitution.
-
-**Spent by:** boundary formation; domain identity; later recognition of involutive polarity.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
 ## TSR-7-003 — From yields polarity and non-degenerate pairing
+A side stands only against its complement; distinction and pairing are two faces of one office.
 
-**Kind:** structural consequence
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
-**Content:** The distinguishing face of From yields polarity, while its holding-in-relation face yields non-degenerate pairing: no side stands as a side except against its complement.
+## TSR-7-004 — `J` recognizes vertical orientation-reversal
+`J` names the within-stage involutive polarity of the admissibility boundary.
 
-**Parents:** From as determinate distinction and conditioning.
-
-**Spent by:** mathematical polarity; conjugation structure; domain boundaries.
-
-**Standing:** forced.
-
----
-
-## TSR-7-004 — `J` is the mathematical recognition of vertical orientation-reversal
-
-**Kind:** sealed recognition
-
-**Content:** In later mathematical language, `J` names the involutive polarity of the admissibility boundary. It is a within-stage condition acting identically at every stage, not a motion through the recursive build.
-
-**Parents:** TSR-7-002; TSR-7-003.
-
-**Spent by:** terminal mathematical object; bifurcation theorem; physics exchange structure.
-
-**Standing:** recognition until the mathematical object is walked.
-
----
+**Adjudication:** retained as recognition, not primitive machinery.
+**Claim standing:** Registered once the mathematical object is walked.
 
 ## TSR-7-005 — Realizability is the horizontal building axis
+Realizability changes as actuals accumulate and adjacencies are re-textured.
 
-**Kind:** invariant mapping
-
-**Content:** Realizability is the horizontal, diachronic, accumulative axis. It changes as actuals accumulate and is textured by what has been reached and by the adjacencies those standings open.
-
-**Parents:** With; Realizability(S); horizontal accumulation.
-
-**Spent by:** recursive construction; preservation across stages; domain maturity.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
 ## TSR-7-006 — With supplies coherence across the build
+Higher layers preserve and transform coherence inherited from lower layers.
 
-**Kind:** structural consequence
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
-**Content:** When construction proceeds through layers, With supplies coherence across the build by preserving lower-layer coherence in higher-layer structure.
+## TSR-7-007 — `rho` recognizes between-stage coherence
+`rho` names witnesses or maps by which successive stages fit coherently into a build or limit.
 
-**Parents:** With as holding on a basis; horizontal layer construction.
-
-**Spent by:** persistence; recursive coherence; mathematical `rho`.
-
-**Standing:** forced.
-
----
-
-## TSR-7-007 — `rho` is the mathematical recognition of between-stage coherence
-
-**Kind:** sealed recognition
-
-**Content:** In later mathematical language, `rho` names the coherence witnesses by which successive stages fit into a limit. It is a between-stage horizontal condition, not a second polarity and not a within-stage constraint.
-
-**Parents:** TSR-7-005; TSR-7-006.
-
-**Spent by:** D6 persistence; terminal mathematical object; later higher-categorical formalization.
-
-**Standing:** recognition until the mathematical object is walked.
-
----
+**Adjudication:** retained as horizontal recognition, not a second polarity.
+**Claim standing:** Registered once mathematically walked.
 
 ## TSR-7-008 — This is the crossing of admissibility and realizability
+Actuality is where vertical admissibility and horizontal realization coincide.
 
-**Kind:** office-axis identity
+**Adjudication:** retained; This is not a third invariant beside `J` and `rho`.
+**Claim standing:** Registered.
 
-**Content:** This is not a third invariant alongside `J` and `rho`. Actuality is the crossing of the two axes: an actual is what is both admissible under the boundary and realized in the field.
+## TSR-7-009 — The `J`/`rho` tension dissolves by placement
+`J` is synchronic and within-stage; `rho` is diachronic and between-stage.
 
-**Parents:** modal registers; TSR-7-002; TSR-7-005.
+**Adjudication:** retained and corroborated by later control pages.
+**Claim standing:** Registered.
 
-**Spent by:** terminality; actualization; domain occupancy.
+## TSR-7-010 — Terminality is crossed-axis closure
+The terminal mathematical object is the closure in which the completed horizontal build and full vertical constitution coincide.
 
-**Standing:** forced.
+**Adjudication:** retained as bridge/naming claim. Terminality adds no third invariant.
+**Claim standing:** Registered after the mathematical walk.
 
----
+## TSR-7-011 — Layer towers are horizontal
+Cell–tissue–organ and analogous towers are historical constructions, not vertical constitution.
 
-## TSR-7-009 — The `J`/`rho` tension dissolves by proper placement
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
-**Kind:** dissolution
+## TSR-7-012 — Every layer is vertically constituted equivalently
+No higher layer is more or less constituted by From/With/This than a lower one.
 
-**Content:** `J` and `rho` do not conflict because they occupy different dimensions. `J` is synchronic and within-stage; `rho` is diachronic and between-stage. They meet only in the actual, where vertical admissibility and horizontal realization coincide.
-
-**Parents:** TSR-7-004; TSR-7-007; TSR-7-008.
-
-**Spent by:** terminal mathematical object; prevention of axis collapse.
-
-**Standing:** forced given the axis distinction.
-
----
-
-## TSR-7-010 — Terminality is the arrival of the crossed axes as one closure
-
-**Kind:** bridge claim
-
-**Content:** The terminal mathematical object is later read as the closure in which the completed horizontal build and full vertical constitution coincide. Terminality is not an additional invariant beyond the two axes.
-
-**Parents:** TSR-7-008; TSR-7-009.
-
-**Spent by:** mathematical D7 object; successor-domain gate.
-
-**Standing:** naming for the later walked object.
-
----
-
-## TSR-7-011 — Layer towers are horizontal, not vertical
-
-**Kind:** terminological and structural correction
-
-**Content:** Towers such as cell–tissue–organ–organism are horizontal constructions. They have history, accrue a ledger, and are built from prior standings. Their apparent up/down form must not be confused with vertical office-constitution.
-
-**Parents:** vertical/horizontal distinction; layer and altitude.
-
-**Spent by:** emergence analysis; domain strata; prevention of depth/altitude confusion.
-
-**Standing:** forced.
-
----
-
-## TSR-7-012 — Every layer is vertically constituted in the same way
-
-**Kind:** invariance claim
-
-**Content:** Every layer, from the first standing to the highest closure, participates in vertical office-constitution equivalently. No higher layer is more or less vertically constituted than a lower one.
-
-**Parents:** vertical mutual composition.
-
-**Spent by:** closure recursion; emergence; domain nesting.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
 ## TSR-7-013 — Emergence has standing and building readings
+A higher closure is traceable to its horizontal construction while also becoming a new closure with new constraints and path-dependent novelty.
 
-**Kind:** two-reading distinction
+**Adjudication:** retained. Neither reduction nor novelty may erase the other.
+**Claim standing:** Registered.
 
-**Content:** A higher closure is fully reducible to its horizontal construction under the standing reading, while under the building reading it is a genuinely new closure with new coherent constraints and path-dependent novelty.
+## TSR-7-014 — “Composed all the way down” has two senses
+Horizontal decomposition bottoms out in domain history; vertical composition remains mutually baseless.
 
-**Parents:** stride reading stances; horizontal layer construction.
-
-**Spent by:** emergence without ontological magic; reduction/novelty reconciliation.
-
-**Standing:** forced.
-
----
-
-## TSR-7-014 — “Composed all the way down” has two non-interchangeable senses
-
-**Kind:** categorical distinction
-
-**Content:** Horizontally, a closure decomposes through its build-history down to the first This of its domain. Vertically, every closure and every standing decomposes into From, With, and This mutually and without base. The horizontal bottoms out; the vertical does not.
-
-**Parents:** TSR-7-011; TSR-7-012; vertical mutual composition.
-
-**Spent by:** closure ontology; anti-substance discipline; emergence analysis.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained as categorical distinction.
+**Claim standing:** Registered.
 
 ## TSR-7-015 — Domain and stratum are distinct
+A domain is a bounded With under inquiry; a stratum is a stabilized horizontal layer with stable unit and vocabulary.
 
-**Kind:** terminological distinction
+**Adjudication:** retained as necessary terminology.
+**Claim standing:** Registered control distinction.
 
-**Content:** A domain is a With under inquiry: an actual boundary with an inclusion/exclusion rule and an internal unfolding. A stratum is a stabilized horizontal layer at which a kind of unit and vocabulary becomes stable.
+## TSR-7-016 — A stratum is not automatically a domain
+A new domain requires an exhibited gate and boundary; stabilization alone is insufficient.
 
-**Parents:** domain boundary; layer and altitude; relatively stable closure.
+**Adjudication:** retained.
+**Claim standing:** Registered.
 
-**Spent by:** domain architecture; physics and chemistry organization; later corpus architecture.
+## Adjudicated limitations
 
-**Standing:** terminological decision required for downstream coherence.
-
----
-
-## TSR-7-016 — A domain may contain strata, but a stratum is not automatically a domain
-
-**Kind:** scope rule
-
-**Content:** Domains open through gates and boundaries. Strata crystallize within an unfolding when closures stabilize sufficiently to function as unit-altitudes. A domain may contain several strata; stabilization alone does not establish a new domain.
-
-**Parents:** TSR-7-015; gate/boundary distinction.
-
-**Spent by:** domain handoff; internal domain organization; prevention of false domain multiplication.
-
-**Standing:** forced by the domain/stratum distinction.
-
----
-
-## Dependency and preservation effects
-
-1. `J`, `rho`, and terminality must not be introduced as primitive mathematical machinery; their load-bearing content must trace to From, With, This and the two dimensions.
-2. Vertical and horizontal must remain distinct throughout all downstream domain walks.
-3. Layer, altitude, depth, stratum, and domain must retain their separate meanings.
-4. Emergence may not be described in a way that erases either horizontal reducibility or building-face novelty.
-5. No downstream document may treat a stabilized layer as a new domain without an exhibited gate and boundary.
+1. `J`, `rho`, and terminality are earned recognitions.
+2. Vertical constitution and horizontal build remain distinct.
+3. Emergence preserves both traceability and novelty.
+4. Stratum does not imply domain.
+5. A domain transition requires a gate and boundary.
