@@ -1,162 +1,114 @@
-# Triadic Closure Reading Order — Semantic Inventory
+# Triadic Closure Reading Order — Adjudicated Control Inventory
 
-Status: compiler working artifact. Source authority: original Google Drive wiki only.
-
-## Source
-
-- `overview/triadic-closure-reading-order.md`
-- Drive file ID: `1C-A6AOPEwf503Cv6fJT04zOg-ncPvfxv`
-
-## Compilation rule
-
-This control document governs dependency order and reader orientation. It does not itself upgrade the standing of any theory claim. Only living control content is compiled.
+Status: adjudicated orientation artifact. This file governs reader orientation and discovery sequence only. It does not establish claim authority.
 
 ---
 
 ## TCR-001 — Triadic Closure is the governing frame
 
-**Kind:** corpus-orientation rule
-
-**Content:** The corpus is organized around Triadic Closure. Physics is the most developed worked domain currently present, but it is not the frame of the whole corpus.
-
-**Parents:** corpus lineage; foundational architectonics.
-
-**Spent by:** corpus architecture, reading sequence, domain placement.
+**Canonical formulation:** The corpus is organized around Triadic Closure. Physics is its most developed worked domain, not the frame of the whole corpus.
 
 **Standing:** current control rule.
 
 ---
 
-## TCR-002 — Foundational architectonics precedes every domain walk
+## TCR-002 — Foundational architectonics precedes domain expenditure
 
-**Kind:** dependency-order rule
+**Canonical formulation:** Architectonic rigor, triadic structure, claim-standing discipline, and the vertical/horizontal distinction supply the governing object and grammar that every domain walk spends.
 
-**Content:** Architectonic rigor, the triadic structure of relating, the live claim-status vocabulary, and the vertical/horizontal distinction must be read before domain-specific reconstruction because they supply the governing object, warrant discipline, and composition grammar.
-
-**Parents:** architectonic-rigor inventory; triadic-structure inventories; claim-status inventory; vertical/horizontal inventory.
-
-**Spent by:** domain-entry method and all domain-specific compilations.
-
-**Standing:** current control rule.
+**Standing:** current dependency-order rule.
 
 ---
 
-## TCR-003 — The foundational layer is not a physics preface
+## TCR-003 — Foundation is not a physics preface
 
-**Kind:** scope clarification
+**Canonical formulation:** Foundational architectonics is the root framework. Its meaning and scope are not exhausted by the physics application.
 
-**Content:** Foundational architectonics is the root of the corpus rather than introductory material whose purpose is exhausted by preparing a physics application.
-
-**Parents:** TCR-001, TCR-002.
-
-**Spent by:** final corpus architecture and top-level headings.
-
-**Standing:** current control clarification.
+**Standing:** current scope rule.
 
 ---
 
-## TCR-004 — Domain entry mediates between foundation and any successor domain
+## TCR-004 — Domain entry mediates between foundation and every successor domain
 
-**Kind:** dependency-order rule
+**Canonical formulation:** The general domain-entry method governs refusal of inherited metaphysics, clarification of presuppositions, inheritance of the prior closure whole, and application of the successor-domain constraint.
 
-**Content:** The general domain-entry method must be applied after foundation and before any domain-specific reconstruction. It governs the refusal of inherited metaphysics, reconstruction of presuppositions, inheritance of the prior closure whole, and application of the successor-domain constraint.
-
-**Parents:** domain-entry-method inventory; TCR-002.
-
-**Spent by:** physics, chemistry, and every later domain walk.
-
-**Standing:** current control rule.
+**Standing:** current dependency-order rule.
 
 ---
 
-## TCR-005 — Physics must inherit the prior mathematical closure whole
+## TCR-005 — Physics inherits the prior mathematical closure whole
 
-**Kind:** physics-entry control
-
-**Content:** Physics is entered only after the foundational and mathematical object is available and must inherit that prior object whole rather than selecting isolated handles. Its inherited concepts—including causation, metric, identity, possibility, and actuality—must be reconstructed before use.
-
-**Parents:** mathematical gate package; domain-entry method.
-
-**Spent by:** all physics inventories.
+**Canonical formulation:** Physics begins from the complete prior mathematical closure object rather than selected isolated handles. Domain-native use of causation, metric, identity, possibility, actuality, and related concepts must be reconstructed rather than smuggled.
 
 **Standing:** current physics-entry control.
 
 ---
 
-## TCR-006 — Physics compilation begins with current control pages
+## TCR-006 — Control pages are discovery maps, not automatic semantic governors
 
-**Kind:** physics reading-order rule
+**Canonical formulation:** Physics status matrices, work plans, consolidated walks, source maps, and dimensionality controls should be consulted early because they identify live families, known supersessions, and open gates. Their statements must still be checked against the most advanced detailed derivations, repairs, and downstream expenditures for each claim.
 
-**Content:** Before detailed result pages, the reader or compiler must consult the current physics status matrix, live work plan, consolidated D1–D5 walk, and dimensionality/spacetime status control. These pages govern scope, dependencies, and supersession for the result modules.
+**Standing:** current compiler-orientation rule.
 
-**Parents:** corpus-lineage inventory; supersession-map inventory.
+**Adjudication:** this replaces the earlier wording that said control pages govern result modules. The mass-ratio failure showed that a control page and a detailed page can share the same obsolete formulation.
 
-**Spent by:** ordering of forthcoming physics compilation.
-
-**Standing:** current control rule, subject to later claim-specific supersession.
+**Excluded error:** treating overview order or `current` metadata as claim authority.
 
 ---
 
-## TCR-007 — Physics result pages are modular and dependency-sensitive
+## TCR-007 — Physics result families are modular but must be adjudicated laterally
 
-**Kind:** corpus-organization rule
-
-**Content:** Gauge structure, mass, gravity, realizability weighting, propagation, stress-energy, Lambda, quark/lepton structure, and chiral coupling are separate result modules. Their order of use depends on the control pages and their explicit parent relations rather than on file adjacency.
-
-**Parents:** TCR-006; supersession map.
-
-**Spent by:** physics semantic graph and later consolidation.
+**Canonical formulation:** Gauge structure, mass, gravity, probability, propagation, stress-energy, Lambda, particle structure, and related results are distinct semantic families. Their actual dependency graph may cross file and section boundaries. Each family must be searched laterally across derivations, corrections, summaries, and downstream uses before compilation.
 
 **Standing:** current organization rule.
 
 ---
 
-## TCR-008 — Provenance and execution controls prevent regression
+## TCR-008 — Provenance and execution controls are guardrails, not substitutes for adjudication
 
-**Kind:** control-layer rule
-
-**Content:** Corpus lineage, supersession mapping, known failure modes, agent execution rules, and the curated-to-source map are required controls for avoiding revival of superseded claims and accidental status upgrades.
-
-**Parents:** corpus-lineage inventory; supersession-map inventory.
-
-**Spent by:** every subsequent compiler pass.
+**Canonical formulation:** Corpus lineage, supersession maps, known-failure lists, execution rules, and source maps help locate regressions and stale claims. They do not relieve the compiler of reading and comparing the detailed work.
 
 **Standing:** current compiler rule.
 
 ---
 
-## TCR-009 — Deprecated status translation is not living theory content
+## TCR-009 — Deprecated status translation is migration-only
 
-**Kind:** migration clarification
+**Canonical formulation:** Deprecated labels are not living theory content. A translation aid may be used only to interpret old prose and route it to the current status vocabulary.
 
-**Content:** The source reading-order page names a deprecated-status translation document as a guardrail. Under the living-content compiler rule, deprecated labels are not compiled as semantic theory units. Only any still-operative migration instruction may be consulted when interpreting old source pages.
-
-**Parents:** claim-status inventory; living-content rule.
-
-**Spent by:** historical source interpretation only.
-
-**Standing:** current compiler clarification.
+**Standing:** current migration rule.
 
 ---
 
-## TCR-010 — Reader order and dependency order are related but not identical
+## TCR-010 — Reader order, discovery order, and dependency order are distinct
 
-**Kind:** methodological clarification
+**Canonical formulation:**
 
-**Content:** The source presents a practical reading sequence. The compiler must preserve that sequence as orientation while still placing every semantic unit according to its actual dependencies. A later-listed control page may govern an earlier result claim without becoming ontologically prior to the foundation.
+- Reader order supports comprehension.
+- Discovery order records where a claim was first encountered.
+- Dependency order records what a claim actually requires.
+- Adjudication order gathers the entire relevant lineage before selecting the living formulation.
 
-**Parents:** architectonic dependency method; TCR-002 through TCR-008.
-
-**Spent by:** global symbol table and final corpus rendering.
+No one of these orders may be substituted for another.
 
 **Standing:** current compiler rule.
 
 ---
 
-## Preservation effects
+## TCR-011 — A concept encountered early requires a forward corpus search
 
-1. The final corpus must present foundational architectonics and physics at the same top-level abstraction only where the architecture explicitly distinguishes root framework from domain application.
-2. Physics may not become the organizing frame of the whole corpus merely because it currently contains the largest body of worked results.
-3. Every later domain must pass through the same general domain-entry layer rather than copying the physics sequence mechanically.
-4. Historical migration aids may inform source adjudication but must not survive as independent canonical content once the deprecated material is removed.
-5. The next physics compilation step should begin with the current physics control layer named here, before atomizing individual result modules.
+**Canonical formulation:** Chronological crawling may discover claims, but no claim encountered in an early document is complete until later formulations, repairs, and expenditures have been searched and adjudicated.
+
+**Standing:** current execution rule.
+
+---
+
+## TCR-012 — Final architecture follows semantic dependency, not legacy file order
+
+**Canonical formulation:** The final corpus should preserve a clear route from root framework through domain-entry method into coequal domain sections. Physics must not dominate top-level architecture merely because its current source tree is largest, and later domains must not mechanically copy physics' internal sequence.
+
+**Standing:** current architecture rule.
+
+## Propagation consequence
+
+Every compiler inventory created by following the old reading-order rule is provisional. In particular, the foundational inventories require forward searches for later clarifications, and all physics inventories require lateral family adjudication before their wording or standing can be relied upon.
