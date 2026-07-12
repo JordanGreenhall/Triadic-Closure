@@ -1,247 +1,109 @@
-# Triadic Structure Semantic Inventory — Part 4
+# Triadic Structure Semantic Inventory — Part 4, Corpus-Adjudicated
 
-Status: compiler working artifact. Source authority: original wiki only.
+Source locus: §§5.1–5.7 of the original `triadic-structure-of-relating-rev-canonical.md`.
 
-## Source
-
-- `triadic-structure-of-relating-rev-canonical.md`
-- Original Google Drive source, §§5.1–5.7 only.
-
-## Compilation rule
-
-Only living semantic units are compiled. Examples are retained only where they carry a live clarification or guard. Deprecated or abandoned formulations are not preserved as semantic units.
-
----
+Method: every primordial claim was checked against later vertical/horizontal controls, the domain-entry method, the conversation-ledger audit, and downstream floor/domain constructions. No later detailed source reverses the bootstrap sequence. Corrections below prevent richer later content from being projected backward and keep co-actual readings distinct from two-product language.
 
 ## TSR-052 — The primordial unfolding has a restricted task
+The bootstrap must exhibit first determinate content from the triadic constraint without prior object, prior medium, or hidden substance.
 
-**Kind:** scope constraint
-
-**Content:** The primordial unfolding must show how the bare triadic constraint yields first determinate content without importing a prior object, prior medium, or hidden substance.
-
-**Parents:** non-compositeness of relating; triadic closure; anti-smuggling discipline.
-
-**Spent by:** every primordial step and its audit.
-
-**Standing:** forced methodological constraint.
-
----
+**Adjudication:** retained as the scope condition of the primordial walk.
+**Claim standing:** Registered.
 
 ## TSR-053 — Primordial closure begins commingled
+From, With, and This are present as offices of one act but have not yet stood as distinct determinate contents.
 
-**Kind:** primordial condition
-
-**Content:** At the origin, From, With, and This are fully commingled: present as offices of one act but not yet articulated as distinct standings. The origin is the condition for content, not itself determinate content.
-
-**Parents:** triadic closure; determinate content requires distinct standing.
-
-**Spent by:** first exercise of From.
-
-**Standing:** forced given the account of determinate content.
-
----
+**Adjudication:** retained. “Commingled” does not mean blended substances or three latent entities.
+**Claim standing:** Registered.
 
 ## TSR-054 — The first exercise is distinction by From
+With has nothing determinate to hold and This nothing determinate to actualize until distinction is exercised. From articulates the offices without creating three entities.
 
-**Kind:** primordial transition
+**Adjudication:** retained as the first admissible transition.
+**Claim standing:** Registered.
 
-**Content:** The first exercise must be From, because With has nothing determinate to hold and This has nothing determinate to actualize until distinction occurs. From articulates the commingled closure as distinguishable offices without creating three entities.
+## TSR-055 — The first This is fully vertically composed and horizontally empty
+The first actual is composed through From and With exactly as every This is, but has no prior horizontal sub-standings.
 
-**Parents:** TSR-053; From as determinate distinction.
+**Adjudication:** retained; later layer language confirms the distinction.
+**Claim standing:** Registered.
 
-**Spent by:** first determinate content.
+## TSR-056 — First determinate content is determination actualized within Realizability
+From contributes determination; With contributes structured potential actuality; their arrival as This is first determinate content.
 
-**Standing:** forced.
+**Adjudication:** retained. No later domain-specific content may be inserted into this first content.
+**Claim standing:** Registered.
 
----
+## TSR-057 — The first actual This and primordial Realizability-With are co-actual readings
+The arrived standing and its field arise in one closure. They are This- and With-readings of the same completed determination, not separately manufactured objects.
 
-## TSR-055 — The first This is vertically composed with an empty horizontal ledger
+**Adjudication:** retained and spent by the double-output account.
+**Claim standing:** Registered.
 
-**Kind:** ontological determination
+## TSR-058 — Primordial Realizability differs from `Realizability(S)`
+Before any actual stands, Realizability is untextured by prior actuals. After the first standing, `Realizability(S)` is conditioned by the state.
 
-**Content:** The first This is composed exactly as every This is composed: vertically, as the relating of From and With. It differs from later Thises only in having no prior horizontal sub-standings because no actual has yet stood.
-
-**Parents:** vertical mutual composition; vertical/horizontal distinction; TSR-054.
-
-**Spent by:** elimination of prior-object regress; first actualization.
-
-**Standing:** forced.
-
----
-
-## TSR-056 — The first determinate content is determination actualized within Realizability
-
-**Kind:** primordial actualization
-
-**Content:** From contributes pure determination; With contributes structured coherence as potential actuality; their arrival together as This is the first determinate content.
-
-**Parents:** From as contentless conditioning; With as Realizability; TSR-055.
-
-**Spent by:** first actual This; first actual With; later determinate-content generation.
-
-**Standing:** forced by elimination from the available offices.
-
----
-
-## TSR-057 — The first actual This and primordial Realizability-With are co-actual
-
-**Kind:** co-actualization result
-
-**Content:** The first actual standing and the actual field in which it stands arise in the same closure. The arrived one and the field of potential actuality are two readings of one completed determination, not separately produced objects.
-
-**Parents:** TSR-056; closure as From-With-This standing as one.
-
-**Spent by:** Realizability(S1); double-output doctrine.
-
-**Standing:** forced.
-
----
-
-## TSR-058 — Primordial Realizability and Realizability(S) are distinct
-
-**Kind:** modal distinction
-
-**Content:** Primordial Realizability is potential actuality before any actuals condition it. Once the first standing exists, Realizability(S) is potential actuality textured by the standing state.
-
-**Parents:** TSR-057; modal registers; state-dependent realizability.
-
-**Spent by:** every later stride.
-
-**Standing:** forced distinction.
-
----
+**Adjudication:** retained as a necessary modal distinction.
+**Claim standing:** Registered.
 
 ## TSR-059 — The first content is minimal
+The first content carries only the edge of standing/no-standing or determinate/indeterminate. Richer contrasts require later generation.
 
-**Kind:** delimitation
-
-**Content:** The first determinate content carries only the edge between determinate and indeterminate, or standing and no standing. No richer contrast may be attributed to it until later structure is generated.
-
-**Parents:** facetness; TSR-056.
-
-**Spent by:** audit of the second standing; prohibition on primordial over-description.
-
-**Standing:** forced delimitation.
-
----
+**Adjudication:** retained. The corpus repeatedly warns against primordial over-description.
+**Claim standing:** Registered.
 
 ## TSR-060 — The bootstrap has no prior actual ground
+The first determination is conditioned by the triadic form because no prior actual exists and no substrate is posited beneath relating.
 
-**Kind:** bootstrap rule
-
-**Content:** The first stride is conditioned by the triadic form itself rather than by an earlier actual, because no actual yet stands and nothing is posited beneath relating.
-
-**Parents:** primitiveness posit; TSR-053–TSR-056.
-
-**Spent by:** first closure only.
-
-**Standing:** forced given the primitive-relating posit.
-
----
+**Adjudication:** retained, conditional on the defended primitiveness posit.
+**Claim standing:** Registered within that framework commitment.
 
 ## TSR-061 — Every stride repeats the same office-form
+From conditions, With coheres, This arrives.
 
-**Kind:** invariant form
-
-**Content:** Every stride repeats the same triadic form: From conditions, With coheres, This arrives.
-
-**Parents:** closure; modal engine.
-
-**Spent by:** all later domain and intra-domain walks.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained as formal invariance across the horizontal build.
+**Claim standing:** Registered.
 
 ## TSR-062 — Every later stride differs historically
+Each later stride begins from a changed standing and therefore a re-textured realizability field.
 
-**Kind:** historical asymmetry
+**Adjudication:** retained; “same form” never implies historical interchangeability.
+**Claim standing:** Registered.
 
-**Content:** Although the office-form repeats, every later stride begins from a changed standing state S. Realizability is therefore re-textured after each actualization, so later strides are symmetrical in form and asymmetrical in history.
+## TSR-063 — Primordial With can stand as a This at unit-altitude
+Once actual, the field may be taken as a unit in a later determination.
 
-**Parents:** TSR-057; TSR-058; state-dependent realizability.
+**Adjudication:** retained as an altitude transition, not a change in the foundational meaning of With.
+**Claim standing:** Registered.
 
-**Spent by:** horizontal accumulation; lineage; path dependence.
+## TSR-064 — Equal unit-status does not erase lineage
+The first This and With-as-This may be held as units of the same standing-kind while remaining distinct by genesis and office-texture.
 
-**Standing:** forced.
+**Adjudication:** retained and corroborated by the held/registered distinction.
+**Claim standing:** Registered.
 
----
+## TSR-065 — The second standing creates first layer-texture
+The first This, With-as-This, and their holding yield multiple standings and their relation rather than a lone actual in an unarticulated field.
 
-## TSR-063 — The first With can stand at unit-altitude as a This
-
-**Kind:** altitude transition
-
-**Content:** Once primordial Realizability-With is actual, it can be taken as a unit in a further determination. At the next altitude, both the first This and With-as-This stand as actual units.
-
-**Parents:** actuality; composability; layer and altitude.
-
-**Spent by:** second standing; self-relation/other-relation genesis.
-
-**Standing:** forced.
-
----
-
-## TSR-064 — Same unit-status does not erase lineage difference
-
-**Kind:** held/registered distinction at altitude
-
-**Content:** At unit-altitude the first This and With-as-This are the same in standing-kind, but they remain different by genesis and office-texture. One is This-as-This; the other is With-as-This.
-
-**Parents:** TSR-063; held versus registered; lineage.
-
-**Spent by:** two-basis holding in the floor generation.
-
-**Standing:** forced.
-
----
-
-## TSR-065 — The second standing creates the first layer-texture
-
-**Kind:** primordial layering result
-
-**Content:** The first This, With-as-This, and the actual holding between them produce the first structured layer: not merely an actual in a field, but multiple actual standings and their holding.
-
-**Parents:** TSR-063–TSR-064; This as composable; With as holding.
-
-**Spent by:** self-relation and other-relation.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained as the first horizontal layer-texture.
+**Claim standing:** Registered.
 
 ## TSR-066 — Every completed determination has a double output
+A determination yields an arrived actual and a re-textured field as two readings of one closure.
 
-**Kind:** closure consequence
-
-**Content:** A completed determination yields both an arrived actual and a re-textured field of potential actuality. These are the This-reading and With-reading of one closure, not two peer products.
-
-**Parents:** TSR-057; TSR-062.
-
-**Spent by:** all horizontal accumulation, state transition, and domain walking.
-
-**Standing:** forced.
-
----
+**Adjudication:** retained. “Double output” must not be read as two independent products.
+**Claim standing:** Registered.
 
 ## TSR-067 — No actual stands in isolation
+Every actualization changes the standing state and the field of further realization.
 
-**Kind:** relational consequence
+**Adjudication:** retained as a consequence of TSR-066.
+**Claim standing:** Registered.
 
-**Content:** When a This stands, the standing state and Realizability(S) change with it. Therefore actualization always alters the field of further realization.
+## Adjudicated limitations
 
-**Parents:** TSR-066.
-
-**Spent by:** adjacency, path dependence, and future selection.
-
-**Standing:** forced.
-
----
-
-## Preservation effects
-
-1. The primordial account must never be rewritten as creation from nothing, assembly from prior parts, or emergence from a hidden substrate.
-2. The first This must retain the distinction between full vertical composition and an empty horizontal ledger.
-3. The first actual and its Realizability-With must remain co-actual readings of one closure.
-4. The minimality of primordial content must be preserved; later richness cannot be projected backward.
-5. The form/history distinction of stride is load-bearing and must travel into every domain walk.
-6. The double-output of closure must remain explicit wherever actualization and field re-texturing are discussed.
+1. The primordial walk is not creation-from-nothing, assembly, or hidden-substrate emergence.
+2. The first This is vertically complete and horizontally empty.
+3. Primordial richness is minimal.
+4. Form-invariance and historical asymmetry remain distinct.
+5. Double output names two readings of one closure.
