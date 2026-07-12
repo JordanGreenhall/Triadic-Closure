@@ -1,95 +1,55 @@
-# Vertical and Horizontal Semantic Inventory
+# Vertical and Horizontal — Adjudicated Semantic Inventory
 
-Status: compiler working artifact. Source authority: original wiki only.
+Status: corpus-wide adjudicated compiler artifact. Checked against the canonical Triadic Structure source, later domain-entry materials, physics walks, dimension/spacetime work, J/rho discussions, and multi-layer examples.
 
-## Source
+## VH-001 — Vertical is synchronic office-constitution
 
-- `concepts/vertical-and-horizontal.md`
-- Drive file ID: `1gNBpLPRv6KkjqSosM7_iJGy3Yht1Z6x8`
+Vertical names the co-constitutive relation among From, With, and This by which each office is composed through the other two. It concerns the constitution of a closure as closure, not its age, scale, complexity, or position in a history.
 
-## Compiler treatment
+**Disposition:** retained.
 
-This source is a compact control restatement of semantic units already compiled from `triadic-structure-of-relating-rev-canonical.md`. It does not create duplicate semantic identities. It fixes the governing vocabulary and records equivalence links to the existing graph.
+**Clarification:** “the same at every layer” means the same constitutive grammar applies at every layer. It does not mean that every closure has identical content, structure, or degree of development.
 
----
+## VH-002 — Horizontal is diachronic build and accumulated standing
 
-## VH-001 — Vertical means synchronic office-composition
+Horizontal names succession, lineage, nesting, and the re-texturing of realizability by what has stood. It includes stride-history, accumulated constraints, recursive build, and the formation of layers.
 
-**Kind:** controlled definition / equivalence link
-
-**Content:** The vertical is the constitutive, co-constitutive dimension in which each office is composed through the other two offices. It is synchronic, baseless, and identical at every layer.
-
-**Equivalent existing units:** vertical mutual composition; vertical constitution; admissibility axis.
-
-**Associated expressions:** office-composition; closure as closure; primordial admissibility; coinductive mutual constitution; `J` as boundary structure.
-
-**Excludes:** historical accumulation, nesting towers, or decomposition into smaller prior parts.
-
-**Standing:** current control definition; no new theory claim beyond the compiled foundation source.
-
----
-
-## VH-002 — Horizontal means diachronic accumulation
-
-**Kind:** controlled definition / equivalence link
-
-**Content:** The horizontal is the unfolding or build-history of actuals in which Realizability(S) is increasingly textured and constrained by what has stood.
-
-**Equivalent existing units:** horizontal accumulation; stride-history; building axis; recursive coherence across the build.
-
-**Associated expressions:** monotonic accumulation of actuals; Realizability(S); `rho`; induction or approximation tower; history; layers; nesting; strides.
-
-**Excludes:** timeless office-constitution.
-
-**Standing:** current control definition; no new theory claim beyond the compiled foundation source.
-
----
+**Disposition:** retained.
 
 ## VH-003 — Layers and nested actuals are horizontal
 
-**Kind:** classification rule
+Cell, tissue, organ, organism, network, ecology, and analogous scales are positions or closures within the horizontal build. Their visual or explanatory “up/down” ordering does not make them vertical.
 
-**Content:** Cell, tissue, organ, organism, network, and ecology exemplify layers or nested actuals in the horizontal build. Their intuitive up/down appearance does not make them vertical.
+**Disposition:** retained.
 
-**Parents:** VH-001, VH-002; closure composability; layer and altitude definitions.
+## VH-004 — Every actual closure is vertically constituted by the same office grammar
 
-**Spent by:** all later domain descriptions involving emergence, nesting, strata, or multi-scale organization.
+No horizontal layer is more or less vertical in the constitutive sense. More complex, inclusive, or later closures may have richer horizontal content while remaining constituted through the same From/With/This grammar.
 
-**Standing:** current control rule.
+**Disposition:** retained with the content/grammar distinction made explicit.
 
----
+## VH-005 — Collapsing the axes creates false problems
 
-## VH-004 — Every layer participates in vertical constitution equivalently
+Confusing synchronic office-constitution with diachronic accumulation generates false tensions, including treating J and rho as competing operators of one kind, treating primordial constitution as a historical assembly, or treating emergent scale as ontological superiority.
 
-**Kind:** invariance rule
+**Disposition:** retained.
 
-**Content:** Every horizontal layer is vertically constituted by the offices in the same sense. No layer is more or less vertically constituted than another.
+## VH-006 — J and rho occupy different axes
 
-**Parents:** VH-001, VH-003.
+J belongs to the boundary or polarity structure through which the vertical distinction is articulated. Rho belongs to coherence or accumulated standing across the horizontal build. They can interact at an actual crossing without becoming interchangeable.
 
-**Spent by:** prevention of ontological rank-ordering among layers and prevention of confusing complexity with deeper constitution.
+**Disposition:** extracted as a necessary clarification from later detailed usage. The prior wording “J is not history; rho is not constitutive polarity” was correct but too merely prohibitive.
 
-**Standing:** current control rule.
+## VH-007 — Domain closures are horizontal closures under inherited vertical grammar
 
----
+A domain is a closure of a developed horizontal territory under a governing constraint. It is not a second sense of closure and not a new vertical office. An atom, a domain, and another actual can each be closures at different horizontal scales or scopes.
 
-## VH-005 — Collapsing the dimensions generates false problems
+**Disposition:** added to prevent the structural/procedural split previously introduced in error.
 
-**Kind:** diagnostic invariant
+## Completed adjudication ledger
 
-**Content:** Conflating vertical constitution with horizontal accumulation creates false tensions, especially between `J` and `rho`, and confuses primordial composition with historical composition.
-
-**Parents:** VH-001, VH-002.
-
-**Spent by:** `J`/`rho` placement, domain-walk audits, emergence discussions, and failure-mode checks.
-
-**Standing:** current diagnostic rule.
-
----
-
-## Preservation effects
-
-1. The compiler must maintain separate metadata fields for vertical constitution and horizontal genesis.
-2. Layer, altitude, stratum, nesting, and emergence belong to the horizontal unless an explicit source establishes otherwise.
-3. `J` is not to be used as a history-operation; `rho` is not to be used as a constitutive polarity.
-4. A later rendering may consolidate this control page into the foundational architecture, but may not erase the distinction or weaken its diagnostic force.
+- VH-001 through VH-005: retained after corpus-wide search.
+- VH-006: made positive rather than merely exclusionary.
+- VH-007: added from the later clarification that domain closure and actual closure instantiate the same foundational concept.
+- Contradiction repaired: “identical at every layer” no longer suggests identical content.
+- Superseded two-sense account of closure: excluded.
