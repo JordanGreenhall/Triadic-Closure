@@ -1,155 +1,168 @@
-# Supersession Map — Semantic Inventory
+# Supersession Map — Adjudicated Semantic Inventory
 
-Status: compiler working artifact. Source authority: original wiki only, subject to later explicit audit corrections already present in `_compiler/02-audit-repairs-semantic-inventory.md`.
+Status: partially adjudicated compiler artifact. This file records claim-specific routing controls after comparison with later detailed work and explicit current rulings. It does not treat the source overview page as independently canonical.
 
-## Source
+## Governing rule
 
-- `overview/supersession-map.md`
-- Original Google Drive source, modified 2026-06-29.
-
-## Compilation rule
-
-Only living control rules are compiled. Superseded formulations are not preserved as independent semantic units. Historical file names appear only where needed to identify a routing prohibition or the current authoritative replacement.
+Supersession is claim-sensitive. A later summary or status page does not automatically govern a more detailed derivation. For each claim, the compiler must compare the full detailed lineage and identify the strongest current formulation.
 
 ---
 
 ## SUP-001 — Supersession is claim-sensitive routing
 
-**Kind:** compiler control rule
+**Canonical formulation:** A later source supersedes an earlier source only for the claims it explicitly repairs, replaces, or regrades. Supersession is not automatic deletion of an entire document.
 
-**Content:** A later source supersedes an earlier source only for the claims it explicitly repairs, replaces, or regrades. Supersession is not automatic deletion of an entire document unless the control corpus says so.
+**Standing:** current compiler control.
 
-**Parents:** corpus-lineage; claim-standing discipline.
+**Adjudication:** retained. This rule is coherent with the corpus-lineage control and the current compiler method.
 
-**Spent by:** every source-selection and migration decision.
-
-**Standing:** current control rule.
+**Spent by:** every source-selection, migration, and propagation decision.
 
 ---
 
-## SUP-002 — Current dedicated result pages govern earlier synthesis pages
+## SUP-002 — Detailed successful work governs summaries
 
-**Kind:** authority-routing rule
+**Canonical formulation:** Where a detailed derivation, later repair, or downstream successful application establishes a more precise formulation than an overview or status page, the detailed claim-specific lineage governs. Dedicated later result pages normally govern earlier broad syntheses, but a summary label such as `current` is not itself sufficient authority.
 
-**Content:** Where a dedicated later result page resolves a status, construction, or uniqueness question formerly treated in a broad synthesis, the dedicated result page governs that question. Earlier synthesis remains provenance only for the displaced claim.
+**Standing:** current compiler control.
 
-**Parents:** SUP-001.
+**Excluded revival:** document-level authority ordering that allows a compressed summary to override the detailed result.
 
-**Spent by:** F8–F11, gravity, gauge, and other modular result families.
-
-**Standing:** current control rule.
+**Spent by:** every adjudicated semantic object.
 
 ---
 
 ## SUP-003 — The current F8/F9 probability spine uses conserved accumulated standing
 
-**Kind:** result-routing rule
+**Canonical formulation:** The F8 construction of the next-configuration space and coherence-participation functional remains operative. The standing vector is supplied by the later conserved-flow construction: the admissible accumulated standing is stationary conserved flow, not bare adjacency growth. The live quantities are
 
-**Content:** The explicit F8 construction remains the operative derivation, but the standing-vector question it once left open is governed by the later conserved-flow construction: the admissible accumulated standing is the stationary conserved flow, not bare adjacency growth. The live quantities are `π_i = d_i / Σ_j d_j` and `σ_i = √d_i / Z` at the grades established in the dedicated probability documents.
+`π_i = d_i / Σ_j d_j`
 
-**Parents:** current F8 and F9 result pages; conserved-flow construction.
+and
 
-**Spent by:** amplitude, standing-vector, and probability renderings.
+`σ_i = √d_i / Z`,
 
-**Standing:** preserve dedicated-source grades; this inventory performs routing only.
+at the grades established in the detailed probability lineage.
+
+**Standing:** routing control; local substantive grades remain source-specific.
+
+**Adjudication:** F8 alone is incomplete because it leaves the standing-vector construction owed. F9 and the later control discharge that debt. Any summary saying the map remains owed is stale.
+
+**Excluded revival:** bare adjacency growth as accumulated standing.
+
+**Propagation targets:** F8 summaries, probability overviews, gravity-tilt summaries, and any compiler unit that treats `σ` as merely assumed.
 
 ---
 
-## SUP-004 — Gauge structure must begin from the unconditional current result
+## SUP-004 — Gauge structure begins from the unconditional current color result
 
-**Kind:** result-routing rule
+**Canonical formulation:** Color is the This-flattening or interior triadic distinction. The complete alternating occupation of the three interior slots discharges the earlier sector-selection conditional, so SU(3) for same-kind color mediation is unconditional in the current lineage.
 
-**Content:** SU(3) and color structure are to be read from `gauge-structure-result.md` and the consolidated physics walk. Color is the This-flattening or interior triadic distinction. Earlier conditional color-forcing and mediation-carrier accounts do not carry current doctrinal load.
+**Standing:** routing control; detailed gauge grades remain in the gauge derivation.
 
-**Parents:** consolidated physics walk; gauge-structure result.
+**Adjudication:** earlier conditional SU(3), mediation-carrier language, and provisional boson/fermion-pairing routes are development history only.
 
-**Spent by:** internal-structure, color, and gauge compilation.
+**Excluded revival:** `SU(3)` as still conditional on selection A; color as an independent mediation carrier.
 
-**Standing:** current routing rule; substantive grades remain those of the current result pages.
+**Propagation targets:** early internal-structure inventories, D3/D4 summaries, gauge overview language.
 
 ---
 
 ## SUP-005 — The full gravity route is stronger than an external Lovelock import but remains unsealed
 
-**Kind:** status-routing rule
+**Canonical formulation:** The current gravity and GR/QM lineage contains a native one-step-conditioning route to the second-order premise, conditional on the spatial-sector manifold debt. Lovelock supplies rigidity after those premises are admitted. The route is therefore not merely an external import, while full GR and quantum gravity remain unsealed.
 
-**Content:** The current gravity and GR/QM controls use a native one-step-conditioning route to the second-order premise, conditional on the spatial-sector manifold debt. Lovelock supplies rigidity after those premises are admitted. The route must not be described as merely imported, but neither full GR nor quantum gravity is sealed.
+**Standing:** routing and scope control; local grades remain source-specific.
 
-**Parents:** GR/QM control pages; gravity result pages; audit correction on G1.
+**Scope:** the G1 manifold debt is spatial-sector-only and may not be inherited by unrelated internal quantitative claims.
 
-**Spent by:** gravity, curvature, Einstein-route, and GR/QM renderings.
-
-**Relations:** G1 inheritance is spatial-sector-only; internal quantitative results do not inherit it.
-
-**Standing:** routing and scope control; local claim grades remain source-specific.
+**Excluded revival:** describing the whole route as merely imported; describing full GR or quantum gravity as sealed.
 
 ---
 
-## SUP-006 — Lambda claims must separate structure, scaling, coefficient, and dynamics
+## SUP-006 — Lambda claims must remain separated by semantic layer
 
-**Kind:** grading-separation rule
+**Canonical formulation:** Lambda has a framework meaning as gravitational stress-energy of reflexive self-closure. The following claims remain distinct:
 
-**Content:** Lambda has a live framework interpretation as the gravitational stress-energy of self-closure. Structural sign, metric proportionality, and `R_H^-2` scaling must be kept distinct from the proposed complete-closure coefficient and from dynamics such as `w(z)`. The identity `Λ = 3 Ω_Λ R_H^-2` is definitional and cannot serve as empirical confirmation.
+1. framework meaning, tensor form, sign, and `w = -1` structure;
+2. scaling `Λ ∼ R_H^-2`;
+3. the complete-closure coefficient `3` in `Λ_complete = 3R_H^-2`;
+4. the present state-input expression `Λ_present = 3f_reflexive R_H^-2`;
+5. framework-native dynamics and `w(z)`.
 
-**Parents:** `lambda-derived.md`; GR/QM control pages; audit correction AUD-013.
+**Standing:** preserve the detailed source grades: structure and scaling Registered; coefficient Conjectured-strong; present value derived only with empirical state input; dynamics Open.
 
-**Spent by:** cosmology and external-claim renderings.
+**Adjudication:** the identity involving the observed dark-energy fraction is not independent empirical confirmation and does not derive `f_reflexive`.
 
-**Standing:** structure and scaling retain their source grades; coefficient and dynamics retain their separately stated grades.
-
----
-
-## SUP-007 — Exact 3+1 dimensionality may not be supported by discarded shortcut routes
-
-**Kind:** proof-route control
-
-**Content:** The current 3+1 account rests on the triadic exactly-three warrant together with horizontal With-flattening for three spatial degrees and From-succession for one temporal direction. D6 stability and ternary-coalgebra arguments may not be used as the primary proof, and arity alone does not force dimension.
-
-**Parents:** dimension-and-spacetime control; foundational exactly-three profile.
-
-**Spent by:** dimensionality and spacetime renderings.
-
-**Relations:** exact local Lorentz carries its own defended-posit ceiling and must not be conflated with the dimension count.
-
-**Standing:** route control; final status must follow the current dimension-and-spacetime ledger and audit.
+**Excluded revival:** imported FRW/Friedmann or holographic-dark-energy dynamics as framework-derived; coefficient 3 as Registered; observed composition as internally derived.
 
 ---
 
-## SUP-008 — Historical physics reconstructions are provenance, not fallback doctrine
+## SUP-007 — Exact 3+1 dimensionality is grounded in flattening, not discarded shortcut routes
 
-**Kind:** source-use prohibition
+**Canonical formulation:** Exact `3+1` consists of three interchangeable With-flattened spatial degrees plus one oriented From-succession direction. It stands at the same architectonic strength as the triadic exactly-three posit and horizontal flattening.
 
-**Content:** Package-era opening reconstructions, broad F8–F11 synthesis, early internal-structure moves, and earlier D3/D4 walk documents may be consulted for development history or unresolved source tracing. They cannot override consolidated or dedicated current result pages.
+**Standing:** Registered and Sealed at architectonic/defended-posit strength, not proof-assistant theorem strength.
 
-**Parents:** corpus-lineage; SUP-001, SUP-002.
+**Adjudication:** package-era open or deprecated-status language is superseded. D6 stability is supporting only. Ternary arity or coalgebra does not independently force dimension three.
 
-**Spent by:** all physics-source selection.
+**Excluded revival:** empirical-trajectory-only status; arity-to-dimension shortcut; D6 stability as the whole proof.
 
-**Standing:** current control rule.
+**Relation:** exact local Lorentz carries its own defended-posit ceiling and must not be conflated with the dimensionality claim.
 
 ---
 
-## SUP-009 — Consolidation must preserve current derivations and explicit open joints
+## SUP-008 — The current proton/electron mass ratio is a bounded correction to the `6π^5` principal term
 
-**Kind:** compiler obligation
+**Canonical formulation:**
 
-**Content:** Future consolidation should produce clean gravity and gauge/internal-structure derivations while preserving the exact live status of unresolved dependencies. Consolidation may remove obsolete routes from the living graph, but may not erase an open hinge, downgrade, falsifier, or conditional dependency carried by the current sources.
+`m_p / m_e = 6π^5 [1 + c(3π^4)^(-2)]`,
 
-**Parents:** living-content rule; source-sensitive supersession.
+with
 
-**Spent by:** canonical rendering after full corpus ingestion.
+`3/2 ≤ c ≤ 9/4`.
+
+**Semantic structure:**
+
+- `6π^5` is the principal term;
+- `(3π^4)^(-2)` is the framework correction scale;
+- `c` is constrained to the stated interval;
+- exact selection of `c` remains unresolved unless and until a later detailed derivation fixes it.
+
+**Adjudication:** This formulation replaces the obsolete expression `6π^5(1 + ε_FW)` in which the observed residual was treated as an independently inserted or wholly Open chiral quantity. Removing that obsolete notation does not remove the framework ratio.
+
+**Standing:** the bounded formula is the current authoritative framework formulation. Component grades must be recovered from the detailed derivation that establishes the correction scale and coefficient bounds; they may not be inferred from the obsolete mass summary.
+
+**Excluded revival:**
+
+- `ε_FW` as the canonical correction object;
+- the claim that the framework has no proton/electron ratio;
+- use of an observed residual as a substitute for the bounded internal correction form.
+
+**Propagation targets:** mass derivation, mass overview, physics mature-status page, neutron work, flavor/chiral pages, chemistry inheritance, and every compiler unit that cites the old residual formulation.
+
+**Evidence note:** the current formula is governed by Jordan Hall's explicit present adjudication and must be matched to its detailed corpus derivation during the mass-family repair pass.
+
+---
+
+## SUP-009 — Historical reconstructions are provenance, not fallback doctrine
+
+**Canonical formulation:** Package-era opening reconstructions, broad syntheses, early internal-structure moves, and displaced walk documents may be used for development history or source tracing. They cannot override the adjudicated living semantic object.
+
+**Standing:** current compiler control.
+
+**Adjudication:** retained, but strengthened: a later overview is also not fallback doctrine when it conflicts with more advanced detailed work.
+
+---
+
+## SUP-010 — Consolidation must preserve derivations, open joints, and propagation obligations
+
+**Canonical formulation:** Consolidation may remove obsolete routes from the living graph, but it may not erase a live dependency, qualification, falsifier, conditional scope, unresolved coefficient, or propagation target. Every deleted formulation must either have an identified living replacement or be explicitly abandoned by the corpus.
 
 **Standing:** current compiler obligation.
 
 ---
 
-## Adjudication note
+## Adjudication status
 
-Where this 2026-06-29 control page conflicts with the later supplemental foundation audit, the audit governs only the specific repaired claim and only at its stated grade. In particular:
-
-- G1 debt is spatial-sector-only.
-- The present-value Lambda identity is definitional, not confirmatory.
-- Exact local Lorentz is a defended posit under the totalization ceiling.
-- Deprecated status vocabulary is not reintroduced.
-
-No other claim is silently promoted or demoted by this inventory.
+The probability, gauge, gravity, Lambda, dimensionality, and proton/electron ratio controls above have received an initial corpus-wide adjudication. They remain subject to refinement when their full detailed source families are individually compiled. No overview statement in this file may be used to bypass those detailed derivations.
