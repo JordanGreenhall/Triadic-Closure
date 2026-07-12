@@ -1,158 +1,169 @@
-# Audit Repairs Semantic Inventory
+# Audit Repairs Semantic Inventory — Corpus-Adjudicated
 
-Status: compiler working artifact. This file inventories living repair instructions from `archivist-instructions-foundation-audit.md`. It is not canonical theory and does not promote any instruction beyond its stated grade.
+Status: compiler working artifact. This file records living supplemental repair instructions only. It does not promote an instruction beyond its stated grade, and no entry governs a target claim until checked against the detailed target derivation and later downstream work.
 
-## Compilation rule
+## Governing rule
 
-- Include only repairs, limitations, interpretations, and dependency corrections that remain live.
-- Omit retired derivations, deprecated terminology, and presentation-only artifacts.
-- Keep structural claim, empirical comparison, definition, interpretation, and open debt distinct.
-- Normalize claim standing to the living vocabulary; descriptions of warrant route remain separate metadata.
+Each entry below was checked against the original Drive corpus by its principal terminology, target file, later status/control pages, and downstream expenditures. The supplemental audit is evidence of repair, not automatic theory authority. Claim standing and warrant route remain separate.
 
 ---
 
-## AUD-003 — The S3 fiber unit derives from closure-space construction
+## AUD-003 — The `S^3` fiber unit is supplied by closure-space construction
 
-In the `2π^5` derivation, the `S3` factor is the unit standing-space in the orthogonal complement of the first `C3` moment, not an imported identification with unit quaternions. The same restricted self-pairing that fixes the `S5` radius fixes the `S3` radius. The third moment contributes no measure because orthonormal completion leaves a `U(1)` phase fixed by `det = 1`.
+In the `2π^5` route, the `S^3` factor is the unit standing-space in the orthogonal complement of the first `C^3` moment, rather than an imported quaternionic identification. The restricted self-pairing fixes both the `S^5` and `S^3` units; orthonormal completion leaves the final `U(1)` phase fixed by `det=1`, so it contributes no independent measure.
 
-**Targets:** `closure-inherited-metric.md`; mass-ratio cross-references.
+**Adjudication:** retained as a live repair to `closure-inherited-metric.md`. The corpus contains no later detailed reversal. It clarifies the warrant for `2π^5`; it does not by itself establish the proton/electron correction term.
 
-**Standing:** Registered-candidate.
-
-**Residual:** verify that invariant measure and scale fixing spend only registered parents.
+**Claim standing:** Conjectured pending target-page verification of every parent.
+**Warrant route:** construction and normalization audit.
 
 ---
 
 ## AUD-004 — Mass is linear in closure measure by additive invariance
 
-Re-selection maintains the whole no-distinction orbit; coherence participation over registrably distinct configurations adds; no configuration is privileged. An additive invariant set-function on the homogeneous closure-space is therefore proportional to invariant measure. Nonlinear alternatives fail additivity. The self-pairing unit fixes scale, and the electron point-orbit receives measure one in that unit.
+Re-selection maintains the whole no-distinction orbit. Coherence participation over registrably distinct configurations is additive and no configuration is privileged. The admissible invariant set-function is therefore proportional to invariant measure; nonlinear alternatives violate additivity. The self-pairing fixes the unit and the electron point-orbit is assigned measure one in that unit.
 
-**Targets:** `mass-derivation-three-faces.md`; `mass-as-self-closure.md`.
+**Adjudication:** retained as the repair needed to justify the linear use of closure measure. It supports the principal `6π^5` spine but does not settle the bounded correction coefficient `c`.
 
-**Standing:** Registered-candidate.
-
-**Residuals:** the dynamic re-coherence claim and cross-dimensional comparison through dimensionless standing units require explicit verification.
-
----
-
-## AUD-005 — The three-seat additive join follows from mass linearity
-
-Three registrably distinct holdings, each requiring whole-closure maintenance, combine additively as `3 × 2π^5`. The result does not depend on an exhaustive list of product, distribution, and addition cases. A single undifferentiated joint bearing is excluded because it is blind to registered distinction.
-
-**Parent:** AUD-004.
-
-**Standing:** Registered-candidate.
+**Claim standing:** Conjectured pending explicit verification in the mass target pages.
+**Warrant route:** invariant-measure construction plus additivity.
 
 ---
 
-## AUD-006 — The chiral coupling operator space is the commutant of h
+## AUD-005 — Three-seat bearing is additive once mass linearity is secured
 
-The operators compatible with the only registered direction are exactly `span{I,h}`. Rotations about the arrow form the registered `U(1)` symmetry generated by `h`; a transverse Pauli coupling would manufacture an unregistered direction. Because `h` is nondegenerate, its commutant in the two-dimensional algebra is `span{I,h}`.
+Three registrably distinct holdings, each requiring whole-closure maintenance, combine as `3×2π^5`. A single undifferentiated joint bearing is excluded because it erases registered distinction.
 
-**Target:** `chiral-coupling-result.md`.
+**Adjudication:** retained, dependent on AUD-004. It is the warrant for the factor `3` in the principal term and must not be confused with three colors, three independent closures, or a cubic product.
 
-**Standing:** Registered-candidate.
-
----
-
-## AUD-007 — Gleason non-contextuality follows from held/registered discipline
-
-Every orthonormal basis is an admissible fork because registrable distinctness is orthogonality. Propensity depends on the alternative's registered relation to the state, not on held co-alternatives. Fork-total constancy expresses the registered fact that exactly one alternative actualizes and is not modulated by held decomposition.
-
-**Targets:** amplitude/readout and mathematization pages.
-
-**Standing:** Registered-candidate.
-
-**Effect:** together with AUD-001, removes `frequency=weight` as a live dependency.
+**Claim standing:** Conjectured pending AUD-004 verification.
+**Warrant route:** consequence of additive invariance.
 
 ---
 
-## AUD-008 — The chemistry-gate spectrum is a native fixed-point result conditional on G1
+## AUD-006 — The chiral coupling operator space is the commutant of `h`
 
-A standing is a fixed point of re-selection, so stationarity is definitional. The maintenance functional is the quadratic pairing on one-step conditioning mismatch between neighboring seatings, yielding the gradient-squared term through the same locality instrument used in the second-order field equation. Casimir pricing gives `l(l+1)/r^2`; the fixed-point tower with unit coherence and normalizability yields the `-1/n^2` spectrum.
+The operators compatible with the only registered direction are `span{I,h}`. Rotations about the arrow give the registered `U(1)` generated by `h`; a transverse Pauli operator would manufacture an unregistered direction. Since `h` is nondegenerate, its commutant in the two-dimensional algebra is `span{I,h}`.
 
-**Target:** `physics-chemistry-gate-crossing.md`.
+**Adjudication:** retained as a proposed repair to `chiral-coupling-result.md`. No later detailed source located in the corpus discharges the target-page verification requirement.
 
-**Standing:** Registered-candidate, conditional on G1 where spatial structure is spent.
-
----
-
-## AUD-010 — The Lorentz result is sealed only on a given manifold
-
-Alexandrov–Zeeman seals the matured metric conditional on a given manifold. Manifold recovery remains incompletely sealed under G1. Result pages must not report unconditional spacetime closure.
-
-**Targets:** Lorentz, propagation, and spacetime-status pages.
-
-**Standing:** Registered on a given manifold; manifold recovery remains Registered with sealing incomplete.
+**Claim standing:** Conjectured.
+**Warrant route:** commutant calculation under the registered-direction restriction.
 
 ---
 
-## AUD-011 — G1 debt is confined to the spatial sector
+## AUD-007 — Gleason non-contextuality is grounded in held/registered discipline
 
-Dimension is native Registered; criticality and global frame freedom are Registered; smoothness is Registered with sealing incomplete under a named universality import; exact local Lorentz framing is a Defended posit under the totalization ceiling. Internal quantitative results such as Born structure, carrier structure, and mass measure do not inherit G1 merely because other physics results do.
+Every orthonormal basis is an admissible fork because registrable distinctness is orthogonality. Propensity depends on an alternative's registered relation to the state, not on merely held co-alternatives. Fork-total constancy expresses that exactly one alternative actualizes and is not changed by held decomposition.
 
-**Effect:** prevents over-inheritance of spatial caveats.
+**Adjudication:** retained. Together with the detailed F8 construction, this supplies the native non-contextuality premise. The old `frequency=weight` demand is not a live dependency.
+
+**Claim standing:** Conjectured pending full target-page integration.
+**Warrant route:** reconstruction of Gleason's premise from held/registered structure.
 
 ---
 
-## AUD-012 — The cubic fixed-point rival is excluded by the absence of registered lattice axes
+## AUD-008 — The chemistry-gate spectrum is a native fixed-point route conditional on spatial recovery
 
-A cubic fixed point requires registered lattice axes. The substrate supplies none: With-degrees are interchangeable and arrow rotatability is registered. Anisotropy would manufacture an unregistered directional distinction. The remaining issue is the exactness ceiling on continuous symmetry from a discrete base, not an unexamined cubic rival.
+A standing is a fixed point of re-selection, so stationarity is definitional. The maintenance functional is the quadratic pairing on one-step conditioning mismatch between neighboring seatings; locality yields the gradient-squared term. Casimir pricing gives `l(l+1)/r^2`; unit coherence and normalizability yield the `-1/n^2` tower.
 
-**Standing:** Registered-candidate.
+**Adjudication:** retained only as a candidate parent of chemistry where the detailed gate derivation actually spends it. Every use of `r`, neighborhood, or surrounding structure inherits the spatial-sector G1 limitation.
+
+**Claim standing:** Conjectured, conditional on spatial recovery.
+**Warrant route:** fixed-point construction and spectral recognition.
+
+---
+
+## AUD-010 — Lorentz closure is conditional on a given manifold
+
+Alexandrov–Zeeman seals the matured causal/metric structure only on a given manifold. Manifold recovery remains incompletely sealed under G1. No result page may report unconditional spacetime closure.
+
+**Adjudication:** retained. This is a scope correction, not a new Lorentz derivation.
+
+**Claim standing:** Registered for the conditional result on a given manifold; manifold recovery remains Registered with sealing incomplete.
+**Warrant route:** conditional theorem application plus scope audit.
+
+---
+
+## AUD-011 — G1 debt is confined to claims that spend spatial structure
+
+Dimension, criticality, frame freedom, smoothness, and exact local Lorentz framing carry their own distinct grades and routes. Internal quantitative claims such as probability structure, carrier structure, and closure measure do not inherit G1 merely because they occur inside physics.
+
+**Adjudication:** retained as a dependency correction. `Defended posit` is a warrant/standing category of the foundational method, not one of the four physics status labels; exact local Lorentz must therefore carry both its live physics status and its defended-posit warrant ceiling separately.
+
+**Claim standing:** current dependency-control rule.
+
+---
+
+## AUD-012 — The cubic fixed-point rival requires unregistered lattice axes
+
+A cubic fixed point presupposes registered lattice axes. The substrate supplies interchangeable With-degrees and a rotatable arrow, not privileged axes. Anisotropy would therefore add an unregistered directional distinction. The remaining issue is the exactness ceiling on continuous symmetry from a discrete base.
+
+**Adjudication:** retained as a live rival-exclusion argument, not as proof of every continuum property.
+
+**Claim standing:** Conjectured pending target-page adversarial verification.
+**Warrant route:** exclusion by absence of registered directional structure.
 
 ---
 
 ## AUD-013 — The present-value Lambda identity is definitional, not confirmatory
 
-`Λ = 3 Ω_Λ R_H^-2` merely unpacks the definition of `Ω_Λ` and cannot serve as empirical confirmation. Empirical content lies in the observed dimensionless coefficient `ΛR_H^2`, approximately `2.05`, compared with the complete-closure value `3`. Structural claims concerning positive sign, `w = -1`, metric proportionality, and `R_H^-2` scaling must be graded separately.
+`Λ=3Ω_ΛR_H^{-2}` unpacks the definition of `Ω_Λ`; it cannot independently confirm the framework. The structural meaning, sign, metric proportionality, `w=-1`, `R_H^{-2}` scaling, complete-closure coefficient `3`, empirical present-state fraction, and dynamics must remain separate claims.
 
-**Standing:** definitional identity, structural claims, and empirical comparison are distinct entries rather than one result.
+**Adjudication:** retained and corroborated by the current detailed `lambda-derived.md`. The complete-closure coefficient remains weaker than the structural and scaling claims; `f_reflexive≈Ω_DE` is observational input, not framework derivation.
+
+**Claim standing:** definitional identity; local structural and coefficient grades remain those of the detailed Lambda page.
 
 ---
 
-## AUD-014 — Background flatness follows from the absence of a third conditioning mode
+## AUD-014 — Background flatness follows conditionally from two-mode exhaustiveness
 
-Background curvature `k` has no carrier if there is no arena-substance bearing unsourced curvature and no third conditioning mode. Under those parents, `k = 0` for the background mode. Perturbation curvature at the measurement floor is sourced structure expressed in curvature units, not background curvature.
+Unsourced background curvature has no carrier if there is neither arena-substance nor a third conditioning mode. Under those parents, the background mode has `k=0`; perturbative sourced curvature is a different object.
 
-**Standing:** Registered-candidate, conditional on two-mode exhaustiveness and G1.
+**Adjudication:** retained as conditional. It is not an unconditional derivation of observed flatness.
 
+**Claim standing:** Conjectured, conditional on two-mode exhaustiveness and G1.
 **Falsifier:** confirmed absolute `Ω_k` above the perturbation floor.
 
 ---
 
-## AUD-015 — No intrinsic gravitational decoherence floor remains a Lead
+## AUD-015 — Absence of an intrinsic gravitational decoherence floor remains open
 
-The discrete substrate may itself store which-path information. Until that possibility is checked, the absence of an intrinsic gravitational decoherence floor is not Registered.
+The discrete substrate may itself retain which-path information. Until this is checked, the framework has not registered the absence of an intrinsic gravitational decoherence floor.
 
-**Standing:** Lead with an owed check.
+**Adjudication:** retained as an open research joint. The obsolete label `Lead` is not used as claim standing.
 
----
-
-## AUD-016 — Cross-domain handoff follows unconsumed residue
-
-The proposed general form is that a successor domain inhabits residue not consumed by the predecessor's closure, while its D7 element maximizes successor recursion. The exhibited instance is charge closure → shell edge → chemistry, with carbon as the catenation maximizer.
-
-**Standing:** Registered-candidate as a generalization from one exhibited transition.
-
-**Limitation:** one instance does not establish unrestricted generality.
+**Claim standing:** Open.
 
 ---
 
-## AUD-017 — The cosmological two-mode budget is interpretation-grade
+## AUD-016 — Cross-domain handoff may follow unconsumed residue
 
-Matter and `Λ` may be read as transitive and reflexive conditioning modes and compared with the two Lovelock terms. This is presently an interpretation, not a derivation.
+The proposed general form is that a successor domain inhabits residue not consumed by the predecessor's closure, while its D7 element maximizes successor recursion. The exhibited case is charge closure → shell edge → chemistry, with carbon proposed as the catenation maximizer.
 
-**Standing:** Interpretation-grade; it carries no derivational load.
+**Adjudication:** retained only as a generalization from one worked transition. The example cannot establish a universal handoff law.
+
+**Claim standing:** Conjectured.
+**Warrant route:** generalization from an exhibited case.
 
 ---
 
-## Governing dependency effects
+## AUD-017 — The cosmological two-mode budget is interpretive
 
-1. AUD-003 and AUD-004 must be verified before canonical mass rendering.
-2. AUD-001 plus AUD-007 removes `frequency=weight` from the live probability dependency graph.
-3. AUD-008 is a parent of the chemistry walk wherever its spectrum is spent.
-4. AUD-011 prevents G1 from propagating into internal-sector claims without a spatial dependency.
-5. AUD-013 requires strict separation of definition, structural derivation, and empirical comparison.
-6. AUD-016 remains candidate-level until additional domain transitions are exhibited.
-7. No canonical page may be rewritten from this audit inventory alone; the target result pages and their original sources still require semantic extraction.
+Matter and `Λ` may be read as transitive and reflexive conditioning modes and compared with the two Lovelock terms.
+
+**Adjudication:** retained as interpretation only. It carries no derivational load and cannot be spent as proof of the Lambda coefficient or cosmic composition.
+
+**Claim standing:** Conjectured as interpretation; non-load-bearing.
+
+---
+
+## Governing effects
+
+1. AUD-003 through AUD-005 must be integrated with the detailed mass derivations before canonical mass rendering.
+2. The authoritative proton/electron ratio is `6π^5[1+c(3π^4)^{-2}]`, with `3/2≤c≤9/4`; none of these audit entries restores the obsolete `ε_FW` formulation.
+3. AUD-007 removes `frequency=weight` from the live probability dependency graph but does not eliminate the need to verify the F8/F9 construction itself.
+4. AUD-008 is inherited by chemistry only where its actual spectrum is spent.
+5. AUD-011 blocks indiscriminate propagation of G1.
+6. AUD-013 requires strict separation of definitions, structural derivations, coefficients, empirical inputs, and dynamics.
+7. No canonical theory page may be rewritten from this inventory alone; detailed target derivations govern substantive content.
