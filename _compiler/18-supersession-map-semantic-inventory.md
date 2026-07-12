@@ -112,7 +112,7 @@ at the grades established in the detailed probability lineage.
 
 ---
 
-## SUP-008 — The current proton/electron mass ratio is a bounded correction to the `6π^5` principal term
+## SUP-008 — The current proton/electron mass ratio includes the exact With–This factor and the bounded From–With correction
 
 **Canonical formulation:**
 
@@ -124,22 +124,27 @@ with
 
 **Semantic structure:**
 
-- `6π^5` is the principal term;
-- `(3π^4)^(-2)` is the framework correction scale;
+- `6π^5` is the exact With–This color-seating factor within the ratio; it is never the complete proton/electron ratio by itself;
+- `(3π^4)^(-2)` is the framework-derived second-order From–With correction scale;
 - `c` is constrained to the stated interval;
-- exact selection of `c` remains unresolved unless and until a later detailed derivation fixes it.
+- observation places `c ≈ 1.6076`, equivalently `ε_FW ≈ 1.8825 × 10^-5`;
+- only the exact internal selection of `c` remains unresolved unless and until a later detailed derivation fixes it.
 
-**Adjudication:** This formulation replaces the obsolete expression `6π^5(1 + ε_FW)` in which the observed residual was treated as an independently inserted or wholly Open chiral quantity. Removing that obsolete notation does not remove the framework ratio.
+**Adjudication:** This formulation replaces both the truncation `m_p/m_e = 6π^5` and the obsolete expression `6π^5(1 + ε_FW)` in which the observed residual was treated as an independently inserted or wholly Open chiral quantity. Removing that obsolete notation does not remove the framework ratio or the structural content of the correction.
 
-**Standing:** the bounded formula is the current authoritative framework formulation. Component grades must be recovered from the detailed derivation that establishes the correction scale and coefficient bounds; they may not be inferred from the obsolete mass summary.
+**Standing:** the bounded formula is the current authoritative framework formulation. The exact With–This factor, the multiplicative placement of the correction, its positive sign, its second-order scale, and the coefficient bounds are part of the current result. Only the exact selection of `c` within the forced interval remains Open.
+
+**Canonical reporting rule:** Whenever the proton/electron ratio is stated, the complete bounded expression and coefficient interval must be given. `6π^5` may appear alone only when explicitly identified as the exact With–This factor used inside the full ratio. It may not be called the proton mass, the proton/electron ratio, the mass-as-such, or a separate “leading-order ratio.”
 
 **Excluded revival:**
 
-- `ε_FW` as the canonical correction object;
+- `6π^5` as the complete proton/electron ratio;
+- `ε_FW` as the canonical correction object without its derived scale and bounds;
 - the claim that the framework has no proton/electron ratio;
-- use of an observed residual as a substitute for the bounded internal correction form.
+- use of an observed residual as a substitute for the bounded internal correction form;
+- language that demotes the bracketed factor to optional precision polish.
 
-**Propagation targets:** mass derivation, mass overview, physics mature-status page, neutron work, flavor/chiral pages, chemistry inheritance, and every compiler unit that cites the old residual formulation.
+**Propagation targets:** mass derivation, mass overview, physics mature-status page, neutron work, flavor/chiral pages, chemistry inheritance, and every compiler unit that cites the old residual formulation or uses `6π^5` metonymically for the whole proton mass.
 
 **Evidence note:** the current formula is governed by Jordan Hall's explicit present adjudication and must be matched to its detailed corpus derivation during the mass-family repair pass.
 
