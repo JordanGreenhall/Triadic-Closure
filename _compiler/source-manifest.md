@@ -39,7 +39,9 @@ The chemistry deposit must be checked claim by claim against the living versions
 - current realizability/probability results;
 - current flavor/neutron work where actually spent;
 - the current mass semantic object, including the authoritative proton/electron form
-  `6π^5[1 + c(3π^4)^-2]`, `3/2 ≤ c ≤ 9/4`, rather than the obsolete `ε_FW` formulation.
+  `m_p / m_e = 6π^5[1 + c(3π^4)^-2]`, with `3/2 ≤ c ≤ 9/4`.
+
+Within that expression, `6π^5` is the exact With–This color-seating factor, not the complete proton/electron ratio. The bracketed form, positive sign, second-order scale, and coefficient bounds are part of the inherited result. Only the exact internal selection of `c` remains Open; observation places `c ≈ 1.6076`, equivalently `ε_FW ≈ 1.8825 × 10^-5`. Chemistry may abbreviate the factor only when it explicitly names it as the With–This factor and does not report it as the proton mass or ratio.
 
 A filename in the declared dependency list is routing evidence, not automatic authority for every claim in that file.
 
