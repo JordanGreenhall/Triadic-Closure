@@ -1,138 +1,83 @@
-# Claim Status Vocabulary Semantic Inventory
+# Claim-Status Vocabulary — Adjudicated Semantic Inventory
 
-Status: compiler working artifact. Source authority: original wiki only.
+Status: corpus-wide adjudicated compiler artifact. The original claim-status control was checked against later physics status matrices, work plans, GR/QM ledgers, result pages, audit repairs, and current detailed derivations.
 
-## Source
+## Corpus-wide finding
 
-- `concepts/claim-status-vocabulary.md`
-- Drive file ID: `1ly4Tkcer4TyBQDQk6nefnqvQueDjScsB`
+The four live claim standings remain:
 
-## Preservation rule
+1. **Open**
+2. **Conjectured**
+3. **Registered**
+4. **Registered and Sealed**
 
-This source is a control document. Only living semantic units are compiled. Deprecated or eliminated terminology is not assigned a semantic identity.
-
----
-
-## CSV-001 — Modal status must be preserved exactly
-
-**Kind:** control invariant
-
-**Content:** Future agents must preserve the modal status assigned to a claim exactly.
-
-**Source:** opening directive.
-
-**Parents:** none internal to this source.
-
-**Spent by:** every later compiler pass, migration decision, canonical rendering, and status summary.
-
-**Standing:** current control rule.
+Later documents sometimes use expressions such as `Conjectured-strong`, `derived-with-empirical-state-input`, `defended posit`, `forced`, `checked`, or `argued`. Corpus-wide adjudication shows that these expressions do not establish additional claim-status grades. They describe warrant strength, dependency conditions, empirical inputs, or route. They must be represented in separate metadata rather than silently expanding the standing vocabulary.
 
 ---
 
-## CSV-002 — The live physics-claim status vocabulary has four members
+## CSV-001 — Modal standing must be preserved exactly
 
-**Kind:** controlled vocabulary
+A compiler, summary, or later document must preserve the live standing of each claim and may not promote it by compression, terminology, or rhetorical confidence.
 
-**Content:** Live physics claims use exactly four statuses: Open, Conjectured, Registered, and Registered and Sealed.
+**Disposition:** retained.
 
-**Source:** `Live claim statuses`.
+## CSV-002 — The live standing vocabulary has four members
 
-**Parents:** CSV-001.
+The authoritative standings are Open, Conjectured, Registered, and Registered and Sealed.
 
-**Spent by:** physics ledgers, result-page summaries, and canonical status assignments.
+**Disposition:** retained. Later compound expressions are normalized into one of these four standings plus separate warrant, condition, confidence, or input metadata.
 
-**Standing:** current control rule.
+## CSV-003 — Open
 
----
+Open marks an explicitly unclosed claim, dependency, or joint that remains on the work frontier. It may be discussed or used as a named dependency, but it may not be spent downstream as though closed.
 
-## CSV-003 — Open marks an explicitly unclosed work frontier
+**Disposition:** retained and clarified.
 
-**Kind:** status definition
+## CSV-004 — Conjectured
 
-**Content:** Open means the claim or joint is explicitly not closed and remains part of the work frontier.
+Conjectured marks a live proposal not yet registered by the framework. Qualifiers such as “strong” may describe evidential or argumentative strength but do not create a fifth standing.
 
-**Parents:** CSV-002.
+**Disposition:** retained and clarified.
 
-**Spent by:** frontier ledgers and prohibition on downstream expenditure as closed structure.
+## CSV-005 — Registered
 
-**Standing:** definition.
+Registered means that the framework reaches the claim in essence or under explicitly stated conditions, while full closure, uniqueness, bidirectional identity, or sealing remains incomplete. Conditions and unresolved debts must travel with the claim.
 
----
+**Disposition:** retained and strengthened against condition loss.
 
-## CSV-004 — Conjectured marks a live proposal not registered by the framework
+## CSV-006 — Registered and Sealed
 
-**Kind:** status definition
+Registered and Sealed means that the framework has closed the relevant content identity or equivalent relation sufficiently that the recognized name carries no unearned surplus within the stated scope. Sealing is scope-sensitive; it does not automatically seal every theorem, extension, numerical value, or conventional association attached to the name elsewhere.
 
-**Content:** Conjectured means plausible and live, but not yet registered by the framework.
+**Disposition:** retained with scope clarification.
 
-**Parents:** CSV-002.
+## CSV-007 — Standing and warrant route are distinct axes
 
-**Spent by:** candidate hypotheses, provisional routes, and downgrade decisions.
+Retorsion-secured, forced, defended posit, selection, recognition, construction, checked, argued, and derived-with-input describe how or under what conditions a claim is supported. They do not replace its standing.
 
-**Standing:** definition.
+**Disposition:** retained. This distinction is required to normalize later corpus usage.
 
----
+## CSV-008 — Translation and summary may not upgrade standing
 
-## CSV-005 — Registered marks essential or conditional framework reach without full sealing
+A summary may clarify or, where evidence requires, downgrade a claim. It may never strengthen the standing merely because it omits conditions, open joints, or route limitations.
 
-**Kind:** status definition
-
-**Content:** Registered means the framework reaches the item in essence or under stated conditions, while sealing or full closure remains incomplete.
-
-**Parents:** CSV-002.
-
-**Spent by:** conditional results and essential-form claims.
-
-**Standing:** definition.
+**Disposition:** retained.
 
 ---
 
-## CSV-006 — Registered and Sealed marks bidirectional content identity or equivalent closure
+## Normalization rules forced by later corpus usage
 
-**Kind:** status definition
+- `Conjectured-strong` → **Conjectured**, with `warrant-strength: strong`.
+- `derived-with-empirical-state-input` → assign the standing justified by the derivation, while recording the empirical input and conditionality separately; the phrase itself is not a standing.
+- `defended posit` → warrant profile, not standing.
+- `forced` → warrant route, not standing.
+- `current`, `control`, `mature`, and `confidence: high/medium` → document or confidence metadata, not claim standing.
+- A page-level status never determines the standing of every sentence in the page.
+- A sealed recognition is sealed only over the content actually identified; surplus associations remain excluded.
 
-**Content:** Registered and Sealed means bidirectional content identity, or equivalent framework closure, such that the named item carries no surplus load beyond the registered structure.
+## Completed adjudication ledger
 
-**Parents:** CSV-002, sealed-recognition discipline from Architectonic Rigor.
-
-**Spent by:** mature equivalence claims and terminology allowed to carry its full registered content.
-
-**Standing:** definition.
-
----
-
-## CSV-007 — Instrument vocabulary and live claim status are distinct axes
-
-**Kind:** categorical distinction
-
-**Content:** Retorsion-secured, forced, defended posit, selection, recognition, checked, and argued describe the instrument or evidence behind a claim. They do not replace the live claim status, which for the physics wiki must be one of the four statuses in CSV-002.
-
-**Parents:** CSV-002; Architectonic Rigor.
-
-**Spent by:** prevention of status inflation and the later crosswalk between warrant-route and claim-standing.
-
-**Standing:** current control rule.
-
----
-
-## CSV-008 — Status may never be upgraded in translation or summary
-
-**Kind:** execution rule
-
-**Content:** Never upgrade status. `Argued` may not be reported as `proved`; summaries and canonical rewrites must preserve or weaken the source standing, never strengthen it.
-
-**Parents:** CSV-001, CSV-007.
-
-**Spent by:** every compiler summary and canonical rewrite.
-
-**Standing:** current control rule.
-
----
-
-## Dependency and preservation effects
-
-1. Live status and warrant-route must remain separate metadata fields in the compiler graph.
-2. No deprecated or eliminated status receives a semantic unit in the living compiler graph.
-3. No later document may use `forced`, `recognition`, `selection`, or similar route language as a substitute for one of the four live physics statuses.
-4. Any canonical summary inherits the weakest live status of the claims it summarizes; prose compression cannot promote standing.
-5. This source does not define any later expanded status vocabulary. Any expansion must be separately sourced and related to, not silently substituted for, this four-status control document.
+- CSV-001 through CSV-008: checked against the current status matrix, work plan, GR/QM ledgers, Lambda, dimensionality, gauge, probability, mass, and audit usage.
+- Substantive contradiction found: later documents sometimes present compound route/confidence phrases in the syntactic position of statuses.
+- Repair: preserve the four-standing vocabulary and split compound phrases into standing plus separate metadata.
+- Deprecated status identities retained: none.
