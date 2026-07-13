@@ -176,7 +176,7 @@ closure volume).** The interior-only ratio is `6π⁵/2π = 3π⁴`. **[Register
 
 ### 4.2 The normalization `3π⁴`
 
-Because `3π⁴ = 6π⁵/2π` is the proton-interior-per-electron-circle ratio, expressing the
+Because `3π⁴ = 6π⁵/2π` is the proton-interior-per-electron-circle normalization, expressing the
 splitting against it is the natural native measure. Define the dimensionless splitting
 parameter `f` by `splitting = f / (3π⁴)`, where `splitting = (m_n − m_p)/m_p`.
 

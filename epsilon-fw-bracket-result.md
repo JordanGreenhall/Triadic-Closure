@@ -19,7 +19,7 @@ claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registere
 ## 0. The object
 
 `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4`, `ε_FW = 1.8825×10⁻⁵` (subtraction residual against the
-measured CODATA ratio `1836.152673`; `6π⁵ = 1836.1181`). The ratio is **empirical**
+measured CODATA ratio `1836.152673`; the exact With–This factor is `6π⁵ = 1836.1181`). The measured numerical ratio is **empirical**
 (no SM derivation exists; SM absorbs it via two free parameters). ε_FW is the From-With
 chiral face of the proton mass, one-sided against the fixed ruler `m_e = 1`.
 
