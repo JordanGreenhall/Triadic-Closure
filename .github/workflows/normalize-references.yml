@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   push:
     paths:
+      - 'tools/import_flavor_mark_metric_and_neutron.py'
+      - 'tools/import_neutron_consideration.py'
       - 'tools/normalize_references.py'
       - 'tools/finalize_reference_normalization.py'
       - '.github/workflows/normalize-references.yml'
@@ -21,18 +23,18 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Restore missing current pages
+        run: |
+          python3 tools/import_flavor_mark_metric_and_neutron.py
+          python3 tools/import_neutron_consideration.py
+
       - name: Normalize Markdown references
         run: |
-          # Run both passes: structural normalization, then source-provenance adjudication.
           python3 tools/normalize_references.py
           python3 tools/finalize_reference_normalization.py
 
       - name: Commit repaired references
         run: |
-          if git diff --quiet && git diff --cached --quiet && [ ! -f reference-repair-report.md ]; then
-            echo 'No reference changes required.'
-            exit 0
-          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add --all
@@ -40,5 +42,5 @@ jobs:
             echo 'No staged changes.'
             exit 0
           fi
-          git commit -m 'Finalize corpus source and link repairs'
+          git commit -m 'Restore missing corpus pages and normalize references'
           git push
