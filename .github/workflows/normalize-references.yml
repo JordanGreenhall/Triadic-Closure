@@ -23,6 +23,7 @@ jobs:
 
       - name: Normalize Markdown references
         run: |
+          # Run both passes: structural normalization, then source-provenance adjudication.
           python3 tools/normalize_references.py
           python3 tools/finalize_reference_normalization.py
 
