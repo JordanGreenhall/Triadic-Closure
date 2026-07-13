@@ -142,7 +142,7 @@ with
 - `ε_FW` as the canonical correction object without its derived scale and bounds;
 - the claim that the framework has no proton/electron ratio;
 - use of an observed residual as a substitute for the bounded internal correction form;
-- language that demotes the bracketed factor to optional precision polish.
+- language that demotes the bracketed factor to a non-gating but canonical theorem-bounded factor.
 
 **Propagation targets:** mass derivation, mass overview, physics mature-status page, neutron work, flavor/chiral pages, chemistry inheritance, and every compiler unit that cites the old residual formulation or uses `6π^5` metonymically for the whole proton mass.
 

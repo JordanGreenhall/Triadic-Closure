@@ -18,7 +18,7 @@ claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registere
 
 ## 0. The object
 
-`m_p/m_e = 6π⁵·(1 + ε_FW)`, `ε_FW = 1.8825×10⁻⁵` (subtraction residual against the
+`m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4·(1 + ε_FW)`, `ε_FW = 1.8825×10⁻⁵` (subtraction residual against the
 measured CODATA ratio `1836.152673`; `6π⁵ = 1836.1181`). The ratio is **empirical**
 (no SM derivation exists; SM absorbs it via two free parameters). ε_FW is the From-With
 chiral face of the proton mass, one-sided against the fixed ruler `m_e = 1`.
@@ -100,12 +100,12 @@ are degenerate on every baryon: `X = ⟨ΣS_i·S_j⟩` identically, octet and de
 - It reaches atomic spectra at `~10⁻⁸` (reduced-mass correction `~5×10⁻⁴` × ε_FW
   `~10⁻⁵`; hyperfine `~10⁻⁶` × ε_FW). D6/D7 structure lives at order 1–`10⁻²`.
   Six-plus orders of cushion.
-- D6/D7 need only `m_p/m_e ≈ 6π⁵` to leading order — that the ruler is native and the
+- D6/D7 need only `m_p/m_e may be computationally approximated by the exact With-This factor 6π⁵ only when 10⁻⁵-level effects are explicitly being neglected; the canonical ratio is m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4` to leading order — that the ruler is native and the
   hierarchy exists. Both Registered. The ratio's last digits are invisible to shell
   combinatorics and stability.
 
 **Therefore ε_FW is a terminal node**, not infrastructure. Its open residue (`κ`,
-the position in the bracket) is **optional precision polish** on a flagship
+the position in the bracket) is **a non-gating but canonical theorem-bounded factor** on a flagship
 "reproduce CODATA to `10⁻⁷`" claim — worth pursuing as precision physics, gating
 nothing. D6/D7 may proceed now on `6π⁵`-to-leading-order with ε_FW quarantined as:
 **exists, positive, ~10⁻⁵, bracketed in `[3/2, 9/4]·s²`, value open, non-blocking.**

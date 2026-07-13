@@ -3,15 +3,12 @@
 Final repository-tree reference audit.
 
 - Markdown files scanned: **100**
-- Files changed in final pass: **4**
+- Files changed in final pass: **1**
 - Remaining unresolved inline references: **2**
 
 ## Files changed in final pass
 
-- [closure-inherited-metric.md](closure-inherited-metric.md)
-- [mass-derivation-three-faces.md](mass-derivation-three-faces.md)
 - [verification-companion.md](verification-companion.md)
-- [with-to-this-closure.md](with-to-this-closure.md)
 
 ## Remaining unresolved inline references
 
