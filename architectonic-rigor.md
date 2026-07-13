@@ -2,12 +2,12 @@
 title: Architectonic Rigor
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-13
 status: current
 confidence: high
 sources:
-  - raw/package/architectonic-rigor-complete.md
-  - raw/package/cover-letter.md
+  - architectonic-rigor-complete.md
+  - cover-letter.md
 ---
 
 # Architectonic Rigor
@@ -28,4 +28,4 @@ Read this before evaluating any proof-status claim. It governs the distinction b
 
 The standing of a claim is fixed by how it was reached. Do not make claims stronger than their route permits.
 
-See also: [[claim-status-vocabulary]], [[corpus-lineage]], [[known-failure-modes]].
+See also: [Claim Status Vocabulary](claim-status-vocabulary.md), [Corpus Lineage](corpus-lineage.md), and [Known Failure Modes](known-failure-modes.md).
