@@ -6,12 +6,13 @@ updated: 2026-06-21
 status: control
 confidence: high
 sources:
-  - raw/package/cover-letter.md
-  - raw/package/phi-forward-reconstruction.md
-  - raw/package/physics-walk-checklist.md
-  - raw/package/deferred-articulations-map.md
-  - raw/package/gauge-structure-result.md
-  - raw/package/physics-walk-D1-D5-consolidated.md
+  - cover-letter.md
+  - phi-forward-reconstruction.md
+  - physics-walk-checklist.md
+  - deferred-articulations-map.md
+  - gauge-structure-result.md
+  - physics-walk-d1-d5-consolidated.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -32,7 +33,7 @@ Future work must decrement every old `locked actual` use into one of:
 
 | Old locked item / phrase | Main source(s) | Superseded? | Proper status | Why |
 |---|---|---:|---|---|
-| The `locked actual` category itself | `SCHEMA.md`; `concepts/claim-status-vocabulary.md`; `process/agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Deprecated / disfavored category | It conflates several standings and should not be used for live claims. Use Open / Conjectured / Registered / Registered and Sealed. |
+| The `locked actual` category itself | `SCHEMA.md`; `claim-status-vocabulary.md`; `agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Deprecated / disfavored category | It conflates several standings and should not be used for live claims. Use Open / Conjectured / Registered / Registered and Sealed. |
 | Exact `3+1` dimensionality / `M_ours^{3,1}` | `cover-letter.md`; Φ §§7.3, 16.1; `physics-walk-D1-D5-consolidated.md`; `physics-walk-D2.md`; later Jordan ruling | Yes, as `locked actual` | Registered and Sealed | Jordan ruled it stands at the same strength as triadic exactly-three plus horizontal flattening: three With-flattened spatial degrees plus one From-succession direction. Not arity-to-dimension; not D6 stability alone. |
 | `D5 locked actual base/closure` as a lump | Φ §§7.3, 15, 16 | Yes | Superseded as a lump; decompose or discard | Φ is superseded, and the lump mixes sealed, registered, conjectured, and open components. No future agent should cite the lump as active. |
 | Event-order and localizability | Φ §7.1, later D-walk lineage | Yes, if described as part of a lock | Registered and Sealed if supported by current D-walk; otherwise recheck | D2 event-order/localizability survived as a structural result in later discussion, but cite later/current pages rather than Φ. |
@@ -62,4 +63,4 @@ Future work must decrement every old `locked actual` use into one of:
 
 Do not write new claims with status `locked actual`. If reading raw package text that says `locked actual`, consult this page and translate the item into the decremented status before using it. If the item is sourced only to Φ, assume it is superseded until a later current artifact preserves it.
 
-See also: [[claim-status-vocabulary]], [[dimension-and-spacetime-status]], [[supersession-map]], [[agent-execution-rules]].
+See also: [claim-status-vocabulary](claim-status-vocabulary.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [supersession-map](supersession-map.md), [agent-execution-rules](agent-execution-rules.md).

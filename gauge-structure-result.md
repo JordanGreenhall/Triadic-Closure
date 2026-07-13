@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/gauge-structure-result.md
-  - raw/package/physics-walk-D1-D5-consolidated.md
+  - gauge-structure-result.md
+  - physics-walk-d1-d5-consolidated.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -44,7 +45,7 @@ Countermodels to exclude explicitly:
 
 ## Audit adjudication (2026-06-21)
 
-Worked as Item 3 of [[physics-domain-work-plan]]. The bridge splits cleanly into a mathematical step and a grounding step.
+Worked as Item 3 of [physics-domain-work-plan](physics-domain-work-plan.md). The bridge splits cleanly into a mathematical step and a grounding step.
 
 **Mathematical step (Sealed as mathematics).** Given a fixed nonzero alternating complex 3-form on a 3-dimensional carrier, its stabilizer in `GL(3,C)` is `SL(3,C)`; pairing-preservation restricts the group to `U(3)`; the fixed (not projective) volume-form forces `det = 1`, so `U(3) ∩ SL(3,C) = SU(3)`. This is a theorem, not an interpretation. Minimality forces the carrier dimension to be exactly 3, since a nonzero alternating 3-form requires dimension ≥ 3 and minimality takes the floor.
 
@@ -71,6 +72,6 @@ Worked as Item 3 of [[physics-domain-work-plan]]. The bridge splits cleanly into
 
 ## Use rule
 
-Use [[physics-domain-mature-status]] as control. The raw page's “SU(3) unconditional” language is now recorded as a ledger-claimed seal, not ignored; its remaining task is proof-audit against the known countermodels.
+Use [physics-domain-mature-status](physics-domain-mature-status.md) as control. The raw page's “SU(3) unconditional” language is now recorded as a ledger-claimed seal, not ignored; its remaining task is proof-audit against the known countermodels.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[supersession-map]], [[known-failure-modes]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [supersession-map](supersession-map.md), [known-failure-modes](known-failure-modes.md).

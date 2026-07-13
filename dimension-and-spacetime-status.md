@@ -6,12 +6,13 @@ updated: 2026-06-21
 status: control
 confidence: high
 sources:
-  - raw/package/cover-letter.md
-  - raw/package/phi-forward-reconstruction.md
-  - raw/package/physics-walk-D1-D5-consolidated.md
-  - raw/package/physics-walk-D1-D6.md
-  - raw/package/physics-walk-D2.md
-  - raw/package/ternary-coalgebra-dimension-task.md
+  - cover-letter.md
+  - phi-forward-reconstruction.md
+  - physics-walk-d1-d5-consolidated.md
+  - physics-walk-D1-D6.md
+  - physics-walk-D2.md
+  - ternary-coalgebra-dimension-task.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -45,8 +46,8 @@ The caution remains useful: do not pretend a formal proof assistant theorem exis
 
 Do not cite the following as the whole basis of the current dimensionality claim:
 
-- `raw/package/physics-walk-D1-D6.md` claims exactly-3 spatial dimensions are forced by D6 bound-state stability. Treat this as a supporting/adjacent route, not the primary ground.
-- `raw/package/ternary-coalgebra-dimension-task.md` is a task formulation for testing whether ternary coalgebraic coherence forces dimension three. The ledger records the coalgebra route as refuted as posed: arity/coherence alone did not force dimension three.
+- `physics-walk-D1-D6.md` claims exactly-3 spatial dimensions are forced by D6 bound-state stability. Treat this as a supporting/adjacent route, not the primary ground.
+- `ternary-coalgebra-dimension-task.md` is a task formulation for testing whether ternary coalgebraic coherence forces dimension three. The ledger records the coalgebra route as refuted as posed: arity/coherence alone did not force dimension three.
 
 ## What to preserve from the older D2/D1-D5 walk
 
@@ -68,4 +69,4 @@ When discussing spacetime or dimension:
 - Do say exact `3+1` is Registered and Sealed at the same strength as triadic exactly-three plus horizontal flattening.
 - Ground the claim in the From/With axis distinction: one oriented succession direction plus three horizontal With-flattened spatial degrees.
 
-See also: [[corpus-lineage]], [[supersession-map]], [[locked-actual-decrement-map]], [[known-failure-modes]], [[vertical-and-horizontal]].
+See also: [corpus-lineage](corpus-lineage.md), [supersession-map](supersession-map.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [known-failure-modes](known-failure-modes.md), [vertical-and-horizontal](vertical-and-horizontal.md).

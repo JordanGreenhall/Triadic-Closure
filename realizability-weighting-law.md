@@ -6,8 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/realizability-weighting-law.md
-  - raw/package/mathematization-F8-done.md
+  - realizability-weighting-law.md
+  - mathematization-F8-done.md
 ---
 
 # Realizability Weighting Law
@@ -22,7 +22,7 @@ The source names three gates to sealing: frequency=weight identity, exact `|ψ|�
 
 ## Seal adjudication (2026-06-21)
 
-Worked as Item 1 of [[physics-domain-work-plan]]. Net grade: **Registered, not sealed** (confidence >90% in the grade). The three gates resolve unevenly.
+Worked as Item 1 of [physics-domain-work-plan](physics-domain-work-plan.md). Net grade: **Registered, not sealed** (confidence >90% in the grade). The three gates resolve unevenly.
 
 **Gate 2 — exact `|ψ|²` from the pairing (Registered, approaching Sealed).** Given that actualization weight is a frame function on the closure-pairing (the bilinear `h(σ,k)`), Gleason's theorem plus the frame-function argument forces the quadratic form `C(k) = |h(σ,k)|²` on dimension ≥ 3. The pairing-origin (weight 0.4) and conservation/normalization (weight 0.6) jointly fix the bilinear; Gleason then removes the freedom to choose any other power or functional. This gate is essentially discharged modulo the dim≥3 restriction (dim 2 is the standard Gleason gap and is not closed here).
 
@@ -32,4 +32,4 @@ Worked as Item 1 of [[physics-domain-work-plan]]. Net grade: **Registered, not s
 
 **Verdict.** Gate 2 strong, gate 1 the genuine blocker, gate 3 undone. The grade stays **Registered, not sealed**; the blocker is gate 1 specifically.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[gravity-and-curvature]], [[claim-status-vocabulary]], [[known-failure-modes]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gravity-and-curvature](gravity-and-curvature.md), [claim-status-vocabulary](claim-status-vocabulary.md), [known-failure-modes](known-failure-modes.md).

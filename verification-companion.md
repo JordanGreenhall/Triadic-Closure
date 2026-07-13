@@ -6,7 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: high
 sources:
-  - raw/package/verification-companion.md
+  - verification-companion.md
+historical_sources:
   - raw/package/verify.py
   - _meta/verify-output.txt
 ---
@@ -33,4 +34,4 @@ Output stored at `_meta/verify-output.txt`.
 
 Machine checks are finite-range and lemma-grade where tagged as such. They are not automatically formal proofs.
 
-See also: [[claim-status-vocabulary]], [[known-failure-modes]], [[corpus-lineage]].
+See also: [claim-status-vocabulary](claim-status-vocabulary.md), [known-failure-modes](known-failure-modes.md), [corpus-lineage](corpus-lineage.md).

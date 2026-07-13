@@ -6,6 +6,7 @@ updated: 2026-06-21
 status: control
 confidence: medium
 sources:
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -37,4 +38,4 @@ Jordan ruled that exact `3+1` is Registered and Sealed at the same level of stre
 
 Future agents should treat this wiki as an execution context, not as a pile of summaries. Its control pages are intended to prevent regressions.
 
-See also: [[vertical-and-horizontal]], [[known-failure-modes]], [[supersession-map]].
+See also: [vertical-and-horizontal](vertical-and-horizontal.md), [known-failure-modes](known-failure-modes.md), [supersession-map](supersession-map.md).

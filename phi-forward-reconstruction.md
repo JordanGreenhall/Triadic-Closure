@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: superseded
 confidence: high
 sources:
-  - raw/package/phi-forward-reconstruction.md
-  - raw/package/cover-letter.md
+  - phi-forward-reconstruction.md
+  - cover-letter.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -23,6 +24,6 @@ Do not use Φ as active doctrine. Use it only as provenance for old claims, espe
 
 ## Execution rule
 
-Any claim sourced only to Φ must be checked against later current result modules and control pages before use. If Φ says `locked actual`, translate through [[locked-actual-decrement-map]].
+Any claim sourced only to Φ must be checked against later current result modules and control pages before use. If Φ says `locked actual`, translate through [locked-actual-decrement-map](locked-actual-decrement-map.md).
 
-See also: [[locked-actual-decrement-map]], [[dimension-and-spacetime-status]], [[supersession-map]], [[corpus-lineage]].
+See also: [locked-actual-decrement-map](locked-actual-decrement-map.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [supersession-map](supersession-map.md), [corpus-lineage](corpus-lineage.md).

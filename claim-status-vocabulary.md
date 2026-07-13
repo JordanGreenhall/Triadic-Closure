@@ -6,9 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: high
 sources:
-  - raw/package/architectonic-rigor-complete.md
-  - raw/package/triadic-structure-of-relating-rev-canonical.md
-  - raw/package/verification-companion.md
+  - architectonic-rigor-complete.md
+  - triadic-structure-of-relating-rev-canonical.md
+  - verification-companion.md
 ---
 
 # Claim Status Vocabulary
@@ -26,7 +26,7 @@ Use these four statuses when decrementing package-era physics claims:
 
 ## Deprecated status
 
-- **Locked actual** — deprecated / disfavored. It was package-era shorthand for “actual trajectory fact, not derived,” but it hides whether the item is Open, Conjectured, Registered, or Registered and Sealed. Do not use it for live claims; consult [[locked-actual-decrement-map]].
+- **Locked actual** — deprecated / disfavored. It was package-era shorthand for “actual trajectory fact, not derived,” but it hides whether the item is Open, Conjectured, Registered, or Registered and Sealed. Do not use it for live claims; consult [locked-actual-decrement-map](locked-actual-decrement-map.md).
 
 ## Supporting proof/force vocabulary
 
@@ -34,6 +34,6 @@ Terms such as retorsion-secured, forced, defended posit, selection, recognition,
 
 ## Execution rule
 
-Never upgrade status. If a document says "argued," do not report "proved." If raw package text says "locked actual," translate through [[locked-actual-decrement-map]] before using it.
+Never upgrade status. If a document says "argued," do not report "proved." If raw package text says "locked actual," translate through [locked-actual-decrement-map](locked-actual-decrement-map.md) before using it.
 
-See also: [[agent-execution-rules]], [[known-failure-modes]], [[locked-actual-decrement-map]], [[architectonic-rigor]].
+See also: [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [architectonic-rigor](architectonic-rigor.md).

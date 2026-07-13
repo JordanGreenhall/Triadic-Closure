@@ -6,8 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/lambda-derived.md
-  - raw/package/mathematization-F11.md
+  - lambda-derived.md
+  - mathematization-F11.md
 ---
 
 # Lambda Derived
@@ -28,4 +28,4 @@ Earlier F11 status treated Λ largely as Lovelock-permitted. `lambda-derived.md`
 - Explicit closure dynamics behind the `w = -1` structural argument.
 - The cosmological-constant smallness question.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[gravity-and-curvature]], [[claim-status-vocabulary]], [[supersession-map]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gravity-and-curvature](gravity-and-curvature.md), [claim-status-vocabulary](claim-status-vocabulary.md), [supersession-map](supersession-map.md).

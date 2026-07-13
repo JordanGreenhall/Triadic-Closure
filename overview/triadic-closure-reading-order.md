@@ -6,10 +6,10 @@ updated: 2026-06-23
 status: control
 confidence: high
 sources:
-  - raw/package/architectonic-rigor-complete.md
-  - raw/package/triadic-structure-of-relating-rev-canonical.md
-  - raw/package/entering-a-new-domain.md
-  - overview/physics-domain-mature-status.md
+  - ../architectonic-rigor-complete.md
+  - ../triadic-structure-of-relating-rev-canonical.md
+  - ../entering-a-new-domain.md
+  - ../physics-domain-mature-status.md
 ---
 
 # Triadic Closure Reading Order
@@ -20,10 +20,10 @@ This wiki is a **Triadic Closure** wiki. Physics is the deepest worked subdomain
 
 Start here. These pages carry the governing object and the discipline for claim-standing.
 
-1. [[architectonic-rigor]] — how claims get standing, what each instrument can secure, and why status cannot be upgraded beyond its route.
-2. [[triadic-structure-of-relating]] — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
-3. [[claim-status-vocabulary]] — the current status vocabulary: Open, Conjectured, Registered, Registered and Sealed.
-4. [[vertical-and-horizontal]] — the current control distinction between vertical office-constitution and horizontal accumulation.
+1. [architectonic-rigor](../architectonic-rigor.md) — how claims get standing, what each instrument can secure, and why status cannot be upgraded beyond its route.
+2. [triadic-structure-of-relating](../triadic-structure-of-relating.md) — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
+3. [claim-status-vocabulary](../claim-status-vocabulary.md) — the current status vocabulary: Open, Conjectured, Registered, Registered and Sealed.
+4. [vertical-and-horizontal](../vertical-and-horizontal.md) — the current control distinction between vertical office-constitution and horizontal accumulation.
 
 This first layer is not a preface to physics. It is the wiki's root.
 
@@ -31,7 +31,7 @@ This first layer is not a preface to physics. It is the wiki's root.
 
 Read this before any domain-specific reconstruction:
 
-5. [[domain-entry-method]] — the method for refusing a domain's unconscious metaphysics, clarifying its presuppositions architectonically, inheriting the prior object as From-whole, and applying the domain constraint.
+5. domain-entry-method<!-- unresolved historical reference: domain-entry-method --> — the method for refusing a domain's unconscious metaphysics, clarifying its presuppositions architectonically, inheriting the prior object as From-whole, and applying the domain constraint.
 
 For physics, this page explains why physics is entered as the mathematical object plus the self-transforming / invariant / coherent constraint, and why causation, metric, identity, possibility, and actuality must be rebuilt before use.
 
@@ -39,22 +39,22 @@ For physics, this page explains why physics is entered as the mathematical objec
 
 Only after the above should a reader enter the physics corpus:
 
-6. [[physics-domain-mature-status]] — the current status matrix for the physics-domain work.
-7. [[physics-domain-work-plan]] — hinge-first work plan and live gates.
-8. [[physics-walk-d1-d5-consolidated]] — the current D1-D5 physics walk.
-9. [[dimension-and-spacetime-status]] — exact 3+1 status and cautions.
-10. Current physics result pages as needed: [[gauge-structure-result]], [[mass-as-self-closure]], [[mass-derivation-three-faces]], [[gravity-and-curvature]], [[realizability-weighting-law]], [[propagation-and-invariant-velocity]], [[stress-energy-three-offices]], [[lambda-derived]], [[quark-lepton-split]], [[chiral-coupling-result]].
+6. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
+7. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
+8. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
+9. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
+10. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md), mass-derivation-three-faces<!-- unresolved historical reference: mass-derivation-three-faces -->, [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
 
 Use these to avoid regression:
 
-- [[corpus-lineage]] — authority tiers and raw-source lineage.
-- [[supersession-map]] — what has been superseded or reinstated.
-- [[locked-actual-decrement-map]] — deprecated package-era status translation.
-- [[known-failure-modes]] — recurring agent and proof-status errors.
-- [[agent-execution-rules]] — execution rules for future agents.
-- [[physics-source-map]] — curated-to-raw source map for the physics section.
+- [corpus-lineage](../corpus-lineage.md) — authority tiers and raw-source lineage.
+- [supersession-map](../supersession-map.md) — what has been superseded or reinstated.
+- [locked-actual-decrement-map](../locked-actual-decrement-map.md) — deprecated package-era status translation.
+- [known-failure-modes](../known-failure-modes.md) — recurring agent and proof-status errors.
+- [agent-execution-rules](../agent-execution-rules.md) — execution rules for future agents.
+- physics-source-map<!-- unresolved historical reference: physics-source-map --> — curated-to-raw source map for the physics section.
 
 ## Rule of orientation
 

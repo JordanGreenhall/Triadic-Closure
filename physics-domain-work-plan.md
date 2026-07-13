@@ -6,16 +6,16 @@ updated: 2026-06-21
 status: control
 confidence: medium
 sources:
-  - overview/physics-domain-mature-status.md
-  - raw/package/physics-walk-checklist.md
-  - raw/package/three-moves-per-stage.md
-  - raw/package/entering-a-new-domain.md
-  - raw/package/realizability-weighting-law.md
-  - raw/package/mathematization-F8-done.md
-  - raw/package/mathematization-F9-done.md
-  - raw/package/mathematization-F10-resolved.md
-  - raw/package/mathematization-F11.md
-  - raw/package/gauge-structure-result.md
+  - physics-domain-mature-status.md
+  - physics-walk-checklist.md
+  - three-moves-per-stage.md
+  - entering-a-new-domain.md
+  - realizability-weighting-law.md
+  - mathematization-F8-done.md
+  - mathematization-F9-done.md
+  - mathematization-F10-resolved.md
+  - mathematization-F11.md
+  - gauge-structure-result.md
 ---
 
 # Physics Domain Work Plan
@@ -186,14 +186,14 @@ Work item: defer until value/magnitude machinery exists.
 
 Every item below was worked to a defensible grade. Per the operating discipline, the >90% confidence attaches to *the grade being correct*, not to forcing a seal — the corpus exists to prevent exactly that over-claim.
 
-1. **Realizability-weighting law — Registered, not sealed.** Gate 2 (exact `|ψ|²` from pairing) essentially discharged via Gleason on dim≥3; gate 1 (frequency=weight) is the genuine blocker, equal to the Born-rule-from-frequency problem; gate 3 (non-physics end-to-end) undone. See [[realizability-weighting-law]].
-2. **F9 standing-state discharge — Registered and Sealed (standing-state choice).** Confirmed: result pages, control layer, and the conserved-flow-vs-adjacency discharge agree. Downstream gravity gates remain separate. See [[gravity-and-curvature]].
-3. **SU(3) / gauge bridge — Registered, not sealed; residual risk localized.** Math step clean; six of seven bridge properties theorem-or-grounded; the whole seal hinges on one premise (alternating = vanishing-on-coincidence) that excludes the symmetric cubic. See [[gauge-structure-result]].
-4. **Full gravity — weak-field Registered; full Einstein Registered conditional / Conjectured for the nonlinear sector.** Three gates: tensor completeness beyond g00, strong-field regime, and the second-order premise imported from Lovelock (the most promotable). See [[gravity-and-curvature]].
-5. **Stress-energy generality — representational Registered; dynamical Conjectured.** With-mode population is the specific open gate. See [[stress-energy-three-offices]].
-6. **Chiral module / hypercharge — criterion Registered; exact module and hypercharge Open/conditional.** Gated on the center-lock premise and the Item 3 alternating gate; generation count kept separate. See [[chiral-coupling-result]].
-7. **Value/magnitude machinery — program Registered; actual values Open.** Form of a value is fixed and the smuggling routes forbidden; every value needs an explicit `σ,k` and one step/whole calibration anchor that does not yet exist. See [[mass-as-self-closure]].
-8. **Smooth geometry — distinction Registered; manifold-recovery theorem Open.** The discreteness/realizability/sampling separation is sound; no continuum-limit proof yet. See [[propagation-and-invariant-velocity]].
+1. **Realizability-weighting law — Registered, not sealed.** Gate 2 (exact `|ψ|²` from pairing) essentially discharged via Gleason on dim≥3; gate 1 (frequency=weight) is the genuine blocker, equal to the Born-rule-from-frequency problem; gate 3 (non-physics end-to-end) undone. See [realizability-weighting-law](realizability-weighting-law.md).
+2. **F9 standing-state discharge — Registered and Sealed (standing-state choice).** Confirmed: result pages, control layer, and the conserved-flow-vs-adjacency discharge agree. Downstream gravity gates remain separate. See [gravity-and-curvature](gravity-and-curvature.md).
+3. **SU(3) / gauge bridge — Registered, not sealed; residual risk localized.** Math step clean; six of seven bridge properties theorem-or-grounded; the whole seal hinges on one premise (alternating = vanishing-on-coincidence) that excludes the symmetric cubic. See [gauge-structure-result](gauge-structure-result.md).
+4. **Full gravity — weak-field Registered; full Einstein Registered conditional / Conjectured for the nonlinear sector.** Three gates: tensor completeness beyond g00, strong-field regime, and the second-order premise imported from Lovelock (the most promotable). See [gravity-and-curvature](gravity-and-curvature.md).
+5. **Stress-energy generality — representational Registered; dynamical Conjectured.** With-mode population is the specific open gate. See [stress-energy-three-offices](stress-energy-three-offices.md).
+6. **Chiral module / hypercharge — criterion Registered; exact module and hypercharge Open/conditional.** Gated on the center-lock premise and the Item 3 alternating gate; generation count kept separate. See [chiral-coupling-result](chiral-coupling-result.md).
+7. **Value/magnitude machinery — program Registered; actual values Open.** Form of a value is fixed and the smuggling routes forbidden; every value needs an explicit `σ,k` and one step/whole calibration anchor that does not yet exist. See [mass-as-self-closure](mass-as-self-closure.md).
+8. **Smooth geometry — distinction Registered; manifold-recovery theorem Open.** The discreteness/realizability/sampling separation is sound; no continuum-limit proof yet. See [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
 9. **Matter spectrum / generations — Open (confirmed).** Sanctioned route is D5 mass-Casimir multiplicity over a D4 charge profile; no force-fit to the primitive triad.
 10. **D6/D7 atoms / periodic table — Open (confirmed).** Blocked behind the Item 7 anchor; Φ's periodic-table claims stay superseded.
 11. **Numerical particle spectrum — Open, deferred by design.** Cannot start before the Item 7 calibration anchor.
@@ -210,14 +210,14 @@ Net: two sealed-or-confirmed (Item 2 sealed; Items 9–11 confirmed Open), sever
    - open gates;
    - smuggle risks.
 3. Keep the result page's original source summary, but let this control page govern current use.
-4. Whenever a hinge is closed or downgraded, update this page and [[physics-domain-mature-status]].
+4. Whenever a hinge is closed or downgraded, update this page and [physics-domain-mature-status](physics-domain-mature-status.md).
 
 ## Immediate next edit targets
 
-1. `results/gauge-structure-result.md` — preserve the ledger-claimed SU(3) closure, but mark it as requiring adversarial proof-audit before Registered-and-Sealed use.
-2. `results/gravity-and-curvature.md` — distinguish weak-field Registered from full Einstein conditional/open gates.
-3. `results/realizability-weighting-law.md` — preserve Registered-not-sealed status and list the three gates.
-4. `results/physics-walk-d1-d5-consolidated.md` — update open frontier list: F9 standing-state no longer remains; SU(3 audit/gravity/value/generations remain.
-5. `results/chiral-coupling-result.md` and `results/quark-lepton-split.md` — mark as Registered, not sealed, where they depend on unresolved exact gauge/chiral-module issues.
+1. `gauge-structure-result.md` — preserve the ledger-claimed SU(3) closure, but mark it as requiring adversarial proof-audit before Registered-and-Sealed use.
+2. `gravity-and-curvature.md` — distinguish weak-field Registered from full Einstein conditional/open gates.
+3. `realizability-weighting-law.md` — preserve Registered-not-sealed status and list the three gates.
+4. `physics-walk-d1-d5-consolidated.md` — update open frontier list: F9 standing-state no longer remains; SU(3 audit/gravity/value/generations remain.
+5. `chiral-coupling-result.md` and `quark-lepton-split.md` — mark as Registered, not sealed, where they depend on unresolved exact gauge/chiral-module issues.
 
-See also: [[physics-domain-mature-status]], [[locked-actual-decrement-map]], [[known-failure-modes]], [[claim-status-vocabulary]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [known-failure-modes](known-failure-modes.md), [claim-status-vocabulary](claim-status-vocabulary.md).

@@ -22,7 +22,7 @@ Steps:
 1. Open Obsidian.
 2. Choose **Open folder as vault**.
 3. Select `/Users/roberthall/Library/CloudStorage/GoogleDrive-jordan.greenhall@gmail.com/My Drive/Triadic Closure Wiki/Triadic Closure Wiki`.
-4. Open `index.md` first, then [[triadic-closure-reading-order]].
+4. Open `index.md` first, then [triadic-closure-reading-order](triadic-closure-reading-order.md).
 
 Obsidian will make the wiki links clickable and gives backlinks / graph view.
 
@@ -53,15 +53,15 @@ This produces a clickable HTML copy under `_site/`. It is intentionally simple a
 The wiki is still usable manually:
 
 - Start at `index.md`.
-- Read `overview/triadic-closure-reading-order.md` before entering physics pages.
+- Read `triadic-closure-reading-order.md` before entering physics pages.
 - For control/status work, read:
-  - `overview/corpus-lineage.md`
-  - `overview/supersession-map.md`
-  - `overview/locked-actual-decrement-map.md`
-  - `overview/physics-domain-mature-status.md` (for physics work)
-  - `overview/physics-domain-work-plan.md` (for physics work)
-  - `process/agent-execution-rules.md`
+  - `../corpus-lineage.md`
+  - `../supersession-map.md`
+  - `../locked-actual-decrement-map.md`
+  - `../physics-domain-mature-status.md` (for physics work)
+  - `../physics-domain-work-plan.md` (for physics work)
+  - `../agent-execution-rules.md`
 
 ## Rule
 
-If browsing by hand, never treat raw package files as current just because they contain polished prose. Always route through `index.md`, [[triadic-closure-reading-order]], and the control pages first.
+If browsing by hand, never treat raw package files as current just because they contain polished prose. Always route through `index.md`, [triadic-closure-reading-order](triadic-closure-reading-order.md), and the control pages first.

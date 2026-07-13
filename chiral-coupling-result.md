@@ -6,8 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/chiral-coupling-result.md
-  - raw/package/gauge-structure-result.md
+  - chiral-coupling-result.md
+  - gauge-structure-result.md
 ---
 
 # Chiral Coupling Result
@@ -24,7 +24,7 @@ The cover letter says the exact chiral module is not derived; do not overstate b
 
 ## Grade adjudication (2026-06-21)
 
-Worked as Item 6 of [[physics-domain-work-plan]]. Four sub-claims earn distinct grades.
+Worked as Item 6 of [physics-domain-work-plan](physics-domain-work-plan.md). Four sub-claims earn distinct grades.
 
 **Chiral/vectorial criterion — Registered.** The framework fixes that a coupling is chiral iff orientation-faithful and vectorial iff orientation-independent, and that the weak coupling sits at maximal chirality (V−A). This is a structural result and is securely Registered.
 
@@ -34,6 +34,6 @@ Worked as Item 6 of [[physics-domain-work-plan]]. Four sub-claims earn distinct 
 
 **Generation count — Open and kept separate.** Multiplicity of generations is not addressed here and must not be folded into the module derivation (see Item 9).
 
-**Verdict.** Criterion **Registered**; exact module and hypercharge **Open / conditional**, gated on (a) the center-lock premise and (b) the SU(3) alternating premise inherited from [[gauge-structure-result]]. Confidence >90% attaches to this split grade. The dependency on the Item 3 alternating gate means this item cannot seal ahead of the gauge bridge.
+**Verdict.** Criterion **Registered**; exact module and hypercharge **Open / conditional**, gated on (a) the center-lock premise and (b) the SU(3) alternating premise inherited from [gauge-structure-result](gauge-structure-result.md). Confidence >90% attaches to this split grade. The dependency on the Item 3 alternating gate means this item cannot seal ahead of the gauge bridge.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[gauge-structure-result]], [[claim-status-vocabulary]], [[locked-actual-decrement-map]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [claim-status-vocabulary](claim-status-vocabulary.md), [locked-actual-decrement-map](locked-actual-decrement-map.md).

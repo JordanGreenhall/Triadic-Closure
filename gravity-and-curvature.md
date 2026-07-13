@@ -6,13 +6,14 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/mathematization-F8-done.md
-  - raw/package/mathematization-F9-done.md
-  - raw/package/mathematization-F10-resolved.md
-  - raw/package/mathematization-F11.md
-  - raw/package/gravity-asymmetry.md
-  - raw/package/lambda-derived.md
-  - raw/package/stress-energy-three-offices.md
+  - mathematization-F8-done.md
+  - mathematization-F9-done.md
+  - mathematization-F10-resolved.md
+  - mathematization-F11.md
+  - gravity-asymmetry.md
+  - lambda-derived.md
+  - stress-energy-three-offices.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -43,7 +44,7 @@ Status: **Registered** for weak-field gravity and the framework meaning of curva
 
 ## Grade adjudication (2026-06-21)
 
-Worked as Item 4 of [[physics-domain-work-plan]]. The grade splits by regime.
+Worked as Item 4 of [physics-domain-work-plan](physics-domain-work-plan.md). The grade splits by regime.
 
 **Weak-field, static `g00` sector — Registered.** The coherence-participation gradient (F8) integrates to the Newtonian potential, and F9's linear conditioning-degree tilt reproduces the weak-field geodesic deflection. This regime is securely Registered (not claimed sealed, since `G` is uncomputed).
 
@@ -59,8 +60,8 @@ Worked as Item 4 of [[physics-domain-work-plan]]. The grade splits by regime.
 
 ## Execution caution
 
-Do not use `mathematization-F10-status.md` as current. See [[supersession-map]].
+Do not use `mathematization-F10-status.md` as current. See [supersession-map](supersession-map.md).
 
 Do not claim numerical constants are derived.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[lambda-derived]], [[stress-energy-three-offices]], [[known-failure-modes]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [lambda-derived](lambda-derived.md), [stress-energy-three-offices](stress-energy-three-offices.md), [known-failure-modes](known-failure-modes.md).

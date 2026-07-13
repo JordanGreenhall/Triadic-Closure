@@ -6,7 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/propagation-invariant-velocity-and-modal-structure.md
+  - propagation-invariant-velocity-and-modal-structure.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -28,7 +29,7 @@ Do not overextend this into a confinement-energy law without a real derivation.
 
 ## Smooth-geometry adjudication (2026-06-21)
 
-Worked as Item 8 of [[physics-domain-work-plan]]. Two things must be kept apart, and they grade differently.
+Worked as Item 8 of [physics-domain-work-plan](physics-domain-work-plan.md). Two things must be kept apart, and they grade differently.
 
 **The three-level distinction — Registered as a clarification.** The framework cleanly separates (a) *actual discreteness* of causal events, (b) *continuity of the realizability field* defined over those events, and (c) *observational coarse sampling* that blurs (a) into an apparent continuum. Holding these apart is itself a useful result: it blocks the "completed-continuum expenditure" error (treating the continuum as an actual infinite resource the network must pay for). This clarification is Registered.
 
@@ -36,4 +37,4 @@ Worked as Item 8 of [[physics-domain-work-plan]]. Two things must be kept apart,
 
 **Verdict.** Distinction-level clarification **Registered**; continuum-recovery theorem **Open**. The promotable step is a coarse-graining/continuum-limit argument showing the realizability field over discrete events converges to a smooth metric, without assuming the manifold it is meant to produce. Confidence >90% that the recovery theorem is Open, not merely unstated.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[mass-as-self-closure]], [[gravity-and-curvature]], [[known-failure-modes]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [mass-as-self-closure](mass-as-self-closure.md), [gravity-and-curvature](gravity-and-curvature.md), [known-failure-modes](known-failure-modes.md).

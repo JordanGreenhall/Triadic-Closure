@@ -6,8 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/lorentz-from-recoupling.md
-  - raw/package/propagation-invariant-velocity-and-modal-structure.md
+  - lorentz-from-recoupling.md
+  - propagation-invariant-velocity-and-modal-structure.md
 ---
 
 # Lorentz From Recoupling
@@ -24,4 +24,4 @@ The framework supplies the null-cone/conditioning hypotheses, one-way conditioni
 
 Supports the Lorentzian structure of the physics walk and spatial/frame indexing through boosts and rotations.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[propagation-and-invariant-velocity]], [[gravity-and-curvature]], [[dimension-and-spacetime-status]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [gravity-and-curvature](gravity-and-curvature.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md).

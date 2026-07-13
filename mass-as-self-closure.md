@@ -6,7 +6,8 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - raw/package/mass-as-self-closure.md
+  - mass-as-self-closure.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -32,7 +33,7 @@ The context ledger contains a major discussion about spatial indexing and invali
 
 ## Value-machinery adjudication (2026-06-21)
 
-Worked as Item 7 of [[physics-domain-work-plan]]. The distinction that controls the grade is *form of a value* vs *actual value*.
+Worked as Item 7 of [physics-domain-work-plan](physics-domain-work-plan.md). The distinction that controls the grade is *form of a value* vs *actual value*.
 
 **Form of a value — Registered (as a program).** The framework fixes what a physical magnitude *is*: a measure is a ratio of counts; a coupling strength is a realizability/Born overlap `|h(σ,k)|²`; structural ratios such as `m:p:E` follow from the self-closure decomposition. The program also correctly forbids two failure modes — importing Planck/Hubble counts, and treating Λ as the entry point for values. This much is Registered: it tells you the *type* of every answer and rules out the standard smuggling routes.
 
@@ -40,4 +41,4 @@ Worked as Item 7 of [[physics-domain-work-plan]]. The distinction that controls 
 
 **Verdict.** Value *machinery* **Registered as a program**; all actual values **Open**. The single enabling step is to identify the most basic stable closure and fix one step/whole calibration anchor — without that anchor the count-ratios float. Confidence >90% attaches to this split grade. This program legitimately precedes Items 9–11, which must not start until the anchor exists.
 
-See also: [[physics-domain-mature-status]], [[physics-domain-work-plan]], [[known-failure-modes]], [[gravity-and-curvature]], [[propagation-and-invariant-velocity]].
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md), [gravity-and-curvature](gravity-and-curvature.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
