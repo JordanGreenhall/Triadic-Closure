@@ -1,26 +1,20 @@
-# Triadic Closure Wiki Schema
+# Physics Execution Wiki Schema
 
 ## Domain
-This wiki compiles Jordan Hall's Triadic Closure foundational architectonics, domain-entry method, physics-domain deep dive, and contextual conversation ledger into an execution-oriented knowledge base for future agents.
+This wiki compiles Jordan Hall's physics-stratum package and its contextual conversation ledger into an execution-oriented knowledge base for future agents.
 
-The wiki is not a publication draft. It is an agent navigation layer: foundational reading order, domain-entry discipline, current physics results, supersession status, claim standing, and safe next work.
+The wiki is not a publication draft. It is an agent navigation layer: what is current, what is superseded, where claims stand, and what work is safe to perform next.
 
 ## Source Layers
-- `raw/package/` — immutable package files containing Triadic Closure foundation, domain-entry, and physics deep-dive sources.
+- `raw/package/` — immutable package files from `Physics Large MD Package.zip`.
 - `raw/context/full-conversation-ledger.md` — full conversation ledger contextualizing revisions, supersessions, decisions, and failures.
 - `_meta/source-inventory.json` — hashes and line counts for all raw sources.
-- `_meta/verify-output.txt` — historical output from the package-era finite checker; do not treat this as a current project-local verifier.
+- `_meta/verify-output.txt` — output of the included `verify.py`; last verified: 2026-06-21, result: 9/9 PASS.
 
 ## Page Types
 - `overview` — orientation maps, lineage, current package shape.
 - `concept` — core framework concepts and canonical vocabulary.
-- `result` — generic current result modules or stabilized derivations.
-- `physics-spine` — core physics-domain walk / dependency spine.
-- `physics-kinematics` — spacetime, propagation, Lorentzian structure.
-- `physics-mechanism` — realizability, actualization, collapse/closure mechanisms.
-- `physics-internal-structure` — gauge/internal/matter taxonomy.
-- `physics-closure-mass` — closure, confinement, mass, native value machinery.
-- `physics-gravity-cosmology` — gravity, stress-energy, Λ/cosmology.
+- `result` — current result modules or stabilized derivations.
 - `claim` — important claims with standing/status.
 - `process` — agent execution rules, QA rules, build policy.
 
@@ -30,7 +24,7 @@ Every curated page should begin with:
 ```yaml
 ---
 title: Page Title
-type: overview | concept | result | claim | process | control | physics-spine | physics-kinematics | physics-mechanism | physics-internal-structure | physics-closure-mass | physics-gravity-cosmology
+type: overview | concept | result | claim | process
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
 status: current | historical | superseded | contested | open | control
@@ -50,7 +44,7 @@ sources:
 - `control` — governs wiki/agent behavior.
 
 ## Agent Rules
-1. Always read `index.md`, `overview/triadic-closure-reading-order.md`, `overview/corpus-lineage.md`, `overview/supersession-map.md`, and `process/agent-execution-rules.md` before acting.
+1. Always read `index.md`, `overview/corpus-lineage.md`, `overview/supersession-map.md`, and `process/agent-execution-rules.md` before acting.
 2. Do not revive claims from superseded files unless a current file explicitly reinstates them.
 3. Treat the full conversation ledger as lineage/adjudication authority, not polished doctrine.
 4. Any claim labeled computed must cite a real computation that could have failed. Print-statement theater is forbidden.
@@ -70,7 +64,7 @@ sources:
 Before handing wiki context to an execution agent:
 - broken wikilinks: 0 preferred;
 - raw source inventory exists;
-- current mechanical checks run or reviewed (wikilinks/build/stale-status scan); package-era `verify.py` is provenance only unless explicitly restored;
+- `verify.py` output checked;
 - supersession map read;
 - agent rules read;
 - no obsolete claim promoted to current.
