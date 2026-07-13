@@ -2,64 +2,54 @@
 title: Corpus Cleanup Pass Report
 type: control
 created: 2026-06-28
-updated: 2026-06-28
-status: control
+updated: 2026-07-13
+status: historical
 confidence: medium
 ---
 
 # Corpus Cleanup Pass Report
 
-This page records the current cleanup pass over the synced Triadic Closure Wiki. It is a working control note, not doctrine.
+This page records a cleanup pass over the former Google Drive-synced Triadic Closure Wiki. It is retained as historical process provenance, not as a current repository map or statement of doctrine.
 
-Primary path now used for corpus work:
+The pass was performed against a local Google Drive path that is not part of this repository.
 
-`/Users/roberthall/Library/CloudStorage/GoogleDrive-jordan.greenhall@gmail.com/My Drive/Triadic Closure Wiki/Triadic Closure Wiki`
+## Historical pass scope
 
-## Pass scope
+The former wiki inventory contained:
 
-Mechanical inventory found:
+- 266 total files;
+- 125 Markdown files;
+- 73 active Markdown files outside its former `raw/` and `archive/` directories;
+- 36 raw Markdown provenance files;
+- 16 archive Markdown files;
+- 123 generated HTML files.
 
-- 266 total files
-- 125 Markdown files
-- 73 active Markdown files outside `raw/` and `archive/`
-- 36 raw Markdown provenance files
-- 16 archive Markdown files
-- 123 generated HTML files under `_site/`
+These counts describe the former Drive wiki, not the present GitHub tree.
 
-## Corrections made in this pass
+## Corrections recorded by that pass
 
-1. **Primary path corrected.** `viewing-this-wiki.md` now points to the Google Drive-synced vault, not the stale Desktop path.
-2. **Verification language corrected.** `SCHEMA.md`, `../verification-companion.md`, `../corpus-lineage.md`, and `../agent-execution-rules.md` now treat package-era `verify.py` output as historical provenance, not the current wiki verifier.
-3. **Λ status propagated.** `../gravity-and-curvature.md`, `Frontier Close Loop Execution/12-gravity-full-gr-imports/12-gravity-full-gr-imports Readme.md`, `process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md`, and `../physics-domain-mature-status.md` now agree with [lambda-derived](../lambda-derived.md) / grqm-conflict-status<!-- unresolved historical reference: grqm-conflict-status -->: structure Registered; scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics / `w(z)` Open.
+1. **Primary path corrected.** The former viewing guide was redirected from a stale Desktop path to the Google Drive-synced vault.
+2. **Verification language corrected.** [SCHEMA.md](../SCHEMA.md), [Verification Companion](../verification-companion.md), [Corpus Lineage](../corpus-lineage.md), and [Agent Execution Rules](../agent-execution-rules.md) were revised to distinguish package-era verification provenance from current verification authority.
+3. **Λ status propagated.** [Gravity and Curvature](../gravity-and-curvature.md), [Physics Domain Mature Status](../physics-domain-mature-status.md), and [Lambda Derived](../lambda-derived.md) were aligned with a then-current `grqm-conflict-status` document that is not present in this repository. The recorded split was: structure Registered; scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics / `w(z)` Open.
 4. **Second-order full-Einstein route corrected.** Old Lovelock-only / still-conjectural second-order language was replaced with the current split: G1-conditioned one-step-conditioning second-order route Registered conditional; Lovelock-style tensor rigidity rule-given once premises are admitted; not Sealed.
-5. **Neutron A₂ stale keystone corrected.** `results/neutron-consideration.md` no longer leaves the one-line summary or §5.2 resting on imported A₂ / flavor-SU(3). It now routes the `1/4` term through flavor-mark-metric-and-neutron<!-- unresolved historical reference: flavor-mark-metric-and-neutron --> and marks the receipt-complement partition / proton residual as the remaining gates.
-6. **Flavor source mapping cleaned.** `overview/physics-source-map.md` no longer points future agents to the original Downloads path as the current source; it identifies the integrated result page and supersession relation.
-7. **Flavor result navigation added.** `results/flavor-mark-metric-and-neutron.md` now has Place/Source-link sections for wiki navigation.
-8. **Async audit findings folded in.** Corrected gauge architecture over-seal in `../locked-actual-decrement-map.md`; updated SU(3) work-plan residuals; corrected Item 1 PASS contradiction; corrected Item 5/6/8/13 electroweak residual routing; corrected electron charge-sign status; moved generation membership from Item 9 to Item 13; corrected neutron interim-status drift in result/process pages; and added `physics-source-map` to the Start Here list.
+5. **Neutron A₂ stale keystone corrected.** The former `neutron-consideration.md` and `flavor-mark-metric-and-neutron.md` documents are not present in this repository. This report records that the `1/4` term was rerouted through the flavor/mark-metric work and that the receipt-complement partition and proton residual remained gates.
+6. **Flavor source mapping cleaned.** A former `physics-source-map.md`, not present here, was revised to identify the integrated result page and supersession relation.
+7. **Flavor result navigation added.** The absent former flavor/mark-metric result received navigation sections.
+8. **Async audit findings folded in.** The pass corrected gauge-architecture status, SU(3) work-plan residuals, Item 1 PASS contradictions, electroweak routing, electron charge-sign status, generation membership, and neutron interim-status drift. The surviving relevant controls are [Locked Actual Decrement Map](../locked-actual-decrement-map.md), [Physics Domain Mature Status](../physics-domain-mature-status.md), and [Physics Domain Work Plan](../physics-domain-work-plan.md).
 
-## Mechanical verification run
+## Historical mechanical verification
 
-After patches:
+The former wiki reported:
 
-- Static build succeeded: `python3 _meta/build_html_wiki.py`
-- Built 125 pages under `_site/`
-- Missing wikilinks: 0
-- Stale scan hits for the following live-bad patterns: 0
-  - Desktop wiki path
-  - stale Λ-open/mere-values-side language
-  - live `verify.py` verifier instructions
-  - stale Lovelock-only / still-conjectural full-Einstein route wording
-  - old neutron A₂ keystone as live grounding
+- a successful static build;
+- 125 generated pages;
+- zero missing wikilinks;
+- zero stale-scan hits for the targeted patterns.
 
-Remaining false-positive scan hit:
+The build script, generated site, and former `grqm-conflict-status.md` are not present in this repository, so those claims are retained only as historical process records.
 
-- `results/grqm-conflict-status.md` contains “non-exactness only generic / value decoration-dependent” only inside a correction/retraction sentence; this is expected and should not be removed.
+## Historical remaining frontier
 
-## Remaining cleanup frontier
+The former report called for continued audits of result, overview, and frontier materials; normalization of navigation sections; a decision about frontmatter on `index.md`; and rebuilding rather than hand-editing generated HTML.
 
-1. Continue subcorpus audit of `results/*.md`, `overview/*.md`, and `Frontier Close Loop Execution/**/*.md` for stale status drift that is not caught by mechanical phrase scans.
-2. Normalize missing `Place in the physics section` / `Source links` sections where useful, especially older foundational/result pages that predate the current wiki-organization standard.
-3. Decide whether `index.md` should remain intentionally frontmatter-free or receive frontmatter for schema consistency.
-4. Sweep generated `_site/` only via rebuild; do not hand-edit generated HTML.
-
-See also: [physics-domain-mature-status](../physics-domain-mature-status.md), [physics-domain-work-plan](../physics-domain-work-plan.md), [supersession-map](../supersession-map.md), [known-failure-modes](../known-failure-modes.md), [agent-execution-rules](../agent-execution-rules.md).
+For the present repository, use [index.md](../index.md), [Corpus Lineage](../corpus-lineage.md), [Physics Domain Mature Status](../physics-domain-mature-status.md), [Physics Domain Work Plan](../physics-domain-work-plan.md), [Supersession Map](../supersession-map.md), [Known Failure Modes](../known-failure-modes.md), and [Agent Execution Rules](../agent-execution-rules.md).
