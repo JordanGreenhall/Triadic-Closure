@@ -18,7 +18,7 @@ claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registere
 
 ## 0. The object
 
-`m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4·(1 + ε_FW)`, `ε_FW = 1.8825×10⁻⁵` (subtraction residual against the
+`m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4`, `ε_FW = 1.8825×10⁻⁵` (subtraction residual against the
 measured CODATA ratio `1836.152673`; `6π⁵ = 1836.1181`). The ratio is **empirical**
 (no SM derivation exists; SM absorbs it via two free parameters). ε_FW is the From-With
 chiral face of the proton mass, one-sided against the fixed ruler `m_e = 1`.
@@ -32,8 +32,7 @@ seam (`3π⁴ = 6π⁵/2π`). Then `s² = 1.171×10⁻⁵` and the measured coef
 ε_FW is the **self-back-reaction of the exterior turn on the interior it carries**:
 - From-With face base measure = the exterior turn `2π = S¹` (flavor §4.1). Electron =
   bare turn (`2π/2π = 1`, the ruler); proton = turn wrapping the interior closure.
-- ε_FW is **second-order** by construction: the first-order effect of the turn carrying
-  the interior *is* `6π⁵`; ε_FW is the residual back-reaction, one order down →
+- ε_FW is **second-order** by construction: the direct With–This seating of the carried interior is the exact factor `6π⁵`; ε_FW is the second-order From–With back-reaction →
   scale `s² ~ 10⁻⁵` (right order, from structure not target).
 - Sign **positive**: an absorbed closure-loading loads the recurrence, never frees it.
 - Electron value **zero**: trivial interior, nothing to react back.
@@ -88,8 +87,8 @@ needs a metric on the algebra that fixes commutator scale, which is not on the b
 (the closure measure gave `a_S/a_M = π`, which does not map to `β+γ` because β and γ
 are degenerate on every baryon: `X = ⟨ΣS_i·S_j⟩` identically, octet and decuplet alike).
 
-> **Conjecture (ε_FW position).** The differential between the proven leading term
-> `6π⁵` (plus the forced bracket structure) and the empirical mass ratio lives at
+> **Conjecture (ε_FW position).** The measured position of the coefficient within the proven bracketed theorem
+> `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²]`, relative to the exact With–This factor `6π⁵`, lives at
 > `c ∈ [3/2, 9/4]`, observed `1.6076` — near the mark floor, indicating the spin/
 > correlated loading is small. The exact position is open and requires the From-With
 > coupling scale. **Conjectured; not blocking.**
@@ -100,14 +99,14 @@ are degenerate on every baryon: `X = ⟨ΣS_i·S_j⟩` identically, octet and de
 - It reaches atomic spectra at `~10⁻⁸` (reduced-mass correction `~5×10⁻⁴` × ε_FW
   `~10⁻⁵`; hyperfine `~10⁻⁶` × ε_FW). D6/D7 structure lives at order 1–`10⁻²`.
   Six-plus orders of cushion.
-- D6/D7 need only `m_p/m_e may be computationally approximated by the exact With-This factor 6π⁵ only when 10⁻⁵-level effects are explicitly being neglected; the canonical ratio is m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4` to leading order — that the ruler is native and the
+- D6/D7 may computationally truncate the canonical ratio to its exact With–This factor `6π⁵` because they are insensitive to 10⁻⁵-level effects — that the ruler is native and the
   hierarchy exists. Both Registered. The ratio's last digits are invisible to shell
   combinatorics and stability.
 
 **Therefore ε_FW is a terminal node**, not infrastructure. Its open residue (`κ`,
 the position in the bracket) is **a non-gating but canonical theorem-bounded factor** on a flagship
 "reproduce CODATA to `10⁻⁷`" claim — worth pursuing as precision physics, gating
-nothing. D6/D7 may proceed now on `6π⁵`-to-leading-order with ε_FW quarantined as:
+nothing. D6/D7 may use the computational truncation `6π⁵` while retaining the canonical bracketed theorem as:
 **exists, positive, ~10⁻⁵, bracketed in `[3/2, 9/4]·s²`, value open, non-blocking.**
 
 ## 5. Status ledger

@@ -43,14 +43,13 @@ wiki-standing. The point of the grading columns is to mark exactly where it is
 firm and where the load sits.
 
 Overall shape, one line: **structure native and near-forced; magnitude located
-and open** — the same split the mass ratio exhibited (6π⁵ exact; ε_FW bracketed).
+and open** — the same split the mass-ratio theorem exhibited: the With–This factor `6π⁵` exact, and the multiplicative From–With coefficient theorem-bounded.
 
 ---
 
 ## 1. The three gates (atom → periodic landscape)
 
-The D6 object is a composite standing: a nucleus closure (closed color, 6π⁵,
-Registered) holding electron standings (elementary, color-trivial, spin-½,
+The D6 object is a composite standing: a nucleus closure (closed color, carrying the exact With–This factor `6π⁵` within the canonical bracketed mass ratio, Registered) holding electron standings (elementary, color-trivial, spin-½,
 antisymmetric mode, m_e = 1, one unit of the U(1) valence axis) in one With over
 three isotropic With-flattened degrees. The D4 invariant carried across passages
 is the valence profile. The D5 question: what is the variation-space of electron
