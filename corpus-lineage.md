@@ -2,98 +2,132 @@
 title: Corpus Lineage
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-13
 status: control
 confidence: high
 sources:
-  - raw/package/cover-letter.md
-  - raw/context/full-conversation-ledger.md
+  - cover-letter.md
+  - full-conversation-ledger.md
 ---
 
 # Corpus Lineage
 
-This wiki compiles a physics-stratum package plus a full conversation ledger. The ledger is essential because the package contains multiple distinct documents, some of which intentionally obsolete or correct others.
+This repository contains a flattened upload of the Triadic Closure corpus. Files formerly distributed across Google Drive folders now generally live at repository root. Former folder-qualified paths are therefore provenance metadata unless GitHub visibly shows the directory.
 
-## Primary live package
+## Path translation rule
 
-The package's own `cover-letter.md` identifies a five-document reading order:
+Translate former paths by basename:
 
-1. [[architectonic-rigor]] — discipline of securing and claim-standing.
-2. [[triadic-structure-of-relating]] — canonical foundation and mathematical-domain walk.
-3. [[phi-forward-reconstruction]] — superseded package-era physics reconstruction/provenance, not current doctrine.
-4. [[verification-companion]] — graded findings and falsifiers.
-5. `raw/package/verify.py` — deterministic finite checks; latest local run: `9/9 checks passed`.
+```text
+raw/package/mass-as-self-closure.md  ->  mass-as-self-closure.md
+results/lambda-derived.md            ->  lambda-derived.md
+overview/supersession-map.md         ->  supersession-map.md
+process/agent-execution-rules.md      ->  agent-execution-rules.md
+```
 
-## Context ledger role
+Do not translate `_compiler/...`; `_compiler/` remains an actual repository directory.
 
-`raw/context/full-conversation-ledger.md` is not merely background. It records:
+## Primary governing documents
+
+Begin with:
+
+1. [README](README.md)
+2. [Index](index.md)
+3. [Schema](SCHEMA.md)
+4. [Architectonic Rigor](architectonic-rigor.md)
+5. [Triadic Structure of Relating](triadic-structure-of-relating.md)
+6. [Domain Entry Method](domain-entry-method.md)
+7. [Verification Companion](verification-companion.md)
+8. [Supersession Map](supersession-map.md)
+9. [Agent Execution Rules](agent-execution-rules.md)
+
+[Phi Forward Reconstruction](phi-forward-reconstruction.md) is package-era reconstruction/provenance and must not override later detailed work.
+
+## Conversation-ledger role
+
+[Full Conversation Ledger](full-conversation-ledger.md), where present, records:
 
 - critique and repair sequences;
-- Jordan-approved terminology and decisions;
+- explicit decisions and terminology;
 - supersession relationships;
 - known invalid derivations;
 - methodological failures agents must not repeat;
-- why the current canonical package has the shape it has.
+- why later documents have their present form.
 
-Therefore the ledger is a control source for **lineage and adjudication**, but not automatically a polished authority page.
+The ledger is a lineage and adjudication source, not automatically polished doctrine.
 
 ## Corpus tiers
 
-### Tier 1 — Canonical / control package
+### Tier 1 — Foundational and control
 
-- `architectonic-rigor-complete.md`
-- `triadic-structure-of-relating-rev-canonical.md`
-- `verification-companion.md`
-- `verify.py`
-- current control pages in `overview/` and `process/`
-
-`phi-forward-reconstruction.md` is **not** Tier 1 current. It is package-era opening material and is extensively superseded by the later conversation and result modules.
+- [Architectonic Rigor](architectonic-rigor.md)
+- [Triadic Structure of Relating](triadic-structure-of-relating.md)
+- [Verification Companion](verification-companion.md)
+- [Claim Status Vocabulary](claim-status-vocabulary.md)
+- [Vertical and Horizontal](vertical-and-horizontal.md)
+- [Domain Entry Method](domain-entry-method.md)
+- [Supersession Map](supersession-map.md)
+- [Physics Domain Mature Status](physics-domain-mature-status.md)
+- [Agent Execution Rules](agent-execution-rules.md)
 
 ### Tier 2 — Current result modules
 
-Use these as active result pages unless contradicted by the canonical package or a later explicit supersession:
+Use these as active result pages unless contradicted by a stronger detailed derivation, later repair, or explicit adjudication:
 
-- `physics-walk-D1-D5-consolidated.md` — current for the four-images-at-D1 re-walk, mediation-carrier correction, and dimensionality core; see [[dimension-and-spacetime-status]] for exact status.
-- `entering-a-new-domain.md`
-- `physics-walk-checklist.md` and `three-moves-per-stage.md` — current process/checklist aids for D-walk execution.
-- `mathematization-F1-F2.md`
-- `mathematization-F4-F7.md`
-- `mathematization-F8-done.md`
-- `mathematization-F9-done.md`
-- `mathematization-F10-resolved.md`
-- `mathematization-F11.md`
-- `lambda-derived.md`
-- `stress-energy-three-offices.md`
-- `gravity-asymmetry.md`
-- `gauge-structure-result.md`
-- `mass-as-self-closure.md`
-- `lorentz-from-recoupling.md`
-- `realizability-weighting-law.md`
-- `propagation-invariant-velocity-and-modal-structure.md`
-- `chiral-coupling-result.md`
-- `quark-lepton-split.md`
-- `d6-persistence.md`
+- [Physics Walk D1-D5 Consolidated](physics-walk-d1-d5-consolidated.md)
+- [Entering a New Domain](entering-a-new-domain.md)
+- [Physics Walk Checklist](physics-walk-checklist.md)
+- [Three Moves per Stage](three-moves-per-stage.md)
+- [Mathematization F1-F2](mathematization-F1-F2.md)
+- [Mathematization F4-F7](mathematization-F4-F7.md)
+- [Mathematization F8 Done](mathematization-F8-done.md)
+- [Mathematization F9 Done](mathematization-F9-done.md)
+- [Mathematization F10 Resolved](mathematization-F10-resolved.md)
+- [Mathematization F11](mathematization-F11.md)
+- [Lambda Derived](lambda-derived.md)
+- [Stress-Energy: Three Offices](stress-energy-three-offices.md)
+- [Gravity Asymmetry](gravity-asymmetry.md)
+- [Gauge Structure Result](gauge-structure-result.md)
+- [Mass as Self-Closure](mass-as-self-closure.md)
+- [Mass Derivation: Three Faces](mass-derivation-three-faces.md)
+- [Lorentz from Recoupling](lorentz-from-recoupling.md)
+- [Realizability Weighting Law](realizability-weighting-law.md)
+- [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
+- [Chiral Coupling Result](chiral-coupling-result.md)
+- [Quark-Lepton Split](quark-lepton-split.md)
+- [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
+- [D6 Persistence](d6-persistence.md)
 
-### Tier 3 — Historical / superseded / caution
+### Tier 3 — Historical, superseded, or cautionary
 
-Preserve for provenance. Do not treat as current doctrine without cross-checking [[supersession-map]].
+Preserve for provenance. Do not treat as current doctrine without cross-checking [Supersession Map](supersession-map.md):
 
-- `mathematization-F10-status.md`
-- `physics-walk-D1-D6.md` — contains a D6 bound-state stability argument for exactly-3 spatial dimensions; treat as supporting/adjacent rather than the primary ground, which is triadic exactly-three + horizontal With-flattening (see [[dimension-and-spacetime-status]]).
-- `physics-walk-D2.md` — earlier D2 walk; useful for provenance, but do not let it override the consolidated/canonical package.
-- `ternary-coalgebra-dimension-task.md` — task formulation whose posed coalgebra route was later refuted as dimension-indifferent; use as a caution, not closure.
-- `lambda-scaling-validation-task.md` — open validation task for Λ scaling; not a result.
-- `deferred-articulations-map.md` — work-frontier note for deferred quantitative articulations; not current doctrine.
-- `d3-color-forcing-argument.md`
-- `d3-su3-conditional-theorem.md`
-- `internal-structure-walk-move1.md`
-- `internal-structure-walk-move2.md`
-- `d3-as-established.md`
-- `d4-as-established.md`
-- `mathematization-F8-F11.md`
+- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- [Mathematization F10 Status](mathematization-F10-status.md)
+- [Physics Walk D1-D6](physics-walk-D1-D6.md)
+- [Physics Walk D2](physics-walk-D2.md)
+- [Ternary Coalgebra Dimension Task](ternary-coalgebra-dimension-task.md)
+- [Lambda Scaling Validation Task](lambda-scaling-validation-task.md)
+- [Deferred Articulations Map](deferred-articulations-map.md)
+- [D3 Color Forcing Argument](d3-color-forcing-argument.md)
+- [D3 SU(3) Conditional Theorem](d3-su3-conditional-theorem.md)
+- [Internal Structure Walk Move 1](internal-structure-walk-move1.md)
+- [Internal Structure Walk Move 2](internal-structure-walk-move2.md)
+- [D3 as Established](d3-as-established.md)
+- [D4 as Established](d4-as-established.md)
+- [Mathematization F8-F11](mathematization-F8-F11.md)
 
-## Execution implication
+## Claim-specific authority
 
-An agent should begin from the canonical package and current result modules, using the ledger to avoid regression. The goal is not to average all documents. The goal is to preserve the current settled state and the map of open joints.
+The goal is not to average all documents. For any semantic object, compare the full lineage and preserve the strongest coherent current formulation. The normal evidentiary order is:
 
-See also: [[supersession-map]], [[agent-execution-rules]], [[known-failure-modes]], [[vertical-and-horizontal]].
+1. complete detailed derivation;
+2. later detailed repair or extension;
+3. explicit adjudication of objections or competing routes;
+4. downstream use that necessarily sharpens the claim;
+5. current control page;
+6. summary or orientation prose.
+
+A former location in `results/`, `overview/`, `process/`, or `raw/` confers no authority in the flattened repository.
+
+See also: [Supersession Map](supersession-map.md), [Agent Execution Rules](agent-execution-rules.md), [Known Failure Modes](known-failure-modes.md), and [Vertical and Horizontal](vertical-and-horizontal.md).
