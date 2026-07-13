@@ -1,66 +1,66 @@
 ---
-title: Viewing This Wiki
+title: Viewing This Repository
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-13
 status: control
 confidence: high
 ---
 
-# Viewing This Wiki
+# Viewing This Repository
 
-This folder is a real Markdown wiki, not only a machine index. It uses Obsidian-style wikilinks of the form: double-bracket page names.
+This is a Markdown corpus stored primarily in a flattened repository-root layout.
 
-## Best option: Obsidian
+## GitHub
 
-Open the folder as an Obsidian vault:
+Begin with [README.md](README.md), then [index.md](index.md). The index uses ordinary repository-relative Markdown links and is the governing navigation surface.
 
-`/Users/roberthall/Desktop/Triadic Closure Wiki`
+Do not follow former folder-qualified paths such as `overview/...`, `results/...`, `process/...`, or `raw/package/...` unless that directory is visibly present in GitHub. Resolve uploaded corpus documents by root-level filename.
 
-Steps:
+## Local clone
 
-1. Open Obsidian.
-2. Choose **Open folder as vault**.
-3. Select `/Users/roberthall/Desktop/Triadic Closure Wiki`.
-4. Open `index.md` first.
+After cloning the repository, open the repository root in any Markdown editor or IDE. The current repository path depends on where the user cloned it; no machine-specific absolute path is canonical.
 
-Obsidian will make the wiki links clickable and gives backlinks / graph view.
+Recommended entry sequence:
 
-## Good option: VS Code
+1. `README.md`
+2. `index.md`
+3. `SCHEMA.md`
+4. `corpus-lineage.md`
+5. `supersession-map.md`
+6. `locked-actual-decrement-map.md`
+7. `physics-domain-mature-status.md`
+8. `physics-domain-work-plan.md`
+9. `agent-execution-rules.md`
 
-Open the folder in VS Code. Markdown links and file search work well, especially with extensions such as:
+## Obsidian
 
-- Markdown All in One;
-- Foam;
-- markdown-link-updater.
+The repository root may be opened as an Obsidian vault. Obsidian-style wikilinks inside corpus documents may then resolve by basename, but repository governance should still use the explicit links in `index.md`.
 
-This is less native than Obsidian but good for editing.
+## VS Code or another editor
 
-## Static HTML option
+Open the repository root. Useful capabilities include:
 
-A dependency-free static builder is included:
+- Markdown preview;
+- repository-wide filename search;
+- broken-link checking;
+- exact-text search for stale prefixes such as `results/`, `overview/`, `process/`, `raw/package/`, and `raw/context/`.
 
-```bash
-cd "/Users/roberthall/Desktop/Triadic Closure Wiki"
-python3 _meta/build_html_wiki.py
-open _site/index.html
-```
+## Static generation
 
-This produces a clickable HTML copy under `_site/`. It is intentionally simple and not a replacement for Obsidian. Re-run it after edits.
+Do not assume a historical `_meta/build_html_wiki.py` or `_site/` path exists merely because an older document mentions it. Run a static builder only after verifying that the script exists in the current repository.
 
-## Terminal/manual option
+## Manual use
 
-The wiki is still usable manually:
+Start at [index.md](index.md). For control and status work, read:
 
-- Start at `index.md`.
-- For control/status work, read:
-  - `overview/corpus-lineage.md`
-  - `overview/supersession-map.md`
-  - `overview/locked-actual-decrement-map.md`
-  - `overview/physics-domain-mature-status.md`
-  - `overview/physics-domain-work-plan.md`
-  - `process/agent-execution-rules.md`
+- [Corpus Lineage](corpus-lineage.md)
+- [Supersession Map](supersession-map.md)
+- [Locked Actual Decrement Map](locked-actual-decrement-map.md)
+- [Physics Domain Mature Status](physics-domain-mature-status.md)
+- [Physics Domain Work Plan](physics-domain-work-plan.md)
+- [Agent Execution Rules](agent-execution-rules.md)
 
 ## Rule
 
-If browsing by hand, never treat raw package files as current just because they contain polished prose. Always route through `index.md` and the control pages first.
+Never treat a document as current merely because it is polished or because it formerly lived in a folder called `results`. Route through the current index, lineage, supersession, and status controls first.
