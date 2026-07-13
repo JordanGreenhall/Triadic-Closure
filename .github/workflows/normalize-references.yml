@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - 'tools/normalize_references.py'
+      - 'tools/finalize_reference_normalization.py'
       - '.github/workflows/normalize-references.yml'
 
 permissions:
@@ -21,7 +22,9 @@ jobs:
           fetch-depth: 0
 
       - name: Normalize Markdown references
-        run: python3 tools/normalize_references.py
+        run: |
+          python3 tools/normalize_references.py
+          python3 tools/finalize_reference_normalization.py
 
       - name: Commit repaired references
         run: |
@@ -36,5 +39,5 @@ jobs:
             echo 'No staged changes.'
             exit 0
           fi
-          git commit -m 'Repair stale corpus sources and internal links'
+          git commit -m 'Finalize corpus source and link repairs'
           git push
