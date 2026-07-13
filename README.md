@@ -1,60 +1,87 @@
 # Triadic Closure
 
-This repository is the refactored canonical corpus for Jordan Hall's Triadic Closure project.
+This repository contains the working Triadic Closure corpus in a **flattened root-level layout**. The Markdown files were uploaded from the prior Google Drive wiki without preserving its folder hierarchy. Paths inherited from the Drive layout—such as `results/`, `overview/`, `process/`, `concepts/`, `raw/package/`, and `raw/context/`—must therefore not be treated as current repository paths.
 
-It is organized by level of abstraction rather than by the historical order in which source files accumulated. The governing hierarchy is:
+## Repository layout
 
-1. **Method and control** — how claims acquire standing, how domains are entered, how supersession and source authority are handled, and how future work is executed without status inflation or conceptual smuggling.
-2. **Foundational architectonics** — the From / With / This structure, triadic closure, admissibility, realizability, actuality, vertical and horizontal organization, and the defended exactly-three posit.
-3. **Domains** — physics as the first mature worked domain; chemistry as the next developed domain; later domains will be added at the same level.
-4. **Provenance** — a migration and dependency ledger mapping the historical Google Drive wiki into the canonical corpus.
+The repository root contains:
 
-## Canonical structure
+- `index.md` — the primary navigational index;
+- `SCHEMA.md` — repository conventions and agent rules;
+- `README.md` — this repository-level orientation;
+- current result, control, concept, process, frontier, historical, and provenance Markdown files, all at root unless an actual subdirectory is visible in GitHub;
+- `_compiler/` — compiler and semantic-adjudication working files. These are control artifacts, not substitutes for the underlying corpus.
 
-- `01-method-and-control.md`
-- `02-foundational-architectonics.md`
-- `03-physics/`
-- `04-chemistry/`
-- `90-provenance-and-migration-ledger.md`
+The authoritative path for a root document is therefore simply:
 
-Physics is one domain, not the organizing frame of the whole repository. Its internal material may be divided into a small number of subordinate documents, but those documents remain under the single primary heading **Physics**. Chemistry is a peer domain and begins from the same general domain-entry discipline.
+```text
+filename.md
+```
+
+not:
+
+```text
+results/filename.md
+overview/filename.md
+process/filename.md
+raw/package/filename.md
+```
+
+## Navigation and linking
+
+Use ordinary repository-relative Markdown links:
+
+```markdown
+[Mass as Self-Closure](mass-as-self-closure.md)
+```
+
+Obsidian-style wikilinks such as `[[mass-as-self-closure]]` may remain inside historical corpus text, but governing navigation files should also provide explicit GitHub-resolvable links.
+
+When a document cites another corpus file by an obsolete Drive path, resolve it by basename against the repository root. A stale path does not establish that the target is absent; it records the file's former location.
+
+## Corpus authority
+
+Authority is claim-specific rather than folder-specific or document-wide. For any claim, prefer:
+
+1. the most advanced complete detailed derivation;
+2. later detailed repairs or extensions;
+3. explicit adjudications and current rulings;
+4. downstream work that necessarily spends and sharpens the claim;
+5. current control pages;
+6. summaries and orientation prose.
+
+A newer summary may not override a stronger detailed derivation merely by being newer or shorter.
 
 ## Claim standing
 
-Canonical claims use the following live statuses:
+The live claim standings are:
 
-- **Open** — an explicit work frontier.
-- **Conjectured** — a serious proposal not yet registered by the framework.
-- **Conjectured-strong** — a conjecture with substantial structural support, still short of registration.
-- **Registered-candidate** — derived in-session on registered parents but not yet promoted after adversarial review.
-- **Registered** — secured by the stated dependency route.
-- **Registered and Sealed** — carries no additional load beyond the registered structure; the identity is closed in both directions.
-- **Defended posit** — a foundational posit carrying maximal available warrant beneath the totalization ceiling, while remaining open to refutation by a genuine irreducible counterexample.
-- **Dissolved** — a question, distinction, or gate shown to arise from a category error or imported ontology and therefore removed rather than answered.
+- **Open** — an explicit work frontier;
+- **Conjectured** — a serious proposal not yet registered;
+- **Conjectured-strong** — substantial structural support, still short of registration;
+- **Registered-candidate** — derived on registered parents but awaiting promotion after review;
+- **Registered** — secured by the stated dependency route;
+- **Registered and Sealed** — registered with the identity closed in both directions;
+- **Defended posit** — maximally warranted beneath the totalization ceiling, while open to a genuine irreducible counterexample;
+- **Dissolved** — removed because the question or gate arose from an imported ontology or category error.
 
-`Locked actual` is deprecated. Historical uses must be translated through the current claim-status discipline rather than copied forward.
+`Locked actual` is deprecated and must be translated through the current status discipline.
 
 ## Governing editorial rules
 
-- Never upgrade a claim beyond the strength of its dependency route.
-- Distinguish structural derivation from values-side fit, imported empirical identification, and recognition after the fact.
-- Do not preserve a historical question merely because prior documents treated it as a gate. A smuggled demand may be dissolved.
+- Never upgrade a claim beyond its dependency route.
+- Distinguish structural derivation from empirical fit, imported identification, and recognition after the fact.
 - Preserve the distinction between vertical office-composition and horizontal accumulation.
-- Treat raw source material as provenance, not as current authority.
-- Every domain document must identify what it inherits, what its native constraint is, what it derives, what remains open, and which prior-domain results it spends.
+- Treat historical source-location metadata as provenance, not as current repository topology.
+- Do not infer authority from a former folder name.
+- When a path is stale, repair the path without silently changing the semantic claim.
 
-## Domain pattern
+## Current maintenance priority
 
-Each mature domain should expose the same architecture:
+The immediate repository-maintenance task is path normalization after the flattened upload:
 
-1. domain entry;
-2. D-series walk;
-3. deep dives;
-4. current standing;
-5. open frontier.
-
-Physics is the first mature instance of this pattern. Chemistry is the second and begins with the D1-D4 dynamics walk.
-
-## Refactor status
-
-The historical corpus remains in Google Drive as the source archive. This repository is being rewritten directly from that archive. The old file layout is not presumed canonical. Duplicate, superseded, generated, and control-only materials are absorbed into the new architecture rather than mirrored wholesale.
+1. keep `README.md`, `index.md`, and `SCHEMA.md` aligned with the actual tree;
+2. replace stale folder-qualified navigation links with root-relative links;
+3. preserve historical source paths only when explicitly labeled as historical provenance;
+4. verify every referenced basename exists in the repository before treating a link repair as complete;
+5. keep `_compiler/` controls synchronized with the substantive corpus rather than allowing them to replace it.
