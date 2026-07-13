@@ -2,44 +2,72 @@
 title: Agent Execution Rules
 type: process
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-13
 status: control
 confidence: high
 sources:
-  - raw/context/full-conversation-ledger.md
-  - raw/package/physics-walk-checklist.md
-  - raw/package/cover-letter.md
+  - full-conversation-ledger.md
+  - physics-walk-checklist.md
+  - cover-letter.md
 ---
 
 # Agent Execution Rules
 
-These rules govern future agents using this wiki for execution.
+These rules govern future agents using this repository for execution.
 
 ## Start here every time
 
-1. Read `SCHEMA.md`.
-2. Read [[corpus-lineage]].
-3. Read [[supersession-map]].
-4. Read [[locked-actual-decrement-map]].
-5. If doing physics-domain work, read [[physics-domain-mature-status]] and [[physics-domain-work-plan]].
-6. Read [[dimension-and-spacetime-status]].
-7. Read this page.
-8. If doing theorem/proof/status work, read [[known-failure-modes]].
+1. Read [README.md](README.md).
+2. Read [index.md](index.md).
+3. Read [SCHEMA.md](SCHEMA.md).
+4. Read [Corpus Lineage](corpus-lineage.md).
+5. Read [Supersession Map](supersession-map.md).
+6. Read [Locked Actual Decrement Map](locked-actual-decrement-map.md).
+7. For physics-domain work, read [Physics Domain Mature Status](physics-domain-mature-status.md) and [Physics Domain Work Plan](physics-domain-work-plan.md).
+8. Read [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
+9. For theorem, proof, or status work, read [Known Failure Modes](known-failure-modes.md).
+
+## Repository path discipline
+
+The corpus is stored primarily at repository root. Former Google Drive paths such as `results/`, `overview/`, `process/`, `concepts/`, `raw/package/`, and `raw/context/` are not current repository topology unless the directory is visibly present.
+
+- Resolve ordinary corpus files by root-level basename.
+- Use GitHub-resolvable Markdown links in governing documents.
+- Preserve obsolete folder-qualified paths only when explicitly labeled as historical provenance.
+- Do not infer semantic authority from a former folder name.
+- `_compiler/` remains a real directory and must retain its path prefix.
 
 ## Do not average the corpus
 
-The raw package contains historical and superseded files. A claim appearing in a file is not enough. Determine its standing:
+A claim appearing in a file is not enough. Determine its standing and its claim-specific lineage:
 
 - current;
 - historical;
 - superseded;
 - Open;
 - Conjectured;
+- Conjectured-strong;
+- Registered-candidate;
 - Registered;
 - Registered and Sealed;
-- contested;
-- computed/check only;
-- deprecated/raw-package `locked actual` requiring translation through [[locked-actual-decrement-map]].
+- Defended posit;
+- Dissolved;
+- computed or check-only.
+
+Deprecated `locked actual` language must be translated through [Locked Actual Decrement Map](locked-actual-decrement-map.md).
+
+## Claim-specific authority
+
+For a disputed or multiply stated claim, inspect the whole relevant lineage. Prefer:
+
+1. the most advanced complete detailed derivation;
+2. later detailed repairs or extensions;
+3. explicit adjudications and current rulings;
+4. downstream work that necessarily spends and sharpens the claim;
+5. current control pages;
+6. summaries and orientation prose.
+
+A summary may route the reader but may not erase a stronger detailed result.
 
 ## No tool theater
 
@@ -47,44 +75,45 @@ A computation must be a real computation whose result could have come back again
 
 Forbidden:
 
-- writing a formula by hand and printing it as "confirmed";
+- writing a formula by hand and printing it as confirmed;
 - hard-coding the desired result;
-- using Python/Bash merely to display prose as if it were evidence;
+- using Python or shell merely to display prose as evidence;
 - calling an assertion a simulation.
 
 Allowed:
 
-- deterministic checks like `verify.py` where actual conditions are evaluated;
-- mechanical link/lint checks;
+- deterministic checks where actual conditions are evaluated;
+- mechanical link and lint checks;
 - calculations whose input is not the desired conclusion;
 - scripts that surface failures and can return nonzero.
 
-If there is no derivation, say: **the framework does not currently derive this**.
+Where no derivation exists, state that the framework does not currently derive the claim.
 
 ## Do not upgrade modal status
 
-If a source says "argued," do not report "proved." If it says "selection," do not report "forced." If raw package text says `locked actual`, do not use that status directly; translate it through [[locked-actual-decrement-map]] into Open, Conjectured, Registered, or Registered and Sealed.
+If a source says argued, do not report proved. If it says selection, do not report forced. Keep warrant route and claim standing distinct.
 
-Spacetime-dimensionality special case: exact `3+1` is Registered and Sealed at the same strength as triadic exactly-three plus horizontal flattening: three With-flattened spatial degrees plus one From-succession direction. Do not present this as a completed formal theorem, and do not justify it by arity-to-dimension or D6 stability alone.
+Spacetime-dimensionality special case: exact `3+1` is Registered and Sealed at the same strength as triadic exactly-three plus horizontal flattening—three With-flattened spatial degrees plus one From-succession direction. Do not present this as a completed formal theorem, and do not justify it by arity-to-dimension or D6 stability alone.
 
 ## Canonical vocabulary
 
-Use the current vocabulary from [[vertical-and-horizontal]]:
+Use [Vertical and Horizontal](vertical-and-horizontal.md):
 
 - vertical = synchronic office-composition / admissibility / J;
 - horizontal = diachronic accumulation / realizability / ρ;
-- layers/nesting = horizontal-standing-face, not canonical vertical;
+- layers or nesting = horizontal-standing-face, not canonical vertical;
 - color = This-flattening / interior triadic distinction, not mediation carrier.
 
 ## Execution outputs
 
-When producing new work from this wiki, include:
+When producing new work from this repository, include:
 
 - source pages read;
+- current repository paths used;
 - status of each claim used;
-- whether any superseded material was consulted;
+- whether historical or superseded material was consulted;
 - open joints touched;
 - verification performed;
 - exact files changed or created.
 
-See also: [[known-failure-modes]], [[supersession-map]], [[vertical-and-horizontal]].
+See also: [Known Failure Modes](known-failure-modes.md), [Supersession Map](supersession-map.md), and [Vertical and Horizontal](vertical-and-horizontal.md).
