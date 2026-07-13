@@ -1,62 +1,127 @@
-# Physics Execution Wiki Index
+# Triadic Closure Corpus Index
 
-> Generated: 2026-06-21. Agent-execution orientation wiki for Jordan Hall physics package.
+> The corpus is stored in a flattened root-level layout. Every path below is relative to the repository root.
 
-## Start Here
+## Start here
 
-1. [[viewing-this-wiki]]
-2. [[corpus-lineage]]
-3. [[supersession-map]]
-4. [[locked-actual-decrement-map]]
-5. [[physics-domain-mature-status]]
-6. [[physics-domain-work-plan]]
-7. [[dimension-and-spacetime-status]]
-8. [[agent-execution-rules]]
-9. [[known-failure-modes]]
-10. [[vertical-and-horizontal]]
+1. [README](README.md)
+2. [Schema](SCHEMA.md)
+3. [Viewing This Wiki](viewing-this-wiki.md)
+4. [Corpus Lineage](corpus-lineage.md)
+5. [Supersession Map](supersession-map.md)
+6. [Locked Actual Decrement Map](locked-actual-decrement-map.md)
+7. [Physics Domain Mature Status](physics-domain-mature-status.md)
+8. [Physics Domain Work Plan](physics-domain-work-plan.md)
+9. [Dimension and Spacetime Status](dimension-and-spacetime-status.md)
+10. [Agent Execution Rules](agent-execution-rules.md)
+11. [Known Failure Modes](known-failure-modes.md)
+12. [Vertical and Horizontal](vertical-and-horizontal.md)
 
-## Overview Pages
+## Foundational and methodological corpus
 
-- [[corpus-lineage]] — Corpus Lineage. Status: control. Path: `overview/corpus-lineage.md`
-- [[dimension-and-spacetime-status]] — Dimension and Spacetime Status. Status: control. Path: `overview/dimension-and-spacetime-status.md`
-- [[jordan-decisions]] — Jordan Decisions. Status: control. Path: `overview/jordan-decisions.md`
-- [[locked-actual-decrement-map]] — Locked Actual Decrement Map. Status: control. Path: `overview/locked-actual-decrement-map.md`
-- [[physics-domain-mature-status]] — Physics Domain Mature Status. Status: control. Path: `overview/physics-domain-mature-status.md`
-- [[physics-domain-work-plan]] — Physics Domain Work Plan. Status: control. Path: `overview/physics-domain-work-plan.md`
-- [[known-failure-modes]] — Known Failure Modes. Status: control. Path: `overview/known-failure-modes.md`
-- [[supersession-map]] — Supersession Map. Status: control. Path: `overview/supersession-map.md`
-- [[viewing-this-wiki]] — Viewing This Wiki. Status: control. Path: `overview/viewing-this-wiki.md`
+- [Architectonic Rigor](architectonic-rigor.md)
+- [Triadic Structure of Relating](triadic-structure-of-relating.md)
+- [Domain Entry Method](domain-entry-method.md)
+- [Entering a New Domain](entering-a-new-domain.md)
+- [Claim Status Vocabulary](claim-status-vocabulary.md)
+- [Vertical and Horizontal](vertical-and-horizontal.md)
+- [Verification Companion](verification-companion.md)
+- [Physics Walk Checklist](physics-walk-checklist.md)
+- [Three Moves per Stage](three-moves-per-stage.md)
 
-## Concept Pages
+## Physics control and orientation
 
-- [[claim-status-vocabulary]] — Claim Status Vocabulary. Status: current. Path: `concepts/claim-status-vocabulary.md`
-- [[vertical-and-horizontal]] — Vertical and Horizontal. Status: current. Path: `concepts/vertical-and-horizontal.md`
+- [Physics Section Guide](physics-section-guide.md)
+- [Physics Source Map](physics-source-map.md)
+- [Physics Domain Mature Status](physics-domain-mature-status.md)
+- [Physics Domain Work Plan](physics-domain-work-plan.md)
+- [Dimension and Spacetime Status](dimension-and-spacetime-status.md)
+- [Corpus Cleanup Pass Report](corpus-cleanup-pass-report.md)
+- [Jordan Decisions](jordan-decisions.md)
 
-## Result Pages
+## Physics walk, kinematics, and actualization
 
-- [[architectonic-rigor]] — Architectonic Rigor. Status: current. Path: `results/architectonic-rigor.md`
-- [[chiral-coupling-result]] — Chiral Coupling Result. Status: current. Path: `results/chiral-coupling-result.md`
-- [[gauge-structure-result]] — Gauge Structure Result. Status: current. Path: `results/gauge-structure-result.md`
-- [[gravity-and-curvature]] — Gravity and Curvature. Status: current. Path: `results/gravity-and-curvature.md`
-- [[lambda-derived]] — Lambda Derived. Status: current. Path: `results/lambda-derived.md`
-- [[lorentz-from-recoupling]] — Lorentz From Recoupling. Status: current. Path: `results/lorentz-from-recoupling.md`
-- [[mass-as-self-closure]] — Mass as Self-Closure. Status: current. Path: `results/mass-as-self-closure.md`
-- [[physics-walk-d1-d5-consolidated]] — Physics Walk D1-D5 Consolidated. Status: current. Path: `results/physics-walk-d1-d5-consolidated.md`
-- [[propagation-and-invariant-velocity]] — Propagation and Invariant Velocity. Status: current. Path: `results/propagation-and-invariant-velocity.md`
-- [[quark-lepton-split]] — Quark Lepton Split. Status: current. Path: `results/quark-lepton-split.md`
-- [[realizability-weighting-law]] — Realizability Weighting Law. Status: current. Path: `results/realizability-weighting-law.md`
-- [[stress-energy-three-offices]] — Stress-Energy Three Offices. Status: current. Path: `results/stress-energy-three-offices.md`
-- [[triadic-structure-of-relating]] — Triadic Structure of Relating. Status: current. Path: `results/triadic-structure-of-relating.md`
-- [[verification-companion]] — Verification Companion. Status: current. Path: `results/verification-companion.md`
-- [[phi-forward-reconstruction]] — Φ Forward Reconstruction. Status: superseded. Path: `results/phi-forward-reconstruction.md`
+- [Physics Walk D1-D5 Consolidated](physics-walk-d1-d5-consolidated.md)
+- [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
+- [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
+- [Lorentz from Recoupling](lorentz-from-recoupling.md)
+- [Realizability Weighting Law](realizability-weighting-law.md)
+- [Amplitude Readout](02-amplitude-readout.md)
+- [Actualization Selection](actualization-selection.md)
 
-## Process Pages
+## Internal structure and matter
 
-- [[agent-execution-rules]] — Agent Execution Rules. Status: control. Path: `process/agent-execution-rules.md`
+- [Gauge Structure Result](gauge-structure-result.md)
+- [Quark-Lepton Split](quark-lepton-split.md)
+- [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
+- [Chiral Coupling Result](chiral-coupling-result.md)
+- [Particle Identity Ledger](07-particle-identity-ledger.md)
+- [Charge and Hypercharge Ledger](08-charge-hypercharge-ledger.md)
+- [Specific Color Dynamics / QCD Quarantine](09-specific-color-dynamics-qcd-quarantine.md)
+- [Decay Product Registration](11-decay-product-registration.md)
 
-## Raw Sources
+## Closure, mass, and persistence
 
-- Package sources: `raw/package/`
-- Context ledger: `raw/context/full-conversation-ledger.md`
-- Source inventory: `_meta/source-inventory.json`
-- Verify output: `_meta/verify-output.txt`
+- [Mass as Self-Closure](mass-as-self-closure.md)
+- [With-to-This Closure](with-to-this-closure.md)
+- [Closure-Inherited Metric](closure-inherited-metric.md)
+- [Mass Derivation: Three Faces](mass-derivation-three-faces.md)
+- [Neutron Consideration](neutron-consideration.md)
+- [D6 Persistence](d6-persistence.md)
+
+## Gravity and cosmology
+
+- [Gravity and Curvature](gravity-and-curvature.md)
+- [Gravity Asymmetry](gravity-asymmetry.md)
+- [Stress-Energy: Three Offices](stress-energy-three-offices.md)
+- [Lambda Derived](lambda-derived.md)
+- [GR/QM Conflict Status](grqm-conflict-status.md)
+- [Gravity Full-GR Imports](12-gravity-full-gr-imports.md)
+
+## Mathematization sequence
+
+- [Mathematization F1-F2](mathematization-F1-F2.md)
+- [Mathematization F4-F7](mathematization-F4-F7.md)
+- [Mathematization F8 Done](mathematization-F8-done.md)
+- [Mathematization F9 Done](mathematization-F9-done.md)
+- [Mathematization F10 Resolved](mathematization-F10-resolved.md)
+- [Mathematization F11](mathematization-F11.md)
+
+## Frontier and execution ledgers
+
+- [Physics Concept Load-Pass Ledger](03-10-physics-concept-load-pass-ledger.md)
+- [Items 2-4 Status](02-04-items-2-3-4-status.md)
+- [Gauge Architecture Beyond Color](05-gauge-architecture-beyond-color.md)
+- [Spin, Helicity, and Chirality Lift](06-spin-helicity-chirality-lift.md)
+- [Frontier and Open Ledger](09-frontier-and-open-ledger.md)
+
+## Historical, superseded, and cautionary material
+
+These files remain useful for provenance but must be read through [Corpus Lineage](corpus-lineage.md) and [Supersession Map](supersession-map.md):
+
+- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- [Physics Walk D1-D6](physics-walk-D1-D6.md)
+- [Physics Walk D2](physics-walk-D2.md)
+- [Ternary Coalgebra Dimension Task](ternary-coalgebra-dimension-task.md)
+- [Lambda Scaling Validation Task](lambda-scaling-validation-task.md)
+- [Deferred Articulations Map](deferred-articulations-map.md)
+- [Mathematization F10 Status](mathematization-F10-status.md)
+- [Mathematization F8-F11](mathematization-F8-F11.md)
+
+## Compiler workspace
+
+The `_compiler/` directory contains semantic inventories and adjudication controls. It is a working layer, not a replacement for the corpus. Begin with the repository-level documents above before using compiler artifacts.
+
+## Path rule
+
+The former Google Drive folder paths are historical metadata. In this repository, resolve corpus documents by their root-level filename unless GitHub visibly shows an actual subdirectory. For example:
+
+```text
+mass-as-self-closure.md
+```
+
+not:
+
+```text
+results/mass-as-self-closure.md
+```
