@@ -6,9 +6,8 @@ updated: 2026-07-13
 status: control
 confidence: high
 sources:
-  - full-conversation-ledger.md
-  - physics-walk-checklist.md
   - cover-letter.md
+  - physics-walk-checklist.md
 ---
 
 # Agent Execution Rules
@@ -36,6 +35,7 @@ The corpus is stored primarily at repository root. Former Google Drive paths suc
 - Preserve obsolete folder-qualified paths only when explicitly labeled as historical provenance.
 - Do not infer semantic authority from a former folder name.
 - `_compiler/` remains a real directory and must retain its path prefix.
+- Do not cite a source or conversation ledger as present unless its repository path resolves.
 
 ## Do not average the corpus
 
@@ -60,7 +60,7 @@ Deprecated `locked actual` language must be translated through [Locked Actual De
 
 For a disputed or multiply stated claim, inspect the whole relevant lineage. Prefer:
 
-1. the most advanced complete detailed derivation;
+1. the most advanced complete detailed derivation available in the repository;
 2. later detailed repairs or extensions;
 3. explicit adjudications and current rulings;
 4. downstream work that necessarily spends and sharpens the claim;
