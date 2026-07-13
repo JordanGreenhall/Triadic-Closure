@@ -5,9 +5,8 @@ created: 2026-06-21
 updated: 2026-06-21
 status: current
 confidence: high
-sources:
-  - physics-walk-d1-d5-consolidated.md
 historical_sources:
+  - physics-walk-d1-d5-consolidated.md
   - raw/context/full-conversation-ledger.md
 ---
 

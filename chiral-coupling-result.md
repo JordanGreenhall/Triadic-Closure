@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - chiral-coupling-result.md
   - gauge-structure-result.md
+historical_sources:
+  - chiral-coupling-result.md
 ---
 
 # Chiral Coupling Result

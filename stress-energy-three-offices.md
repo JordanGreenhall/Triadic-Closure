@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - stress-energy-three-offices.md
   - mathematization-F11.md
+historical_sources:
+  - stress-energy-three-offices.md
 ---
 
 # Stress-Energy Three Offices

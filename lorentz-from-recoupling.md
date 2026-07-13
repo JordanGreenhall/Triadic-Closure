@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - lorentz-from-recoupling.md
   - propagation-invariant-velocity-and-modal-structure.md
+historical_sources:
+  - lorentz-from-recoupling.md
 ---
 
 # Lorentz From Recoupling

@@ -6,9 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: high
 sources:
-  - verification-companion.md
+  - verify.py
 historical_sources:
-  - raw/package/verify.py
+  - verification-companion.md
   - _meta/verify-output.txt
 ---
 
@@ -24,7 +24,7 @@ The checks support the mathematical-domain walk. They do not automatically seal 
 
 ## Local verification
 
-`raw/package/verify.py` was run locally during wiki creation.
+`verify.py` was run locally during wiki creation.
 
 Result: **9/9 checks passed**.
 

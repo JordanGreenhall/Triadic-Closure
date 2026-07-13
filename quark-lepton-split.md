@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - quark-lepton-split.md
   - gauge-structure-result.md
+historical_sources:
+  - quark-lepton-split.md
 ---
 
 # Quark / Lepton Split

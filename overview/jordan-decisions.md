@@ -5,7 +5,6 @@ created: 2026-06-21
 updated: 2026-06-21
 status: control
 confidence: medium
-sources:
 historical_sources:
   - raw/context/full-conversation-ledger.md
 ---

@@ -6,9 +6,9 @@ updated: 2026-06-21
 status: superseded
 confidence: high
 sources:
-  - phi-forward-reconstruction.md
   - cover-letter.md
 historical_sources:
+  - phi-forward-reconstruction.md
   - raw/context/full-conversation-ledger.md
 ---
 

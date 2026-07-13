@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - lambda-derived.md
   - mathematization-F11.md
+historical_sources:
+  - lambda-derived.md
 ---
 
 # Lambda Derived

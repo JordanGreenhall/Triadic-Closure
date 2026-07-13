@@ -31,7 +31,7 @@ This first layer is not a preface to physics. It is the wiki's root.
 
 Read this before any domain-specific reconstruction:
 
-5. domain-entry-method<!-- unresolved historical reference: domain-entry-method --> — the method for refusing a domain's unconscious metaphysics, clarifying its presuppositions architectonically, inheriting the prior object as From-whole, and applying the domain constraint.
+[5. domain-entry-method](../entering-a-new-domain.md) — the method for refusing a domain's unconscious metaphysics, clarifying its presuppositions architectonically, inheriting the prior object as From-whole, and applying the domain constraint.
 
 For physics, this page explains why physics is entered as the mathematical object plus the self-transforming / invariant / coherent constraint, and why causation, metric, identity, possibility, and actuality must be rebuilt before use.
 
@@ -43,7 +43,7 @@ Only after the above should a reader enter the physics corpus:
 7. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
 8. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
 9. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
-10. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md), mass-derivation-three-faces<!-- unresolved historical reference: mass-derivation-three-faces -->, [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
+10. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
 
@@ -54,7 +54,7 @@ Use these to avoid regression:
 - [locked-actual-decrement-map](../locked-actual-decrement-map.md) — deprecated package-era status translation.
 - [known-failure-modes](../known-failure-modes.md) — recurring agent and proof-status errors.
 - [agent-execution-rules](../agent-execution-rules.md) — execution rules for future agents.
-- physics-source-map<!-- unresolved historical reference: physics-source-map --> — curated-to-raw source map for the physics section.
+[- physics-source-map](../corpus-lineage.md) — curated-to-raw source map for the physics section.
 
 ## Rule of orientation
 

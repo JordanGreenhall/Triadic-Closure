@@ -5,9 +5,8 @@ created: 2026-06-21
 updated: 2026-06-21
 status: current
 confidence: medium
-sources:
-  - mass-as-self-closure.md
 historical_sources:
+  - mass-as-self-closure.md
   - raw/context/full-conversation-ledger.md
 ---
 

@@ -6,9 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - gauge-structure-result.md
   - physics-walk-d1-d5-consolidated.md
 historical_sources:
+  - gauge-structure-result.md
   - raw/context/full-conversation-ledger.md
 ---
 

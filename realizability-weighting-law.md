@@ -6,8 +6,9 @@ updated: 2026-06-21
 status: current
 confidence: medium
 sources:
-  - realizability-weighting-law.md
   - mathematization-F8-done.md
+historical_sources:
+  - realizability-weighting-law.md
 ---
 
 # Realizability Weighting Law
