@@ -6,24 +6,36 @@ ROOT = Path(__file__).resolve().parents[1]
 CANON_ASCII = "m_p / m_e = 6 pi^5 [1 + c(3 pi^4)^-2], with 3/2 <= c <= 9/4"
 CANON_UNICODE = "m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4"
 REPORT = ROOT / "mass-ratio-audit-report.md"
-
 EXCLUDED_PARTS = {'.git', 'node_modules'}
 
 EXACT_REPLACEMENTS = {
+    # Canonical equation forms.
     "m_p / m_e = 6 pi^5 x (1 + epsilon_FW)": CANON_ASCII,
     "m_p / m_e = 6 pi^5 (1 + epsilon_FW)": CANON_ASCII,
     "m_p/m_e = 6π⁵(1+ε_FW)": CANON_UNICODE,
     "m_p/m_e = 6π⁵ × (1 + ε_FW)": CANON_UNICODE,
     "m_p/m_e = 6π⁵ x (1 + ε_FW)": CANON_UNICODE,
-    "m_p / m_e ≈ 6 pi^5": "m_p / m_e is approximated computationally by the exact With-This factor 6 pi^5 only when 10^-5-level effects are explicitly being neglected; the canonical ratio is " + CANON_ASCII,
-    "m_p/m_e ≈ 6π⁵": "m_p/m_e may be computationally approximated by the exact With-This factor 6π⁵ only when 10⁻⁵-level effects are explicitly being neglected; the canonical ratio is " + CANON_UNICODE,
+    "m_p/m_e = 6π⁵ · (1 + ε_FW)": CANON_UNICODE,
+    # Repair malformed text produced by the first normalizer pass.
+    "m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4·(1 + ε_FW)": CANON_UNICODE,
+    # Computational approximation wording must remain subordinate to the theorem.
+    "m_p / m_e ≈ 6 pi^5": "for calculations explicitly insensitive to 10^-5-level effects, the canonical ratio may be computationally truncated to its exact With-This factor 6 pi^5",
+    "m_p/m_e ≈ 6π⁵": "for calculations explicitly insensitive to 10⁻⁵-level effects, the canonical ratio may be computationally truncated to its exact With–This factor 6π⁵",
+    "D6/D7 need only `m_p/m_e may be computationally approximated by the exact With-This factor 6π⁵ only when 10⁻⁵-level effects are explicitly being neglected; the canonical ratio is m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4` to leading order": "D6/D7 may computationally truncate the canonical ratio to its exact With–This factor `6π⁵` because they are insensitive to 10⁻⁵-level effects",
+    "D6/D7 may proceed now on `6π⁵`-to-leading-order with ε_FW quarantined as:": "D6/D7 may use the computational truncation `6π⁵` while retaining the canonical bracketed theorem as:",
+    # Name 6pi5 by its actual office, never as the whole ratio or mass-as-such.
     "6 pi^5 color-seating ratio": "6 pi^5 exact With-This color-seating factor",
     "6π⁵ color-seating ratio": "6π⁵ exact With-This color-seating factor",
     "6 pi^5 proton mass-as-such": "6 pi^5 exact With-This factor within the proton/electron ratio",
     "6π⁵ proton mass-as-such": "6π⁵ exact With-This factor within the proton/electron ratio",
     "6 pi^5 exact / epsilon_FW bracketed": "the exact With-This factor 6 pi^5 / the theorem-bounded From-With bracket",
     "6π⁵ exact / ε_FW bracketed": "the exact With-This factor 6π⁵ / the theorem-bounded From-With bracket",
+    "the same split the mass ratio exhibited (6π⁵ exact; ε_FW bracketed)": "the same split the mass-ratio theorem exhibited: the With–This factor `6π⁵` exact, and the multiplicative From–With coefficient theorem-bounded",
+    "a nucleus closure (closed color, 6π⁵,\nRegistered)": "a nucleus closure (closed color, carrying the exact With–This factor `6π⁵` within the canonical bracketed mass ratio, Registered)",
     "optional precision polish": "a non-gating but canonical theorem-bounded factor",
+    # Remove the misleading perturbative ontology.
+    "The differential between the proven leading term\n> `6π⁵` (plus the forced bracket structure) and the empirical mass ratio": "The measured position of the coefficient within the proven bracketed theorem\n> `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²]`, relative to the exact With–This factor `6π⁵`,",
+    "the first-order effect of the turn carrying\n  the interior *is* `6π⁵`; ε_FW is the residual back-reaction, one order down": "the direct With–This seating of the carried interior is the exact factor `6π⁵`; ε_FW is the second-order From–With back-reaction",
 }
 
 BAD_DIRECT_ASCII = re.compile(r"(?<![A-Za-z0-9_])m_p\s*/\s*m_e\s*=\s*6\s*pi\^5(?!\s*\[)")
@@ -49,7 +61,6 @@ def canonical_note(style: str) -> str:
 def insert_note(text: str, note: str) -> str:
     if "Canonical mass-ratio rule." in text:
         return text
-    # Put the rule after frontmatter, otherwise after the first H1.
     if text.startswith('---\n'):
         end = text.find('\n---\n', 4)
         if end != -1:
@@ -71,7 +82,6 @@ def process(path: Path):
             text = text.replace(old, new)
             changes.append(f"replaced `{old}`")
 
-    # Repair direct equations that identify the whole ratio with 6 pi^5.
     if BAD_DIRECT_ASCII.search(text):
         text = BAD_DIRECT_ASCII.sub(CANON_ASCII, text)
         changes.append("repaired direct ASCII equation")
@@ -85,8 +95,6 @@ def process(path: Path):
     ))
     has_sixpi = ('6π⁵' in text) or ('6 pi^5' in lowered)
     has_canonical = ('c(3π⁴)⁻²' in text) or ('c(3 pi^4)^-2' in lowered)
-
-    # Any live document that discusses both the ratio and 6pi5 must carry the explicit rule.
     historical = any(part.lower() in {'archive', '_archive'} for part in path.parts) or 'historical' in path.name.lower()
     if has_mass_context and has_sixpi and not has_canonical and not historical:
         style = 'unicode' if '6π⁵' in text else 'ascii'
@@ -104,13 +112,11 @@ def suspicious_lines(path: Path, text: str):
         low = line.lower()
         if ('6π⁵' in line or '6 pi^5' in low or 'm_p/m_e' in low or 'm_p / m_e' in low or
             'epsilon_fw' in low or 'ε_fw' in line or '1836' in line):
-            # Remaining direct bad equations are always exceptions.
             if BAD_DIRECT_ASCII.search(line) or BAD_DIRECT_UNICODE.search(line):
                 out.append((i, 'DIRECT ERROR', line.strip()))
                 continue
-            # Flag ambiguous uses in mass context unless they explicitly name factor or canonical form.
             if ('6π⁵' in line or '6 pi^5' in low) and any(k in low for k in ('ratio', 'proton mass', 'nucleus mass', 'closure mass')):
-                if not any(k in low for k in ('factor', 'not the complete', 'within the ratio', 'canonical')):
+                if not any(k in low for k in ('factor', 'not the complete', 'within the ratio', 'canonical', 'bracketed theorem')):
                     out.append((i, 'REVIEW', line.strip()))
     return out
 
@@ -152,7 +158,6 @@ def main():
         lines.append('- None.')
     REPORT.write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
-    # Fail only for actual direct errors; review lines remain visible for adjudication.
     direct_errors = [x for x in exceptions if x[2] == 'DIRECT ERROR']
     if direct_errors:
         raise SystemExit(f'{len(direct_errors)} direct mass-ratio errors remain')
