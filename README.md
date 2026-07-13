@@ -1,33 +1,45 @@
-# Triadic Closure
+# Triadic Closure Physics Corpus
 
-This repository contains the working Triadic Closure corpus in a **flattened root-level layout**. The Markdown files were uploaded from the prior Google Drive wiki without preserving its folder hierarchy. Paths inherited from the Drive layout—such as `results/`, `overview/`, `process/`, `concepts/`, `raw/package/`, and `raw/context/`—must therefore not be treated as current repository paths.
+This repository currently contains the uploaded **physics execution corpus** for Jordan Hall's Triadic Closure project. The upload was flattened: files formerly distributed across Google Drive folders now generally live directly at repository root.
 
-## Repository layout
+The repository does not presently mirror the full Google Drive hierarchy, and its navigation must not assume that it does.
 
-The repository root contains:
+## Current layout
 
-- `index.md` — the primary navigational index;
-- `SCHEMA.md` — repository conventions and agent rules;
-- `README.md` — this repository-level orientation;
-- current result, control, concept, process, frontier, historical, and provenance Markdown files, all at root unless an actual subdirectory is visible in GitHub;
-- `_compiler/` — compiler and semantic-adjudication working files. These are control artifacts, not substitutes for the underlying corpus.
+At repository root:
 
-The authoritative path for a root document is therefore simply:
+- `README.md` — repository orientation;
+- `index.md` — verified navigational index;
+- `SCHEMA.md` — repository conventions;
+- physics result, control, concept, process, historical, and provenance Markdown files;
+- package sources such as `cover-letter.md` and `physics-walk-checklist.md` where uploaded.
+
+Actual subdirectory:
+
+- `_compiler/` — semantic inventories and adjudication controls. These are working control artifacts, not substitutes for the substantive corpus.
+
+## Path rule
+
+The current path for an uploaded root document is simply:
 
 ```text
 filename.md
 ```
 
-not:
+Former Google Drive paths such as these are stale as repository paths:
 
 ```text
 results/filename.md
 overview/filename.md
+concepts/filename.md
 process/filename.md
 raw/package/filename.md
+raw/context/filename.md
 ```
 
-## Navigation and linking
+A former path may be retained as provenance only when explicitly labeled historical. It must not be presented as a live GitHub link.
+
+## Navigation
 
 Use ordinary repository-relative Markdown links:
 
@@ -35,53 +47,65 @@ Use ordinary repository-relative Markdown links:
 [Mass as Self-Closure](mass-as-self-closure.md)
 ```
 
-Obsidian-style wikilinks such as `[[mass-as-self-closure]]` may remain inside historical corpus text, but governing navigation files should also provide explicit GitHub-resolvable links.
+Governing navigation begins with [index.md](index.md). Do not add an index entry until the target filename has been verified in the current repository tree.
 
-When a document cites another corpus file by an obsolete Drive path, resolve it by basename against the repository root. A stale path does not establish that the target is absent; it records the file's former location.
+Obsidian-style wikilinks may remain inside historical corpus text, but they are not sufficient for GitHub navigation.
+
+## Current verified corpus scope
+
+The verified index currently covers:
+
+- foundational and methodological pages;
+- physics control and status pages;
+- physics result modules for propagation, Lorentz structure, gauge structure, chiral structure, mass, gravity, Lambda, and related topics;
+- claim-status and vertical/horizontal concept controls;
+- execution rules and provenance material.
+
+Files known from later Google Drive work must not be assumed present merely because another corpus version contains them.
 
 ## Corpus authority
 
 Authority is claim-specific rather than folder-specific or document-wide. For any claim, prefer:
 
-1. the most advanced complete detailed derivation;
+1. the most advanced complete detailed derivation available in this repository;
 2. later detailed repairs or extensions;
 3. explicit adjudications and current rulings;
 4. downstream work that necessarily spends and sharpens the claim;
 5. current control pages;
 6. summaries and orientation prose.
 
-A newer summary may not override a stronger detailed derivation merely by being newer or shorter.
+A newer or shorter summary may not override a stronger detailed derivation.
 
 ## Claim standing
 
 The live claim standings are:
 
-- **Open** — an explicit work frontier;
-- **Conjectured** — a serious proposal not yet registered;
-- **Conjectured-strong** — substantial structural support, still short of registration;
-- **Registered-candidate** — derived on registered parents but awaiting promotion after review;
-- **Registered** — secured by the stated dependency route;
-- **Registered and Sealed** — registered with the identity closed in both directions;
-- **Defended posit** — maximally warranted beneath the totalization ceiling, while open to a genuine irreducible counterexample;
-- **Dissolved** — removed because the question or gate arose from an imported ontology or category error.
+- **Open**;
+- **Conjectured**;
+- **Conjectured-strong**;
+- **Registered-candidate**;
+- **Registered**;
+- **Registered and Sealed**;
+- **Defended posit**;
+- **Dissolved**.
 
 `Locked actual` is deprecated and must be translated through the current status discipline.
 
-## Governing editorial rules
+## Editorial rules
 
 - Never upgrade a claim beyond its dependency route.
 - Distinguish structural derivation from empirical fit, imported identification, and recognition after the fact.
 - Preserve the distinction between vertical office-composition and horizontal accumulation.
-- Treat historical source-location metadata as provenance, not as current repository topology.
+- Treat historical source-location metadata as provenance, not current topology.
 - Do not infer authority from a former folder name.
-- When a path is stale, repair the path without silently changing the semantic claim.
+- Repair paths without silently changing semantic content.
+- Do not cite a conversation ledger or source file as present unless it can be resolved in the repository.
 
-## Current maintenance priority
+## Maintenance state
 
-The immediate repository-maintenance task is path normalization after the flattened upload:
+The repository is undergoing path normalization after the flattened upload. The current priority is:
 
-1. keep `README.md`, `index.md`, and `SCHEMA.md` aligned with the actual tree;
-2. replace stale folder-qualified navigation links with root-relative links;
-3. preserve historical source paths only when explicitly labeled as historical provenance;
-4. verify every referenced basename exists in the repository before treating a link repair as complete;
-5. keep `_compiler/` controls synchronized with the substantive corpus rather than allowing them to replace it.
+1. keep `README.md`, `index.md`, `SCHEMA.md`, `agent-execution-rules.md`, and `corpus-lineage.md` aligned with the actual tree;
+2. replace stale folder-qualified navigation with verified root-relative links;
+3. distinguish absent Drive sources from uploaded repository files;
+4. keep `_compiler/` controls synchronized with, but subordinate to, the substantive corpus.
