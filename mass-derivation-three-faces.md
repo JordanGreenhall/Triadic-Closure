@@ -5,16 +5,17 @@ created: 2026-06-23
 updated: 2026-06-26
 status: current
 confidence: medium
-sources:
-  - raw/package/mass-as-self-closure.md
-  - results/with-to-this-closure.md
-  - raw/package/gauge-structure-result.md
-  - raw/package/quark-lepton-split.md
-  - raw/package/lambda-derived.md
-  - raw/package/realizability-weighting-law.md
-  - raw/context/full-conversation-ledger.md
-  - results/flavor-mark-metric-and-neutron.md
 section: Closure, confinement, and mass/value machinery
+sources:
+  - mass-as-self-closure.md
+  - with-to-this-closure.md
+  - gauge-structure-result.md
+  - quark-lepton-split.md
+  - lambda-derived.md
+  - realizability-weighting-law.md
+  - flavor-mark-metric-and-neutron.md
+historical_sources:
+  - raw/context/full-conversation-ledger.md
 ---
 
 # Particle Mass from the Three Faces of the Closure
@@ -46,8 +47,8 @@ and refuse to reverse-fit the number.
 
 Mass is the maintenance of a closure. To be a physical closure at all (past the
 With-gate) is to be re-selected onto its attractor every step; that perpetual
-self-re-selection *is* the mass (see [[with-to-this-closure]] and
-[[mass-as-self-closure]]). Maintenance-of-closure and mass are the same object.
+self-re-selection *is* the mass (see [with-to-this-closure](with-to-this-closure.md) and
+[mass-as-self-closure](mass-as-self-closure.md)). Maintenance-of-closure and mass are the same object.
 There is no closure that additionally "provides" mass — the distinction between a
 color closure and a mass-giving color closure is a phantom. [Registered.]
 
@@ -60,7 +61,7 @@ mass, that ruler is the electron bare repeat: `m_e = 1`.
 
 Section: **Closure, confinement, and mass/value machinery**.
 
-Read this page in the sequence given by [[physics-section-guide]]. Current claim grade is governed by [[physics-domain-mature-status]]. Source/provenance links are collected in [[physics-source-map]].
+Read this page in the sequence given by [physics-section-guide](physics-section-guide.md). Current claim grade is governed by [physics-domain-mature-status](physics-domain-mature-status.md). Source/provenance links are collected in [physics-source-map](physics-source-map.md).
 
 ## The structure being measured
 
@@ -89,7 +90,7 @@ closure: three quark colors gathered by the alternating form (the determinant)
 into one color singlet, one joint frame in C^3 — one determinant, one closure, not
 three. [Registered; the one-closure reading is settled.]
 
-**Its measure is the closure-inherited Vol(SU(3)) = 2 pi^5.** See [[closure-inherited-metric]] for the self-standing metric result. The no-distinction
+**Its measure is the closure-inherited Vol(SU(3)) = 2 pi^5.** See [closure-inherited-metric](closure-inherited-metric.md) for the self-standing metric result. The no-distinction
 freedom of the frame is SU(3); a normalized color standing ranges over the round
 S^5 (the pairing on unit vectors in C^3), and its determinant-preserving
 completion over the round S^3. Vol = Vol(S^5) x Vol(S^3) = pi^3 x 2 pi^2 = 2 pi^5.
@@ -264,7 +265,7 @@ A massless fermion is pure advance — a single chiral moment running at c, neve
 rest, its From-With *open* (nothing to trap the advance against). The neutrino sits
 near this limit: lacking the second chiral moment (the sterile right-handed
 partner that, fully unengaged under every generator, is not individuated and so
-does not stand — see the survey-injectivity result in [[quark-lepton-split]]), it
+does not stand — see the survey-injectivity result in [quark-lepton-split](quark-lepton-split.md)), it
 has nothing to close its From-With against; its advance cannot trap into a rest
 standing. So it stays near pure From — near c — and its This-From rest-content is
 near zero. The neutrino is light not by a small mass but by a near-absence of the
@@ -273,7 +274,7 @@ reading of it: **Conjectured**, directional, not canonical.]
 
 ## Vertical / horizontal
 
-Kept distinct, per [[vertical-and-horizontal]]. The *maintenance* that constitutes
+Kept distinct, per [vertical-and-horizontal](vertical-and-horizontal.md). The *maintenance* that constitutes
 mass — the every-step re-selection — is diachronic and belongs to the
 **horizontal**. The closure being maintained is vertically office-constituted like
 any standing. "Mass as the eigenvalue of self-closure" is the vertical reading of
@@ -319,7 +320,7 @@ framework-native mass result.
 
 ## Neutron / mark-metric update
 
-See [[flavor-mark-metric-and-neutron]] and [[neutron-consideration]]. The earlier neutron draft's A₂ / flavor-SU(3) keystone is superseded. The current live result is:
+See [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) and [neutron-consideration](neutron-consideration.md). The earlier neutron draft's A₂ / flavor-SU(3) keystone is superseded. The current live result is:
 
 - flavor is color's three This-aspects under marking;
 - the mark-metric `u·d = -1/2` is Registered, not imported from SU(3) flavor;
@@ -330,10 +331,10 @@ See [[flavor-mark-metric-and-neutron]] and [[neutron-consideration]]. The earlie
 
 ## Source links
 
-- [`raw/package/mass-as-self-closure.md`](../raw/package/mass-as-self-closure.md)
-- [`results/with-to-this-closure.md`](../results/with-to-this-closure.md)
-- [`raw/package/gauge-structure-result.md`](../raw/package/gauge-structure-result.md)
+- [`mass-as-self-closure.md`](mass-as-self-closure.md)
+- [`with-to-this-closure.md`](with-to-this-closure.md)
+- [`gauge-structure-result.md`](gauge-structure-result.md)
 
-See also: [[mass-as-self-closure]], [[with-to-this-closure]],
-[[closure-inherited-metric]], [[gauge-structure-result]], [[quark-lepton-split]], [[lambda-derived]],
-[[vertical-and-horizontal]], [[physics-domain-mature-status]].
+See also: [mass-as-self-closure](mass-as-self-closure.md), [with-to-this-closure](with-to-this-closure.md),
+[closure-inherited-metric](closure-inherited-metric.md), [gauge-structure-result](gauge-structure-result.md), [quark-lepton-split](quark-lepton-split.md), [lambda-derived](lambda-derived.md),
+[vertical-and-horizontal](vertical-and-horizontal.md), [physics-domain-mature-status](physics-domain-mature-status.md).

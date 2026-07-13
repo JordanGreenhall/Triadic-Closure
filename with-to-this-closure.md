@@ -5,16 +5,16 @@ created: 2026-06-22
 updated: 2026-06-25
 status: current
 confidence: medium
+section: Realizability, actualization, and weighting
 sources:
   - realizability-weighting-law.md
   - mass-as-self-closure.md
   - gauge-structure-result.md
   - physics-walk-checklist.md
+  - d6-persistence.md
 historical_sources:
-  - raw/package/d6-persistence.md
   - raw/context/full-conversation-ledger.md
   - process/sm-frontier-loop-state/09-specific-color-dynamics-qcd-quarantine.md
-section: Realizability, actualization, and weighting
 ---
 
 # With-to-This Closure as Realizability Collapse

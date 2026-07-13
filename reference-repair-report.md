@@ -2,17 +2,23 @@
 
 Final repository-tree reference audit.
 
-- Markdown files scanned: **92**
-- Files changed in final pass: **1**
-- Remaining unresolved inline references: **0**
+- Markdown files scanned: **100**
+- Files changed in final pass: **4**
+- Remaining unresolved inline references: **2**
 
 ## Files changed in final pass
 
+- [closure-inherited-metric.md](closure-inherited-metric.md)
+- [mass-derivation-three-faces.md](mass-derivation-three-faces.md)
 - [verification-companion.md](verification-companion.md)
+- [with-to-this-closure.md](with-to-this-closure.md)
 
 ## Remaining unresolved inline references
 
-None.
+| File | Line | Reference |
+|---|---:|---|
+| [flavor-mark-metric-and-neutron.md](flavor-mark-metric-and-neutron.md) | 308 | `same-kind-carrier-representation-theorem --` |
+| [flavor-mark-metric-and-neutron.md](flavor-mark-metric-and-neutron.md) | 308 | `amplitude-readout-theorem --` |
 
 ## Provenance rule
 

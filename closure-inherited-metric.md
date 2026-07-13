@@ -5,11 +5,11 @@ created: 2026-06-23
 updated: 2026-06-23
 status: current
 confidence: medium-high
+section: Closure, confinement, and mass/value machinery
 sources:
   - mass-derivation-three-faces.md
   - gauge-structure-result.md
   - mathematization-F8-done.md
-section: Closure, confinement, and mass/value machinery
 ---
 
 # Closure-Inherited Metric
