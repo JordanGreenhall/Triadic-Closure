@@ -1,102 +1,81 @@
 ---
 title: Corpus Lineage
 type: overview
-created: 2026-06-21
 updated: 2026-07-13
 status: control
 confidence: high
 sources:
-  - cover-letter.md
+  - repository-inventory.md
 ---
 
 # Corpus Lineage
 
-This repository currently contains a flattened upload of the Triadic Closure physics execution corpus. Files formerly distributed across Google Drive folders now generally live at repository root.
+GitHub is now the primary execution corpus for the migrated Triadic Closure materials. Most former Google Drive files have been flattened to repository root. The complete current inventory is [Repository Inventory](repository-inventory.md).
 
-## Path translation rule
+## Location and authority
 
-Translate former paths by basename only after confirming the basename exists:
+Migration location does not determine authority. A root-level file may be current, historical, mixed, or superseded. Authority is resolved claim by claim.
 
-```text
-raw/package/mass-as-self-closure.md  ->  mass-as-self-closure.md
-results/lambda-derived.md            ->  lambda-derived.md
-overview/supersession-map.md         ->  supersession-map.md
-process/agent-execution-rules.md      ->  agent-execution-rules.md
-```
+Use Google Drive only when:
 
-Do not translate `_compiler/...`; `_compiler/` remains an actual repository directory.
+- a source named in the corpus is not present in GitHub;
+- migration completeness must be checked;
+- provenance or an older version must be compared;
+- a missing substantive source must be recovered.
 
-A file known from another corpus version is not present here unless its current repository path resolves.
-
-## Primary governing documents
+## Governing documents
 
 Begin with:
 
 1. [README](README.md)
 2. [Index](index.md)
-3. [Schema](SCHEMA.md)
-4. [Architectonic Rigor](architectonic-rigor.md)
-5. [Triadic Structure of Relating](triadic-structure-of-relating.md)
-6. [Verification Companion](verification-companion.md)
-7. [Supersession Map](supersession-map.md)
-8. [Agent Execution Rules](agent-execution-rules.md)
+3. [Repository Inventory](repository-inventory.md)
+4. [Schema](SCHEMA.md)
+5. [Supersession Map](supersession-map.md)
+6. [Agent Execution Rules](agent-execution-rules.md)
 
-[Phi Forward Reconstruction](phi-forward-reconstruction.md) is package-era reconstruction/provenance and must not override later detailed work.
+## Source tiers
 
-## Uploaded package role
+### Current governing and foundational work
 
-[Cover Letter](cover-letter.md) and the verified files in [index.md](index.md) provide the current repository-level source map.
-
-The former Google Drive corpus and any conversation ledger may remain relevant to broader provenance, but they must not be cited as locally available unless they have actually been uploaded and their paths resolve.
-
-## Corpus tiers
-
-### Tier 1 — Foundational and control
-
-- [Architectonic Rigor](architectonic-rigor.md)
-- [Triadic Structure of Relating](triadic-structure-of-relating.md)
-- [Verification Companion](verification-companion.md)
+- [Architectonic Rigor — complete](architectonic-rigor-complete.md)
+- [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
 - [Claim Status Vocabulary](claim-status-vocabulary.md)
 - [Vertical and Horizontal](vertical-and-horizontal.md)
+- [Domain Entry Method](domain-entry-method.md)
 - [Supersession Map](supersession-map.md)
-- [Physics Domain Mature Status](physics-domain-mature-status.md)
-- [Agent Execution Rules](agent-execution-rules.md)
 
-### Tier 2 — Current result modules verified in this upload
+### Detailed mathematical and physics work
 
-Use these as active result pages unless contradicted by a stronger detailed derivation, later repair, or explicit adjudication:
+Use the detailed modules listed in [index.md](index.md) and [repository-inventory.md](repository-inventory.md), subject to claim-specific adjudication. Dedicated later result pages generally supersede earlier syntheses and package summaries on the point they resolve.
 
-- [Physics Walk D1-D5 Consolidated](physics-walk-d1-d5-consolidated.md)
-- [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
-- [Lorentz from Recoupling](lorentz-from-recoupling.md)
-- [Gauge Structure Result](gauge-structure-result.md)
-- [Quark-Lepton Split](quark-lepton-split.md)
-- [Chiral Coupling Result](chiral-coupling-result.md)
-- [Mass as Self-Closure](mass-as-self-closure.md)
-- [Realizability Weighting Law](realizability-weighting-law.md)
-- [Gravity and Curvature](gravity-and-curvature.md)
-- [Stress-Energy: Three Offices](stress-energy-three-offices.md)
-- [Lambda Derived](lambda-derived.md)
+### Historical and development lineage
 
-### Tier 3 — Historical, superseded, or cautionary
+The repository deliberately retains developmental documents. They are evidence of the route, not automatic current doctrine. Important examples include:
 
-Preserve for provenance. Do not treat as current doctrine without cross-checking [Supersession Map](supersession-map.md):
-
+- [Cover Letter](cover-letter.md)
 - [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- early D3/D4 and internal-structure walks;
+- earlier mathematization status/synthesis files;
+- [Neutron Consideration](neutron-consideration.md) where later work supersedes it.
 
-Additional historical files may exist at root, but they should not be promoted into the governing index until their presence and status are verified.
+## Migration shadows
+
+The `overview/` directory contains residual duplicate or shadow pages from the pre-flattened topology. Root-level controls govern navigation. Shadow files must be compared and then deleted, redirected, or explicitly retained as historical.
+
+## Missing substantive source
+
+The chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has not yet been migrated as a substantive root file. Its compiler inventory is present, but GitHub does not yet contain the deposited source itself.
 
 ## Claim-specific authority
 
-The goal is not to average documents. For any semantic object, compare the available lineage and preserve the strongest coherent current formulation. The normal evidentiary order is:
+For any semantic object, compare the available lineage and preserve the strongest coherent current formulation. The normal order is:
 
 1. complete detailed derivation;
 2. later detailed repair or extension;
-3. explicit adjudication of objections or competing routes;
+3. explicit adjudication or current ruling;
 4. downstream use that necessarily sharpens the claim;
 5. current control page;
 6. summary or orientation prose.
 
-A former location in `results/`, `overview/`, `process/`, or `raw/` confers no authority in the flattened repository.
-
-See also: [Supersession Map](supersession-map.md), [Agent Execution Rules](agent-execution-rules.md), [Known Failure Modes](known-failure-modes.md), and [Vertical and Horizontal](vertical-and-horizontal.md).
+A summary may route but may not override a stronger detailed result.
