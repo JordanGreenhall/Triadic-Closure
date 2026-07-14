@@ -119,7 +119,7 @@ Historical classification is claim-specific. These files may retain useful deriv
 
 ## Residual overview directory
 
-The exact duplicate shadows `overview/jordan-decisions.md` and `overview/viewing-this-wiki.md` were compared with their root counterparts and removed. Two unique migration-era pages remain:
+The exact duplicate shadows `jordan-decisions.md` and `viewing-this-wiki.md` were compared with their root counterparts and removed. Two unique migration-era pages remain:
 
 - `overview/triadic-closure-reading-order.md`
 - `overview/corpus-cleanup-pass-report.md`

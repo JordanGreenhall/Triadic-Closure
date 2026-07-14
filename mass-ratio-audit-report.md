@@ -1,7 +1,7 @@
 # Mass-Ratio Corpus Audit
 
-- Markdown files scanned: **101**
-- Files modified: **2**
+- Markdown files scanned: **100**
+- Files modified: **1**
 - Remaining flagged lines: **0**
 
 ## Canonical expression
@@ -12,7 +12,6 @@ The standalone `6π⁵` or `6 pi^5` is the exact With–This factor, never the c
 
 ## Modified files
 
-- `epsilon-fw-bracket-result.md` — replaced `measured CODATA ratio `1836.152673`; `6π⁵ = 1836.1181`). The ratio is **empirical**`
 - `neutron-consideration.md` — replaced `Because `3π⁴ = 6π⁵/2π` is the proton-interior-per-electron-circle ratio, expressing the`
 
 ## Remaining flagged lines
