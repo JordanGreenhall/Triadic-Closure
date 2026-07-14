@@ -5,6 +5,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 REPORT = ROOT / "canonical-status-audit-report.md"
 EXCLUDED = {'.git', 'node_modules'}
+EXCLUDED_FILES = {'canonical-status-audit-report.md', 'mass-ratio-audit-report.md', 'reference-repair-report.md'}
 
 REPLACEMENTS = {
     "| Λ structural meaning | Registered | Reflexive closure gives metric-proportional, positive w=-1 form. | Magnitude Open; w=-1 complete-closure argument is structural, not explicit dynamics. |":
@@ -21,6 +22,8 @@ REPLACEMENTS = {
     "1. Realizability-weighting seal: the frequency=weight identity remains the genuine blocker; exact |ψ|²-from-pairing is substantially grounded, while the non-physics end-to-end derivation remains incomplete.",
     "the probabilistic spine is unconditional (frequency=weight dissolved, R5 grounded);":
     "the probabilistic spine remains conditional at the frequency=weight gate, while R5 is grounded;",
+    "The old `frequency=weight` demand is not a live dependency.":
+    "This proposes a route that could remove the old `frequency=weight` demand, but until it is integrated into and accepted by `realizability-weighting-law.md`, frequency=weight remains the live blocker in the current result page.",
 }
 
 NEGATING_CONTEXT = (
@@ -28,6 +31,7 @@ NEGATING_CONTEXT = (
     "requires adversarial", "before registered-and-sealed", "possible outcomes", "if the ledger proof survives",
     "mathematical step", "sealed as mathematics", "not sealed", "registered-not-sealed", "open", "blocker",
     "remaining gate", "conditional", "rejected", "not proof", "does not prove", "denied", "retracted",
+    "prove or weaken", "cannot be secured", "exemplar", "epsilon bridge closes",
 )
 
 RULES = [
@@ -74,7 +78,7 @@ def process(path: Path):
 def main():
     files, modified, flags = [], [], []
     for path in sorted(ROOT.rglob('*.md')):
-        if any(part in EXCLUDED for part in path.parts):
+        if path.name in EXCLUDED_FILES or any(part in EXCLUDED for part in path.parts):
             continue
         files.append(path)
         changes, text = process(path)
@@ -96,7 +100,7 @@ def main():
         '- BMV-positive is forced for the matter-sourced branch but does not prove actual spacetime superposition.',
         '- Manifold recovery and exact smooth/local-Lorentz continuum recovery remain unsealed even where dimension, criticality, and frame-freedom are Registered.',
         '- `SU(3)` architecture is Registered, not Sealed; the alternating/closure-floor premise remains the named gate.',
-        '- Frequency=weight remains the blocker in the realizability-weighting law.',
+        '- Frequency=weight remains the blocker in the current realizability-weighting result; compiler proposals that could remove it remain Conjectured until integrated.',
         '- Neutron sign/mechanism and decay structure may be Registered while the full magnitude remains Conjectured/Open.',
         '- Exact hypercharge assignments and generation count remain Open.', '',
         '## Mechanically normalized files', ''
