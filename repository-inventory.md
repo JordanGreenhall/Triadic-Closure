@@ -117,14 +117,14 @@ The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistr
 
 Historical classification is claim-specific. These files may retain useful derivations or provenance, but they may not override later detailed work or explicit adjudications.
 
-## Duplicate or shadow paths requiring consolidation
+## Residual overview directory
 
-The repository contains root-level files and older `overview/` copies for:
+The exact duplicate shadows `overview/jordan-decisions.md` and `overview/viewing-this-wiki.md` were compared with their root counterparts and removed. Two unique migration-era pages remain:
 
-- `jordan-decisions.md` and `overview/jordan-decisions.md`
-- `viewing-this-wiki.md` and `overview/viewing-this-wiki.md`
+- `overview/triadic-closure-reading-order.md`
+- `overview/corpus-cleanup-pass-report.md`
 
-It also contains `overview/triadic-closure-reading-order.md` and `overview/corpus-cleanup-pass-report.md`. Root-level navigation is governing. The `overview/` copies should be treated as migration shadows until compared and either deleted, redirected, or explicitly retained as historical.
+They are not governing navigation. They should be retained only for their distinct control or provenance content and eventually migrated to root or explicitly classified historical.
 
 ## Compiler workspace
 
