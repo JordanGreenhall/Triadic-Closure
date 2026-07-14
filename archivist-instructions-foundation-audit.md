@@ -397,7 +397,7 @@ corpus governs; the owed check is real and must be discharged before banking.
 
 The foundation is clean; the two flagship exposures (fiber unit, mass-linearity) now
 have theorem-shaped closures on a single shared instrument (Haar/Gleason uniqueness);
-the probabilistic spine is unconditional (frequency=weight dissolved, R5 grounded);
+the probabilistic spine remains conditional at the frequency=weight gate, while R5 is grounded;
 the mass spine is unconditional; the one remaining conditional is G1-continuum, spent
 only in the spatial sector and bottoming out in defended posits of the **same rank as
 the foundation itself** — the hardest ceiling any intelligible construct can have.

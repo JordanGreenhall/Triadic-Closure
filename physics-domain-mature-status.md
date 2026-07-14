@@ -99,7 +99,7 @@ The physics walk must remain framework-grounded.
 
 These are the living load-bearing frontier:
 
-1. Realizability-weighting seal: frequency=weight identity; exact |ψ|²-from-pairing; non-physics derivation.
+1. Realizability-weighting seal: the frequency=weight identity remains the genuine blocker; exact |ψ|²-from-pairing is substantially grounded, while the non-physics end-to-end derivation remains incomplete.
 2. SU(3) closure-floor audit: test the ledger's claimed closure-floor ⇒ primitive nonzero alternating 3-form against C2/operator/role-sorted/vector-valued/projective countermodels.
 3. Full Einstein equation beyond weak-field: strong-field/nonlinear regime, full spatial metric sector, and second-order premise from framework rather than Lovelock-only inheritance.
 4. Stress-energy generality: prove dynamical population of all three office modes and framework-meaningful coefficients.
