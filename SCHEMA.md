@@ -2,36 +2,32 @@
 
 ## Domain
 
-This repository contains Jordan Hall's Triadic Closure corpus, including foundational architectonics, domain-entry method, physics and chemistry work, current controls, historical sources, execution ledgers, and compiler artifacts.
+This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. It contains foundational architectonics, mathematical work, physics and physics-to-chemistry work, controls, historical sources, maintenance scripts, and compiler artifacts.
 
-The repository is an execution-oriented knowledge base rather than a publication draft.
+## Repository topology
 
-## Current repository topology
+Most substantive Markdown files live at repository root. The complete current inventory is [repository-inventory.md](repository-inventory.md).
 
-The corpus was uploaded in a **flattened root-level layout**. Most Markdown documents therefore live directly at repository root, regardless of their former Google Drive folder.
+Actual directories with distinct roles:
 
-Current path rule:
+- `_compiler/` — semantic adjudication artifacts;
+- `overview/` — residual migration-shadow pages pending consolidation;
+- `tools/` — import, normalization, and audit utilities;
+- `.github/workflows/` — repository automation.
+
+Former Drive paths such as `results/`, `concepts/`, `process/`, `raw/package/`, and `raw/context/` are historical provenance unless visibly present.
+
+## Source-location rule
+
+For a migrated root document, use:
 
 ```text
 filename.md
 ```
 
-Former paths such as the following are historical provenance unless the directory is visibly present in GitHub:
-
-```text
-results/filename.md
-overview/filename.md
-concepts/filename.md
-process/filename.md
-raw/package/filename.md
-raw/context/filename.md
-```
-
-The `_compiler/` directory is an actual repository directory and contains compiler/adjudication work products.
+Do not infer standing or authority from a former folder name. Historical source paths may remain in frontmatter only when clearly labeled as provenance.
 
 ## Document roles
-
-Role is carried by content and frontmatter, not by folder location:
 
 - `overview` or `control` — orientation, lineage, supersession, status, and execution controls;
 - `concept` — framework vocabulary and structural concepts;
@@ -39,45 +35,43 @@ Role is carried by content and frontmatter, not by folder location:
 - `claim` — focused claims with explicit standing;
 - `process` — execution and QA rules;
 - `historical` or `superseded` — provenance and displaced formulations;
-- compiler artifact — semantic inventories and adjudication controls under `_compiler/`.
+- compiler artifact — semantic inventories under `_compiler/`.
 
 ## Frontmatter
 
-Existing frontmatter may contain historical `sources:` paths inherited from Google Drive. Those paths are provenance metadata, not necessarily live GitHub paths.
-
-For new or repaired documents, use repository-relative root paths:
+For new or repaired documents:
 
 ```yaml
 ---
 title: Page Title
-type: overview | concept | result | claim | process | control
+type: overview | concept | result | claim | process | control | historical
 status: current | historical | superseded | contested | open | control
 confidence: high | medium | low
 sources:
   - source-file.md
-  - another-source-file.md
+historical_sources:
+  - former/path/source-file.md
 ---
 ```
 
-When retaining an obsolete source path for provenance, label it explicitly as historical rather than presenting it as a navigable repository path.
-
 ## Linking rules
 
-1. Governing navigation files must use GitHub-resolvable Markdown links, for example:
+1. Governing navigation uses repository-resolvable Markdown links.
+2. Root-level migrated files are linked by basename.
+3. `_compiler/` paths retain their prefix.
+4. `overview/` paths are migration shadows unless expressly retained.
+5. Verify a target before changing a link; do not invent basenames.
+6. Obsidian wikilinks may remain in historical prose but do not constitute repository navigation.
 
-   ```markdown
-   [Mass as Self-Closure](mass-as-self-closure.md)
-   ```
+## Authority and migration
 
-2. Obsidian-style wikilinks may remain in corpus prose, but they are not sufficient for repository navigation.
-3. Resolve a stale folder-qualified reference by basename against repository root.
-4. Do not invent a replacement filename. Verify the target exists before changing a link.
-5. Generated or historical references may remain only when clearly identified as provenance.
-6. `_compiler/` paths must retain their directory prefix because that directory actually exists.
+GitHub is primary for every migrated file. Google Drive is fallback provenance and source recovery for files not yet migrated.
 
-## Claim-standing vocabulary
+Claim authority is semantic and claim-specific. Prefer detailed derivation, later repair, explicit adjudication, and necessary downstream expenditure over summaries or metadata.
 
-Use the current claim standings and keep them separate from warrant route:
+## Claim standing
+
+Standing and warrant route are separate. Authorized corpus standings include:
 
 - Open;
 - Conjectured;
@@ -88,26 +82,22 @@ Use the current claim standings and keep them separate from warrant route:
 - Defended posit;
 - Dissolved.
 
-`Locked actual` is deprecated and must be translated through the current status discipline.
+`Locked actual` is deprecated and must be translated through [locked-actual-decrement-map.md](locked-actual-decrement-map.md).
 
 ## Agent rules
 
-1. Read [README.md](README.md), [index.md](index.md), this schema, [corpus-lineage.md](corpus-lineage.md), [supersession-map.md](supersession-map.md), and [agent-execution-rules.md](agent-execution-rules.md) before substantive work.
-2. Do not average conflicting corpus formulations.
-3. Detailed successful derivations govern compressed summaries unless later detailed work explicitly supersedes them.
-4. Treat source authority as claim-specific, not document-wide or folder-based.
-5. Do not upgrade a claim beyond its dependency route.
-6. Distinguish vertical office-composition from horizontal accumulation.
-7. Treat the full conversation ledger and historical location metadata as adjudication/provenance sources, not automatically polished doctrine.
-8. When uncertain, downgrade standing and expose the open joint.
+Before substantive work, read [README.md](README.md), [index.md](index.md), [repository-inventory.md](repository-inventory.md), [corpus-lineage.md](corpus-lineage.md), [supersession-map.md](supersession-map.md), and [agent-execution-rules.md](agent-execution-rules.md).
+
+Do not average conflicting formulations. Do not let a summary override stronger detailed work. When uncertainty survives adjudication, expose the open joint and avoid status inflation.
 
 ## Repository quality gate
 
-Before a navigation or refactor pass is complete:
+A migration or refactor pass is complete only when:
 
-- every explicit Markdown link in `README.md`, `index.md`, and governing control files resolves to a current repository path;
-- stale folder-qualified paths are removed from live navigation;
-- historical paths are labeled as historical;
-- no basename is silently mapped to the wrong document;
-- compiler artifacts remain distinguished from substantive corpus files;
-- no obsolete claim is promoted merely because its link was repaired.
+- the repository inventory matches the actual tree;
+- governing links resolve;
+- shadow duplicates are classified or removed;
+- historical and superseded pages are visibly marked;
+- absent Drive sources are distinguished from migrated files;
+- compiler source records identify whether evidence came from GitHub, Drive, or both;
+- semantic content is not altered merely to repair topology.
