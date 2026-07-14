@@ -11,6 +11,7 @@ on:
       - 'tools/normalize_mass_ratio.py'
       - 'tools/audit_canonical_statuses.py'
       - 'tools/finalize_canonical_statuses.py'
+      - 'tools/revert_canonical_status_audit.py'
       - '.github/workflows/normalize-references.yml'
 
 permissions:
@@ -45,6 +46,9 @@ jobs:
       - name: Audit and normalize other canonical statuses
         run: python3 tools/audit_canonical_statuses.py
 
+      - name: Revert canonical-status audit changes
+        run: python3 tools/revert_canonical_status_audit.py
+
       - name: Commit repaired corpus
         run: |
           git config user.name 'github-actions[bot]'
@@ -54,5 +58,5 @@ jobs:
             echo 'No staged changes.'
             exit 0
           fi
-          git commit -m 'Audit and normalize canonical statuses across corpus'
+          git commit -m 'Revert canonical-status audit pending source-by-source review'
           git push
