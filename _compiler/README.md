@@ -1,109 +1,71 @@
 # Compiler Workspace
 
-The `_compiler` directory is a working environment for reconstructing the living Triadic Closure corpus. Its task is claim-level semantic adjudication, not document summarization.
+The `_compiler` directory is the semantic-adjudication workspace for the Triadic Closure corpus. Its compilation unit is a semantic object, not a document.
 
-## Source authority
+## Source authority after migration
 
-The compiler may use:
+GitHub is the primary execution source for every migrated file listed in [../repository-inventory.md](../repository-inventory.md). Google Drive is secondary and may be used only for:
 
-1. the original wiki in Google Drive;
-2. later detailed derivations, repairs, ledgers, and downstream applications within that corpus;
-3. the supplemental foundation-audit instruction set at its stated grades;
-4. the supplemental chemistry D1–D4 deposit at its stated grades;
-5. explicit current rulings by Jordan Hall, governing only the precise point adjudicated and requiring propagation through affected units.
+- recovering a source not yet migrated;
+- checking migration completeness;
+- comparing provenance or prior versions;
+- resolving a citation whose GitHub target is absent.
 
-The nine-document reconstruction has no authority and must not be consulted, quoted, or used to fill gaps. Historical conversation prose is evidence only; a direct present ruling governs the claim it expressly adjudicates.
+Every evidence ledger should record whether support came from GitHub, Drive, or both. A Drive copy does not override a migrated GitHub source merely by location; authority remains claim-specific.
+
+The supplemental foundation audit and chemistry deposit retain only their stated grades. The nine-document reconstruction has no authority and must not be consulted.
 
 ## Governing compilation rule
 
-The compilation unit is a semantic object, not a document. Encountering a claim begins the work. Before retention, revision, or removal, the compiler searches the accessible corpus for earlier and later formulations, detailed derivations, repairs, objections, status changes, downstream expenditures, conflicting summaries, notation changes, dependencies, and propagation targets.
+Encountering a claim begins the work. Before retention, revision, or removal, search the accessible corpus for earlier and later formulations, detailed derivations, repairs, objections, status changes, downstream expenditures, conflicting summaries, notation changes, dependencies, and propagation targets.
 
-Authority is claim-sensitive. The normal evidentiary order is:
+Normal claim-specific authority order:
 
 1. most advanced complete detailed derivation;
 2. later detailed repair or extension;
-3. explicit adjudication of objections or competing routes;
+3. explicit adjudication or current ruling;
 4. downstream work that necessarily spends and sharpens the claim;
-5. current control/status pages;
+5. current controls;
 6. summaries and reading guides.
 
-A summary may route but may not override more detailed successful work. Recency alone does not establish authority.
+## Required adjudication record
 
-## Contradiction discipline
+A completed semantic unit should state:
 
-Before resolution, disagreement is classified as contradiction, supersession, refinement, conditional difference, distinct reading, grade difference, harmless shorthand, misleading compression, or notation change. Genuine contradictions may not be silently harmonized. Superseded formulations may not survive as living semantic identities.
+- canonical formulation;
+- warrant route;
+- claim standing;
+- scope and conditions;
+- dependencies;
+- downstream expenditures;
+- adjudication among competing formulations;
+- excluded obsolete revivals;
+- open joints;
+- propagation targets;
+- evidence ledger with repository paths and source location.
 
-## Living-content rule
+## Contradiction and living-content discipline
 
-Compile living content only. Do not retain semantic identities solely for deprecated terminology, withdrawn claims, retired derivations, superseded partial inventories, or presentation-only material. Deleting an obsolete formulation requires identifying its replacement unless the underlying claim was explicitly abandoned. Absence from the compiler never implies absence from the framework.
+Classify disagreement before resolving it: contradiction, supersession, refinement, conditional scope, different reading, grade difference, shorthand, compression, or notation change. Do not silently harmonize genuine contradictions or preserve retired formulations as living identities.
+
+Deleting an obsolete formulation requires identifying its replacement unless the underlying claim was explicitly abandoned. Absence from `_compiler` never implies absence from the framework.
 
 ## Standing discipline
 
-Claim standing and warrant route are separate axes.
-
-- Live claim standing: Open, Conjectured, Registered, Registered and Sealed, or another explicitly authorized local grade.
-- Warrant route: retorsion, construction, selection, recognition, defended posit, theorem application, check, interpretation, empirical input, and related instruments.
-
-A route term may not substitute for a live status. Historical verifier runs are provenance unless the exact verifier is rerun against the exact current artifact.
+Claim standing and warrant route are separate. Historical verifier output is provenance unless the exact verifier is rerun against the exact current artifact. `Locked actual` is deprecated.
 
 ## Semantic identity
 
-The working identity is `<inventory path> + <semantic heading>`. Legacy bare labels such as `TSR-053` are local and non-unique. Cross-file references must use path plus heading until a permanent symbol table exists.
+Until a global symbol table exists, semantic identity is `<inventory path> + <semantic heading>`. Bare legacy labels are local and non-unique.
 
-## Status of the existing compiler inventories
+## Adjudication state
 
-Every semantic claim currently present in the files listed below has now undergone a corpus-wide adjudication pass. Each was retained, revised, narrowed, regraded, or removed according to the governing method.
+Every claim currently present in `_compiler` has undergone a corpus-wide adjudication pass. This does not mean every living claim in the migrated GitHub corpus has been ingested. The newly reconciled repository inventory contains many detailed physics sources still absent from the compiler graph.
 
-This means the **existing compiler inventory is adjudicated**. It does not mean the whole original Google Drive corpus has been compiled. Many original physics documents and semantic objects have not yet been introduced into `_compiler`; their absence carries no negative implication.
+## Current compiler files
 
-The adjudication pass made several cross-cutting repairs:
+See this directory directly for the governing inventories, the ten-part Triadic Structure inventory, and the chemistry supplement inventory. [source-manifest.md](source-manifest.md) identifies the two supplemental deposits.
 
-- replaced extraction-only language with claim-specific adjudication;
-- separated status from warrant route throughout;
-- preserved all named open joints in the foundational and mathematical walks;
-- demoted historical machine-verification labels to provenance;
-- kept generic D-series form distinct from domain occupancy;
-- restored the authoritative proton/electron ratio `6π^5[1+c(3π^4)^{-2}]`, `3/2≤c≤9/4`;
-- prevented G1 from propagating into non-spatial claims;
-- separated Lambda structure, scaling, coefficient, empirical state input, and dynamics;
-- narrowed chemistry claims to their actual model conditions and current parent grades.
+## Current next operation
 
-## Current file map
-
-### Governing and cross-source
-
-- `source-manifest.md`
-- `01-foundation-semantic-inventory.md`
-- `02-audit-repairs-semantic-inventory.md`
-- `03-architectonic-rigor-semantic-inventory.md`
-- `07-claim-status-vocabulary-semantic-inventory.md`
-- `15-vertical-and-horizontal-semantic-inventory.md`
-- `16-domain-entry-method-semantic-inventory.md`
-- `17-corpus-lineage-semantic-inventory.md`
-- `18-supersession-map-semantic-inventory.md`
-- `19-triadic-closure-reading-order-semantic-inventory.md`
-
-### Triadic Structure of Relating
-
-- `04-triadic-structure-inventory-part-1.md`
-- `05-triadic-structure-inventory-part-2.md`
-- `06-triadic-structure-inventory-part-3.md`
-- `08-triadic-structure-inventory-part-4.md`
-- `09-triadic-structure-inventory-part-5.md`
-- `10-triadic-structure-inventory-part-6.md`
-- `11-triadic-structure-inventory-part-7.md`
-- `12-triadic-structure-inventory-part-8.md`
-- `13-triadic-structure-inventory-part-9.md`
-- `14-triadic-structure-inventory-part-10.md`
-
-### Chemistry supplement
-
-- `04-chemistry-walk-semantic-inventory.md`
-
-## Completion state
-
-Completed: corpus-wide adjudication of every claim currently present in `_compiler`.
-
-Not completed: ingestion and adjudication of every living claim in the original Drive corpus, construction of the permanent global symbol table, propagation of all compiler corrections back into every original wiki source page, and canonical rendering of the refactored corpus.
-
-The next compiler operation is therefore new corpus ingestion at the semantic-object level, beginning with the detailed physics objects, rather than another extraction pass over the already adjudicated inventories.
+Continue semantic-object ingestion from the detailed GitHub physics corpus. Use Drive only when a required source is absent from GitHub. The substantive chemistry D1–D4 deposit remains one such absent source and should be migrated before canonical chemistry rendering.
