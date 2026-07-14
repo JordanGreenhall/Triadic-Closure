@@ -56,7 +56,7 @@ The operators compatible with the only registered direction are `span{I,h}`. Rot
 
 Every orthonormal basis is an admissible fork because registrable distinctness is orthogonality. Propensity depends on an alternative's registered relation to the state, not on merely held co-alternatives. Fork-total constancy expresses that exactly one alternative actualizes and is not changed by held decomposition.
 
-**Adjudication:** retained. Together with the detailed F8 construction, this supplies the native non-contextuality premise. The old `frequency=weight` demand is not a live dependency.
+**Adjudication:** retained. Together with the detailed F8 construction, this supplies the native non-contextuality premise. This proposes a route that could remove the old `frequency=weight` demand, but until it is integrated into and accepted by `realizability-weighting-law.md`, frequency=weight remains the live blocker in the current result page.
 
 **Claim standing:** Conjectured pending full target-page integration.
 **Warrant route:** reconstruction of Gleason's premise from held/registered structure.
