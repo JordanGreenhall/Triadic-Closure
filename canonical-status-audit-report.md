@@ -1,8 +1,8 @@
 # Canonical-Status Corpus Audit
 
 - Markdown files scanned: **99**
-- Files mechanically normalized: **1**
-- Lines requiring semantic adjudication: **1**
+- Files mechanically normalized: **0**
+- Lines requiring semantic adjudication: **0**
 
 ## Governing distinctions
 
@@ -17,8 +17,8 @@
 
 ## Mechanically normalized files
 
-- `_compiler/02-audit-repairs-semantic-inventory.md` — 1 stale governing formulation(s) updated
+- None.
 
 ## Semantic-adjudication queue
 
-- `_compiler/02-audit-repairs-semantic-inventory.md:165` — **FREQUENCY_WEIGHT_OVERCLAIM** — 3. AUD-007 removes `frequency=weight` from the live probability dependency graph but does not eliminate the need to verify the F8/F9 construction itself.
+- None.

@@ -162,7 +162,7 @@ Matter and `Λ` may be read as transitive and reflexive conditioning modes and c
 
 1. AUD-003 through AUD-005 must be integrated with the detailed mass derivations before canonical mass rendering.
 2. The authoritative proton/electron ratio is `6π^5[1+c(3π^4)^{-2}]`, with `3/2≤c≤9/4`; none of these audit entries restores the obsolete `ε_FW` formulation.
-3. AUD-007 removes `frequency=weight` from the live probability dependency graph but does not eliminate the need to verify the F8/F9 construction itself.
+3. AUD-007 proposes a route that may eventually remove `frequency=weight` from the live probability dependency graph; until that route is integrated into and accepted by `realizability-weighting-law.md`, frequency=weight remains the current blocker, alongside verification of the F8/F9 construction.
 4. AUD-008 is inherited by chemistry only where its actual spectrum is spent.
 5. AUD-011 blocks indiscriminate propagation of G1.
 6. AUD-013 requires strict separation of definitions, structural derivations, coefficients, empirical inputs, and dynamics.
