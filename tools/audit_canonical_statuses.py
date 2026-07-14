@@ -6,8 +6,6 @@ ROOT = Path(__file__).resolve().parents[1]
 REPORT = ROOT / "canonical-status-audit-report.md"
 EXCLUDED = {'.git', 'node_modules'}
 
-# Exact stale formulations for which the governing correction is already explicit elsewhere
-# in the corpus. These are safe to normalize mechanically.
 REPLACEMENTS = {
     "| Λ structural meaning | Registered | Reflexive closure gives metric-proportional, positive w=-1 form. | Magnitude Open; w=-1 complete-closure argument is structural, not explicit dynamics. |":
     "| Λ structural meaning and scaling | Registered | Reflexive closure gives metric-proportional, positive `w=-1` form; horizon-scale self-holding gives `Λ ∼ R_H^-2`. | Native complete value `Λ_complete = 3 R_H^-2` is Conjectured-strong; present `Λ = 3 f_reflexive R_H^-2` uses empirical state input; dynamics `w(z)` remain Open. |",
@@ -17,7 +15,20 @@ REPLACEMENTS = {
     "| Full Einstein equation | Registered conditional on manifold/order recovery; nonlinear sector not sealed | The second-order/locality premise has been promoted to Registered conditional status, and Lovelock is used as rule-given tensor rigidity rather than as an unmarked import. | Full spatial metric recovery, strong-field/nonlinear validity, and exact `G` remain Open. See [gravity-and-curvature](gravity-and-curvature.md) and [grqm-conflict-status](grqm-conflict-status.md). |",
     "| Mass as self-closure | Registered | Strong framework account of mass nature and m:p:E ratios. | Absolute mass values and generation mass tower Open. |":
     "| Mass as self-closure | Registered | Strong framework account of mass nature; the canonical proton/electron ratio is `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²]`, `3/2 ≤ c ≤ 9/4`. | The bracketed form and bounds are Registered; only the exact internal selection of `c`, absolute masses, and generation mass tower remain Open. |",
+    "| Gauge group architecture `SU(3)_c x SU(2)_L x U(1)_Y` | `gauge-structure-result.md`; Φ §§8–12 | Yes, if described as lock | Registered and Sealed for structural group architecture, per current gauge result; Open for magnitudes/assignments |":
+    "| Gauge group architecture `SU(3)_c x SU(2)_L x U(1)_Y` | `gauge-structure-result.md`; Φ §§8–12 | Yes, if described as lock | Registered, not Sealed; the alternating/closure-floor bridge remains the named gate; magnitudes and assignments are Open |",
+    "1. Realizability-weighting seal: frequency=weight identity; exact |ψ|²-from-pairing; non-physics derivation.":
+    "1. Realizability-weighting seal: the frequency=weight identity remains the genuine blocker; exact |ψ|²-from-pairing is substantially grounded, while the non-physics end-to-end derivation remains incomplete.",
+    "the probabilistic spine is unconditional (frequency=weight dissolved, R5 grounded);":
+    "the probabilistic spine remains conditional at the frequency=weight gate, while R5 is grounded;",
 }
+
+NEGATING_CONTEXT = (
+    "do not claim", "do not state", "remove ", "strike:", "struck", "needs adversarial",
+    "requires adversarial", "before registered-and-sealed", "possible outcomes", "if the ledger proof survives",
+    "mathematical step", "sealed as mathematics", "not sealed", "registered-not-sealed", "open", "blocker",
+    "remaining gate", "conditional", "rejected", "not proof", "does not prove", "denied", "retracted",
+)
 
 RULES = [
     ("LAMBDA_COMPLETE_OVERCLAIM", re.compile(r"Λ\s*(?:=|complete\s*=)\s*3\s*R_H\^-?2", re.I),
@@ -27,23 +38,23 @@ RULES = [
     ("LAMBDA_RETRACTED_2PI", re.compile(r"Λ.*2π|2π.*Λ", re.I),
      lambda l: not any(x in l.lower() for x in ("retract", "category error", "not"))),
     ("A4_OVERCLAIM", re.compile(r"A/4|area.*1/4|1/4.*area", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "exactly derived", "forced")) and not any(x in l.lower() for x in ("not sealed", "registered-not-sealed", "conditional"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "exactly derived", "forced")) and not any(x in l.lower() for x in NEGATING_CONTEXT)),
     ("THERMAL_2PI_OVERCLAIM", re.compile(r"2π.*(?:thermal|temperature|period)|(?:thermal|temperature|period).*2π", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "forced", "exact")) and not any(x in l.lower() for x in ("not sealed", "registered-not-sealed", "remaining", "hinge"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "forced", "exact")) and not any(x in l.lower() for x in NEGATING_CONTEXT + ("remaining", "hinge"))),
     ("BMV_SUPERPOSITION_SMUGGLE", re.compile(r"BMV.*spacetime superposition|spacetime superposition.*BMV", re.I),
-     lambda l: any(x in l.lower() for x in ("prove", "proves", "confirm", "requires", "demonstrates")) and not any(x in l.lower() for x in ("does not", "not proof", "denied"))),
+     lambda l: any(x in l.lower() for x in ("prove", "proves", "confirm", "requires", "demonstrates")) and not any(x in l.lower() for x in NEGATING_CONTEXT)),
     ("MANIFOLD_OVERCLAIM", re.compile(r"manifold recovery", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "complete", "proven", "derived")) and not any(x in l.lower() for x in ("not sealed", "open", "conditional", "remains"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "complete", "proven", "derived")) and not any(x in l.lower() for x in NEGATING_CONTEXT + ("remains",))),
     ("SU3_OVERCLAIM", re.compile(r"SU\(3\)", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "fully forced", "uniquely forced", "exactly derived")) and not any(x in l.lower() for x in ("not sealed", "conditional", "remaining gate"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "fully forced", "uniquely forced", "exactly derived")) and not any(x in l.lower() for x in NEGATING_CONTEXT)),
     ("FREQUENCY_WEIGHT_OVERCLAIM", re.compile(r"frequency\s*=\s*weight|frequency-is-weight", re.I),
-     lambda l: not any(x in l.lower() for x in ("open", "caveat", "blocker", "not", "gate"))),
+     lambda l: not any(x in l.lower() for x in NEGATING_CONTEXT + ("caveat", "gate"))),
     ("NEUTRON_MAGNITUDE_OVERCLAIM", re.compile(r"neutron.*(?:mass|splitting)|(?:mass|splitting).*neutron", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "exactly derived", "registered")) and "magnitude" in l.lower() and not any(x in l.lower() for x in ("conject", "open", "sign", "mechanism"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "exactly derived", "registered")) and "magnitude" in l.lower() and not any(x in l.lower() for x in NEGATING_CONTEXT + ("conject", "sign", "mechanism"))),
     ("HYPERCHARGE_OVERCLAIM", re.compile(r"hypercharge", re.I),
-     lambda l: any(x in l.lower() for x in ("sealed", "exact assignments", "assignments derived", "fully derived")) and not any(x in l.lower() for x in ("open", "conditional", "not"))),
+     lambda l: any(x in l.lower() for x in ("sealed", "exact assignments", "assignments derived", "fully derived")) and not any(x in l.lower() for x in NEGATING_CONTEXT)),
     ("GENERATION_THREE_OVERCLAIM", re.compile(r"(?:three|3) generations|generation count", re.I),
-     lambda l: any(x in l.lower() for x in ("forced", "derived", "registered", "sealed")) and not any(x in l.lower() for x in ("open", "rejected", "not"))),
+     lambda l: any(x in l.lower() for x in ("forced", "derived", "registered", "sealed")) and not any(x in l.lower() for x in NEGATING_CONTEXT)),
 ]
 
 
@@ -61,9 +72,7 @@ def process(path: Path):
 
 
 def main():
-    files = []
-    modified = []
-    flags = []
+    files, modified, flags = [], [], []
     for path in sorted(ROOT.rglob('*.md')):
         if any(part in EXCLUDED for part in path.parts):
             continue
