@@ -2,7 +2,7 @@
 
 Final repository-tree reference audit.
 
-- Markdown files scanned: **101**
+- Markdown files scanned: **100**
 - Files changed in final pass: **1**
 - Remaining unresolved inline references: **2**
 
