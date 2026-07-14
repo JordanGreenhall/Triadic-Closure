@@ -9,6 +9,7 @@ on:
       - 'tools/normalize_references.py'
       - 'tools/finalize_reference_normalization.py'
       - 'tools/normalize_mass_ratio.py'
+      - 'tools/audit_canonical_statuses.py'
       - '.github/workflows/normalize-references.yml'
 
 permissions:
@@ -37,6 +38,9 @@ jobs:
       - name: Normalize proton-electron mass-ratio language
         run: python3 tools/normalize_mass_ratio.py
 
+      - name: Audit and normalize other canonical statuses
+        run: python3 tools/audit_canonical_statuses.py
+
       - name: Commit repaired corpus
         run: |
           git config user.name 'github-actions[bot]'
@@ -46,5 +50,5 @@ jobs:
             echo 'No staged changes.'
             exit 0
           fi
-          git commit -m 'Normalize canonical proton-electron mass ratio across corpus'
+          git commit -m 'Audit and normalize canonical statuses across corpus'
           git push
