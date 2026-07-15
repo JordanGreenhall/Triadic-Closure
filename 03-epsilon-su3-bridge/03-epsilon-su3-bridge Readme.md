@@ -44,4 +44,4 @@ Each loop packet must identify: concept, physics capacity, framework use, native
 
 ## 2026-07-15 execution
 
-Full-load and adversarial verification: [Lineage 3 execution](lineage-execution/03-epsilon-su3-bridge.md). Verdict remains **PASS-for-load / Registered, not Sealed**; named seal residuals are preserved.
+Full-load and adversarial verification: [Lineage 3 execution](/lineage-execution/03-epsilon-su3-bridge.md). Verdict remains **PASS-for-load / Registered, not Sealed**; named seal residuals are preserved.
