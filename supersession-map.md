@@ -1,9 +1,9 @@
 ---
 title: Supersession Map
-type: overview
+type: adjudicative
 created: 2026-06-21
-updated: 2026-06-21
-status: control
+updated: 2026-07-15
+status: adjudicative
 confidence: high
 sources:
   - physics-walk-d1-d5-consolidated.md
@@ -15,7 +15,7 @@ historical_sources:
 
 # Supersession Map
 
-This page prevents agents from reviving obsolete claims.
+This is a temporary claim-routing packet. It prevents revival of identified obsolete claims while each detailed semantic lineage is normalized. It does not replace the detailed source families, does not confer document-wide authority, and must be retired entry by entry as its content is absorbed into canonical documents and downstream consumers. The governing authority method is [Corpus Authority and Supersession](corpus-lineage.md).
 
 ## High-confidence supersessions
 

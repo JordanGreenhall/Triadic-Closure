@@ -29,7 +29,8 @@ Do not infer standing or authority from a former folder name. Historical source 
 
 ## Document roles
 
-- `overview` or `control` — orientation, lineage, supersession, status, and execution controls;
+- `overview` or `control` — orientation and durable execution controls;
+- `adjudicative` — temporary repair, supersession, ruling, status, load, or boundary packet awaiting absorption;
 - `concept` — framework vocabulary and structural concepts;
 - `result` — current result modules and derivations;
 - `claim` — focused claims with explicit standing;
@@ -44,8 +45,8 @@ For new or repaired documents:
 ```yaml
 ---
 title: Page Title
-type: overview | concept | result | claim | process | control | historical
-status: current | historical | superseded | contested | open | control
+type: overview | concept | result | claim | process | control | adjudicative | frontier | historical | memorial
+status: current | historical | superseded | contested | open | control | adjudicative
 confidence: high | medium | low
 sources:
   - source-file.md
@@ -67,7 +68,7 @@ historical_sources:
 
 GitHub is primary for every migrated file. Google Drive is fallback provenance and source recovery for files not yet migrated.
 
-Claim authority is semantic and claim-specific. Prefer detailed derivation, later repair, explicit adjudication, and necessary downstream expenditure over summaries or metadata.
+Claim authority is semantic and claim-specific. [Corpus Authority and Supersession](corpus-lineage.md) governs the exact priority order. Frontmatter, document role, recency, reading order, and migration location are evidence about a source, never substitutes for claim-level lineage adjudication.
 
 ## Claim standing
 

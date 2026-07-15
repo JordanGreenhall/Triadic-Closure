@@ -1,9 +1,9 @@
 ---
 title: Jordan Decisions
-type: overview
+type: adjudicative
 created: 2026-06-21
-updated: 2026-06-21
-status: control
+updated: 2026-07-15
+status: adjudicative
 confidence: medium
 historical_sources:
   - raw/context/full-conversation-ledger.md
@@ -11,7 +11,7 @@ historical_sources:
 
 # Jordan Decisions
 
-This page captures decisions from the conversation ledger that affect future execution.
+This page holds temporary direct authorial interrupts that have not yet been fully absorbed. Each ruling controls only its exact claim. During normalization it must be propagated into the semantic unit that owns it and then removed from this page. The completed corpus must not require a separate rulings page to recover current theory or execution discipline. See [Corpus Authority and Supersession](corpus-lineage.md).
 
 ## Canonical vertical/horizontal language
 

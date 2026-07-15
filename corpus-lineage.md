@@ -1,81 +1,109 @@
 ---
-title: Corpus Lineage
-type: overview
-updated: 2026-07-13
+title: Corpus Authority and Supersession
+type: control
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
+  - supersession-map.md
   - repository-inventory.md
+  - _compiler/18-supersession-map-semantic-inventory.md
 ---
 
-# Corpus Lineage
+# Corpus Authority and Supersession
 
-GitHub is now the primary execution corpus for the migrated Triadic Closure materials. Most former Google Drive files have been flattened to repository root. The complete current inventory is [Repository Inventory](repository-inventory.md).
+This document governs one question: **which formulation controls a disputed semantic claim?** It does not determine the claim's standing, replace the detailed derivation, or define the agent's general execution process.
 
-## Location and authority
+GitHub is the primary execution corpus for every migrated source. Google Drive or an external deposit may be used only to recover a missing source, compare provenance, or test migration completeness. Location, filename, document type, frontmatter status, upload date, and position in a reading order do not themselves confer intellectual authority.
 
-Migration location does not determine authority. A root-level file may be current, historical, mixed, or superseded. Authority is resolved claim by claim.
+## 1. Authority attaches to claims, not documents
 
-Use Google Drive only when:
+A document is an evidence-bearing container. Its different claims may have different authority lineages and dispositions. A file may remain useful for one derivation while being superseded on another claim.
 
-- a source named in the corpus is not present in GitHub;
-- migration completeness must be checked;
-- provenance or an older version must be compared;
-- a missing substantive source must be recovered.
+For every disputed claim, reconstruct the complete lineage before selecting the living formulation. Do not average incompatible formulations and do not assign universal authority to a foundation, result page, status ledger, summary, compiler inventory, or newer upload merely because of its genre.
 
-## Governing documents
+## 2. Priority order for the exact disputed claim
 
-Begin with:
+Apply this order by exact scope:
 
-1. [README](README.md)
-2. [Index](index.md)
-3. [Repository Inventory](repository-inventory.md)
-4. [Schema](SCHEMA.md)
-5. [Supersession Map](supersession-map.md)
-6. [Agent Execution Rules](agent-execution-rules.md)
+1. a direct current Jordan ruling on the precise claim, until its content has been absorbed into the canonical corpus;
+2. the latest surviving explicit repair, supersession, or adjudication packet addressing that claim;
+3. the latest integrated frontier-status or concept-load ledger addressing that claim;
+4. the latest complete detailed derivation incorporating the repair;
+5. an earlier detailed derivation for portions not superseded;
+6. a current frontier, quarantine, or implementation document defining the exact boundary of permitted use;
+7. downstream documents that necessarily spend the corrected result;
+8. current summaries and status pages;
+9. compiler inventories;
+10. historical failed routes, developmental ledgers, migration reports, and memorial artifacts.
 
-## Source tiers
+This is not a document-wide rank. A status ledger may govern grade and permitted use while the detailed derivation continues to govern mathematical or conceptual substance. A later repair outranks an earlier derivation only on the repaired point. Necessary downstream expenditure is adjudicative evidence, not automatic proof of every premise it consumes.
 
-### Current governing and foundational work
+## 3. Evidence rules
 
-- [Architectonic Rigor — complete](architectonic-rigor-complete.md)
-- [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
-- [Claim Status Vocabulary](claim-status-vocabulary.md)
-- [Vertical and Horizontal](vertical-and-horizontal.md)
-- [Domain Entry Method](domain-entry-method.md)
-- [Supersession Map](supersession-map.md)
+- Detailed work outranks a compressed summary on the substance of a derivation.
+- A later explicit correction outranks an earlier detailed derivation only on the corrected point.
+- Explicit supersession is sufficient but not necessary: a later detailed lineage may demonstrate that it refutes, discharges, or replaces an earlier formulation.
+- Partial supersession preserves unaffected living units.
+- A reverted commit has no authority merely because it was temporally later. Use the surviving tree and history to determine whether a change endured.
+- Upload date is not intellectual date. Use the content, internal dates, revision lineage, explicit supersession, and downstream adoption.
+- `current`, `canonical`, and similar metadata make a source eligible evidence; they do not settle every claim inside it.
+- Absence from a partial index, source map, compiler inventory, or summary never implies absence from the living framework.
+- Checklists, scripts, and verification reports establish only what their exact inputs and operations can establish. They do not supply premises they presuppose.
 
-### Detailed mathematical and physics work
+## 4. Direct Jordan rulings are temporary interrupts
 
-Use the detailed modules listed in [index.md](index.md) and [repository-inventory.md](repository-inventory.md), subject to claim-specific adjudication. Dedicated later result pages generally supersede earlier syntheses and package summaries on the point they resolve.
+A direct present ruling controls its exact claim immediately. It must then be propagated into the proper canonical theory, standing, or execution document. Once propagation and verification are complete, the separate ruling must leave the living authority path. A reader should not need a permanent authorial-rulings page to recover the current theory.
 
-### Historical and development lineage
+Until absorption is complete, [Jordan Decisions](jordan-decisions.md) is a temporary adjudication packet. Its entries must be retired individually during the semantic units that own them.
 
-The repository deliberately retains developmental documents. They are evidence of the route, not automatic current doctrine. Important examples include:
+## 5. Supersession packets are temporary routing controls
 
-- [Cover Letter](cover-letter.md)
-- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
-- early D3/D4 and internal-structure walks;
-- earlier mathematization status/synthesis files;
-- [Neutron Consideration](neutron-consideration.md) where later work supersedes it.
+[Supersession Map](supersession-map.md) and [_compiler/18](_compiler/18-supersession-map-semantic-inventory.md) contain claim-specific routing work that has not yet been fully absorbed. They may control an exact repaired point under §2, but they do not replace the detailed source families and they are not permanent duplicate doctrine.
 
-## Migration shadows
+For each substantive semantic unit:
 
-The `overview/` directory contains residual duplicate or shadow pages from the pre-flattened topology. Root-level controls govern navigation. Shadow files must be compared and then deleted, redirected, or explicitly retained as historical.
+1. compare the packet with the complete detailed lineage and surviving history;
+2. integrate the governing formulation, scope, standing, exclusions, and local frontier into their natural canonical homes;
+3. propagate the correction into every downstream consumer;
+4. remove the absorbed packet entry or retire the packet when it retains no unique work.
 
-## Missing substantive source
+## 6. Required authority adjudication for every semantic unit
 
-The chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has not yet been migrated as a substantive root file. Its compiler inventory is present, but GitHub does not yet contain the deposited source itself.
+Before semantic editing, record:
 
-## Claim-specific authority
+- the unit boundary and excluded neighboring questions;
+- primary current sources by exact scope;
+- subsidiary sources and the limited work they retain;
+- explicit repairs, supersessions, and surviving commit lineage;
+- current status or frontier controls that govern permitted use;
+- downstream expenditures that bear on interpretation;
+- historical or adversarial evidence worth retaining;
+- formulations expressly excluded from revival;
+- delete or archive candidates with no unique semantic or evidentiary value;
+- any direct Jordan ruling still carrying unique work.
 
-For any semantic object, compare the available lineage and preserve the strongest coherent current formulation. The normal order is:
+The output is one coherent current semantic object with its exact scope and unresolved joints—not a consensus average and not a permanent adjudication dossier.
 
-1. complete detailed derivation;
-2. later detailed repair or extension;
-3. explicit adjudication or current ruling;
-4. downstream use that necessarily sharpens the claim;
-5. current control page;
-6. summary or orientation prose.
+## 7. Current source classes
 
-A summary may route but may not override a stronger detailed result.
+- **Canonical:** the current reader-facing expression of a semantic object.
+- **Supporting:** detailed derivation or evidence still required by canonical content.
+- **Adjudicative:** a repair, status, load, or boundary packet awaiting full absorption.
+- **Frontier:** active unresolved work at the local live edge.
+- **Historical:** superseded material retaining unique developmental or adversarial value.
+- **Memorial:** project history with no role in ordinary theory reconstruction.
+- **Delete:** no unique semantic, evidentiary, frontier, or memorial value.
+
+These are dispositions, not authority tiers. Every surviving source must justify its existence, and historical material must be visibly excluded from the living authority path.
+
+## 8. C1 fixed-point test
+
+Authority and supersession are normalized only when:
+
+- every active semantic unit can identify its controlling sources claim by claim;
+- no summary, status page, compiler artifact, metadata label, or obsolete file can override the detailed living lineage;
+- every direct ruling and adjudication packet has an explicit absorption destination;
+- reverted work is excluded and surviving repairs are discoverable;
+- duplicate authority rules have been reduced to this canonical control plus necessary local references;
+- a fresh reader or AI cannot reasonably choose a source merely because it is newer, shorter, labeled current, or encountered first.
