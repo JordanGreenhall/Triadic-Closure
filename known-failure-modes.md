@@ -2,7 +2,7 @@
 title: Known Failure Modes
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
@@ -51,7 +51,7 @@ Dimensionality special case: exact `3+1` is Registered and Sealed at the same le
 
 Do not import mature physics names before the framework earns them. Use recognition language where appropriate.
 
-## 6. Claim-status inflation
+## 6. Claim-status inflation and axis collapse
 
 Do not convert:
 
@@ -59,7 +59,15 @@ Do not convert:
 - checked → theorem;
 - finite-range verification → proof;
 - selection → forced;
+- warrant strength → standing;
+- defended-posit warrant → a fifth standing;
+- candidate/deposit/sign-off state → standing;
+- conditionality or empirical input → standing;
+- dissolution, retraction, supersession, quarantine, or historical classification → standing;
+- confidence → standing or warrant;
 - raw-package `locked actual` → live status without decrementing through [locked-actual-decrement-map](locked-actual-decrement-map.md).
+
+Use exactly one of the four live standings and record every other axis separately through [claim-status-vocabulary](claim-status-vocabulary.md).
 
 ## 7. Regression to earlier lineage
 
