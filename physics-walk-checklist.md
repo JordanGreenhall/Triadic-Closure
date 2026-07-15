@@ -57,7 +57,7 @@ B9. **The graded/linear/continuum content** (0.7–0.9) — does this step spend
 C1. **Survey the full population** of kinds-of-things that emerge at this stage from how horizontal and vertical commingle under the domain's From. It is usually a LONG list, not one thing. Use physical reality to orient where to look.
 C2. **Probe each candidate** against the checklist + its location: does it achieve realizability *here*, given the inherited From-content and prior stages? Fire the probe; don't force a fit.
 C3. **Keep inclusions with grades, exclusions with reasons-and-forward-homes.** An exclusion ("momentum needs space, not present until Dn") is as informative as an inclusion.
-C4. **Depth, not minimum-viable-covering.** When something fits, ask *what KIND* of thing it is and why this stage — don't stop at "slot filled." Where is the Hamiltonian? What kind of coherence is it? Survey to depth.
+C4. **Full account, not minimum-viable-covering.** When something fits, ask *what KIND* of thing it is and why this stage — don't stop at "slot filled." Where is the Hamiltonian? What kind of coherence is it? Survey the full dependency account.
 
 ## PART D — Framework warrant and semantic registration
 
