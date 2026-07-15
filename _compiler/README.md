@@ -13,7 +13,7 @@ GitHub is the primary execution source for every migrated file listed in [../rep
 
 Every evidence ledger should record whether support came from GitHub, Drive, or both. A Drive copy does not override a migrated GitHub source merely by location; authority remains claim-specific.
 
-The supplemental foundation audit and chemistry deposit retain only their stated grades. The nine-document reconstruction has no authority and must not be consulted.
+The supplemental foundation audit and chemistry deposit retain only their stated grades. The initial July 10 consolidation drafts formerly stored as `01-method-and-control.md` and `02-foundational-architectonics.md` were superseded and removed from the living tree; their historical versions have no authority and must not be used as fallback doctrine.
 
 ## Governing compilation rule
 

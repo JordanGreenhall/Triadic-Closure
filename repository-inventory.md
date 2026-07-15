@@ -33,8 +33,6 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `domain-entry-method.md`
 - `entering-a-new-domain.md`
 - `three-moves-per-stage.md`
-- `01-method-and-control.md`
-- `02-foundational-architectonics.md`
 - `archivist-instructions-foundation-audit.md`
 
 ## Mathematics and mathematization
