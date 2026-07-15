@@ -17,10 +17,10 @@ This is the reader and agent gateway to [The Triadic Structure of Relating — C
 
 ## F2 foundation record
 
-| Claim | Framework state and warrant | Reach / debt | Registration |
+| Claim | Category / framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
 | Relating is ineliminable and non-composite in the attempted-assembly sense. | **Secured** by retorsion. | Any intelligible denial or assembly of relation from prior unrelated parts. Does not secure primitiveness. | **Native** |
-| Relating is primitive: nothing stands beneath it. | **Conjectured** on an intended defended-posit route. | Frontier details are canonical at §§0.2 and 10; this gateway does not duplicate them. | **Native** |
+| Relating is primitive: nothing stands beneath it. | **Pure posit.** No warrant is claimed. | Deliberately adopted foundational premise; downstream results state their conditional dependence on it. | **Native** |
 | A determination requires at least the minimal From / With / This cores. | **Secured** by retorsion. | At-least-three within intelligible determination; does not itself exclude a fourth office. | **Native** |
 | The ultimate office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route. | Closed to self-certification; refuted by one genuine irreducible fourth office. The ceiling is a result, not an unfinished proof task. | **Native** |
 
@@ -28,9 +28,8 @@ From, With, and This are gerundive offices of one act, not three substances: con
 
 ## F2 frontier pointers
 
-The two live F2 debts are governed only in the canonical treatise:
+The one live F2 debt is governed only in the canonical treatise:
 
-- primitive relating: local record §0.2; global record §10;
 - the full From -> With coherence-conditioning account: local record §2.4; global record §10.
 
 This gateway does not duplicate their missing-premise records.
