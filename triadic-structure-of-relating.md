@@ -26,6 +26,15 @@ This is the reader and agent gateway to [The Triadic Structure of Relating — C
 
 From, With, and This are gerundive offices of one act, not three substances: conditioning-from, coherently holding-with, and arriving-as-this. Richer office properties must retain their own dependency traces; they are not secured merely by repeating these names.
 
+## F2 frontier pointers
+
+The two live F2 debts are governed only in the canonical treatise:
+
+- primitive relating: local record §0.2; global record §10;
+- the full From -> With coherence-conditioning account: local record §2.4; global record §10.
+
+This gateway does not duplicate their missing-premise records.
+
 ## Downstream use
 
 Every downstream domain inherits the foundation whole. It may stress-test or refute exactly-three, but empirical fit does not erase the completeness ceiling or add warrant by itself. Exact `3+1` has its own scoped record in [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
