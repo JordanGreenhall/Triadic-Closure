@@ -3,7 +3,7 @@ title: "SM Frontier Item 8: Charge / Hypercharge Ledger"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 scope: frontier-item-8
 sources:
   - process/sm-frontier-loop-state/05-gauge-architecture-beyond-color.md
@@ -45,3 +45,8 @@ Item 8 splits structure from values. The native charge structure is Registered, 
 ## Integration rule
 
 Downstream pages may use charge conservation, neutrality, and particle/antiparticle relative sign as Registered structural content. They may not use exact SM charge values, hypercharge assignments, `1/6` lattice, anomaly cancellation, or `Q = T₃ + Y/2` arithmetic as framework-native proof unless the center-lock/module/value gates are separately discharged. Exact values remain empirical/calibration labels.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 8 execution](/lineage-execution/08-charge-hypercharge.md). Existing split grades and quarantines remain controlling.
