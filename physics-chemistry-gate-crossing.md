@@ -4,7 +4,9 @@ type: deposit
 status: current
 created: 2026-07-02
 session: "cascade first gate-crossing — walk + audit"
-grade: "in-session; Registered-candidate on registered parents; NOT yet wiki-standing (awaits adversarial audit + Jordan sign-off)"
+standing: Conjectured
+review_state: "candidate-for-registration; awaits the required adversarial review and authorial sign-off"
+warrant_summary: "in-session construction on Registered parents; individual claims retain their stated conditions"
 depends-on:
   - physics-walk-d1-d5-consolidated        # D-series; four images at D1; time/space/color flattenings
   - triadic-structure-of-relating          # 8.5 D7 selection rule; no-privileged-frame; held/registered (2.5); winding/complete-return
@@ -20,7 +22,8 @@ supersedes:
 inherited_caveats:
   - "G1 manifold recovery: every step spending 'r'/'surround' is conditional on G1 (Registered-not-Sealed)."
   - "frequency=weight (Item 1): every step spending the weighting-law propensity inherits this Open gate."
-claim_statuses: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed"]
+status_terms_in_source: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed"]
+standing_control: claim-status-vocabulary.md
 ---
 
 
@@ -36,10 +39,11 @@ its periodic landscape) forward to provision the successor domain (chemistry),
 and derives its D7-provisioning element **by criterion** rather than by the
 intuition the treatise used (§8.5 gloss: "carbon is the D7 of physics").
 
-The result is **in-session, Registered-candidate on registered parents**. It has
+The deposit's present standing is **Conjectured**, with review state
+**candidate-for-registration on Registered parents**. It has
 passed one adversarial audit (this session), which **repaired one keystone** and
 **retracted one over-claim** before either entered a ledger. It is not yet
-wiki-standing. The point of the grading columns is to mark exactly where it is
+accepted at the target Registered standing. The point of the grading columns is to mark exactly where it is
 firm and where the load sits.
 
 Overall shape, one line: **structure native and near-forced; magnitude located

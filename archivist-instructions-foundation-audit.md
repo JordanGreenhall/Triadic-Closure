@@ -5,9 +5,11 @@ status: for-archivist-action
 created: 2026-07-04
 session: "big-picture review → foundation smuggle audit → repairs & closures"
 covers_span: "from physics-chemistry-gate-crossing.md (2026-07-02) through the full corpus smuggle audit and its repair run"
-grade_of_contents: "in-session; Registered-candidate on registered parents unless noted; NOT yet wiki-standing — this document instructs the archivist, it does not itself promote anything to Sealed"
+standing_of_proposed_repairs: Conjectured
+review_state: "candidate-for-registration on Registered parents unless noted; this instruction does not itself promote a claim"
 audience: corpus archivist / compiler
-claim_statuses: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed", "Defended posit", Dissolved, Lead]
+status_terms_in_source: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed", "Defended posit", Dissolved, Lead]
+standing_control: claim-status-vocabulary.md
 ---
 
 # Archivist Instruction Set — Foundation Audit & Repairs

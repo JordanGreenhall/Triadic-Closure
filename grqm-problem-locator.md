@@ -24,7 +24,8 @@ depends-on:
   - mass-as-self-closure                             # horizon = total self-closure
   - internal-structure-walk-move2                    # U(1) overall-phase forced; SU(3) color; SU(2) withheld
   - d3-color-forcing-argument-v2                     # (S): physics = dynamical branch; complexness forced
-claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registered and Sealed"]
+status_terms_in_source: [Open, Conjectured, "Conjectured-strong", Registered, "Registered and Sealed", "Defended posit"]
+standing_control: claim-status-vocabulary.md
 discipline: "Refuse the background-smuggle. Do not equate two 1/4s without deriving the identity. A dissolution that does not explain why the tradition hit its wall is a change of subject. Realizability is modal adjacent-possible, never spatial reach. A pairing/With is not the same With as another merely because both are Withs. 'Severance' is guilty until the two senses (modal/spatial; From/With) are pinned."
 ---
 
@@ -41,9 +42,11 @@ keeps a fixed time, pairing, or notion of event) and the **number-coincidence** 
 rather than deriving the identity) — both fired during the session and are logged where they
 fired (§10).
 
-**Grade vocabulary.** Open · Conjectured · Conjectured-strong (many native pieces in place, one
-or two stated bets remaining) · Registered · Registered and Sealed · Defended posit (maximal
-honest grade where the completeness diagnostic forbids a seal).
+**Standing control.** The live standings are Open, Conjectured, Registered, Registered and
+Sealed, and Defended posit. The compound `Conjectured-strong` used in this historical ledger
+means **Conjectured with strong stated support**, not an additional standing. Conditions,
+native route, checks, and confidence remain separate under
+[Claim Standing and Warrant](claim-status-vocabulary.md).
 
 ---
 

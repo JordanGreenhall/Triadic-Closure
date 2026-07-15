@@ -28,4 +28,4 @@ Read this before evaluating any proof-status claim. It governs the distinction b
 
 The standing of a claim is fixed by how it was reached. Do not make claims stronger than their route permits.
 
-See also: [Claim Status Vocabulary](claim-status-vocabulary.md), [Corpus Lineage](corpus-lineage.md), and [Known Failure Modes](known-failure-modes.md).
+See also: [Claim Standing and Warrant](claim-status-vocabulary.md), [Corpus Authority and Supersession](corpus-lineage.md), and [Known Failure Modes](known-failure-modes.md).

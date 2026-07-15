@@ -13,7 +13,8 @@ depends-on:
   - with-to-this-closure                           # forward closure; decay as its inverse
 supersedes:
   - "neutron-consideration.md §5.2(a), §6 premise 2, §7 (the A₂ / 120° flavor-SU(3) keystone)"
-claim_statuses: [Open, Conjectured, Registered, "Registered and Sealed"]
+status_terms_in_source: [Open, Conjectured, Registered, "Registered and Sealed"]
+standing_control: claim-status-vocabulary.md
 ---
 
 # Flavor, the Mark-Metric, and the Neutron Mass Constraint

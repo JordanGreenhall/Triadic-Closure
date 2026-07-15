@@ -19,9 +19,10 @@ sources:
 # SM Frontier Items 2–4: Arguments and Status
 
 This file records the worked state of the first three load-bearing items on the
-SM-content smuggle frontier. Grades use the live claim-status vocabulary
-(Open / Conjectured / Registered / Registered and Sealed) plus the loop pass-states
-(PASS / CONDITIONAL). Nothing here is stamped **Registered and Sealed**; the
+SM-content smuggle frontier. It uses the four relevant live standings
+(Open / Conjectured / Registered / Registered and Sealed) plus the separate loop
+pass-states (PASS / CONDITIONAL); Defended posit is a fifth live standing but is not
+used by these items. Nothing here is stamped **Registered and Sealed**; the
 residuals that hold each result below seal are named explicitly.
 
 ## Governing discipline

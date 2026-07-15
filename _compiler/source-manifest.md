@@ -25,7 +25,7 @@ This manifest identifies the two non-wiki deposits supplied for the refactor. It
 - Lines at deposit: 755
 - SHA-256 at deposit: `7be24d5864b14ad1e3dfdc41e314ce9ca7acb54da68b9cbd996304e6a3c2abd7`
 - Role: evidence for chemistry entry, D1–D4, and the dynamics deep dive.
-- Standing rule: the page-level phrase `Registered-candidate` is not a live claim standing. Each chemistry claim must be assigned one of the four live standings after its parents and argument are adjudicated. `Candidate`, confidence, inheritance, and test status are separate metadata.
+- Standing rule: the page-level phrase `Registered-candidate` is not a live claim standing. Each chemistry claim must be assigned one of the five live standings after its parents and argument are adjudicated: Open, Conjectured, Registered, Registered and Sealed, or Defended posit. `Candidate`, confidence, inheritance, test status, and disposition are separate metadata.
 
 ### Adjudicated dependency requirements
 

@@ -49,7 +49,7 @@ Authority is claim-specific, not file-wide or folder-wide. Follow [Corpus Author
 
 ## Standing and warrant
 
-Claim standing and warrant route are separate. Authorized standings currently used across the corpus include Open, Conjectured, Conjectured-strong, Registered-candidate, Registered, Registered and Sealed, Defended posit, and Dissolved. `Locked actual` is deprecated.
+Claim standing and warrant route are separate. The live standings are Open, Conjectured, Registered, Registered and Sealed, and Defended posit. Compound expressions such as `Lead`, `Conjectured-strong`, `Registered-candidate`, and `Registered-not-Sealed` must be decomposed into a live standing plus separate route, condition, review, or frontier metadata. `Dissolved` is a disposition; `Locked actual` is deprecated. See [Claim Standing and Warrant](claim-status-vocabulary.md).
 
 ## Historical material
 

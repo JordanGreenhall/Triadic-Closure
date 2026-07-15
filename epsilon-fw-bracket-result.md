@@ -11,7 +11,8 @@ depends-on:
   - quark-lepton-split                 # three roots; chiral lift; marked color
   - chiral-coupling-result             # spin lift; helicity
   - closure-inherited-metric           # measure machinery (color: 2π⁵)
-claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registered and Sealed"]
+status_terms_in_source: [Open, Conjectured, "Conjectured-strong", Registered, "Registered and Sealed"]
+standing_control: claim-status-vocabulary.md
 ---
 
 # ε_FW — Forced Bracket and Terminal Status

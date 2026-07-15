@@ -45,7 +45,7 @@ Deleting an obsolete formulation requires identifying its replacement unless the
 
 ## Standing discipline
 
-Claim standing and warrant route are separate. Historical verifier output is provenance unless the exact verifier is rerun against the exact current artifact. `Locked actual` is deprecated.
+Claim standing and warrant route are separate. [Claim Standing and Warrant](../claim-status-vocabulary.md) governs the live vocabulary and compound-label translations. Historical verifier output is provenance unless the exact verifier is rerun against the exact current artifact. `Locked actual` is deprecated.
 
 ## Semantic identity
 

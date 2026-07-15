@@ -10,7 +10,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 4. [Corpus Authority and Supersession](corpus-lineage.md)
 5. [Supersession Map](supersession-map.md) — temporary claim-routing packet pending absorption
 6. [Agent Execution Rules](agent-execution-rules.md)
-7. [Claim Status Vocabulary](claim-status-vocabulary.md)
+7. [Claim Standing and Warrant](claim-status-vocabulary.md)
 8. [Vertical and Horizontal](vertical-and-horizontal.md)
 9. [Known Failure Modes](known-failure-modes.md)
 
@@ -41,7 +41,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
 - [Dimension and Spacetime Status](dimension-and-spacetime-status.md)
-- [Locked Actual Decrement Map](locked-actual-decrement-map.md)
+- [Locked Actual Decrement Map](locked-actual-decrement-map.md) — temporary translation ledger pending claim-by-claim absorption
 - [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
