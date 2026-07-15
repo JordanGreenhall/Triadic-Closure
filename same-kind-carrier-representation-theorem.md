@@ -2,7 +2,7 @@
 title: Same-Kind Carrier and Representation Type Theorem
 type: physics-internal-structure
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 status: current
 confidence: medium
 sources:
@@ -42,7 +42,7 @@ frame-selector.
 ### Gate B — complex linearity (vs. real) — **Registered** (the load-bearing gate)
 The real alternative (ℝ³, real determinant, `SO(3)`) is fully coherent, so
 complexness is not forced by the alternating form, one carrier, scalar verdict, or
-dimension alone. The native source is **non-interchangeability**: the This-flattened
+dimension alone. The inherited mathematics gate supplies rule-given complex structure; **non-interchangeability** selects and preserves its orientation-content in this carrier. The cyclic route is corroborative/seal work: the This-flattened
 triad is registered as "symmetric but non-interchangeable," so the three moments
 carry a *registered orientation*. A linear/total order would privilege a first
 element — a frame-selector, forbidden by `no-privileged-frame`. The only orientation
@@ -50,7 +50,7 @@ on three elements with no privileged element is the **cyclic order ℤ₃**. ℤ
 faithful real one-dimensional representation; its minimal faithful representation is
 two real dimensions — rotation by 120°, i.e. multiplication by a primitive cube root
 of unity. To register the orientation faithfully, each moment-line carries that
-complex structure. Hence the carrier is complex.
+complex structure. Hence the carrier faithfully carries the inherited complex orientation; this does not manufacture ℂ independently of the mathematics gate.
 
 Chain: non-interchangeable (This-flattening) + no-privileged-element
 (`no-privileged-frame`) + three (office count) ⇒ cyclic ℤ₃ ⇒ faithful real rep is
@@ -114,3 +114,8 @@ foundational posits; its own seal residuals are Gate B's ℤ₃-cyclic formaliza
 ## Use rule
 
 Downstream pages may treat the same-kind complex carrier `C³`, Hermitian pairing, and fixed form as Registered for the SU(3) bridge. They must carry the named seal residuals, especially Gate B's ℤ₃-cyclic formalization, and must not import additional Standard Model representation content beyond the Registered carrier theorem.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 4 execution](/lineage-execution/04-same-kind-carrier.md). Verdict remains **CONDITIONAL-PASS / Registered, not Sealed**. The execution corrects the provenance of complexness: inherited rule-given ℂ is load-bearing; the cyclic route is corroborative and retains its seal debt.
