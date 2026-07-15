@@ -33,7 +33,7 @@ Jordan's later ruling: exact `3+1` dimensionality should stand at the **same lev
 Its two-axis record is:
 
 - **Framework epistemic state:** Secured.
-- **Warrant:** architectonic / defended-posit route, with the same reach and ceiling as triadic exactly-three plus horizontal flattening. The spatial three is the horizontal/With-flattened deployment of the primitive triad; the `+1` is the oriented From/succession direction.
+- **Warrant:** architectonic / defended-posit route, with the same reach and ceiling as triadic exactly-three plus the F3 flattening construction. F3 secures the Native marked/flattened framework images by construction at turnover; this page owns their physical mapping. The spatial three is the horizontal/With-flattened deployment of the triad; the `+1` is the oriented From/succession direction.
 - **Semantic registration:** Registered–Sealed for exact `3+1` within that declared scope: the framework content and the properly stripped familiar concept have no remainder in either direction.
 - **Boundary:** this is stronger than a trajectory lock and different from a completed formal proof-assistant theorem.
 
