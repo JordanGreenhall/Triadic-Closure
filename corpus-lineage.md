@@ -1,7 +1,7 @@
 ---
 title: Corpus Lineage
 type: overview
-updated: 2026-07-13
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
@@ -69,13 +69,21 @@ The chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has
 
 ## Claim-specific authority
 
-For any semantic object, compare the available lineage and preserve the strongest coherent current formulation. The normal order is:
+Authority is claim-specific, not file-wide. For each disputed semantic object, use this order:
 
-1. complete detailed derivation;
-2. later detailed repair or extension;
-3. explicit adjudication or current ruling;
-4. downstream use that necessarily sharpens the claim;
-5. current control page;
-6. summary or orientation prose.
+1. a current direct Jordan ruling, for the exact claim ruled on, until that ruling is propagated into the corpus;
+2. the latest surviving explicit repair, supersession, or adjudication, for the exact claim it resolves;
+3. the latest integrated frontier ledger or concept-load ledger, for the exact claim it grades or closes;
+4. the latest complete detailed derivation that incorporates the relevant repair;
+5. portions of an earlier detailed derivation that have not been superseded;
+6. a current frontier, quarantine, or implementation document, only for the boundary it defines;
+7. downstream work that necessarily spends the corrected result;
+8. summaries, status pages, and reading guides;
+9. compiler inventories;
+10. historical failed routes, development ledgers, migration reports, memorials, and reverted commits.
 
-A summary may route but may not override a stronger detailed result.
+Chronology alone never settles authority. Newness matters only where it carries an explicit, surviving repair, ruling, adjudication, integration, or downstream adoption.
+
+A direct Jordan ruling must be propagated into the relevant canonical derivation, control, and dependent pages. Once fully absorbed, the standalone ruling record becomes provenance rather than a substitute for theory.
+
+For each semantic unit, classify sources as: primary current; subsidiary with limited retained work; explicitly superseded; historical or adversarial evidence; delete/archive candidate with no unique value; and direct ruling still carrying unique work.

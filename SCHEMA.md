@@ -67,7 +67,7 @@ historical_sources:
 
 GitHub is primary for every migrated file. Google Drive is fallback provenance and source recovery for files not yet migrated.
 
-Claim authority is semantic and claim-specific. Prefer detailed derivation, later repair, explicit adjudication, and necessary downstream expenditure over summaries or metadata.
+Claim authority is semantic and claim-specific. Apply the exact order in [corpus-lineage.md](corpus-lineage.md): current direct ruling for the exact ruled claim until propagation; latest surviving repair/supersession/adjudication; integrated ledger; repaired complete derivation; unsuperseded earlier derivation; scoped frontier; necessary downstream expenditure; summaries; compiler inventories; then historical evidence. Chronology and metadata alone never settle authority.
 
 ## Claim standing
 

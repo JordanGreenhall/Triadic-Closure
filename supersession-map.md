@@ -2,7 +2,7 @@
 title: Supersession Map
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
@@ -80,6 +80,31 @@ Execution rule: report exact `3+1` as Registered and Sealed at the same level as
 - Ledger adjudication: the coalgebra route as posed was refuted/downgraded; arity/coherence alone did not force dimension three.
 
 Execution rule: do not use “ternary coalgebra ⇒ dimension three” or any arity-to-dimension shortcut as current proof.
+
+## Authority-control succession
+
+The earlier six-step control heuristic that began with the "most advanced complete detailed derivation" is superseded by the claim-specific order in [Corpus Lineage](corpus-lineage.md). Current direct rulings and surviving explicit repairs govern only their exact claims and must be propagated; neither a file's date nor its self-declared status establishes file-wide authority.
+
+### Absorbed Jordan rulings
+
+The four rulings collected in `jordan-decisions.md` have been absorbed into dedicated living pages:
+
+- vertical/horizontal language: [Vertical and Horizontal](vertical-and-horizontal.md);
+- tool discipline: [Known Failure Modes](known-failure-modes.md) and [Agent Execution Rules](agent-execution-rules.md);
+- color as This-flattening: [Physics Walk D1–D5](physics-walk-D1-D5-consolidated.md) and [Gauge Structure Result](gauge-structure-result.md);
+- exact `3+1`: [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
+
+Execution rule: use the dedicated pages as living theory. The standalone decision record is provenance after absorption, not an alternative canonical formulation.
+
+### Reverted canonical-status audit
+
+Commits `7ec84db8` through `99efd96f` introduced and applied a mechanical canonical-status audit. Commits `ea808c31`, `fbc415b8`, and `03ca75d1` explicitly reversed and removed it pending source-by-source review.
+
+Execution rule: the reverted audit chain is historical/adversarial evidence only. It cannot establish current status or supersession. Later surviving repairs must be evaluated independently.
+
+### External ten-document consolidation
+
+A later ten-document consolidation dated 2026-07-10 has been supplied outside the current GitHub tree and declares broad control and supersession scope. Its date and self-description do not grant file-wide authority. Each claim may be used only after comparison with the surviving repository derivation, explicit repairs, ledgers, and downstream adoption; any accepted result must be migrated and propagated into the GitHub corpus.
 
 ## Partial supersessions / caution zones
 

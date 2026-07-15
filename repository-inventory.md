@@ -16,7 +16,6 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `physics-domain-mature-status.md`
 - `physics-domain-work-plan.md`
 - `known-failure-modes.md`
-- `jordan-decisions.md`
 - `deferred-articulations-map.md`
 - `physics-section-guide.md`
 - `physics-source-map.md`
@@ -103,6 +102,7 @@ The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistr
 
 ## Historical, superseded, or provenance material
 
+- `jordan-decisions.md` — direct-ruling provenance; all four rulings absorbed into dedicated living pages
 - `cover-letter.md`
 - `phi-forward-reconstruction.md`
 - `mathematization-F10-status.md`
