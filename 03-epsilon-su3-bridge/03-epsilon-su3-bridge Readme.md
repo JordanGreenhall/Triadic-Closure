@@ -3,7 +3,7 @@ title: "Frontier Item 3: Epsilon / SU(3) bridge"
 type: process
 status: native-su3-registered-not-sealed
 frontier_item: 3
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../epsilon-su3-bridge-construction.md
   - ../../process/sm-frontier-loop-state/03-epsilon-su3-bridge.md
@@ -40,3 +40,8 @@ Dependent pages may use native SU(3) as Registered structure. They may not impor
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 3 execution](lineage-execution/03-epsilon-su3-bridge.md). Verdict remains **PASS-for-load / Registered, not Sealed**; named seal residuals are preserved.
