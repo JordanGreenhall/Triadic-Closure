@@ -54,6 +54,8 @@ historical_sources:
 ---
 ```
 
+The frontmatter `status` field records document lifecycle or control role only. It never assigns claim standing to the document or to every sentence within it. Frontmatter `confidence` is likewise document-level metadata unless a claim-level confidence statement is explicitly scoped.
+
 ## Linking rules
 
 1. Governing navigation uses repository-resolvable Markdown links.
