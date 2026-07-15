@@ -24,8 +24,8 @@ Important lineage correction: `phi-forward-reconstruction.md` is package-era ope
 
 Every old `locked actual` use must now be decomposed into:
 
-1. **Epistemic state** — Open, Conjectured, or Secured.
-2. **Warrant route and reach** — including conditions, empirical inputs, and debts.
+1. **Framework standing** — Open, Conjectured, or Secured when warrant is claimed; or Pure posit when the item is a deliberately adopted premise with no warrant claimed.
+2. **Warrant route and reach** — including conditions, empirical inputs, and debts; for Pure posit record `Warrant: none claimed` and propagate downstream dependence.
 3. **Semantic registration** — Native, Unregistered, Registered, or Registered–Sealed.
 4. **Registration boundary** — licensed legacy core, quarantined legacy surplus, and framework remainder.
 
