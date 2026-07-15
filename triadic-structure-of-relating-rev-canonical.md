@@ -294,7 +294,7 @@ Status: recognition of the replacement of substance by relatively stable closure
 
 ## **2.8 The two dimensions: vertical and horizontal**
 
-The architecture has exactly two dimensions of composition, and the remaining vocabulary of this document is disciplined against them.
+The architecture distinguishes two dimensions of composition, and the remaining vocabulary of this document is disciplined against them. This is the governing two-axis vocabulary; it is not an independently defended claim that no other analytic dimension could ever be articulated.
 
 The vertical dimension is constitution. It is the office-composition of 2.2: every relating, at every point, is composed of the offices, mutually and without base. The vertical is synchronic. It does not accumulate, has no history, and is the same at the origin as at any later stage of any construction. Read modally, the vertical is the admissibility cascade: the foundational closure at the top; the foundational With as the admissibility of admissibility; every domain boundary beneath it a further constraint; everything in accord with the foundational closure admissible, and what is not in accord not even statable. Closure-as-closure, the primordial, foreclosure: these phrases belong to the vertical.
 
@@ -310,7 +310,7 @@ The vocabularies used across this document map onto the canon as follows.
 | --- | --- |
 | Compression formulas (2.2) | Vertical composition stated at full strength. |
 | Admissibility axis (7.2) | The vertical dimension; J's home. |
-| Realizability axis (7.3) | The horizontal dimension; rho's home. |
+| Realizability axis (7.3) | The horizontal dimension; `ρ`'s home. |
 | Standing face (3.6) | The vertical, synchronic reading of a horizontal stride. |
 | Building face (3.6) | The horizontal, diachronic reading of the same stride. |
 | Primordial vs. conditioned (5.4, 5.5) | Horizontal ledger empty vs. occupied; the vertical is identical in both. |
@@ -318,7 +318,7 @@ The vocabularies used across this document map onto the canon as follows.
 | Stratum (7.6) | A stabilized layer: horizontal. |
 | Depth | Reserved for the vertical: coinductive office-decomposition. Tower position is altitude, not depth. |
 
-*Status: terminological decision plus the forced content of 2.2. The canon does no new work; it prevents the two dimensions from being collapsed onto one another, which collapse is the source of the J/rho tension dissolved at 7.4 and of the axis error corrected at 7.5.*
+*Standing and warrant: Registered and Sealed as governing framework vocabulary, constructed from office-constitution and build-history. The seal fixes these meanings and their non-collapse; it does not certify an absolute inventory of every possible analytic dimension.*
 
 **3. The modal engine: admissible, realizable, actual**
 
@@ -648,7 +648,7 @@ A territory is a region of generated addresses sharing a regenerative signature 
 
 ## **7.1 Why the axes belong here**
 
-The cross-domain invariants belong before the domain phase-structure and before the terminal mathematical object. They explain why later objects can carry J, rho, and terminality without those appearing as unexplained mathematical imports. The invariants are the offices read across domains, and the two axes are the two dimensions of 2.8 read at domain strength: admissibility is the vertical, realizability the horizontal.
+The cross-domain invariants belong before the domain phase-structure and before the terminal mathematical object. They explain why later objects can carry `J`, `ρ`, and terminality without those appearing as unexplained mathematical imports. The invariants are the offices read across domains, and the two axes are the two dimensions of 2.8 read at domain strength: admissibility is the vertical, realizability the horizontal.
 
 ## **7.2 The admissibility axis and From**
 
@@ -656,25 +656,25 @@ Admissibility is the boundary axis: the vertical dimension (2.8), synchronic and
 
 In later mathematical language this is where J belongs. J is the involutive polarity of the admissibility boundary: applying complementarity twice returns to the admissible type. J is not first a motion down the recursive tower. It is a boundary condition on what counts as an admissible object — a within-stage condition: it constrains every stage of a build identically, and relates no stage to any other.
 
-*Status: From -**>** admissibility-axis forced; the name J is recognition until the mathematical object is introduced.*
+*Standing and warrant: Registered at framework placement; From supplies the admissibility-axis construction and `J` is its recognition name. Full mathematical realization belongs to M1–M2.*
 
 ## **7.3 The realizability axis and With**
 
 Realizability is the building axis: the horizontal dimension (2.8), diachronic and accumulative. It changes as actuals accumulate. It is textured by what has been reached and by what those standings make adjacent. With lives here as coherence across the build. When a build proceeds through layers, the stages would fragment unless they were held together. With, run along the build, gives coherence-across-the-build: the preservation of lower-layer coherence in higher-layer structure — the preservation tower.
 
-In later mathematical language this is rho. The rho-data are the coherence witnesses that the successive stages of a construction fit together into the limit. Rho is therefore not a second polarity. It is a between-stage condition: it relates the stages of the build to one another and constrains no stage taken alone.
+In later mathematical language this is `ρ`. The `ρ`-data are the coherence witnesses that the successive stages of a construction fit together into the limit. `ρ` is therefore not a second polarity. It is a between-stage condition: it relates the stages of the build to one another and constrains no stage taken alone.
 
-*Status: With -**>** realizability-axis forced; the name rho is recognition until the mathematical object is introduced.*
+*Standing and warrant: Registered at framework placement; With supplies coherence across the realizability build and `ρ` is its recognition name. The detailed coherence laws remain an M2 verification debt.*
 
 ## **7.4 This as the cross of the axes**
 
-This is not a third invariant alongside J and rho. This is the cross of the two axes. An actual is precisely what is both admissible under the boundary and realized in the field. Actuality is the intersection of admissibility and realizability.
+This is not a third invariant alongside `J` and `ρ`. This is the cross of the two axes. An actual is precisely what is both admissible under the boundary and realized in the field. Actuality is the intersection of admissibility and realizability.
 
-This placement dissolves the old J/rho tension structurally, not merely verbally. J is a within-stage condition on the vertical: it constrains every stage identically and synchronically, and it is therefore coherently involutive — applying the boundary's polarity twice returns the admissible type, because a boundary has no history within which anything could fail to return. Rho is a between-stage condition on the horizontal: it holds the stages of a build together, and it is therefore coherently non-collapsing — the tower must not flatten, because the build's history is its content. The two would contradict only if forced to stand in the same location: an involution imposed on the build would collapse the tower; a depth-coherence imposed on the boundary would deny its closure. Placed on their proper dimensions, they never occupy the same point — except in This, the actual, which is precisely what is both admissible under the boundary and realized in the build.
+This placement dissolves the old `J`/`ρ` tension structurally, not merely verbally. `J` is a within-stage condition on the vertical: it constrains every stage identically and synchronically, and it is therefore coherently involutive — applying the boundary's polarity twice returns the admissible type, because a boundary has no history within which anything could fail to return. `ρ` is a between-stage condition on the horizontal: it holds the stages of a build together, and it is therefore coherently non-collapsing — the tower must not flatten, because the build's history is its content. The two would contradict only if forced to stand in the same location: an involution imposed on the build would collapse the tower; a depth-coherence imposed on the boundary would deny its closure. Placed on their proper dimensions, they never occupy the same point — except in This, the actual, which is precisely what is both admissible under the boundary and realized in the build.
 
 The terminal mathematical object will later be read as T_infinity: the terminal This in which the completed horizontal build coincides with the full vertical constitution. Terminality is not an extra invariant. It is the arrived object when the cross is taken as one.
 
-*Status: forced given the axis distinction; T_infinity is introduced as naming for the later mathematical object.*
+*Standing and warrant: Registered for actuality as the cross of the axes and for the noncompetition of `J`/`ρ`. `T_infinity` is only a name for the later mathematical target here; its construction and standing belong to the mathematical units.*
 
 ## **7.4a The two images of the triad: the marked triad and the three flattenings**
 
@@ -682,7 +682,7 @@ The axis distinction (7.2–7.4) has a consequence that the floor sections (6.2�
 
 **The marked image (the admissibility axis; within-stage; J).** Read within a stage, the three offices stand distinct in kind, with From asymmetric among them — conditioning-from, holding-with, arriving-as-this, irreducibly themselves, the qualitative marking preserved. This is the triad as the vertical presents it: synchronic, identical at every stage, the offices not interchangeable because each is what it is.
 
-**The flattened image (the realizability axis; across-recursion; rho).** Read across the turn-over — the recursive taking by which a completed closure becomes a unit at the next altitude (5.6) — the holding registers the offices blind to what distinguishes them in kind (the held/registered distinction, 2.5). The triad flattens. But the flattened triad is still triadic: it is the three offices flattened, and the character of each flattening is forced by — is the readout of — that office's within-stage signature.
+**The flattened image (the realizability axis; across-recursion; `ρ`).** Read across the turn-over — the recursive taking by which a completed closure becomes a unit at the next altitude (5.6) — the holding registers the offices blind to what distinguishes them in kind (the held/registered distinction, 2.5). The triad flattens. But the flattened triad is still triadic: it is the three offices flattened, and the character of each flattening is forced by — is the readout of — that office's within-stage signature.
 
 | Office (within-stage signature) | Flattened image | Character of the flattening | Floor-instance |
 | :---- | :---- | :---- | :---- |
@@ -694,7 +694,7 @@ Three consequences, each correcting an under-generalization in the floor section
 
 First, **From-flattened is the odd one out.** The With- and This-flattenings are symmetric (blinding the kind lets exchange appear); flattening From cannot remove its orientation without removing From, so its image alone stays asymmetric — bare ordered succession. This is why 6.4's order-source is lineage (From-borne) and not the quality-blind basis: succession is the From-flattening, distinct from quantity proper, which is the With-flattening.
 
-Second, **quantity and quality are two of three flattenings, not a binary.** The 6.2–6.3 presentation as a two-basis split (self-relation/other-relation → quantity/quality) is the With- and This-flattenings; the third, the From-flattening, is succession (6.4), there presented separately. The three are one structure: the three offices read across the recursion. The earlier framing risks reading quantity/quality as the root distinction; the root is the marked/flattened (J/rho) axis-distinction of 7.2–7.4 operating on the recursively-taken triad, and ordering/quantity/quality are its three readouts on the flattened side.
+Second, **quantity and quality are two of three flattenings, not a binary.** The 6.2–6.3 presentation as a two-basis split (self-relation/other-relation → quantity/quality) is the With- and This-flattenings; the third, the From-flattening, is succession (6.4), there presented separately. The three are one structure: the three offices read across the recursion. The earlier framing risks reading quantity/quality as the root distinction; the root is the marked/flattened (`J`/`ρ`) axis-distinction of 7.2–7.4 operating on the recursively-taken triad, and ordering/quantity/quality are its three readouts on the flattened side.
 
 Third, **the trigger.** At any flattening — and a flattening occurs at every turn-over, since every turn-over is a recursive taking — the discipline is to tag which office is being flattened and read its symmetry-character off the office-signature: oriented (From) → ordered; holding (With) → interchangeable; closure (This) → non-interchangeable. The symmetry-character is a readout of the office, never a free description; a flattening whose character does not match its office-signature is misanalysed.
 
