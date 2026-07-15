@@ -59,12 +59,13 @@ C2. **Probe each candidate** against the checklist + its location: does it achie
 C3. **Keep inclusions with grades, exclusions with reasons-and-forward-homes.** An exclusion ("momentum needs space, not present until Dn") is as informative as an inclusion.
 C4. **Depth, not minimum-viable-covering.** When something fits, ask *what KIND* of thing it is and why this stage — don't stop at "slot filled." Where is the Hamiltonian? What kind of coherence is it? Survey to depth.
 
-## PART D — Grade
+## PART D — Framework warrant and semantic registration
 
-D1. Tag every claim: **N1** retorsion / **N2** constructive / **N3** path / **N4** minimal-under-named-class / **N5** recognition. Plus: is it a **selection** (an act)? Name its license.
-D2. Apply **held/registered (that/what)** where individuation is at stake.
-D3. **Realizability-before-actuality** (the hard rule): nothing actual that wasn't first realizable in the object. No "locked actual" that isn't first shown realizable from the From.
-D4. State **what is forced**, **what is carried forward** (named dependency, with home). **Lock nothing** mid-walk; adjudication is D7 only.
+D1. Assign every claim a framework epistemic state: **Open / Conjectured / Secured**. For every Secured claim, name the warrant route and its reach: **N1** retorsion / **N2** constructive / **N3** path / **N4** minimal-under-named-class, together with scope, conditions, and debts. If the claim is a **selection** (an act), name its license. **N5 recognition contributes no warrant.**
+D2. Record semantic registration independently: **Native / Unregistered / Registered / Registered–Sealed**. For Registered, state the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, verify bidirectional content identity within the declared scope, with no remainder either way.
+D3. Where individuation is at stake, apply **held/registered (that/what)** as individuation vocabulary; this is not the semantic-registration axis in D2.
+D4. **Realizability-before-actuality** (the hard rule): nothing actual that wasn't first realizable in the object. No "locked actual" that isn't first shown realizable from the From.
+D5. State **what is forced**, **what is carried forward** (named dependency, with home). **Lock nothing** mid-walk; adjudication is D7 only.
 
 ## PART E — Before submitting (every time)
 
