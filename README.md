@@ -24,6 +24,7 @@ filename.md
 The following directories currently have distinct roles:
 
 - `_compiler/` — semantic inventories and adjudication controls;
+- `lineage-execution/` — completed closed-loop frontier execution packets;
 - `overview/` — residual migration-shadow pages requiring consolidation;
 - `tools/` — import, reference-normalization, and audit scripts;
 - `.github/workflows/` — repository automation.
@@ -37,7 +38,8 @@ The repository now contains:
 - physics walks, spacetime, gauge, mass, gravity, and cosmology modules;
 - the physics-to-chemistry gate;
 - control, audit, historical, and provenance documents;
-- compiler artifacts.
+- compiler artifacts;
+- the completed thirteen-lineage frontier execution and reproducible Lineage 9 verifier.
 
 The substantive chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has not yet been migrated as a root source file. Its compiler inventory is present, but the source remains external.
 
