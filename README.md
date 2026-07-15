@@ -66,6 +66,10 @@ A newer or shorter summary may not override stronger detailed work.
 
 The corpus uses two independent epistemic axes. Framework claims are Open, Conjectured, or Secured, with the securing route and its reach stated. Semantic registration is Native, Unregistered, Registered, or Registered–Sealed and applies only to inherited names. Registered means the name is licensed over a secured core while legacy surplus remains quarantined; Registered–Sealed means bidirectional content-identity with no remainder within scope. Registration is not proof strength. See [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). `Locked actual` is deprecated.
 
+## Normalization discipline
+
+Normalization proceeds one semantic unit at a time under [Agent Execution Rules](agent-execution-rules.md). Define the unit before editing; keep neighboring units read-only except for required propagation; collect the full authority lineage; run passes without mixing objectives; do not invent theory; and do not claim completion until propagation, real verification, fresh-AI review, and a second no-change compiler cycle are complete.
+
 ## Historical material
 
 Package-era and superseded files remain for provenance, but may not be treated as current doctrine without adjudication. In particular, `cover-letter.md` and `phi-forward-reconstruction.md` are historical package materials whose broad status claims have been superseded in multiple places.
