@@ -64,7 +64,7 @@ A newer or shorter summary may not override stronger detailed work.
 
 ## Standing and warrant
 
-Claim standing and warrant route are separate. Authorized standings currently used across the corpus include Open, Conjectured, Conjectured-strong, Registered-candidate, Registered, Registered and Sealed, Defended posit, and Dissolved. `Locked actual` is deprecated.
+Claim standing and warrant route are separate. The four live standings are Open, Conjectured, Registered, and Registered and Sealed. Strength qualifiers, candidate/deposit state, defended-posit warrant, conditions, confidence, evidence state, and dispositions such as Dissolved are recorded separately. See [Claim Status Vocabulary](claim-status-vocabulary.md). `Locked actual` is deprecated.
 
 ## Historical material
 
