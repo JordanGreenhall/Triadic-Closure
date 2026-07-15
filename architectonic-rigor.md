@@ -12,7 +12,7 @@ sources:
 
 # Architectonic Rigor
 
-Primary role: reader and agent gateway to the governing method for dependency, retorsion, co-constitution, construction, selection, recognition, smuggle control, the completeness diagnostic, and defended posit.
+Primary role: reader and agent gateway to the governing method for dependency, retorsion, co-constitution, construction, selection, recognition, smuggle control, the completeness diagnostic, pure posit, and defended posit.
 
 The detailed canonical treatment is [Architectonic Rigor — Complete](architectonic-rigor-complete.md). This page is a navigation layer, not a second statement of the doctrine.
 
@@ -30,7 +30,8 @@ An instrument determines the force and ceiling of a claim's **framework warrant*
 - **Selection** records licensed contingency and does not convert a choice into necessity.
 - **Recognition with surplus quarantined** licenses an inherited name but adds no warrant.
 - **Completeness diagnostic** identifies claims whose warrant has a structural ceiling.
-- **Defended posit** is a warrant route, not a separate epistemic state; a completed defense can yield Secured only within its stated ceiling.
+- **Pure posit** is a deliberately adopted premise with no warrant claimed; it is neither Conjectured nor Secured, and every downstream use remains conditional on it.
+- **Defended posit** is a warrant route, not a separate epistemic state; a completed defense can yield Secured only within its stated ceiling. A pure posit is not an incomplete defended posit.
 
 ## Smuggle control
 
