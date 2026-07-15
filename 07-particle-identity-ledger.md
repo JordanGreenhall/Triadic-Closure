@@ -3,7 +3,7 @@ title: "SM Frontier Item 7: Particle Identity Ledger"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-26
+updated: 2026-07-15
 scope: frontier-item-7
 sources:
   - results/quark-lepton-split.md
@@ -37,3 +37,8 @@ Item 7 needs no new derivation. The load-bearing native roles were licensed upst
 ## Integration rule
 
 Downstream pages may use quark/lepton roles, electron native mass-ruler role, proton/baryon closure, and Item 6 spin machinery where those exact capacities are the load. They must not import exact charges, QCD dynamics, exact electroweak modules, beta-decay roles, neutrino identity, generations, Yukawa/Higgs content, empirical flavor spectrum beyond the registered `u,d,s` mark structure, or empirical measured masses through the particle names.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 7 execution](/lineage-execution/07-particle-identity.md). Existing split grades and quarantines remain controlling.
