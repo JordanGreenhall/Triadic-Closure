@@ -1,8 +1,8 @@
 # Foundational Architectonics
 
-## 1. The primitive is relating
+## 1. Relating: secured core and primitive posit
 
-The foundation is not a set of independently existing relata subsequently joined by relations. The primitive is relating itself.
+The foundation does not begin from independently existing relata subsequently joined by an external relation. Retorsion secures relating as ineliminable and non-composite in the attempted-assembly sense. The stronger completeness claim — that nothing stands beneath relating, so relating is primitive rather than merely ineliminable — is **Conjectured** on an intended defended-posit route because the corpus does not yet supply its explicit completed defense profile.
 
 Relating articulates through three irreducible offices:
 
@@ -22,17 +22,17 @@ Each office is itself composed by the other two. The offices are therefore irred
 
 This is vertical composition: the synchronic constitution of each office through the other two. It differs from horizontal accumulation, in which actual standings constrain the space of subsequent realizability.
 
-## 3. The exactly-three posit
+## 3. The exactly-three result
 
-The triad is a **Defended posit**.
+Exactly-three is **Secured within the completeness ceiling** by a completed defended-posit route. Defended posit names the warrant route, not a separate epistemic state.
 
-Its warrant is maximal beneath the totalization ceiling:
+Its warrant is maximal for an exact ultimate-inventory claim beneath the common totalization ceiling:
 
 1. the reduction to two is blocked because denying the third office deploys it;
 2. proposed fourth offices repeatedly return as subdivisions or second-order forms of the three;
 3. the defense of the triad itself exhibits the triadic structure.
 
-The posit remains open to refutation by one genuine irreducible fourth office. Every domain walk therefore tests the foundation rather than merely applying it.
+The result is closed to self-certification and open to refutation by one genuine irreducible fourth office. “Open to refutation” does not mean epistemically Open. Every domain walk stress-tests the foundation rather than merely applying it; downstream fit does not extend the warrant's reach.
 
 ## 4. Admissibility, realizability, actuality
 
@@ -68,16 +68,18 @@ This transition is the basis of domain entry. Physics inherits the mathematical 
 
 A domain does not discard the prior domain when it begins. The prior domain is carried whole into the new walk. The new domain articulates a further determination of that inherited whole.
 
-This means that downstream empirical success may support the foundation upward along the dependency trace, but it may not retroactively convert a defended posit into a certified totality. Support can strengthen; it cannot erase the totalization ceiling.
+This means that independently established downstream success may support the foundation upward along the dependency trace, but it cannot erase the totalization ceiling, extend the defended-posit warrant beyond intelligible determination, or substitute empirical fit for the defense profile.
 
-## 8. Current standing
+## 8. Current F2 record and queued neighbors
 
-- Relating as primitive: **Registered** within the framework.
-- From / With / This as the irreducible office articulation: **Defended posit**.
-- Vertical mutual composition of the offices: **Registered-candidate** pending full consolidation of the canonical derivation.
-- Admissibility / realizability / actuality as the modal triad: **Registered** at the architectonic level.
-- Vertical / horizontal distinction: **Registered** as a control distinction.
-- No genuine irreducible fourth office has yet survived examination: **current audit result**, not certification of completeness.
+- Relating ineliminable and non-composite: **Secured** by retorsion at its stated reach; **Native**.
+- Relating primitive, with nothing beneath it: **Conjectured** on an incomplete defended-posit route; **Native**. Missing: an explicit completed defense profile or a countermodel.
+- Minimal From / With / This office cores: **Secured** by retorsion as an at-least-three result within intelligible determination; **Native**.
+- Exactly-three: **Secured within the completeness ceiling** by the completed three-part defended-posit route; **Native**. A genuine irreducible fourth office refutes it.
+- Vertical mutual composition and the vertical/horizontal distinction belong to F3 and retain no F2 regrade here.
+- The modal triad and domain-inheritance claims retain their owning-unit records; no registration state is inferred from this summary.
+
+No inherited name is required for the F2 concepts, so Registered and Registered–Sealed do not apply.
 
 ## 9. Forward dependency
 
