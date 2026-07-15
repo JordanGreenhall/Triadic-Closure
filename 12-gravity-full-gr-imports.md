@@ -3,7 +3,7 @@ title: "SM Frontier Item 12: Gravity Full-GR Imports"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 scope: frontier-item-12
 sources:
   - results/gravity-and-curvature.md
@@ -26,7 +26,7 @@ Item 2's PASS quietly upgrades the weak-field gravity dependency: participation-
 | Curvature = anisotropic re-weighting of realizable-next null directions by the participation gradient | **Registered** | Rests on Item 2, now PASS. Gravity-asymmetry uses no rate, no density, no driver; smuggle-clean. |
 | Weak-field static `g00`: participation gradient → Newtonian potential; F9 tilt → geodesic deflection | **Registered** | Item-2 functional dependency is now discharged. Weak-field gravity stands without the prior caveat. |
 | Lorentzian signature / metric re-coupling symmetry | **Registered and Sealed** | Uses Alexandrov-Zeeman as a named external theorem; honestly flagged import, not a smuggle. |
-| `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by [[grqm-conflict-status]]: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open. |
+| `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by [[grqm-conflict-status]]: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present-value identity is definitional; empirical content is the observed dimensionless coefficient; dynamics Open. |
 | Stress-energy three offices: From=flux, This=energy, With=relational stress | **Registered representationally** | Dynamical population Conjectured; With-mode remains the unproven gate. |
 | Full Einstein form | **Registered conditional / Conjectured nonlinear** | Rests on native one-step-conditioning second-order route conditional on G1 plus Lovelock-style tensor rigidity; not Sealed. |
 | Tensor completeness, full `3+1` beyond `g00` | **Open** | Asserted by analogy plus Lovelock; not derived component-wise. |
@@ -63,3 +63,8 @@ The four hard theorem targets are promotion gates, not load gates. Attempting th
 ## Integration rule
 
 Dependent pages may use weak-field curvature, participation-gradient meaning of curvature, `Λ` structural form, and stress-energy office representation as native. For Λ magnitude, use [[lambda-derived]] / [[grqm-conflict-status]]: scaling Registered, native complete `3 R_H^-2` Conjectured-strong, present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`, dynamics Open. The full Einstein equation must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity, not Sealed. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics must be marked Open or values-side.
+
+
+## 2026-07-15 execution
+
+See [Lineage 12 execution](/lineage-execution/12-gravity-separation.md). The verdict and all surviving boundaries are controlling.
