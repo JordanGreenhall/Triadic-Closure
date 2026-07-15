@@ -3,7 +3,7 @@ title: "Frontier Item 12: Gravity full-GR imports"
 type: process
 status: pass-by-separation
 frontier_item: 12
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/gravity-and-curvature.md
   - ../../results/stress-energy-three-offices.md
@@ -35,8 +35,13 @@ FAIL if weak-field success plus external Lovelock assumptions is promoted into f
 
 ## Integration rule
 
-Dependent pages may use weak-field curvature, participation-gradient curvature meaning, Lambda structural form, Λ scaling, native complete `3 R_H^-2`, and stress-energy office representation as native. Full Einstein equation must be marked Registered-conditional through the G1-conditioned second-order route plus Lovelock-style tensor rigidity; nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side. Λ magnitude status is split: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`.
+Dependent pages may use weak-field curvature, participation-gradient curvature meaning, Lambda structural form, Λ scaling, native complete `3 R_H^-2`, and stress-energy office representation as native. Full Einstein equation must be marked Registered-conditional through the G1-conditioned second-order route plus Lovelock-style tensor rigidity; nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side. Λ magnitude status is split: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; `Λ = 3 Ω_Λ R_H^-2` is definitional and cannot confirm the framework; empirical content belongs to the dimensionless coefficient comparison.
 
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+See [Lineage 12 execution](/lineage-execution/12-gravity-separation.md). The verdict and all surviving boundaries are controlling.
