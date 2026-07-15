@@ -106,7 +106,7 @@ Vertical means synchronic office-constitution. Horizontal means diachronic accum
 
 **C2 record:** the separation is **Secured by dependency**; **Native**. Horizontal composition requires prior standings and can be empty at an origin; vertical constitution does not accrue. Finite turnover and unary lineage are **Secured by construction**; arbitrary compound-address injectivity is excluded.
 
-**Terminology record:** Jordan Hall's direct ruling fixes `vertical`, `horizontal`, `depth`, and `altitude`; that authority decision is not warrant. Depth is vertical coinductive office-decomposition. Horizontal position is altitude; horizontal sequence is address length or succession count.
+**Terminology record:** Jordan Hall's direct ruling fixes the vertical/horizontal distinction and places layers and nesting on the horizontal. F3 normalization reserves depth for vertical coinductive office-decomposition; horizontal position is altitude, and horizontal sequence is address length or succession count. Neither the authority ruling nor the terminology decision supplies framework warrant.
 
 **Adjudication status:** current under F3.
 
