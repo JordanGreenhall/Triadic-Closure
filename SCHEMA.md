@@ -54,6 +54,8 @@ historical_sources:
 ---
 ```
 
+The frontmatter `status` field records document lifecycle or control role only. It never assigns claim standing to the document or to every sentence within it. Frontmatter `confidence` is likewise document-level metadata unless a claim-level confidence statement is explicitly scoped.
+
 ## Linking rules
 
 1. Governing navigation uses repository-resolvable Markdown links.
@@ -69,18 +71,28 @@ GitHub is primary for every migrated file. Google Drive is fallback provenance a
 
 Claim authority is semantic and claim-specific. Apply the exact order in [corpus-lineage.md](corpus-lineage.md): current direct ruling for the exact ruled claim until propagation; latest surviving repair/supersession/adjudication; integrated ledger; repaired complete derivation; unsuperseded earlier derivation; scoped frontier; necessary downstream expenditure; summaries; compiler inventories; then historical evidence. Chronology and metadata alone never settle authority.
 
-## Claim standing
+## Epistemic warrant and semantic registration
 
-Standing and warrant route are separate. Authorized corpus standings include:
+The two axes are independent.
+
+**Framework epistemic state:**
 
 - Open;
 - Conjectured;
-- Conjectured-strong;
-- Registered-candidate;
+- Secured.
+
+Every Secured claim must state its warrant route, reach, scope, conditions, and debts.
+
+**Semantic registration for inherited names:**
+
+- Native;
+- Unregistered;
 - Registered;
-- Registered and Sealed;
-- Defended posit;
-- Dissolved.
+- Registered–Sealed.
+
+Registered licenses only an explicitly mapped, secured core and requires the quarantined legacy surplus to be stated. Registered–Sealed requires bidirectional content-identity with no remainder within scope. Registration contributes no warrant.
+
+Record evidence/test state, confidence, workflow state, and disposition separately. See [claim-status-vocabulary.md](claim-status-vocabulary.md).
 
 `Locked actual` is deprecated and must be translated through [locked-actual-decrement-map.md](locked-actual-decrement-map.md).
 

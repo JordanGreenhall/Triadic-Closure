@@ -64,7 +64,7 @@ A newer or shorter summary may not override stronger detailed work.
 
 ## Standing and warrant
 
-Claim standing and warrant route are separate. Authorized standings currently used across the corpus include Open, Conjectured, Conjectured-strong, Registered-candidate, Registered, Registered and Sealed, Defended posit, and Dissolved. `Locked actual` is deprecated.
+The corpus uses two independent epistemic axes. Framework claims are Open, Conjectured, or Secured, with the securing route and its reach stated. Semantic registration is Native, Unregistered, Registered, or Registered–Sealed and applies only to inherited names. Registered means the name is licensed over a secured core while legacy surplus remains quarantined; Registered–Sealed means bidirectional content-identity with no remainder within scope. Registration is not proof strength. See [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). `Locked actual` is deprecated.
 
 ## Historical material
 

@@ -106,6 +106,14 @@ Execution rule: the reverted audit chain is historical/adversarial evidence only
 
 A later ten-document consolidation dated 2026-07-10 has been supplied outside the current GitHub tree and declares broad control and supersession scope. Its date and self-description do not grant file-wide authority. Each claim may be used only after comparison with the surviving repository derivation, explicit repairs, ledgers, and downstream adoption; any accepted result must be migrated and propagated into the GitHub corpus.
 
+### Epistemic warrant and semantic registration
+
+The former one-ladder model — Open, Conjectured, Registered, Registered and Sealed — is superseded.
+
+Current framework epistemic states are Open, Conjectured, and Secured, always with the warrant route and reach stated. Semantic registration is an independent legacy-language relation: Native, Unregistered, Registered, or Registered–Sealed. Registered licenses a bounded inherited name while legacy surplus remains quarantined; Registered–Sealed requires bidirectional content-identity within scope. Registration contributes no warrant.
+
+Execution rule: normalize legacy compound records through [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). Do not mechanically regrade theory claims; reconstruct each semantic boundary in its owning lineage.
+
 ## Partial supersessions / caution zones
 
 ### `phi-forward-reconstruction.md`

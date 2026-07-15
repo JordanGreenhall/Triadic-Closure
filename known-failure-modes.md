@@ -2,7 +2,7 @@
 title: Known Failure Modes
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
@@ -51,15 +51,20 @@ Dimensionality special case: exact `3+1` is Registered and Sealed at the same le
 
 Do not import mature physics names before the framework earns them. Use recognition language where appropriate.
 
-## 6. Claim-status inflation
+## 6. Warrant/registration collapse
 
-Do not convert:
+Do not:
 
-- argued → proved;
-- checked → theorem;
-- finite-range verification → proof;
-- selection → forced;
-- raw-package `locked actual` → live status without decrementing through [locked-actual-decrement-map](locked-actual-decrement-map.md).
+- treat Registered as well-proven, mature, stable, or high-confidence;
+- place Registered and Registered–Sealed above Conjectured on one epistemic ladder;
+- use an inherited name before its mapped framework core is Secured;
+- let a Registered name spend quarantined legacy content;
+- call a registration sealed without bidirectional content-identity;
+- treat a Native concept as epistemically deficient because no legacy mapping applies;
+- convert argued → proved, checked → theorem, selection → forced, confidence → warrant, or workflow/disposition → epistemic state;
+- translate raw-package `locked actual` without separating framework warrant from semantic registration.
+
+Use the two-axis record in [claim-status-vocabulary](claim-status-vocabulary.md).
 
 ## 7. Regression to earlier lineage
 

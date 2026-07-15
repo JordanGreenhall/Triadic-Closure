@@ -39,9 +39,12 @@ Chronology alone does not settle authority. A direct ruling governs only its exa
 A completed semantic unit should state:
 
 - canonical formulation;
-- warrant route;
-- claim standing;
-- scope and conditions;
+- epistemic state: Open, Conjectured, or Secured;
+- warrant route and reach;
+- scope, conditions, and debts;
+- registration state for every inherited name;
+- licensed legacy core and quarantined surplus for Registered use;
+- bidirectional content-identity and scope for Registered–Sealed use;
 - dependencies;
 - downstream expenditures;
 - adjudication among competing formulations;
@@ -58,7 +61,7 @@ Deleting an obsolete formulation requires identifying its replacement unless the
 
 ## Standing discipline
 
-Claim standing and warrant route are separate. Historical verifier output is provenance unless the exact verifier is rerun against the exact current artifact. `Locked actual` is deprecated.
+Framework warrant and semantic registration are independent. Epistemic state is Open, Conjectured, or Secured; registration is Native, Unregistered, Registered, or Registered–Sealed. Registration contributes no warrant. Every Registered use carries a licensed-core and quarantined-surplus ledger; Registered–Sealed requires scoped bidirectional content-identity. Normalize legacy compounds through [../claim-status-vocabulary.md](../claim-status-vocabulary.md). Historical verifier output is provenance unless the exact verifier is rerun against the exact current artifact. `Locked actual` is deprecated.
 
 ## Semantic identity
 

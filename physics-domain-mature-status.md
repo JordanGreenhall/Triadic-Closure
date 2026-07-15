@@ -35,7 +35,7 @@ This page is the control status for the physics-domain work. It should be read b
 The physics walk must remain framework-grounded.
 
 1. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, and action must be clarified architectonically before use.
-2. Use traditional physics only as orientation, empirical check, or sealed recognition. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
+2. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
 3. Inherit the From whole at every step: the terminal mathematical object in full, not selected handles.
 4. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
 5. Use the three moves per stage:
@@ -43,7 +43,7 @@ The physics walk must remain framework-grounded.
    - Move 2: bottom-up combination from what actually stands.
    - Move 3: grade and dependency record.
 6. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
-7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed.
+7. No `locked actual`. Record two independent axes: framework epistemic state (Open / Conjectured / Secured, with warrant route and reach for every Secured claim) and semantic registration (Native / Unregistered / Registered / Registered–Sealed). Registration contributes zero warrant.
 
 ## Authority order
 
@@ -54,7 +54,9 @@ The physics walk must remain framework-grounded.
 
 ## Status matrix
 
-| Item | Mature status | Strength / reason | Notes / frontier |
+> **C2 translation notice.** This matrix is a pre-C2 compound record retained as routing evidence. Its legacy status column mixes framework epistemic state and semantic registration. `Registered` here licenses only an explicitly mapped familiar-name core; it does not report proof strength. `Registered and Sealed` means bidirectional content identity within the row's stated scope. Before downstream use, the owning lineage must reconstruct state, warrant route/reach, scope/conditions/debts, registration, licensed legacy content, quarantined surplus, and any framework remainder. C2 performs no automatic theory regrade.
+
+| Item | Legacy C2 record | Strength / reason | Notes / frontier |
 |---|---|---|---|
 | Domain-entry discipline | Registered and Sealed | The method is explicit: clarify presuppositions, refuse smuggles, inherit From whole, use checklist + three moves. | Enforce on every new physics page. |
 | Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |

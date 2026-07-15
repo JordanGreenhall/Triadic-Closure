@@ -52,7 +52,7 @@ Classify apparent disagreement before resolving it: contradiction, supersession,
 
 ## Standing discipline
 
-Keep claim standing separate from warrant route. Never upgrade either axis. `Locked actual` is deprecated. Exact `3+1` is governed by [dimension-and-spacetime-status.md](dimension-and-spacetime-status.md), not by package-era cautions, arity-to-dimension shortcuts, or D6 stability alone.
+Keep framework warrant and semantic registration independent. A claim is Open, Conjectured, or Secured; every Secured claim names its warrant route, reach, scope, conditions, and debts. An inherited name is Native, Unregistered, Registered, or Registered–Sealed. Registered use requires the licensed core and quarantined surplus to be explicit; Registered–Sealed requires bidirectional content-identity within scope. Registration contributes no warrant. Apply [claim-status-vocabulary.md](claim-status-vocabulary.md); `Locked actual` is deprecated. Exact `3+1` is governed by [dimension-and-spacetime-status.md](dimension-and-spacetime-status.md), not by package-era cautions, arity-to-dimension shortcuts, or D6 stability alone.
 
 ## No tool theater
 
@@ -77,7 +77,12 @@ For new substantive work, state:
 
 - repository files read;
 - any Drive sources used because the GitHub source was absent;
-- claim standing and warrant route for each load-bearing claim;
+- epistemic state for each load-bearing claim: Open, Conjectured, or Secured;
+- warrant route and reach, scope, conditions, inherited debts, and evidence/test state;
+- registration state for every inherited name;
+- licensed legacy core and quarantined surplus for every Registered use;
+- bidirectional content-identity and scope for every Registered–Sealed use;
+- confidence, workflow state, and disposition where relevant;
 - historical or superseded sources consulted;
 - open joints touched;
 - verification performed;

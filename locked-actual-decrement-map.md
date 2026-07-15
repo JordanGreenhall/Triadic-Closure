@@ -2,7 +2,7 @@
 title: Locked Actual Decrement Map
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
@@ -18,23 +18,27 @@ historical_sources:
 
 # Locked Actual Decrement Map
 
-`Locked actual` is **deprecated / disfavored** as a live status. It was useful as package-era honesty against false derivation, but it is too coarse: it hides whether an item is open, conjectured, registered, or registered-and-sealed.
+`Locked actual` is deprecated because it conflates three different questions: whether a claim is secured, whether a fact is empirical or trajectory-specific, and whether inherited conceptual language is semantically registered.
 
-Important lineage correction: `phi-forward-reconstruction.md` is package-era opening material and is **extremely superseded**. Claims sourced only to Φ do not survive as active doctrine unless a later current result/control page re-registers them.
+Important lineage correction: `phi-forward-reconstruction.md` is package-era opening material and is extremely superseded. Claims sourced only to Φ do not survive as active doctrine unless a later current lineage preserves them.
 
-Future work must decrement every old `locked actual` use into one of:
+Every old `locked actual` use must now be decomposed into:
 
-- **Open** — not currently derived or closed; work frontier.
-- **Conjectured** — plausible/live proposal, not yet registered by the framework.
-- **Registered** — framework structure reaches the item in essence or under stated conditions, but sealing/full closure is incomplete.
-- **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.
+1. **Epistemic state** — Open, Conjectured, or Secured.
+2. **Warrant route and reach** — including conditions, empirical inputs, and debts.
+3. **Semantic registration** — Native, Unregistered, Registered, or Registered–Sealed.
+4. **Registration boundary** — licensed legacy core, quarantined legacy surplus, and framework remainder.
+
+Registered does not mean well-established. It licenses bounded use of an inherited name. Registered–Sealed means bidirectional content-identity within scope.
+
+The ledger below predates this two-axis correction. Except for rows explicitly normalized here, its old status phrases are routing evidence only and must be reconstructed in the owning semantic lineage before use.
 
 ## Decrement ledger
 
-| Old locked item / phrase | Main source(s) | Superseded? | Proper status | Why |
+| Old locked item / phrase | Main source(s) | Superseded? | Legacy routing record | Why |
 |---|---|---:|---|---|
-| The `locked actual` category itself | `SCHEMA.md`; `claim-status-vocabulary.md`; `agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Deprecated / disfavored category | It conflates several standings and should not be used for live claims. Use Open / Conjectured / Registered / Registered and Sealed. |
-| Exact `3+1` dimensionality / `M_ours^{3,1}` | `cover-letter.md`; Φ §§7.3, 16.1; `physics-walk-D1-D5-consolidated.md`; `physics-walk-D2.md`; later Jordan ruling | Yes, as `locked actual` | Registered and Sealed | Jordan ruled it stands at the same strength as triadic exactly-three plus horizontal flattening: three With-flattened spatial degrees plus one From-succession direction. Not arity-to-dimension; not D6 stability alone. |
+| The `locked actual` category itself | `SCHEMA.md`; `claim-status-vocabulary.md`; `agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Disposition: deprecated | It conflates epistemic state, empirical provenance, and semantic registration. Use the two-axis record. |
+| Exact `3+1` dimensionality / `M_ours^{3,1}` | `cover-letter.md`; Φ §§7.3, 16.1; `physics-walk-D1-D5-consolidated.md`; `physics-walk-D2.md`; later Jordan ruling | Yes, as `locked actual` | Epistemic: Secured at the ruled architectonic warrant. Registration: Registered–Sealed for exact `3+1` within the stated scope. | Ground: three With-flattened spatial degrees plus one From-succession direction. Not arity-to-dimension; not D6 stability alone. |
 | `D5 locked actual base/closure` as a lump | Φ §§7.3, 15, 16 | Yes | Superseded as a lump; decompose or discard | Φ is superseded, and the lump mixes sealed, registered, conjectured, and open components. No future agent should cite the lump as active. |
 | Event-order and localizability | Φ §7.1, later D-walk lineage | Yes, if described as part of a lock | Registered and Sealed if supported by current D-walk; otherwise recheck | D2 event-order/localizability survived as a structural result in later discussion, but cite later/current pages rather than Φ. |
 | D5 local/global base geometry | Φ §7.2 | Yes, as Φ-only lock | Registered or Conjectured pending later source check | Φ-only source is not enough. Use current later artifacts before citing. |
@@ -56,11 +60,11 @@ Future work must decrement every old `locked actual` use into one of:
 | Yukawa coefficients | Φ §§14, 16.1 | Yes, as trajectory lock | Open | Parameter values not derived; belong to deferred articulation. |
 | Coupling constants / mixing angles | Φ §16.1; `gauge-structure-result.md`; `deferred-articulations-map.md` | Yes, as trajectory lock | Open | Deferred quantitative articulation; coupling constants depend on constructed standings and the measure floor. |
 | Observed fermion mass hierarchy | Φ §16.1 | Yes, as trajectory lock | Open | Not derived; value/spectrum frontier. |
-| `actual-locked` as a competitor-ledger bucket | Φ §16.1 | Yes | Deprecated / replace bucket | Use Open, Conjectured, Registered, Registered and Sealed. If a competitor is “actual but not derived,” classify the live standing more precisely. |
+| `actual-locked` as a competitor-ledger bucket | Φ §16.1 | Yes | Disposition: deprecated | Separate epistemic state, empirical provenance, and registration. “Actual but not derived” supplies none of those records by itself. |
 | `locked downstream` in the physics checklist | `physics-walk-checklist.md` | Yes | Deprecated phrasing | The useful rule is realizability-before-actuality. Replace “locked downstream” with explicit status once the item is examined. |
 
 ## Execution rule
 
-Do not write new claims with status `locked actual`. If reading raw package text that says `locked actual`, consult this page and translate the item into the decremented status before using it. If the item is sourced only to Φ, assume it is superseded until a later current artifact preserves it.
+Do not write new claims with status `locked actual`. Do not translate it into a single replacement label. Produce the full two-axis record in [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). A legacy `Registered` entry in this table licenses no proof inference and no downstream use until its semantic core and quarantined surplus are explicit. If the item is sourced only to Φ, treat it as superseded until a later current lineage preserves it.
 
 See also: [claim-status-vocabulary](claim-status-vocabulary.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [supersession-map](supersession-map.md), [agent-execution-rules](agent-execution-rules.md).
