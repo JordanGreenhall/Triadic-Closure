@@ -18,7 +18,7 @@ The detailed canonical treatment is [Architectonic Rigor — Complete](architect
 
 ## Governing separation
 
-An instrument determines the force and ceiling of a claim's **framework warrant**. Record that result as Open, Conjectured, or Secured, and for every Secured claim state the warrant route, reach, scope, conditions, and debts.
+An instrument determines the force and ceiling of a claim's **framework warrant** only when the route is actually exhibited on that claim; naming a route is not warrant. Record that result as Open, Conjectured, or Secured, and for every Secured claim state the warrant route, reach, scope, conditions, and debts.
 
 **Semantic registration is independent.** Recognition contributes no framework warrant. It can license an inherited name over an already-Secured mapped core, yielding Registered while all legacy surplus remains quarantined. Registered–Sealed requires bidirectional content-identity within a declared scope. Native framework concepts require no legacy registration.
 
