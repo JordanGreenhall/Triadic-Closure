@@ -15,7 +15,7 @@ historical_sources:
 
 # Vertical and Horizontal
 
-This page is the governing F3 control for the two dimensions of composition. Jordan Hall's direct ruling fixes the vocabulary. That authority decision does not itself supply framework warrant; the structural claims and their conditions are recorded below.
+This page is the governing F3 control for the two dimensions of composition. Jordan Hall's direct ruling fixes the vertical/horizontal distinction and places layers and nesting on the horizontal. F3 normalization fixes the supporting depth/altitude terminology. These authority and terminology decisions do not themselves supply framework warrant; the structural claims and their conditions are recorded below.
 
 ## F3 claim record
 
