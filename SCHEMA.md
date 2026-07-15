@@ -11,6 +11,7 @@ Most substantive Markdown files live at repository root. The complete current in
 Actual directories with distinct roles:
 
 - `_compiler/` — semantic adjudication artifacts;
+- `lineage-execution/` — ordered closed-loop frontier execution packets;
 - `overview/` — residual migration-shadow pages pending consolidation;
 - `tools/` — import, normalization, and audit utilities;
 - `.github/workflows/` — repository automation.
