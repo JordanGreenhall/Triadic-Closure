@@ -56,9 +56,9 @@ Relating is not assembled from prior unrelated parts: any intelligible denial or
 
 **C2 record, secured core:** relating is ineliminable and non-composite in the attempted-assembly sense — **Secured** by retorsion; **Native**. Reach: the performance tested. It does not establish that nothing stands beneath relating.
 
-**C2 record, stronger completeness claim:** relating is primitive — **Conjectured** on an intended defended-posit route; **Native**. The corpus supplies no explicit completed defense profile for this claim.
+**C2 record, stronger completeness claim:** relating is primitive — **Conjectured** on an intended defended-posit route; **Native**. Canonical §§0.2 and 10 govern the local/global frontier record.
 
-**Adjudication status:** current under F2. The missing primitive-relating profile is a local and Part-10 frontier; it may not be filled by spending retorsion beyond its reach.
+**Adjudication status:** current under F2. Retorsion may not be spent beyond its reach to close the canonical frontier.
 
 ---
 
