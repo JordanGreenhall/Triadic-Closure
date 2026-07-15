@@ -20,7 +20,7 @@ This is the reader and agent gateway to [The Triadic Structure of Relating — C
 | Claim | Framework state and warrant | Reach / debt | Registration |
 | --- | --- | --- | --- |
 | Relating is ineliminable and non-composite in the attempted-assembly sense. | **Secured** by retorsion. | Any intelligible denial or assembly of relation from prior unrelated parts. Does not secure primitiveness. | **Native** |
-| Relating is primitive: nothing stands beneath it. | **Conjectured** on an intended defended-posit route. | The required explicit completed defense profile is missing and remains a live F2 debt. | **Native** |
+| Relating is primitive: nothing stands beneath it. | **Conjectured** on an intended defended-posit route. | Frontier details are canonical at §§0.2 and 10; this gateway does not duplicate them. | **Native** |
 | A determination requires at least the minimal From / With / This cores. | **Secured** by retorsion. | At-least-three within intelligible determination; does not itself exclude a fourth office. | **Native** |
 | The ultimate office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route. | Closed to self-certification; refuted by one genuine irreducible fourth office. The ceiling is a result, not an unfinished proof task. | **Native** |
 
