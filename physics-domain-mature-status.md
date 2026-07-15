@@ -44,7 +44,8 @@ The physics walk must remain framework-grounded.
    - Move 2: bottom-up combination from what actually stands.
    - Move 3: grade and dependency record.
 6. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
-7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed, or Defended posit; state the warrant route separately.
+7. A D-phase stands at domain grade only when its form governs the relevant whole stock; a specimen cannot establish domain-wide maturity.
+8. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed, or Defended posit; state the warrant route separately.
 
 ## Authority order
 

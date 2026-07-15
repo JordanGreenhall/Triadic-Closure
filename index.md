@@ -19,6 +19,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Architectonic Rigor](architectonic-rigor-complete.md)
 - [The Triadic Structure of Relating](triadic-structure-of-relating-rev-canonical.md)
 - [Domain Entry Method](domain-entry-method.md)
+- [D-series and Closure Maturation](triadic-structure-of-relating-rev-canonical.md#82-the-d-series-as-phase-diagnostic)
 
 Supporting physics instances: [Entering a New Domain](entering-a-new-domain.md) and [Three Moves per Stage](three-moves-per-stage.md).
 

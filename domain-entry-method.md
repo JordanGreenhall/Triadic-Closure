@@ -113,7 +113,7 @@ Realizability at a stage is tested against an essential form: the least content 
 
 The strip-down test asks which content can be removed while the structure remains the kind of thing claimed. Removed content is not discarded; it is placed at the stage where its dependency becomes available. A familiar mature name must not be sealed onto an essential form unless the bidirectional content-identity test succeeds at the stated scope.
 
-The generic sequence of stages and the maturation of closures are governed separately by the D-series lineage. This method supplies the entry and execution discipline; it does not prejudge a universal D-stage occupancy.
+The generic sequence of stages and the maturation of closures are governed separately by [the D-series in the canonical foundation](triadic-structure-of-relating-rev-canonical.md#82-the-d-series-as-phase-diagnostic). This method supplies the entry and execution discipline; it does not prejudge a universal D-stage occupancy.
 
 ## 8. Required entry ledger
 

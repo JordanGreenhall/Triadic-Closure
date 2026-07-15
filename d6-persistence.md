@@ -6,7 +6,7 @@ The persistence stage. A standing persists when its invariant is preserved acros
 
 ## Frame
 
-D6 is the persistence stage in the D-series rhythm (D1 distinction, D2 relation, D3 recursion, D4 invariance, D5 the matured field/metric, D6 persistence). The stage-move: the invariant carried coherently across passages through the D5 field; lower-layer coherence preserved in higher structure. **Persistence is preservation-across-allowed-variation, not endurance-through-time** — a framework-native reading that refuses the picture of a substance enduring through a container-time.
+D6 is the persistence stage in the [generic D-series](triadic-structure-of-relating-rev-canonical.md#82-the-d-series-as-phase-diagnostic): D1 distinction, D2 relation, D3 recursion, D4 invariance, D5 coherent variation-space, D6 persistence. Metric content at physics D5 requires its separate physics warrant; it is not generic D5 content. The D6 stage-move carries the invariant coherently across passages through the D5 field, preserving lower-layer coherence in higher structure. **Persistence is preservation-across-allowed-variation, not endurance-through-time** — a framework-native reading that refuses the picture of a substance enduring through a container-time.
 
 The central tool is the coherence-fixed-point, already established in the mass account: a standing that re-selects itself. Persistence extends it from the single step to the whole variation-field.
 

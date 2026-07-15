@@ -24,7 +24,8 @@ Read these first:
 1. [Architectonic Rigor](architectonic-rigor-complete.md) — what each warrant instrument secures, where it stops, and how its ceiling constrains claim standing.
 2. [The Triadic Structure of Relating](triadic-structure-of-relating-rev-canonical.md) — the foundational object and mathematical object.
 3. [domain-entry-method](domain-entry-method.md) — how a successor domain is entered without smuggling its inherited metaphysics.
-4. [claim-status-vocabulary](claim-status-vocabulary.md) and [vertical-and-horizontal](vertical-and-horizontal.md) — status language and axis discipline.
+4. [D-series and Closure Maturation](triadic-structure-of-relating-rev-canonical.md#82-the-d-series-as-phase-diagnostic) — generic phase form, strict dependencies, domain-wide pacing, and occupancy limits.
+5. [claim-status-vocabulary](claim-status-vocabulary.md) and [vertical-and-horizontal](vertical-and-horizontal.md) — status language and axis discipline.
 
 ## 1. Physics domain cut and walk discipline
 

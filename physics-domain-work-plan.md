@@ -31,7 +31,8 @@ Every task below must run:
 2. Physics-walk checklist: Part 0 From in full; A frame; B instruments; C population; D grade; E adversarial pass.
 3. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
 4. Essential-form/mature-form split.
-5. Final standing: Open, Conjectured, Registered, Registered and Sealed, or Defended posit, with the warrant route recorded separately.
+5. Domain-grade pacing: a specimen is evidence, not proof that a D-phase governs the relevant whole stock.
+6. Final standing: Open, Conjectured, Registered, Registered and Sealed, or Defended posit, with the warrant route recorded separately.
 
 Traditional physics may orient the search and supply empirical checks. It may not supply the metaphysical basis or silently determine the result.
 

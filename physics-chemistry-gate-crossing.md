@@ -249,9 +249,10 @@ Exhibited once, therefore statable:
   that; and carbon's catenation is *why* that residue is rich enough to carry a
   further domain.
 
-The cascade is not a metaphor across levels; it is **one mechanism**, now watched
-firing across one full gate. [Recognition strength; the mechanism-statement is
-Registered-candidate as the generalization of this single instance.]
+The cascade has been exhibited across one proposed gate. The universal
+mechanism-statement is **Conjectured**, non-load-bearing outside this case: one
+worked transition cannot establish that every successor follows unconsumed residue
+or that every D7 provisioner maximizes successor recursion.
 
 ---
 
