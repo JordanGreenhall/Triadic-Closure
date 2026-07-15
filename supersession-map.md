@@ -106,11 +106,13 @@ Execution rule: the reverted audit chain is historical/adversarial evidence only
 
 A later ten-document consolidation dated 2026-07-10 has been supplied outside the current GitHub tree and declares broad control and supersession scope. Its date and self-description do not grant file-wide authority. Each claim may be used only after comparison with the surviving repository derivation, explicit repairs, ledgers, and downstream adoption; any accepted result must be migrated and propagated into the GitHub corpus.
 
-### Claim-standing vocabulary
+### Epistemic warrant and semantic registration
 
-The surviving adjudicated vocabulary has exactly four live standings: Open, Conjectured, Registered, and Registered and Sealed. Later uses of `Conjectured-strong`, `Registered-candidate`, `Defended posit`, `Dissolved`, `Lead`, conditional qualifiers, confidence, or test states do not add standings.
+The former one-ladder model — Open, Conjectured, Registered, Registered and Sealed — is superseded.
 
-Execution rule: normalize those expressions through [Claim Status Vocabulary](claim-status-vocabulary.md) into one live standing plus separate warrant, condition, evidence, confidence, workflow, or disposition metadata. Do not mechanically regrade the underlying theory claim.
+Current framework epistemic states are Open, Conjectured, and Secured, always with the warrant route and reach stated. Semantic registration is an independent legacy-language relation: Native, Unregistered, Registered, or Registered–Sealed. Registered licenses a bounded inherited name while legacy surplus remains quarantined; Registered–Sealed requires bidirectional content-identity within scope. Registration contributes no warrant.
+
+Execution rule: normalize legacy compound records through [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). Do not mechanically regrade theory claims; reconstruct each semantic boundary in its owning lineage.
 
 ## Partial supersessions / caution zones
 
