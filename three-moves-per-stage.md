@@ -45,8 +45,9 @@ Examples already encountered:
 ## Move 3 — Grade and dependency-record
 
 For everything surfaced by Moves 1 and 2, record:
-1. **Grade:** forced / registered / registered-and-sealed / registered-not-sealed — with the bidirectional content-identity test run explicitly for any seal (named concept, "properly understood" stripping naive freight, no remainder either way).
-2. **Essential vs accreted:** what is the essential form sealed here, and what mature-form content remains to be tacked on later (and where).
+1. **Framework epistemic state:** Open / Conjectured / Secured. For every Secured claim, name the warrant route, reach, scope, conditions, and debts; do not turn warrant routes into a confidence ladder.
+2. **Semantic registration:** Native / Unregistered / Registered / Registered–Sealed. Registration applies only when an inherited name is in play. For Registered, state the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, run the bidirectional content-identity test explicitly within the declared scope: no remainder in either direction.
+3. **Essential vs accreted:** what is the essential form secured or semantically licensed here, and what mature-form content remains to be constructed later (and where).
 3. **Dependency entry:** update the dependency hierarchy — what now stands (so later stages can depend on it), and what was found *not yet* (with its named missing dependency and home stage). This running record is what prevents arriving at a later stage unable to proceed and not knowing which skipped upstream step is the cause.
 
 ---
