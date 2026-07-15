@@ -1,10 +1,10 @@
 ---
 title: "SM Frontier Loop 1: Physics Registration Theorem"
 type: process
-status: non-pass-pending-downstream-map
+status: pass
 frontier_item: 1
 dependencies: []
-updated: 2026-06-25
+updated: 2026-07-15
 ---
 
 # Target
@@ -17,7 +17,7 @@ sealed recognition or empirical label.
 
 ## Corrected pass/fail status
 
-**NON-PASS — pending full downstream dependency map.** Historical PASS is suspended under the corrected full-load rule. It may be reused only after every dependent physics claim that relies on the registration rule has been mapped and verified as fully supported by Item 1.
+**PASS — Registered control rule.** The full downstream dependency map has been completed against the current domain claim ledgers. See [Lineage 1 execution](lineage-execution/01-physics-registration.md). The PASS is control-only and registers no mature-physics bundle.
 
 Historical loop output recorded PASS under the earlier scope; that PASS is suspended by the corrected full-load rule above and must not be used as compact upstream state until the downstream dependency map is completed.
 
@@ -89,7 +89,7 @@ Caution:
 
 ## Decision
 
-**NON-PASS pending downstream dependency map.** The registration rule itself may be treated as a useful Registered control rule, but Item 1 is not compact upstream PASS until every dependent physics claim using the rule has been mapped and checked under the corrected full-load rule.
+**PASS.** The missing downstream map is complete. The registration rule carries its entire measured control load, subject to the non-transitivity and property-by-property boundary stated in the execution packet.
 
 ## Next loop unlocked
 
