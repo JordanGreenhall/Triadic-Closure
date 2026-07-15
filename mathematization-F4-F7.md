@@ -1,6 +1,14 @@
+---
+title: "Flat-Substrate F4–F7 Physics Construction"
+type: worked-argument
+status: supporting
+updated: 2026-07-15
+canonical-m2: mathematical-closure-composition-persistence.md
+---
+
 # Mathematizing the Flat Substrate: F4 (c as metric identity), F5 (sum-of-squares), F6 (Lorentzian signature), F7 (the Lorentz group)
 
-> **M1 return notice (2026-07-15).** This document is awaiting the M2 adjudication. Its inherited identification of carrier depth with time, directed address-separation with symmetric space, and a carrier edge with a physical atomic step is not supplied by canonical M1. Consequently its flat-metric and Lorentz conclusions are not current proofs merely by inheritance; each bridge must be re-established in M2/P4/P5.
+> **Disposition.** This is a supporting physics construction, not the M2 mathematics lineage despite its historical F4–F7 labels. [M2 — Closure, Composition, and Persistence Machinery](mathematical-closure-composition-persistence.md) is canonical. The inherited identification of carrier depth with time, directed address-separation with symmetric space, and a carrier edge with a physical atomic step is not supplied by M1; the flat-metric bridges must be re-established in P4/P5.
 
 ### Second computation of the gravity-mathematization survey, building on the conditioning carrier `N`. Historical tags such as “proved” below are provenance until the M2 re-adjudication assigns live standings.
 
