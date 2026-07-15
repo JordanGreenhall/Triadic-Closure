@@ -1,9 +1,9 @@
 ---
 title: "Frontier Item 10: Native mass-ruler proof"
 type: process
-status: blocked-proof-setup
+status: pass
 frontier_item: 10
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/mass-as-self-closure.md
   - ../../results/mass-derivation-three-faces.md
@@ -34,7 +34,7 @@ FAIL if SM electron/proton properties, QCD binding, Higgs/Yukawa decomposition, 
 
 ## Integration rule
 
-Only after PASS may dependent pages use this item as compact upstream state. Until PASS, dependent pages must mark uses as empirical, mathematical comparison, conditional, Open, or quarantined according to the exact concept-load ledger.
+PASS is established by [the native proof](/native-mass-ruler-proof.md) and [Lineage 10 execution](/lineage-execution/10-native-mass-ruler.md). Dependent pages may use the licensed ruler role while preserving property boundaries and the full bracketed ratio.
 
 ## Required loop output
 
