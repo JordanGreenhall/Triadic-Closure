@@ -3,7 +3,7 @@ title: "SM Frontier Item 6: Spin / Helicity / Chirality / Lift"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 scope: frontier-item-6
 sources:
   - results/chiral-coupling-result.md
@@ -43,5 +43,10 @@ The machinery is derived from metric/lifted rotatability/propagation plus the J-
 
 ## Caveats carried forward
 
-1. Helicity's identification of discrete propagation-direction with continuum momentum direction inherits the manifold-recovery theorem, which remains Open in [[propagation-and-invariant-velocity]].
+1. Helicity's identification of discrete propagation-direction with continuum momentum direction inherits the G1 spatial manifold recovery, whose smoothness is Registered-not-Sealed via named universality import in [[propagation-and-invariant-velocity]].
 2. The spin foundation rests on Item 5's `SU(2)` ↔ With / lifted-rotatability-as-With joint, the softest link in the gauge work. Firming that joint is now load-bearing under both Item 5 and Item 6.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 6 execution](/lineage-execution/06-spin-helicity-chirality.md). Existing split grades and quarantines remain controlling.
