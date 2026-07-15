@@ -47,12 +47,18 @@ GitHub is the primary working source for every migrated file. Google Drive is fa
 
 Authority is claim-specific, not file-wide or folder-wide. For each semantic object, prefer:
 
-1. the most advanced complete detailed derivation;
-2. later detailed repairs or extensions;
-3. explicit adjudications and current rulings;
-4. downstream work that necessarily spends and sharpens the claim;
-5. current control pages;
-6. summaries and orientation prose.
+1. a current direct Jordan ruling, for the exact claim ruled on, until propagated;
+2. the latest surviving explicit repair, supersession, or adjudication, for the exact claim it resolves;
+3. the latest integrated frontier ledger or concept-load ledger, for the exact claim it grades or closes;
+4. the latest complete detailed derivation that incorporates the relevant repair;
+5. portions of an earlier detailed derivation that have not been superseded;
+6. a current frontier, quarantine, or implementation document, only for the boundary it defines;
+7. downstream work that necessarily spends the corrected result;
+8. summaries, status pages, and reading guides;
+9. compiler inventories;
+10. historical failed routes, development ledgers, migration reports, memorials, and reverted commits.
+
+Chronology alone does not settle authority. A direct ruling governs only its exact claim and must be propagated; once fully absorbed, its standalone record is provenance.
 
 A newer or shorter summary may not override stronger detailed work.
 
