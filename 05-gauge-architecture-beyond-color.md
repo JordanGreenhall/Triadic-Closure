@@ -3,7 +3,7 @@ title: "SM Frontier Item 5: Gauge Architecture Beyond Color"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 scope: frontier-item-5
 sources:
   - results/gauge-structure-result.md
@@ -44,7 +44,7 @@ But it is not merely Open. The structural map gives it the standing of a defende
 
 Three offices, three gauge structures, one each. “No fourth gauge source” inherits from “no fourth office,” with the same diagnostic ceiling. Rivals return as office-subdivisions: a second `U(1)` is the same From-phase, `SU(N>3)` exceeds the minimal interior 3-carrier, larger rotatability exceeds the three spatial degrees, and the enumeration turned on itself returns the From/With/This act.
 
-Verdict: **defended-posit candidate**, capped by the completeness diagnostic and conditional on firming the `SU(2)` ↔ With / lifted-rotatability-as-With link. This sub-capacity is non-load-bearing and should not be treated as a proof target.
+Verdict: **Defended posit**, capped by the completeness diagnostic and conditional on firming the `SU(2)` ↔ With / lifted-rotatability-as-With link. This sub-capacity is non-load-bearing and should not be treated as a proof target.
 
 Falsification surface: a gauge source genuinely traceable to none of the three offices, or two genuinely distinct sources from one office.
 
@@ -62,3 +62,8 @@ Verdict: **QUARANTINED**. Photon/W/Z/mixing may be used only as empirical or mat
 | 5.2 `U(1)` source | Registered / PASS for source-load | From-phase = closure-form free phase; assignments Open under Item 8. |
 | 5.3 completeness | Defended posit, diagnostic-capped | Three offices ↔ three gauge factors; cannot seal; non-load-bearing. |
 | 5.4 EW residuals | QUARANTINED | Depends on remaining Item 8 hypercharge/center-lock/value gates and Item 13 electroweak-breaking gates; Item 6 machinery is registered but does not supply the exact EW module. |
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 5 execution](/lineage-execution/05-gauge-architecture.md). Existing split grades and quarantines remain controlling.
