@@ -92,7 +92,7 @@ The result is exact but limited. A determination requires at least these three o
 
 ## **0.5 The count**
 
-That the offices are exactly three is not derivable from within the account. Any act that tried to derive the completeness of the inventory would itself be a determination, and would therefore deploy the inventory in the act of certifying it. A derivation conducted with the inventory cannot certify that the inventory is  complete. This is not a defect in a later theorem; it is a limit that follows from the attempt to totalize the grammar from inside the grammar.
+The office inventory cannot be absolutely self-certified from within the account by retorsion or construction alone. Any act that tried to certify the inventory's completeness would itself be a determination and would deploy the inventory in the act of certifying it. A derivation conducted with the inventory cannot certify the inventory as absolutely complete. This is not a defect in a later theorem; it is a limit that follows from the attempt to totalize the grammar from inside the grammar.
 
 What can be secured is the maximal warrant available to an exact-inventory claim under that ceiling, through the three-part defended-posit profile required by the companion document.
 
