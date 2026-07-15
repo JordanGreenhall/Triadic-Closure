@@ -1,11 +1,14 @@
 ---
 title: Known Failure Modes
-type: overview
+type: control
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: control
 confidence: high
 sources:
+  - agent-execution-rules.md
+  - corpus-lineage.md
+  - claim-status-vocabulary.md
   - physics-walk-checklist.md
 historical_sources:
   - raw/context/full-conversation-ledger.md
@@ -13,63 +16,96 @@ historical_sources:
 
 # Known Failure Modes
 
-This page records failure modes that future agents must avoid.
+This is the adversarial checklist for normalization and subsequent theory work. Finding one of these failures invalidates the affected pass and triggers return to the earliest pass that could correct it.
 
-## 1. Tool-theater / fake computation
+## Authority and semantic failures
 
-The conversation ledger contains a major failure involving a script that printed assumed formulas and narrated them as confirmed. This is forbidden.
+### Averaging or flattening lineage
 
-Rule: if a tool cannot actually test the claim, do not use it to create the appearance of testing.
+Do not blend incompatible formulations into a compromise. First classify the relation as contradiction, supersession, refinement, conditional scope, different reading, grade difference, shorthand, compression, or notation change. A summary, newer filename, current label, compiler inventory, or reading order cannot decide the claim by itself.
 
-## 2. Reviving superseded claims
+### Reviving a superseded route
 
-Examples:
+Earlier documents often retain good detail inside an obsolete frame. Preserve the detail only where it survives later repair; do not restore the frame. Known examples include treating F10 as simply undone after `mathematization-F10-resolved.md`, making `SU(3)` conditional on an obsolete premise after the later gauge result, and treating color as a mediation carrier rather than This-flattening.
 
-- treating F10 as simply "not done" despite `mathematization-F10-resolved.md`;
-- treating SU(3) as conditional on (A) despite `gauge-structure-result.md`;
-- treating color as a mediation carrier rather than This-flattening.
+### Summary elision
 
-Always consult [supersession-map](supersession-map.md).
+A concise page may omit a condition, counterargument, dependency, or sealing debt. Omission is not rejection. Never delete the detailed content merely because the summary does not repeat it.
 
-## 3. Vertical/horizontal collapse
+### Unpropagated correction
 
-Do not confuse:
+A correction that remains only in its source page leaves the corpus contradictory. Inspect every downstream expenditure, status control, summary, index, frontier, inventory, and automation that actually relies on the changed claim.
 
-- vertical office-composition;
-- horizontal accumulated layers/nesting;
-- standing-face readout of horizontal history.
+### False completion
 
-This collapse causes downstream confusion around J, ρ, composition, and emergence.
+Do not turn a named open joint, exact missing premise, countermodel risk, or unrun calculation into “resolved” through prose. Do not manufacture optimism, a final remaining task, or a pass verdict. Completion requires committed propagation and fixed-point verification.
 
-## 4. Deprecated `locked actual` status
+## Standing and warrant failures
 
-Do not use `locked actual` as a live status. It is deprecated because it hides the proper standing. Translate raw-package `locked actual` language claim by claim through [locked-actual-decrement-map](locked-actual-decrement-map.md) into Open, Conjectured, Registered, Registered and Sealed, or Defended posit as the detailed lineage warrants.
+### Status inflation
 
-Dimensionality special case: exact `3+1` is Registered and Sealed at the same level as triadic exactly-three plus horizontal flattening. Do not downgrade it to a merely empirical trajectory lock, and do not overclaim it as a completed formal theorem.
+Do not convert argued to proved, checked to theorem, finite-range verification to proof, selection to forced, or workflow candidacy to Registered. `Conjectured-strong` is Conjectured plus warrant strength; `Dissolved` is a disposition; `Registered-not-Sealed` is Registered plus a residual. `Locked actual` is deprecated and must be translated claim by claim through [locked-actual-decrement-map.md](locked-actual-decrement-map.md).
 
-## 5. Premature physical naming
+### Condition laundering
 
-Do not import mature physics names before the framework earns them. Use recognition language where appropriate.
+A conditional implication and its instantiated application have separate standings. Record the condition, the premise floor, and whether the premise is actually available. Do not remove “relative to,” “given,” “under,” or an empirical input during compression.
 
-## 6. Claim-status inflation
+### Warrant/standing collapse
 
-Do not convert:
+Dependency, retorsion, construction, selection, theorem, sealed recognition, empirical input, finite check, defense profile, and comparison are warrant routes, not interchangeable modal grades. In particular, a Defended posit is the maximal proper standing only for an exact-totality claim whose required defense profile is present.
 
-- argued → proved;
-- checked → theorem;
-- finite-range verification → proof;
-- selection → forced;
-- candidate/review state → Registered;
-- `Conjectured-strong` → a new standing rather than Conjectured plus warrant strength;
-- `Dissolved` → a modal standing rather than a disposition;
-- raw-package `locked actual` → live status without decrementing through [locked-actual-decrement-map](locked-actual-decrement-map.md).
+## Scope and domain failures
 
-## 7. Regression to earlier lineage
+### Premature mature-domain naming
 
-The conversation shows that earlier docs often contain good work in obsolete frames. Extract provenance carefully; do not restore the old frame.
+Do not import a mature physics or chemistry object before the framework earns the exact capacity being spent. A licensed name does not automatically import its full bundle of spin, charge, representation, mechanism, value, or spectrum.
 
-## 8. Treating the ledger as polished doctrine
+### Imported mature content
 
-The full conversation is a lineage source, not a final document. Use it to understand decisions, not to quote every provisional statement as doctrine.
+Established external mathematics may be used as mathematics; empirical observations may be marked as observations. Neither may masquerade as a framework-native derivation. A renamed mature concept does not pass a framework frontier.
 
-See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [corpus-lineage](corpus-lineage.md).
+### Ideal-scope overgeneralization
+
+A result proved for a minimal, static, weak-field, idealized, symmetric, finite-range, or conditioned case does not govern the nonlinear, strong-field, dynamical, generic, or exact-totality case without a bridge.
+
+### Unsupported quantitative claim
+
+Do not supply a deferred value by fit, borrowed constant, numerical coincidence, or narration. State the dependency chain and descend to the earliest unarticulated premise.
+
+## Structural and vocabulary failures
+
+### Vertical/horizontal collapse
+
+Vertical means synchronic office-composition/admissibility/`J`; horizontal means diachronic accumulation/realizability/`rho`. Layers and nesting are horizontal. Color is This-flattening/interior triadic distinction. Treating these as interchangeable corrupts downstream arguments.
+
+### Unstable terminology or notation
+
+Do not use one word or symbol for multiple live objects without declaring the distinction, and do not multiply labels for one object merely because sources differ. A notation change must preserve scope and formula, not silently change meaning.
+
+### Structural duplication
+
+Do not keep competing current controls, identical shadows, obsolete folder indexes, or compiler inventories after their unique content has been absorbed. Conversely, do not delete a document merely to reduce file count when it holds unique evidence, derivation, frontier, or memorial value.
+
+## AI and tool failures
+
+### Tool theater / fake computation
+
+A tool must be capable of falsifying the tested claim. Hard-coded outputs, print-only confirmation, prose masquerading as simulation, and a script that merely restates assumed formulas are forbidden. Historical verifier output is provenance until rerun against the exact current artifacts.
+
+### Partial-corpus inference
+
+Do not infer that a claim, file, objection, or dependency is absent because it is missing from an index, `_compiler`, a local search subset, or the files initially supplied. Search the accessible repository and relevant history for the semantic object.
+
+### Invented location or source
+
+Do not cite a path until it resolves. Former Drive paths are historical unless the directory exists. Record when an external source is used because the GitHub source is absent.
+
+### Process theater
+
+Do not report a plan, an uncommitted edit, a tool call, or a first pass as completed normalization. State exact partial progress, actual verification, commit SHA, and the first unfinished pass.
+
+### Context-dependent output
+
+If a fresh agent cannot recover the same authority, standing, scope, dependency graph, and frontier from repository controls and canonical pages, the integration is incomplete. Chat context is not corpus state.
+
+See [Corpus Normalization Execution Rules](agent-execution-rules.md), [Corpus Authority and Supersession](corpus-lineage.md), and [Claim Standing and Warrant](claim-status-vocabulary.md).

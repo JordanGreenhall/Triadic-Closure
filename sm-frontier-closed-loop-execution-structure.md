@@ -2,10 +2,15 @@
 title: SM Frontier Closed-Loop Execution Structure
 type: process
 status: current
-updated: 2026-06-25
+updated: 2026-07-15
+sources:
+  - agent-execution-rules.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
 # SM Frontier Closed-Loop Execution Structure
+
+This is a supporting domain-specific protocol. [Corpus Normalization Execution Rules](agent-execution-rules.md) governs semantic-unit scope, authority, standing, propagation, disposition, verification, commits, and fixed-point completion. The pass states below are workflow and integration verdicts, not claim standings.
 
 ## Purpose
 
@@ -23,6 +28,8 @@ For one frontier item at a time:
 4. **Attempt derivation.** Prove it, weaken it, quarantine it, or identify the exact missing premise/countermodel.
 5. **Verify adversarially.** A verifier checks against actual downstream use and against over-asking the physics concept.
 6. **Integrate only on PASS.** Patch dependent pages only after the upstream item genuinely carries the measured load.
+
+The numbered frontier items are not loops. A loop is the repeated cycle on one item until a warranted verdict, a countermodel, an exact missing premise requiring controller judgment, or an explicit human stop. If support ends at a missing premise, record the local and global frontier under the corpus-wide rules; do not invent the premise.
 
 ## Pass states
 
@@ -48,9 +55,9 @@ Every loop output must contain:
 
 For Items 3-10, use:
 
-- [[03-10-physics-concept-load-pass-ledger]]
+- [Items 3–10 concept-load/pass ledger](03-10-physics-concept-load-pass-ledger.md)
 
 For Item 2 load-audit correction, use:
 
-- [[02-amplitude-readout]]
-- [[02-with-to-this-item2-load-audit]]
+- [Item 2 amplitude/readout](02-amplitude-readout.md)
+- [Item 2 With-to-This load audit](02-with-to-this-item2-load-audit.md)
