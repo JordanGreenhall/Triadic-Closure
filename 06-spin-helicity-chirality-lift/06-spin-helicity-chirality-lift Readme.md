@@ -3,7 +3,7 @@ title: "Frontier Item 6: Spin / helicity / chirality / lift theorem"
 type: process
 status: pass-for-machinery-registered
 frontier_item: 6
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/chiral-coupling-result.md
   - ../../results/lorentz-from-recoupling.md
@@ -41,3 +41,8 @@ Dependent pages may use the registered spin/helicity/chirality machinery. They m
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 6 execution](/lineage-execution/06-spin-helicity-chirality.md). Existing split grades and quarantines remain controlling.
