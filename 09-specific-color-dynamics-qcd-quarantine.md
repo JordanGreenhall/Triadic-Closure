@@ -3,7 +3,7 @@ title: "SM Frontier Item 9: Specific Color Dynamics / Narrow QCD Quarantine"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 scope: frontier-item-9
 sources:
   - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
@@ -55,3 +55,8 @@ These may be used as external comparison only. They are not load-bearing for the
 ## Integration rule
 
 Downstream pages may use the pairwise invariant operator form, `1⊕8⊕8⊕10` decomposition, singlet/color-neutral baryon sector, structural colored-nonclosure, and tested-flow singlet attractor where those are the exact load. They may not use QCD coupling magnitude, flux-tube confinement, `α_s` running, lattice numerics, or empirical QCD binding mechanisms as native framework proof.
+
+
+## 2026-07-15 execution
+
+The spectrum and two explicitly specified flow classes were independently rerun in [`tools/verify_lineage_09_color.py`](/tools/verify_lineage_09_color.py). See [Lineage 9 execution](/lineage-execution/09-color-dynamics.md). The universal-dynamics caveat remains.
