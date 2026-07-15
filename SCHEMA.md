@@ -71,16 +71,14 @@ Claim authority is semantic and claim-specific. Apply the exact order in [corpus
 
 ## Claim standing
 
-Standing and warrant route are separate. Authorized corpus standings include:
+Standing and warrant route are separate. The four live claim standings are:
 
 - Open;
 - Conjectured;
-- Conjectured-strong;
-- Registered-candidate;
 - Registered;
-- Registered and Sealed;
-- Defended posit;
-- Dissolved.
+- Registered and Sealed.
+
+Record warrant route/profile/strength, conditions and inheritance, evidence/test state, confidence, workflow state, and disposition in separate fields. In particular, `Conjectured-strong`, `Registered-candidate`, `Defended posit`, and `Dissolved` are not additional standings. See [claim-status-vocabulary.md](claim-status-vocabulary.md).
 
 `Locked actual` is deprecated and must be translated through [locked-actual-decrement-map.md](locked-actual-decrement-map.md).
 
