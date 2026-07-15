@@ -29,6 +29,12 @@ This axis asks: **what exact claim has the framework secured, by what route, and
 
 `Secured` is not generic provenness or maximal certainty. Its meaning is fixed by the route and the distance that route travels.
 
+### Foundational premise category
+
+- **Pure posit** — a premise adopted straightforwardly as a foundation, with no derivation or defense claimed. It is not an epistemic state, not Conjectured, not Secured, and not an incomplete defended posit. Record it as **Category: Pure posit; Warrant: none claimed**, then state it as a condition on every downstream result that depends on it.
+
+Primitive relating — nothing stands beneath relating — is the canonical pure posit. It is **Native** on the registration axis.
+
 ### Warrant record
 
 Every Secured claim must name its route, reach, conditions, and debts. Examples:
