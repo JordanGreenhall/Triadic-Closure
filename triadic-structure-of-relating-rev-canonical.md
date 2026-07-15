@@ -47,7 +47,8 @@ The account proceeds by dependency. A claim is well placed when it appears at th
 
 | **Body tag** | **Current C2 reading** |
 | --- | --- |
-| Posited | An intended defended-posit route, not an epistemic state. A claim is Secured only if the defense profile is complete within its declared ceiling; otherwise it remains Conjectured or Open. |
+| Posited | A **pure posit**: a foundational premise adopted without derivation or defense. It is not Conjectured, not Secured, and not an incomplete defended posit; downstream claims state their dependence on it. |
+| Defended posit | A warrant route at a completeness ceiling. When its defense profile is complete, the exact claim may be Secured within that ceiling. |
 | Forced | Legacy shorthand for a claimed securing route. Read it as Secured only where the actual dependency, retorsion, or smuggle-free construction is exhibited with reach, scope, conditions, and debts. |
 | Recognition | An orienting comparison or inherited-name recognition that contributes no framework warrant. When an inherited name is licensed, record Registered or Registered–Sealed independently and quarantine surplus as required. |
 | Selected | A warrant route for licensed contingency, not an epistemic state and not necessity. |
@@ -55,15 +56,15 @@ The account proceeds by dependency. A claim is well placed when it appears at th
 
 The governing framework states are **Open, Conjectured, and Secured**. Semantic registration is independently **Native, Unregistered, Registered, or Registered–Sealed**. Body tags elsewhere in this treatise remain compact route or provenance markers until their owning units normalize them; they never override an explicit C2 claim record. Merely naming a route does not warrant a claim. The companion document *Architectonic Rigor* governs each route's reach and ceiling.
 
-## **0.2 The foundation: two retorsive results and two completeness claims**
+## **0.2 The foundation: two retorsive results, a pure posit, and an exact-count result**
 
 The foundation separates four claims whose warrant must not be collapsed.
 
-| **Claim** | **Framework state and warrant** | **Reach, conditions, and debt** | **Registration** |
+| **Claim** | **Category / framework state and warrant** | **Reach and conditions** | **Registration** |
 | --- | --- | --- | --- |
 | Relating is ineliminable and cannot be assembled from prior unrelated parts. | **Secured** by retorsion (0.3). | Any intelligible denial or attempted assembly necessarily relates its terms. This does not show that nothing stands beneath relating. | **Native** |
 | A determination requires at least distinction, coherent holding, and determinate standing — the minimal cores later named From, With, and This. | **Secured** by retorsion (0.4). | At-least-three within intelligible determination. It blocks reduction to one or two but does not exclude a fourth office. | **Native** |
-| Nothing stands beneath relating; relating is primitive rather than merely ineliminable. | **Conjectured** on an intended defended-posit route. | The completeness diagnostic fires, but the corpus supplies no explicit completed defense profile for this claim. The missing profile is a live F2 debt; retorsion may not be spent as if it had secured primitiveness. | **Native** |
+| Nothing stands beneath relating; relating is primitive rather than merely ineliminable. | **Pure posit.** No warrant is claimed. | A deliberately adopted foundational premise, not a conjecture, not a Secured result, and not an incomplete defended posit. Downstream results must state their conditional dependence on it. | **Native** |
 | The office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route (0.5–0.5a). | Ultimate offices of intelligible determination. Closed to self-certification but open to refutation by one genuine irreducible fourth office. | **Native** |
 
 The offices are not three substances that later enter relation. At the secured minimum they are three ineliminable offices of one non-composite act. Richer office articulations must preserve the dependency ceilings recorded above.
@@ -180,7 +181,7 @@ The example is not offered as proof. It is a low-risk recognition of the pattern
 
 ## **2.1 The gerund principle**
 
-From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The framework's primitive-relating conjecture is verbal rather than substantial.
+From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The framework's pure primitive-relating posit is verbal rather than substantial.
 
 This also means that the three offices are not relata assembled into a relation. They are the articulation of relating itself. The triad is one act with three irreducible offices. Closure is the act standing as one.
 
@@ -188,7 +189,7 @@ This also means that the three offices are not relata assembled into a relation.
 
 ## **2.2 Vertical composition: each office is composed of the other two**
 
-The offices are not atoms. Given the gerundive primitive-relating conjecture, each office is a relating, and a relating invokes relata: there is no relationship without relata. Given also the conjecture that nothing stands beneath relating and the Secured-within-ceiling exactly-three inventory, the only relata available to any office are the other two offices. This is not a metaphor and not mere mutual implication. It is composition, taken at full strength:
+The offices are not atoms. Given the gerundive primitive-relating posit, each office is a relating, and a relating invokes relata: there is no relationship without relata. Given also the pure posit that nothing stands beneath relating and the Secured-within-ceiling exactly-three inventory, the only relata available to any office are the other two offices. This is not a metaphor and not mere mutual implication. It is composition, taken at full strength:
 
 - From is the relating of With and This. It takes With and This as its relata and is the relation between them. Compression: From = This / With / the This-With relation. Seed and soil, successor and medium, belong together in From.
 
@@ -200,7 +201,7 @@ Two guards keep this exact. First, the relata are offices, not prior entities, s
 
 This composition is the vertical dimension of the architecture, declared canonically at 2.8. It is identical at every point of every construction: every From, every With, and every This anywhere in any unfolding is composed of the other two offices in exactly this way. Vertical composition never accrues and never varies. It is why the first This and the trillionth are composed in the same sense (5.4), and why "composed all the way down" has a meaning that does not bottom out in parts (7.5).
 
-*F2 dependency note: this mutual-composition construction depends on the **Conjectured** primitive-relating claim as well as the exactly-three result. It may not receive a stronger framework state than that parent. F3 owns its full adjudication.*
+*F2 dependency note: this mutual-composition construction is conditional on the **pure primitive-relating posit** as well as the exactly-three result. The posit supplies a declared premise, not warrant; F3 owns the construction's full adjudication and must state the condition explicitly.*
 
 ## **2.3 From: determinate distinction and conditioning**
 
@@ -474,7 +475,7 @@ Yet no later stride begins from the same condition. Once a This stands, the next
 
 A stride therefore has two inseparable faces. Read as form, it is the same triadic closure again. Read as history, it is never the same closure again. The engine advances because the office-structure repeats while S changes.
 
-Status: constructed conditional on the **Conjectured** primitive-relating claim and the separately warranted modal engine; no stronger state is inherited here.
+Status: constructed conditional on the **pure primitive-relating posit** and the separately warranted modal engine; the posit is a declared premise, not a securing route.
 
 ## **5.6 Step 3: the second standing**
 
@@ -892,7 +893,6 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 
 | **Joint** | **Current status** |
 | --- | --- |
-| Relating is primitive | **Conjectured.** Ineliminability and non-compositeness are Secured by retorsion, but the stronger claim that nothing stands beneath relating lacks an explicit completed defense profile. Required next work: supply that profile or a countermodel; do not spend retorsion as primitiveness. |
 | From -> With | **Conjectured** as a full positive account. Current strongest result: seed/soil, medium-realization, and co-conditioning articulate the intended role but remain recognition-supported. Missing: a peer-level framework-native dependency trace from the Secured minimal From core to medium-conditioning. Downstream dependency: F4 domain entry. |
 | Self-relation -> quantity; other-relation -> quality | The constitutional attack (position-distinctness as smuggled quality) is answered at 6.2-6.3 by the genetic account and the held/registered distinction: quantity is quality-blind holding of the qualitatively distinct. The joint is not the privileged attack point; residual exposure is the held/registered distinction itself (2.5), on which the answer leans. |
 | Literal reflexive holding | Whether a standing can be held with numerically itself is nowhere produced by the unfolding and may be empty notation. Open; nothing downstream is permitted to depend on it. |
@@ -916,6 +916,6 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 
 ## **Closing statement**
 
-The structure rests on differentiated warrant: relating's ineliminability and non-compositeness are Secured by retorsion; relating's primitiveness remains Conjectured pending a completed defense profile; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those differentiated parents, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
+The structure rests on a differentiated basis: relating's ineliminability and non-compositeness are Secured by retorsion; relating's primitiveness is a pure posit for which no warrant is claimed; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those differentiated parents, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
 
 *Canonical foundation; open joints remain explicitly located above.*
