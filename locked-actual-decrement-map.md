@@ -1,9 +1,9 @@
 ---
 title: Locked Actual Decrement Map
-type: overview
+type: adjudicative
 created: 2026-06-21
-updated: 2026-06-21
-status: control
+updated: 2026-07-15
+status: adjudicative
 confidence: high
 sources:
   - cover-letter.md
@@ -18,22 +18,25 @@ historical_sources:
 
 # Locked Actual Decrement Map
 
-`Locked actual` is **deprecated / disfavored** as a live status. It was useful as package-era honesty against false derivation, but it is too coarse: it hides whether an item is open, conjectured, registered, or registered-and-sealed.
+This is a temporary translation ledger. Each row must be rechecked during the semantic unit that owns the claim, propagated into the canonical formulation, and then removed. The ledger is retired when no unique translation work remains. [Claim Standing and Warrant](claim-status-vocabulary.md) governs the current vocabulary.
+
+`Locked actual` is **deprecated** as a live status. It was useful as package-era honesty against false derivation, but it is too coarse: it hides whether an item is Open, Conjectured, Registered, Registered and Sealed, or a Defended posit.
 
 Important lineage correction: `phi-forward-reconstruction.md` is package-era opening material and is **extremely superseded**. Claims sourced only to Φ do not survive as active doctrine unless a later current result/control page re-registers them.
 
-Future work must decrement every old `locked actual` use into one of:
+Future work must decrement every old `locked actual` use, claim by claim, into one of:
 
 - **Open** — not currently derived or closed; work frontier.
 - **Conjectured** — plausible/live proposal, not yet registered by the framework.
 - **Registered** — framework structure reaches the item in essence or under stated conditions, but sealing/full closure is incomplete.
 - **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.
+- **Defended posit** — the completeness diagnostic sets the claim's ceiling and the full defense profile is present.
 
 ## Decrement ledger
 
 | Old locked item / phrase | Main source(s) | Superseded? | Proper status | Why |
 |---|---|---:|---|---|
-| The `locked actual` category itself | `SCHEMA.md`; `claim-status-vocabulary.md`; `agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Deprecated / disfavored category | It conflates several standings and should not be used for live claims. Use Open / Conjectured / Registered / Registered and Sealed. |
+| The `locked actual` category itself | `SCHEMA.md`; `claim-status-vocabulary.md`; `agent-execution-rules.md`; `cover-letter.md`; Φ | Yes | Deprecated category | It conflates several standings and should not be used for live claims. Use Open / Conjectured / Registered / Registered and Sealed / Defended posit as the detailed lineage warrants. |
 | Exact `3+1` dimensionality / `M_ours^{3,1}` | `cover-letter.md`; Φ §§7.3, 16.1; `physics-walk-D1-D5-consolidated.md`; `physics-walk-D2.md`; later Jordan ruling | Yes, as `locked actual` | Registered and Sealed | Jordan ruled it stands at the same strength as triadic exactly-three plus horizontal flattening: three With-flattened spatial degrees plus one From-succession direction. Not arity-to-dimension; not D6 stability alone. |
 | `D5 locked actual base/closure` as a lump | Φ §§7.3, 15, 16 | Yes | Superseded as a lump; decompose or discard | Φ is superseded, and the lump mixes sealed, registered, conjectured, and open components. No future agent should cite the lump as active. |
 | Event-order and localizability | Φ §7.1, later D-walk lineage | Yes, if described as part of a lock | Registered and Sealed if supported by current D-walk; otherwise recheck | D2 event-order/localizability survived as a structural result in later discussion, but cite later/current pages rather than Φ. |
