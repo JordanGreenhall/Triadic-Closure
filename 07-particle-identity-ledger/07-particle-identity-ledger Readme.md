@@ -3,7 +3,7 @@ title: "Frontier Item 7: Particle-identity ledger"
 type: process
 status: pass-adjudication-ledger
 frontier_item: 7
-updated: 2026-06-26
+updated: 2026-07-15
 sources:
   - ../../results/quark-lepton-split.md
   - ../../results/mass-as-self-closure.md
@@ -41,3 +41,8 @@ Dependent pages may use the Registered native roles only to the degree specified
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 7 execution](/lineage-execution/07-particle-identity.md). Existing split grades and quarantines remain controlling.
