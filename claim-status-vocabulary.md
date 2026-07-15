@@ -43,6 +43,8 @@ Every Secured claim must name its route, reach, conditions, and debts. Examples:
 
 These routes are not interchangeable levels of one confidence scale. They secure different kinds of claims.
 
+Exactly-three is the canonical defended-posit example. Its completed profile secures the claim within the completeness ceiling: retorsion blocks reduction below three, recorded candidate fourths fail to establish a peer office, and the defense is reflexively stable. The claim is therefore **Secured within that ceiling**, not “merely posited” or epistemically Open. It remains refutable by one genuine irreducible fourth office, and that refutability does not downgrade its present state. The concept and office names are **Native**; registration contributes nothing to this warrant.
+
 A novel framework-native concept can therefore be fully secured without being Registered. Example record:
 
 ```text
