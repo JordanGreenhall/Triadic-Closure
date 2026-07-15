@@ -2,7 +2,7 @@
 
 ## 1. Relating: secured core and primitive posit
 
-The foundation does not begin from independently existing relata subsequently joined by an external relation. Retorsion secures relating as ineliminable and non-composite in the attempted-assembly sense. The stronger completeness claim — that nothing stands beneath relating, so relating is primitive rather than merely ineliminable — is **Conjectured** on an intended defended-posit route because the corpus does not yet supply its explicit completed defense profile.
+The foundation does not begin from independently existing relata subsequently joined by an external relation. Retorsion secures relating as ineliminable and non-composite in the attempted-assembly sense. The stronger completeness claim — that nothing stands beneath relating, so relating is primitive rather than merely ineliminable — is **Conjectured** on an intended defended-posit route. Its live debt is governed at canonical §§0.2 and 10.
 
 Relating articulates through three irreducible offices:
 
@@ -73,7 +73,7 @@ This means that independently established downstream success may support the fou
 ## 8. Current F2 record and queued neighbors
 
 - Relating ineliminable and non-composite: **Secured** by retorsion at its stated reach; **Native**.
-- Relating primitive, with nothing beneath it: **Conjectured** on an incomplete defended-posit route; **Native**. Missing: an explicit completed defense profile or a countermodel.
+- Relating primitive, with nothing beneath it: **Conjectured** on an incomplete defended-posit route; **Native**. See canonical §§0.2 and 10 for the single local/global frontier record.
 - Minimal From / With / This office cores: **Secured** by retorsion as an at-least-three result within intelligible determination; **Native**.
 - Exactly-three: **Secured within the completeness ceiling** by the completed three-part defended-posit route; **Native**. A genuine irreducible fourth office refutes it.
 - Vertical mutual composition and the vertical/horizontal distinction belong to F3 and retain no F2 regrade here.
