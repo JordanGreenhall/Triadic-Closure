@@ -226,7 +226,7 @@ The seed/soil example is the governing image. A seed carries a determinate possi
 
 The same point appears recursively in biological examples. Sperm and egg form a closure that becomes a new determinate content; that content then stands in relation to the womb as a further With. At one altitude, egg functions as With relative to sperm; at the next, the newly actualized embryo functions as seed relative to womb. From invests both successor and medium at every turn-over.
 
-*Status: the contrast between the two directions is forced by the offices; the seed/soil and womb examples are recognition examples that clarify the positive account of From -**>** With.*
+*F2 record: the parent-child From -> This direction has the stronger displayed construction. The full two-direction account, especially coherence-conditioning From -> With, remains **Conjectured**: the seed/soil and womb cases are recognition examples and add no warrant. Missing locally is a peer-level framework-native dependency trace from the Secured minimal From core to medium-conditioning. This does not downgrade the minimal From office secured at 0.4; see the Part-10 frontier.*
 
 ## **2.5 With: coherent holding without unification**
 
@@ -893,7 +893,7 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 | **Joint** | **Current status** |
 | --- | --- |
 | Relating is primitive | **Conjectured.** Ineliminability and non-compositeness are Secured by retorsion, but the stronger claim that nothing stands beneath relating lacks an explicit completed defense profile. Required next work: supply that profile or a countermodel; do not spend retorsion as primitiveness. |
-| From -> With | Positive account improved through seed/soil, medium-realization, and co-conditioning; still worth deepening as a peer to the parent-child From -> This account. |
+| From -> With | **Conjectured** as a full positive account. Current strongest result: seed/soil, medium-realization, and co-conditioning articulate the intended role but remain recognition-supported. Missing: a peer-level framework-native dependency trace from the Secured minimal From core to medium-conditioning. Downstream dependency: F4 domain entry. |
 | Self-relation -> quantity; other-relation -> quality | The constitutional attack (position-distinctness as smuggled quality) is answered at 6.2-6.3 by the genetic account and the held/registered distinction: quantity is quality-blind holding of the qualitatively distinct. The joint is not the privileged attack point; residual exposure is the held/registered distinction itself (2.5), on which the answer leans. |
 | Literal reflexive holding | Whether a standing can be held with numerically itself is nowhere produced by the unfolding and may be empty notation. Open; nothing downstream is permitted to depend on it. |
 | Floor-level connective sorter | Pruned binary holdings are earned; whether the floor supplies an internal operation that sorts self-relation from other-relation remains open. |
