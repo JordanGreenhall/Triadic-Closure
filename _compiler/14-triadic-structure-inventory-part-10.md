@@ -38,7 +38,7 @@ Energy, spacetime, dimension, time, dynamics, and rule-free continuum are not su
 At-least-three is retorsion-secured; exact completeness is defended rather than externally proved.
 
 **Adjudication:** retained. Later dimensionality work spends this strength without upgrading it.
-**Claim standing:** Registered and Sealed at defended-posit strength.
+**Claim standing:** Defended posit. Downstream spending at the same architectonic strength does not convert the exact-totality claim into Registered or Registered and Sealed.
 
 ## TSR-102 — From→With remains open for deeper articulation
 The positive medium-conditioning account stands, but is less developed than lineage-conditioning.

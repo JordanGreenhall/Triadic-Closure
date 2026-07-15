@@ -42,9 +42,9 @@ A system cannot certify an ultimate inventory as exactly complete from a positio
 
 The From / With / This inventory carries the strongest warrant available beneath the totalization ceiling: reduction below three is blocked by retorsion; proposed additions are tested as subdivisions or second-order statuses; the triad remains reflexively stable under its own defense.
 
-**Standing currently recorded:** defended posit.
+**Standing:** Defended posit.
 
-**Adjudication status:** pending forward search through all later uses, especially exact `3+1` and domain flattening.
+**Adjudication status:** current for the foundational count. Exact `3+1` and domain flattenings retain their own claim-specific standings.
 
 ---
 

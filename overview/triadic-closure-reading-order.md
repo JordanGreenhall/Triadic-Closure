@@ -21,7 +21,7 @@ This wiki is a **Triadic Closure** wiki. Physics is the deepest worked subdomain
 Start here. These pages carry the governing object, the discipline of warrant, and the distinct standing control.
 
 1. [Architectonic Rigor](../architectonic-rigor-complete.md) — what each warrant instrument secures, where it stops, and why standing cannot exceed its warrant ceiling.
-2. [triadic-structure-of-relating](../triadic-structure-of-relating.md) — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
+2. [The Triadic Structure of Relating](../triadic-structure-of-relating-rev-canonical.md) — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
 3. [claim-status-vocabulary](../claim-status-vocabulary.md) — the five live standings and their distinct warrant routes.
 4. [vertical-and-horizontal](../vertical-and-horizontal.md) — the current control distinction between vertical office-constitution and horizontal accumulation.
 

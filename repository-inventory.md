@@ -27,7 +27,6 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 - `architectonic-rigor-complete.md`
 - `triadic-structure-of-relating-rev-canonical.md`
-- `triadic-structure-of-relating.md`
 - `claim-status-vocabulary.md`
 - `vertical-and-horizontal.md`
 - `domain-entry-method.md`

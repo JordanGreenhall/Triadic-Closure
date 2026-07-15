@@ -22,7 +22,7 @@ Do **not** begin with isolated result pages. The physics section is a dependency
 Read these first:
 
 1. [Architectonic Rigor](architectonic-rigor-complete.md) — what each warrant instrument secures, where it stops, and how its ceiling constrains claim standing.
-2. [triadic-structure-of-relating](triadic-structure-of-relating.md) — the foundational object and mathematical object.
+2. [The Triadic Structure of Relating](triadic-structure-of-relating-rev-canonical.md) — the foundational object and mathematical object.
 3. [domain-entry-method](domain-entry-method.md) — how a successor domain is entered without smuggling its inherited metaphysics.
 4. [claim-status-vocabulary](claim-status-vocabulary.md) and [vertical-and-horizontal](vertical-and-horizontal.md) — status language and axis discipline.
 

@@ -50,4 +50,4 @@ Each layer participates in vertical office-composition equivalently.
 
 Collapsing vertical and horizontal causes false tensions between J and ρ and confuses primordial composition with historical composition.
 
-See also: [corpus-lineage](corpus-lineage.md), [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [triadic-structure-of-relating](triadic-structure-of-relating.md).
+See also: [Corpus Authority and Supersession](corpus-lineage.md), [Corpus Normalization Execution Rules](agent-execution-rules.md), [Known Failure Modes](known-failure-modes.md), [The Triadic Structure of Relating](triadic-structure-of-relating-rev-canonical.md).

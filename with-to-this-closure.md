@@ -25,7 +25,7 @@ How a previously-standing With (a holding among constituents) is closed over by 
 
 Status: **Registered** for the closure-as-collapse mechanism, structural colored non-closure, and tested-flow singlet-attractor result; **not sealed** for universal uniqueness over the whole admissible-dynamics class; **Open** for the resulting closure's mass-scale and coupling magnitude. This result fixes which configuration closes and that it is forced under the tested mutual-conditioning flows, not the magnitude of its self-bearing.
 
-This page closes the dynamical premise that [Triadic Structure of Relating](triadic-structure-of-relating.md) and the physics walk left owed: that the complete-closure configuration is the strict attractor of the constituents' mutual-conditioning field, not merely an available stable point.
+This page closes the dynamical premise that [The Triadic Structure of Relating](triadic-structure-of-relating-rev-canonical.md) and the physics walk left owed: that the complete-closure configuration is the strict attractor of the constituents' mutual-conditioning field, not merely an available stable point.
 
 ## Place in the physics section
 

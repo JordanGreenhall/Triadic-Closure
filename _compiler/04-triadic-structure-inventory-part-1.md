@@ -57,7 +57,7 @@ The office inventory cannot certify its own exhaustive completeness from wholly 
 
 **Parents:** TS-006, AR-015, AR-016.
 **Adjudication:** retained. Later dimensionality work spends exactly-three at this architectonic strength; it does not convert the claim into a formal theorem.
-**Claim standing:** Registered and Sealed at defended-posit strength within the framework.
+**Claim standing:** Defended posit. The exact-totality claim carries the complete three-part defense profile and is not converted into Registered or Registered and Sealed by downstream use.
 **Warrant route:** defended posit under the totalization ceiling.
 
 ## TS-008 — Order of being differs from order of knowing

@@ -72,7 +72,7 @@ Execution rule: do not say Λ has no framework meaning; say its magnitude is not
 - Later control ruling: exact `3+1` stands at the same architectonic strength as the triadic exactly-three posit and horizontal flattening: three With-flattened spatial degrees plus one From-succession direction.
 - Caution: `physics-walk-D1-D6.md`'s D6 stability argument and the ternary-coalgebra route are not the primary proof.
 
-Execution rule: report exact `3+1` as Registered and Sealed at the same level as triadic exactly-three + horizontal flattening. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
+Execution rule: report exact `3+1` as Registered and Sealed, warranted at the same architectonic strength as triadic exactly-three plus horizontal flattening without inheriting their modal standing. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
 
 ### Ternary coalgebra dimension route
 
