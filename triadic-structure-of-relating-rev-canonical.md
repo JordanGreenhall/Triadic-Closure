@@ -120,7 +120,7 @@ This result has a healthy asymmetry. It is closed to absolute self-certification
 
 ## **0.6 Prior to proof; architectonic rigor**
 
-A proof is a determination under a fixed inventory: a ground conditions a conclusion, the relation between them is held by rules, and a result stands. Proof is therefore a child of the more primitive act of relating. This account is not beneath proof; it is prior to the kind of closure in which proof can operate.
+A proof is a determination under a fixed inventory: a ground conditions a conclusion, the relation between them is held by rules, and a result stands. Proof is therefore a child of the architectonically prior act of relating. This account is not beneath proof; it is prior to the kind of closure in which proof can operate.
 
 The rigor proper to this level is not looser than proof. It is more exposed. There is no external formal rulebook to hide behind. Each claim must be held to the exact strength of its dependency trace; each name borrowed from an existing discipline must be quarantined until the structure it names has been generated; and every section must refuse content that is admissible in general but not realizable from here. The tags are therefore not hedges. They are the local form of rigor: each tag the readout of the instrument that reached the claim. The instruments themselves — dependency, retorsion, construction, selection, recognition with surplus quarantined, the completeness diagnostic, and the defended posit — are established without framework vocabulary in the companion document *Architectonic Rigor*, which states what each can secure and where each structurally stops.
 
@@ -180,7 +180,7 @@ The example is not offered as proof. It is a low-risk recognition of the pattern
 
 ## **2.1 The gerund principle**
 
-From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The primitive is verbal.
+From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The framework's primitive-relating conjecture is verbal rather than substantial.
 
 This also means that the three offices are not relata assembled into a relation. They are the articulation of relating itself. The triad is one act with three irreducible offices. Closure is the act standing as one.
 
@@ -188,7 +188,7 @@ This also means that the three offices are not relata assembled into a relation.
 
 ## **2.2 Vertical composition: each office is composed of the other two**
 
-The offices are not atoms. Because the primitive is gerundive, each office is a relating, and a relating immediately invokes relata: there is no relationship without relata. There is nothing beneath the act, so the only relata available to any office are the other two offices. This is not a metaphor and not mere mutual implication. It is composition, taken at full strength:
+The offices are not atoms. Given the gerundive primitive-relating conjecture, each office is a relating, and a relating invokes relata: there is no relationship without relata. Given also the conjecture that nothing stands beneath relating and the Secured-within-ceiling exactly-three inventory, the only relata available to any office are the other two offices. This is not a metaphor and not mere mutual implication. It is composition, taken at full strength:
 
 - From is the relating of With and This. It takes With and This as its relata and is the relation between them. Compression: From = This / With / the This-With relation. Seed and soil, successor and medium, belong together in From.
 
@@ -200,7 +200,7 @@ Two guards keep this exact. First, the relata are offices, not prior entities, s
 
 This composition is the vertical dimension of the architecture, declared canonically at 2.8. It is identical at every point of every construction: every From, every With, and every This anywhere in any unfolding is composed of the other two offices in exactly this way. Vertical composition never accrues and never varies. It is why the first This and the trillionth are composed in the same sense (5.4), and why "composed all the way down" has a meaning that does not bottom out in parts (7.5).
 
-*Status: forced by the gerund principle plus non-compositeness. A relating must have relata; nothing but the offices is available; therefore each office has the other two as relata and is their relation.*
+*F2 dependency note: this mutual-composition construction depends on the **Conjectured** primitive-relating claim as well as the exactly-three result. It may not receive a stronger framework state than that parent. F3 owns its full adjudication.*
 
 ## **2.3 From: determinate distinction and conditioning**
 
@@ -474,7 +474,7 @@ Yet no later stride begins from the same condition. Once a This stands, the next
 
 A stride therefore has two inseparable faces. Read as form, it is the same triadic closure again. Read as history, it is never the same closure again. The engine advances because the office-structure repeats while S changes.
 
-Status: forced, given the primitive-relating posit and the modal engine.
+Status: constructed conditional on the **Conjectured** primitive-relating claim and the separately warranted modal engine; no stronger state is inherited here.
 
 ## **5.6 Step 3: the second standing**
 
@@ -916,6 +916,6 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 
 ## **Closing statement**
 
-The structure rests on differentiated warrant: relating's ineliminability and non-compositeness are Secured by retorsion; relating's primitiveness remains Conjectured pending a completed defense profile; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those posits, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
+The structure rests on differentiated warrant: relating's ineliminability and non-compositeness are Secured by retorsion; relating's primitiveness remains Conjectured pending a completed defense profile; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those differentiated parents, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
 
 *Canonical foundation; open joints remain explicitly located above.*
