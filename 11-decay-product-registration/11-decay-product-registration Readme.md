@@ -3,7 +3,7 @@ title: "Frontier Item 11: Decay-product registration"
 type: process
 status: pass-registration-plus-quarantine
 frontier_item: 11
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/mass-derivation-three-faces.md
   - ../../results/chiral-coupling-result.md
@@ -35,8 +35,13 @@ FAIL if beta-decay familiarity imports antineutrino, charge assignments, weak mo
 
 ## Integration rule
 
-Dependent pages may use decay-as-escape, charge/energy balance, and relative channel propensity as native, with the frequency=weight caveat on rates. Product identities, spectra, lifetimes, branching ratios, antineutrino identity, and W-mechanism remain empirical/Open/quarantined.
+Dependent pages may use decay-as-escape, charge/energy balance, and relative channel propensity as native, with the dissolved frequency=weight demand removed; numerical rates remain separately values-side. Product identities, spectra, lifetimes, branching ratios, antineutrino identity, and W-mechanism remain empirical/Open/quarantined.
 
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+See [Lineage 11 execution](/lineage-execution/11-decay-registration.md). The verdict and all surviving boundaries are controlling.
