@@ -114,6 +114,14 @@ Current framework epistemic states are Open, Conjectured, and Secured, always wi
 
 Execution rule: normalize legacy compound records through [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). Do not mechanically regrade theory claims; reconstruct each semantic boundary in its owning lineage.
 
+### Normalization execution discipline
+
+Ad hoc file-by-file cleanup, whole-corpus bouncing, research performed inside compiler mode, mixed-objective passes, and completion claims based on a single review are superseded as execution methods.
+
+Current execution proceeds by one active semantic unit under [Agent Execution Rules](agent-execution-rules.md): complete source collection, pass separation, required propagation, non-invention, value-tested disposition, failure-capable verification, fresh-AI review, and a second no-change compiler cycle.
+
+Execution rule: a historical cleanup report or verifier output is provenance unless its exact operation is rerun against current artifacts. No action, commit, PR, or fixed point may be reported without returned evidence.
+
 ## Partial supersessions / caution zones
 
 ### `phi-forward-reconstruction.md`
