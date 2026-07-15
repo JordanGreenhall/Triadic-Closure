@@ -2,16 +2,25 @@
 title: Jordan Decisions
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
-status: control
-confidence: medium
+updated: 2026-07-15
+status: historical
+confidence: high
 historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
 # Jordan Decisions
 
-This page captures decisions from the conversation ledger that affect future execution.
+This page is historical provenance for four direct Jordan rulings. Each ruling has been absorbed into a dedicated living page; use those pages as current theory and execution control. This record must not be used as an alternative canonical formulation.
+
+## Living replacements
+
+- Vertical/horizontal language: [vertical-and-horizontal](vertical-and-horizontal.md).
+- Tool discipline: [known-failure-modes](known-failure-modes.md) and [agent-execution-rules](agent-execution-rules.md).
+- Color as This-flattening: [physics-walk-D1-D5-consolidated](physics-walk-D1-D5-consolidated.md) and [gauge-structure-result](gauge-structure-result.md).
+- Exact `3+1`: [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
+
+The sections below preserve ruling provenance only.
 
 ## Canonical vertical/horizontal language
 
