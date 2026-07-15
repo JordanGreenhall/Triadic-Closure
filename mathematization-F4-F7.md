@@ -7,18 +7,18 @@
 ## 0. Inherited from F1–F2
 
 - **(N)** The conditioning-network: nodes = standings (individuated by address/lineage), edges = single one-way turn-overs (conditionings). Background-free.
-- **Depth** = address-length = the From-count (oriented, discrete, atomic — F2). The temporal substructure.
+- **Succession count** = address-length = the From-count (oriented, discrete, atomic — F2). The temporal substructure.
 - **Address-separation** = minimal connecting-chain length = the With-count (symmetric). The spatial substructure; three-fold by the flattening (F3, taken as established: floor-and-ceiling three carried through the With-flattening).
 - **(P2)** Admissibility rule: a quantity is admissible iff definable from N's intrinsic data (addresses, edges, node-content, ρ, conservation). Rate/density banned; coherence-participation and the two counts admitted.
 - **Node-content:** offices (0.1), **J** = involutive polarity, orientation-reversal, J²=id (0.2, Treatise §7.2), the two sectors (0.3), the **pairing** = non-degenerate, J-compatible, bi-additive (0.4).
 
 ---
 
-## F4 — c as the depth/separation identity (at metric level)
+## F4 — c as the succession-count/separation identity (at metric level)
 
-**(P7) [proved] The unit of depth and the unit of separation are the same unit — one conditioning — and their identity is c = 1.** A unit of depth is one turn-over along an address (one conditioning, counted as temporal advance). A unit of separation is one edge between addresses (one conditioning, counted as spatial step). By F1.3 these are the *same* intrinsic act (a conditioning) read under the two counts (From-count vs With-count). The conversion between them is therefore the identity: 1 edge of separation ↔ 1 increment of depth. Writing this conversion as c, **c = 1 by construction** — it is not a magnitude but the identity between the two namings of the unit act. ∎
+**(P7) [proved] The unit of succession count and the unit of separation are the same unit — one conditioning — and their identity is c = 1.** A unit of succession count is one turn-over along an address (one conditioning, counted as temporal advance). A unit of separation is one edge between addresses (one conditioning, counted as spatial step). By F1.3 these are the *same* intrinsic act (a conditioning) read under the two counts (From-count vs With-count). The conversion between them is therefore the identity: 1 edge of separation ↔ 1 increment of succession count. Writing this conversion as c, **c = 1 by construction** — it is not a magnitude but the identity between the two namings of the unit act. ∎
 
-**(C7.1) [proved] c is admissible and is not a free particular.** c is definable from N's edge/depth structure (P2-admissible) and equals 1 necessarily (P7). Contrast: in standard relativity c is an empirical constant carrying a large numerical value; here that value is an artifact of measuring depth and separation in unrelated units. On N there is one unit (the conditioning), so c = 1 is forced. **This is the first confirmed "different particular": c is the unit, not a parameter.** ∎
+**(C7.1) [proved] c is admissible and is not a free particular.** c is definable from N's edge/succession-count structure (P2-admissible) and equals 1 necessarily (P7). Contrast: in standard relativity c is an empirical constant carrying a large numerical value; here that value is an artifact of measuring succession count and separation in unrelated units. On N there is one unit (the conditioning), so c = 1 is forced. **This is the first confirmed "different particular": c is the unit, not a parameter.** ∎
 
 ---
 
@@ -36,11 +36,11 @@
 
 ## F6 — The signature is Lorentzian (the minus sign), from the null bound
 
-**Setup.** Depth (time, Δt) and the spatial interval combine into a single interval (F4: one unit). Write s = α(Δt) + β·σ(Δx) for some combination. The question: the relative sign/structure of the depth-part and the space-part.
+**Setup.** Succession count (time, Δt) and the spatial interval combine into a single interval (F4: one unit). Write s = α(Δt) + β·σ(Δx) for some combination. The question: the relative sign/structure of the succession count-part and the space-part.
 
-**(P10) [proved] The null condition: a directly-conditioning pair has zero interval.** Two standings one edge apart in separation and one increment apart in depth (Δt = 1, |Δx| = 1, in unit terms) are in **direct conditioning contact** — one is the immediate conditioning of the other. Direct contact is the limiting case of "separation": the pair are as close as conditioning allows (neighbors). The interval between immediate-conditioning neighbors propagating at the bound (v = 1, F4) must be the **zero of the interval** — they are not separated *along the propagation*, since the propagation *is* their contact. (Admissible: this uses only depth, separation, and the v ≤ 1 bound, all intrinsic.) So the interval vanishes when |Δx| = Δt. ∎
+**(P10) [proved] The null condition: a directly-conditioning pair has zero interval.** Two standings one edge apart in separation and one succession-count increment apart (Δt = 1, |Δx| = 1, in unit terms) are in **direct conditioning contact** — one is the immediate conditioning of the other. Direct contact is the limiting case of "separation": the pair are as close as conditioning allows (neighbors). The interval between immediate-conditioning neighbors propagating at the bound (v = 1, F4) must be the **zero of the interval** — they are not separated *along the propagation*, since the propagation *is* their contact. (Admissible: this uses only succession count, separation, and the v ≤ 1 bound, all intrinsic.) So the interval vanishes when |Δx| = Δt. ∎
 
-**(P11) [proved] The interval is quadratic in depth with opposite sign: s² = −(Δt)² + σ(Δx) = −(Δt)² + (Δx¹)²+(Δx²)²+(Δx³)².** Proof: by F5 the spatial part is the sum of squares. The full interval must (i) reduce to the spatial sum-of-squares at equal depth (Δt = 0), and (ii) **vanish on the null condition** |Δx|² = (Δt)² (from P10: |Δx| = Δt ⇒ s = 0). A combination of (Δt)² and |Δx|² vanishing exactly when |Δx|² = (Δt)² is, up to scale, |Δx|² − (Δt)². Adding any non-quadratic dependence on Δt breaks (ii) at general separations (the null set would not be the cone |Δx| = Δt). So the interval is s² = −(Δt)² + |Δx|², with one timelike sign opposite to the three spacelike — **Lorentzian signature (1,3)**. The minus sign is forced by the null condition (P10), which is forced by the propagation bound (F4). ∎
+**(P11) [proved] The interval is quadratic in succession count with opposite sign: s² = −(Δt)² + σ(Δx) = −(Δt)² + (Δx¹)²+(Δx²)²+(Δx³)².** Proof: by F5 the spatial part is the sum of squares. The full interval must (i) reduce to the spatial sum-of-squares at equal succession count (Δt = 0), and (ii) **vanish on the null condition** |Δx|² = (Δt)² (from P10: |Δx| = Δt ⇒ s = 0). A combination of (Δt)² and |Δx|² vanishing exactly when |Δx|² = (Δt)² is, up to scale, |Δx|² − (Δt)². Adding any non-quadratic dependence on Δt breaks (ii) at general separations (the null set would not be the cone |Δx| = Δt). So the interval is s² = −(Δt)² + |Δx|², with one timelike sign opposite to the three spacelike — **Lorentzian signature (1,3)**. The minus sign is forced by the null condition (P10), which is forced by the propagation bound (F4). ∎
 
 *Status of F6:* **[proved]**, given F5 and the null condition (P10). The one substantive input is (P10) — that immediate-conditioning neighbors at the bound are zero-interval — which is **[argued]** cleanly (direct contact = not-separated-along-propagation) but deserves an explicit check that "zero interval" is the *forced* reading and not merely natural. Sub-gate F6a: pressure-test P10.
 
@@ -48,7 +48,7 @@
 
 ## F7 — The admissible re-couplings of N are exactly the Lorentz group
 
-This is the owed proof. **Claim:** the group of admissible re-couplings of N — the transformations that re-split a separation into depth-vs-spatial parts while preserving N's structure — is exactly the Lorentz group O(1,3) (or its identity component SO⁺(1,3)).
+This is the owed proof. **Claim:** the group of admissible re-couplings of N — the transformations that re-split a separation into succession count-vs-spatial parts while preserving N's structure — is exactly the Lorentz group O(1,3) (or its identity component SO⁺(1,3)).
 
 ### F7.1 What an admissible re-coupling is (defining the group)
 
@@ -70,10 +70,10 @@ So Aut(N, re-coupling) ⊆ O(s²) = O(1,3): every admissible re-coupling is an i
 
 This is the harder direction (showing the group is *exactly* Lorentz, not a subgroup).
 
-**(P13) [argued → partially proved] Every interval-preserving transformation is realized by an admissible re-coupling of N.** The Lorentz group O(1,3) is generated by (a) **spatial rotations** SO(3), and (b) **boosts** (the depth↔spatial mixings). Take each:
+**(P13) [argued → partially proved] Every interval-preserving transformation is realized by an admissible re-coupling of N.** The Lorentz group O(1,3) is generated by (a) **spatial rotations** SO(3), and (b) **boosts** (the succession-count↔spatial mixings). Take each:
 
 - **Rotations** are admissible re-couplings: they are the continuous isotropy of the spatial degrees (P8), which preserve edges, unit, J, and pairing (they act within the spatial degrees, which carry no orientation to violate). So SO(3) ⊆ Aut(N). **[proved, given F5a].**
-- **Boosts** are the re-splittings of a separation into depth-vs-spatial parts — exactly the "re-coupling" of F1/propagation: a different admissible accounting of the same conditioning-separation as more-depth-less-spatial or vice versa, preserving the interval and the unit. That a boost preserves edges/orientation: a boost re-coordinatizes the same conditioning-chains (it does not add or cut edges), so it preserves the conditioning structure (D7.1). That it preserves J and the pairing: a boost is an interval-preserving map (by definition), and the interval is the pairing-extension (F6); J-compatibility holds because the boost is built from the same depth/spatial structure J acts on. So boosts ⊆ Aut(N). **[argued]** — the load-bearing sub-claim is that *every* interval-preserving boost corresponds to an *admissible* re-splitting (and not some boosts are inadmissible). Sub-gate F7a.
+- **Boosts** are the re-splittings of a separation into succession count-vs-spatial parts — exactly the "re-coupling" of F1/propagation: a different admissible accounting of the same conditioning-separation as more-succession-count/less-spatial or vice versa, preserving the interval and the unit. That a boost preserves edges/orientation: a boost re-coordinatizes the same conditioning-chains (it does not add or cut edges), so it preserves the conditioning structure (D7.1). That it preserves J and the pairing: a boost is an interval-preserving map (by definition), and the interval is the pairing-extension (F6); J-compatibility holds because the boost is built from the same succession count/spatial structure J acts on. So boosts ⊆ Aut(N). **[argued]** — the load-bearing sub-claim is that *every* interval-preserving boost corresponds to an *admissible* re-splitting (and not some boosts are inadmissible). Sub-gate F7a.
 
 **(P14) [proved, given P13] Aut(N, re-coupling) = O(1,3) (or SO⁺(1,3) for the orientation-and-time-direction-preserving part).** From P12, Aut(N) ⊆ O(1,3). From P13, the generators of O(1,3) (rotations + boosts) are in Aut(N), so O(1,3) ⊆ Aut(N). Hence equality. Restricting to (D7.1)'s one-way orientation-preservation (conditioning runs one way) selects the **orthochronous** part (time-direction-preserving), and to the proper part if reflection is excluded: SO⁺(1,3), the connected Lorentz group. ∎
 
@@ -88,7 +88,7 @@ The orthochronous restriction is itself a **result, not an input**: because cond
 ## Status after F4–F7
 
 **Proved:**
-- **F4:** c = 1 is the depth/separation unit-identity, forced, not a particular (P7, C7.1).
+- **F4:** c = 1 is the succession-count/separation unit-identity, forced, not a particular (P7, C7.1).
 - **F5:** the spatial metric is the sum of squares, forced by isotropy + additivity + sign-definiteness (P9), modulo F5a (isotropy is continuous SO(3)).
 - **F6:** the signature is Lorentzian (1,3), the minus sign forced by the null condition from the propagation bound (P11), modulo F6a (P10 pressure-test).
 - **F7:** Aut(N, re-coupling) ⊆ O(1,3) proved (P12); rotations admissible; the full equality Aut(N) = SO⁺(1,3) proved modulo F7a (boost-admissibility converse). The **orthochronous restriction is derived** from From's one-wayness, not imposed.
@@ -106,7 +106,7 @@ These three are concrete and finite; clearing them seals the flat Lorentzian met
 
 ## F5a, F6a, F7a — the three sub-gates cleared (flat tier sealed)
 
-**(P15) [proved] F6a — the null condition is forced; it is the unit-identity.** At the bound v = 1, one increment of depth is spent entirely traversing one link of separation — and by F4 the depth-increment and the spatial-link are the *same single conditioning* counted two ways. So Δt = 1 and |Δx| = 1 at the bound are not two separations but one act counted both ways; the *net* separation (the interval) is that one act minus itself, = 0. The interval's vanishing on the null cone is therefore not an independent assumption but c = 1 (F4) read as "one act, counted as both depth and link, nets to zero": s² = −Δt² + |Δx|² = −1 + 1 = 0. The minus sign (F6) and the null cone are the same fact as the unit-identity (F4). ∎
+**(P15) [proved] F6a — the null condition is forced; it is the unit-identity.** At the bound v = 1, one succession-count increment is spent entirely traversing one link of separation — and by F4 the succession count-increment and the spatial-link are the *same single conditioning* counted two ways. So Δt = 1 and |Δx| = 1 at the bound are not two separations but one act counted both ways; the *net* separation (the interval) is that one act minus itself, = 0. The interval's vanishing on the null cone is therefore not an independent assumption but c = 1 (F4) read as "one act, counted as both succession count and link, nets to zero": s² = −Δt² + |Δx|² = −1 + 1 = 0. The minus sign (F6) and the null cone are the same fact as the unit-identity (F4). ∎
 
 **(P16) [proved] F5a — the spatial isotropy is continuous SO(3), not merely discrete S₃.** The With-flattening blinds *all* directional kind-marking (Treatise §7.4a), not only the marking distinguishing the three named degrees from one another. If only the three original axes were real and directions *between* them were not, that would be a retained marking (axes privileged over intermediate directions) — precisely the marking the flattening removes. So intermediate directions are as unprivileged as the axes; with the rule-given continuum (0.9) on each degree, a separation may point in any rule-given direction the three degrees span, and the no-privileged-direction symmetry preserving the degree-structure is the continuous rotation group SO(3). Discrete-permutation-only (S₃) would retain the forbidden axis-privileging marking. Hence the isotropy is continuous, and F5's sum-of-squares is forced (only the quadratic is SO(3)-invariant). ∎
 
@@ -123,7 +123,7 @@ So every orthochronous interval-preserver satisfies all four conditions and is a
 **(THEOREM, flat tier) [proved, modulo the cited prior materials] The admissible re-coupling symmetry of the conditioning-network N is exactly the proper orthochronous Lorentz group SO⁺(1,3), with invariant interval s² = −Δt² + (Δx¹)² + (Δx²)² + (Δx³)², and this is forced from N's intrinsic structure.**
 
 Every component forced, with its source:
-- **c = 1** — the depth/link unit-identity (F4); not a parameter.
+- **c = 1** — the succession count/link unit-identity (F4); not a parameter.
 - **spatial sum-of-squares** — continuous isotropy (SO(3)) from the total flattening of directional marking + rule-given continuum (F5, P16).
 - **Lorentzian minus sign / null cone** — the unit-identity read as net-zero separation at the bound (F6, P15); the same fact as c = 1.
 - **exactly the Lorentz group** — interval-preservation both inclusions (P12, P14), with admissibility = interval-preservation for orthochronous transformations (P17).
