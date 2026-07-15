@@ -1,3 +1,5 @@
+> **Historical route.** This memo is superseded by the later color argument and current gauge result. Its S1 wording predates F2 normalization: at-least-three is Secured by retorsion; exactly-three is Secured within the completeness ceiling by the canonical defended-posit route. The count is a premise spent here, not independently forced by this memo. See [Triadic Structure of Relating](triadic-structure-of-relating.md).
+
 # The D3 Color Sector: Is SU(3) Forced or Selected?
 
 ### An argument submitted for adversarial review
