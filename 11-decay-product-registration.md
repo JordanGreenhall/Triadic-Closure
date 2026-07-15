@@ -3,7 +3,7 @@ title: "SM Frontier Item 11: Decay-Product Registration"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-26
+updated: 2026-07-15
 scope: frontier-item-11
 sources:
   - process/sm-frontier-loop-state/02-amplitude-readout.md
@@ -29,7 +29,7 @@ That is a real native account, and it stops exactly there. [[flavor-mark-metric-
 | Decay = escape of a metastable closure over a coherence-barrier | Registered, structural | `d6-persistence` / identity-over-time. |
 | Charge balance across decay, conservation not exact values | Registered | Item 8: `U(1)` valence conserved. |
 | Energy balance / conservation of the This-closure quantity | Registered-structural | Stress-energy / closure; dynamical population still Conjectured. |
-| Relative channel weighting as participation-propensity | Registered as measure | Item 2; observed rates remain empirical/comparison unless the local possibility-space/rate structure is derived. Do not route this to generic frequency=weight. |
+| Relative channel weighting as participation-propensity | Registered as measure | Item 2; observed rates remain empirical/comparison unless the local possibility-space/rate structure is derived. Do not revive the Dissolved frequency=weight demand. |
 | Coupling is chiral / orientation-faithful | Registered criterion | Item 6; exact V-A module remains Open. |
 
 ## Received, Open, or quarantined decay content
@@ -54,3 +54,8 @@ No new derivation is owed here. Deriving beta-decay products, rates, or mechanis
 Dependent pages may use decay-as-escape, charge/energy balance, and relative channel propensity as native. Observed rates/frequencies remain empirical or comparison unless the local possibility-space/rate structure is derived. Product identities, spectra, lifetimes, branching ratios, antineutrino identity, and W-mechanism must be marked empirical, Open, or quarantined.
 
 Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure feeds back, and that is D6's own Registered result.
+
+
+## 2026-07-15 execution
+
+See [Lineage 11 execution](/lineage-execution/11-decay-registration.md). The verdict and all surviving boundaries are controlling.
