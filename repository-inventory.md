@@ -22,6 +22,12 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `physics-source-map.md`
 - `viewing-this-wiki.md`
 
+## Closed-loop frontier execution
+
+- `lineage-execution/README.md`
+- `lineage-execution/01-physics-registration.md` through `lineage-execution/13-spectrum-quarantine.md`
+- `native-mass-ruler-proof.md`
+
 ## Foundational architectonics and method
 
 - `architectonic-rigor-complete.md`
@@ -139,6 +145,7 @@ The complete `_compiler/` inventory is documented in `_compiler/README.md`. It i
 - `tools/import_flavor_mark_metric_and_neutron.py`
 - `tools/import_neutron_consideration.py`
 - `tools/import_with_to_this_closure.py`
+- `tools/verify_lineage_09_color.py`
 - `reference-repair-report.md`
 - `log.md`
 
