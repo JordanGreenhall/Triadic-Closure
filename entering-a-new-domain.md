@@ -1,6 +1,16 @@
+---
+title: "Entering a New Domain: Physics Worked Instance"
+type: worked-example
+status: supporting
+updated: 2026-07-15
+canonical-method: domain-entry-method.md
+---
+
 # Entering a New Domain: Architectonic Clarification of Presuppositions
 
-### A method document, adjacent to *Architectonic Rigor*. It states a discipline for moving into a new domain correctly, and demonstrates it with the worked example of entering physics (this session): the clarification of metric, causation, individuation, and possibility/actuality; the dissolution of conflicts that only existed because of thin unconscious metaphysics; the entry of the From as a whole constraint; the domain constraint and the threefold causation it forces; and the D1 first-This with boson/fermion as sealed registration.
+> **Disposition.** This page preserves the detailed physics worked instance. [Domain Entry Method](domain-entry-method.md) is the sole generic control. Generic statements here are read through that control; physics-specific claims retain only the standing established in their own lineages.
+
+### This worked instance demonstrates the clarification of metric, causation, individuation, and possibility/actuality; the entry of the From as a whole constraint; the proposed physics constraint; and the proposed D1 first-This. These are physics claims, not universal contents of domain entry.
 
 ---
 
@@ -25,7 +35,7 @@ For each foundational concept:
 2. **Refuse it.** Do not let the intuitive version do any work.
 3. **Rebuild from the toolkit.** Ask what the concept *is* in framework terms — which offices, which of their determinate contents, sameness/difference, quantity/quality, registration, J, ρ, the modal triad. Build it from below.
 4. **Ground in a concrete real example.** Abstract rebuilding drifts; a concrete case (temperature, for metric) keeps it honest and exposes whether the rebuild is real or a smoosh.
-5. **Check the rebuild dissolves the phantom.** A correct clarification *dissolves* the domain's hard problems about the concept (Hume's problem, the "identical particles" puzzle), rather than answering them on their own terms. Dissolution is the test of a correct rebuild.
+5. **Test whether the inherited problem dissolves.** Some pseudo-problems dissolve after reconstruction; genuine problems must be preserved in framework-native form. Dissolution is a possible result, not a presumption.
 6. **Deploy the clarified concept.** Use the stronger version from then on.
 
 **The key reusable insight:** when the rebuild keeps producing a "special ingredient" that the domain has and mathematics lacks (occurrence, thisness, a retained particular, an activated field), that ingredient is the Cartesian ghost. Physics is a *subset of mathematics*; it adds no ingredient and no new mode. The difference is always a difference in *particulars* — which characteristics the domain's objects carry — never a difference in *kind* of being. If a rebuild posits a new kind, it is wrong; return to "physics is a subset of mathematics, what differs is the particulars."
@@ -71,13 +81,13 @@ For each foundational concept:
 
 ### 3.5 The general lesson across all four
 
-Each phantom problem (Hume's connection, identical particles, the metaphysics of actuality, "where does the metric come from") existed **only because of the thin unconscious metaphysics**. With the stronger framework concept in hand, the operator understands *what the concept is* and operates far more effectively — and the conflict does not need to be solved, it ceases to appear. **Dissolution, not resolution, is the mark of a correct architectonic clarification.**
+In this worked reconstruction, the listed problems are proposed to dissolve because their thin presuppositions are removed. Each dissolution claim must still be assessed on its own warrant. Generic domain entry requires explanatory performance and preservation of any genuine remainder; it does not require every inherited problem to disappear.
 
 ## 4. Entry of the From into a domain
 
 ### 4.1 The From arrives whole, as a constraint — not a buffet
 
-When entering a successor domain, the From is the **full prior object** (for physics: the terminal mathematical object — rule-given ℂ, J, the two-sector polarity, the pairing, ρ, conservation, ℤ-grading, ℚ-linearity), inherited at every step. The crucial discipline: **every characteristic of the From is a constraint, not an option.** The From is not a rich field of resources to draw from selectively; it is a set of conditions *all of which must be deployed* in any admissible content of the successor domain.
+When entering a successor domain, the From is the **living prior closure** (for physics, the adjudicated terminal mathematical object), inherited at every step. The crucial discipline: **every living characteristic relevant to the boundary is a constraint, not an option.** The From is not a rich field of resources to draw from selectively; applicable conditions must be deployed and mutually reconciled. Historical, superseded, unresolved, or demonstrably inapplicable characteristics carry no load merely by appearing in an earlier description.
 
 This distinction is load-bearing. Treating the From as a buffet ("J is available if I want it") leaves the minimal object under-determined and invites smuggling. Treating it as a constraint ("J, the polarity, the recursion, ρ-coherence *all* must be deployed, *and mutually cohere*") winnows the admissible contents drastically.
 
@@ -179,8 +189,8 @@ The decisive move: **do not take "particle" as an unexamined primitive.** Once "
 1. Identify the domain's unconscious metaphysical presuppositions.
 2. Clarify each architectonically — refuse the intuitive version, rebuild from the toolkit, ground in a concrete example, confirm it *dissolves* the domain's phantom problems.
 3. Deploy the clarified concepts; never operate on the borrowed thin ones (which cause circularity and phantom conflicts).
-4. Inherit the From whole, as a constraint (every characteristic must deploy, all must mutually cohere) — not a buffet.
+4. Inherit the living relevant From whole, as a constraint (every applicable characteristic must deploy and mutually cohere) — not a buffet.
 5. Understand the domain constraint deeply; for physics it is threefold (self-transforming / invariant / coherent), it *is* causation seen from inside, and it forces the threefold characteristics of any viable This.
 6. Walk D1 as the forced coincidence of From and With under full mutual coherence; read its result with the domain's primitives (e.g. "particle") refused, so the genuine essences (boson/fermion as the polarity grading) become visible and sealable by content-identity.
 
-The recurring engine throughout: **a more robust metaphysics dissolves the domain's hard problems rather than solving them on their own terms** — and that dissolution is the sign the clarification is correct.
+The recurring test throughout this physics instance is whether reconstruction removes an imported pseudo-problem while preserving genuine framework-native work. The generic acceptance criteria and standing controls are in [Domain Entry Method](domain-entry-method.md).

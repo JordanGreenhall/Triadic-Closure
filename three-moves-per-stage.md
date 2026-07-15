@@ -1,4 +1,14 @@
+---
+title: "The Three Moves at Every Stage: Physics Protocol"
+type: worked-protocol
+status: supporting
+updated: 2026-07-15
+canonical-method: domain-entry-method.md
+---
+
 # The Three Moves at Every Stage
+
+> **Disposition.** This page preserves physics-specific portfolio examples. The generic form of all three moves is governed by [Domain Entry Method](domain-entry-method.md). Claim standing is assigned only with the live vocabulary in [Claim Standing and Warrant](claim-status-vocabulary.md); “forced” names a warrant route, not a standing.
 
 ### A standing protocol for the physics walk, to be run at every D-stage in addition to the population survey. It exists to (a) credit each stage with what it genuinely forces, (b) audit each stage so nothing foundational is skipped, and (c) guide the investigation without an intractable exhaustive search. The orienting principle: **physics is one connected dependency structure; every piece matters, and skipping one upstream silently breaks something downstream** (skip recovering the metric at D2 and you arrive at D5 unable to do gauge symmetry, not knowing why). These three moves keep the dependency-bookkeeping honest.
 
@@ -24,7 +34,7 @@ Examples already encountered:
 1. Maintain a **dependency hierarchy of essential forms**: for each foundational physics structure, what must already stand (in essential form) for it to be realizable. (E.g. gravity-essence depends on Hamiltonian-essence + spatial-degrees-essence; gauge-force differentiation depends on internal-charge structure; quarks depend on confinement which depends on the specific strong coupling.)
 2. Given the current stage's standing, list the structures whose dependencies are **now satisfied** — these are the candidates.
 3. For each candidate, ask: **is it now realizable?**
-   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State the grade (forced / registered / sealed) and *why it emerges at this stage specifically* (which standing structures, brought into which relationship, produce it).
+   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State the live standing, the distinct warrant route, and *why it emerges at this stage specifically* (which standing structures, brought into which relationship, produce it).
    - **If no:** *why not?* Name the missing dependency and the later stage that is its home. A clean "not yet, because X is missing, home is Dn" is a real result — it is the dependency-bookkeeping that prevents silent downstream breakage.
 
 **Guard:** Move 1 tells us *where to look*, never *what to conclude*. Finding a structure must still be a forward construction from the standing, not a placement of something we wanted.
@@ -45,7 +55,7 @@ Examples already encountered:
 ## Move 3 — Grade and dependency-record
 
 For everything surfaced by Moves 1 and 2, record:
-1. **Grade:** forced / registered / registered-and-sealed / registered-not-sealed — with the bidirectional content-identity test run explicitly for any seal (named concept, "properly understood" stripping naive freight, no remainder either way).
+1. **Standing and warrant:** Open / Conjectured / Registered / Registered and Sealed / Defended posit, with the warrant route stated separately. Run the bidirectional content-identity test explicitly for any seal; use the complete defense profile for any Defended posit.
 2. **Essential vs accreted:** what is the essential form sealed here, and what mature-form content remains to be tacked on later (and where).
 3. **Dependency entry:** update the dependency hierarchy — what now stands (so later stages can depend on it), and what was found *not yet* (with its named missing dependency and home stage). This running record is what prevents arriving at a later stage unable to proceed and not knowing which skipped upstream step is the cause.
 
