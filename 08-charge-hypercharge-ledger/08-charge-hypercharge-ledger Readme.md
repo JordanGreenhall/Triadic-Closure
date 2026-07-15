@@ -3,7 +3,7 @@ title: "Frontier Item 8: Charge / hypercharge ledger"
 type: process
 status: pass-adjudication-ledger
 frontier_item: 8
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/gauge-structure-result.md
   - ../../results/quark-lepton-split.md
@@ -41,3 +41,8 @@ Dependent pages may use Registered charge conservation, neutrality, and relative
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 8 execution](/lineage-execution/08-charge-hypercharge.md). Existing split grades and quarantines remain controlling.
