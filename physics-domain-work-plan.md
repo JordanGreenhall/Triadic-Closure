@@ -30,9 +30,24 @@ Every task below must run:
 2. Physics-walk checklist: Part 0 From in full; A frame; B instruments; C population; D grade; E adversarial pass.
 3. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
 4. Essential-form/mature-form split.
-5. Final status: Open, Conjectured, Registered, or Registered and Sealed.
+5. Final two-axis record:
+   - framework epistemic state: Open / Conjectured / Secured, with warrant route and reach for every Secured claim;
+   - semantic registration: Native / Unregistered / Registered / Registered–Sealed.
+6. For Registered, record the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, verify bidirectional content identity within the declared scope.
 
 Traditional physics may orient the search and supply empirical checks. It may not supply the metaphysical basis or silently determine the result.
+
+## C2 translation notice
+
+The `Current status`, `Possible outcomes`, and adjudication labels below are pre-C2 compound records. They mix framework warrant with semantic registration and are retained here as routing evidence until each owning lineage reconstructs the two-axis record.
+
+Operationally:
+
+- `Open` and `Conjectured` report framework epistemic state.
+- `Registered` reports only that a familiar name is licensed over an explicitly mapped, framework-secured core. It contributes zero warrant and does not mean well-proven.
+- `Registered and Sealed` is read as `Registered–Sealed`: bidirectional content identity within the stated scope, not maximal proof strength.
+- Compound phrases such as `Registered conditional` must be decomposed into state, warrant, registration, scope, conditions, and debts before downstream use.
+- No theory claim is promoted or demoted by this C2 translation. Regrading belongs to the claim's owning lineage.
 
 ## Priority 1 — Load-bearing and under-sealed
 
@@ -203,12 +218,14 @@ Net: two sealed-or-confirmed (Item 2 sealed; Items 9–11 confirmed Open), sever
 ## Wiki-update tasks
 
 1. Patch individual result modules when their headline overstates this mature status.
-2. Add a `Mature status` section to result pages with:
-   - status;
-   - why;
-   - load-bearing dependencies;
-   - open gates;
-   - smuggle risks.
+2. Add a two-axis epistemic record to result pages with:
+   - framework epistemic state;
+   - warrant route and reach;
+   - scope, conditions, and debts;
+   - semantic registration;
+   - licensed legacy content and quarantined surplus;
+   - framework remainder for any proposed seal;
+   - load-bearing dependencies, open gates, and smuggle risks.
 3. Keep the result page's original source summary, but let this control page govern current use.
 4. Whenever a hinge is closed or downgraded, update this page and [physics-domain-mature-status](physics-domain-mature-status.md).
 
