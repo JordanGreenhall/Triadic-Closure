@@ -3,7 +3,7 @@ title: "Frontier Item 9: Specific color dynamics / QCD-operator quarantine"
 type: process
 status: pass-narrowed-quarantine
 frontier_item: 9
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/with-to-this-closure.md
   - ../epsilon-su3-bridge-construction.md
@@ -41,3 +41,8 @@ Dependent pages may use the native downstream SU(3) consequences. They may not u
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+The spectrum and two explicitly specified flow classes were independently rerun in [`tools/verify_lineage_09_color.py`](/tools/verify_lineage_09_color.py). See [Lineage 9 execution](/lineage-execution/09-color-dynamics.md). The universal-dynamics caveat remains.
