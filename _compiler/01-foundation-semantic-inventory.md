@@ -1,6 +1,6 @@
 # Foundation Semantic Inventory — Provisional Cross-Source Index
 
-Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; all other entries retain their stated provisional status. This file is not canonical theory.
+Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; FND-006 and FND-009 through FND-009a are adjudicated by F3; all other entries retain their stated provisional status. This file is not canonical theory.
 
 ## Authority and scope
 
@@ -76,7 +76,9 @@ Any intelligible determination deploys determinate distinction, coherent holding
 
 Each office is composed through the other two: From is the relating of With and This; With is the relating of From and This; This is the relating of From and With. The offices are irreducible without being atomic.
 
-**Adjudication status:** pending full review against later flattening and domain use.
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Any intelligible relating deploys all three distinct cores; taking one as the focal relation leaves the other two as its distinct relata. Self- or repeated relata omit an ineliminable core. The pure posit remains an unwarranted condition.
+
+**Adjudication status:** current under F3. Later coinductive rigidity tests the recursion's consequences; it does not replace the native dependency trace.
 
 ---
 
@@ -102,7 +104,21 @@ Closure is the triadic act standing as one. The same foundational concept recurs
 
 Vertical means synchronic office-constitution. Horizontal means diachronic accumulation, nesting, lineage, and re-texturing of realizability by what has stood. A horizontal layer does not become vertical merely because it appears hierarchically above another layer.
 
-**Adjudication status:** pending full review against domain and layer terminology.
+**C2 record:** the separation is **Secured by dependency**; **Native**. Horizontal composition requires prior standings and can be empty at an origin; vertical constitution does not accrue. Finite turnover and unary lineage are **Secured by construction**; arbitrary compound-address injectivity is excluded.
+
+**Terminology record:** Jordan Hall's direct ruling fixes `vertical`, `horizontal`, `depth`, and `altitude`; that authority decision is not warrant. Depth is vertical coinductive office-decomposition. Horizontal position is altitude; horizontal sequence is address length or succession count.
+
+**Adjudication status:** current under F3.
+
+---
+
+## FND-009a — Marked and flattened readings
+
+At turnover the office-kind basis registers the triad as marked, while the unit-altitude basis registers the taken aspects alike as standings without registering their lower office-kind. Threeness and constitutive signature remain in what is held. The Native flattened images are succession/order (From), quantity/extent (With), and quality/internal distinction (This).
+
+**C2 record:** **Secured by construction** at turnover; **Native**; conditional on the F2 triad. Reach excludes inherited physical names such as time, space, and color, which require their own downstream registration.
+
+**Adjudication status:** current under F3.
 
 ---
 
