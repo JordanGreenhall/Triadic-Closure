@@ -18,6 +18,10 @@ This folder is the worker-facing execution layer for the SM frontier.
 
 Critical rule: the numbered folders are **frontier items**, not loops. A loop is the repeated solver cycle applied to one item until PASS, COUNTERMODEL, exact MISSING_PREMISE requiring Jordan/Controller decision, or HUMAN_STOP.
 
+## Completed execution
+
+- [Thirteen-lineage execution record](lineage-execution/README.md)
+
 ## Governing files
 
 - [Closed-loop execution structure](sm-frontier-closed-loop-execution-structure.md)
@@ -47,7 +51,7 @@ Critical rule: the numbered folders are **frontier items**, not loops. A loop is
 - [Item 7: Particle-identity ledger](07-particle-identity-ledger/07-particle-identity-ledger Readme.md) — PASS as adjudication ledger; native roles separated from parked SM bundles
 - [Item 8: Charge / hypercharge ledger](08-charge-hypercharge-ledger/08-charge-hypercharge-ledger Readme.md) — PASS as adjudication ledger; native charge structure Registered, exact values/hypercharge parked
 - [Item 9: Specific color dynamics / QCD-operator quarantine](09-specific-color-dynamics-qcd-quarantine/09-specific-color-dynamics-qcd-quarantine Readme.md) — PASS as narrowed quarantine; SU(3) consequences Registered, quantitative QCD quarantined
-- [Item 10: Native mass-ruler proof](10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md) — NON-PASS proof setup only
+- [Item 10: Native mass-ruler proof](10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md) — PASS; native ruler discharged in substance
 - [Item 11: Decay-product registration](11-decay-product-registration/11-decay-product-registration Readme.md) — PASS by registration plus quarantine; native decay skeleton Registered, beta specifics parked
 - [Item 12: Gravity full-GR imports](12-gravity-full-gr-imports/12-gravity-full-gr-imports Readme.md) — PASS by separation; weak-field Registered, full-GR imports conditional/Open
-- [Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md) — NON-PASS quarantine maintained
+- [Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md) — PASS by explicit quarantine; mature content remains quarantined
