@@ -2,7 +2,7 @@
 title: SM Frontier Closed-Loop Execution Structure
 type: process
 status: current
-updated: 2026-06-25
+updated: 2026-07-15
 ---
 
 # SM Frontier Closed-Loop Execution Structure
@@ -54,3 +54,8 @@ For Item 2 load-audit correction, use:
 
 - [[02-amplitude-readout]]
 - [[02-with-to-this-item2-load-audit]]
+
+
+## Completed 2026-07-15 execution
+
+The ordered full-load packets and verdicts are indexed at [lineage-execution/README.md](lineage-execution/README.md). Component grades and quarantines remain controlling; a lineage PASS does not promote them.
