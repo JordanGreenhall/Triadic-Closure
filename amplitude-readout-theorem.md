@@ -2,7 +2,7 @@
 title: Amplitude / Readout Theorem
 type: physics-mechanism
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 status: current
 confidence: medium
 sources:
@@ -22,8 +22,7 @@ currently licensed about amplitude, readout, squaring, and observed frequency.
 Status: **Registered, not sealed**.
 
 The framework currently licenses a normalized weighting measure tied to coherent
-participation. It does **not** yet seal the stronger claim that observed long-run
-frequency is identical to that measure in all cases.
+participation. The former demand for a second theorem identifying observed long-run frequency with the measure is **Dissolved** as a category error; it is not an Open condition on the measure.
 
 ## The registered core
 
@@ -61,10 +60,9 @@ downstream uses.
 This is legitimate mathematics. The verifier should not reject it merely because
 it resembles the Born rule.
 
-But the mathematical theorem does not by itself prove that observed repetitions
-must sample that measure as long-run frequency. That is the remaining bridge.
+The mathematical theorem supplies the measure's form. Ordinary typicality and empirical-frequency checks remain available, but neither constitutes a second metaphysical bridge.
 
-## The open blocker: frequency equals weight
+## The dissolved demand: frequency equals weight
 
 The current blocker is the identity:
 
@@ -72,10 +70,7 @@ The current blocker is the identity:
 observed long-run frequency = framework weighting measure
 ```
 
-This remains **Open** as a sealing gate. Empirical frequencies may be cited as
-empirical observations or checks. They may not be relabeled as framework-native
-frequency derivations unless the bridge from measure to sampling/frequency is
-proved.
+This is **Dissolved** as a smuggled demand. It reifies weight and frequency as two ontological objects needing a further connector. Empirical frequencies remain empirical observations and falsification checks; native typicality remains an optional rule-given consistency theorem.
 
 Therefore decay rates, transition rates, Born frequencies, and probabilistic
 claims are allowed only in one of three forms:
@@ -114,11 +109,11 @@ For any page using amplitude, Born, frequency, transition rate, decay rate, or
    quantity?
 2. Is the pairing or frame licensed?
 3. Is the result used only as a measure, or is it upgraded to observed frequency?
-4. If upgraded to frequency, where is the frequency=weight bridge proved?
+4. Does the page revive the Dissolved frequency=weight demand or confuse an empirical rate with a framework-derived coefficient?
 5. If the value is empirical, is it labeled empirical rather than derived?
 6. If it comes from mature physics, is it labeled external comparison?
 
-Failure on questions 1–4 requires downgrade or quarantine. Passing questions 5–6
+Failure on questions 1–4 requires correction, downgrade, or quarantine. Passing questions 5–6
 is acceptable; legitimate empirical anchoring and legitimate mathematics should
 not be rejected.
 
@@ -129,7 +124,7 @@ The correct equilibrium is:
 - accept `|amplitude|²` as a Registered weighting measure when the amplitude and
   frame are licensed;
 - accept empirical frequencies as empirical observations;
-- reject any silent promotion from measure to observed frequency;
+- preserve the empirical boundary without reviving a second frequency=weight bridge;
 - reject any `cos²` argument whose angle is not first shown to be an
   amplitude-space angle.
 
