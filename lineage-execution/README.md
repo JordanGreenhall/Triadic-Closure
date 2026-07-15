@@ -26,3 +26,6 @@ The thirteen frontier lineages were executed in dependency order under the close
 | 13 | [Spectrum quarantine](13-spectrum-quarantine.md) | PASS by explicit quarantine |
 
 PASS never upgrades the component claim grades stated inside a packet. Registered-candidate deposits still require the program’s separate promotion and Jordan sign-off rules.
+
+
+Full source/change/verification record: [Integration manifest](INTEGRATION-MANIFEST.md).
