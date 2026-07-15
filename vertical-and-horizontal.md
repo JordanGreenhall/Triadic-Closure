@@ -2,52 +2,101 @@
 title: Vertical and Horizontal
 type: concept
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: current
 confidence: high
 sources:
   - triadic-structure-of-relating-rev-canonical.md
+  - 02-foundational-architectonics.md
 historical_sources:
+  - jordan-decisions.md
   - raw/context/full-conversation-ledger.md
 ---
 
 # Vertical and Horizontal
 
-The vertical/horizontal distinction is one of the governing concepts for the corpus.
+This page is the governing F3 control for the two dimensions of composition. Jordan Hall's direct ruling fixes the vocabulary. That authority decision does not itself supply framework warrant; the structural claims and their conditions are recorded below.
+
+## F3 claim record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| The vertical and horizontal are distinct. | **Secured** by dependency. | Horizontal composition requires prior standings and can be empty at a domain origin; vertical constitution does not accrue and is present wherever a closure stands. | **Native** |
+| Each office is vertically composed through the other two. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The focal office is the relating-office; the other two supply the required distinct relata. | **Native** |
+| A walked turnover produces horizontal accumulation, lineage, and a re-textured realizability field. | **Secured** by construction. | Finite exhibited turnovers and unary addresses. Arbitrary compound-address injectivity is not included. | **Native** |
+| The marked triad and its three flattenings are available at turnover. | **Secured** by construction. | Under the lower office-kind basis the triad remains marked; under the unit-altitude basis the taken aspects stand alike as units while their constitutive signatures survive. This does not by itself license the inherited names time, space, or color. | **Native** |
+
+The pure posit is a condition, not warrant. Every result spending vertical mutual composition must retain that condition.
 
 ## Vertical
 
-Vertical means synchronic office-composition: the constitutive relation by which each office is itself composed through the other two offices. It is not a tower of smaller parts. It is the foundational, co-constitutive, admissibility dimension.
+**Vertical** means synchronic office-constitution. Every closure deploys the three office cores; within the F2 frame, each focal office is the relating of the other two:
+
+- From is the relating of With and This;
+- With is the relating of From and This;
+- This is the relating of From and With.
+
+This is baseless mutual constitution, not assembly from smaller prior parts. It does not accumulate, and it is the same at every layer.
 
 Associated terms:
 
 - office-composition;
 - closure as closure;
 - primordial admissibility;
-- J / involution as boundary structure;
-- coinductive mutual constitution;
-- the same at every layer.
+- the within-stage or marked reading;
+- coinductive office-depth;
+- J / involution as the later mathematical realization of vertical orientation.
 
 ## Horizontal
 
-Horizontal means diachronic accumulation: the unfolding or build-history of actuals, where realizability is increasingly textured and constrained by what has stood.
+**Horizontal** means diachronic build. A completed closure is taken at unit-altitude for a later determination; actuals accumulate, lineage and addresses accrue, and Realizability(S) is re-textured by what has stood.
 
 Associated terms:
 
+- turnover and stride;
 - monotonic accumulation of actuals;
 - Realizability(S);
-- ρ / recursive coherence;
-- induction / approximation tower;
-- history, layers, nesting, strides.
+- lineage and address;
+- layers, nesting, strata, and altitude;
+- the across-stage or flattened reading;
+- ρ / recursive coherence as the later mathematical realization of horizontal preservation.
 
-## Layers / nesting
+## Why there are two canonical dimensions
 
-Cells → tissues → organs → organisms → networks → ecologies are **layers** or **nested actuals** on the horizontal. They are not canonical vertical composition, even though they have an intuitive up/down feel.
+The distinction is a dependency classification of composition:
 
-Each layer participates in vertical office-composition equivalently.
+- composition that does not depend on prior standings is vertical constitution;
+- composition that spends prior standings is horizontal build.
 
-## Why it matters
+The phrase “exactly two dimensions” is the corpus's exhaustive composition vocabulary under that classification. It is not a separately surveyed inventory of everything that may exist. Modal nesting is an ordering of registers, not a composition dimension; standing and building are readings of a horizontal event, not additional dimensions; and This is where admissibility and realizability cross, not a third axis.
 
-Collapsing vertical and horizontal causes false tensions between J and ρ and confuses primordial composition with historical composition.
+## Marked and flattened readings
 
-See also: [corpus-lineage](corpus-lineage.md), [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [triadic-structure-of-relating](triadic-structure-of-relating.md).
+At a turnover the same triad is available under two bases:
+
+- the **office-kind basis** registers From / With / This as distinct in kind: the marked, vertical reading;
+- the **unit-altitude basis** registers the taken aspects alike as standings available for further determination: the flattened, horizontal reading.
+
+Flattening does not destroy the offices or their threeness. It declines to register office-kind while conserving the constitutive signature that cannot be removed without removing the office:
+
+| Office signature | Flattened framework image | Symmetry character |
+| --- | --- | --- |
+| From: oriented and one-way | succession / ordering | asymmetric and ordered |
+| With: holding multiplicity on a basis | quantity / extent | symmetric and interchangeable |
+| This: closure standing as one | quality / internal distinction | symmetric and non-interchangeable |
+
+Mappings from these Native images to inherited domain names require their own downstream registration records.
+
+## Layers, readings, and reserved terms
+
+- Cells → tissues → organs → organisms → networks → ecologies are horizontal **layers** or **nested actuals**, despite their intuitive up/down appearance.
+- **Altitude** is position in the horizontal layer tower. **Address length** or **succession count** measures a walked horizontal sequence.
+- **Depth** is reserved for vertical coinductive office-decomposition. Do not use it for address length, temporal succession count, or horizontal layer position.
+- A stride is a horizontal event. Its **standing face** is the vertical-conformity reading of that event; its **building face** is the horizontal history-changing reading.
+- Every layer participates in vertical office-constitution equivalently.
+
+## Failure condition
+
+Collapsing the dimensions creates false J/ρ tensions, confuses primordial constitution with historical composition, and allows horizontal nesting or succession to masquerade as vertical depth.
+
+See also: [Triadic Structure of Relating](triadic-structure-of-relating.md), [Foundational Architectonics](02-foundational-architectonics.md), [Known Failure Modes](known-failure-modes.md), and [Claim Status Vocabulary](claim-status-vocabulary.md).
