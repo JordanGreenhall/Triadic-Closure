@@ -2,7 +2,7 @@
 title: Epsilon / SU(3) Bridge Construction
 type: physics-internal-structure
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 status: current
 confidence: medium-high
 sources:
@@ -92,3 +92,8 @@ former "conditional-mathematics-only" ceiling.
 ## Use rule
 
 Downstream pages may treat native `SU(3)` as Registered structure, not as mature-QCD import. They may not claim it is Registered and Sealed, and they may not import surplus Standard Model content: exact hypercharge assignments, electroweak mixing, generations, masses/Yukawas, observed decay rates, or completeness of `SU(3) × SU(2) × U(1)` remain separately gated.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 3 execution](lineage-execution/03-epsilon-su3-bridge.md). Verdict remains **PASS-for-load / Registered, not Sealed**; named seal residuals are preserved.
