@@ -100,9 +100,9 @@ Vertical means synchronic office-constitution. Horizontal means diachronic accum
 
 ## FND-010 — Claim standing and warrant route are distinct metadata
 
-Claim standing must be preserved exactly. Warrant-route terms such as forced, recognition, selection, retorsion-secured, checked, argued, or defended posit do not automatically determine standing.
+Claim standing must be preserved exactly. Warrant-route terms such as forced, recognition, selection, retorsion-secured, checked, or argued do not automatically determine standing. `Defended posit` is the exception: it is a live standing for an exact-totality claim and also names its required three-part defense profile; ordinary defense language does not confer it.
 
-**Adjudication status:** pending reconciliation of all nonstandard grades and later status controls.
+**Adjudication status:** reconciled with the current standing control; individual source usages remain subject to their owning semantic units.
 
 ---
 

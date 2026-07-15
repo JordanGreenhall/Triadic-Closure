@@ -93,7 +93,7 @@ A constraint does not import foreign content into the unbounded possible; it exc
 
 ## Adjudicated limitations
 
-1. `Forced`, `Recognition`, `Selected`, and `defended posit` remain warrant-route metadata and may not replace live status metadata.
+1. `Forced`, `Recognition`, and `Selected` remain warrant-route metadata and may not replace live standing. `Defended posit` is itself a live standing only for an exact-totality claim carrying the complete required defense profile.
 2. “At least three” and “exactly three” must remain distinct.
 3. Exact completeness is not upgraded to formal theoremhood.
 4. The discourse-position debt remains visible rather than being silently treated as solved.
