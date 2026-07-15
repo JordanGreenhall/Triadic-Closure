@@ -19,14 +19,7 @@ The supplemental foundation audit and chemistry deposit retain only their stated
 
 Encountering a claim begins the work. Before retention, revision, or removal, search the accessible corpus for earlier and later formulations, detailed derivations, repairs, objections, status changes, downstream expenditures, conflicting summaries, notation changes, dependencies, and propagation targets.
 
-Normal claim-specific authority order:
-
-1. most advanced complete detailed derivation;
-2. later detailed repair or extension;
-3. explicit adjudication or current ruling;
-4. downstream work that necessarily spends and sharpens the claim;
-5. current controls;
-6. summaries and reading guides.
+[Corpus Authority and Supersession](../corpus-lineage.md) supplies the one governing priority order and evidence discipline. This workspace must not maintain a competing abbreviated order.
 
 ## Required adjudication record
 

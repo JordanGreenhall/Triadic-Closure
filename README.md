@@ -45,16 +45,7 @@ The substantive chemistry D1–D4 source deposit named in `_compiler/source-mani
 
 GitHub is the primary working source for every migrated file. Google Drive is fallback provenance and a source-recovery location for material not yet migrated.
 
-Authority is claim-specific, not file-wide or folder-wide. For each semantic object, prefer:
-
-1. the most advanced complete detailed derivation;
-2. later detailed repairs or extensions;
-3. explicit adjudications and current rulings;
-4. downstream work that necessarily spends and sharpens the claim;
-5. current control pages;
-6. summaries and orientation prose.
-
-A newer or shorter summary may not override stronger detailed work.
+Authority is claim-specific, not file-wide or folder-wide. Follow [Corpus Authority and Supersession](corpus-lineage.md) for the governing priority order, evidence rules, and absorption discipline. A newer or shorter summary, a `current` label, or a position in the reading order may not override the exact surviving repair and detailed living lineage.
 
 ## Standing and warrant
 

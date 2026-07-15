@@ -7,8 +7,8 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 1. [README](README.md)
 2. [Repository Inventory](repository-inventory.md)
 3. [Schema](SCHEMA.md)
-4. [Corpus Lineage](corpus-lineage.md)
-5. [Supersession Map](supersession-map.md)
+4. [Corpus Authority and Supersession](corpus-lineage.md)
+5. [Supersession Map](supersession-map.md) — temporary claim-routing packet pending absorption
 6. [Agent Execution Rules](agent-execution-rules.md)
 7. [Claim Status Vocabulary](claim-status-vocabulary.md)
 8. [Vertical and Horizontal](vertical-and-horizontal.md)
@@ -45,7 +45,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
-- [Jordan Decisions](jordan-decisions.md)
+- [Jordan Decisions](jordan-decisions.md) — temporary authorial interrupts pending propagation
 
 ## Physics walk, propagation, and spacetime
 

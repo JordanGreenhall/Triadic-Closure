@@ -144,4 +144,4 @@ The complete `_compiler/` inventory is documented in `_compiler/README.md`. It i
 
 ## Authority rule after migration
 
-GitHub is the primary execution corpus for every file present here. Google Drive is used only to locate missing migration sources, compare provenance, or recover a source not yet present. Claim authority remains semantic and claim-specific; migration location does not itself determine standing.
+GitHub is the primary execution corpus for every file present here. Google Drive is used only to locate missing migration sources, compare provenance, or recover a source not yet present. Claim authority remains semantic and claim-specific; migration location does not itself determine standing. The complete governing method is [Corpus Authority and Supersession](corpus-lineage.md).

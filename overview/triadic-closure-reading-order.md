@@ -49,7 +49,7 @@ Only after the above should a reader enter the physics corpus:
 
 Use these to avoid regression:
 
-- [corpus-lineage](../corpus-lineage.md) — authority tiers and raw-source lineage.
+- [corpus-lineage](../corpus-lineage.md) — claim-specific authority and supersession method.
 - [supersession-map](../supersession-map.md) — what has been superseded or reinstated.
 - [locked-actual-decrement-map](../locked-actual-decrement-map.md) — deprecated package-era status translation.
 - [known-failure-modes](../known-failure-modes.md) — recurring agent and proof-status errors.
