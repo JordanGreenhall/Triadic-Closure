@@ -3,7 +3,7 @@ title: "SM Frontier Item 3: Epsilon / SU(3) Bridge"
 type: process
 status: native-su3-registered-not-sealed
 frontier_item: 3
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
   - Frontier Close Loop Execution/epsilon-su3-bridge-construction.md
@@ -84,3 +84,8 @@ former "conditional-mathematics-only" ceiling.
 ## Integration note
 
 This supersedes the earlier “conditional mathematics only” ceiling. The SU(3) derivation is now carried as native Registered, not Sealed. Remaining residuals are seal residuals, chiefly formalizing the connectedness/irreducibility premises and their dependence on the Registered Item 4 carrier theorem.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 3 execution](lineage-execution/03-epsilon-su3-bridge.md). Verdict remains **PASS-for-load / Registered, not Sealed**; named seal residuals are preserved.
