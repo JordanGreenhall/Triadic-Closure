@@ -22,7 +22,7 @@ None.
 
 ## Actual load in current framework
 
-Registration control for every later use of particle, field, mass, charge, interaction, decay, gauge, amplitude, and spacetime language. The formerly missing full downstream map is complete in [the Lineage 1 execution packet](../../lineage-execution/01-physics-registration.md).
+Registration control for every later use of particle, field, mass, charge, interaction, decay, gauge, amplitude, and spacetime language. The formerly missing full downstream map is complete in [the Lineage 1 execution packet](/lineage-execution/01-physics-registration.md).
 
 ## Pass condition for the loop agent
 
