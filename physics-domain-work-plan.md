@@ -7,6 +7,7 @@ status: control
 confidence: medium
 sources:
   - physics-domain-mature-status.md
+  - domain-entry-method.md
   - physics-walk-checklist.md
   - three-moves-per-stage.md
   - entering-a-new-domain.md
@@ -30,7 +31,7 @@ Every task below must run:
 2. Physics-walk checklist: Part 0 From in full; A frame; B instruments; C population; D grade; E adversarial pass.
 3. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
 4. Essential-form/mature-form split.
-5. Final status: Open, Conjectured, Registered, or Registered and Sealed.
+5. Final standing: Open, Conjectured, Registered, Registered and Sealed, or Defended posit, with the warrant route recorded separately.
 
 Traditional physics may orient the search and supply empirical checks. It may not supply the metaphysical basis or silently determine the result.
 

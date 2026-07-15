@@ -30,8 +30,8 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `claim-status-vocabulary.md`
 - `vertical-and-horizontal.md`
 - `domain-entry-method.md`
-- `entering-a-new-domain.md`
-- `three-moves-per-stage.md`
+- `entering-a-new-domain.md` (supporting physics worked instance)
+- `three-moves-per-stage.md` (supporting physics protocol)
 - `archivist-instructions-foundation-audit.md`
 
 ## Mathematics and mathematization

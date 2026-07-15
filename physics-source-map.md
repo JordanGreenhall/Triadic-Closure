@@ -32,9 +32,9 @@ This page maps curated physics pages to their principal upstream sources in the 
 
 Additional method sources:
 
-- [entering-a-new-domain](entering-a-new-domain.md)
-- [domain-entry-method](domain-entry-method.md)
+- [domain-entry-method](domain-entry-method.md) — canonical generic control
+- [entering-a-new-domain](entering-a-new-domain.md) — supporting physics worked instance
 - [physics-walk-checklist](physics-walk-checklist.md)
-- [three-moves-per-stage](three-moves-per-stage.md)
+- [three-moves-per-stage](three-moves-per-stage.md) — supporting physics protocol
 
 See also: [physics-section-guide](physics-section-guide.md), [physics-domain-mature-status](physics-domain-mature-status.md), [supersession-map](supersession-map.md).
