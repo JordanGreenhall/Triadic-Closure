@@ -1,9 +1,9 @@
 ---
 title: "Frontier Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine"
 type: process
-status: quarantined-until-upstream-machinery
+status: pass-by-quarantine
 frontier_item: 13
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/gauge-structure-result.md
   - ../../results/chiral-coupling-result.md
@@ -34,8 +34,13 @@ FAIL if spectrum, Yukawa, Higgs, or electroweak sector names explain framework m
 
 ## Integration rule
 
-Only after PASS may dependent pages use this item as compact upstream state. Until PASS, dependent pages must mark uses as empirical, mathematical comparison, conditional, Open, or quarantined according to the exact concept-load ledger.
+PASS is achieved by explicit quarantine, not by derivation of the mature content. Dependent pages must keep every such use empirical, comparative, Open, or quarantined until a capacity-specific re-entry loop passes.
 
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+See [Lineage 13 execution](/lineage-execution/13-spectrum-quarantine.md). The verdict and all surviving boundaries are controlling.
