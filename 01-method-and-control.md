@@ -2,18 +2,28 @@
 
 This document governs claim standing, domain entry, source authority, and execution discipline for the Triadic Closure corpus.
 
-## Claim standing
+## Epistemic warrant and semantic registration
 
-- **Open** — explicit work frontier.
-- **Conjectured** — serious proposal not yet registered.
-- **Conjectured-strong** — substantial structural support, still short of registration.
-- **Registered-candidate** — derived on registered parents and awaiting adversarial review.
-- **Registered** — secured by its stated dependency route.
-- **Registered and Sealed** — no additional load beyond the registered structure.
-- **Defended posit** — maximal available warrant beneath the totalization ceiling while remaining refutable.
-- **Dissolved** — a question or distinction removed because it arises from a category error or imported ontology.
+Use two independent axes.
 
-`Locked actual` is deprecated.
+**Framework epistemic state**
+
+- **Open** — no framework warrant yet secures the exact claim.
+- **Conjectured** — a serious proposal with stated support and unresolved debts.
+- **Secured** — established within scope by a named warrant route and reach.
+
+Every Secured claim states its scope, conditions, and debts.
+
+**Semantic registration for inherited names**
+
+- **Native** — framework-native concept; no inherited-name mapping is at issue.
+- **Unregistered** — an inherited name is not yet licensed.
+- **Registered** — an inherited name is licensed over an explicitly mapped, framework-secured core; all legacy surplus remains quarantined.
+- **Registered–Sealed** — bidirectional content identity within a declared scope, with no legacy surplus or framework remainder.
+
+Registration contributes no warrant. `Conjectured-strong` is warrant-strength metadata; `Registered-candidate` is workflow metadata that must be decomposed; `Defended posit` names a warrant profile; and `Dissolved` is a disposition.
+
+`Locked actual` is deprecated. Use [claim-status-vocabulary](claim-status-vocabulary.md).
 
 ## Domain entry
 
