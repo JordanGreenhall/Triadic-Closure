@@ -88,7 +88,7 @@ not re-litigated per-page:
 ## 2. RESTATE: the exactly-three ceiling as maximal warrant (framing change)
 
 **WHERE:**
-- `architectonic-rigor.md` and/or `triadic-structure-of-relating(-rev-canonical).md`
+- `architectonic-rigor-complete.md` and/or `triadic-structure-of-relating(-rev-canonical).md`
   §0.5–0.6 (wherever the completeness ceiling and defended-posit profile live)
 - `claim-status-vocabulary.md` (the "Defended posit" entry)
 - any page that currently carries exactly-three, 3+1, or exact-local-Lorentz with

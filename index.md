@@ -16,8 +16,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 
 ## Foundational architectonics
 
-- [Architectonic Rigor — complete](architectonic-rigor-complete.md)
-- [Architectonic Rigor — concise](architectonic-rigor.md)
+- [Architectonic Rigor](architectonic-rigor-complete.md)
 - [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
 - [Triadic Structure of Relating — concise](triadic-structure-of-relating.md)
 - [Domain Entry Method](domain-entry-method.md)

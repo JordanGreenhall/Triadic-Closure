@@ -26,7 +26,6 @@ Generated from a recursive comparison of the repository initialization commit `1
 ## Foundational architectonics and method
 
 - `architectonic-rigor-complete.md`
-- `architectonic-rigor.md`
 - `triadic-structure-of-relating-rev-canonical.md`
 - `triadic-structure-of-relating.md`
 - `claim-status-vocabulary.md`

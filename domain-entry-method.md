@@ -38,6 +38,6 @@ The successor domain is selected by its own constraint. For physics the constrai
 
 ## Place in the corpus
 
-Read this after [architectonic-rigor](architectonic-rigor.md) and [triadic-structure-of-relating](triadic-structure-of-relating.md), before [physics-domain-mature-status](physics-domain-mature-status.md) or any physics result page.
+Read this after [Architectonic Rigor](architectonic-rigor-complete.md) and [Triadic Structure of Relating](triadic-structure-of-relating.md), before [Physics Domain Mature Status](physics-domain-mature-status.md) or any physics result page.
 
 See also: [overview/triadic-closure-reading-order](overview/triadic-closure-reading-order.md), [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md), [vertical-and-horizontal](vertical-and-horizontal.md), [claim-status-vocabulary](claim-status-vocabulary.md).
