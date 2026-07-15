@@ -106,6 +106,12 @@ Execution rule: the reverted audit chain is historical/adversarial evidence only
 
 A later ten-document consolidation dated 2026-07-10 has been supplied outside the current GitHub tree and declares broad control and supersession scope. Its date and self-description do not grant file-wide authority. Each claim may be used only after comparison with the surviving repository derivation, explicit repairs, ledgers, and downstream adoption; any accepted result must be migrated and propagated into the GitHub corpus.
 
+### Claim-standing vocabulary
+
+The surviving adjudicated vocabulary has exactly four live standings: Open, Conjectured, Registered, and Registered and Sealed. Later uses of `Conjectured-strong`, `Registered-candidate`, `Defended posit`, `Dissolved`, `Lead`, conditional qualifiers, confidence, or test states do not add standings.
+
+Execution rule: normalize those expressions through [Claim Status Vocabulary](claim-status-vocabulary.md) into one live standing plus separate warrant, condition, evidence, confidence, workflow, or disposition metadata. Do not mechanically regrade the underlying theory claim.
+
 ## Partial supersessions / caution zones
 
 ### `phi-forward-reconstruction.md`
