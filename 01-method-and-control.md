@@ -14,6 +14,10 @@ Use two independent axes.
 
 Every Secured claim states its scope, conditions, and debts.
 
+**Foundational premise category**
+
+- **Pure posit** — deliberately adopted with no derivation or defense claimed. It is neither Conjectured nor Secured and is not an incomplete defended posit. Record `Warrant: none claimed`; every downstream result that spends it remains conditional on it.
+
 **Semantic registration for inherited names**
 
 - **Native** — framework-native concept; no inherited-name mapping is at issue.
@@ -21,7 +25,7 @@ Every Secured claim states its scope, conditions, and debts.
 - **Registered** — an inherited name is licensed over an explicitly mapped, framework-secured core; all legacy surplus remains quarantined.
 - **Registered–Sealed** — bidirectional content identity within a declared scope, with no legacy surplus or framework remainder.
 
-Registration contributes no warrant. `Conjectured-strong` is warrant-strength metadata; `Registered-candidate` is workflow metadata that must be decomposed; `Defended posit` names a warrant profile; and `Dissolved` is a disposition.
+Registration contributes no warrant. `Conjectured-strong` is warrant-strength metadata; `Registered-candidate` is workflow metadata that must be decomposed; `Pure posit` names an unwarranted foundational premise category; `Defended posit` names a warrant route; and `Dissolved` is a disposition.
 
 `Locked actual` is deprecated. Use [claim-status-vocabulary](claim-status-vocabulary.md).
 

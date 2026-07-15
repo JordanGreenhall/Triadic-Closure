@@ -64,7 +64,7 @@ A newer or shorter summary may not override stronger detailed work.
 
 ## Standing and warrant
 
-The corpus uses two independent epistemic axes. Framework claims are Open, Conjectured, or Secured, with the securing route and its reach stated. Semantic registration is Native, Unregistered, Registered, or Registered–Sealed and applies only to inherited names. Registered means the name is licensed over a secured core while legacy surplus remains quarantined; Registered–Sealed means bidirectional content-identity with no remainder within scope. Registration is not proof strength. See [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). `Locked actual` is deprecated.
+The corpus separates framework warrant from semantic registration. Claims offered for warrant are Open, Conjectured, or Secured, with the securing route and its reach stated. A pure posit is instead a foundational premise category: no warrant is claimed, it is neither Conjectured nor Secured, and downstream results remain conditional on it. Semantic registration is Native, Unregistered, Registered, or Registered–Sealed and applies only to inherited names. Registered means the name is licensed over a secured core while legacy surplus remains quarantined; Registered–Sealed means bidirectional content-identity with no remainder within scope. Registration is not proof strength. See [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). `Locked actual` is deprecated.
 
 ## Normalization discipline
 

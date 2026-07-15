@@ -75,6 +75,7 @@ Do not:
 - let a Registered name spend quarantined legacy content;
 - call a registration sealed without bidirectional content-identity;
 - treat a Native concept as epistemically deficient because no legacy mapping applies;
+- treat a pure posit as Conjectured, Secured, or an incomplete defended posit, or fail to propagate downstream dependence on it;
 - convert argued → proved, checked → theorem, selection → forced, confidence → warrant, or workflow/disposition → epistemic state;
 - translate raw-package `locked actual` without separating framework warrant from semantic registration.
 

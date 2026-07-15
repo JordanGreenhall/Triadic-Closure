@@ -75,13 +75,17 @@ Claim authority is semantic and claim-specific. Apply the exact order in [corpus
 
 The two axes are independent.
 
-**Framework epistemic state:**
+**Framework epistemic state for claims offered for warrant:**
 
 - Open;
 - Conjectured;
 - Secured.
 
-Every Secured claim must state its warrant route, reach, scope, conditions, and debts.
+**Foundational premise category:**
+
+- Pure posit — deliberately adopted with no derivation or defense claimed; neither Conjectured nor Secured; every downstream use remains conditional on it.
+
+Every Secured claim must state its warrant route, reach, scope, conditions, and debts. Record a pure posit as `Category: Pure posit; Warrant: none claimed`.
 
 **Semantic registration for inherited names:**
 

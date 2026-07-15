@@ -29,6 +29,12 @@ This axis asks: **what exact claim has the framework secured, by what route, and
 
 `Secured` is not generic provenness or maximal certainty. Its meaning is fixed by the route and the distance that route travels.
 
+### Foundational premise category
+
+- **Pure posit** — a premise adopted straightforwardly as a foundation, with no derivation or defense claimed. It is not an epistemic state, not Conjectured, not Secured, and not an incomplete defended posit. Record it as **Category: Pure posit; Warrant: none claimed**, then state it as a condition on every downstream result that depends on it.
+
+Primitive relating — nothing stands beneath relating — is the canonical pure posit. It is **Native** on the registration axis.
+
 ### Warrant record
 
 Every Secured claim must name its route, reach, conditions, and debts. Examples:
@@ -42,6 +48,8 @@ Every Secured claim must name its route, reach, conditions, and debts. Examples:
 - **empirically secured** — observational warrant, not framework derivation.
 
 These routes are not interchangeable levels of one confidence scale. They secure different kinds of claims.
+
+Exactly-three is the canonical defended-posit example. Its completed profile secures the claim within the completeness ceiling: retorsion blocks reduction below three, recorded candidate fourths fail to establish a peer office, and the defense is reflexively stable. The claim is therefore **Secured within that ceiling**, not “merely posited” or epistemically Open. It remains refutable by one genuine irreducible fourth office, and that refutability does not downgrade its present state. The concept and office names are **Native**; registration contributes nothing to this warrant.
 
 A novel framework-native concept can therefore be fully secured without being Registered. Example record:
 

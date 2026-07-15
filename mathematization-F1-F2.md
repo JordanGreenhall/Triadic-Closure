@@ -89,7 +89,7 @@ N supplies exactly two intrinsic count-structures, and they are different in kin
 - **F2** — answered: step atomicity proved three ways.
 
 **Next gates (in dependency order):**
-- **F3** — exactly three spatial degrees: verify the floor-and-ceiling three is carried through the With-flattening of address-separation (cite Treatise floor/ceiling; confirm "exactly three," not "≥ three").
+- **F3** — exactly three spatial degrees: verify that the canonical F2 premise — at-least-three Secured by retorsion and exactly-three Secured within the defended-posit ceiling — is carried through the With-flattening of address-separation. Cite the Treatise claim record; do not present the spatial result as an independent proof of the ultimate count.
 - **F4** — c as the depth/separation identity at metric level (mostly notational, given F1.3's two measures).
 - **F5/F6** — the flat metric form (sum-of-squares from isotropy) and signature (minus sign from the null bound), read off the J-compatible pairing (0.4) + J (0.2).
 - **F7** — the owed proof: the admissible re-couplings of N (J-compatible, pairing-preserving) are exactly the Lorentz group.

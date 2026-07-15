@@ -17,7 +17,7 @@ The error had a single root: the first version treated mutual constitution as an
 ## 2. The standing structures spent, and the one selection
 
 **Core framework inputs (each prior, none new here):**
-- **(C1) Exactly three aspects.** Every content carries a survey into three aspects; the count three is forced — floor by retorsion, ceiling by the self-totalizing-certification argument (rigidity theorem).
+- **(C1) Exactly three aspects.** Every content carries a survey into three aspects. This argument inherits exactly-three as a **Secured-within-ceiling, Native premise** from the canonical foundation: retorsion secures the at-least-three floor, while the completed defended-posit route secures exactly-three within the totalization ceiling. This color argument spends that premise; it does not independently prove or extend it.
 - **(C2) Signature-distinctness.** The three aspects are registrably distinct in character; equivalently, the three aspect-projections are linearly independent.
 - **(C3) Survey injectivity.** Distinct contents have distinct aspect-data.
 - **(C4) Gerund principle / vertical composition.** The offices are relatings, not relata; constitution is coinductive — each content unfolds into its three aspects, which themselves so unfold. Constitution is the coalgebra map, not a product.
@@ -66,7 +66,7 @@ V = ℂ³ carries: a Hermitian pairing (the object's J-compatible pairing restri
 ## 8. What is forced, what is selected, what is owed
 
 **Forced relative to (S), each link N1/N2 from a core principle:**
-exactly-three (C1) → dim V = 3 (C2, §4); complex-linear V not discrete (S via D2, §6); Hermitian → U(3); alternating top-form (C5, §7); det = 1 (C6, §7); full SU(3) (C7, §7). The two countermodels that defeated the first version are closed by typing (§5) and by branch-linearity (§6).
+exactly-three at its F2 defended-posit reach (C1) → dim V = 3 (C2, §4); complex-linear V not discrete (S via D2, §6); Hermitian → U(3); alternating top-form (C5, §7); det = 1 (C6, §7); full SU(3) (C7, §7). The two countermodels that defeated the first version are closed by typing (§5) and by branch-linearity (§6).
 
 **The single selection (S):** physics is the dynamical branch. Licensed, comparison-classed, openly carried. Every "forced" above is forced *given (S)*. Reject (S) and the result does not hold; but (S) is one selection, not the four the first version hid.
 

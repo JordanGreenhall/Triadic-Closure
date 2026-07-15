@@ -1,6 +1,6 @@
 # Foundation Semantic Inventory — Provisional Cross-Source Index
 
-Status: unadjudicated cross-source crosswalk. This file is not canonical theory and does not establish the final wording or standing of any listed semantic object.
+Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; all other entries retain their stated provisional status. This file is not canonical theory.
 
 ## Authority and scope
 
@@ -32,35 +32,43 @@ A conclusion may not receive stronger standing than the dependency route that se
 
 ## FND-002 — Exact inventories face a totalization ceiling
 
-A system cannot certify an ultimate inventory as exactly complete from a position wholly outside the inventory it deploys. This ceiling applies symmetrically to every candidate exact count.
+An act cannot certify the absolute completeness of an ultimate office inventory from wholly outside the inventory it deploys. This ceiling applies symmetrically to every candidate exact count.
 
-**Adjudication status:** pending full review against later uses of exactly-three, dimension, and Lorentz claims.
+**C2 record:** **Secured** by the architectonic completeness diagnostic, at the reach of ultimate inventories articulated within intelligibility. **Native.** The ceiling is a result about warrant reach, not an open proof task.
 
----
-
-## FND-003 — Exactly-three is a defended posit
-
-The From / With / This inventory carries the strongest warrant available beneath the totalization ceiling: reduction below three is blocked by retorsion; proposed additions are tested as subdivisions or second-order statuses; the triad remains reflexively stable under its own defense.
-
-**Standing currently recorded:** defended posit.
-
-**Adjudication status:** pending forward search through all later uses, especially exact `3+1` and domain flattening.
+**Adjudication status:** current under F2; checked against the Foundation Audit repair, the canonical treatise, merged F1, and downstream exactly-three / exact-`3+1` controls.
 
 ---
 
-## FND-004 — Relating is primitive
+## FND-003 — Exactly-three is Secured by a defended-posit route
 
-The primitive is relating, not independently standing relata subsequently connected by an external relation.
+The From / With / This inventory carries the strongest warrant available beneath the totalization ceiling: reduction below three is blocked by retorsion; recorded candidate fourths return as subdivisions, relata, closures, textures, or second-order statuses; and the triad remains reflexively stable under its own defense.
 
-**Adjudication status:** pending full review.
+**C2 record:** **Secured within the completeness ceiling** by the completed defended-posit route; scope: ultimate offices of intelligible determination; condition and falsifier: no genuine irreducible fourth office; **Native**. “Defended posit” is the warrant route, not the epistemic state.
+
+**Adjudication status:** current under F2. Exact `3+1` may inherit only this reach plus the separately warranted flattening result; downstream fit may stress-test but does not extend the ceiling.
 
 ---
 
-## FND-005 — From, With, and This are offices of one act
+## FND-004 — Relating's ineliminability is distinct from primitiveness
 
-From, With, and This are irreducible offices of one relating, not three substances or independently standing relata.
+Relating is not assembled from prior unrelated parts: any intelligible denial or attempted assembly relates its terms in the performance.
 
-**Adjudication status:** pending full review.
+**C2 record, secured core:** relating is ineliminable and non-composite in the attempted-assembly sense — **Secured** by retorsion; **Native**. Reach: the performance tested. It does not establish that nothing stands beneath relating.
+
+**Category, stronger claim:** relating is primitive — **pure posit**; **Native**. No warrant is claimed. It is a deliberately adopted foundational premise, not Conjectured, not Secured, and not an incomplete defended posit.
+
+**Adjudication status:** current under F2 by direct Jordan ruling. Retorsion may not be spent beyond its reach as if it secured primitiveness; downstream derivations must state their conditional dependence on the pure posit.
+
+---
+
+## FND-005 — From, With, and This are the minimal office cores
+
+Any intelligible determination deploys determinate distinction, coherent holding without collapse or scatter, and determinate standing. From, With, and This are the framework-native names for these gerundive office cores, not three substances or independently standing relata.
+
+**C2 record:** the at-least-three result is **Secured** by retorsion within intelligible determination; **Native**. This route blocks reduction to one or two but does not exclude a fourth. Exactly-three is separately Secured by FND-003's defended-posit route.
+
+**Adjudication status:** current under F2. Richer properties assigned to each office retain their own dependency traces and are not automatically Secured by the minimal-office result.
 
 ---
 

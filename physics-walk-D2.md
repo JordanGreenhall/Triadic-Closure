@@ -86,7 +86,7 @@ This is the deepest D2 result. It is built forward from the foundation, with no 
 
 ### 7.1 The triadicity, deployed under the axis-distinction
 
-Every content of the framework carries the primitive triad: the survey is ternary (From/With/This), invariant, exactly three (retorsion-floor: at least three; ceiling-cap: at most three), qualitatively marked at the mathematical level. This triad is inherited at every step.
+Every content of the framework carries the primitive triad: the survey is ternary (From/With/This), invariant, and qualitatively marked at the mathematical level. The at-least-three floor is Secured by retorsion; exactly-three is separately Secured within the completeness ceiling by the completed defended-posit route. Both claims are Native, and the second is not a formal proof of absolute completeness. This triad is inherited at every step.
 
 The triad never deploys on one axis only. The vertical/horizontal distinction is primordial and forced — it exists *because* **J-involution and ρ-nondegeneracy cannot both hold on the same axis** (the original foundational result that first produced the axis-distinction). Consequently the triad has a vertical and a horizontal deployment, always, in every domain:
 
@@ -117,7 +117,7 @@ Using the framework's own operations: three distinct (orthogonal), unmarked (int
 
 **Registered and sealed:** the three orthogonal interchangeable rule-given-continuous degrees of freedom for the positioning of co-standing relationships are the dimensional structure of **space** — three-dimensional, isotropic, homogeneous, continuous — sealed to the primitive triad, with the threefold causation as its qualitative twin, the dimensionality and the isotropy being respectively the conservation and the flattening of the triad across the J-involutive/ρ-nondegenerate axis-distinction.
 
-This seals, non-anthropically, what ex-framework physics takes as brute empirical input: *why three.* Three because the dimensional structure of space is the horizontal/flattened deployment of the primitive triad, and the triad is exactly three.
+This carries the Secured-within-ceiling exactly-three premise into the dimensional construction without treating registration as warrant: the dimensional structure of space is the horizontal/flattened deployment of the primitive triad. The scoped exact `3+1` result and its independent Registered–Sealed mapping are governed by [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
 
 ## 8. Summary table of D2 results and grades
 

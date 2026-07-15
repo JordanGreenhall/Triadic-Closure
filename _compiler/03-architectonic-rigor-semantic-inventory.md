@@ -4,12 +4,13 @@ Status: corpus-wide adjudicated compiler artifact. Source basis: `architectonic-
 
 ## Adjudication result
 
-Every claim below was checked against later detailed uses of dependency, retorsion, construction, selection, recognition, the completeness diagnostic, and defended posit. No later detailed derivation reverses these methodological claims. Later work does, however, require four clarifications:
+Every claim below was checked against later detailed uses of dependency, retorsion, construction, selection, recognition, the completeness diagnostic, and defended posit. No later detailed derivation reverses these methodological claims. Later work does, however, require five clarifications:
 
 1. framework standing is route-specific: the epistemic state Open, Conjectured, or Secured must travel with the warrant route, its reach, conditions, and debts;
 2. semantic registration is an independent relation to inherited language, not a degree of proof; recognition contributes no securing force to the native framework object;
-3. smuggle control must test both unearned content and unearned demands imported from a rival ontology;
-4. the method is not a license to treat an early formulation as current merely because it was correctly produced by one of these instruments. Corpus-wide claim adjudication remains required.
+3. pure posit and defended posit are categorically distinct: the former claims no warrant, while the latter is a warrant route;
+4. smuggle control must test both unearned content and unearned demands imported from a rival ontology;
+5. the method is not a license to treat an early formulation as current merely because it was correctly produced by one of these instruments. Corpus-wide claim adjudication remains required.
 
 ---
 
@@ -111,6 +112,12 @@ When a claim asserts the exact completeness of a totality by means that belong t
 
 **Disposition:** retained.
 
+## AR-016a — Pure posit is an unwarranted premise category
+
+A pure posit is adopted deliberately as a foundational premise without derivation or defense. It is not Conjectured, not Secured, and not an incomplete defended posit. Record `Category: Pure posit; Warrant: none claimed`, and make every downstream result that spends it explicitly conditional on it. Semantic registration remains independent.
+
+**Disposition:** added by direct present ruling and propagated from F2.
+
 ## AR-016 — Defended posit is the maximal honest warrant for some exact-totality claims
 
 A defended posit is explicit about the completeness ceiling. Its defense requires at least: no exhibited counterexample, reflexive stability under application to itself, and examination showing that apparent rivals are not genuine alternatives.
@@ -135,7 +142,7 @@ This extension does not modify the architectonic instruments. It governs how the
 
 ## Completed adjudication ledger
 
-- AR-001 through AR-017, including AR-012a: searched against later foundational, domain-entry, physics-control, and result usage.
+- AR-001 through AR-017, including AR-012a and AR-016a: searched against later foundational, domain-entry, physics-control, and result usage.
 - Contradictions requiring substantive reversal: none found.
-- Clarifications applied: route-specific epistemic warrant; independent semantic registration; partial-order language; scope of proof-as-retorsion; defended posit as warrant profile; quarantine operation distinguished from Registered–Sealed; content and demand smuggles distinguished; corpus-wide adjudication added as a compiler operation.
+- Clarifications applied: route-specific epistemic warrant; independent semantic registration; partial-order language; scope of proof-as-retorsion; pure posit distinguished from defended posit; defended posit as warrant profile; quarantine operation distinguished from Registered–Sealed; content and demand smuggles distinguished; corpus-wide adjudication added as a compiler operation.
 - Deprecated content preserved as live claims: none.

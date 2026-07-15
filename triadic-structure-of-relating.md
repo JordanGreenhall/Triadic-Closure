@@ -1,37 +1,41 @@
 ---
 title: Triadic Structure of Relating
-type: result
+type: gateway
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-15
 status: current
-confidence: high
 sources:
   - triadic-structure-of-relating-rev-canonical.md
+  - architectonic-rigor-complete.md
 historical_sources:
-  - raw/context/full-conversation-ledger.md
+  - archivist-instructions-foundation-audit.md
 ---
 
 # Triadic Structure of Relating
 
-This is the canonical treatise in the package. It carries the foundation and the walked mathematical object.
+This is the reader and agent gateway to [The Triadic Structure of Relating — Canonical Foundation](triadic-structure-of-relating-rev-canonical.md). The canonical treatise carries the detailed derivations and the later mathematical walk; this page does not duplicate them.
 
-## Mature status
+## F2 foundation record
 
-Status: **Tier 1 canonical foundation**, with live interpretive controls.
+| Claim | Category / framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| Relating is ineliminable and non-composite in the attempted-assembly sense. | **Secured** by retorsion. | Any intelligible denial or assembly of relation from prior unrelated parts. Does not secure primitiveness. | **Native** |
+| Relating is primitive: nothing stands beneath it. | **Pure posit.** No warrant is claimed. | Deliberately adopted foundational premise; downstream results state their conditional dependence on it. | **Native** |
+| A determination requires at least the minimal From / With / This cores. | **Secured** by retorsion. | At-least-three within intelligible determination; does not itself exclude a fourth office. | **Native** |
+| The ultimate office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route. | Closed to self-certification; refuted by one genuine irreducible fourth office. The ceiling is a result, not an unfinished proof task. | **Native** |
 
-This is not a physics result page; it carries the foundation and mathematical-domain object that the physics walk inherits as From. Later physics pages must not use it as a buffet of handles; the whole object constrains every physics step.
+From, With, and This are gerundive offices of one act, not three substances: conditioning-from, coherently holding-with, and arriving-as-this. Richer office properties must retain their own dependency traces; they are not secured merely by repeating these names.
 
-## Live interpretive controls
+## F2 frontier pointers
 
-Use the conversation ledger to preserve corrections around:
+The one live F2 debt is governed only in the canonical treatise:
 
-- [vertical-and-horizontal](vertical-and-horizontal.md);
-- discourse-position / order-of-being vs order-of-knowing;
-- exactly-three as defended posit, not internally absolute derivation;
-- open joints around cardinality, disjunctive bases, and T∞ construction history.
+- the full From -> With coherence-conditioning account: local record §2.4; global record §10.
 
-## Agent use
+This gateway does not duplicate their missing-premise records.
 
-Treat it as Tier 1 canonical. If result modules seem to conflict, check whether they are later patches, current modules, or historical lineage.
+## Downstream use
 
-See also: [corpus-lineage](corpus-lineage.md), [claim-status-vocabulary](claim-status-vocabulary.md), [verification-companion](verification-companion.md).
+Every downstream domain inherits the foundation whole. It may stress-test or refute exactly-three, but empirical fit does not erase the completeness ceiling or add warrant by itself. Exact `3+1` has its own scoped record in [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
+
+See also: [Architectonic Rigor](architectonic-rigor.md), [Claim Status Vocabulary](claim-status-vocabulary.md), [Corpus Lineage](corpus-lineage.md), and [Known Failure Modes](known-failure-modes.md).
