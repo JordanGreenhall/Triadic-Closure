@@ -6,8 +6,9 @@ Status: corpus-wide adjudicated compiler artifact. Source basis: the original `a
 
 Every claim below was checked against later detailed uses of dependency, retorsion, construction, selection, recognition, the completeness diagnostic, and defended posit. No later detailed derivation reverses these methodological claims. Later work does, however, require two clarifications:
 
-1. claim standing and warrant route remain distinct; labels such as “source claim,” “source result,” or “source instrument” are provenance descriptions, not claim-status grades;
-2. the method is not a license to treat an early formulation as current merely because it was correctly produced by one of these instruments. Corpus-wide claim adjudication remains required.
+1. framework standing is route-specific: the epistemic state Open, Conjectured, or Secured must travel with the warrant route, its reach, conditions, and debts;
+2. semantic registration is an independent relation to inherited language, not a degree of proof; recognition contributes no securing force to the native framework object;
+3. the method is not a license to treat an early formulation as current merely because it was correctly produced by one of these instruments. Corpus-wide claim adjudication remains required.
 
 ---
 
@@ -89,11 +90,13 @@ Where established priors admit several structures without forcing one, selection
 
 **Disposition:** retained.
 
-## AR-014 — Sealed recognition permits borrowed names without importing surplus
+## AR-014 — Recognition permits bounded use of borrowed names without importing surplus
 
-Earn the structure in native terms first; only then attach an established name. Theorems, connotations, and associations not independently earned remain sealed off. The recognition is defeasible without undoing the native construction.
+Earn and secure the structure in native terms first; only then attach an inherited name. Theorems, connotations, and associations not independently earned remain quarantined. The recognition is defeasible without undoing the native construction and contributes no warrant to it.
 
-**Disposition:** retained.
+**C2 relation:** this operation yields **Registered** use: a licensed semantic core with explicit legacy surplus quarantined. The older phrase `sealed recognition` names the quarantine operation; it does not mean the registration itself is Registered–Sealed.
+
+**Disposition:** retained with the two uses of seal disambiguated.
 
 ## AR-015 — The completeness diagnostic identifies self-enclosing totality claims
 
@@ -105,7 +108,7 @@ When a claim asserts the exact completeness of a totality by means that belong t
 
 A defended posit is explicit about the completeness ceiling. Its defense requires at least: no exhibited counterexample, reflexive stability under application to itself, and examination showing that apparent rivals are not genuine alternatives.
 
-**Disposition:** retained. “Defended posit” is a warrant profile; downstream sources must state separately the live claim standing they assign to the proposition.
+**Disposition:** retained. Defended posit is a warrant profile. When the defense is complete, the exact claim is epistemically **Secured** within the completeness ceiling. Its semantic registration remains independently Native, Unregistered, Registered, or Registered–Sealed.
 
 ## AR-017 — The instruments form one procedure
 
@@ -127,5 +130,5 @@ This extension does not modify the architectonic instruments. It governs how the
 
 - AR-001 through AR-017: searched against later foundational, domain-entry, physics-control, and result usage.
 - Contradictions requiring substantive reversal: none found.
-- Clarifications applied: standing/warrant separation; partial-order language; scope of proof-as-retorsion; defended posit as warrant profile; corpus-wide adjudication added as a compiler operation.
+- Clarifications applied: route-specific epistemic standing; independent semantic registration; partial-order language; scope of proof-as-retorsion; defended posit as warrant profile; the two uses of seal; corpus-wide adjudication added as a compiler operation.
 - Deprecated content preserved as live claims: none.
