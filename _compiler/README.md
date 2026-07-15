@@ -1,6 +1,17 @@
 # Compiler Workspace
 
-The `_compiler` directory is the semantic-adjudication workspace for the Triadic Closure corpus. Its compilation unit is a semantic object, not a document.
+The `_compiler` directory is the semantic-adjudication workspace for the Triadic Closure corpus. Its compilation unit is a semantic object, not a document. [Agent Execution Rules](../agent-execution-rules.md) is the canonical normalization discipline; this page states only workspace-specific requirements.
+
+## Execution discipline
+
+- Activate exactly one semantic unit and write its opening note before editing.
+- Treat every other unit as read-only except for propagation required by the active result.
+- Collect current, superseded, adversarial, summary, frontier, and downstream sources before adjudication.
+- Run applicable compiler passes one objective at a time. If a pass exposes an earlier-pass defect, return to the earliest affected pass.
+- Do not perform new research to close a corpus debt. Preserve the strongest warranted result and synchronize the local and global frontier.
+- Do not retain compiler inventories, adjudication packets, or reports after their unique work is absorbed.
+- Complete propagation, Pass 11 verification, the fresh-AI test, and a second no-change compiler cycle before claiming fixed point.
+- Record actual commit SHAs and tool scope; intentions and historical verifier output are not completion evidence.
 
 ## Source authority after migration
 
@@ -75,6 +86,6 @@ Every claim currently present in `_compiler` has undergone a corpus-wide adjudic
 
 See this directory directly for the governing inventories, the ten-part Triadic Structure inventory, and the chemistry supplement inventory. [source-manifest.md](source-manifest.md) identifies the two supplemental deposits.
 
-## Current next operation
+## Source-coverage boundary
 
-Continue semantic-object ingestion from the detailed GitHub physics corpus. Use Drive only when a required source is absent from GitHub. The substantive chemistry D1–D4 deposit remains one such absent source and should be migrated before canonical chemistry rendering.
+The substantive chemistry D1–D4 deposit remains absent from the migrated GitHub corpus. Treat its manifest entry as supplemental evidence until the source is recovered and its owning chemistry unit is active. Do not let that absence redirect an unrelated active unit.
