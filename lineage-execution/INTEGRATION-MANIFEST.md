@@ -13,6 +13,8 @@ GitHub controls, frontier packets, result modules, and the supplied current ten-
 
 ## Created
 
+- `lineage-execution/INTEGRATION-MANIFEST.md`
+
 - `lineage-execution/01-physics-registration.md`
 - `lineage-execution/02-amplitude-readout.md`
 - `lineage-execution/03-epsilon-su3-bridge.md`
