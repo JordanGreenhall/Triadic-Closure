@@ -77,7 +77,9 @@ For new substantive work, state:
 
 - repository files read;
 - any Drive sources used because the GitHub source was absent;
-- claim standing and warrant route for each load-bearing claim;
+- exactly one live claim standing for each load-bearing claim;
+- warrant route or profile, conditions and inherited debts, and evidence/test state recorded separately;
+- confidence, workflow state, and disposition where relevant;
 - historical or superseded sources consulted;
 - open joints touched;
 - verification performed;
