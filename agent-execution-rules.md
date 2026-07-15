@@ -170,10 +170,11 @@ Search for concepts and paraphrases, not only exact phrases. Check summaries, st
 
 Keep C2’s axes independent.
 
-- Framework epistemic state: Open / Conjectured / Secured.
+- Framework epistemic state for claims offered for warrant: Open / Conjectured / Secured.
+- Foundational premise category: Pure posit, with no warrant claimed and downstream dependence explicit.
 - Semantic registration: Native / Unregistered / Registered / Registered–Sealed.
 
-Every Secured claim names warrant route, reach, scope, conditions, and debts. Every Registered use states the licensed core and quarantined surplus. Registered–Sealed requires scoped bidirectional content identity. Registration contributes no warrant. Apply [claim-status-vocabulary.md](claim-status-vocabulary.md); `locked actual` is deprecated.
+A pure posit is neither Conjectured nor Secured and is not an incomplete defended posit. Every Secured claim names warrant route, reach, scope, conditions, and debts. Every Registered use states the licensed core and quarantined surplus. Registered–Sealed requires scoped bidirectional content identity. Registration contributes no warrant. Apply [claim-status-vocabulary.md](claim-status-vocabulary.md); `locked actual` is deprecated.
 
 ## 10. Frontier discipline
 
@@ -231,7 +232,7 @@ See [known-failure-modes.md](known-failure-modes.md).
 - Every in-unit claim agrees with the adjudicated current formulation.
 - No obsolete formulation remains in living content.
 - Summaries preserve scope and qualifications.
-- C2 state, warrant, and registration are separate and accurate.
+- C2 epistemic state, pure-posit category, warrant, and registration are separate and accurate.
 - Conditional and idealized results are scoped.
 
 ### Structural checks
