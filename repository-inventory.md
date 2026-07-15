@@ -25,6 +25,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 ## Closed-loop frontier execution
 
 - `lineage-execution/README.md`
+- `lineage-execution/INTEGRATION-MANIFEST.md`
 - `lineage-execution/01-physics-registration.md` through `lineage-execution/13-spectrum-quarantine.md`
 - `native-mass-ruler-proof.md`
 
