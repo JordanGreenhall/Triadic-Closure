@@ -100,7 +100,24 @@ Record evidence/test state, confidence, workflow state, and disposition separate
 
 Before substantive work, read [README.md](README.md), [index.md](index.md), [repository-inventory.md](repository-inventory.md), [corpus-lineage.md](corpus-lineage.md), [supersession-map.md](supersession-map.md), and [agent-execution-rules.md](agent-execution-rules.md).
 
+Normalization activates exactly one semantic unit. Other units remain read-only except for required propagation. The agent must write the unit opening note, collect its complete source set, run applicable passes without mixing objectives, preserve unresolved theory as a synchronized local/global frontier, and reach a second-cycle no-change fixed point before claiming completion.
+
 Do not average conflicting formulations. Do not let a summary override stronger detailed work. When uncertainty survives adjudication, expose the open joint and avoid status inflation.
+
+## Semantic-unit quality gate
+
+A normalization unit is complete only when:
+
+- its authority and canonical formulation are stable;
+- downstream propagation is complete;
+- no living contradiction or obsolete answer remains recoverable;
+- local and global frontiers agree;
+- every retained file has unique semantic, evidentiary, frontier, or memorial value;
+- links, terminology, and navigation resolve;
+- verification was capable of failure and ran against current artifacts;
+- a fresh-AI reading selects the right source and scope;
+- a second full compiler cycle produces no further change;
+- the commits and PR contain only the active semantic unit.
 
 ## Repository quality gate
 
