@@ -30,11 +30,16 @@ Jordan's later ruling: exact `3+1` dimensionality should stand at the **same lev
 - the triadic exactly-three posit;
 - the horizontal flattening of the triad.
 
-Therefore exact `3+1` is **Registered and Sealed**. The registration/seal rests at architectonic/defended-posit strength: the spatial three is the horizontal/With-flattened deployment of the primitive triad, while the `+1` is the oriented From/succession direction. This is stronger than a trajectory lock and weaker/different than a completed formal proof-assistant theorem.
+Its two-axis record is:
+
+- **Framework epistemic state:** Secured.
+- **Warrant:** architectonic / defended-posit route, with the same reach and ceiling as triadic exactly-three plus horizontal flattening. The spatial three is the horizontal/With-flattened deployment of the primitive triad; the `+1` is the oriented From/succession direction.
+- **Semantic registration:** Registered–Sealed for exact `3+1` within that declared scope: the framework content and the properly stripped familiar concept have no remainder in either direction.
+- **Boundary:** this is stronger than a trajectory lock and different from a completed formal proof-assistant theorem.
 
 Safe status phrase:
 
-> Exact `3+1` is Registered and Sealed at the same architectonic strength as the triadic exactly-three and the horizontal flattening: three spatial With-flattened degrees plus one oriented From-succession direction. It is not a locked-actual item, and it is not to be justified by arity-to-dimension or by the D6 stability argument alone.
+> Exact `3+1` is Secured by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and Registered–Sealed within that scope: three spatial With-flattened degrees plus one oriented From-succession direction. It is not a locked-actual item, and it is not to be justified by arity-to-dimension or by the D6 stability argument alone.
 
 ## What the package wording says
 
@@ -66,7 +71,7 @@ When discussing spacetime or dimension:
 
 - Do **not** describe exact `3+1` with the deprecated raw-package status.
 - Do **not** say exact `3+1` is formally derived by the package in the same way a checked theorem is derived.
-- Do say exact `3+1` is Registered and Sealed at the same strength as triadic exactly-three plus horizontal flattening.
+- Do record both axes: exact `3+1` is Secured by the architectonic/defended-posit route at the stated reach, and Registered–Sealed within that scope.
 - Ground the claim in the From/With axis distinction: one oriented succession direction plus three horizontal With-flattened spatial degrees.
 
 See also: [corpus-lineage](corpus-lineage.md), [supersession-map](supersession-map.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [known-failure-modes](known-failure-modes.md), [vertical-and-horizontal](vertical-and-horizontal.md).
