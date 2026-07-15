@@ -40,6 +40,7 @@ Do not confuse:
 - horizontal accumulated layers/nesting;
 - standing-face readout of horizontal history.
 - horizontal address-length, succession count, or layer altitude mislabeled as depth; depth is reserved for vertical coinductive office-decomposition.
+- treating the direct terminology ruling as if it supplied warrant for mutual composition or flattening, or dropping the pure-posit condition from vertical composition.
 
 This collapse causes downstream confusion around J, ρ, composition, and emergence.
 
