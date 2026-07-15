@@ -52,7 +52,7 @@ Classify apparent disagreement before resolving it: contradiction, supersession,
 
 ## Standing discipline
 
-Keep claim standing separate from warrant route. Never upgrade either axis. `Locked actual` is deprecated. Exact `3+1` is governed by [dimension-and-spacetime-status.md](dimension-and-spacetime-status.md), not by package-era cautions, arity-to-dimension shortcuts, or D6 stability alone.
+Keep claim standing separate from warrant route, warrant strength, conditions, evidence state, confidence, workflow state, and disposition. Use exactly one of four live standings: Open, Conjectured, Registered, or Registered and Sealed. Never upgrade any axis. Apply the translations in [claim-status-vocabulary.md](claim-status-vocabulary.md); `Locked actual` is deprecated. Exact `3+1` is governed by [dimension-and-spacetime-status.md](dimension-and-spacetime-status.md), not by package-era cautions, arity-to-dimension shortcuts, or D6 stability alone.
 
 ## No tool theater
 
