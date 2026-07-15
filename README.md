@@ -9,7 +9,7 @@ This repository is the primary execution corpus for Jordan Hall's Triadic Closur
 3. [Repository Schema](SCHEMA.md)
 4. [Corpus Lineage](corpus-lineage.md)
 5. [Supersession Map](supersession-map.md)
-6. [Agent Execution Rules](agent-execution-rules.md)
+6. [Corpus Normalization Execution Rules](agent-execution-rules.md)
 
 ## Current topology
 
@@ -63,3 +63,5 @@ Package-era and superseded files remain for provenance, but may not be treated a
 - ensure all governing links resolve;
 - migrate the remaining substantive chemistry source;
 - keep `_compiler/` synchronized with, but subordinate to, the substantive corpus.
+
+Substantive normalization proceeds one semantic unit at a time through the ordered passes and fixed-point test in [Corpus Normalization Execution Rules](agent-execution-rules.md). A local edit or successful first pass is not corpus completion.

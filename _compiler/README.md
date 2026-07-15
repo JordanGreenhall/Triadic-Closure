@@ -23,7 +23,7 @@ Encountering a claim begins the work. Before retention, revision, or removal, se
 
 ## Required adjudication record
 
-A completed semantic unit should state:
+A completed semantic unit must follow [Corpus Normalization Execution Rules](../agent-execution-rules.md), including its opening record, ordered passes, return rule, propagation, disposition, verification, commit report, and fixed-point test. Its adjudication record should state:
 
 - canonical formulation;
 - warrant route;
@@ -61,4 +61,4 @@ See this directory directly for the governing inventories, the ten-part Triadic 
 
 ## Current next operation
 
-Continue semantic-object ingestion from the detailed GitHub physics corpus. Use Drive only when a required source is absent from GitHub. The substantive chemistry D1–D4 deposit remains one such absent source and should be migrated before canonical chemistry rendering.
+Continue the ordered semantic-unit sequence in [Corpus Normalization Execution Rules](../agent-execution-rules.md). Use Drive only when a required source is absent from GitHub. The substantive chemistry D1–D4 deposit remains one such absent source and must be recovered before canonical chemistry rendering.

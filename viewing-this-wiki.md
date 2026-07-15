@@ -31,7 +31,7 @@ Recommended entry sequence:
 6. `locked-actual-decrement-map.md`
 7. `physics-domain-mature-status.md`
 8. `physics-domain-work-plan.md`
-9. `agent-execution-rules.md`
+9. `agent-execution-rules.md` — corpus normalization execution contract
 
 ## Obsidian
 
@@ -59,7 +59,7 @@ Start at [index.md](index.md). For control and status work, read:
 - [Locked Actual Decrement Map](locked-actual-decrement-map.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
-- [Agent Execution Rules](agent-execution-rules.md)
+- [Corpus Normalization Execution Rules](agent-execution-rules.md)
 
 ## Rule
 

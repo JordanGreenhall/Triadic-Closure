@@ -84,7 +84,7 @@ Route, premises, conditions, empirical inputs, confidence, review state, sealing
 
 ## Agent rules
 
-Before substantive work, read [README.md](README.md), [index.md](index.md), [repository-inventory.md](repository-inventory.md), [corpus-lineage.md](corpus-lineage.md), [supersession-map.md](supersession-map.md), and [agent-execution-rules.md](agent-execution-rules.md).
+Before substantive work, follow the start sequence in [Corpus Normalization Execution Rules](agent-execution-rules.md). That document governs semantic-unit boundaries, the ordered pass cycle, return discipline, propagation, disposition, frontier placement, verification, commits, and fixed-point completion. [Corpus Authority and Supersession](corpus-lineage.md) and [Claim Standing and Warrant](claim-status-vocabulary.md) govern their respective axes.
 
 Do not average conflicting formulations. Do not let a summary override stronger detailed work. When uncertainty survives adjudication, expose the open joint and avoid status inflation.
 
@@ -99,3 +99,5 @@ A migration or refactor pass is complete only when:
 - absent Drive sources are distinguished from migrated files;
 - compiler source records identify whether evidence came from GitHub, Drive, or both;
 - semantic content is not altered merely to repair topology.
+
+A semantic unit is complete only after passes 0–11, committed propagation and dispositions, all verification gates, and a second compiler cycle producing no warranted change. A global release additionally requires the architecture, archive/delete, and repository-wide verification passes in the execution rules.

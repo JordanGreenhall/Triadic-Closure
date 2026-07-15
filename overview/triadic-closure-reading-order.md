@@ -53,7 +53,7 @@ Use these to avoid regression:
 - [supersession-map](../supersession-map.md) — what has been superseded or reinstated.
 - [locked-actual-decrement-map](../locked-actual-decrement-map.md) — deprecated package-era status translation.
 - [known-failure-modes](../known-failure-modes.md) — recurring agent and proof-status errors.
-- [agent-execution-rules](../agent-execution-rules.md) — execution rules for future agents.
+- [Corpus Normalization Execution Rules](../agent-execution-rules.md) — semantic-unit compilation, propagation, verification, and fixed-point discipline.
 [- physics-source-map](../corpus-lineage.md) — curated-to-raw source map for the physics section.
 
 ## Rule of orientation

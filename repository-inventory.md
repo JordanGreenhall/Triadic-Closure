@@ -16,6 +16,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `physics-domain-mature-status.md`
 - `physics-domain-work-plan.md`
 - `known-failure-modes.md`
+- `sm-frontier-closed-loop-execution-structure.md` (supporting SM-frontier protocol)
 - `jordan-decisions.md`
 - `deferred-articulations-map.md`
 - `physics-section-guide.md`
@@ -126,7 +127,7 @@ They are not governing navigation. They should be retained only for their distin
 
 ## Compiler workspace
 
-The complete `_compiler/` inventory is documented in `_compiler/README.md`. It is an adjudication layer, not a substitute for the substantive corpus.
+The complete `_compiler/` inventory is documented in `_compiler/README.md`. It is an adjudication layer, not a substitute for the substantive corpus. Its execution is governed by `agent-execution-rules.md`.
 
 ## Automation and maintenance files
 

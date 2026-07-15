@@ -6,9 +6,9 @@ frontier_items:
   - 3
   - 4
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
-  - overview/sm-frontier-closed-loop-execution-structure.md
+  - sm-frontier-closed-loop-execution-structure.md
   - results/epsilon-su3-bridge-construction.md
   - results/same-kind-carrier-representation-theorem.md
   - results/gauge-structure-result.md
