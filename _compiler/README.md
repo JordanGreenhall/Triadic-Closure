@@ -21,12 +21,18 @@ Encountering a claim begins the work. Before retention, revision, or removal, se
 
 Normal claim-specific authority order:
 
-1. most advanced complete detailed derivation;
-2. later detailed repair or extension;
-3. explicit adjudication or current ruling;
-4. downstream work that necessarily spends and sharpens the claim;
-5. current controls;
-6. summaries and reading guides.
+1. a current direct Jordan ruling, for the exact claim ruled on, until propagated;
+2. the latest surviving explicit repair, supersession, or adjudication, for the exact claim it resolves;
+3. the latest integrated frontier ledger or concept-load ledger, for the exact claim it grades or closes;
+4. the latest complete detailed derivation that incorporates the relevant repair;
+5. portions of an earlier detailed derivation that have not been superseded;
+6. a current frontier, quarantine, or implementation document, only for the boundary it defines;
+7. downstream work that necessarily spends the corrected result;
+8. summaries, status pages, and reading guides;
+9. compiler inventories;
+10. historical failed routes, development ledgers, migration reports, memorials, and reverted commits.
+
+Chronology alone does not settle authority. A direct ruling governs only its exact claim until propagated; after full absorption, the standalone ruling record is provenance.
 
 ## Required adjudication record
 
