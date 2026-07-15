@@ -3,7 +3,7 @@ title: "SM Frontier Item 2: Amplitude / Readout Theorem"
 type: process
 status: pass-for-load
 frontier_item: 2
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
   - Frontier Close Loop Execution/amplitude-readout-theorem.md
@@ -26,8 +26,7 @@ that identity was misposed. Actuality needs no second bridge from weights to eve
 the shape of the possibility space gives the actualization rate/measure,
 and frequency is the many-event view of that actuality. The downstream load is
 Born-rule-level **weighting/selection among registered alternatives**, and the
-Registered weighting measure carries all of it. No current downstream page needs a
-separate native *frequency=weight* theorem.
+Registered weighting measure carries all of it. The supposed separate *frequency=weight* theorem is Dissolved as a smuggled demand; no current downstream page may revive it as an Open condition.
 
 ### Native object
 A normalized `|amplitude|²` / coherence-participation measure on a licensed
@@ -62,12 +61,10 @@ not in a live derivation.
 
 ### Integration rule
 Downstream pages may use `|amplitude|²` / coherence-participation as a native
-weighting measure; must not silently promote a measure to an observed frequency;
-must keep the dim-2 flag; observed decay/transition *rates* as numbers remain
-empirical or comparison unless the local possibility-space/rate structure is derived.
+weighting measure; must preserve the empirical comparison boundary and the dim-2 flag; observed decay/transition *rates* as numbers remain empirical or comparison unless the local possibility-space/rate structure is derived. The frequency=weight demand itself is Dissolved.
 **No grade change** to the realizability-weighting law — it stays Registered, not
 Sealed — but frequency=weight must not be presented as a work frontier.
 
 ## Integration note
 
-This supersedes the earlier load-audit-correction-in-progress state. The old frequency=weight identity remains outside the current load and is now treated as misposed. Downstream uses may use the Registered weighting measure but must not silently promote measure to a local observed rate unless the local possibility-space/rate structure is derived.
+This supersedes the earlier load-audit-correction-in-progress state. The old frequency=weight identity is Dissolved as a smuggled demand and must be struck from downstream caveats. Downstream uses may use the Registered weighting measure but must not silently promote measure to a local observed rate unless the local possibility-space/rate structure is derived.
