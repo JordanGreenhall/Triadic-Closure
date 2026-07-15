@@ -25,7 +25,7 @@ This manifest identifies the two non-wiki deposits supplied for the refactor. It
 - Lines at deposit: 755
 - SHA-256 at deposit: `7be24d5864b14ad1e3dfdc41e314ce9ca7acb54da68b9cbd996304e6a3c2abd7`
 - Role: evidence for chemistry entry, D1–D4, and the dynamics deep dive.
-- Standing rule: the page-level phrase `Registered-candidate` is not a live claim standing. Each chemistry claim must be assigned one of the four live standings after its parents and argument are adjudicated. `Candidate`, confidence, inheritance, and test status are separate metadata.
+- C2 translation rule: the deposit-level phrase `Registered-candidate` assigns neither framework warrant nor semantic registration. Each chemistry claim must receive an epistemic state (Open / Conjectured / Secured, with warrant route and reach where Secured) and, only when an inherited name is in play, a registration state (Native / Unregistered / Registered / Registered–Sealed). `Candidate`, confidence, inheritance, and test status remain separate workflow or administrative metadata.
 
 ### Adjudicated dependency requirements
 
