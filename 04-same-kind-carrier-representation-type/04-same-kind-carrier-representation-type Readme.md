@@ -3,7 +3,7 @@ title: "Frontier Item 4: Same-kind complex carrier and representation type"
 type: process
 status: conditional-pass-registered-carrier-theorem
 frontier_item: 4
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../same-kind-carrier-representation-theorem.md
   - ../../process/sm-frontier-loop-state/04-same-kind-carrier-representation.md
@@ -40,3 +40,8 @@ Dependent pages may use the same-kind complex carrier `C³`, Hermitian pairing, 
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 4 execution](/lineage-execution/04-same-kind-carrier.md). Verdict remains **CONDITIONAL-PASS / Registered, not Sealed**. The execution corrects the provenance of complexness: inherited rule-given ℂ is load-bearing; the cyclic route is corroborative and retains its seal debt.
