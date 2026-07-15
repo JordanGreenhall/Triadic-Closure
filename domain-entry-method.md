@@ -25,7 +25,7 @@ Any domain-specific reconstruction must first clarify its presuppositions archit
 
 1. Name the domain's unconscious version of a presupposition and the smuggle it carries.
 2. Refuse that version as load-bearing.
-3. Rebuild the concept from the framework toolkit: offices, registration, sameness/difference, quantity/quality, J, rho, and the modal triad.
+3. Rebuild the concept from the framework toolkit: offices, registration, sameness/difference, quantity/quality, `J`, `ρ`, and the modal triad.
 4. Ground the rebuild in a concrete example.
 5. Check that the apparent problem dissolves rather than requiring an imported answer.
 6. Deploy the clarified concept from then on.

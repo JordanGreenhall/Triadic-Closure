@@ -11,7 +11,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 5. [Supersession Map](supersession-map.md) — temporary claim-routing packet pending absorption
 6. [Corpus Normalization Execution Rules](agent-execution-rules.md)
 7. [Claim Standing and Warrant](claim-status-vocabulary.md)
-8. [Vertical and Horizontal](vertical-and-horizontal.md)
+8. [Vertical, Horizontal, and Recursion](vertical-and-horizontal.md)
 9. [Known Failure Modes](known-failure-modes.md)
 
 ## Foundational architectonics

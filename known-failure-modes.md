@@ -76,7 +76,7 @@ Do not supply a deferred value by fit, borrowed constant, numerical coincidence,
 
 ### Vertical/horizontal collapse
 
-Vertical means synchronic office-composition/admissibility/`J`; horizontal means diachronic accumulation/realizability/`rho`. Layers and nesting are horizontal. Color is This-flattening/interior triadic distinction. Treating these as interchangeable corrupts downstream arguments.
+Vertical means synchronic office-composition/admissibility/`J`; horizontal means diachronic accumulation/realizability/`ρ`. Layers and nesting are horizontal. Color is This-flattening/interior triadic distinction. Treating these as interchangeable corrupts downstream arguments.
 
 ### Unstable terminology or notation
 

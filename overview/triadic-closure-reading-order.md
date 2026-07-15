@@ -23,7 +23,7 @@ Start here. These pages carry the governing object, the discipline of warrant, a
 1. [Architectonic Rigor](../architectonic-rigor-complete.md) — what each warrant instrument secures, where it stops, and why standing cannot exceed its warrant ceiling.
 2. [The Triadic Structure of Relating](../triadic-structure-of-relating-rev-canonical.md) — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
 3. [claim-status-vocabulary](../claim-status-vocabulary.md) — the five live standings and their distinct warrant routes.
-4. [vertical-and-horizontal](../vertical-and-horizontal.md) — the current control distinction between vertical office-constitution and horizontal accumulation.
+4. [Vertical, Horizontal, and Recursion](../vertical-and-horizontal.md) — the governing distinction between synchronic office-constitution and diachronic accumulation, including `J`/`ρ` placement.
 
 This first layer is not a preface to physics. It is the wiki's root.
 

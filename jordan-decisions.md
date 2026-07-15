@@ -13,14 +13,6 @@ historical_sources:
 
 This page holds temporary direct authorial interrupts that have not yet been fully absorbed. Each ruling controls only its exact claim. During normalization it must be propagated into the semantic unit that owns it and then removed from this page. The completed corpus must not require a separate rulings page to recover current theory or execution discipline. See [Corpus Authority and Supersession](corpus-lineage.md).
 
-## Canonical vertical/horizontal language
-
-Jordan affirmed the distinction:
-
-- vertical: foundational office-composition, admissibility, closure as closure, J;
-- horizontal: monotonic accumulation of actuals, increasingly constrained realizability, ρ;
-- layers/nesting: belongs to the horizontal, despite the intuitive "vertical" feel of cells → tissues → organs → organisms → networks → ecologies.
-
 ## Tool discipline
 
 Jordan formally rejected tool-theater. A tool call used as epistemic support must do real work.
@@ -37,4 +29,4 @@ Jordan ruled that exact `3+1` is Registered and Sealed at the same level of stre
 
 Future agents should treat this wiki as an execution context, not as a pile of summaries. Its control pages are intended to prevent regressions.
 
-See also: [vertical-and-horizontal](vertical-and-horizontal.md), [known-failure-modes](known-failure-modes.md), [supersession-map](supersession-map.md).
+See also: [Vertical, Horizontal, and Recursion](vertical-and-horizontal.md), [Known Failure Modes](known-failure-modes.md), [Supersession Map](supersession-map.md).
