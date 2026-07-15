@@ -3,7 +3,7 @@ title: "Frontier Item 5: Gauge architecture beyond color"
 type: process
 status: split-pass-registered-quarantined
 frontier_item: 5
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../../results/gauge-structure-result.md
   - ../../results/chiral-coupling-result.md
@@ -27,7 +27,7 @@ See [[05-gauge-architecture-beyond-color]]: 5.1 `SU(2)` source, 5.2 `U(1)` sourc
 
 ## Pass condition for the loop agent
 
-Split verdict: 5.1 `SU(2)` source-load is Registered/PASS; 5.2 `U(1)` source-load is Registered/PASS; 5.3 completeness is a defended-posit candidate and non-load-bearing, diagnostic-capped; 5.4 photon/W/Z/mixing is QUARANTINED.
+Split verdict: 5.1 `SU(2)` source-load is Registered/PASS; 5.2 `U(1)` source-load is Registered/PASS; 5.3 completeness is a Defended posit and non-load-bearing, diagnostic-capped; 5.4 photon/W/Z/mixing is QUARANTINED.
 
 ## Fail / smuggle condition
 
@@ -40,3 +40,8 @@ Dependent pages may use `SU(2)` source and `U(1)` From-phase as Registered sourc
 ## Required loop output
 
 Each loop packet must identify: concept, physics capacity, framework use, native derivation target, weaker allowed status, pass condition, fail/countermodel condition, and integration rule.
+
+
+## 2026-07-15 execution
+
+Full-load and adversarial verification: [Lineage 5 execution](/lineage-execution/05-gauge-architecture.md). Existing split grades and quarantines remain controlling.
