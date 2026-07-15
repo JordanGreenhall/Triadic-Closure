@@ -39,7 +39,7 @@ Critical rule: the numbered folders are **frontier items**, not loops. A loop is
 ## Frontier item folders
 
 - [Item 1: Physics registration theorem](01-physics-registration-theorem/01-physics-registration-theorem Readme.md) — PASS; Registered control rule, full downstream map complete
-- [Item 2: Amplitude/readout theorem](02-amplitude-readout-theorem/02-amplitude-readout-theorem Readme.md) — PASS for measured downstream load; frequency=weight remains Open seal gate
+- [Item 2: Amplitude/readout theorem](02-amplitude-readout-theorem/02-amplitude-readout-theorem Readme.md) — PASS for measured downstream load; frequency=weight demand Dissolved; dim-2 caveat travels
 - [Item 3: Epsilon / SU(3) bridge](03-epsilon-su3-bridge/03-epsilon-su3-bridge Readme.md) — native SU(3) Registered, not Sealed
 - [Item 4: Same-kind complex carrier and representation type](04-same-kind-carrier-representation-type/04-same-kind-carrier-representation-type Readme.md) — CONDITIONAL-PASS / Registered carrier theorem
 - [Item 5: Gauge architecture beyond color: SU(2), U(1), completeness](05-gauge-architecture-beyond-color/05-gauge-architecture-beyond-color Readme.md) — split: SU(2)/U(1) Registered source-load PASS; completeness defended posit; EW residuals quarantined
