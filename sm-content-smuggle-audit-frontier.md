@@ -2,7 +2,7 @@
 title: Standard Model Content Smuggle Audit and Cleanup Frontier
 type: overview
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-15
 status: control
 confidence: medium-high
 sources:
@@ -44,8 +44,7 @@ essential-form claims.
 
 ### 1. Physics registration itself: what counts as a physical standing
 
-**Current support:** physics domain constraint as self-transforming / invariant /
-coherent is Registered; math-to-physics registration toward quantum state-space is partly available in the broader theorem pattern.
+**Current support:** the physics registration control rule is Registered and has PASS after a complete downstream claim-ledger map. Its PASS is non-transitive: it registers no mature-physics bundle.
 
 **Smuggle risk:** importing concepts from "traditional physics" (`particle`, `field`, `mass`,`charge`, `interaction`, `decay`) before proving the domain-entry registration into the framework. A common example: we have established that the framework can identify an electron as a kind of object but have not yet established that it carries a negative charge - making an argument based on the the charge of the object (smuggling that in from traditional physics).
 
@@ -53,9 +52,7 @@ coherent is Registered; math-to-physics registration toward quantum state-space 
 
 ### 2. Complex Hilbert / amplitude / Born bridge
 
-**Current support:** realizability weighting is Registered, not sealed. Pairing to
-`|h|^2` is strong via Gleason/frame-function reasoning; frequency-as-weight remains
-Open.
+**Current support:** the realizability weighting measure is Registered; R5/non-contextuality is grounded at its recorded grade; the Born instance is unconditional end-to-end subject to the dim-2 caveat. The former frequency=weight demand is Dissolved as a smuggled demand.
 
 **Smuggle risk:** treating Born probabilities, Hilbert amplitudes, collapse,
 long-run frequencies, and transition rates as fully native. In recent neutron work,
@@ -66,8 +63,7 @@ angle, not a visual charge/flavor angle.
 realizability-to-actuality payments, coupling as `|h(sigma,k)|^2`, gravity F8/F9,
 and transition-cost arguments.
 
-**Cleanup work:** prove or downgrade the frequency=weight bridge and explicitly
-separate amplitude-space geometry from compact readout-state geometry.
+**Cleanup work:** do not revive the Dissolved frequency=weight demand. Preserve the dim-2 caveat, empirical-rate boundary, and amplitude-space versus compact-readout distinction.
 
 ### 3. Internal triadic registration to an alternating 3-form
 
@@ -198,9 +194,7 @@ bridge.
 
 ### 10. Mass-ruler identities and named particles
 
-**Current support:** mass-as-self-closure is Registered; electron bare repeat as
-native ruler is currently marked Registered; proton With-This term `6 pi^5` is
-marked Registered relative to color/mass machinery.
+**Current support:** the native mass-ruler proof is PASS. Haar uniqueness forces mass-linearity in invariant closure measure; self-pairing fixes the point-orbit at one; the licensed electron ruler role is Registered. The canonical proton/electron relation is `6π⁵[1+c(3π⁴)⁻²]`, `3/2≤c≤9/4`; standalone `6π⁵` is only the With–This factor.
 
 **Smuggle risk:** `electron` as elementary/rest-capable/color-trivial/minimal;
 `proton` as three-quark color singlet; `neutron` as `udd`; free-particle mass
@@ -211,9 +205,7 @@ empirical anchors; several are SM explanations.
 **Downstream dependencies:** proton/electron ratio, residual interpretation,
 neutron/proton splitting, decay ledgers.
 
-**Cleanup work:** write a native mass-ruler proof that does not require SM electron
-properties beyond explicitly allowed empirical identity. Treat QCD/Higgs/Yukawa
-decompositions as external comparison until From-With numbering is native.
+**Cleanup work:** discharged by `native-mass-ruler-proof.md` and Lineage 10. Continue to quarantine QCD/Higgs/Yukawa decompositions and keep the exact internal selection of `c` Open/Conjectured as recorded.
 
 ### 11. Decay-product registration / neutrino and antineutrino boundary
 
@@ -262,7 +254,7 @@ manifold recovery and locality⇒order are formalized.
 
 ### 13. Higgs, Yukawa, electroweak breaking, generations, spectrum
 
-**Current support:** Open or conditional in control layer.
+**Current support:** PASS by explicit quarantine; the mature content remains Open, conditional, empirical, or quarantined.
 
 **Smuggle risk:** any use of Higgs potential/value/mass, Yukawa couplings,
 fermion hierarchy, generation count, W/Z/photon sectors, or electroweak mixing as
@@ -286,9 +278,7 @@ machinery is registered. If used, mark as empirical/SM comparison only.
 
 5. **Charge/hypercharge ledger.** Closed by [[08-charge-hypercharge-ledger]] for native charge structure. Exact values `2/3`, `-1/3`, `+1`, `-1`, hypercharge, and `1/6` lattice remain Open/conditional or empirical.
 
-6. **Native mass-ruler proof.** Establish exactly what `electron bare repeat` means
-inside the framework and which electron properties are used. Then restate the
-proton/electron mass work relative to the licensed electron content only.
+6. **Native mass-ruler proof.** Discharged. Use the licensed minimal stable positive self-closure as `m_e=1`; report the complete bracketed proton/electron relation and preserve the external-calibration boundary.
 
 7. **Decay-product registration.** Closed by [[11-decay-product-registration]]:
 decay skeleton Registered; product identities, spectra, rates, antineutrino role,
@@ -311,3 +301,8 @@ physics registration -> amplitude/readout -> epsilon/SU(3) bridge -> spin/chiral
 
 Do not attempt downstream numerical particle claims until the upstream bridge for
 the named objects and their licensed properties is explicit.
+
+
+## 2026-07-15 closed-loop execution
+
+All thirteen ordered lineage packets are complete at [lineage-execution/README.md](lineage-execution/README.md). This updates the operational states without promoting any component beyond its recorded grade.
