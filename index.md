@@ -2,6 +2,10 @@
 
 The corpus is primarily flattened at repository root. [Repository Inventory](repository-inventory.md) is the complete migration inventory; this page is the curated reading and execution index.
 
+## Frontier execution
+
+- [Completed thirteen-lineage closed-loop execution](lineage-execution/README.md)
+
 ## Governing sequence
 
 1. [README](README.md)
