@@ -74,11 +74,11 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 
 ## 6. The gravity program, end to end
 
-- **F1–F2:** the conditioning-network N; the anti-smuggle admissibility rule; step atomicity. **Done.**
+- **M1 / former F1–F2:** the carrier `N`, stage-relative non-importation rule, integer depth, and representational edge atomicity are Registered. Physical clock atomicity and the reciprocal clock bridge are Open.
 - **F4–F7:** the flat tier — c = 1 (the unit), the Lorentzian metric, Aut(N) = SO⁺(1,3). **Sealed** (modulo cited prior materials).
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
-- **F10:** genuine curvature — sign forced by atomicity, geodesic motion and tidal deviation verified by independent simulation. **Core done** (weak-field static 2+1; full-tensor/strong-field ahead).
+- **F10:** the selected reciprocal-clock model exhibits geodesic motion and tidal deviation in weak-field static 2+1 simulation. The framework bridge and sign are Conjectured, not forced by M1; full-tensor and strong-field work remain Open.
 - **F11:** weak-field Einstein equation **derived** (harmonic Green's function → Poisson); the stress-energy tensor structure **derived** (symmetric from From-orientation, conserved from 0.6 — premise (1) closed, the framework-discriminating step); full tensor **forced** via Lovelock, whose inputs are now framework-supplied, with the rigidity step (second-order ⇒ Einstein) borrowed from GR and shown only weak-field. Λ has no framework meaning as yet.
 
 **The arc is real:** from a conditioning-network (the horizontal build of the terminal mathematical object) to Newtonian gravity with 1/r falloff, geodesic motion, tidal curvature, and the Einstein form — with the key steps *computed and independently cross-checked*, not asserted. The remaining work is well-identified: the stress-energy tensor structure (F11 premise 1), the strong-field regime, the full spatial-metric sector, and computing G; plus the standing-state choice flagged in F9. This is a derivation with named open edges, not a closed claim — but the weak-field theory is genuinely in hand.

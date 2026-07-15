@@ -101,7 +101,7 @@ Possible outcomes:
 
 ### 4. Strengthen the full gravity equation beyond weak-field
 
-Current status: weak-field Registered; full Einstein route Registered conditionally.
+Current status: weak-field conditional model Conjectured; full Einstein route Conjectured and conditional.
 
 Why it matters: gravity is a major claimed bridge from framework to mature physics.
 
@@ -116,7 +116,7 @@ Work items:
 Possible outcomes:
 
 - Registered and Sealed for full gravity form if second-order/full tensor/strong-field gates close.
-- Registered for weak-field only if not.
+- Promote the weak-field bridge only after deriving the carrier-depth/proper-time rule rather than selecting it.
 
 ## Priority 2 — Important downstream frontier
 
@@ -191,7 +191,7 @@ Every item below was worked to a defensible grade. Per the operating discipline,
 1. **Realizability-weighting law — Registered, not sealed.** Gate 2 (exact `|ψ|²` from pairing) essentially discharged via Gleason on dim≥3; gate 1 (frequency=weight) is the genuine blocker, equal to the Born-rule-from-frequency problem; gate 3 (non-physics end-to-end) undone. See [realizability-weighting-law](realizability-weighting-law.md).
 2. **F9 standing-state discharge — Registered and Sealed (standing-state choice).** Confirmed: result pages, control layer, and the conserved-flow-vs-adjacency discharge agree. Downstream gravity gates remain separate. See [gravity-and-curvature](gravity-and-curvature.md).
 3. **SU(3) / gauge bridge — Registered, not sealed; residual risk localized.** Math step clean; six of seven bridge properties theorem-or-grounded; the whole seal hinges on one premise (alternating = vanishing-on-coincidence) that excludes the symmetric cubic. See [gauge-structure-result](gauge-structure-result.md).
-4. **Full gravity — weak-field Registered; full Einstein Registered conditional / Conjectured for the nonlinear sector.** Three gates: tensor completeness beyond g00, strong-field regime, and the second-order premise imported from Lovelock (the most promotable). See [gravity-and-curvature](gravity-and-curvature.md).
+4. **Full gravity — weak-field bridge Conjectured; full Einstein Conjectured and conditional.** The prior three gates remain, preceded by the M1 return gate: derive the carrier-depth/proper-time rule and reciprocal clock. See [gravity-and-curvature](gravity-and-curvature.md).
 5. **Stress-energy generality — representational Registered; dynamical Conjectured.** With-mode population is the specific open gate. See [stress-energy-three-offices](stress-energy-three-offices.md).
 6. **Chiral module / hypercharge — criterion Registered; exact module and hypercharge Open/conditional.** Gated on the center-lock premise and the Item 3 alternating gate; generation count kept separate. See [chiral-coupling-result](chiral-coupling-result.md).
 7. **Value/magnitude machinery — program Registered; actual values Open.** Form of a value is fixed and the smuggling routes forbidden; every value needs an explicit `σ,k` and one step/whole calibration anchor that does not yet exist. See [mass-as-self-closure](mass-as-self-closure.md).
@@ -217,7 +217,7 @@ Net: two sealed-or-confirmed (Item 2 sealed; Items 9–11 confirmed Open), sever
 ## Immediate next edit targets
 
 1. `gauge-structure-result.md` — preserve the ledger-claimed SU(3) closure, but mark it as requiring adversarial proof-audit before Registered-and-Sealed use.
-2. `gravity-and-curvature.md` — distinguish weak-field Registered from full Einstein conditional/open gates.
+2. `gravity-and-curvature.md` — keep the conditional weak-field model distinct from a Registered framework bridge and from the full Einstein open gates.
 3. `realizability-weighting-law.md` — preserve Registered-not-sealed status and list the three gates.
 4. `physics-walk-d1-d5-consolidated.md` — update open frontier list: F9 standing-state no longer remains; SU(3 audit/gravity/value/generations remain.
 5. `chiral-coupling-result.md` and `quark-lepton-split.md` — mark as Registered, not sealed, where they depend on unresolved exact gauge/chiral-module issues.

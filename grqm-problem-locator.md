@@ -175,8 +175,8 @@ divergent.
 
 ## 6. The scoreboard (G4 / `A/4`), in full — what closes and what is owed
 
-**The native horizon (Registered).** Mass is a coherence-fixed-point (self-closure). Push to the
-limit: `dτ/dt ∝ 1/d` (atomicity clock) so `g₀₀ = −(d₀/d)²`; a horizon is where proper advance
+**The native horizon (Conjectured, conditional on the clock bridge).** Mass is proposed as a coherence-fixed-point (self-closure). Push to the
+selected limit `dτ/dt ∝ 1/d` so `g₀₀ = −(d₀/d)²`; M1 representational atomicity does not derive this proper-time rule. A horizon is where proper advance
 halts relative to the exterior, `d→∞` — *total self-closure*. Mass = partial self-closure;
 horizon = boundary of total self-closure. **Flagged as the generative object** — κ, the
 temperature period, the area, and γ=1's role in `A(M)` all read off this one construction.

@@ -25,7 +25,7 @@ Supporting physics instances: [Entering a New Domain](entering-a-new-domain.md) 
 
 ## Mathematical walk and verification
 
-- [Mathematization F1–F2](mathematization-F1-F2.md)
+- [M1 — Formal Representation of Triadic Structure](mathematization-F1-F2.md)
 - [Mathematization F4–F7](mathematization-F4-F7.md)
 - [Mathematization F8 — completed](mathematization-F8-done.md)
 - [Mathematization F9 — completed](mathematization-F9-done.md)

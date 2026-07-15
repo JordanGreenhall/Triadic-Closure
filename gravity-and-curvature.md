@@ -46,7 +46,7 @@ Status: **Registered** for weak-field gravity and the framework meaning of curva
 
 Worked as Item 4 of [physics-domain-work-plan](physics-domain-work-plan.md). The grade splits by regime.
 
-**Weak-field, static `g00` sector — Registered.** The coherence-participation gradient (F8) integrates to the Newtonian potential, and F9's linear conditioning-degree tilt reproduces the weak-field geodesic deflection. This regime is securely Registered (not claimed sealed, since `G` is uncomputed).
+**Weak-field, static `g00` sector — Conjectured as a framework bridge.** The selected reciprocal-clock model lets the coherence-participation gradient integrate to a Newtonian potential and reproduces weak-field geodesic behavior. Canonical M1 does not derive the bridge from carrier depth to `dτ/dt ∝ 1/d`, so the simulations support the conditional model without registering the framework identification. `G` is also uncomputed.
 
 **Full Einstein form — Registered conditional, not Sealed.** Three gates remain open and none is closed this session:
 

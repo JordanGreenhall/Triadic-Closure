@@ -1,5 +1,7 @@
 # The Gravity Asymmetry: Curvature from the Coherence-Participation Gradient
 
+> **M1 return notice (2026-07-15).** The participation-gradient construction remains a useful conditional model, but its identification with spacetime curvature spends the reciprocal clock bridge `dτ/dt ∝ 1/d`, which M1 does not derive. The framework bridge is therefore Conjectured pending M4; the weak-field computations do not by themselves close it.
+
 The last owed gate of the gravity walk. Gravitational curvature is the anisotropic re-weighting of a standing's realizable-next null directions by the surrounding coherence-participation gradient. It integrates to exactly metric curvature — the harmonic 1/r potential and the traceless tidal structure of the F11 weak-field result — not merely a drift. Dilation and curvature are cleanly separated, each grounded in a distinct source.
 
 ---

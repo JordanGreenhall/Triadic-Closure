@@ -1,15 +1,17 @@
 # Mathematizing the Flat Substrate: F4 (c as metric identity), F5 (sum-of-squares), F6 (Lorentzian signature), F7 (the Lorentz group)
 
-### Second computation of the gravity-mathematization survey, building on F1–F2 (the conditioning-network N, the anti-smuggle admissibility rule, step atomicity). This tier establishes the flat metric and proves the owed result: the admissible re-couplings of N are exactly the Lorentz group. Tags: **[proved]** (derived here), **[forced-prior]** (cited), **[argued]** (words, not full proof), **[open]** (gap). The discipline of F1.2 (P2) is in force: every quantity must be definable from N's intrinsic data; rate/density are banned.
+> **M1 return notice (2026-07-15).** This document is awaiting the M2 adjudication. Its inherited identification of carrier depth with time, directed address-separation with symmetric space, and a carrier edge with a physical atomic step is not supplied by canonical M1. Consequently its flat-metric and Lorentz conclusions are not current proofs merely by inheritance; each bridge must be re-established in M2/P4/P5.
+
+### Second computation of the gravity-mathematization survey, building on the conditioning carrier `N`. Historical tags such as “proved” below are provenance until the M2 re-adjudication assigns live standings.
 
 ---
 
 ## 0. Inherited from F1–F2
 
 - **(N)** The conditioning-network: nodes = standings (individuated by address/lineage), edges = single one-way turn-overs (conditionings). Background-free.
-- **Depth** = address-length = the From-count (oriented, discrete, atomic — F2). The temporal substructure.
-- **Address-separation** = minimal connecting-chain length = the With-count (symmetric). The spatial substructure; three-fold by the flattening (F3, taken as established: floor-and-ceiling three carried through the With-flattening).
-- **(P2)** Admissibility rule: a quantity is admissible iff definable from N's intrinsic data (addresses, edges, node-content, ρ, conservation). Rate/density banned; coherence-participation and the two counts admitted.
+- **Depth** = finite address-length, an oriented integer carrier grading. Its physical-time reading is Open here.
+- **Directed reachability** = minimal directed chain length where a path exists; it is generally asymmetric. A symmetric adjacency distance requires the declared selection of forgetting orientation, and its spatial reading is Open here.
+- **M1-native quantities** must be definable from `N` plus living inherited structure. Primitive background rate/density is unavailable at this grade; later derived rates and densities are permitted after their measures are earned. A scalar coherence-participation functional is not inherited from M1 and must be constructed in M3.
 - **Node-content:** offices (0.1), **J** = involutive polarity, orientation-reversal, J²=id (0.2, Treatise §7.2), the two sectors (0.3), the **pairing** = non-degenerate, J-compatible, bi-additive (0.4).
 
 ---

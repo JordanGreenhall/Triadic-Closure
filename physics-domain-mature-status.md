@@ -70,8 +70,8 @@ The physics walk must remain framework-grounded.
 | Realizability-weighting law | Registered, not sealed | Universal normalized coherence-participation law; Born/Boltzmann as instances; ledger also uses it as the precise tool for coupling constants as `|h(σ,k)|²` overlaps. | Adjudication (2026-06-21, Item 1): gate 2 (exact |ψ|² from pairing) essentially discharged via Gleason on dim≥3; **gate 1 (frequency=weight) is the genuine blocker** = Born-rule-from-frequency; gate 3 (non-physics end-to-end) undone. See [realizability-weighting-law](realizability-weighting-law.md). |
 | F8 coherence-participation functional | Registered | Constructed, checked, Gleason uniqueness cited for dim >= 3. | Dimensional condition remains a caution; F9 supplies the standing-vector map. |
 | F9 standing vector / degree tilt | Registered and Sealed for standing-state choice; Registered for downstream use | Ledger later discharges the conserved-flow vs bare-adjacency choice: σ is the amplitude of the conserved accumulated standing; adjacency is a non-conserved growth mode and is disqualified by 0.6. | The standing-state choice is no longer a live soft spot. Downstream curvature/full-gravity gates remain. |
-| Gravity weak-field curvature | Registered | F10/F11/gravity-asymmetry demonstrate weak-field geodesic/tidal/Poisson structure computationally. | Strong-field, nonlinear regime, full spatial metric sector, and exact G remain Open. |
-| Full Einstein equation | Registered conditional; Conjectured for nonlinear sector | Weak-field Poisson/curvature line is strong; ledger later closes the old symmetric conserved rank-2 source premise structurally. | Adjudication (2026-06-21, Item 4): three open gates — tensor completeness beyond g00, strong-field/nonlinear regime, and **the second-order premise being imported from Lovelock rather than derived (the most promotable gate: derive it from a framework closure-order bound)**; plus exact `G`. See [gravity-and-curvature](gravity-and-curvature.md). |
+| Gravity weak-field curvature | Conjectured as a framework bridge | Conditional simulations reproduce geodesic/tidal/Poisson behavior after selecting the reciprocal clock rule. M1 does not derive carrier-depth → proper-time or `dτ/dt ∝ 1/d`. | Clock bridge, strong-field/nonlinear regime, full spatial metric sector, and exact G remain Open. |
+| Full Einstein equation | Conjectured, conditional | Weak-field conditional modeling and a tensor-rigidity route orient the result; the unearned clock bridge already blocks Registered standing before tensor completeness is considered. | Additional open gates: tensor completeness beyond g00, strong-field/nonlinear regime, the second-order premise, and exact `G`. See [gravity-and-curvature](gravity-and-curvature.md). |
 | Stress-energy as three offices | Registered structural / representational | Pressure-tested correction survives: From = transport/flux, This = energy/closure, With = pure relational stress as independent covariant signature-classes. | Adjudication (2026-06-21, Item 5): representational availability Registered; dynamical population Conjectured, with **the With-mode (pure relational stress) the specific unproven gate**. Promote by exhibiting a network configuration with a nonzero framework-interpretable With-component. See [stress-energy-three-offices](stress-energy-three-offices.md). |
 | Λ structural meaning | Registered | Reflexive closure gives metric-proportional, positive w=-1 form. | Magnitude Open; w=-1 complete-closure argument is structural, not explicit dynamics. |
 | Mass as self-closure | Registered | Strong framework account of mass nature and m:p:E ratios. | Absolute mass values and generation mass tower Open. |
@@ -94,7 +94,7 @@ The physics walk must remain framework-grounded.
 - Exact `3+1` as Registered and Sealed.
 - Boson/fermion essence and Pauli/Bose holding.
 - Propagation/invariant velocity and Lorentzian metric, with the named external theorem note.
-- Weak-field gravity arc up to Poisson/geodesic/tidal curvature.
+- Conditional weak-field gravity model up to Poisson/geodesic/tidal behavior; framework registration remains Open at the clock bridge.
 - Mass-as-self-closure as nature/ratio, not values.
 
 ### Important and ill-supported or not yet sealed
@@ -121,7 +121,7 @@ These matter, but they should not be allowed to distract from the upstream gates
 
 The physics work is no longer a single forward reconstruction. It is a partially mature domain program with a strong framework-grounded spine and several explicit hinges.
 
-The spine is real where it stays at essential-form level: domain entry, time/space/internal distinction, boson/fermion, propagation/c, Lorentzian metric, mass, and weak-field gravity. The highest-risk overstatements are where result pages jump from a strong essential form to a mature Standard Model or full-GR form without proving the bridge.
+The spine is real where it stays at earned essential-form level. The weak-field gravity simulations are conditional evidence, not a Registered framework bridge, until the clock rule is derived. Other high-risk overstatements occur where result pages jump from an essential form to a mature Standard Model or full-GR form without proving the bridge.
 
 The next work should therefore be hinge-first, not result-first: seal or downgrade the few gates that carry the most downstream load.
 
