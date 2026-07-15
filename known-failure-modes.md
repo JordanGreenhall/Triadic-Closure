@@ -74,4 +74,20 @@ The conversation shows that earlier docs often contain good work in obsolete fra
 
 The full conversation is a lineage source, not a final document. Use it to understand decisions, not to quote every provisional statement as doctrine.
 
+## 9. Execution-discipline collapse
+
+Do not:
+
+- activate the corpus as a whole or bounce among nearby semantic units;
+- edit a downstream file beyond the propagation required by the active unit;
+- infer absence from a partial search or begin adjudication before collecting current, superseded, adversarial, summary, frontier, and downstream sources;
+- improvise theory to close a normalization debt;
+- mix authority, semantics, structure, disposition, and readability in an opaque pass;
+- claim completion before propagation, real verification, the fresh-AI test, and a second no-change compiler cycle;
+- retain duplicate reports or inventories after their unique work is absorbed;
+- archive or delete before checking unique semantic, evidentiary, frontier, and memorial value;
+- report a mutation, commit, PR, or external action that the returned state did not confirm.
+
+Use the one-unit loop and pass constraints in [agent-execution-rules](agent-execution-rules.md).
+
 See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [corpus-lineage](corpus-lineage.md).
