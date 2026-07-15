@@ -22,7 +22,7 @@ Start here. These pages carry the governing object and the discipline for claim-
 
 1. [architectonic-rigor](../architectonic-rigor.md) — how claims get standing, what each instrument can secure, and why status cannot be upgraded beyond its route.
 2. [triadic-structure-of-relating](../triadic-structure-of-relating.md) — the canonical foundation: From / With / This, the foundational object, the floor, and the walked mathematical object.
-3. [claim-status-vocabulary](../claim-status-vocabulary.md) — the current status vocabulary: Open, Conjectured, Registered, Registered and Sealed.
+3. [claim-status-vocabulary](../claim-status-vocabulary.md) — the current two-axis epistemology: framework state Open / Conjectured / Secured, and semantic registration Native / Unregistered / Registered / Registered–Sealed.
 4. [vertical-and-horizontal](../vertical-and-horizontal.md) — the current control distinction between vertical office-constitution and horizontal accumulation.
 
 This first layer is not a preface to physics. It is the wiki's root.
