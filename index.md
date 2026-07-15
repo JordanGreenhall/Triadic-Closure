@@ -45,7 +45,6 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
-- [Jordan Decisions](jordan-decisions.md)
 
 ## Physics walk, propagation, and spacetime
 
@@ -92,6 +91,7 @@ The substantive chemistry D1–D4 source deposit has not yet been migrated to re
 
 ## Historical and provenance
 
+- [Jordan Decisions](jordan-decisions.md) — direct-ruling provenance; rulings absorbed into dedicated living pages
 - [Cover Letter](cover-letter.md) — historical package framing
 - [Phi Forward Reconstruction](phi-forward-reconstruction.md) — heavily superseded package reconstruction
 - [Neutron Consideration](neutron-consideration.md) — partially superseded by the later flavor/mark-metric result
