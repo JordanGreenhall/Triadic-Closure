@@ -1,9 +1,9 @@
 ---
 title: "Frontier Item 1: Physics registration theorem"
 type: process
-status: non-pass-pending-downstream-map
+status: pass
 frontier_item: 1
-updated: 2026-06-25
+updated: 2026-07-15
 sources:
   - ../physics-registration-theorem.md
   - ../../results/domain-entry-method.md
@@ -22,7 +22,7 @@ None.
 
 ## Actual load in current framework
 
-Registration control for every later use of particle, field, mass, charge, interaction, decay, gauge, amplitude, and spacetime language.
+Registration control for every later use of particle, field, mass, charge, interaction, decay, gauge, amplitude, and spacetime language. The formerly missing full downstream map is complete in [the Lineage 1 execution packet](../../lineage-execution/01-physics-registration.md).
 
 ## Pass condition for the loop agent
 
@@ -34,7 +34,7 @@ FAIL if “physical” means merely actual/standing-actual as opposed to mathema
 
 ## Integration rule
 
-Only after PASS may dependent pages use this item as compact upstream state. Until PASS, dependent pages must mark uses as empirical, mathematical comparison, conditional, Open, or quarantined according to the exact concept-load ledger.
+PASS is now established for the control load. Dependent pages may use Item 1 as compact upstream control, but the PASS registers no mature-physics bundle; property-by-property grading and all local conditions remain mandatory.
 
 ## Required loop output
 
