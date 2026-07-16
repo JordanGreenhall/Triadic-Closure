@@ -231,23 +231,18 @@ as the catenation-maximizer = carbon.
 
 ---
 
-## 3. The general handoff mechanism (the prize)
+## 3. The proposed handoff generalization
 
-Exhibited once, therefore statable:
+This deposit exhibits one proposed physics→chemistry handoff and motivates a conjecture:
 
 > **The successor domain inhabits the residue the predecessor's closure did not
 > consume, and its D7 element is the one that maximizes the successor's recursion.**
 
 - physics' charge-closure leaves the **shell-edge**; chemistry works it; **carbon**
-  maximizes catenation (its D3).
-- Forward prediction (recognition, no load): chemistry's closure (stable molecule)
-  leaves a **reactive/configurational/informational** residue; **biology** inhabits
-  that; and carbon's catenation is *why* that residue is rich enough to carry a
-  further domain.
+  is proposed as maximizing catenation (its D3);
+- the biology projection remains recognition with no load-bearing use.
 
-The cascade is not a metaphor across levels; it is **one mechanism**, now watched
-firing across one full gate. [Recognition strength; the mechanism-statement is
-Registered-candidate as the generalization of this single instance.]
+**F4 boundary:** one proposed instance cannot secure or semantically register a universal handoff law. The general statement is **Conjectured** and **Unregistered**. The generic F4 result is narrower: D7 selects a D6-persisting ground under the characteristics required by an exhibited successor boundary; whether a gate fires, which ground is selected, and whether “residue” or “recursion-maximization” describes further gates are domain-specific.
 
 ---
 
@@ -285,7 +280,7 @@ Registered-candidate as the generalization of this single instance.]
 | D7: octet-midpoint = 4; rival eliminations; carbon by criterion | Registered-candidate |
 | D7: geometry family per partner-count (repaired) | Registered-candidate (conditional on partner-identity) |
 | D7: four engageable edges (hybridization payoff) | Conjectured-strong (magnitude) |
-| general handoff mechanism (residue-inhabiting; D3-maximizer) | Registered-candidate (as generalization of one instance) |
+| general handoff mechanism (residue-inhabiting; D3-maximizer) | Conjectured; Unregistered as a universal rule (one proposed instance) |
 | whole arc | in-session; NOT wiki-standing; awaits full adversarial audit + sign-off |
 
 ---
