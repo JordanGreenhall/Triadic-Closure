@@ -71,7 +71,7 @@ Physics inherits the certified mathematical gate-package under a proposed physic
 
 ## 7. Reflexive inheritance
 
-A domain does not discard its standing ground when it begins. Certified prior distinctions remain binding at their inherited grades, conditions, and debts. The successor boundary selects; it does not add. Whole-ground inheritance forbids contradiction or silent loss, but does not require every inherited feature to be active in every successor content.
+Given an exhibited gate, a domain does not discard its standing ground when it begins. Certified prior distinctions remain binding at their inherited grades, conditions, and debts. The successor boundary selects; it does not add. Whole-ground inheritance forbids contradiction or silent loss, but does not require every inherited feature to be active in every successor content.
 
 This means that independently established downstream success may support the foundation upward along the dependency trace, but it cannot erase the totalization ceiling, extend the defended-posit warrant beyond intelligible determination, or substitute empirical fit for the defense profile.
 
