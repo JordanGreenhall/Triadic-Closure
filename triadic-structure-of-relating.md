@@ -71,6 +71,16 @@ Completion does not entail relative stability, D6 persistence, or D7 passability
 
 The M1 record does not establish D2 collapse, orientation-generated counting, integers, modules, continuum, constitutive involution, terminality, physics, or chemistry. Those require their own units.
 
+## M2 symmetric-holding record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| A symmetric, role-free holding does not register which-position identity or position-order merely by being symmetric. | **Secured by dependency** within the M1 boundary. | Exchange invariance removes label- and role-dependent distinctions. It establishes no ordered count from symmetry alone. | **Native** |
+| A symmetric holding has no arity at all. | **Open; former “collapse theorem” withdrawn.** | The previous proof confused absence of labels with absence of every structural multiplicity invariant. M1’s unmarked dyad already shows internal two-ness without a privileged pole. | **Native** |
+| Unordered cardinality can be constructed inside the selected mathematical boundary. | **Open.** | No current admissible basis or construction distinguishes symmetric two-occupancy from three-occupancy without importing count; no impossibility theorem excludes such a construction. | **Native** |
+
+“Plurality without count” now means plurality without an **earned** unordered count at this grade. It does not mean proven absence of arity. Orientation-generated ordinal counting belongs to M3.
+
 ## Foundation frontier pointers
 
 The one live F2 debt is governed only in the canonical treatise:
