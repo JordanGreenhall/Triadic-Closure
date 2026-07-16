@@ -123,7 +123,7 @@ A symmetric, role-free holding of identically characterized positions registers 
 **Evidence:** no current verifier check tests the retracted claim; V1 concerns observation-free plain ternary coalgebras and cannot be transferred to symmetric holdings.
 
 ## TSR-109 — Finite oriented chains unlock additive counting and integer grading
-Endpoint-bounded oriented chains distinguish identically characterized positions by relational role. Their finite positive order-characters compose by concatenation; formal-difference completion gives an additive group with inverse by swapping difference roles.
+Endpoint-bounded oriented chains distinguish identically characterized positions by relational role. Their finite linear-order isomorphism classes compose by tag-free concatenation into a commutative cancellative semigroup; formal-difference completion gives an additive group with inverse by swapping difference roles.
 
 **Adjudication:** retained with three delimitations. Orientation works here together with finite endpoint structure and is not a universal position-individuator. V4/V5 are finite-range evidence for explicit models, not the warrant for the construction or quotient. M3 does not construct a completed `ω` object.
 **Framework standing:** Secured by construction for finite-chain role-distinction and additive positive order-characters; Secured by construction plus the standard group-completion theorem for the additive integer group.
