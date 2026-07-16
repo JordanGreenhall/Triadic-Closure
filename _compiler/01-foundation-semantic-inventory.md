@@ -1,6 +1,6 @@
 # Foundation Semantic Inventory — Provisional Cross-Source Index
 
-Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; FND-006 and FND-009 through FND-009a are adjudicated by F3; all other entries retain their stated provisional status. This file is not canonical theory.
+Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; FND-006 and FND-009 through FND-009a are adjudicated by F3; FND-007 and FND-011 through FND-013 are adjudicated by F4; all other entries retain their stated provisional status. This file is not canonical theory.
 
 ## Authority and scope
 
@@ -84,9 +84,11 @@ Each office is composed through the other two: From is the relating of With and 
 
 ## FND-007 — Modal triad
 
-The offices articulate admissibility, realizability, and actuality as readings of one relating rather than detachable ontological layers.
+The offices articulate admissibility, realizability, and actuality as nested readings of one relating rather than detachable ontological layers. From opens the boundary of what may enter; With holds what is realizable given all that stands; This is the determinate actual standing.
 
-**Adjudication status:** pending full review, especially probability and actualization work.
+**C2 record:** **Secured by construction** from the office cores, closure, and the standing-conditioned field, conditional on those inherited records. The inherited modal names are **Registered** over these cores. Possible-worlds ontology, probability or chance weighting, latent substance, and occurrence as an additional metaphysical mode remain quarantined.
+
+**Adjudication status:** current under F4. Probability and actualization-weighting claims receive no warrant from this registration.
 
 ---
 
@@ -127,6 +129,38 @@ At turnover the office-kind basis registers the triad as marked, while the unit-
 Claim standing must be preserved exactly. Warrant-route terms such as forced, recognition, selection, retorsion-secured, checked, argued, or defended posit do not automatically determine standing.
 
 **Adjudication status:** pending reconciliation of all nonstandard grades and later status controls.
+
+---
+
+## FND-011 — Domain boundary and conditional bootstrap
+
+A domain boundary is an actual With whose determinate content is an inclusion/exclusion rule. Given that boundary, the triad can run under boundary-plus-triad; if D1 is occupied, a boundary-conditioned distinction completes as closure.
+
+**C2 record:** boundary and conditional bootstrap are **Secured by construction**; **Native**. The full positive gate transition from standing ground to boundary-With remains **Conjectured** because the peer-level framework-native From→With trace is open. Neither a boundary nor D1 occupancy is forced.
+
+**Adjudication status:** current under F4.
+
+---
+
+## FND-012 — Whole-ground inheritance
+
+A successor inherits the standing ground whole as constraint: every certified distinction remains binding at its inherited grade and debt. A boundary selects; it does not add.
+
+**C2 record:** **Secured by dependency**; **Native**. “Whole” forbids contradiction, silent loss, and warrant upgrade. It does not require every inherited feature to be actively instantiated or spent in every successor actual. Expenditure is phase-local and must be shown.
+
+**Adjudication status:** current under F4.
+
+---
+
+## FND-013 — D-series form, dependency, and occupancy
+
+The D-series is a selected path-schema at recognized sufficiency, not an inventory. If a phase is occupied, its office-constrained form is fixed; the stated dependencies are strict; occupancy is never forced.
+
+**C2 record:** phase-form and adjacency are **Secured by construction**; strict order is **Secured by dependency**; **Native**. Reach excludes per-domain occupancy, richness, and completeness over possible phases. Occupancy is certified only by construction and backward trace.
+
+**Registration record:** the phase labels are Native. The inherited technical names transformation, invariant, field, and persistence are **Registered** only over the bounded F4 cores recorded in [Domain Entry Method](../domain-entry-method.md); their mature mathematical and physical surplus remains quarantined.
+
+**Adjudication status:** current under F4.
 
 ---
 
