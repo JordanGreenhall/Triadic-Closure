@@ -47,7 +47,7 @@ Dissolution of a phantom problem is useful audit evidence, not framework warrant
 
 A domain entry record must identify separately:
 
-- **standing ground** — the prior closure being spent, with its grades, conditions, and debts;
+- **standing ground** — the D6-persisting closure proposed for gate-ground use, with its grades, conditions, and debts; closure alone does not supply persistence or passability;
 - **gate-From** — the proposed bridge from that ground;
 - **boundary-With** — the actual inclusion/exclusion rule;
 - **domain** — what unfolds under that rule;
