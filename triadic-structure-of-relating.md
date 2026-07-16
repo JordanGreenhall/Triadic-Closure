@@ -2,7 +2,7 @@
 title: Triadic Structure of Relating
 type: gateway
 created: 2026-06-21
-updated: 2026-07-15
+updated: 2026-07-16
 status: current
 sources:
   - triadic-structure-of-relating-rev-canonical.md
@@ -57,6 +57,19 @@ The governing operating page is [Domain Entry Method](domain-entry-method.md).
 | Actual and standing are readings of one closure. | **Secured by construction.** | Arrived aspect versus availability for further determination; neither is a second closure-kind. | **Native** |
 
 Completion does not entail relative stability, D6 persistence, or D7 passability. A stride is an occurrence of the same closure-form, and concrete mathematical, physical, domain-scale, or atomic closures are occupancies or species whose own constructions remain required. The foundation neither registers `substance` nor supplies warrant for self-closure dynamics.
+
+## M1 mathematics gate record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| The held/registered seam is available wherever a basis holds determinate contents. | **Secured by dependency.** | A basis registers character without recovering the full individuation of what it holds. | **Native** |
+| The seam-cut From and boundary-With exhibit an entry into mathematics. | **Secured by construction** for this gate; the boundary-content is a licensed selection. | Admits content exactly when identity-conditions are exhausted by registration. Excludes event-particularity and internal designation; retains vertical form, conditionedness, and orientation. Does not close the generic From→With joint. | **Registered** as **mathematics** for this mapped core; ordinary mathematical surplus is quarantined. |
+| Isomorphism-invariance, portability, and the lineage-event / lineage-structure distinction follow from the selected boundary. | **Secured by dependency** to the displayed traces. | Event-history is excluded; registrable order-type remains. Portability means the gate is available from any holding, not that every mathematical theory is derived. | Registration inherited from the boundary record; no additional legacy content licensed. |
+| D1 registration is boundary-registration; internal bases begin only after first content. | **Secured by construction** within the exhibited gate. | Prevents an internal mathematical basis from being imported before D2. | **Native** |
+| The first mathematical content is an unmarked dyad plus distinct orientation-form. | **Secured by construction** within the selected boundary. | Internal two-ness, mutual exclusion, identical position-character; the cut and With-held multiplicity block collapse. Labels are scaffolding and every construction must be exchange-equivariant. | **Native** |
+| “Weak discernibility” names the dyad’s relational discernment without monadic difference. | Framework core **Secured** by the preceding construction. | Only the stated irreflexive discernment mapping is licensed. | **Registered**, not Registered–Sealed; further legacy implications are quarantined. |
+
+The M1 record does not establish D2 collapse, orientation-generated counting, integers, modules, continuum, constitutive involution, terminality, physics, or chemistry. Those require their own units.
 
 ## Foundation frontier pointers
 
