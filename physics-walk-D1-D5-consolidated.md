@@ -1,6 +1,6 @@
 # The Physics Walk, D1–D5: Consolidated Re-Walk
 
-### A single consolidated record of the physics reconstruction from D1 through D5, rebuilt after the recognition that the domain boundary shows, at D1, the full triad in four images: one marked (the within-stage J-image) and three flattened (the across-recursion ρ-images — ordering, quantity, quality). This reorders the walk: time, space, and the internal "color"-type distinction are all present in germ at D1, not discovered piecemeal downstream. Earlier walk documents (the D1–D6 walk, the two "as established" documents built on a "mediation carrier") are superseded where they conflict with this. Grades follow the bidirectional seal-test; nothing is locked before D7.
+### A single consolidated record of the physics reconstruction from D1 through D5, conditional on an exhibited physics boundary and occupied phases. At an occupied D1, the F3 construction makes the full triad available in four framework readings: one marked (the within-stage J-image) and three flattened (the across-recursion ρ-images — ordering, quantity, quality). This reorders the walk: time, space, and the internal "color"-type distinction are all present in germ at D1, not discovered piecemeal downstream. Earlier walk documents (the D1–D6 walk, the two "as established" documents built on a "mediation carrier") are superseded where they conflict with this. Grades follow the bidirectional seal-test; nothing is locked before D7.
 
 ---
 
@@ -8,7 +8,7 @@
 
 The prior walk recovered time at D2, space at D2 (as the flattened triad), the internal/charge structure as a late lead (D4), and color via a "mediation carrier" of undetermined dimension (D3, then deferred). Three corrections now drive a cleaner walk:
 
-1. **The four images are present at D1.** Entering any domain, the boundary presents the triad as one marked triad (within-stage, the offices distinct in kind) and three flattenings (across-recursion): the From-flattening (ordering — asymmetric), the With-flattening (quantity/extent — symmetric, interchangeable), the This-flattening (quality/internal distinction — symmetric, non-interchangeable). In physics these are read as **threefold causation** (marked), **time** (From-flattened), **space** (With-flattened), and **internal "color"-type distinction** (This-flattened). (See *Entering a New Domain* §5.5; *Treatise* §7.4a.)
+1. **The four images are available at an occupied D1.** Given an actual boundary and D1 occupancy, the boundary-conditioned triad is available as one marked triad (within-stage, the offices distinct in kind) and three flattenings (across-recursion): the From-flattening (ordering — asymmetric), the With-flattening (quantity/extent — symmetric, interchangeable), the This-flattening (quality/internal distinction — symmetric, non-interchangeable). In physics these are read as **threefold causation** (marked), **time** (From-flattened), **space** (With-flattened), and **internal "color"-type distinction** (This-flattened). (See *Entering a New Domain* §5.5; *Treatise* §7.4a.)
 
 2. **Color is the This-flattening, not a carrier.** The "mediation carrier" framing is dropped entirely. Color is the interior triadic distinction of a closure read across the recursion under the quality (non-interchangeable) basis — symmetric but non-interchangeable. It is present in germ at D1 (every closure carries it) and is not built from a separate carrier of guessed dimension.
 
@@ -18,7 +18,9 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 
 ## D1 — Distinction: the first physical closures, and the four images
 
-**Frame.** The physics domain opens by a gate whose boundary is the threefold domain constraint: a physical content is self-transforming (From), invariant (This — a conserved structure persists), and coherent (With — held in mutual relation). The bare triad runs under this boundary-plus-triad.
+> **F4 control:** the generic D-series secures phase-form and dependency order, not the existence of a physics gate or D1 occupancy. This physics walk must exhibit those domain-specific facts; the familiar existence of physics cannot supply them. Whole-ground inheritance preserves every certified mathematical constraint at its existing grade but does not require every feature to deploy at D1.
+
+**Frame.** This walk proposes a physics boundary whose inclusion/exclusion rule is the threefold domain constraint: a physical content is self-transforming (From), invariant (This — a conserved structure persists), and coherent (With — held in mutual relation). The bare triad runs under this boundary-plus-triad.
 
 **The four images at the boundary.** Before any specific first-This is winnowed, the boundary already presents the triad in its two registers (the deepest D1 fact):
 
@@ -27,7 +29,7 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 - **With-flattened:** **extent** — symmetric, interchangeable. Physics reads this as **space** (the three interchangeable continuous degrees; threeness carried as the flattened image of the marked triad's rigid three).
 - **This-flattened:** **internal distinction** — symmetric, non-interchangeable. Physics reads this as the **"color"-type internal charge**.
 
-All four stand at D1 in germ. The walk's task downstream is not to *discover* them but to mature them (the metric of time/space; the specific internal symmetry).
+Conditional on the boundary, occupied D1, and the owning physics registration records, all four may stand at D1 in germ. The walk's downstream task is then to mature them (the metric of time/space; the specific internal symmetry).
 
 **The first-This (boson/fermion), sealed.** Demanding that all From-characteristics deploy and mutually cohere winnows the minimal self-transformer to essential uniqueness: a ℤ/2-graded coherent coalgebraic fixed-point self-transformer with super-Hermitian pairing over rule-given ℂ, carrying the three intrinsic characteristics (invariant, generator, coupling-slots). Two freedoms survive: value-scale (pre-declared), and the polarity-sector fork (+/−). **Sealed registration: boson = symmetric-mode self-transformer; fermion = antisymmetric-mode self-transformer.** The mode is the *marked* (J-level) distinction. The interior flattened triad (the color-image) is the *ρ-level* structure, carried by every closure — boson or fermion alike. (*Entering a New Domain* §6; bidirectional seal-test run there.)
 
