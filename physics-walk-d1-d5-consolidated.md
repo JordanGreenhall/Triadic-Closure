@@ -24,7 +24,7 @@ It explicitly supersedes the older mediation-carrier framing in `d3-as-establish
 
 ## Current commitments
 
-- Time, space, and color are D1 boundary-images rather than piecemeal downstream finds.
+- Conditional on an exhibited physics boundary, D1 occupancy, and their owning registration records, time, space, and color are read from D1 boundary-images rather than piecemeal downstream finds. F4 supplies no physical registration.
 - Color is This-flattening, not a guessed mediation carrier.
 - Mass is a D5 Lorentzian Casimir, not a D4 germ.
 
