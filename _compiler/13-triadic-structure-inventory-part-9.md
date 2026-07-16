@@ -23,52 +23,60 @@ A provisional terminal object may guide decomposition, but every component must 
 **Claim standing:** Registered method rule.
 
 ## TSR-094 — The mathematics gate follows the held/registered seam
-The gate cuts from held particularity toward basis-registered character.
+The gate cuts from held individuation toward basis-registered character.
 
-**Adjudication:** retained. The seam is framework-forced; the particular domain cut is selected and must remain explicit.
-**Claim standing:** Registered.
+**Adjudication:** retained. The seam is framework-available by dependency; this domain cut is an exhibited construction whose boundary-content is a licensed selection.
+**Framework standing:** Secured by construction for the mathematics entry; generic positive From→With remains Conjectured.
+**Registration:** Native gate structure. The inherited name `mathematics` is Registered only for the mapped boundary core stated in TSR-095; legacy surplus is quarantined.
 
 ## TSR-095 — Mathematical identity is exhausted by registration
-Event-particularity, embodiment, and which-taking are excluded from identity; constitutive vertical form cannot be excluded.
+Event-particularity, which-taking, embodied occurrence, and internal designation are excluded from identity. Constitutive vertical form, conditionedness, and orientation cannot be excluded.
 
-**Adjudication:** retained as the selected mathematical boundary.
-**Claim standing:** Registered within the selected domain boundary.
+**Adjudication:** retained as the selected mathematical boundary. The earlier broad exclusion of lineage, address, or arrival without qualification is rejected: event-history is excluded, not registrable structure or vertical form.
+**Framework standing:** Secured by construction within the exhibited gate and selected boundary.
+**Registration:** `Mathematics` is Registered, not Registered–Sealed. Licensed content: identity exhausted by registration under this boundary. Quarantined surplus: every ordinary mathematical primitive, object, operation, totality, or theorem not separately derived.
 
 ## TSR-096 — Mathematics retains lineage-structure but excludes lineage-event
 Order-type may remain while the particular event-history that instantiated it is excluded.
 
 **Adjudication:** retained.
-**Claim standing:** Registered.
+**Framework standing:** Secured by dependency within the selected boundary.
+**Registration:** No extension of the licensed `mathematics` core.
 
 ## TSR-097 — Mathematical portability follows the universal held/registered seam
-Mathematics takes registered character itself as unit-kind, explaining cross-domain applicability without a universal substance.
+The gate is available wherever a basis holds content because registered character can itself become the unit-kind.
 
-**Adjudication:** retained as framework explanation.
-**Claim standing:** Registered.
+**Adjudication:** retained with scope reduced to gate availability. It does not derive all mathematical theories or show that every domain actively instantiates every mathematical structure.
+**Framework standing:** Secured by dependency to the displayed seam trace.
+**Registration:** No extension of the licensed `mathematics` core.
 
 ## TSR-098 — D1 mathematical registration is boundary-registration
 Internal mathematical bases begin only after the first content.
 
 **Adjudication:** retained.
-**Claim standing:** Registered.
+**Framework standing:** Secured by construction within the exhibited gate.
+**Registration:** Native phase-order claim.
 
 ## TSR-099 — The first mathematical content is an unmarked dyad
-The first cut yields internal two-ness with mutually exclusive but identically characterized positions.
+The first cut yields one content with internal two-ness, mutually exclusive positions, identical position-character, and a distinct retained orientation-form.
 
 **Adjudication:** retained within the selected boundary. No pole is privileged at D1.
-**Claim standing:** Registered.
+**Framework standing:** Secured by construction within the selected boundary.
+**Registration:** Native.
 
 ## TSR-100 — Registered identity does not collapse the dyad
-Identity of registered character does not erase the constitutive cut or multiplicity.
+The boundary governs identity of domain contents; it does not erase the constitutive articulation within the one dyadic content. From supplies distinction and With holds multiplicity.
 
 **Adjudication:** retained.
-**Claim standing:** Registered.
+**Framework standing:** Secured by retorsion and office-construction to the stated non-collapse reach.
+**Registration:** Native. The inherited name `weak discernibility` is Registered only for irreflexive relational discernment without monadic difference; further surplus is quarantined.
 
 ## TSR-101 — Dyad labels are computational scaffolding
 `+/-` or `0/1` labels may not perform load-bearing work; constructions must be exchange-equivariant.
 
-**Adjudication:** retained. This is the background against which the later privileged-value hinge remains open.
-**Claim standing:** Registered control rule.
+**Adjudication:** retained. A construction that changes when the labels are exchanged has spent excluded content.
+**Framework standing:** Secured as a boundary-control consequence.
+**Registration:** Native.
 
 ## TSR-102 — The terminal mathematical closure carries triadic decomposition, `J`, `rho`, and a D7 handoff
 These structures occur at different grades and are not imported as a package.
