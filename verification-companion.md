@@ -40,6 +40,16 @@ V1 proves collapse for observation-free coalgebras of the specific plain functor
 
 Accordingly, executable evidence supports neither the withdrawn “no arity” claim nor a positive unordered-cardinality construction. The exchange-invariance lemma receives its standing from the boundary and dependency trace; unordered cardinality remains Open.
 
+## M3 evidence boundary
+
+M3 concerns finite endpoint-bounded oriented chains, finite positive order-characters under concatenation, and their additive formal-difference completion.
+
+V4 tests finite chains of lengths 2 through 12. It checks that directed successor structure plus an endpoint distinguishes every position and that removing direction leaves exactly the expected mirror identifications. It does not establish that orientation alone distinguishes positions in cyclic, bi-infinite, or otherwise homogeneous structures.
+
+V5 constructs tag-free identical-token chains, checks concatenation and length-character addition, and tests the formal-difference equivalence relation and additive group laws over finite ranges. The check can falsify the implementation. The framework construction and well-defined quotient require the displayed argument and the standard group-completion proof; a passing finite-range test does not supply either warrant.
+
+The M3 executable checks do not construct an empty positive order-character, multiplication, a completed infinite order-type, unordered cardinality, modules, or rational structure. The additive zero class is represented by an equal formal-difference pair and does not settle whether an empty chain stands.
+
 ## Replication
 
 Run:
