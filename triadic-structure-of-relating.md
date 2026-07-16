@@ -44,7 +44,7 @@ The governing terminology is maintained in [Vertical and Horizontal](vertical-an
 | Admissible / realizable / actual as nested office-readings. | **Secured by construction.** | Working modal cores only; probability, weighting, possible-worlds ontology, and extra occurrence-modes excluded. | **Registered** |
 | Domain boundary and bootstrap under boundary-plus-triad. | **Secured by construction.** | Conditional on an actual boundary; no domain or D1 occupancy forced. | **Native** |
 | Positive gate transition from standing ground to boundary-With. | **Conjectured.** | Missing the full framework-native From→With trace. | **Native** |
-| Whole-ground inheritance. | **Secured by dependency.** | Certified constraints remain binding at inherited grades; active phase-local expenditure must still be exhibited. | **Native** |
+| Whole-ground inheritance given an exhibited gate. | **Secured by dependency**, conditional on the gate. | Certified constraints remain binding at inherited grades; active phase-local expenditure must still be exhibited. | **Native** |
 | D-series phase-form and strict dependency order. | **Secured by construction and dependency.** | Form and adjacency only; no occupancy, richness, or inventory claim. | **Native** |
 
 The governing operating page is [Domain Entry Method](domain-entry-method.md).
