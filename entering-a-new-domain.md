@@ -1,3 +1,18 @@
+---
+title: Entering a New Domain — Historical Physics Worked Example
+type: historical
+created: 2026-06-23
+updated: 2026-07-15
+status: historical
+superseded_by:
+  - domain-entry-method.md
+  - triadic-structure-of-relating-rev-canonical.md
+---
+
+> **Historical scope control.** This page preserves the physics worked-example lineage and its unique presupposition clarifications. It is not the governing generic domain-entry method and may not establish current physics standing. The current controls are [Domain Entry Method](domain-entry-method.md) and the canonical treatise, Parts 3 and 8.
+>
+> Three formulations below are retained as provenance, not executable doctrine: (1) “every inherited characteristic must deploy” is superseded by whole-ground inheritance—every certified constraint remains binding, while phase-local expenditure must be exhibited; (2) D1 form is conditional and D1 occupancy is never forced; (3) the boson/fermion “sealed” record uses historical one-axis language and belongs to its physics owner after translation into independent warrant and registration axes. The marked/flattened wording is likewise governed by [Vertical and Horizontal](vertical-and-horizontal.md).
+
 # Entering a New Domain: Architectonic Clarification of Presuppositions
 
 ### A method document, adjacent to *Architectonic Rigor*. It states a discipline for moving into a new domain correctly, and demonstrates it with the worked example of entering physics (this session): the clarification of metric, causation, individuation, and possibility/actuality; the dissolution of conflicts that only existed because of thin unconscious metaphysics; the entry of the From as a whole constraint; the domain constraint and the threefold causation it forces; and the D1 first-This with boson/fermion as sealed registration.
