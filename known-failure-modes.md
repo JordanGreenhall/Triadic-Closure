@@ -83,15 +83,26 @@ Do not:
 
 Use the two-axis record in [claim-status-vocabulary](claim-status-vocabulary.md).
 
-## 8. Regression to earlier lineage
+## 8. Closure-grade collapse
+
+Do not use `closure` as if it already meant stable, persistent, passable, self-maintaining, domain-complete, or physically bound.
+
+- closure: the completed triadic act standing as one;
+- relative stability: the same standing remains intelligible across some variation;
+- D6 persistence: invariant-preservation across an exhibited variation-space;
+- D7 passability: a persisting closure is selected as gate-ground under an exhibited successor boundary.
+
+Actual and standing are aspect-readings of one closure. Strides and concrete domain closures are occurrences or occupancies of the same form, not alternate foundational meanings. The F5 closure record is **Secured by construction within the F2 frame** and **Native**; it supplies no warrant for a particular occupancy or self-closure dynamics.
+
+## 9. Regression to earlier lineage
 
 The conversation shows that earlier docs often contain good work in obsolete frames. Extract provenance carefully; do not restore the old frame.
 
-## 9. Treating the ledger as polished doctrine
+## 10. Treating the ledger as polished doctrine
 
 The full conversation is a lineage source, not a final document. Use it to understand decisions, not to quote every provisional statement as doctrine.
 
-## 10. Execution-discipline collapse
+## 11. Execution-discipline collapse
 
 Do not:
 
