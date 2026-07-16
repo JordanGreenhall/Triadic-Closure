@@ -8,7 +8,7 @@ confidence: medium
 sources:
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
-  - entering-a-new-domain.md
+  - domain-entry-method.md
   - physics-walk-checklist.md
   - three-moves-per-stage.md
   - physics-walk-d1-d5-consolidated.md
