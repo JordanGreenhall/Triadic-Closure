@@ -5,10 +5,13 @@ status: blocked-proof-setup
 frontier_item: 10
 updated: 2026-06-25
 sources:
-  - ../../results/mass-as-self-closure.md
-  - ../../results/mass-derivation-three-faces.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../mass-as-self-closure.md
+  - ../mass-derivation-three-faces.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
+
+
+**Canonical mass-ratio rule.** The complete proton/electron ratio is `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4`. The standalone `6π⁵` is only the exact With–This color-seating factor within that ratio. The bracketed form, positive sign, second-order scale, multiplicative placement, and coefficient bounds are Registered. Only the exact internal selection of `c` remains Open; observation places `c ≈ 1.6076`.
 
 # Frontier Item 10: Native mass-ruler proof
 

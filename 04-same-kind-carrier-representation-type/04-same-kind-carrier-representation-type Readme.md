@@ -6,9 +6,9 @@ frontier_item: 4
 updated: 2026-06-25
 sources:
   - ../same-kind-carrier-representation-theorem.md
-  - ../../process/sm-frontier-loop-state/04-same-kind-carrier-representation.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
-  - ../../results/gauge-structure-result.md
+  - ../04-same-kind-carrier-representation.md
+  - ../03-10-physics-concept-load-pass-ledger.md
+  - ../gauge-structure-result.md
 ---
 
 # Frontier Item 4: Same-kind complex carrier and representation type

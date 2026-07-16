@@ -5,9 +5,9 @@ status: quarantined-until-upstream-machinery
 frontier_item: 13
 updated: 2026-06-25
 sources:
-  - ../../results/gauge-structure-result.md
-  - ../../results/chiral-coupling-result.md
-  - ../../overview/physics-domain-mature-status.md
+  - ../gauge-structure-result.md
+  - ../chiral-coupling-result.md
+  - ../physics-domain-mature-status.md
 ---
 
 # Frontier Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine

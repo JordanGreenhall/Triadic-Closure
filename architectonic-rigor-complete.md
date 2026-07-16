@@ -6,7 +6,6 @@ status: current
 confidence: high
 sources:
   - claim-status-vocabulary.md
-historical_sources:
   - archivist-instructions-foundation-audit.md
 ---
 

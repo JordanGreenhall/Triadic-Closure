@@ -6,10 +6,10 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-item-5
 sources:
-  - results/gauge-structure-result.md
-  - results/chiral-coupling-result.md
-  - Frontier Close Loop Execution/05-gauge-architecture-beyond-color/05-gauge-architecture-beyond-color Readme.md
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
+  - gauge-structure-result.md
+  - chiral-coupling-result.md
+  - 05-gauge-architecture-beyond-color/05-gauge-architecture-beyond-color Readme.md
+  - 02-04-items-2-3-4-status.md
 ---
 
 # SM Frontier Item 5 — Gauge Architecture Beyond Color

@@ -6,11 +6,11 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-item-8
 sources:
-  - process/sm-frontier-loop-state/05-gauge-architecture-beyond-color.md
-  - process/sm-frontier-loop-state/06-spin-helicity-chirality-lift.md
-  - process/sm-frontier-loop-state/07-particle-identity-ledger.md
-  - results/gauge-structure-result.md
-  - results/chiral-coupling-result.md
+  - 05-gauge-architecture-beyond-color.md
+  - 06-spin-helicity-chirality-lift.md
+  - 07-particle-identity-ledger.md
+  - gauge-structure-result.md
+  - chiral-coupling-result.md
 ---
 
 # SM Frontier Item 8 — Charge / Hypercharge Ledger

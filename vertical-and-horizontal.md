@@ -8,8 +8,8 @@ confidence: high
 sources:
   - triadic-structure-of-relating-rev-canonical.md
   - 02-foundational-architectonics.md
-historical_sources:
   - jordan-decisions.md
+historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 

@@ -5,11 +5,11 @@ status: pass-for-machinery-registered
 frontier_item: 6
 updated: 2026-06-25
 sources:
-  - ../../results/chiral-coupling-result.md
-  - ../../results/lorentz-from-recoupling.md
-  - ../../process/sm-frontier-loop-state/06-spin-helicity-chirality-lift.md
-  - ../../process/sm-frontier-loop-state/05-gauge-architecture-beyond-color.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../chiral-coupling-result.md
+  - ../lorentz-from-recoupling.md
+  - ../06-spin-helicity-chirality-lift.md
+  - ../05-gauge-architecture-beyond-color.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
 
 # Frontier Item 6: Spin / helicity / chirality / lift theorem
@@ -24,7 +24,7 @@ Item 5 `SU(2)` lift source; propagation direction; J-sector split; metric/lifted
 
 ## Actual load in current framework
 
-See [[06-spin-helicity-chirality-lift]]: spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity comparison and `σ·p` j=1/2 form, chiral/vectorial criterion, binary handedness, maximal chirality/V-A, and stripped Pauli/Bose holding.
+See [06-spin-helicity-chirality-lift](../06-spin-helicity-chirality-lift.md): spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity comparison and `σ·p` j=1/2 form, chiral/vectorial criterion, binary handedness, maximal chirality/V-A, and stripped Pauli/Bose holding.
 
 ## Pass condition for the loop agent
 

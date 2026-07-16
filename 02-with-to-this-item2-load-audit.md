@@ -9,7 +9,7 @@ source:
   - results/with-to-this-closure.md
 ---
 
-# Item 2 load audit — `results/with-to-this-closure.md`
+# Item 2 load audit — `with-to-this-closure.md`
 
 Question: is `with-to-this-closure.md` asking Item 2 / Born-rule structure only to assign/compare weights among realizable closure forks, or to prove forced collapse / attractor dynamics by itself?
 

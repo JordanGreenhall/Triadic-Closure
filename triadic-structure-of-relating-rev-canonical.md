@@ -5,7 +5,6 @@ status: canonical
 updated: 2026-07-16
 sources:
   - architectonic-rigor-complete.md
-historical_sources:
   - archivist-instructions-foundation-audit.md
 ---
 

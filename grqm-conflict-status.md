@@ -5,19 +5,19 @@ created: 2026-06-27
 updated: 2026-06-27
 status: current
 confidence: medium
-sources:
-  - raw/package/grqm-problem-locator.md
-  - results/gravity-and-curvature.md
-  - results/propagation-and-invariant-velocity.md
-  - results/realizability-weighting-law.md
-  - results/mass-as-self-closure.md
-  - results/lambda-derived.md
 section: GR/QM conflict and quantum-gravity frontier
+sources:
+  - grqm-problem-locator.md
+  - gravity-and-curvature.md
+  - propagation-and-invariant-velocity.md
+  - realizability-weighting-law.md
+  - mass-as-self-closure.md
+  - lambda-derived.md
 ---
 
 # GR/QM Conflict Status
 
-Current curated status page for the GR/QM conflict problem-locator and session ledger. The detailed ledger lives in [`raw/package/grqm-problem-locator.md`](../raw/package/grqm-problem-locator.md); this page governs wiki use.
+Current curated status page for the GR/QM conflict problem-locator and session ledger. The detailed ledger lives in [`grqm-problem-locator.md`](grqm-problem-locator.md); this page governs wiki use.
 
 ## Mature status
 
@@ -82,10 +82,10 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 ## Integration rules
 
-- Use [[grqm-conflict-status]] as the current control page for GR/QM conflict claims.
-- Use [[gravity-and-curvature]] for weak-field gravity and full-GR status, but read its full-Einstein/Lovelock notes together with this page: the second-order premise has been promoted to Registered conditional on G1, not left as a merely external Lovelock import.
-- Use [[propagation-and-invariant-velocity]] for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
-- Use [[lambda-derived]] for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
+- Use [grqm-conflict-status](grqm-conflict-status.md) as the current control page for GR/QM conflict claims.
+- Use [gravity-and-curvature](gravity-and-curvature.md) for weak-field gravity and full-GR status, but read its full-Einstein/Lovelock notes together with this page: the second-order premise has been promoted to Registered conditional on G1, not left as a merely external Lovelock import.
+- Use [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
+- Use [lambda-derived](lambda-derived.md) for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
 - Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
 - Do not treat BMV-positive as proof of actual spacetime superposition. The framework position is stronger and different: BMV-positive is forced through realizability-frontier coherence, while actual geometry remains definite.
 - Do not describe the holonomy as a separate geometric Berry phase relative to gravitational configuration. The curvature step says gravity is internal-phase-blind; the phase value is the usual dynamical gravitational entangling phase.
@@ -106,11 +106,11 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 ## Source links
 
-- [`raw/package/grqm-problem-locator.md`](../raw/package/grqm-problem-locator.md)
-- [[gravity-and-curvature]]
-- [[propagation-and-invariant-velocity]]
-- [[realizability-weighting-law]]
-- [[mass-as-self-closure]]
-- [[lambda-derived]]
-- [[physics-domain-mature-status]]
-- [[physics-domain-work-plan]]
+- [`grqm-problem-locator.md`](grqm-problem-locator.md)
+- [gravity-and-curvature](gravity-and-curvature.md)
+- [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md)
+- [realizability-weighting-law](realizability-weighting-law.md)
+- [mass-as-self-closure](mass-as-self-closure.md)
+- [lambda-derived](lambda-derived.md)
+- [physics-domain-mature-status](physics-domain-mature-status.md)
+- [physics-domain-work-plan](physics-domain-work-plan.md)

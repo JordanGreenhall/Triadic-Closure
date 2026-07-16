@@ -6,10 +6,10 @@ updated: 2026-06-25
 status: current
 confidence: medium-high
 sources:
-  - results/domain-entry-method.md
-  - overview/physics-domain-mature-status.md
-  - overview/physics-domain-work-plan.md
-  - Frontier Close Loop Execution/sm-content-smuggle-audit-frontier.md
+  - domain-entry-method.md
+  - physics-domain-mature-status.md
+  - physics-domain-work-plan.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
 # Physics Registration Theorem
@@ -154,6 +154,6 @@ Not:
 - “formal resemblance alone licenses mature physics-subdomain standing”;
 - “empirical labels are framework derivations.”
 
-See also: [[domain-entry-method]], [[physics-domain-mature-status]],
-[[physics-domain-work-plan]], [[sm-content-smuggle-audit-frontier]],
-[[claim-status-vocabulary]].
+See also: [domain-entry-method](domain-entry-method.md), [physics-domain-mature-status](physics-domain-mature-status.md),
+[physics-domain-work-plan](physics-domain-work-plan.md), [sm-content-smuggle-audit-frontier](sm-content-smuggle-audit-frontier.md),
+[claim-status-vocabulary](claim-status-vocabulary.md).

@@ -6,15 +6,15 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-items-3-10
 sources:
-  - Frontier Close Loop Execution/03-epsilon-su3-bridge/03-epsilon-su3-bridge Readme.md
-  - Frontier Close Loop Execution/04-same-kind-carrier-representation-type/04-same-kind-carrier-representation-type Readme.md
-  - Frontier Close Loop Execution/05-gauge-architecture-beyond-color/05-gauge-architecture-beyond-color Readme.md
-  - Frontier Close Loop Execution/06-spin-helicity-chirality-lift/06-spin-helicity-chirality-lift Readme.md
-  - Frontier Close Loop Execution/07-particle-identity-ledger/07-particle-identity-ledger Readme.md
-  - Frontier Close Loop Execution/08-charge-hypercharge-ledger/08-charge-hypercharge-ledger Readme.md
-  - Frontier Close Loop Execution/09-specific-color-dynamics-qcd-quarantine/09-specific-color-dynamics-qcd-quarantine Readme.md
-  - Frontier Close Loop Execution/10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md
-  - Frontier Close Loop Execution/sm-content-smuggle-audit-frontier.md
+  - 03-epsilon-su3-bridge/03-epsilon-su3-bridge Readme.md
+  - 04-same-kind-carrier-representation-type/04-same-kind-carrier-representation-type Readme.md
+  - 05-gauge-architecture-beyond-color/05-gauge-architecture-beyond-color Readme.md
+  - 06-spin-helicity-chirality-lift/06-spin-helicity-chirality-lift Readme.md
+  - 07-particle-identity-ledger/07-particle-identity-ledger Readme.md
+  - 08-charge-hypercharge-ledger/08-charge-hypercharge-ledger Readme.md
+  - 09-specific-color-dynamics-qcd-quarantine/09-specific-color-dynamics-qcd-quarantine Readme.md
+  - 10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
 # Frontier Items 3-10 — physics concept load and native-derivation pass ledger
@@ -32,7 +32,7 @@ Each loop must measure actual downstream usage before claiming PASS.
 
 ## Integrated Items 2–4 status update
 
-See [[02-04-items-2-3-4-status]]. The current integrated status is:
+See [02-04-items-2-3-4-status](02-04-items-2-3-4-status.md). The current integrated status is:
 
 - Item 2: **PASS** for measured downstream load; the old frequency=weight gate is misposed and unnecessary for current work.
 - Item 4: **CONDITIONAL-PASS / Registered carrier theorem**; same-kind complex carrier `C³`, Hermitian pairing, and fixed form are Registered, with named seal residuals.
@@ -124,7 +124,7 @@ The rows below remain useful as concept-load descriptions and fail/smuggle guard
 
 ## Item 5 — Gauge architecture beyond color
 
-See [[05-gauge-architecture-beyond-color]]. Item 5 is split by sub-capacity:
+See [05-gauge-architecture-beyond-color](05-gauge-architecture-beyond-color.md). Item 5 is split by sub-capacity:
 
 ### 5.1 `SU(2)` weak / lifted rotatability
 
@@ -166,7 +166,7 @@ See [[05-gauge-architecture-beyond-color]]. Item 5 is split by sub-capacity:
 
 ## Item 6 — Spin / helicity / chirality / lift theorem
 
-See [[06-spin-helicity-chirality-lift]]. Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status; stripped boson/fermion + Pauli/Bose holding is already Registered and Sealed.
+See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status; stripped boson/fermion + Pauli/Bose holding is already Registered and Sealed.
 
 ### 6.1 Spin and elementary spin-1/2
 
@@ -208,11 +208,11 @@ See [[06-spin-helicity-chirality-lift]]. Item 6 **PASSES** for spin/helicity/chi
 
 ## Item 7 — Particle-identity ledger
 
-See [[07-particle-identity-ledger]]. Item 7 **PASSES as adjudication ledger**. It requires no new derivation: the load-bearing native roles are already licensed upstream. The task is to prevent particle names from importing full Standard Model bundles.
+See [07-particle-identity-ledger](07-particle-identity-ledger.md). Item 7 **PASSES as adjudication ledger**. It requires no new derivation: the load-bearing native roles are already licensed upstream. The task is to prevent particle names from importing full Standard Model bundles.
 
 ### 7.1 Quark
 
-- **Native / Registered role:** Interior triad externally resolved — the color-bearing part-role. `quark-lepton-split` Registered; ε-bridge dependency discharged by Items 3–4. [[flavor-mark-metric-and-neutron]] registers quark as marked color and registers the `u,d,s` mark structure.
+- **Native / Registered role:** Interior triad externally resolved — the color-bearing part-role. `quark-lepton-split` Registered; ε-bridge dependency discharged by Items 3–4. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) registers quark as marked color and registers the `u,d,s` mark structure.
 - **Parked:** Fractional charges `2/3`, `-1/3` → Open / Item 8; spin-1/2 → Item 6 as fermion, not as quark; QCD dynamics, empirical flavor spectrum beyond registered `u,d,s`, and hadronic-constituent data → empirical / quarantined.
 - **Fail condition:** The name “quark” imports the full SM quark bundle.
 
@@ -230,13 +230,13 @@ See [[07-particle-identity-ledger]]. Item 7 **PASSES as adjudication ledger**. I
 
 ### 7.4 Proton / baryon
 
-- **Native / Registered role:** Complete threefold interior closure: baryon role with ε-bridge discharged; With-This mass term `6π⁵` Registered; `m_p/m_e = 6π⁵(1+ε_FW)`.
+- **Native / Registered role:** Complete threefold interior closure: baryon role with ε-bridge discharged; With-This mass term `6π⁵` Registered; `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4`.
 - **Parked:** From-With chiral residual numbering `ε_FW` → Open; charge `+1` → Open / Item 8; QCD binding mechanism and absolute measured mass → empirical / quarantined.
 - **Fail condition:** “Proton” imports charge +1, QCD binding, and measured mass as one native package.
 
 ### 7.5 Neutron
 
-- **Native / Registered role:** Neutral baryon with mark configuration `udd`, same color singlet as proton, spin-equivalent mixed mark configuration; heavier sign via relief-valve mechanism Registered by [[flavor-mark-metric-and-neutron]].
+- **Native / Registered role:** Neutral baryon with mark configuration `udd`, same color singlet as proton, spin-equivalent mixed mark configuration; heavier sign via relief-valve mechanism Registered by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 - **Parked:** Full mass magnitude Conjectured on receipt-complement premise and Open proton residual; charge-neutrality value → Item 8; beta-decay mechanism and antineutrino identity → Open/Conjectured under Item 11.
 - **Fail condition:** Beta-decay familiarity imports full neutron identity.
 
@@ -250,7 +250,7 @@ See [[07-particle-identity-ledger]]. Item 7 **PASSES as adjudication ledger**. I
 
 ## Item 8 — Charge / hypercharge ledger
 
-See [[08-charge-hypercharge-ledger]]. Item 8 **PASSES as adjudication ledger** by splitting native charge structure from values-side and conditional Standard Model arithmetic.
+See [08-charge-hypercharge-ledger](08-charge-hypercharge-ledger.md). Item 8 **PASSES as adjudication ledger** by splitting native charge structure from values-side and conditional Standard Model arithmetic.
 
 ### 8.1 Native charge space / conservation / neutrality / sign
 
@@ -297,7 +297,7 @@ See [[08-charge-hypercharge-ledger]]. Item 8 **PASSES as adjudication ledger** b
 
 ## Item 9 — Specific color dynamics / QCD-operator quarantine
 
-See [[09-specific-color-dynamics-qcd-quarantine]]. Item 9 **PASSES as narrowed quarantine/adjudication**. With Items 3–4 done, most of the former QCD-import concern becomes native `SU(3)` mathematics downstream of the Registered bridge. The genuine quarantine is quantitative QCD dynamics.
+See [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md). Item 9 **PASSES as narrowed quarantine/adjudication**. With Items 3–4 done, most of the former QCD-import concern becomes native `SU(3)` mathematics downstream of the Registered bridge. The genuine quarantine is quantitative QCD dynamics.
 
 Direction-of-inference rule: use the Registered `SU(3)` bridge downstream. Do not use the color computations upstream to prove the bridge.
 
@@ -386,7 +386,7 @@ Direction-of-inference rule: use the Registered `SU(3)` bridge downstream. Do no
 
 ## Item 11 — Decay-product registration
 
-See [[11-decay-product-registration]]. Item 11 **PASSES by registration plus quarantine**. The framework-native account of decay is real and non-trivial, but it is only the structural skeleton: metastable escape over a coherence barrier, conservation of registered distinctions, participation-propensity channel weighting, and chiral/orientation-faithful coupling.
+See [11-decay-product-registration](11-decay-product-registration.md). Item 11 **PASSES by registration plus quarantine**. The framework-native account of decay is real and non-trivial, but it is only the structural skeleton: metastable escape over a coherence barrier, conservation of registered distinctions, participation-propensity channel weighting, and chiral/orientation-faithful coupling.
 
 ### 11.1 Native decay skeleton
 
@@ -398,12 +398,12 @@ See [[11-decay-product-registration]]. Item 11 **PASSES by registration plus qua
 
 ### 11.2 Received, Open, or quarantined content
 
-- **Product identities:** Mixed. Electron-as-product has a Registered structural role in the neutron-specific ledger of [[flavor-mark-metric-and-neutron]], while empirical product identity remains observational.
+- **Product identities:** Mixed. Electron-as-product has a Registered structural role in the neutron-specific ledger of [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md), while empirical product identity remains observational.
 - **Antineutrino as such:** Conjectured. From-With missing-partner / receipt reading remains Conjectured; missing-energy observation is allowed, entity is not Registered native.
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
 - **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
-- **Neutron-decay specifics:** Updated by [[flavor-mark-metric-and-neutron]]. Old two-circle / flavor-SU(3) A₂ package is superseded; mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured.
+- **Neutron-decay specifics:** Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle / flavor-SU(3) A₂ package is superseded; mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured.
 
 ### 11.3 Integration rule
 
@@ -415,7 +415,7 @@ Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure 
 
 ## Item 12 — Gravity full-GR imports
 
-See [[12-gravity-full-gr-imports]]. Item 12 **PASSES by separation**. The pass condition is disjunctive: prove tensor completeness / second-order closure-order / nonlinear strong-field / value-scale theorems, or keep the weak-field/static result cleanly separate from imports. The corpus already maintains the separation.
+See [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md). Item 12 **PASSES by separation**. The pass condition is disjunctive: prove tensor completeness / second-order closure-order / nonlinear strong-field / value-scale theorems, or keep the weak-field/static result cleanly separate from imports. The corpus already maintains the separation.
 
 ### 12.1 Registered native gravity results
 

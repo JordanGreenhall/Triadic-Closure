@@ -12,9 +12,9 @@ sources:
   - gauge-structure-result.md
   - physics-walk-checklist.md
   - d6-persistence.md
+  - 09-specific-color-dynamics-qcd-quarantine.md
 historical_sources:
   - raw/context/full-conversation-ledger.md
-  - process/sm-frontier-loop-state/09-specific-color-dynamics-qcd-quarantine.md
 ---
 
 # With-to-This Closure as Realizability Collapse

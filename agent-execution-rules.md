@@ -10,7 +10,6 @@ sources:
   - claim-status-vocabulary.md
   - known-failure-modes.md
   - physics-walk-checklist.md
-historical_sources:
   - jordan-decisions.md
 ---
 

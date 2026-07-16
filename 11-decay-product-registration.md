@@ -6,21 +6,21 @@ created: 2026-06-25
 updated: 2026-06-26
 scope: frontier-item-11
 sources:
-  - process/sm-frontier-loop-state/02-amplitude-readout.md
-  - process/sm-frontier-loop-state/06-spin-helicity-chirality-lift.md
-  - process/sm-frontier-loop-state/07-particle-identity-ledger.md
-  - process/sm-frontier-loop-state/08-charge-hypercharge-ledger.md
-  - results/chiral-coupling-result.md
-  - results/mass-derivation-three-faces.md
-  - results/d6-persistence.md
-  - results/flavor-mark-metric-and-neutron.md
+  - 02-amplitude-readout.md
+  - 06-spin-helicity-chirality-lift.md
+  - 07-particle-identity-ledger.md
+  - 08-charge-hypercharge-ledger.md
+  - chiral-coupling-result.md
+  - mass-derivation-three-faces.md
+  - d6-persistence.md
+  - flavor-mark-metric-and-neutron.md
 ---
 
 # SM Frontier Item 11 — Decay-Product Registration
 
 A decay, natively, is a metastable standing escaping over a coherence-barrier to a more stable configuration, conserving registered distinctions, with available channels weighted by participation-propensity and coupling orientation-faithful.
 
-That is a real native account, and it stops exactly there. [[flavor-mark-metric-and-neutron]] strengthens the neutron-specific structural drain and two-ledger settlement, but product identities as empirical entities, spectra, rates, and weak mechanisms remain empirical/Open/quarantined.
+That is a real native account, and it stops exactly there. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) strengthens the neutron-specific structural drain and two-ledger settlement, but product identities as empirical entities, spectra, rates, and weak mechanisms remain empirical/Open/quarantined.
 
 ## Native decay skeleton
 
@@ -36,12 +36,12 @@ That is a real native account, and it stops exactly there. [[flavor-mark-metric-
 
 | Decay element | Status |
 |---|---|
-| Product identities, including electron-as-product and the missing-energy/momentum event | Mixed. The neutron-specific ledger in [[flavor-mark-metric-and-neutron]] gives a Registered structural role for electron-as-With/charge settlement, but the empirical product identity remains observation. |
-| Antineutrino as such | Conjectured. [[flavor-mark-metric-and-neutron]] keeps the From-With receipt / missing-partner reading as Conjectured; missing-energy observation is allowed, but the entity is not Registered native. |
+| Product identities, including electron-as-product and the missing-energy/momentum event | Mixed. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) gives a Registered structural role for electron-as-With/charge settlement, but the empirical product identity remains observation. |
+| Antineutrino as such | Conjectured. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) keeps the From-With receipt / missing-partner reading as Conjectured; missing-energy observation is allowed, but the entity is not Registered native. |
 | Kinetic-energy spectrum / beta-spectrum shape | Empirical. Energy balance is native; the distribution is observed. |
 | Lifetime / transition rate / branching ratios | Empirical. Observed rates/frequencies are not a current framework target; derive the local possibility-space/rate structure only if needed. |
 | Beta-decay mechanism: weak interaction, W exchange, V-A operator | Quarantined. Electroweak residuals and W/Z labels are quarantined under Item 5.4; exact weak module remains Open. |
-| Neutron-decay specifics / n-p splitting | Updated by [[flavor-mark-metric-and-neutron]]. Old two-circle receipt / flavor-SU(3) A₂ package is superseded; new mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured. |
+| Neutron-decay specifics / n-p splitting | Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle receipt / flavor-SU(3) A₂ package is superseded; new mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured. |
 
 ## Verdict
 

@@ -21,9 +21,9 @@ sealed recognition or empirical label.
 
 Historical loop output recorded PASS under the earlier scope; that PASS is suspended by the corrected full-load rule above and must not be used as compact upstream state until the downstream dependency map is completed.
 
-Pre-flight sources read: `SCHEMA.md`, `process/agent-execution-rules.md`,
-`overview/physics-domain-mature-status.md`, `overview/physics-domain-work-plan.md`,
-`results/domain-entry-method.md`, and `overview/sm-content-smuggle-audit-frontier.md`.
+Pre-flight sources read: `SCHEMA.md`, `agent-execution-rules.md`,
+`physics-domain-mature-status.md`, `physics-domain-work-plan.md`,
+`domain-entry-method.md`, and `sm-content-smuggle-audit-frontier.md`.
 
 ## Allowed primitives
 
@@ -61,7 +61,7 @@ downstream claims must not be edited merely to make Item 1 pass.
 
 ## Attempt log
 
-Attempt 1 produced `results/physics-registration-theorem.md`.
+Attempt 1 produced `physics-registration-theorem.md`.
 
 ## Verifier findings
 

@@ -5,11 +5,11 @@ status: pass-narrowed-quarantine
 frontier_item: 9
 updated: 2026-06-25
 sources:
-  - ../../results/with-to-this-closure.md
+  - ../with-to-this-closure.md
   - ../epsilon-su3-bridge-construction.md
   - ../same-kind-carrier-representation-theorem.md
-  - ../../process/sm-frontier-loop-state/09-specific-color-dynamics-qcd-quarantine.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../09-specific-color-dynamics-qcd-quarantine.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
 
 # Frontier Item 9: Specific color dynamics / QCD-operator quarantine
@@ -24,7 +24,7 @@ Items 3-4 now discharge the SU(3) bridge; Item 9 is downstream and must not be u
 
 ## Actual load in current framework
 
-See [[09-specific-color-dynamics-qcd-quarantine]]: pairwise `T_i·T_j` operator form, `1⊕8⊕8⊕10` decomposition, structural confinement/baryon formation, and tested-flow singlet stability.
+See [09-specific-color-dynamics-qcd-quarantine](../09-specific-color-dynamics-qcd-quarantine.md): pairwise `T_i·T_j` operator form, `1⊕8⊕8⊕10` decomposition, structural confinement/baryon formation, and tested-flow singlet stability.
 
 ## Pass condition for the loop agent
 

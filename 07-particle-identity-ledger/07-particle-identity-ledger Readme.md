@@ -5,11 +5,11 @@ status: pass-adjudication-ledger
 frontier_item: 7
 updated: 2026-06-26
 sources:
-  - ../../results/quark-lepton-split.md
-  - ../../results/mass-as-self-closure.md
-  - ../../process/sm-frontier-loop-state/07-particle-identity-ledger.md
-  - ../../results/flavor-mark-metric-and-neutron.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../quark-lepton-split.md
+  - ../mass-as-self-closure.md
+  - ../07-particle-identity-ledger.md
+  - ../flavor-mark-metric-and-neutron.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
 
 # Frontier Item 7: Particle-identity ledger
@@ -20,15 +20,15 @@ Record the canonical adjudication ledger separating native particle roles from u
 
 ## Dependencies
 
-Items 3-6 are now sufficient for the load-bearing roles: ε/SU(3), same-kind carrier, gauge-source and spin machinery. [[flavor-mark-metric-and-neutron]] additionally registers the flavor/mark structure and strengthens the neutron role. Charge values, electroweak modules, beta mechanism, and generations remain downstream.
+Items 3-6 are now sufficient for the load-bearing roles: ε/SU(3), same-kind carrier, gauge-source and spin machinery. [flavor-mark-metric-and-neutron](../flavor-mark-metric-and-neutron.md) additionally registers the flavor/mark structure and strengthens the neutron role. Charge values, electroweak modules, beta mechanism, and generations remain downstream.
 
 ## Actual load in current framework
 
-See [[07-particle-identity-ledger]]: quark, lepton, electron, proton/baryon, neutron, and neutrino/antineutrino rows distinguish Registered native roles from parked SM properties.
+See [07-particle-identity-ledger](../07-particle-identity-ledger.md): quark, lepton, electron, proton/baryon, neutron, and neutrino/antineutrino rows distinguish Registered native roles from parked SM properties.
 
 ## Pass condition for the loop agent
 
-PASS is achieved as an adjudication ledger, updated by [[flavor-mark-metric-and-neutron]]. Quark/lepton split, electron mass-ruler, proton/baryon closure, spin machinery, and the `u,d,s` flavor/mark metric are upstream-licensed. Exact charge values, QCD dynamics, empirical flavor spectrum beyond the registered marks, exact electroweak modules, beta-decay mechanism, neutrino identity, generations, Yukawa/Higgs content, and measured masses remain parked as specified.
+PASS is achieved as an adjudication ledger, updated by [flavor-mark-metric-and-neutron](../flavor-mark-metric-and-neutron.md). Quark/lepton split, electron mass-ruler, proton/baryon closure, spin machinery, and the `u,d,s` flavor/mark metric are upstream-licensed. Exact charge values, QCD dynamics, empirical flavor spectrum beyond the registered marks, exact electroweak modules, beta-decay mechanism, neutrino identity, generations, Yukawa/Higgs content, and measured masses remain parked as specified.
 
 ## Fail / smuggle condition
 

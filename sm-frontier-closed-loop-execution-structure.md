@@ -48,9 +48,9 @@ Every loop output must contain:
 
 For Items 3-10, use:
 
-- [[03-10-physics-concept-load-pass-ledger]]
+- [03-10-physics-concept-load-pass-ledger](03-10-physics-concept-load-pass-ledger.md)
 
 For Item 2 load-audit correction, use:
 
-- [[02-amplitude-readout]]
-- [[02-with-to-this-item2-load-audit]]
+- [02-amplitude-readout](02-amplitude-readout.md)
+- [02-with-to-this-item2-load-audit](02-with-to-this-item2-load-audit.md)

@@ -6,13 +6,13 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-item-9
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - process/sm-frontier-loop-state/07-particle-identity-ledger.md
-  - process/sm-frontier-loop-state/08-charge-hypercharge-ledger.md
-  - results/with-to-this-closure.md
-  - results/gauge-structure-result.md
-  - Frontier Close Loop Execution/epsilon-su3-bridge-construction.md
-  - Frontier Close Loop Execution/same-kind-carrier-representation-theorem.md
+  - 02-04-items-2-3-4-status.md
+  - 07-particle-identity-ledger.md
+  - 08-charge-hypercharge-ledger.md
+  - with-to-this-closure.md
+  - gauge-structure-result.md
+  - epsilon-su3-bridge-construction.md
+  - same-kind-carrier-representation-theorem.md
 ---
 
 # SM Frontier Item 9 — Specific Color Dynamics / Narrow QCD Quarantine

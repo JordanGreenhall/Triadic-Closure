@@ -5,11 +5,11 @@ status: pass-adjudication-ledger
 frontier_item: 8
 updated: 2026-06-25
 sources:
-  - ../../results/gauge-structure-result.md
-  - ../../results/quark-lepton-split.md
-  - ../../results/chiral-coupling-result.md
-  - ../../process/sm-frontier-loop-state/08-charge-hypercharge-ledger.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../gauge-structure-result.md
+  - ../quark-lepton-split.md
+  - ../chiral-coupling-result.md
+  - ../08-charge-hypercharge-ledger.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
 
 # Frontier Item 8: Charge / hypercharge ledger
@@ -24,7 +24,7 @@ Items 5-7. Item 5.2 supplies the Registered `U(1)` From-phase charge source; Ite
 
 ## Actual load in current framework
 
-See [[08-charge-hypercharge-ledger]]: charge space, conservation, neutrality, relative sign, and weak-isospin doublet are Registered; exact values/hypercharge/center-lock/anomaly arithmetic are not.
+See [08-charge-hypercharge-ledger](../08-charge-hypercharge-ledger.md): charge space, conservation, neutrality, relative sign, and weak-isospin doublet are Registered; exact values/hypercharge/center-lock/anomaly arithmetic are not.
 
 ## Pass condition for the loop agent
 

@@ -5,10 +5,10 @@ status: native-su3-registered-not-sealed
 frontier_item: 3
 updated: 2026-06-25
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - Frontier Close Loop Execution/epsilon-su3-bridge-construction.md
-  - Frontier Close Loop Execution/same-kind-carrier-representation-theorem.md
-  - results/gauge-structure-result.md
+  - 02-04-items-2-3-4-status.md
+  - epsilon-su3-bridge-construction.md
+  - same-kind-carrier-representation-theorem.md
+  - gauge-structure-result.md
 ---
 
 # Item 3 — Epsilon / SU(3) Bridge

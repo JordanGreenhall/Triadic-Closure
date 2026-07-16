@@ -6,9 +6,9 @@ frontier_item: 3
 updated: 2026-06-25
 sources:
   - ../epsilon-su3-bridge-construction.md
-  - ../../process/sm-frontier-loop-state/03-epsilon-su3-bridge.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
-  - ../../results/gauge-structure-result.md
+  - ../03-epsilon-su3-bridge.md
+  - ../03-10-physics-concept-load-pass-ledger.md
+  - ../gauge-structure-result.md
 ---
 
 # Frontier Item 3: Epsilon / SU(3) bridge

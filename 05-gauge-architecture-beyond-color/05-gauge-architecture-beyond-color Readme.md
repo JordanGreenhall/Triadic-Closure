@@ -5,10 +5,10 @@ status: split-pass-registered-quarantined
 frontier_item: 5
 updated: 2026-06-25
 sources:
-  - ../../results/gauge-structure-result.md
-  - ../../results/chiral-coupling-result.md
-  - ../../process/sm-frontier-loop-state/05-gauge-architecture-beyond-color.md
-  - ../../process/sm-frontier-loop-state/03-10-physics-concept-load-pass-ledger.md
+  - ../gauge-structure-result.md
+  - ../chiral-coupling-result.md
+  - ../05-gauge-architecture-beyond-color.md
+  - ../03-10-physics-concept-load-pass-ledger.md
 ---
 
 # Frontier Item 5: Gauge architecture beyond color
@@ -23,7 +23,7 @@ Item 4 is terminal / Registered. Item 5 may advance. Electroweak residuals remai
 
 ## Actual load in current framework
 
-See [[05-gauge-architecture-beyond-color]]: 5.1 `SU(2)` source, 5.2 `U(1)` source, 5.3 gauge completeness, 5.4 electroweak residuals carry different loads and grades.
+See [05-gauge-architecture-beyond-color](../05-gauge-architecture-beyond-color.md): 5.1 `SU(2)` source, 5.2 `U(1)` source, 5.3 gauge completeness, 5.4 electroweak residuals carry different loads and grades.
 
 ## Pass condition for the loop agent
 

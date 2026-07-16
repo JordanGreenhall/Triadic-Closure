@@ -6,11 +6,11 @@ updated: 2026-06-25
 status: current
 confidence: medium
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - Frontier Close Loop Execution/epsilon-su3-bridge-construction.md
-  - results/gauge-structure-result.md
-  - Frontier Close Loop Execution/physics-registration-theorem.md
-  - Frontier Close Loop Execution/sm-content-smuggle-audit-frontier.md
+  - 02-04-items-2-3-4-status.md
+  - epsilon-su3-bridge-construction.md
+  - gauge-structure-result.md
+  - physics-registration-theorem.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
 # Same-Kind Carrier and Representation Type Theorem

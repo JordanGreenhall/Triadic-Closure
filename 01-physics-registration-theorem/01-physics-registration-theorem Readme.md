@@ -6,8 +6,8 @@ frontier_item: 1
 updated: 2026-06-25
 sources:
   - ../physics-registration-theorem.md
-  - ../../results/domain-entry-method.md
-  - ../../overview/physics-domain-mature-status.md
+  - ../domain-entry-method.md
+  - ../physics-domain-mature-status.md
 ---
 
 # Frontier Item 1: Physics registration theorem

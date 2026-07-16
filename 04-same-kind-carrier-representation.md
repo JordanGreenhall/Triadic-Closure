@@ -5,10 +5,10 @@ status: conditional-pass-registered-carrier-theorem
 frontier_item: 4
 updated: 2026-06-25
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - Frontier Close Loop Execution/same-kind-carrier-representation-theorem.md
-  - Frontier Close Loop Execution/epsilon-su3-bridge-construction.md
-  - results/gauge-structure-result.md
+  - 02-04-items-2-3-4-status.md
+  - same-kind-carrier-representation-theorem.md
+  - epsilon-su3-bridge-construction.md
+  - gauge-structure-result.md
 ---
 
 # Item 4 — Same-Kind Complex Carrier

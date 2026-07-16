@@ -6,9 +6,9 @@ frontier_item: 2
 updated: 2026-06-25
 sources:
   - ../amplitude-readout-theorem.md
-  - ../../process/sm-frontier-loop-state/02-amplitude-readout.md
-  - ../../process/sm-frontier-loop-state/02-with-to-this-item2-load-audit.md
-  - ../../results/realizability-weighting-law.md
+  - ../02-amplitude-readout.md
+  - ../02-with-to-this-item2-load-audit.md
+  - ../realizability-weighting-law.md
 ---
 
 # Frontier Item 2: Amplitude/readout theorem

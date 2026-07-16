@@ -6,20 +6,21 @@ updated: 2026-06-24
 status: control
 confidence: medium-high
 sources:
-  - overview/physics-domain-mature-status.md
-  - overview/physics-domain-work-plan.md
-  - results/gauge-structure-result.md
-  - results/quark-lepton-split.md
-  - results/chiral-coupling-result.md
-  - results/mass-derivation-three-faces.md
-  - results/with-to-this-closure.md
-  - results/closure-inherited-metric.md
-  - results/gravity-and-curvature.md
-  - raw/package/gauge-structure-result.md
-  - raw/package/quark-lepton-split.md
-  - raw/package/chiral-coupling-result.md
+  - physics-domain-mature-status.md
+  - physics-domain-work-plan.md
+  - gauge-structure-result.md
+  - quark-lepton-split.md
+  - chiral-coupling-result.md
+  - mass-derivation-three-faces.md
+  - with-to-this-closure.md
+  - closure-inherited-metric.md
+  - gravity-and-curvature.md
+historical_sources:
   - raw/package/physics-walk-D1-D5-consolidated.md
 ---
+
+
+**Canonical mass-ratio rule.** The complete proton/electron ratio is `m_p / m_e = 6 pi^5 [1 + c(3 pi^4)^-2], with 3/2 <= c <= 9/4`. The standalone `6 pi^5` is only the exact With-This color-seating factor within that ratio. The bracketed form, positive sign, second-order scale, multiplicative placement, and coefficient bounds are Registered. Only the exact internal selection of `c` remains Open; observation places `c approximately 1.6076`.
 
 # Standard Model Content Smuggle Audit and Cleanup Frontier
 
@@ -144,7 +145,7 @@ exact module/hypercharge/electroweak-breaking claims in Items 8/13.
 
 **Current support:** Item 7 passes as an adjudication ledger. Quark/lepton binary
 as interior-triad part/whole distinction is Registered, and the SU(3)/color bridge
-dependency is discharged by Items 3–4. Flavor/mark update: [[flavor-mark-metric-and-neutron]] registers flavor as color's three This-aspects under marking, registers quark as marked color, and registers the neutron sign/mechanism and decay structure while leaving the full magnitude Conjectured on its named residuals. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
+dependency is discharged by Items 3–4. Flavor/mark update: [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) registers flavor as color's three This-aspects under marking, registers quark as marked color, and registers the neutron sign/mechanism and decay structure while leaving the full magnitude Conjectured on its named residuals. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
 
 **Smuggle risk:** using `quark`, `lepton`, `electron`, `neutrino`, `baryon`,
 `proton`, or `neutron` as if their full SM identity is registered. The ledger
@@ -153,7 +154,7 @@ licenses roles, not full particle bundles.
 **Downstream dependencies:** electron native ruler, quark colors, baryons,
 neutrino lightness, decay products, fractional/integer charges.
 
-**Cleanup work:** use [[07-particle-identity-ledger]] and [[flavor-mark-metric-and-neutron]] as control. Keep exact charges, QCD dynamics, empirical flavor spectrum beyond the registered `u,d,s` mark structure, electroweak modules, generations, Yukawa/Higgs content, beta-decay mechanism, neutrino identity, and measured masses parked under their own items.
+**Cleanup work:** use [07-particle-identity-ledger](07-particle-identity-ledger.md) and [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) as control. Keep exact charges, QCD dynamics, empirical flavor spectrum beyond the registered `u,d,s` mark structure, electroweak modules, generations, Yukawa/Higgs content, beta-decay mechanism, neutrino identity, and measured masses parked under their own items.
 
 ### 8. Charge, hypercharge, electric charge values, center-lock, anomaly logic
 
@@ -170,7 +171,7 @@ Empirical charge facts may be cited as observations; they are not derivations.
 **Downstream dependencies:** proton/neutron flavor-access geometry, n-p splitting,
 quark/lepton charge patterns, electroweak module, decay ledgers.
 
-**Cleanup work:** use [[08-charge-hypercharge-ledger]] as control. Charge
+**Cleanup work:** use [08-charge-hypercharge-ledger](08-charge-hypercharge-ledger.md) as control. Charge
 conservation/neutrality/sign may carry load; exact values, hypercharge lattice,
 center-lock, anomaly cancellation, and exact charge arithmetic remain parked.
 
@@ -191,7 +192,7 @@ binding decompositions — as native framework proof.
 **Downstream dependencies:** baryon attractor, confinement/formation as one event,
 three-quark baryon closure, mass-ratio work.
 
-**Cleanup work:** use [[09-specific-color-dynamics-qcd-quarantine]] as control.
+**Cleanup work:** use [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) as control.
 The quarantine is narrow: quantitative QCD dynamics are external comparison only;
 SU(3) invariant operator/decomposition consequences are native downstream of the
 bridge.
@@ -233,7 +234,7 @@ mechanisms do not carry proof load.
 **Downstream dependencies:** neutron decay ledger, chiral face numbering, lepton
 module, frequency/rate language.
 
-**Cleanup work:** use [[11-decay-product-registration]] as control. Decay-as-
+**Cleanup work:** use [11-decay-product-registration](11-decay-product-registration.md) as control. Decay-as-
 escape, charge/energy balance, and relative channel propensity may be native; all
 product identities, spectra, rates, antineutrino roles, W mechanism, and old two-
 circle receipt / n-p splitting packages remain empirical/Open/quarantined.
@@ -255,7 +256,7 @@ values-side.
 **Downstream dependencies:** cosmology, Lambda dynamics, stress-energy source
 claims, strong curvature claims.
 
-**Cleanup work:** use [[12-gravity-full-gr-imports]] as control. The promotable
+**Cleanup work:** use [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) as control. The promotable
 gate is one-step conditioning locality ⇒ second-order metric equations; the
 GR/QM ledger promotes it to Registered conditional on G1, not Sealed, until
 manifold recovery and locality⇒order are formalized.
@@ -276,25 +277,25 @@ machinery is registered. If used, mark as empirical/SM comparison only.
 
 ## Immediate cleanup work frontier
 
-1. **Particle-identity ledger.** Closed by [[07-particle-identity-ledger]] and updated by [[flavor-mark-metric-and-neutron]] for flavor/mark/neutron structure. Keep exact charges, empirical flavor spectrum beyond registered `u,d,s`, QCD dynamics, electroweak modules, generations, measured masses, and neutrino identity parked unless separately licensed.
+1. **Particle-identity ledger.** Closed by [07-particle-identity-ledger](07-particle-identity-ledger.md) and updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) for flavor/mark/neutron structure. Keep exact charges, empirical flavor spectrum beyond registered `u,d,s`, QCD dynamics, electroweak modules, generations, measured masses, and neutrino identity parked unless separately licensed.
 
 2. **Gauge bridge theorem.** Closed for load by Items 3–4 as Registered SU(3) / same-kind carrier. Remaining work is seal residuals, not a block on color, quarks, baryons, `6 pi^5`, confinement, or mark-metric use.
 
-3. **Amplitude/readout theorem.** Closed for measured downstream load by [[02-amplitude-readout]]. Use the Registered weighting measure where that is the load; keep observed frequency / numerical transition-rate promotion behind the still-Open frequency=weight seal gate.
+3. **Amplitude/readout theorem.** Closed for measured downstream load by [02-amplitude-readout](02-amplitude-readout.md). Use the Registered weighting measure where that is the load; keep observed frequency / numerical transition-rate promotion behind the still-Open frequency=weight seal gate.
 
-4. **Spin/chirality/lift theorem.** Closed for spin/helicity/chirality machinery by [[06-spin-helicity-chirality-lift]]. Use the Registered machinery where it is the actual load; keep exact weak modules, neutrino identity, beta-decay mechanism, and electroweak residuals behind Items 8/11/13 as specified.
+4. **Spin/chirality/lift theorem.** Closed for spin/helicity/chirality machinery by [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Use the Registered machinery where it is the actual load; keep exact weak modules, neutrino identity, beta-decay mechanism, and electroweak residuals behind Items 8/11/13 as specified.
 
-5. **Charge/hypercharge ledger.** Closed by [[08-charge-hypercharge-ledger]] for native charge structure. Exact values `2/3`, `-1/3`, `+1`, `-1`, hypercharge, and `1/6` lattice remain Open/conditional or empirical.
+5. **Charge/hypercharge ledger.** Closed by [08-charge-hypercharge-ledger](08-charge-hypercharge-ledger.md) for native charge structure. Exact values `2/3`, `-1/3`, `+1`, `-1`, hypercharge, and `1/6` lattice remain Open/conditional or empirical.
 
 6. **Native mass-ruler proof.** Establish exactly what `electron bare repeat` means
 inside the framework and which electron properties are used. Then restate the
 proton/electron mass work relative to the licensed electron content only.
 
-7. **Decay-product registration.** Closed by [[11-decay-product-registration]]:
+7. **Decay-product registration.** Closed by [11-decay-product-registration](11-decay-product-registration.md):
 decay skeleton Registered; product identities, spectra, rates, antineutrino role,
 and W-mechanism empirical/Open/quarantined.
 
-8. **QCD/SM comparison quarantine.** Closed/narrowed by [[09-specific-color-dynamics-qcd-quarantine]] for SU(3) consequences; keep `91% QCD binding`, `9% Higgs/Yukawa`, W/Z/photon, anomaly logic, and quantitative QCD dynamics as external comparison unless separately derived.
+8. **QCD/SM comparison quarantine.** Closed/narrowed by [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) for SU(3) consequences; keep `91% QCD binding`, `9% Higgs/Yukawa`, W/Z/photon, anomaly logic, and quantitative QCD dynamics as external comparison unless separately derived.
 
 ## Bottom-line diagnosis
 

@@ -305,4 +305,4 @@ Read this page after [gauge-structure-result](gauge-structure-result.md), [quark
 
 - Current integrated page: [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md)
 - Superseded draft: [neutron-consideration](neutron-consideration.md) (§5.2(a), §6 premise 2, §7 A₂ / 120° flavor-SU(3) keystone)
-- Dependencies: [triadic-structure-of-relating](triadic-structure-of-relating.md), same-kind-carrier-representation-theorem<!-- unresolved historical reference: same-kind-carrier-representation-theorem -->, amplitude-readout-theorem<!-- unresolved historical reference: amplitude-readout-theorem -->, [mass-derivation-three-faces](mass-derivation-three-faces.md), [with-to-this-closure](with-to-this-closure.md)
+- Dependencies: [triadic-structure-of-relating](triadic-structure-of-relating.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md), [amplitude-readout-theorem](amplitude-readout-theorem.md), [mass-derivation-three-faces](mass-derivation-three-faces.md), [with-to-this-closure](with-to-this-closure.md)

@@ -5,10 +5,10 @@ status: pass-by-separation
 frontier_item: 12
 updated: 2026-06-25
 sources:
-  - ../../results/gravity-and-curvature.md
-  - ../../results/stress-energy-three-offices.md
-  - ../../results/lambda-derived.md
-  - ../../process/sm-frontier-loop-state/12-gravity-full-gr-imports.md
+  - ../gravity-and-curvature.md
+  - ../stress-energy-three-offices.md
+  - ../lambda-derived.md
+  - ../12-gravity-full-gr-imports.md
 ---
 
 # Frontier Item 12: Gravity full-GR imports
@@ -23,7 +23,7 @@ Gravity/curvature pages, Item 2 participation weighting, named external theorem 
 
 ## Actual load in current framework
 
-See [[12-gravity-full-gr-imports]]: weak-field gravity, curvature meaning, Lorentz signature, Lambda structural meaning, Λ magnitude split, stress-energy offices, Lovelock/Einstein conditional route, tensor completeness, strong-field regime, exact `G`, and Λ dynamics.
+See [12-gravity-full-gr-imports](../12-gravity-full-gr-imports.md): weak-field gravity, curvature meaning, Lorentz signature, Lambda structural meaning, Λ magnitude split, stress-energy offices, Lovelock/Einstein conditional route, tensor completeness, strong-field regime, exact `G`, and Λ dynamics.
 
 ## Pass condition for the loop agent
 

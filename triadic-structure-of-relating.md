@@ -7,7 +7,6 @@ status: current
 sources:
   - triadic-structure-of-relating-rev-canonical.md
   - architectonic-rigor-complete.md
-historical_sources:
   - archivist-instructions-foundation-audit.md
 ---
 

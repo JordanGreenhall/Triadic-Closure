@@ -5,10 +5,10 @@ status: pass-registration-plus-quarantine
 frontier_item: 11
 updated: 2026-06-25
 sources:
-  - ../../results/mass-derivation-three-faces.md
-  - ../../results/chiral-coupling-result.md
+  - ../mass-derivation-three-faces.md
+  - ../chiral-coupling-result.md
   - ../amplitude-readout-theorem.md
-  - ../../process/sm-frontier-loop-state/11-decay-product-registration.md
+  - ../11-decay-product-registration.md
 ---
 
 # Frontier Item 11: Decay-product registration
@@ -23,7 +23,7 @@ Items 2, 6, 7, 8, 10. Item 11 is a terminal consumer: it uses upstream decay ske
 
 ## Actual load in current framework
 
-See [[11-decay-product-registration]]: decay-as-escape, charge/energy balance, relative channel propensity, and chiral/orientation-faithful coupling are native; product identities, spectra, rates, and weak mechanisms are not.
+See [11-decay-product-registration](../11-decay-product-registration.md): decay-as-escape, charge/energy balance, relative channel propensity, and chiral/orientation-faithful coupling are native; product identities, spectra, rates, and weak mechanisms are not.
 
 ## Pass condition for the loop agent
 

@@ -2,20 +2,26 @@
 
 Final repository-tree reference audit.
 
-- Markdown files scanned: **100**
-- Files changed in final pass: **1**
-- Remaining unresolved inline references: **2**
+- Markdown files scanned: **138**
+- Files changed in final pass: **10**
+- Remaining unresolved inline references: **0**
 
 ## Files changed in final pass
 
-- [verification-companion.md](verification-companion.md)
+- [agent-execution-rules.md](agent-execution-rules.md)
+- [architectonic-rigor-complete.md](architectonic-rigor-complete.md)
+- [domain-entry-method.md](domain-entry-method.md)
+- [epsilon-su3-bridge-construction.md](epsilon-su3-bridge-construction.md)
+- [grqm-conflict-status.md](grqm-conflict-status.md)
+- [sm-content-smuggle-audit-frontier.md](sm-content-smuggle-audit-frontier.md)
+- [triadic-structure-of-relating-rev-canonical.md](triadic-structure-of-relating-rev-canonical.md)
+- [triadic-structure-of-relating.md](triadic-structure-of-relating.md)
+- [vertical-and-horizontal.md](vertical-and-horizontal.md)
+- [with-to-this-closure.md](with-to-this-closure.md)
 
 ## Remaining unresolved inline references
 
-| File | Line | Reference |
-|---|---:|---|
-| [flavor-mark-metric-and-neutron.md](flavor-mark-metric-and-neutron.md) | 308 | `same-kind-carrier-representation-theorem --` |
-| [flavor-mark-metric-and-neutron.md](flavor-mark-metric-and-neutron.md) | 308 | `amplitude-readout-theorem --` |
+None.
 
 ## Provenance rule
 

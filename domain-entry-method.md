@@ -9,7 +9,6 @@ sources:
   - triadic-structure-of-relating-rev-canonical.md
   - architectonic-rigor-complete.md
   - agent-execution-rules.md
-historical_sources:
   - entering-a-new-domain.md
 ---
 

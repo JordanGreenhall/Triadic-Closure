@@ -8,14 +8,15 @@ frontier_items:
 created: 2026-06-25
 updated: 2026-06-25
 sources:
-  - overview/sm-frontier-closed-loop-execution-structure.md
-  - results/epsilon-su3-bridge-construction.md
-  - results/same-kind-carrier-representation-theorem.md
-  - results/gauge-structure-result.md
-  - results/physics-registration-theorem.md
-  - results/amplitude-readout-theorem.md
-  - raw/package/triadic-structure-of-relating-rev-canonical.md
-  - raw/package/architectonic-rigor-complete.md
+  - sm-frontier-closed-loop-execution-structure.md
+  - epsilon-su3-bridge-construction.md
+  - same-kind-carrier-representation-theorem.md
+  - gauge-structure-result.md
+  - physics-registration-theorem.md
+  - amplitude-readout-theorem.md
+  - triadic-structure-of-relating-rev-canonical.md
+  - architectonic-rigor-complete.md
+historical_sources:
   - raw/package/physics-walk-D1-D5-consolidated.md
 ---
 

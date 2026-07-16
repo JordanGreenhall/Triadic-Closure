@@ -6,10 +6,10 @@ updated: 2026-06-25
 status: current
 confidence: medium
 sources:
-  - results/realizability-weighting-law.md
-  - Frontier Close Loop Execution/physics-registration-theorem.md
-  - overview/physics-domain-mature-status.md
-  - Frontier Close Loop Execution/sm-content-smuggle-audit-frontier.md
+  - realizability-weighting-law.md
+  - physics-registration-theorem.md
+  - physics-domain-mature-status.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
 # Amplitude / Readout Theorem
@@ -53,7 +53,7 @@ mathematics-as-mathematics: a normalized noncontextual measure over a sufficient
 rich Hilbert-like frame is represented by a quadratic form. In the present wiki
 language, this supports the move from pairing amplitude to `|h(σ,k)|²`.
 
-The dimensional caveat from [[realizability-weighting-law]] remains live:
+The dimensional caveat from [realizability-weighting-law](realizability-weighting-law.md) remains live:
 standard Gleason-style support requires a sufficiently rich frame, classically
 dimension `>= 3`; the dimension-2 gap is not closed here and must not be hidden in
 downstream uses.
@@ -133,6 +133,6 @@ The correct equilibrium is:
 - reject any `cos²` argument whose angle is not first shown to be an
   amplitude-space angle.
 
-See also: [[realizability-weighting-law]], [[physics-registration-theorem]],
-[[physics-domain-mature-status]], [[sm-content-smuggle-audit-frontier]],
-[[claim-status-vocabulary]].
+See also: [realizability-weighting-law](realizability-weighting-law.md), [physics-registration-theorem](physics-registration-theorem.md),
+[physics-domain-mature-status](physics-domain-mature-status.md), [sm-content-smuggle-audit-frontier](sm-content-smuggle-audit-frontier.md),
+[claim-status-vocabulary](claim-status-vocabulary.md).

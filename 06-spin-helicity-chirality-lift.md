@@ -6,10 +6,10 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-item-6
 sources:
-  - results/chiral-coupling-result.md
-  - results/gauge-structure-result.md
-  - results/lorentz-from-recoupling.md
-  - process/sm-frontier-loop-state/05-gauge-architecture-beyond-color.md
+  - chiral-coupling-result.md
+  - gauge-structure-result.md
+  - lorentz-from-recoupling.md
+  - 05-gauge-architecture-beyond-color.md
 ---
 
 # SM Frontier Item 6 — Spin / Helicity / Chirality / Lift
@@ -43,5 +43,5 @@ The machinery is derived from metric/lifted rotatability/propagation plus the J-
 
 ## Caveats carried forward
 
-1. Helicity's identification of discrete propagation-direction with continuum momentum direction inherits the manifold-recovery theorem, which remains Open in [[propagation-and-invariant-velocity]].
+1. Helicity's identification of discrete propagation-direction with continuum momentum direction inherits the manifold-recovery theorem, which remains Open in [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
 2. The spin foundation rests on Item 5's `SU(2)` ↔ With / lifted-rotatability-as-With joint, the softest link in the gauge work. Firming that joint is now load-bearing under both Item 5 and Item 6.

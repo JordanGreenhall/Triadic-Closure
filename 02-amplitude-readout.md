@@ -5,10 +5,10 @@ status: pass-for-load
 frontier_item: 2
 updated: 2026-06-25
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - Frontier Close Loop Execution/amplitude-readout-theorem.md
-  - process/sm-frontier-loop-state/02-with-to-this-item2-load-audit.md
-  - results/realizability-weighting-law.md
+  - 02-04-items-2-3-4-status.md
+  - amplitude-readout-theorem.md
+  - 02-with-to-this-item2-load-audit.md
+  - realizability-weighting-law.md
 ---
 
 # Item 2 — Amplitude / Readout Theorem
