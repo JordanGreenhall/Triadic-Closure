@@ -36,7 +36,7 @@ The physics walk must remain framework-grounded.
 
 1. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, and action must be clarified architectonically before use.
 2. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
-3. Inherit the From whole at every step: the terminal mathematical object in full, not selected handles.
+3. Inherit the certified mathematical gate-package at every step, preserving each item's grade and debt. Audit every feature; inheritance does not mean every feature actively bites at every phase.
 4. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
 5. Use the three moves per stage:
    - Move 1: dependency position / essential-form portfolio.
@@ -47,7 +47,7 @@ The physics walk must remain framework-grounded.
 
 ## Authority order
 
-1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `entering-a-new-domain.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method.
+1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `domain-entry-method.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method. `entering-a-new-domain.md` is historical worked-example provenance.
 2. `physics-walk-D1-D5-consolidated.md` is the current D1-D5 re-walk where it conflicts with earlier D3/D4 mediation-carrier documents.
 3. `phi-forward-reconstruction.md` is superseded provenance only.
 4. Current result modules may still overstate strength. Use the matrix below when they do.
