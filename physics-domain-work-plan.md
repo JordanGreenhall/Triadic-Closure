@@ -27,7 +27,7 @@ This is the hinge-first work plan for the physics domain. It is not a publicatio
 Every task below must run:
 
 1. Architectonic clarification of the relevant presupposition.
-2. Physics-walk checklist: Part 0 From in full; A frame; B instruments; C population; D grade; E adversarial pass.
+2. Physics-walk checklist: certified Part 0 gate-package with grades and debts; record each feature as bites / does not bite / unresolved; then A frame, B instruments, C population, D C2 record, and E adversarial pass.
 3. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
 4. Essential-form/mature-form split.
 5. Final two-axis record:
