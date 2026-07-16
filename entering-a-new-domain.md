@@ -72,8 +72,8 @@ For each foundational concept:
   - **Unity (This-closure):** to be a content at all is to stand as one.
   - **Qualitative distinctness:** differing in registered character / invariant-kind — distinct by *what*.
   - **Positional distinctness:** same-character contents distinguished *only* by role/place in the conditioning structure (the From-order, the With-holding) — distinct by *where-in-the-relational-fabric*, never by a brute *this*. "Position" is itself relationally constituted (a role in the relations), so it does not smuggle haecceity.
-- **The collapse theorem governs same-character contents:** a symmetric holding of identically-charactered positions carries **no arity** — plurality-without-count. They are "many" *iff* positionally distinguished; absent positional distinction, they carry no classical count.
-- **Dissolution of the "identical particles" puzzle:** this *is* quantum indistinguishability. Same-character contents in a symmetric holding carrying no arity is precisely why one cannot label "which" particle and why state-counting goes non-classical. Multiplicity (D2) is therefore *positionally-distinguished same-character contents held by With*, with the symmetric/antisymmetric holding-modes already present — the boson/fermion structure and the correct many-vs-countless account arrive together.
+- **M2 correction to this historical worked example:** exchange symmetry removes which-position identity and ordered roles; it does not prove that a symmetric holding has no arity. The former collapse theorem is withdrawn. “Plurality without count” means only that no unordered count has yet been earned at this grade; unordered cardinality remains Open.
+- **Identical-particle comparison, with surplus quarantined:** lack of labels is structurally relevant to quantum indistinguishability, but the framework result does not by itself derive non-classical state-counting, erase occupation number, or seal the boson/fermion mapping. Those claims remain owned by their physics derivations.
 
 ### 3.4 Possibility / actuality (and the dissolution that matters most)
 

@@ -114,11 +114,13 @@ Only definable/schematic completeness and rule-given real/complex structure may 
 **Adjudication:** retained as binding grade constraint.
 **Claim standing:** Registered.
 
-## TSR-108 — D2 symmetric holdings yield plurality without count
-A symmetric holding carries no ordered arity merely from its symmetry.
+## TSR-108 — D2 symmetry does not generate labels or ordered count
+A symmetric, role-free holding of identically characterized positions registers neither which-position identity nor an ordering merely from its symmetry.
 
-**Adjudication:** retained within stated assumptions. Historical machine output is not current authority.
-**Claim standing:** Registered in the source walk.
+**Adjudication:** the exchange-invariance residue is retained. The stronger claim that the holding carries no arity at all is retracted: M1 permits unmarked internal two-ness, so label-freedom does not entail absence of every structural multiplicity invariant.
+**Framework standing:** Secured by dependency for absence of label- and order-distinction from symmetry alone. Unordered cardinality remains Open; no construction and no impossibility proof currently closes it.
+**Registration:** Native. “Plurality without count” is permitted only as “without an earned unordered count at this grade,” not as a theorem of arity-absence.
+**Evidence:** no current verifier check tests the retracted claim; V1 concerns observation-free plain ternary coalgebras and cannot be transferred to symmetric holdings.
 
 ## TSR-109 — Orientation unlocks ordinal counting and integer structure
 Oriented roles permit finite order-characters, concatenation, and inverse by role-swap.
