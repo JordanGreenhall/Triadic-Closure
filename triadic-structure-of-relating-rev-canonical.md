@@ -263,15 +263,17 @@ This makes a This an ontological primitive without turning it into a substance. 
 
 Status: forced by the closure-form; the four-face articulation is a clarification of This at full strength.
 
-## **2.7 Closure and relatively stable closure**
+## **2.7 Closure, its readings, and relative stability**
 
-A closure is From-With-This standing as one: a completed determination, the triad closed into a unit. An actual is a closure read under its arrived aspect. A standing is a closure read under its availability for further determination. A completed closure can be taken as a unit at a higher altitude and entered into further relations.
+A closure is From-With-This standing as one: a completed determination, the triadic act closed into a unit. Closure names the completed act, not an external boundary drawn around something and not an independently existing container or substrate. An actual is that closure read under its arrived aspect. A standing is the same closure read under its availability for further determination. These are aspect-readings of one closure, not additional kinds of closure.
 
-This replaces the legitimate work once assigned to substance. A relatively stable closure can function as bearer of properties, subject of predication, individuated unit, and persistence-through-change. What it does not carry is the incoherent half of substance: existential independence, the fantasy of needing nothing else in order to be. Closure separates what substance fused. It gives unit-status without self-grounding.
+Completion, persistence, and passability must remain distinct. Completion gives a closure unit-status at its occurrence. Relative stability means that a completed closure remains intelligible as the same standing across some range of variation. At domain grade, D6 supplies the explicit persistence test; D7 gate-ground use requires such a persisting closure together with an exhibited successor boundary. A closure may therefore be completed and transient. Neither persistence nor passability belongs to closure merely by definition.
 
-The phrase "relatively stable" matters. A closure can be stable enough to be treated as a unit while still remaining composed, conditioned, and dynamically maintained. Stability is not stasis. It means that the closure can remain intelligible as the same standing across some range of variation. Later, this range of variation will itself become something the account must articulate; here it is enough to mark that unit-status does not require frozen simplicity.
+The same distinction governs scale and procedure. A stride is an occurrence of the same closure-form in a changing horizontal history, not a second procedural concept of closure. A completed holding taken at unit-altitude composes into a further closure, again a closure; the new constraint and lineage make it a different occupancy, not a different foundational meaning. Mathematical, physical, domain-scale, atomic, and other concrete closures likewise name constrained occupancies or species of the one form only when their own constructions establish them. The foundational concept supplies none of those occupancies.
 
-Status: recognition of the replacement of substance by relatively stable closure; the closure-account itself is forced by the offices.
+A relatively stable closure can perform some work traditionally assigned to substance: it can be a bearer of properties, subject of predication, individuated unit, and persisting subject of change. This comparison does not register the inherited name `substance` for forward use. Existential independence, underlying substratum, simplicity, and self-grounding remain excluded; closure gives unit-status without any of them.
+
+*F5 C2 record: the closure core is **Secured by construction within the F2 frame** and **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach: the form and unit-status of a completed determination, its actual/standing aspect-readings, and its availability for further composition. The record does not secure occurrence or occupancy, relative stability, D6 persistence, D7 passability, any concrete domain realization, or self-closure dynamics. Because closure is framework-native, semantic registration is inapplicable; the bounded substance comparison contributes no warrant and licenses no inherited surplus.*
 
 ## **2.8 The two dimensions: vertical and horizontal**
 
