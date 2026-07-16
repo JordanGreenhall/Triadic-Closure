@@ -71,7 +71,7 @@ N supplies exactly two intrinsic count-structures, and they are different in kin
 
 ### F2.2 What F2 does and does not establish
 
-- **Established:** the step is atomic (P4); succession count (the From-count, = time in essence) is discrete, orientation-sourced, with no intermediate values (P5); and this discreteness is forced by atomicity, by the arity-source, and positively by the gate's exclusion of the completed continuum at the step level (P6).
+- **Established within the exhibited construction:** the step is atomic (P4); succession count is discrete and carried by the finite oriented-chain grading, with no constructed intermediate standing (P5–P6). M3 supplies this additive grading; it does not prove that every possible cardinal or temporal structure is orientation-generated, nor does it settle a continuum limit.
 - **Not established here (correctly deferred):**
   - That the *large-scale* temporal structure is a rule-given continuum (the smooth time of the metric) — this is a coarse-graining of the discrete succession count, using the *rule-given* (not completed) continuum (0.9), and belongs to the continuum-limit gates (F10/F11), not here. F2's discreteness is the *substructure*; the rule-given continuum is its large-scale deployment. No conflict: discrete substructure, rule-given-continuous coarse-graining.
   - The atomicity of *spatial* separation (the link) — parallel but distinct; address-separation is a count of edges (M1), discrete by the same (M4) source, but its three-fold flattened structure (F3) is separate.
