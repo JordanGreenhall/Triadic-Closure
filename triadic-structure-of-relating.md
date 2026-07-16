@@ -15,7 +15,7 @@ historical_sources:
 
 This is the reader and agent gateway to [The Triadic Structure of Relating — Canonical Foundation](triadic-structure-of-relating-rev-canonical.md). The canonical treatise carries the detailed derivations and the later mathematical walk; this page does not duplicate them.
 
-## F2 foundation record
+## Foundation claim record
 
 | Claim | Category / framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
@@ -25,6 +25,17 @@ This is the reader and agent gateway to [The Triadic Structure of Relating — C
 | The ultimate office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route. | Closed to self-certification; refuted by one genuine irreducible fourth office. The ceiling is a result, not an unfinished proof task. | **Native** |
 
 From, With, and This are gerundive offices of one act, not three substances: conditioning-from, coherently holding-with, and arriving-as-this. Richer office properties must retain their own dependency traces; they are not secured merely by repeating these names.
+
+## F3 composition and axis record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| Vertical mutual composition: each office is the relating of the other two. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its ceiling. | **Native** |
+| Vertical constitution and horizontal accumulation are distinct. | **Secured** by dependency. | Horizontal build requires prior standings and can be empty at an origin; vertical constitution does not accrue. | **Native** |
+| Finite turnover produces horizontal accumulation, lineage, and realizability re-texturing. | **Secured** by construction. | Walked finite turnover and unary addresses; arbitrary compound injectivity excluded. | **Native** |
+| Marked and flattened readings, with From / With / This flattenings. | **Secured** by construction. | Office-kind basis versus unit-altitude basis. Physical names require their own downstream registration. | **Native** |
+
+The governing terminology is maintained in [Vertical and Horizontal](vertical-and-horizontal.md): depth is vertical office-decomposition; horizontal position is altitude, and a horizontal sequence is measured by address length or succession count.
 
 ## F2 frontier pointers
 

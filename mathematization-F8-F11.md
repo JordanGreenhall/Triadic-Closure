@@ -1,3 +1,5 @@
+> **Historical F3 terminology note:** this superseded synthesis uses `depth` for horizontal address-length. Read those occurrences as **succession count**. Current canon reserves depth for vertical coinductive office-decomposition.
+
 # Mathematizing the Curved Substrate: F8–F11 (the gravity tilt, curvature, and the forced Einstein form)
 
 ### Third computation of the gravity-mathematization survey, on the sealed flat tier (F1–F7: the conditioning-network N, the anti-smuggle admissibility rule, step atomicity, and Aut(N) = SO⁺(1,3) with s² = −Δt² + |Δx|²). This is the curved/gravity tier — the prize and the frontier. Discipline (F1.2/P2) in force: every quantity definable from N's intrinsic data; **rate and density banned**. Tags: **[proved]**, **[argued]** (right structure, full proof owed), **[open]** (genuine gap). This tier reaches **the Einstein form as forced given four properties**, with the quantitative tensor-step (F10a) open; it is a forcing-argument, not a from-scratch field-equation computation, and says so.

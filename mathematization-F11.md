@@ -58,7 +58,7 @@ The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is re
 
 The earlier version flagged premise (1) — that the conditioning-source is a symmetric, conserved, rank-2 stress-energy tensor — as "argued, not computed," and noted it was the framework-discriminating step (a Lovelock argument "derives" Einstein from *any* substrate supplying a GR-shaped source; the framework must actually *produce* that source). This is now derived.
 
-**The construction (`t_structure.py`, `t_full.py`, `t_converge.py`).** A conditioning is **oriented** (From, one-way), so it carries a spacetime worldline-tangent V^μ = (1, n_k): one depth-step (time) and a spatial step n_k. Transporting this oriented quantity — the flux of the conditioning's own orientation — gives the source
+**The construction (`t_structure.py`, `t_full.py`, `t_converge.py`).** A conditioning is **oriented** (From, one-way), so it carries a spacetime worldline-tangent V^μ = (1, n_k): one succession step (time) and a spatial step n_k. Transporting this oriented quantity — the flux of the conditioning's own orientation — gives the source
 
 > T^{μν}(x) = Σ_k a_k V_k^μ V_k^ν = ρ V^μ V^ν,
 

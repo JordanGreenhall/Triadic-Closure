@@ -8,7 +8,7 @@
 
 A content P stands at a node of the conditioning-network N. Construct the space of P's next-coupling-configurations:
 
-- **[def] The elementary couplings.** P has finitely many admissible elementary next-couplings — one per neighbor/aspect P can condition at depth + 1. (Finiteness: F2 atomicity + finite conditioning-degree per step.) Label them $e_1, \dots, e_n$. They are the basis directions of the configuration space.
+- **[def] The elementary couplings.** P has finitely many admissible elementary next-couplings — one per neighbor/aspect P can condition at the next succession count. (Finiteness: F2 atomicity + finite conditioning-degree per step.) Label them $e_1, \dots, e_n$. They are the basis directions of the configuration space.
 - **[def] The configuration space** $V = \mathbb{C}^n$, over rule-given $\mathbb{C}$ (0.9). A **next-configuration** is a vector $k = \sum_i k_i e_i \in V$ — a coherent superposition of elementary couplings (coherent because the standing is a ρ-coherent structure and realizability carries all forks with amplitudes, 0.5).
 - **[def] The pairing** $h$: the inherited Hermitian form (0.4), non-degenerate, J-compatible. In the physics subdomain it is positive-definite (probability-readability), so $(V, h)$ is a finite-dimensional Hilbert space. Write $h(x,y) = x^\dagger H y$ for a Hermitian positive-definite matrix $H$.
 - **[def] The standing vector** $\sigma \in V$: the accumulated standing, projected onto P's coupling-options — i.e. how the coherence the standing has already established constrains which of P's next-couplings cohere. It lives in the same space $V$ (the standing constrains P's couplings *through the pairing*, so its bearing on P is a vector paired against P's configurations).

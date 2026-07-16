@@ -14,13 +14,15 @@ These are not three substances. They are the three offices of one act. Closure i
 
 ## 2. Vertical composition
 
-Each office is itself composed by the other two. The offices are therefore irreducible without being atomic.
+Each office is itself composed through the other two. The offices are therefore irreducible without being atomic.
 
 - **From** is the relating of With and This.
 - **With** is the relating of From and This.
 - **This** is the relating of From and With.
 
-This is vertical composition: the synchronic constitution of each office through the other two. It differs from horizontal accumulation, in which actual standings constrain the space of subsequent realizability.
+The construction is conditional on the F2 frame. Any intelligible relating deploys all three distinct office cores. Taking one office as the focal relation leaves the other two as the distinct relata; self- or repeated relata would omit an ineliminable core. The pure primitiveness posit bars a non-relational ground, and exactly-three bars a fourth office.
+
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The pure posit carries no warrant, so every downstream result remains conditional on it.
 
 ## 3. The exactly-three result
 
@@ -51,7 +53,11 @@ The canonical distinction is:
 - **Vertical:** office-composition, admissibility, and constitution within a standing.
 - **Horizontal:** the diachronic accumulation of actuals and the resulting constraint on future realizability.
 
-Nesting and layered organization belong primarily to the horizontal. They should not be called vertical merely because they appear hierarchically stacked.
+The separation is **Secured by dependency** and **Native**: horizontal composition requires prior standings and can be empty at an origin; vertical constitution does not accrue and is present wherever a closure stands. Finite turnover, lineage, and realizability re-texturing are **Secured by construction**; arbitrary compound-address injectivity is not included.
+
+The marked office-kind reading and the flattened unit-altitude reading are likewise **Secured by construction** at turnover. The Native flattenings are succession/order (From), quantity/extent (With), and quality/internal distinction (This). Physical names require separate downstream registration.
+
+Nesting, layers, and strata are horizontal. Altitude is horizontal tower position; address length or succession count measures horizontal sequence. Depth is reserved for vertical coinductive office-decomposition.
 
 ## 6. Closure
 
@@ -70,13 +76,14 @@ A domain does not discard the prior domain when it begins. The prior domain is c
 
 This means that independently established downstream success may support the foundation upward along the dependency trace, but it cannot erase the totalization ceiling, extend the defended-posit warrant beyond intelligible determination, or substitute empirical fit for the defense profile.
 
-## 8. Current F2 record and queued neighbors
+## 8. Current foundation record
 
 - Relating ineliminable and non-composite: **Secured** by retorsion at its stated reach; **Native**.
 - Relating primitive, with nothing beneath it: **pure posit**; **Native**. No warrant is claimed; downstream results state their dependence on it.
 - Minimal From / With / This office cores: **Secured** by retorsion as an at-least-three result within intelligible determination; **Native**.
 - Exactly-three: **Secured within the completeness ceiling** by the completed three-part defended-posit route; **Native**. A genuine irreducible fourth office refutes it.
-- Vertical mutual composition and the vertical/horizontal distinction belong to F3. Mutual composition is conditional on the pure primitive-relating posit; F3 retains the adjudication of the construction itself.
+- Vertical mutual composition: **Secured by construction within the F2 frame**; **Native**; conditional on the pure primitive-relating posit.
+- Vertical/horizontal separation: **Secured by dependency**; finite horizontal turnover and the marked/flattened readings: **Secured by construction**; **Native**.
 - The modal triad and domain-inheritance claims retain their owning-unit records; no registration state is inferred from this summary.
 
 No inherited name is required for the F2 concepts, so Registered and Registered–Sealed do not apply.

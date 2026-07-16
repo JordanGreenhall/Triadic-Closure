@@ -16,7 +16,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.4 The pairing.** Bi-additive, non-degenerate, J-compatible, over the rule-given complexes. Conjugation = orientation-reversal on rule-given complex pairs. *Constraint inherited:* a Hermitian-type pairing is available; **its values are a selection** (at the successor's disposal); non-degeneracy is an admissibility condition.
 
-**0.5 Recursive coherence ρ.** The coherence-data by which finite-depth pieces cohere into the whole and passages compose up to coherence. The (∞,1) ambient is this grade itself. *Constraint inherited:* coherence-under-recursion is a fundamental structural resource — **default-on in every sweep**. The realizable-as-running-constraint (Part A2) IS ρ at work: the sum of actuals cohering into the constraint on the next actual.
+**0.5 Recursive coherence ρ.** The coherence-data by which finite-stage pieces cohere into the whole and passages compose up to coherence. The (∞,1) ambient is this grade itself. *Constraint inherited:* coherence-under-recursion is a fundamental structural resource — **default-on in every sweep**. The realizable-as-running-constraint (Part A2) IS ρ at work: the sum of actuals cohering into the constraint on the next actual.
 
 **0.6 Conservation of registered distinctions.** Monotone — distinctions once registered are permanent; identifications are provisional. *Constraint inherited:* nothing destroys a registered distinction; conservation laws are this, at physics grade.
 
@@ -44,7 +44,7 @@ A3. Name what is **inherited** (Part 0 content + prior stage results, with grade
 
 B1. **J / orientation** (0.2) — does the involution act here?
 B2. **Two-sector polarity AND commingling** (0.3) — do the ±1 sectors bite, and how do they *relate* (not flattened, not ignored)?
-B3. **ρ / coherence-under-recursion** (0.5) — **default-on** — how do finite-depth pieces cohere into the whole; what is the running-realizability constraint here?
+B3. **ρ / coherence-under-recursion** (0.5) — **default-on** — how do finite-stage pieces cohere into the whole; what is the running-realizability constraint here?
 B4. **Conservation of distinctions** (0.6) — what is conserved across this step?
 B5. **Pairing** (0.4) — does it bite? (Resist reaching for it first by habit.)
 B6. **Survey injectivity** (0.1) — contents individuated by aspect-data; relevant?
@@ -57,7 +57,7 @@ B9. **The graded/linear/continuum content** (0.7–0.9) — does this step spend
 C1. **Survey the full population** of kinds-of-things that emerge at this stage from how horizontal and vertical commingle under the domain's From. It is usually a LONG list, not one thing. Use physical reality to orient where to look.
 C2. **Probe each candidate** against the checklist + its location: does it achieve realizability *here*, given the inherited From-content and prior stages? Fire the probe; don't force a fit.
 C3. **Keep inclusions with grades, exclusions with reasons-and-forward-homes.** An exclusion ("momentum needs space, not present until Dn") is as informative as an inclusion.
-C4. **Depth, not minimum-viable-covering.** When something fits, ask *what KIND* of thing it is and why this stage — don't stop at "slot filled." Where is the Hamiltonian? What kind of coherence is it? Survey to depth.
+C4. **Full account, not minimum-viable-covering.** When something fits, ask *what KIND* of thing it is and why this stage — don't stop at "slot filled." Where is the Hamiltonian? What kind of coherence is it? Survey the full dependency account.
 
 ## PART D — Framework warrant and semantic registration
 
