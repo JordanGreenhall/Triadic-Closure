@@ -1,6 +1,6 @@
 # The Three Moves at Every Stage
 
-### A standing protocol for the physics walk, to be run at every D-stage in addition to the population survey. It exists to (a) credit each stage with what it genuinely forces, (b) audit each stage so nothing foundational is skipped, and (c) guide the investigation without an intractable exhaustive search. The orienting principle: **physics is one connected dependency structure; every piece matters, and skipping one upstream silently breaks something downstream** (skip recovering the metric at D2 and you arrive at D5 unable to do gauge symmetry, not knowing why). These three moves keep the dependency-bookkeeping honest.
+### A standing protocol for an **occupied** physics phase, to be run in addition to the population survey. The generic D-series supplies phase-form and dependency order, not occupancy. Before using this protocol, exhibit the phase's occupancy by construction and backward trace. The moves then (a) identify what the occupied phase may construct, (b) audit inherited constraints without assuming every one bites here, and (c) guide investigation without an intractable exhaustive search. These moves keep the dependency-bookkeeping honest.
 
 ---
 
@@ -8,7 +8,7 @@
 
 **Do not couple the mature form with the essential form.** This is the most frequent error. The essential form is what we care about — the bare structure that first becomes realizable. The mature form (the version a working physicist is familiar with) is the essential form *plus accreted content* added across later stages. We repeatedly mistake the mature form for the essential form and then either (i) wrongly conclude a structure "isn't here yet" because its mature dress is absent (the Hamiltonian, gravity), or (ii) wrongly import later content into an earlier stage.
 
-The corrective: for each physics structure, identify its **essential form** — strip the mature concept until only the bare structure remains (the strip-down test). Realizability is judged against the *essential* form. The accreted content is then tracked as it gets "tacked on" stage by stage. Rarely is the mature form the essential form.
+The corrective: for each proposed physics structure, identify a candidate **essential form** — strip the mature concept until only the bare proposed mapping remains. This is a search heuristic, not warrant and not registration. Realizability must still be constructed from the standing materials; only a Secured mapped core may license the inherited name. The accreted content is then tracked stage by stage.
 
 Examples already encountered:
 - **Hamiltonian:** essential form = the conserved coherent total generator of the field's joint self-transformation (present at D2). Mature form adds: free+interaction decomposition (D3), specific terms/spectrum, continuum-filling. We nearly mis-graded by expecting the mature form.
@@ -24,7 +24,7 @@ Examples already encountered:
 1. Maintain a **dependency hierarchy of essential forms**: for each foundational physics structure, what must already stand (in essential form) for it to be realizable. (E.g. gravity-essence depends on Hamiltonian-essence + spatial-degrees-essence; gauge-force differentiation depends on internal-charge structure; quarks depend on confinement which depends on the specific strong coupling.)
 2. Given the current stage's standing, list the structures whose dependencies are **now satisfied** — these are the candidates.
 3. For each candidate, ask: **is it now realizable?**
-   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State the grade (forced / registered / sealed) and *why it emerges at this stage specifically* (which standing structures, brought into which relationship, produce it).
+   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State framework state and warrant separately from semantic registration, and explain why it emerges at this occupied phase specifically.
    - **If no:** *why not?* Name the missing dependency and the later stage that is its home. A clean "not yet, because X is missing, home is Dn" is a real result — it is the dependency-bookkeeping that prevents silent downstream breakage.
 
 **Guard:** Move 1 tells us *where to look*, never *what to conclude*. Finding a structure must still be a forward construction from the standing, not a placement of something we wanted.
@@ -48,7 +48,7 @@ For everything surfaced by Moves 1 and 2, record:
 1. **Framework epistemic state:** Open / Conjectured / Secured. For every Secured claim, name the warrant route, reach, scope, conditions, and debts; do not turn warrant routes into a confidence ladder.
 2. **Semantic registration:** Native / Unregistered / Registered / Registered–Sealed. Registration applies only when an inherited name is in play. For Registered, state the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, run the bidirectional content-identity test explicitly within the declared scope: no remainder in either direction.
 3. **Essential vs accreted:** what is the essential form secured or semantically licensed here, and what mature-form content remains to be constructed later (and where).
-3. **Dependency entry:** update the dependency hierarchy — what now stands (so later stages can depend on it), and what was found *not yet* (with its named missing dependency and home stage). This running record is what prevents arriving at a later stage unable to proceed and not knowing which skipped upstream step is the cause.
+4. **Dependency entry:** update the dependency hierarchy — what now stands (so later stages can depend on it), and what was found *not yet* (with its named missing dependency and home stage). This running record is what prevents arriving at a later stage unable to proceed and not knowing which skipped upstream step is the cause.
 
 ---
 
@@ -59,4 +59,4 @@ For everything surfaced by Moves 1 and 2, record:
 - Move 3 alone is bookkeeping with nothing to book.
 - Together: Move 1 orients, Move 2 constructs forward, Move 3 grades and records — and the dependency-record makes the walk auditable, so a downstream failure can always be traced to the exact upstream step that produced (or failed to produce) the needed essential form.
 
-The walk is one dependency structure. Every piece of physics matters. Be clear on what matters where and when.
+The walk is one dependency structure. Preserve every inherited constraint, show which ones bite at the occupied phase, and keep non-biting features distinct from absent or discarded features.
