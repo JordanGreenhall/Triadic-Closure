@@ -59,20 +59,19 @@ The marked office-kind reading and the flattened unit-altitude reading are likew
 
 Nesting, layers, and strata are horizontal. Altitude is horizontal tower position; address length or succession count measures horizontal sequence. Depth is reserved for vertical coinductive office-decomposition.
 
-## 6. Closure
+## 6. Closure and domain entry
 
 A closure is not an externally bounded object. It is a relating that has achieved a standing sufficiently coherent to function as a This for a subsequent walk.
 
-Every closure therefore has two faces:
+A persisting closure may be selected as the standing ground for a proposed gate. It does not automatically “become From.” The gate-From must bridge from that ground to an actual boundary-With. The boundary is the successor's inclusion/exclusion rule; the domain is what unfolds under it.
 
-- as **This**, it is an achieved standing;
-- as **From**, it becomes the inherited whole for a later domain or subdivision.
+**F4 record:** boundary and conditional bootstrap are **Secured by construction** and **Native**. The full positive From→With gate transition remains **Conjectured**. Given a boundary, D-series form and adjacency are **Secured by construction** and strict order by dependency; occupancy is never forced.
 
-This transition is the basis of domain entry. Physics inherits the mathematical object as From-whole under the physics constraint. Chemistry inherits the mature physics object as From-whole under the chemistry constraint.
+Physics inherits the certified mathematical gate-package under a proposed physics boundary. Chemistry inherits only what an exhibited physics→chemistry gate licenses. These are domain-specific occupancy and handoff claims, not consequences of the generic schema alone.
 
 ## 7. Reflexive inheritance
 
-A domain does not discard the prior domain when it begins. The prior domain is carried whole into the new walk. The new domain articulates a further determination of that inherited whole.
+A domain does not discard its standing ground when it begins. Certified prior distinctions remain binding at their inherited grades, conditions, and debts. The successor boundary selects; it does not add. Whole-ground inheritance forbids contradiction or silent loss, but does not require every inherited feature to be active in every successor content.
 
 This means that independently established downstream success may support the foundation upward along the dependency trace, but it cannot erase the totalization ceiling, extend the defended-posit warrant beyond intelligible determination, or substitute empirical fit for the defense profile.
 
