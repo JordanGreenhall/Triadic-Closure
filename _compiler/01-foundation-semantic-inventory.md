@@ -1,6 +1,6 @@
 # Foundation Semantic Inventory — Provisional Cross-Source Index
 
-Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; FND-006 and FND-009 through FND-009a are adjudicated by F3; FND-007 and FND-011 through FND-013 are adjudicated by F4; all other entries retain their stated provisional status. This file is not canonical theory.
+Status: mixed cross-source inventory. FND-002 through FND-005 are adjudicated by F2; FND-006 and FND-009 through FND-009a are adjudicated by F3; FND-007 and FND-011 through FND-013 are adjudicated by F4; FND-008 is adjudicated by F5; all other entries retain their stated provisional status. This file is not canonical theory.
 
 ## Authority and scope
 
@@ -94,11 +94,15 @@ The offices articulate admissibility, realizability, and actuality as nested rea
 
 ## FND-008 — Closure is the foundational ontological unit
 
-Closure is the triadic act standing as one. The same foundational concept recurs under different constraints and at different scales; domain, atom, and other concrete closures are species or occupancies of this one structural concept, not second meanings of closure.
+Closure is the completed triadic act standing as one. Actual and standing are aspect-readings of one closure. A stride is an occurrence of the same form in a changing horizontal history. Domain, mathematical, physical, atomic, and other concrete closures are species or occupancies under additional constraints, not alternate definitions.
 
-**Adjudication note:** this formulation incorporates Jordan Hall's explicit ruling that procedural or domain closure is not a second concept beside structural closure.
+Completion, relative stability, D6 persistence, and D7 passability are distinct. Completion supplies unit-form at the occurrence. Persistence requires preservation across an exhibited variation-space. Passability additionally requires selection as gate-ground and an exhibited successor boundary. None follows from the word `closure` alone.
 
-**Adjudication status:** provisionally current; requires propagation check through all source uses of `closure`.
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach includes the form and unit-status of a completed determination, the actual/standing aspect-readings, and availability for further composition. It excludes occurrence or occupancy, relative stability, D6 persistence, D7 passability, concrete domain realization, self-closure dynamics, and inherited substance doctrine.
+
+**Authority note:** this incorporates Jordan Hall's explicit ruling that procedural or domain closure is not a second concept beside structural closure. The canonical detailed construction governs the warrant and scope. The comparison with functions historically assigned to substance is explanatory only and does not register the inherited name.
+
+**Adjudication status:** current under F5 after corpus-wide propagation review.
 
 ---
 
