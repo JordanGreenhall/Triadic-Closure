@@ -144,9 +144,9 @@ A domain boundary is an actual With whose determinate content is an inclusion/ex
 
 ## FND-012 — Whole-ground inheritance
 
-A successor inherits the standing ground whole as constraint: every certified distinction remains binding at its inherited grade and debt. A boundary selects; it does not add.
+Given an exhibited gate, a successor inherits the standing ground whole as constraint: every certified distinction remains binding at its inherited grade and debt. A boundary selects; it does not add.
 
-**C2 record:** **Secured by dependency**; **Native**. “Whole” forbids contradiction, silent loss, and warrant upgrade. It does not require every inherited feature to be actively instantiated or spent in every successor actual. Expenditure is phase-local and must be shown.
+**C2 record:** **Secured by dependency**, conditional on the gate; **Native**. “Whole” forbids contradiction, silent loss, and warrant upgrade. It does not require every inherited feature to be actively instantiated or spent in every successor actual. Expenditure is phase-local and must be shown.
 
 **Adjudication status:** current under F4.
 
