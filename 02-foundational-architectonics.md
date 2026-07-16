@@ -61,9 +61,11 @@ Nesting, layers, and strata are horizontal. Altitude is horizontal tower positio
 
 ## 6. Closure and domain entry
 
-A closure is not an externally bounded object. It is a relating that has achieved a standing sufficiently coherent to function as a This for a subsequent walk.
+A closure is the triadic act completed and standing as one, not an external boundary around an object. Actual and standing are arrived and forward-available readings of that one closure. A stride is an occurrence of the same closure-form; concrete closures at different constraints or scales are occupancies or species, not second foundational meanings.
 
-A persisting closure may be selected as the standing ground for a proposed gate. It does not automatically “become From.” The gate-From must bridge from that ground to an actual boundary-With. The boundary is the successor's inclusion/exclusion rule; the domain is what unfolds under it.
+Completion alone does not supply relative stability. D6 certifies persistence across a variation-space; only a persisting closure is eligible for selection as standing ground for a proposed D7 handoff, and an exhibited successor boundary is still required. A completed closure may therefore be transient, and a persisting closure does not automatically “become From.” The gate-From must bridge from that ground to an actual boundary-With. The boundary is the successor's inclusion/exclusion rule; the domain is what unfolds under it.
+
+**F5 record:** the closure core is **Secured by construction within the F2 frame** and **Native**, conditional on the pure posit of primitive relating, the Secured office cores, and exactly-three within its ceiling. Reach includes completed unit-form and the actual/standing readings; it excludes occurrence, occupancy, persistence, passability, concrete domain realization, and self-closure dynamics. No inherited name is registered by this result.
 
 **F4 record:** boundary and conditional bootstrap are **Secured by construction** and **Native**. The full positive From→With gate transition remains **Conjectured**. Given a boundary, D-series form and adjacency are **Secured by construction** and strict order by dependency; occupancy is never forced.
 
@@ -83,6 +85,7 @@ This means that independently established downstream success may support the fou
 - Exactly-three: **Secured within the completeness ceiling** by the completed three-part defended-posit route; **Native**. A genuine irreducible fourth office refutes it.
 - Vertical mutual composition: **Secured by construction within the F2 frame**; **Native**; conditional on the pure primitive-relating posit.
 - Vertical/horizontal separation: **Secured by dependency**; finite horizontal turnover and the marked/flattened readings: **Secured by construction**; **Native**.
+- Closure as the completed triadic act standing as one: **Secured by construction within the F2 frame**; **Native**. Completion does not entail persistence or passability.
 - The modal triad and domain-inheritance claims retain their owning-unit records; no registration state is inferred from this summary.
 
 No inherited name is required for the F2 concepts, so Registered and Registered–Sealed do not apply.
