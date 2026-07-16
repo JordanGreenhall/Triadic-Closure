@@ -6,7 +6,7 @@
 
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
-Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the whole of this content, not a chosen handle off it. The survey, by kind of constraint:
+Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:
 
 **0.1 Triadic constitutive survey.** Every content surveys as three signature-distinguished factors (conditioning / holding / arrived = From / With / This), coinductively, no finite base. Generation of variety is **horizontal**; the survey is **vertical** and constitutive. *Constraint inherited:* every physical content is office-constituted, three signature-distinct factors, on both axes always. (Not three positions — three distinct characters; position-only is degenerate, finding one. Vertical recursion generates no variety — rigidity, finding two.)
 
@@ -38,7 +38,7 @@ A1. State it on **both axes** — never pick one. Vertical constitution (offices
 
 A2. State its **modal structure** as co-constituting, not sequential. Admissible / realizable / actual. The realizable is the coherent constraint of the domain **given the sum of all actuals so far**, and that sum constrains the next actual. Realizability is running, not static — and this running constraint **is ρ** (0.5).
 
-A3. Name what is **inherited** (Part 0 content + prior stage results, with grades) vs. what this step must produce.
+A3. Name what is **inherited** (Part 0 content + prior stage results, with grades and debts) vs. what this step must produce. For each inherited feature, state whether it bites here; inheritance alone is not active deployment.
 
 ## PART B — Sweep all structural instruments (one line each: bites / doesn't / unsure — never skip)
 

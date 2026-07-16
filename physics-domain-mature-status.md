@@ -8,7 +8,7 @@ confidence: medium
 sources:
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
-  - entering-a-new-domain.md
+  - domain-entry-method.md
   - physics-walk-checklist.md
   - three-moves-per-stage.md
   - physics-walk-d1-d5-consolidated.md
@@ -36,7 +36,7 @@ The physics walk must remain framework-grounded.
 
 1. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, and action must be clarified architectonically before use.
 2. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
-3. Inherit the From whole at every step: the terminal mathematical object in full, not selected handles.
+3. Inherit the certified mathematical gate-package at every step, preserving each item's grade and debt. Audit every feature; inheritance does not mean every feature actively bites at every phase.
 4. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
 5. Use the three moves per stage:
    - Move 1: dependency position / essential-form portfolio.
@@ -47,7 +47,7 @@ The physics walk must remain framework-grounded.
 
 ## Authority order
 
-1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `entering-a-new-domain.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method.
+1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `domain-entry-method.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method. `entering-a-new-domain.md` is historical worked-example provenance.
 2. `physics-walk-D1-D5-consolidated.md` is the current D1-D5 re-walk where it conflicts with earlier D3/D4 mediation-carrier documents.
 3. `phi-forward-reconstruction.md` is superseded provenance only.
 4. Current result modules may still overstate strength. Use the matrix below when they do.
@@ -58,9 +58,9 @@ The physics walk must remain framework-grounded.
 
 | Item | Legacy C2 record | Strength / reason | Notes / frontier |
 |---|---|---|---|
-| Domain-entry discipline | Registered and Sealed | The method is explicit: clarify presuppositions, refuse smuggles, inherit From whole, use checklist + three moves. | Enforce on every new physics page. |
+| Domain-entry discipline | Current F4 execution control; registration inapplicable | Presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and D-series tracing are explicit. | Enforce on every new physics page. The method contributes no warrant to the physics claims it audits. |
 | Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |
-| Four images at domain entry: marked triad plus time/space/internal distinction | Registered | Forced from Treatise §7.4a plus domain-entry reading; source of current re-walk. | The individual physics readings still mature downstream. |
+| Four framework readings at an occupied boundary; physical time/space/internal mappings | Native framework construction; physical registrations separate | F3 secures the marked office-kind and three unit-altitude readings by construction. F4 makes their boundary use conditional on occupancy. | Time, space, and internal/color language may be spent only under their owning physics registration records. |
 | Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |
 | Boson/fermion essence | Registered and Sealed | Bidirectional content-identity between ± holding-mode and properly stripped boson/fermion essence. | Spin-statistics is deployment-context, not essence. |
 | Pauli/Bose holding result | Registered and Sealed | Follows from symmetric/antisymmetric holding and coincidence. | Does not require importing spin. |

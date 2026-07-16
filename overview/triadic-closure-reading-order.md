@@ -8,7 +8,7 @@ confidence: high
 sources:
   - ../architectonic-rigor-complete.md
   - ../triadic-structure-of-relating-rev-canonical.md
-  - ../entering-a-new-domain.md
+  - ../domain-entry-method.md
   - ../physics-domain-mature-status.md
 ---
 
@@ -31,7 +31,7 @@ This first layer is not a preface to physics. It is the wiki's root.
 
 Read this before any domain-specific reconstruction:
 
-[5. domain-entry-method](../entering-a-new-domain.md) — the method for refusing a domain's unconscious metaphysics, clarifying its presuppositions architectonically, inheriting the prior object as From-whole, and applying the domain constraint.
+[5. domain-entry-method](../domain-entry-method.md) — the governing F4 method: presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and the D-series. The older `entering-a-new-domain.md` is a historical physics worked example, not the control.
 
 For physics, this page explains why physics is entered as the mathematical object plus the self-transforming / invariant / coherent constraint, and why causation, metric, identity, possibility, and actuality must be rebuilt before use.
 

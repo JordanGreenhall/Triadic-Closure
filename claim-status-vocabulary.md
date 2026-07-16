@@ -7,7 +7,6 @@ status: current
 confidence: high
 sources:
   - architectonic-rigor-complete.md
-  - entering-a-new-domain.md
   - triadic-structure-of-relating-rev-canonical.md
   - _compiler/03-architectonic-rigor-semantic-inventory.md
   - _compiler/07-claim-status-vocabulary-semantic-inventory.md
@@ -152,4 +151,4 @@ Remainder: none within scope
 
 Never upgrade a claim by paraphrase, and never use registration as evidence of proof. For every inherited name, distinguish what the framework secured from what the name conventionally carries. If the surplus boundary is not stated, the Registered name may not bear downstream load.
 
-See also: [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [architectonic-rigor](architectonic-rigor.md), and [entering-a-new-domain](entering-a-new-domain.md).
+See also: [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [architectonic-rigor](architectonic-rigor.md), and [domain-entry-method](domain-entry-method.md).
