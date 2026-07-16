@@ -356,12 +356,12 @@ corpus governs; the owed check is real and must be discharged before banking.
 
 ## 8. NEW-DEPOSIT POINTERS (for the archivist to file or link)
 
-- **Handoff mechanism (general):** *the successor domain inhabits the residue the
-  predecessor's closure did not consume; its D7 element maximizes the successor's
-  recursion.* Exhibited once (charge-closure → shell-edge → chemistry; carbon =
-  catenation-maximizer). Grade: Registered-candidate as generalization of one
-  instance. Already in `physics-chemistry-gate-crossing.md` §3; ensure it is indexed
-  as a **cross-domain** result, not a chemistry-only one.
+- **Handoff mechanism (proposed generalization):** *the successor domain inhabits
+  the residue the predecessor's closure did not consume; its D7 element maximizes
+  the successor's recursion.* F4 correction: one proposed physics→chemistry instance
+  cannot secure or register a universal rule. Grade: **Conjectured; Unregistered**.
+  Keep it in `physics-chemistry-gate-crossing.md` as an owning-instance frontier,
+  not as the generic domain-entry mechanism.
 - **Two-mode budget reading:** the closed cosmological budget's two great entries
   (Ω_m, Ω_Λ) as the two conditioning modes (transitive/reflexive = the two Lovelock
   terms). Interpretation-grade; file as such, not as derivation.
