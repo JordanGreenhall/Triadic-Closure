@@ -58,9 +58,9 @@ The physics walk must remain framework-grounded.
 
 | Item | Legacy C2 record | Strength / reason | Notes / frontier |
 |---|---|---|---|
-| Domain-entry discipline | Registered and Sealed | The method is explicit: clarify presuppositions, refuse smuggles, inherit From whole, use checklist + three moves. | Enforce on every new physics page. |
+| Domain-entry discipline | Current F4 execution control; registration inapplicable | Presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and D-series tracing are explicit. | Enforce on every new physics page. The method contributes no warrant to the physics claims it audits. |
 | Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |
-| Four images at domain entry: marked triad plus time/space/internal distinction | Registered | Forced from Treatise §7.4a plus domain-entry reading; source of current re-walk. | The individual physics readings still mature downstream. |
+| Four framework readings at an occupied boundary; physical time/space/internal mappings | Native framework construction; physical registrations separate | F3 secures the marked office-kind and three unit-altitude readings by construction. F4 makes their boundary use conditional on occupancy. | Time, space, and internal/color language may be spent only under their owning physics registration records. |
 | Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |
 | Boson/fermion essence | Registered and Sealed | Bidirectional content-identity between ± holding-mode and properly stripped boson/fermion essence. | Spin-statistics is deployment-context, not essence. |
 | Pauli/Bose holding result | Registered and Sealed | Follows from symmetric/antisymmetric holding and coincidence. | Does not require importing spin. |
