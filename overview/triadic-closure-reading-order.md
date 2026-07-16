@@ -8,7 +8,7 @@ confidence: high
 sources:
   - ../architectonic-rigor-complete.md
   - ../triadic-structure-of-relating-rev-canonical.md
-  - ../entering-a-new-domain.md
+  - ../domain-entry-method.md
   - ../physics-domain-mature-status.md
 ---
 
