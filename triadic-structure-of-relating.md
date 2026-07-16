@@ -19,8 +19,8 @@ This is the reader and agent gateway to [The Triadic Structure of Relating — C
 
 | Claim | Category / framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
-| Relating is ineliminable and non-composite in the attempted-assembly sense. | **Secured** by retorsion. | Any intelligible denial or assembly of relation from prior unrelated parts. Does not secure primitiveness. | **Native** |
-| Relating is primitive: nothing stands beneath it. | **Pure posit.** No warrant is claimed. | Deliberately adopted foundational premise; downstream results state their conditional dependence on it. | **Native** |
+| Relating is ineliminable and non-composite in the attempted-assembly sense. | **Secured** by retorsion. | Any intelligible denial or assembly of relation from prior unrelated parts. | **Native** |
+| Relating is architectonically primitive. | **Secured** by dependency plus retorsion. | Every determinate or intelligible claim of a prior ground already relates that ground to relating, so the candidate cannot be asymmetrically prior; at most it is co-constitutive. Unrestricted claims beyond intelligibility are excluded. | **Native** |
 | A determination requires at least the minimal From / With / This cores. | **Secured** by retorsion. | At-least-three within intelligible determination; does not itself exclude a fourth office. | **Native** |
 | The ultimate office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route. | Closed to self-certification; refuted by one genuine irreducible fourth office. The ceiling is a result, not an unfinished proof task. | **Native** |
 
@@ -30,7 +30,7 @@ From, With, and This are gerundive offices of one act, not three substances: con
 
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
-| Vertical mutual composition: each office is the relating of the other two. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its ceiling. | **Native** |
+| Vertical mutual composition: each office is the relating of the other two. | **Secured by construction within the F2 frame.** | Conditional on relating's Secured architectonic primitiveness, the Secured minimal office cores, and exactly-three Secured within its ceiling. | **Native** |
 | Vertical constitution and horizontal accumulation are distinct. | **Secured** by dependency. | Horizontal build requires prior standings and can be empty at an origin; vertical constitution does not accrue. | **Native** |
 | Finite turnover produces horizontal accumulation, lineage, and realizability re-texturing. | **Secured** by construction. | Walked finite turnover and unary addresses; arbitrary compound injectivity excluded. | **Native** |
 | Marked and flattened readings, with From / With / This flattenings. | **Secured** by construction. | Office-kind basis versus unit-altitude basis. Physical names require their own downstream registration. | **Native** |
@@ -53,7 +53,7 @@ The governing operating page is [Domain Entry Method](domain-entry-method.md).
 
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
-| Closure is the triadic act completed and standing as one. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its ceiling. Secures the form and unit-status of a completed determination, not its occurrence. | **Native** |
+| Closure is the triadic act completed and standing as one. | **Secured by construction within the F2 frame.** | Conditional on relating's Secured architectonic primitiveness, the Secured minimal office cores, and exactly-three Secured within its ceiling. Secures the form and unit-status of a completed determination, not its occurrence. | **Native** |
 | Actual and standing are readings of one closure. | **Secured by construction.** | Arrived aspect versus availability for further determination; neither is a second closure-kind. | **Native** |
 
 Completion does not entail relative stability, D6 persistence, or D7 passability. A stride is an occurrence of the same closure-form, and concrete mathematical, physical, domain-scale, or atomic closures are occupancies or species whose own constructions remain required. The foundation neither registers `substance` nor supplies warrant for self-closure dynamics.

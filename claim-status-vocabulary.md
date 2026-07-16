@@ -32,7 +32,7 @@ This axis asks: **what exact claim has the framework secured, by what route, and
 
 - **Pure posit** — a premise adopted straightforwardly as a foundation, with no derivation or defense claimed. It is not an epistemic state, not Conjectured, not Secured, and not an incomplete defended posit. Record it as **Category: Pure posit; Warrant: none claimed**, then state it as a condition on every downstream result that depends on it.
 
-Primitive relating — nothing stands beneath relating — is the canonical pure posit. It is **Native** on the registration axis.
+Pure posit remains available for an explicitly adopted foundational premise for which no derivation or defense is claimed. Relating's primitiveness no longer instantiates this category: corrective F2 Secures architectonic primitiveness by dependency plus retorsion.
 
 ### Warrant record
 

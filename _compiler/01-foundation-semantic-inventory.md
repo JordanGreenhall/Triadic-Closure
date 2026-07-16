@@ -54,11 +54,11 @@ The From / With / This inventory carries the strongest warrant available beneath
 
 Relating is not assembled from prior unrelated parts: any intelligible denial or attempted assembly relates its terms in the performance.
 
-**C2 record, secured core:** relating is ineliminable and non-composite in the attempted-assembly sense — **Secured** by retorsion; **Native**. Reach: the performance tested. It does not establish that nothing stands beneath relating.
+**C2 record, secured core:** relating is ineliminable and non-composite in the attempted-assembly sense — **Secured** by retorsion; **Native**. Reach: the performance tested.
 
-**Category, stronger claim:** relating is primitive — **pure posit**; **Native**. No warrant is claimed. It is a deliberately adopted foundational premise, not Conjectured, not Secured, and not an incomplete defended posit.
+**C2 record, architectonic primitiveness:** relating is architectonically primitive — **Secured** by dependency plus retorsion; **Native**. Any determinate claim that a candidate is prior to, beneath, grounds, or is more fundamental than relating deploys an asymmetric relation between that candidate and relating. The candidate therefore cannot be intelligibly asymmetrically prior; at most it is co-constitutive. Relata are not an independent exception: relata-as-relata require relating, while relating internally articulates relata. Reach: every determinate or intelligible candidate for priority. Excluded: an unrestricted metaphysical inventory of what may lie beyond intelligibility.
 
-**Adjudication status:** current under F2 by direct Jordan ruling. Retorsion may not be spent beyond its reach as if it secured primitiveness; downstream derivations must state their conditional dependence on the pure posit.
+**Adjudication status:** current under the corrective F2 ruling. The warrant is the exhibited dependency-plus-retorsion argument, not retorsion alone and not a completeness claim. Downstream derivations may spend only its architectonic reach.
 
 ---
 
@@ -76,7 +76,7 @@ Any intelligible determination deploys determinate distinction, coherent holding
 
 Each office is composed through the other two: From is the relating of With and This; With is the relating of From and This; This is the relating of From and With. The offices are irreducible without being atomic.
 
-**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Any intelligible relating deploys all three distinct cores; taking one as the focal relation leaves the other two as its distinct relata. Self- or repeated relata omit an ineliminable core. The pure posit remains an unwarranted condition.
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Any intelligible relating deploys all three distinct cores; taking one as the focal relation leaves the other two as its distinct relata. Self- or repeated relata omit an ineliminable core.
 
 **Adjudication status:** current under F3. Later coinductive rigidity tests the recursion's consequences; it does not replace the native dependency trace.
 
@@ -98,7 +98,7 @@ Closure is the completed triadic act standing as one. Actual and standing are as
 
 Completion, relative stability, D6 persistence, and D7 passability are distinct. Completion supplies unit-form at the occurrence. Persistence requires preservation across an exhibited variation-space. Passability additionally requires selection as gate-ground and an exhibited successor boundary. None follows from the word `closure` alone.
 
-**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach includes the form and unit-status of a completed determination, the actual/standing aspect-readings, and availability for further composition. It excludes occurrence or occupancy, relative stability, D6 persistence, D7 passability, concrete domain realization, self-closure dynamics, and inherited substance doctrine.
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach includes the form and unit-status of a completed determination, the actual/standing aspect-readings, and availability for further composition. It excludes occurrence or occupancy, relative stability, D6 persistence, D7 passability, concrete domain realization, self-closure dynamics, and inherited substance doctrine.
 
 **Authority note:** this incorporates Jordan Hall's explicit ruling that procedural or domain closure is not a second concept beside structural closure. The canonical detailed construction governs the warrant and scope. The comparison with functions historically assigned to substance is explanatory only and does not register the inherited name.
 

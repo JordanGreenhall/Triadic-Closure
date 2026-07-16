@@ -1,8 +1,8 @@
 # Foundational Architectonics
 
-## 1. Relating: secured core and pure primitive posit
+## 1. Relating: secured ineliminability and architectonic primitiveness
 
-The foundation does not begin from independently existing relata subsequently joined by an external relation. Retorsion secures relating as ineliminable and non-composite in the attempted-assembly sense. The stronger claim — that nothing stands beneath relating, so relating is primitive rather than merely ineliminable — is a **pure posit**. It is adopted straightforwardly as a foundational premise: no derivation or defense is claimed, and it is not a conjecture or an incomplete defended posit.
+The foundation does not begin from independently existing relata subsequently joined by an external relation. Retorsion secures relating as ineliminable and non-composite in the attempted-assembly sense. Dependency plus retorsion also secure its **architectonic primitiveness**: every determinate claim that some candidate is prior to, beneath, grounds, or is more fundamental than relating already places that candidate in an asymmetric relation to relating and therefore deploys the very condition it would make derivative. Such a candidate cannot be intelligibly asymmetrically prior; at most it can be co-constitutive. Conversely, relating does not require that particular candidate. Relata do not supply an independent substrate: relata-as-relata require relating, while relating articulates its relata internally. The warrant reaches every determinate or intelligible candidate for priority. It does not assert an unrestricted inventory of what may lie beyond intelligibility.
 
 Relating articulates through three irreducible offices:
 
@@ -20,9 +20,9 @@ Each office is itself composed through the other two. The offices are therefore 
 - **With** is the relating of From and This.
 - **This** is the relating of From and With.
 
-The construction is conditional on the F2 frame. Any intelligible relating deploys all three distinct office cores. Taking one office as the focal relation leaves the other two as the distinct relata; self- or repeated relata would omit an ineliminable core. The pure primitiveness posit bars a non-relational ground, and exactly-three bars a fourth office.
+The construction is conditional on the F2 frame. Any intelligible relating deploys all three distinct office cores. Taking one office as the focal relation leaves the other two as the distinct relata; self- or repeated relata would omit an ineliminable core. Secured architectonic primitiveness bars an intelligibly prior non-relational ground, and exactly-three bars a fourth office.
 
-**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The pure posit carries no warrant, so every downstream result remains conditional on it.
+**C2 record:** **Secured by construction within the F2 frame**; **Native**. Conditions: relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling.
 
 ## 3. The exactly-three result
 
@@ -65,7 +65,7 @@ A closure is the triadic act completed and standing as one, not an external boun
 
 Completion alone does not supply relative stability. D6 certifies persistence across a variation-space; only a persisting closure is eligible for selection as standing ground for a proposed D7 handoff, and an exhibited successor boundary is still required. A completed closure may therefore be transient, and a persisting closure does not automatically “become From.” The gate-From must bridge from that ground to an actual boundary-With. The boundary is the successor's inclusion/exclusion rule; the domain is what unfolds under it.
 
-**F5 record:** the closure core is **Secured by construction within the F2 frame** and **Native**, conditional on the pure posit of primitive relating, the Secured office cores, and exactly-three within its ceiling. Reach includes completed unit-form and the actual/standing readings; it excludes occurrence, occupancy, persistence, passability, concrete domain realization, and self-closure dynamics. No inherited name is registered by this result.
+**F5 record:** the closure core is **Secured by construction within the F2 frame** and **Native**, conditional on relating's Secured architectonic primitiveness, the Secured office cores, and exactly-three within its ceiling. Reach includes completed unit-form and the actual/standing readings; it excludes occurrence, occupancy, persistence, passability, concrete domain realization, and self-closure dynamics. No inherited name is registered by this result.
 
 **F4 record:** boundary and conditional bootstrap are **Secured by construction** and **Native**. The full positive From→With gate transition remains **Conjectured**. Given a boundary, D-series form and adjacency are **Secured by construction** and strict order by dependency; occupancy is never forced.
 
@@ -80,10 +80,10 @@ This means that independently established downstream success may support the fou
 ## 8. Current foundation record
 
 - Relating ineliminable and non-composite: **Secured** by retorsion at its stated reach; **Native**.
-- Relating primitive, with nothing beneath it: **pure posit**; **Native**. No warrant is claimed; downstream results state their dependence on it.
+- Relating architectonically primitive: **Secured** by dependency plus retorsion; **Native**. No determinate or intelligible candidate can stand asymmetrically prior to relating; unrestricted claims beyond intelligibility are outside the warrant's reach.
 - Minimal From / With / This office cores: **Secured** by retorsion as an at-least-three result within intelligible determination; **Native**.
 - Exactly-three: **Secured within the completeness ceiling** by the completed three-part defended-posit route; **Native**. A genuine irreducible fourth office refutes it.
-- Vertical mutual composition: **Secured by construction within the F2 frame**; **Native**; conditional on the pure primitive-relating posit.
+- Vertical mutual composition: **Secured by construction within the F2 frame**; **Native**; conditional on relating's Secured architectonic primitiveness.
 - Vertical/horizontal separation: **Secured by dependency**; finite horizontal turnover and the marked/flattened readings: **Secured by construction**; **Native**.
 - Closure as the completed triadic act standing as one: **Secured by construction within the F2 frame**; **Native**. Completion does not entail persistence or passability.
 - The modal triad and domain-inheritance claims retain their owning-unit records; no registration state is inferred from this summary.

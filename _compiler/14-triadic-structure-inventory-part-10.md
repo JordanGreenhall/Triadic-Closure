@@ -158,4 +158,4 @@ Presentation-independence suffices for the current gate; categorical finality is
 
 ## Closing adjudication
 
-The living architecture rests on the defended primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, and categorical finality remain unresolved.
+The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, and categorical finality remain unresolved.

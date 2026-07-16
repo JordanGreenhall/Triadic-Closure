@@ -56,15 +56,15 @@ The account proceeds by dependency. A claim is well placed when it appears at th
 
 The governing framework states are **Open, Conjectured, and Secured**. Semantic registration is independently **Native, Unregistered, Registered, or Registered–Sealed**. Body tags elsewhere in this treatise remain compact route or provenance markers until their owning units normalize them; they never override an explicit C2 claim record. Merely naming a route does not warrant a claim. The companion document *Architectonic Rigor* governs each route's reach and ceiling.
 
-## **0.2 The foundation: two retorsive results, a pure posit, and an exact-count result**
+## **0.2 The foundation: retorsive results, architectonic primitiveness, and an exact-count result**
 
 The foundation separates four claims whose warrant must not be collapsed.
 
 | **Claim** | **Category / framework state and warrant** | **Reach and conditions** | **Registration** |
 | --- | --- | --- | --- |
-| Relating is ineliminable and cannot be assembled from prior unrelated parts. | **Secured** by retorsion (0.3). | Any intelligible denial or attempted assembly necessarily relates its terms. This does not show that nothing stands beneath relating. | **Native** |
+| Relating is ineliminable and cannot be assembled from prior unrelated parts. | **Secured** by retorsion (0.3). | Any intelligible denial or attempted assembly necessarily relates its terms. | **Native** |
 | A determination requires at least distinction, coherent holding, and determinate standing — the minimal cores later named From, With, and This. | **Secured** by retorsion (0.4). | At-least-three within intelligible determination. It blocks reduction to one or two but does not exclude a fourth office. | **Native** |
-| Nothing stands beneath relating; relating is primitive rather than merely ineliminable. | **Pure posit.** No warrant is claimed. | A deliberately adopted foundational premise, not a conjecture, not a Secured result, and not an incomplete defended posit. Downstream results must state their conditional dependence on it. | **Native** |
+| Relating is architectonically primitive. | **Secured** by dependency plus retorsion (0.3a). | Every determinate or intelligible candidate alleged to be prior to, beneath, or the ground of relating is stated in an asymmetric relation to relating and therefore already deploys relating. It cannot be intelligibly asymmetrically prior; at most it is co-constitutive. The warrant does not assert an unrestricted inventory beyond intelligibility. | **Native** |
 | The office inventory is exactly three. | **Secured within the completeness ceiling** by the completed defended-posit route (0.5–0.5a). | Ultimate offices of intelligible determination. Closed to self-certification but open to refutation by one genuine irreducible fourth office. | **Native** |
 
 The offices are not three substances that later enter relation. At the secured minimum they are three ineliminable offices of one non-composite act. Richer office articulations must preserve the dependency ceilings recorded above.
@@ -75,7 +75,15 @@ Suppose relating were assembled from prior, unrelated parts. The act that assemb
 
 This does not show that relating is a bare numerical one. It shows that the unity proper to relating is not composite in the sense of being built from prior unrelated units. The unity proper to relating is an articulated act rather than an assembly of prior unrelated units. The three-office articulation is secured separately by 0.4 and 0.5.
 
-*C2 record: **Secured** by retorsion as ineliminability and non-compositeness, within the performance of any intelligible denial or attempted assembly. This does not secure primitiveness. The claim is **Native**.*
+*C2 record: **Secured** by retorsion as ineliminability and non-compositeness, within the performance of any intelligible denial or attempted assembly. Retorsion alone does not secure primitiveness; 0.3a adds the dependency argument. The claim is **Native**.*
+
+## **0.3a Architectonic primitiveness**
+
+Let `X` be any determinate candidate alleged to be more fundamental than, prior to, beneath, or the ground of relating. Each alleged priority is an asymmetric dependency relation between `X` and relating. The assertion therefore deploys relating in the act of making `X` prior to it. `X` cannot be intelligibly asymmetrically prior to the condition its priority already requires. If `X` cannot be specified without relating while relating can be specified without that particular `X`, dependency places relating prior to `X`; if each requires the other, the honest result is co-constitution, not the priority of `X`.
+
+Relata do not furnish an exception. A relatum considered as a relatum is already an office within relating; relating requires relata, and relata-as-relata require relating. Their dependence is internal and co-constitutive, not evidence for an independently prior substrate. Thus no determinate or intelligible candidate can stand asymmetrically prior to relating.
+
+This is a Secured architectonic result, not self-grounding and not an unrestricted metaphysical totalization. Its reach is the order of intelligibility: determinate candidates and priority claims. It neither inventories nor denies what cannot enter intelligibility at all. No downstream construction may spend that excluded remainder.
 
 ## **0.4 Why the three do not collapse to two**
 
@@ -181,7 +189,7 @@ The example is not offered as proof. It is a low-risk recognition of the pattern
 
 ## **2.1 The gerund principle**
 
-From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The framework's pure primitive-relating posit is verbal rather than substantial.
+From, With, and This are offices of an act, not entities in a stock. They should be read gerundively: conditioning-from, holding-with, arriving-as-this. Whenever one of the offices is treated as a static thing, the account begins to smuggle a substrate behind the act. The framework's Secured architectonic primitiveness of relating is verbal rather than substantial.
 
 This also means that the three offices are not relata assembled into a relation. They are the articulation of relating itself. The triad is one act with three irreducible offices. Closure is the act standing as one.
 
@@ -189,7 +197,7 @@ This also means that the three offices are not relata assembled into a relation.
 
 ## **2.2 Vertical composition: each office is composed of the other two**
 
-The offices are not atoms. The F2 minimal-office result secures that any intelligible relating deploys the three distinct cores From, With, and This. Read gerundively, each office is itself a relating. Take one office as the focal relation: its relation-role is occupied by that office, while the other two ineliminable cores supply the distinct relata the relating requires. The pure posit that nothing stands beneath relating bars a non-relational ground, and the Secured-within-ceiling exactly-three result bars a fourth office from supplying the relata. Repeated or self-relata would fail to deploy one of the other ineliminable cores and therefore would not construct the focal office as the full relating F2 secured. This is not a metaphor and not mere mutual implication. It is a construction within the F2 frame, taken at full strength:
+The offices are not atoms. The F2 minimal-office result secures that any intelligible relating deploys the three distinct cores From, With, and This. Read gerundively, each office is itself a relating. Take one office as the focal relation: its relation-role is occupied by that office, while the other two ineliminable cores supply the distinct relata the relating requires. Relating's Secured architectonic primitiveness bars an intelligibly prior non-relational ground, and the Secured-within-ceiling exactly-three result bars a fourth office from supplying the relata. Repeated or self-relata would fail to deploy one of the other ineliminable cores and therefore would not construct the focal office as the full relating F2 secured. This is not a metaphor and not mere mutual implication. It is a construction within the F2 frame, taken at full strength:
 
 - From is the relating of With and This. It takes With and This as its relata and is the relation between them. Compression: From = This / With / the This-With relation. Seed and soil, successor and medium, belong together in From.
 
@@ -201,7 +209,7 @@ Two guards keep this exact. First, the relata are offices, not prior entities, s
 
 This composition is the vertical dimension of the architecture, declared canonically at 2.8. It is identical at every point of every construction: every From, every With, and every This anywhere in any unfolding is composed of the other two offices in exactly this way. Vertical composition never accrues and never varies. It is why the first This and the trillionth are composed in the same sense (5.4), and why "composed all the way down" has a meaning that does not bottom out in parts (7.5).
 
-*F3 C2 record: vertical mutual composition is **Secured by construction within the F2 frame** and **Native**. Its conditions are the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The pure posit supplies a premise, not warrant; every downstream result that spends mutual composition remains conditional on it. The construction's reach is the primitive office grammar. The later coinductive formalization tests the recursion's consequences but is not substituted for this dependency trace.*
+*F3 C2 record: vertical mutual composition is **Secured by construction within the F2 frame** and **Native**. Its conditions are relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The construction's reach is the primitive office grammar. The later coinductive formalization tests the recursion's consequences but is not substituted for this dependency trace.*
 
 ## **2.3 From: determinate distinction and conditioning**
 
@@ -273,7 +281,7 @@ The same distinction governs scale and procedure. A stride is an occurrence of t
 
 A relatively stable closure can perform some work traditionally assigned to substance: it can be a bearer of properties, subject of predication, individuated unit, and persisting subject of change. This comparison does not register the inherited name `substance` for forward use. Existential independence, underlying substratum, simplicity, and self-grounding remain excluded; closure gives unit-status without any of them.
 
-*F5 C2 record: the closure core is **Secured by construction within the F2 frame** and **Native**. Conditions: the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach: the form and unit-status of a completed determination, its actual/standing aspect-readings, and its availability for further composition. The record does not secure occurrence or occupancy, relative stability, D6 persistence, D7 passability, any concrete domain realization, or self-closure dynamics. Because closure is framework-native, semantic registration is inapplicable; the bounded substance comparison contributes no warrant and licenses no inherited surplus.*
+*F5 C2 record: the closure core is **Secured by construction within the F2 frame** and **Native**. Conditions: relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. Reach: the form and unit-status of a completed determination, its actual/standing aspect-readings, and its availability for further composition. The record does not secure occurrence or occupancy, relative stability, D6 persistence, D7 passability, any concrete domain realization, or self-closure dynamics. Because closure is framework-native, semantic registration is inapplicable; the bounded substance comparison contributes no warrant and licenses no inherited surplus.*
 
 ## **2.8 The two dimensions: vertical and horizontal**
 
@@ -317,7 +325,7 @@ The three offices read modally as three registers of a determination.
 
 The registers are nested — modal nesting, the inward ordering of the registers, distinct from the horizontal layer-nesting of 2.8. The actual lies within the realizable, and the realizable lies within the admissible. A move travels inward across this nesting. It does not leap from possibility-at-large directly into actuality. It selects from what is realizable here.
 
-*F4 C2 record: the office-to-register mapping and nested movement rule are **Secured by construction** from the office cores, closure, and the standing-conditioned field; conditional on those inherited records, including the pure posit where they spend it. The inherited modal names admissible, realizable, and actual are **Registered** over the displayed cores. Possible-worlds ontology, chance or probability weighting, latent substance, and occurrence as an extra metaphysical mode remain quarantined. Registration contributes no warrant.*
+*F4 C2 record: the office-to-register mapping and nested movement rule are **Secured by construction** from the office cores, closure, and the standing-conditioned field; conditional on those inherited records, including the bounded F2 architectonic-primitiveness warrant where they spend it. The inherited modal names admissible, realizable, and actual are **Registered** over the displayed cores. Possible-worlds ontology, chance or probability weighting, latent substance, and occurrence as an extra metaphysical mode remain quarantined. Registration contributes no warrant.*
 
 ## **3.2 Possible, realizable, and actual With**
 
@@ -471,7 +479,7 @@ Status: forced by elimination from the two posits, Step 1, and vertical composit
 
 ## 5.5 The bootstrap and the form of every stride
 
-The first stride cannot begin from a prior actual, because no actual yet stands. Its condition is therefore the triadic form itself: From, With, and This functioning as the primitive may. Relating conditions, coheres, and arrives as the first closure. There is no regress beneath this because the account posits nothing beneath relating.
+The first stride cannot begin from a prior actual, because no actual yet stands. Its condition is therefore the triadic form itself: From, With, and This functioning as the primitive may. Relating conditions, coheres, and arrives as the first closure. No intelligibly prior ground arrests the regress: any such ground would already stand in the relation of priority that the F2 argument secures as unavailable.
 
 But the first stride also establishes the form of every later stride. Every stride repeats the same office-structure: From conditions, With coheres, This arrives. In that sense, every stride is symmetrical with the primordial closure. The form is the same.
 
@@ -479,7 +487,7 @@ Yet no later stride begins from the same condition. Once a This stands, the next
 
 A stride therefore has two inseparable faces. Read as form, it is the same triadic closure again. Read as history, it is never the same closure again. The engine advances because the office-structure repeats while S changes.
 
-Status: constructed conditional on the **pure primitive-relating posit** and the separately warranted modal engine; the posit is a declared premise, not a securing route.
+Status: constructed conditional on relating's **Secured architectonic primitiveness** and the separately warranted modal engine; the F2 warrant reaches determinate or intelligible priority claims only.
 
 ## **5.6 Step 3: the second standing**
 
@@ -785,7 +793,7 @@ The mathematical object should appear only after the reader has the offices, clo
 
 The claim is not that ordinary mathematics has been derived in full. The claim is more precise: when the mathematical domain is unfolded far enough to reach a D7-capable persisting closure, the terminal object can be read as the mathematical realization of the triadic closure at full depth. Its categorical dress is recognition and selected formalization; the load-bearing features must trace to the offices.
 
-The development of this Part proceeds by reverse construction. The articulated terminal object — the four structural clauses spent by the physics document Φ (its §2) — is taken as provisionally actual to orient selection only: its dependency decomposition assigns each component a minimum phase-grade by what the component spends, and the walk certifies or refutes each component at its grade. Provisional actuality certifies nothing; every selection must be available at the stride where it is taken. Machine verification of the computational claims, with replication protocol and falsifiers, is recorded in the verification companion to this treatise.
+The development of this Part proceeds by reverse construction. The articulated terminal object — the four structural clauses spent by the physics document Φ (its §2) — is taken as provisionally actual to orient selection only: its dependency decomposition assigns each component a minimum phase-grade by what the component spends, and the walk certifies or refutes each component at its grade. Provisional actuality certifies nothing; every selection must be available at the stride where it is taken. Historical finite-check descriptions and their scope limits are preserved in the verification companion; they supply no current executable evidence or framework warrant.
 
 *Status: bridge framing; the object's validity is settled by the walk recorded below, not assumed.*
 
@@ -847,7 +855,7 @@ The object stands at rule-given grade throughout: schematic colimits, definable 
 
 ## **9.5 The walk of the mathematical domain: record and findings**
 
-The domain was walked forward from the gate of 9.2 under the reverse-construction method of 9.1, with the admissibility unlock of 3.7 governing the economy. The record, by grade, with machine-verified claims marked (verification companion):
+The domain was walked forward from the gate of 9.2 under the reverse-construction method of 9.1, with the admissibility unlock of 3.7 governing the economy. The record follows by grade; former finite-check labels survive only as historical provenance in the verification companion:
 
 D1. The first cut yields two admitted structures: the unmarked dyad — Secured by construction, 9.2 — and orientation-form. Registration at this grade is boundary-registration.
 
@@ -867,11 +875,11 @@ Additive structure. Free integer-modules on registrably distinct generators sati
 
 The continuum. An arbitrary, rule-free subset has no registered character and is not a content: the completed classical continuum is inadmissible — a theorem of the gate. A real presented as a rule — a basis over the rationals, downward-closed, no maximum — is a content; order is basis-entailment (6.5 at this altitude); arithmetic is rule-composition; completeness holds as a schema: the supremum of a rule-given bounded family is the union-rule, itself a rule (all verified). The complexes follow as rule-given pairs; conjugation is orientation-reversal. Recognition with surplus quarantined: this fragment is predicative analysis, with the adequacy-for-physics results of that tradition pointing where the boundary independently arrived.
 
-Two delimiting theorems, machine-verified. One: position-only ternary factors are degenerate — with no registered difference among factors, the final coalgebra of the plain ternary functor is a singleton (verified). Two: rigidity — pure office-recursion with signatures observed has exactly three solutions, one per office (verified); vertical recursion generates no variety, so no ternary functor can be the source of the object's richness; generation is horizontal, the survey vertical — the canon of 2.8 as a theorem about the object.
+Two delimiting arguments were formerly finite-range checked. One: position-only ternary factors are degenerate — with no registered difference among factors, the final coalgebra of the plain ternary functor is a singleton. Two: rigidity — pure office-recursion with signatures observed has exactly three solutions, one per office; vertical recursion generates no variety, so no ternary functor can be the source of the object's richness; generation is horizontal, the survey vertical — the canon of 2.8 as a theorem about the object. Their warrant must come from the displayed arguments, not the deleted verifier.
 
 Grades and debts. D1 through D3 and the unlocked regions stand at the grades stated. D6 at domain grade — the totality of persisting closures with its coherence-data — is articulated; its coherence laws at category grade are verification debt. D7 selection is live: the gate-package of 9.7 is funded in full at rule-given grade. Re-derivation of the physics fit under the walked object is verification debt. Open at this grade: unordered cardinality (counting-in-sequence is earned; counting-in-a-bag is not); the standing of the empty order-character; survey-finality in the categorical sense; the located impredicativity audit (classical functional-analytic machinery, when physics spends it, must be checked against the rule-given fragment).
 
-*Status: the record is replicable per 8.5's protocol; every verified claim carries a falsifier in the verification companion; debts are named, not waived.*
+*Status: the record's arguments and named debts remain current. The deleted verifier's former checks and falsifiers are historical provenance only.*
 
 ## **9.6## **9.6 The bifurcation theorem**
 
@@ -929,6 +937,6 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 
 ## **Closing statement**
 
-The structure rests on a differentiated basis: relating's ineliminability and non-compositeness are Secured by retorsion; relating's primitiveness is a pure posit for which no warrant is claimed; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those differentiated parents, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
+The structure rests on a differentiated basis: relating's ineliminability and non-compositeness are Secured by retorsion; relating's architectonic primitiveness is Secured by dependency plus retorsion within the order of intelligibility; and exactly-three is Secured within the completeness ceiling by its completed defended-posit route. From those differentiated parents, the account builds a grammar of constraint, closure, vertical constitution and horizontal accumulation, determinate content, modal movement, domain formation, and terminal mathematical realization. Its strength lies not in pretending to have no open joints, but in placing each joint exactly where its dependency warrants. The work ahead is to continue converting compressed recognitions into demonstrated operations of the engine.
 
 *Canonical foundation; open joints remain explicitly located above.*

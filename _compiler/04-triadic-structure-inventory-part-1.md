@@ -29,14 +29,14 @@ A claim belongs at the first level where all of its dependencies are available. 
 **Claim standing:** Registered control distinction.
 
 ## TS-004 — The foundation has secured roots and defended completeness posits
-Relating is ineliminable; determination requires at least distinction, holding, and standing. The primitiveness of relating and the exact completeness of the three-office inventory carry defended completeness warrants rather than the same retorsive warrant as the minimum.
+Relating is ineliminable; determination requires at least distinction, holding, and standing. Relating's architectonic primitiveness is Secured by dependency plus retorsion, while the exact completeness of the three-office inventory carries a defended completeness warrant.
 
 **Parents:** AR-007 through AR-010, AR-015, AR-016.
 **Adjudication:** retained. Later corpus work preserves the distinction between “at least three” and “exactly three.”
 **Claim standing:** Registered as the framework’s warrant profile.
 
 ## TS-005 — Relating cannot be assembled from prior unrelated parts
-Any assembly of supposedly unrelated parts already connects them; connecting is relating. This secures the ineliminability and non-derivability of relating from unrelated priors, while leaving the stronger exhaustive-primitiveness claim under the totalization ceiling.
+Any assembly of supposedly unrelated parts already connects them; connecting is relating. Further, every determinate assertion that a candidate is prior to, beneath, or grounds relating places that candidate in an asymmetric relation to relating and thereby deploys relating. The candidate cannot be intelligibly asymmetrically prior; at most it is co-constitutive. This secures architectonic primitiveness without asserting an unrestricted inventory beyond intelligibility.
 
 **Parents:** TS-004.
 **Adjudication:** retained with scope made explicit.
