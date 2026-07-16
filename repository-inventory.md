@@ -47,7 +47,6 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `mathematization-F10-resolved.md`
 - `mathematization-F11.md`
 - `verification-companion.md`
-- `verify.py`
 
 ## Physics walk and spacetime
 

@@ -2,7 +2,7 @@
 """Final corpus reference pass after flattening the historical wiki.
 
 This pass corrects two cases the first normalizer intentionally surfaced:
-1. non-Markdown targets such as verify.py;
+1. non-Markdown targets;
 2. historical source paths whose basename is identical to the current document,
    which must not become circular self-citations.
 It also adjudicates the small set of known renamed semantic targets.
@@ -43,7 +43,6 @@ ALIASES = {
     "mass-derivation-three-faces.md": "epsilon-fw-bracket-result.md",
     "physics-source-map": "corpus-lineage.md",
     "physics-source-map.md": "corpus-lineage.md",
-    "raw/package/verify.py": "verify.py",
 }
 
 

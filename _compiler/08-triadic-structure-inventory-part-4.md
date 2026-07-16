@@ -55,7 +55,7 @@ The first content carries only the edge of standing/no-standing or determinate/i
 ## TSR-060 — The bootstrap has no prior actual ground
 The first determination is conditioned by the triadic form because no prior actual exists and no substrate is posited beneath relating.
 
-**Adjudication:** retained, conditional on the defended primitiveness posit.
+**Adjudication:** retained, conditional on relating's architectonic primitiveness Secured by dependency plus retorsion.
 **Claim standing:** Registered within that framework commitment.
 
 ## TSR-061 — Every stride repeats the same office-form

@@ -22,11 +22,11 @@ This page is the governing F3 control for the two dimensions of composition. Jor
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
 | The vertical and horizontal are distinct. | **Secured** by dependency. | Horizontal composition requires prior standings and can be empty at a domain origin; vertical constitution does not accrue and is present wherever a closure stands. | **Native** |
-| Each office is vertically composed through the other two. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The focal office is the relating-office; the other two supply the required distinct relata. | **Native** |
+| Each office is vertically composed through the other two. | **Secured by construction within the F2 frame.** | Conditional on relating's architectonic primitiveness Secured by dependency plus retorsion, the Secured minimal office cores, and exactly-three Secured within its completeness ceiling. The focal office is the relating-office; the other two supply the required distinct relata. | **Native** |
 | A walked turnover produces horizontal accumulation, lineage, and a re-textured realizability field. | **Secured** by construction. | Finite exhibited turnovers and unary addresses. Arbitrary compound-address injectivity is not included. | **Native** |
 | The marked triad and its three flattenings are available at turnover. | **Secured** by construction. | Under the lower office-kind basis the triad remains marked; under the unit-altitude basis the taken aspects stand alike as units while their constitutive signatures survive. This does not by itself license the inherited names time, space, or color. | **Native** |
 
-The pure posit is a condition, not warrant. Every result spending vertical mutual composition must retain that condition.
+Every result spending vertical mutual composition must retain the conditions and reach of the F2 architectonic-primitiveness warrant.
 
 ## Vertical
 

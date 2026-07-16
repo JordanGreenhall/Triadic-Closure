@@ -120,7 +120,7 @@ A symmetric, role-free holding of identically characterized positions registers 
 **Adjudication:** the exchange-invariance residue is retained. The stronger claim that the holding carries no arity at all is retracted: M1 permits unmarked internal two-ness, so label-freedom does not entail absence of every structural multiplicity invariant.
 **Framework standing:** Secured by dependency for absence of label- and order-distinction from symmetry alone. Unordered cardinality remains Open; no construction and no impossibility proof currently closes it.
 **Registration:** Native. “Plurality without count” is permitted only as “without an earned unordered count at this grade,” not as a theorem of arity-absence.
-**Evidence:** no current verifier check tests the retracted claim; V1 concerns observation-free plain ternary coalgebras and cannot be transferred to symmetric holdings.
+**Evidence:** the deleted former verifier did not test the retracted claim; its V1 concerned observation-free plain ternary coalgebras and cannot be transferred to symmetric holdings.
 
 ## TSR-109 — Finite oriented chains unlock additive counting and integer grading
 Endpoint-bounded oriented chains distinguish identically characterized positions by relational role. Their finite linear-order isomorphism classes compose by tag-free concatenation into a commutative cancellative semigroup; formal-difference completion gives an additive group with inverse by swapping difference roles.

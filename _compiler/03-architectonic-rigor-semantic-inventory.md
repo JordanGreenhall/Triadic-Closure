@@ -116,7 +116,7 @@ When a claim asserts the exact completeness of a totality by means that belong t
 
 A pure posit is adopted deliberately as a foundational premise without derivation or defense. It is not Conjectured, not Secured, and not an incomplete defended posit. Record `Category: Pure posit; Warrant: none claimed`, and make every downstream result that spends it explicitly conditional on it. Semantic registration remains independent.
 
-**Disposition:** added by direct present ruling and propagated from F2.
+**Disposition:** retained as a general premise category. The former primitive-relating example was superseded by the corrective F2 proof and no longer instantiates this category.
 
 ## AR-016 — Defended posit is the maximal honest warrant for some exact-totality claims
 
