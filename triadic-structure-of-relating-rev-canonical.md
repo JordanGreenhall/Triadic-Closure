@@ -315,13 +315,15 @@ The three offices read modally as three registers of a determination.
 
 The registers are nested — modal nesting, the inward ordering of the registers, distinct from the horizontal layer-nesting of 2.8. The actual lies within the realizable, and the realizable lies within the admissible. A move travels inward across this nesting. It does not leap from possibility-at-large directly into actuality. It selects from what is realizable here.
 
+*F4 C2 record: the office-to-register mapping and nested movement rule are **Secured by construction** from the office cores, closure, and the standing-conditioned field; conditional on those inherited records, including the pure posit where they spend it. The inherited modal names admissible, realizable, and actual are **Registered** over the displayed cores. Possible-worlds ontology, chance or probability weighting, latent substance, and occurrence as an extra metaphysical mode remain quarantined. Registration contributes no warrant.*
+
 ## **3.2 Possible, realizable, and actual With**
 
 The word With needs careful bookkeeping because it names both an office and particular holdings. A possible With is a candidate basis or field that lies within admissibility but is not yet admitted by the current standing field. It cannot yet include or exclude in the present domain. A realizable With is a candidate basis admitted by the current realizability-With. It is adjacent: it could be determined from here. An actual With is determined. Its basis or inclusion/exclusion rule is fixed, and it can hold and exclude.
 
 For example, before a language-field is selected, many organizations of sound remain possible. Once a sequence S stands within a language-field, S conditions Realizability(S): the field of what can follow from what already stands. A candidate continuation may be realizable from S; a different string may remain admissible as English-like, poetic, syntactically grammatical in abstraction, or nonsensical, while not being realizable from this S. The language-field or grammar, once fixed as a rule of holding, can be read as an actual With. An uttered sentence is an actual standing. A candidate continuation is a realizable This or a realizable With depending on whether it is taken as arrived expression or field-structure. The point is not grammar as a flat container; it is Realizability(S) as conditioned by the actual sequence that already stands.
 
-Status: forced bookkeeping of the registers; the language example is recognition.
+*F4 C2 record: bookkeeping within the Secured mapping of 3.1; the language example is recognition only. No probability or actualization-weighting result follows.*
 
 ## 3.3 Realizability as an actual With
 
@@ -329,7 +331,7 @@ Realizability, read relative to a standing state S, is itself an actual With. It
 
 This is where With must be read richly. Realizability is not merely admissibility with a new label, nor merely the sum of actuals. It is the textured field created by all that stands, including the affordances and exclusions those standings generate. It is structured coherence as a field of potential actuality, conditioned by S.
 
-Status: forced, given With as actual holding-on-a-basis and the nested registers.
+*F4 C2 record: **Secured by construction**, given With as an actual holding-on-a-basis and the nested registers of 3.1. Reach: Realizability(S) as the state-conditioned holding-field; no measure or weight is supplied.*
 
 ## **3.4 State, move, adjacency**
 
@@ -339,7 +341,7 @@ Adjacency should be stated plainly. A region is adjacent to S when it is realiza
 
 There are therefore three working bins: standing actuals, adjacent-proximal material, and distant possibles. Standing actuals have already been determined. Adjacent-proximal material is realizable now but not yet determined. Distant possibles are admissible in the broad field but not reachable from the current standing ground.
 
-Status: forced by the modal nesting.
+*F4 C2 record: **Secured by construction** within the modal nesting. Reach: state, adjacency, and movement as Realizability(S)-relative framework terms; no metric, topology, or countable step is supplied.*
 
 ## **3.5 The smuggle and the validity rule**
 
@@ -355,7 +357,7 @@ The important point is that S is not a passive string. In "the cat sat on...," t
 
 At a technical altitude, this is also what an LLM navigates: not possibility-at-large, but a field of next-token realizability conditioned by the actual sequence already standing. The example is only a recognition. The framework point is that actuals condition Realizability, and Realizability is always Realizability-from-S once S stands.
 
-Status: forced as a discipline of movement under the registers; the linguistic and LLM examples are recognition.
+*F4 C2 record: **Secured as a construction constraint** under the registers. It tests whether a proposed move is licensed; it does not warrant the content selected. The linguistic and LLM examples are recognition only.*
 
 ## **3.6 Stride, standing, and building**
 
@@ -373,7 +375,7 @@ The registers carry different costs. Actualization is per-stride and expensive: 
 
 A region of structure stands at admissibility grade when three conditions are discharged once. First, its keystone — the region's generating structure — is actualized by an exhibited walk. Second, its closure rules are admissible passages under the standing boundary. Third, nothing in the region's generation spends excluded content. Thereafter the region's interior is admissible as a whole: particular objects are actualized on demand by finite pulls of the already-certified moves, with no per-element re-audit, and the unlock is defeasible at the boundary rather than re-examined per element. What admissibility delivers is the unit and the certified move — the ruler and the pull — and every particular object is one finite pull. The walk's work is planting constraints, not enumerating their fields.
 
-*Status: forced as a reading of the registers' own structure; the three unlock conditions are the construction-discipline of the companion document *Architectonic Rigor* applied at region grade.*
+*F4 C2 record: **Secured by construction** as an economy rule internal to the registered modal cores; the three unlock conditions are the construction-discipline of the companion document *Architectonic Rigor* applied at region grade. The unlock certifies a region's admissibility, not occupancy or the actuality of every member.*
 
 **4. Determinate content and the discipline against smuggling**
 
@@ -707,7 +709,7 @@ A domain comes to be when a gate crosses from a standing ground to a new With wh
 
 At the moment a domain opens, it may have a boundary before it has internal actuals. The unfolding then bootstraps by running the triad under the boundary. This recapitulates the primordial unfolding in form, but not in content. The bare triad no longer runs alone; it runs under boundary-plus-triad. Different boundaries therefore produce different first actuals even though the form of unfolding is the same.
 
-*Status: forced by gate/boundary/With distinction.*
+*F4 C2 record: the boundary as an actual With with an inclusion/exclusion rule, and the conditional bootstrap under boundary-plus-triad, are **Secured by construction** and **Native**. The full positive gate transition from standing ground to boundary-With remains **Conjectured** because the peer-level framework-native From→With dependency trace is open (0.8; Part 10). Given a boundary, the account proceeds conditionally; no boundary or internal occupancy is forced.*
 
 ## **8.2 The D-series as phase diagnostic**
 
@@ -725,7 +727,7 @@ The D-series should be read as a diagnostic schema, not as a guarantee that ever
 
 Three properties must be kept apart. Forced dependency means that D_n cannot be occupied unless the earlier phases required by it are occupied. Forced form means that if a phase occurs, its shape is constrained by the offices. Forced occupancy would mean that the phase must occur. Forced occupancy does not hold for any phase, not even D1. A boundary may admit no realizable actuals. A domain may terminate early.
 
-*Status: dependency and form forced; occupancy never forced. The seven-phase route is a selection at recognized sufficiency, not a claimed inventory of possible phases: the unbounded may admit others, and the schema neither asserts nor denies them (8.5). License for the route is exhibited by the walk of 8.6 and, for any rich domain, by the method of 8.4.*
+*F4 C2 record: office-constrained phase-form is **Secured by construction** and strict order is **Secured by dependency**, conditional on the inherited foundation and an actual boundary; **Native**. Occupancy is never forced. The seven-phase route is a selection at recognized sufficiency, not an inventory of possible phases: the unbounded may admit others, and the schema neither asserts nor denies them (8.5). License for the route is exhibited by 8.6 and occupancy, where claimed, is certified only by 8.4.*
 
 ## **8.3 Why the dependencies are strict**
 
@@ -733,7 +735,7 @@ D2 requires D1 because holding requires standings to hold. D3 requires D2 becaus
 
 D5 and D6 require special restraint. D5 is not yet geometry in a metric sense. Its forced content is a coherent space of admissible variation; metric vocabulary is recognition and magnitude is not yet built. D6 is not vague endurance. It is invariant-preservation under the perturbations allowed by the D5 variation-space. Persistence is mysterious only when interrogated before the phase in which it becomes statable.
 
-*Status: forced dependency trace.*
+*F4 C2 record: the reported dependencies are **Secured by dependency** at form-and-adjacency reach. They do not establish occupancy, domain richness, or completeness over possible phases.*
 
 ## **8.4 Occupancy by construction and trace**
 
@@ -741,7 +743,7 @@ When a domain does occupy several phases, occupancy is established by constructi
 
 This is not circular. The existence of the later object does not by itself prove the earlier phases. The earlier phases are certified only by decomposing the object and showing that each phase-form is actually present and dependency-ordered. The object provides a site of verification, not a license to skip the trace.
 
-*Status: forced method for domains rich enough to exhibit the chain.*
+*F4 C2 record: **Secured as a verification method** for a claimed occupancy trace. A later object supplies the site of testing, not warrant by existence or recognition.*
 
 ## **8.5 The epistemic character of the series**
 
@@ -751,7 +753,7 @@ The falsification surface is correspondingly precise, and it is threefold. An ad
 
 Two refinements govern the series at domain grade. Pacing: a phase is occupied when its form stands over the domain's whole stock — held as one field — not when a first instance appears; the next phase's move operates on that totality. Walking one thread to its first stable structure and calling the result D6 compresses the upper phases into a specimen. Accordingly, D6 at domain grade is the totality of persisting closures standing as one With — closures as what survives all admissible re-presentation, admissible passages among them — and D7 is a particular location in that totality, selected by handoff characteristics: composition-richness in the successor's terms, together with its ambient partners, not internal excellence or a universal property. The domain does not terminate at D7 and need not be heading anywhere; D7 is maturity sufficient to provision a successor, if such a location exists at the given stage of unfolding — and if none exists, the honest finding is "not yet mature," never a forced candidate. In plain terms, marked as illustrative gloss: between physics and chemistry, the atom is a D6 form whose explicated admissibility space is the periodic table, and carbon — selected for its bonding profile, bridging in the company of its partners — is the D7 of physics.
 
-*Status: forced as a statement of what the series claims; the threefold falsification surface is the rigor of the companion document *Architectonic Rigor* deployed — dependency as the adjacency test, construction as the form test, the smuggle-check as the import test. The pacing rule and the selection-character of D7 are exhibited by the walk of the mathematical domain (9.5).*
+*F4 C2 record: the scope statement and falsification surface are **Secured by construction** from 8.2–8.4. D7 is a licensed selection under an exhibited successor boundary, not a forced candidate or a teleology. The pacing rule and selection-character are exhibited by the mathematical walk (9.5); they add no warrant to a different domain's occupancy.*
 
 ## **8.6 The walk, exhibited for replication**
 
@@ -771,7 +773,7 @@ D6. In hand: an invariant; the standing variation-field. Move: With run along th
 
 D7. In hand: persisting closures. Move: the gate of 8.1 run forward — From bridges from the persisting closure, now a standing ground, to a new boundary-With; a successor domain opens; the cycle continues into its D1. Adjacency: spending a product as a standing ground is the engine's ordinary continuation; the requirement of D6 is secured by the cascade trace of 8.3 — the successor's perturbations of its ground lie within the variation across which persistence was certified. Quarantined: none new; the successor's vocabulary belongs to the successor.
 
-*Status: the walk is forced at form-and-adjacency strength: for any domain, if the phases occupy, they occupy in this order, in these forms, with no intermediate phase required between any adjacent pair. The walk does not claim occupancy, per-domain realizability, or richness anywhere. Its replication procedure is the meta-requirement of 8.5 discharged in advance.*
+*F4 C2 record: the walk is **Secured by construction** at form-and-adjacency strength, with the order **Secured by dependency**: for any domain, if the phases occupy, they occupy in these forms and dependency order, with no exhibited intermediate required by the stated adjacencies. The walk does not claim occupancy, per-domain realizability, richness, or inventory completeness. Its replication procedure discharges 8.5's audit requirement.*
 
 **9. The terminal object of mathematics**
 
@@ -883,7 +885,7 @@ The gate-package — what a successor domain may condition on, each item a certi
 
 What the gate does not contribute, with located reasons: not conservation of energy (magnitude-additivity, time-translation, and physical symmetry conditions are unbuilt); not spacetime, dimension, or dynamics; not the completed continuum (inadmissible under the boundary — and the walked claim, carried as recognition with surplus quarantined from the predicative tradition, is that the successor never spends it: every stated measurement, coefficient, and initial condition is rule-given by the act of stating it). The located audit obligation travels with the gate: where the successor's textbook machinery leans on impredicative analysis, the rule-given counterpart must be checked at the point of expenditure.
 
-*Status: gate-form forced; package-content certified at the grades of 9.5; energy-language remains downgraded to later recognition; whether any successor gate fires is the successor's fact.*
+*F4 C2 record: given a gate, its constraint-preserving form is **Secured by construction**; the positive From→With transition retains the Conjectured debt of 8.1. Package-content is inherited only at the grades and debts of 9.5. “Whole” means no certified distinction may be contradicted or silently dropped; it does not require every feature to be actively spent in every successor content. Energy-language remains later recognition; whether a successor gate fires is the successor's fact.*
 
 **10. Standing open joints**
 
@@ -893,7 +895,7 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 
 | **Joint** | **Current status** |
 | --- | --- |
-| From -> With | **Conjectured** as a full positive account. Current strongest result: seed/soil, medium-realization, and co-conditioning articulate the intended role but remain recognition-supported. Missing: a peer-level framework-native dependency trace from the Secured minimal From core to medium-conditioning. Downstream dependency: F4 domain entry. |
+| From -> With | **Conjectured** as a full positive account. Current strongest result: seed/soil, medium-realization, and co-conditioning articulate the intended role but remain recognition-supported. Missing: a peer-level framework-native dependency trace from the Secured minimal From core to medium- or boundary-conditioning. F4 therefore secures only the conditional bootstrap given an actual boundary; the positive gate transition retains this debt. |
 | Self-relation -> quantity; other-relation -> quality | The constitutional attack (position-distinctness as smuggled quality) is answered at 6.2-6.3 by the genetic account and the held/registered distinction: quantity is quality-blind holding of the qualitatively distinct. The joint is not the privileged attack point; residual exposure is the held/registered distinction itself (2.5), on which the answer leans. |
 | Literal reflexive holding | Whether a standing can be held with numerically itself is nowhere produced by the unfolding and may be empty notation. Open; nothing downstream is permitted to depend on it. |
 | Floor-level connective sorter | Pruned binary holdings are earned; whether the floor supplies an internal operation that sorts self-relation from other-relation remains open. |
@@ -908,7 +910,8 @@ Exactly-three is not an open joint: 0.5–0.5a records it as Secured within the 
 | Two values per position (6.9) | That the barest distinction yields exactly two values per position is derived-given-framework and softer than the surrounding steps; it carries the whole binary frame. |
 | The seed as a kind of This | A This bearing an embodied, incomplete From and requiring a further With (the governing image of 2.4), as distinct from a From realized externally in a With. Parked as substantial; not yet articulated as a structural kind. |
 | Realizable-from as primitive | Adjacency is defined as admission by Realizability(S), and reachability has no independent definition. "Realizable from here" functions as a primitive of the modal engine and is tagged as such rather than defined circularly. |
-| D-series walk: scope | The walk of 8.6 establishes form-and-adjacency only. Occupancy, per-domain realizability, and the existence or richness of invariants in any given domain are not established and are each domain's own fact, certified only by 8.4's construction and trace. |
+| D-series walk: scope | **Current under F4:** 8.6 establishes form-and-adjacency by construction and strict order by dependency. Occupancy, per-domain realizability, and the existence or richness of invariants in any given domain are not established and are each domain's own fact, certified only by 8.4's construction and trace. |
+| Successor-handoff content | D7 requires a persisting ground and an exhibited successor boundary. The stronger claim that every successor inhabits the predecessor's residue and that D7 maximizes successor recursion is **Conjectured** from one physics→chemistry instance; it is not part of the general F4 method. |
 | Physics gate | The gate-package of 9.7 is funded in full at rule-given grade. Conservation of energy, time, spacetime, and dynamics remain later selections or recognitions. Verification debt riding with the gate: re-derivation of the physics fit under the walked object; D6 coherence laws; the located impredicativity audit. |
 | Empty order-character | Whether zero stands as a content or only as the completion's origin is open; the integers' construction does not depend on the answer. |
 | Pairing values | The pairing form's existence and compatibility conditions are earned; its values are a selection, permanently revisable under the same boundary. |
