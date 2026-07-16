@@ -9,7 +9,7 @@ sources:
   - physics-domain-mature-status.md
   - physics-walk-checklist.md
   - three-moves-per-stage.md
-  - entering-a-new-domain.md
+  - domain-entry-method.md
   - realizability-weighting-law.md
   - mathematization-F8-done.md
   - mathematization-F9-done.md
