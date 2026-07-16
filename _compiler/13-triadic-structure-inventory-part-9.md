@@ -127,7 +127,7 @@ Endpoint-bounded oriented chains distinguish identically characterized positions
 
 **Adjudication:** retained with three delimitations. Orientation works here together with finite endpoint structure and is not a universal position-individuator. V4/V5 are finite-range evidence for explicit models, not the warrant for the construction or quotient. M3 does not construct a completed `ω` object.
 **Framework standing:** Secured by construction for finite-chain role-distinction and additive positive order-characters; Secured by construction plus the standard group-completion theorem for the additive integer group.
-**Registration:** `Positive natural counting` is Registered for the finite additive order-character core. `Integers` is Registered, not Registered–Sealed, for the additive grading core. Empty order-character, multiplication, undisplayed order/ring structure, unordered cardinality, and later algebraic surplus remain quarantined.
+**Registration:** `Positive natural numbers under addition` is Registered for the finite additive order-character core. `Integers` is Registered, not Registered–Sealed, for the additive grading core. Empty order-character, multiplication, undisplayed order/ring structure, unordered cardinality, and later algebraic surplus remain quarantined.
 **Evidence and falsifiers:** V4 must fail if two positions in the tested finite endpoint-bounded oriented chain remain bisimilar. V5 must fail if equivalent formal-difference presentations normalize differently or if the tested quotient laws fail. Neither check proves the framework genesis.
 
 ## TSR-110 — Rational ascent follows the exchange-eigenroute
