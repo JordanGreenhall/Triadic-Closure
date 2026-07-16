@@ -20,7 +20,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.6 Conservation of registered distinctions.** Monotone — distinctions once registered are permanent; identifications are provisional. *Constraint inherited:* nothing destroys a registered distinction; conservation laws are this, at physics grade.
 
-**0.7 Discrete grading (ℤ).** The integers at admissibility grade, ordinal counting by oriented succession (role-distinct positions in oriented chains; same-summand sums without tags). *Constraint inherited:* the corpus’s constructed count is sourced from orientation. Symmetry alone supplies neither labels nor ordered roles; whether symmetric multiplicity admits an unordered cardinality invariant remains Open.
+**0.7 Additive discrete grading (ℤ).** Finite endpoint-bounded oriented chains supply role-distinct positions and positive order-characters; tag-free concatenation supplies addition; formal-difference completion supplies an additive integer grading. *Constraint inherited:* this additive grading is available at admissibility grade. The inherited name `integers` is licensed only for the additive grading core here; multiplication and other ring structure may not be silently spent. Symmetry alone supplies neither labels nor ordered roles, and unordered cardinality remains Open.
 
 **0.8 Linear composition at rational grade.** Free modules; same-summand combination funded by the exchange-eigenroute (swap-fixed ⊕ swap-negated, no tags); the ascent ℤ→ℚ forced by the index-2 defect. *Constraint inherited:* linear/additive structure is available at ℚ-grade, with the sym/antisym sectors as the **two modes of same-kind combination**.
 
