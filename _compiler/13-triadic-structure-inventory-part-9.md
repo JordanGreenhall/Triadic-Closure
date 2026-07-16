@@ -125,16 +125,17 @@ A symmetric, role-free holding of identically characterized positions registers 
 ## TSR-109 — Finite oriented chains unlock additive counting and integer grading
 Endpoint-bounded oriented chains distinguish identically characterized positions by relational role. Their finite linear-order isomorphism classes compose by tag-free concatenation into a commutative cancellative semigroup; formal-difference completion gives an additive group with inverse by swapping difference roles.
 
-**Adjudication:** retained with three delimitations. Orientation works here together with finite endpoint structure and is not a universal position-individuator. V4/V5 are finite-range evidence for explicit models, not the warrant for the construction or quotient. M3 does not construct a completed `ω` object.
+**Adjudication:** retained with three delimitations. Orientation works here together with finite endpoint structure and is not a universal position-individuator. The deleted verifier's V4/V5 runs are historical provenance only, not current evidence or warrant. M3 does not construct a completed `ω` object.
 **Framework standing:** Secured by construction for finite-chain role-distinction and additive positive order-characters; Secured by construction plus the standard group-completion theorem for the additive integer group.
 **Registration:** `Positive natural numbers under addition` is Registered for the finite additive order-character core. `Integers` is Registered, not Registered–Sealed, for the additive grading core. Empty order-character, multiplication, undisplayed order/ring structure, unordered cardinality, and later algebraic surplus remain quarantined.
-**Evidence and falsifiers:** V4 must fail if two positions in the tested finite endpoint-bounded oriented chain remain bisimilar. V5 must fail if equivalent formal-difference presentations normalize differently or if the tested quotient laws fail. Neither check proves the framework genesis.
+**Falsifiers:** exhibit two positions in the stated finite endpoint-bounded oriented chain with the same full predecessor/successor role, or show that the formal-difference relation is ill-defined or violates an additive-group law. The former V4/V5 implementations are no longer present and supply no current evidence.
 
-## TSR-110 — Rational ascent follows the exchange-eigenroute
-The exchange-fixed/negated decomposition over integers has an index-two defect, requiring division by two.
+## TSR-110 — The exchange-eigenroute forces inversion of two, not all rationals
+For an additive object `A`, use `A × A` only as a calculational presentation of the two exchanged roles; neither coordinate is intrinsically named. The swap has fixed and negated subobjects. Their sum reaches a presented pair `(x,y)` exactly when `x+y` and `x-y` are divisible by `2`. For the single integer generator this is the same-parity sublattice and has index two; for a free rank-`r` integer object the index is `2^r`. Once doubling is invertible, every pair decomposes uniquely by `u=(x+y)/2` and `v=(x-y)/2`.
 
-**Adjudication:** retained subject to the exact algebraic construction in the detailed source; no later contradiction found.
-**Claim standing:** Registered.
+**Adjudication:** corrected. The prior statement that the defect forces `ℤ → ℚ` was too strong. It forces only the additive localization obtained by repeated halving; the minimal extension of the additive integer grade is `ℤ[1/2]`. Full rational scalars require a separate construction.
+**Framework standing:** Secured by construction for the fixed/negated decomposition at a uniquely `2`-divisible additive grade and for the integral obstruction. The repeated-halving completion is exhibited by classes `[z,n]`, read `z/2^n`, with `[z,n]=[w,m]` exactly when `2^m z=2^n w`; its additive laws descend from the M3 additive integer group. Conditions: the M1 unmarked exchange and the M3 additive integer grade. Debt: no ring, field, module, or full rational structure follows merely from this result.
+**Registration:** `Dyadic rationals under addition` is Registered for the repeated-halving core. Multiplication, field structure, and denominators not powers of two remain quarantined. `Symmetric component` and `antisymmetric component` are Registered–Sealed within the exhibited two-place additive swap scope: fixed and negated under swap, respectively, with no remainder in either direction.
 
 ## TSR-111 — Linear structure and a `J`-compatible non-degenerate pairing are constructed
 Existence and compatibility are earned; numerical pairing values remain selected.

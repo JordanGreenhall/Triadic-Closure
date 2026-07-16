@@ -89,7 +89,7 @@ The M1 record does not establish D2 collapse, orientation-generated counting, in
 | Formal differences of positive order-characters form an additive integer grading. | **Secured by construction and standard group completion.** | Pairs are quotiented by equal difference; componentwise addition is well-defined; role-swap is inverse; equal pairs represent zero without requiring an empty chain. | **Registered**, not Registered–Sealed, as integers for the additive grading core. Multiplication and undisplayed order/ring structure remain quarantined. |
 | The comparison `ω+1 != 1+ω` is available at M3. | **Open / conditional.** | M3 constructs finite order-characters, not a completed `ω` object. The comparison becomes available only under a separately admissible infinite-order-type presentation. | **Unregistered** at M3. |
 
-V4 and V5 are finite-range checks of the displayed models. They supply evidence and falsification surfaces, not framework warrant. Modules, rational ascent, pairing, and later mathematical structure belong to subsequent units.
+Former V4/V5 runs are historical provenance, not current evidence or framework warrant. M4 supplies the minimal repeated-halving additive grade for unmarked same-summand decomposition; full rational structure, modules, pairing, and later mathematical structure belong to subsequent units.
 
 ## Foundation frontier pointers
 

@@ -12,7 +12,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.2 The involution J.** Orientation-reversal, J² = id by construction, constitutive. Every content self-conjugate as a whole with internal polarity exchanged. *Constraint inherited:* orientation (one-way / from-toward) is built into every content; J acts throughout; conjugation = orientation-reversal.
 
-**0.3 The two-sector polarity.** λ² = 1 forces exactly two eigenclasses, +1 (symmetric) and −1 (antisymmetric), **both inhabited**, no third (provable over rational grade). Strictly-paired contents and self-conjugate (orientation-symmetric) contents. *Constraint inherited:* the ±1 split, both sectors live, AND their **commingling** — the relation between the sectors is itself structure (not just two preserved bins). Read in physics: boson/fermion split, with the self-conjugate sector the room for self-conjugate entities (recognition).
+**0.3 The two-sector polarity.** λ² = 1 permits exactly the eigenclasses +1 (symmetric) and −1 (antisymmetric), **both inhabited**, no third wherever the separately constructed scalar grade makes `2` invertible. M4 supplies only the minimal additive halving threshold; the full eigenspace theorem belongs to the later scalar construction. Strictly-paired contents and self-conjugate (orientation-symmetric) contents. *Constraint inherited:* the ±1 split, both sectors live, AND their **commingling** — the relation between the sectors is itself structure (not just two preserved bins). Read in physics: boson/fermion split, with the self-conjugate sector the room for self-conjugate entities (recognition).
 
 **0.4 The pairing.** Bi-additive, non-degenerate, J-compatible, over the rule-given complexes. Conjugation = orientation-reversal on rule-given complex pairs. *Constraint inherited:* a Hermitian-type pairing is available; **its values are a selection** (at the successor's disposal); non-degeneracy is an admissibility condition.
 
@@ -22,7 +22,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.7 Additive discrete grading (ℤ).** Finite endpoint-bounded oriented chains supply role-distinct positions and positive order-characters; tag-free concatenation supplies addition; formal-difference completion supplies an additive integer grading. *Constraint inherited:* this additive grading is available at admissibility grade. The inherited name `integers` is licensed only for the additive grading core here; multiplication and other ring structure may not be silently spent. Symmetry alone supplies neither labels nor ordered roles, and unordered cardinality remains Open.
 
-**0.8 Linear composition at rational grade.** Free modules; same-summand combination funded by the exchange-eigenroute (swap-fixed ⊕ swap-negated, no tags); the ascent ℤ→ℚ forced by the index-2 defect. *Constraint inherited:* linear/additive structure is available at ℚ-grade, with the sym/antisym sectors as the **two modes of same-kind combination**.
+**0.8 Same-summand composition at the halving grade.** The exchange route decomposes a pair into swap-fixed and swap-negated components without tags exactly when doubling is invertible. The integral obstruction forces repeated halving, minimally the additive localization `ℤ[1/2]`; it does not force all of `ℚ`. *Constraint inherited from M4:* tag-free same-kind decomposition is available at the `2`-invertible additive grade, with the symmetric/antisymmetric components as the two modes. Modules and full rational linearity require their later owning constructions.
 
 **0.9 The rule-given continuum.** ℝ as rule-given cuts (basis over ℚ, downward-closed, no max); order = basis-entailment; completeness schematic; ℂ as rule-given pairs with conjugation = orientation-reversal. **The completed classical continuum is inadmissible — a theorem of the gate.** *Constraint inherited:* all continuum structure physics spends is rule-given; the impredicativity audit travels with every analytic move (check rule-given adequacy at the point of expenditure).
 
@@ -50,7 +50,7 @@ B5. **Pairing** (0.4) — does it bite? (Resist reaching for it first by habit.)
 B6. **Survey injectivity** (0.1) — contents individuated by aspect-data; relevant?
 B7. **Mutual constitution** (0.1) — cyclic, oriented, each office the relating of the other two; does it bite?
 B8. **Gerund principle** — offices are relatings not relata; am I noun-ing a verb?
-B9. **The graded/linear/continuum content** (0.7–0.9) — does this step spend ℤ-grading, ℚ-linear structure, or the rule-given continuum, and at what grade?
+B9. **The graded/linear/continuum content** (0.7–0.9) — does this step spend ℤ-grading, M4's repeated-halving additive grade, any separately certified fuller scalar structure, or the rule-given continuum, and at what grade?
 
 ## PART C — Survey the population, then probe (the anti-toddler discipline)
 
