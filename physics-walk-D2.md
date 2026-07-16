@@ -14,16 +14,16 @@ A methodological note that governs the whole walk below: at several points the n
 
 With is not one relationship. It carries two distinct capacities, and D2 activates both. They must be kept distinct (this distinction was established when clarifying the third intrinsic characteristic):
 
-- **Holding** — With applied to *like* Thises (same invariant-kind). Multiplicity of indistinguishables. Governed by **likeness**; this is where the collapse theorem operates and where exchange-statistics live.
+- **Holding** — With applied to *like* Thises (same invariant-kind). Multiplicity of indistinguishables. Governed by **likeness**; exchange-invariance removes label- and order-dependent distinctions, while unordered occupation number remains a separate Open mathematical question.
 - **Coupling** — With applied *across generators* (different objects, possibly different kinds). Co-conditioned transformation: each object's generator conditions the other's. Governed by **slot-compatibility, not likeness** — different kinds couple; that is most of interaction.
 
 Likeness conditions holding, not coupling. This separation is load-bearing for everything below.
 
 ## 2. Holding: Pauli exclusion and Bose co-occupation [registered and sealed]
 
-Apply individuation (built as a presupposition: same-character contents are distinguished *only* positionally — by role/place in the relational fabric — with no haecceity; the collapse theorem states that a symmetric holding of identically-charactered positions carries *no arity*). The boson/fermion mode **is** the mode of the holding:
+Apply individuation without haecceity: no brute identity labels may do work, and exchange symmetry supplies no ordered roles. M2 does not license the former claim that symmetric holding erases arity or occupation number. The boson/fermion mode **is** the mode of the holding:
 
-- **Boson–boson holding (symmetric mode).** The symmetric holding *permits* positional coincidence: same-character bosons may co-occupy a position; the collapse-theorem situation (no separate arity) is allowed. **Bose co-occupation.**
+- **Boson–boson holding (symmetric mode).** The symmetric holding *permits* positional coincidence: same-character bosons may co-occupy a position. This permission does not imply absence of occupation number. **Bose co-occupation.**
 - **Fermion–fermion holding (antisymmetric mode).** An antisymmetric holding of two positionally-coincident same-character contents **vanishes** (exchange carries J's sign; coincidence annihilates). Therefore fermions cannot co-occupy a position. **Pauli exclusion.**
 
 **Why this seals.** Exclusion and co-occupation fall *directly* out of the holding-modes meeting individuation — no spin invoked, no added principle. This is D1's sealed boson/fermion essence doing work the moment With is activated, exactly as the seal promised. Spin is a deployment-signature (sealed away at D1), not needed here. The content-identity is exact: "Pauli exclusion properly understood" is precisely "the antisymmetric holding vanishes on positional coincidence," and the framework object carries all of it and no more. **Registered and sealed.**
