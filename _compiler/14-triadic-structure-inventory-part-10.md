@@ -71,10 +71,11 @@ Unary finite address results do not extend automatically to arbitrary compound n
 **Claim standing:** Open.
 
 ## TSR-107 — Unordered cardinality remains open
-Ordinal chains are earned; unordered equinumerosity is not.
+Ordinal chains are earned; unordered equinumerosity is not. The withdrawn M2 collapse theorem supplies no impossibility result: exchange symmetry removes labels and ordered roles but does not by itself erase every possible arity invariant.
 
-**Adjudication:** retained as quantitative boundary.
-**Claim standing:** Open.
+**Adjudication:** retained as quantitative boundary and synchronized with M2.
+**Framework standing:** Open. No current construction supplies unordered cardinality, and no current proof excludes every admissible construction.
+**Registration:** Native.
 
 ## TSR-108 — Persistence form is forced; occupancy is contingent
 D6 has a defined form, but no domain is thereby guaranteed to occupy it.
