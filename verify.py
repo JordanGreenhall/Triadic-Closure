@@ -74,7 +74,9 @@ concat = lambda a, b: a + b
 v5_chain = all(
     concat(concat(chain_of(a), chain_of(b)), chain_of(c))
     == concat(chain_of(a), concat(chain_of(b), chain_of(c)))
+    and concat(chain_of(a), chain_of(b)) == concat(chain_of(b), chain_of(a))
     and len(concat(chain_of(a), chain_of(b))) == a + b
+    and ((concat(chain_of(a), chain_of(c)) == concat(chain_of(b), chain_of(c))) == (a == b))
     for a, b, c in product(range(1, 7), repeat=3)
 )
 def norm(pr):
