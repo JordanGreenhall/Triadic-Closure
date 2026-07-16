@@ -32,8 +32,8 @@ This page maps curated physics pages to their principal upstream sources in the 
 
 Additional method sources:
 
-- [entering-a-new-domain](entering-a-new-domain.md)
-- [domain-entry-method](domain-entry-method.md)
+- [domain-entry-method](domain-entry-method.md) — governing F4 control
+- [entering-a-new-domain](entering-a-new-domain.md) — historical physics worked example
 - [physics-walk-checklist](physics-walk-checklist.md)
 - [three-moves-per-stage](three-moves-per-stage.md)
 
