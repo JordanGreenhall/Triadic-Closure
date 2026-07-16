@@ -122,11 +122,13 @@ A symmetric, role-free holding of identically characterized positions registers 
 **Registration:** Native. “Plurality without count” is permitted only as “without an earned unordered count at this grade,” not as a theorem of arity-absence.
 **Evidence:** no current verifier check tests the retracted claim; V1 concerns observation-free plain ternary coalgebras and cannot be transferred to symmetric holdings.
 
-## TSR-109 — Orientation unlocks ordinal counting and integer structure
-Oriented roles permit finite order-characters, concatenation, and inverse by role-swap.
+## TSR-109 — Finite oriented chains unlock additive counting and integer grading
+Endpoint-bounded oriented chains distinguish identically characterized positions by relational role. Their finite linear-order isomorphism classes compose by tag-free concatenation into a commutative cancellative semigroup; formal-difference completion gives an additive group with inverse by swapping difference roles.
 
-**Adjudication:** retained, but only at the walked rule-given grade.
-**Claim standing:** Registered.
+**Adjudication:** retained with three delimitations. Orientation works here together with finite endpoint structure and is not a universal position-individuator. V4/V5 are finite-range evidence for explicit models, not the warrant for the construction or quotient. M3 does not construct a completed `ω` object.
+**Framework standing:** Secured by construction for finite-chain role-distinction and additive positive order-characters; Secured by construction plus the standard group-completion theorem for the additive integer group.
+**Registration:** `Positive natural numbers under addition` is Registered for the finite additive order-character core. `Integers` is Registered, not Registered–Sealed, for the additive grading core. Empty order-character, multiplication, undisplayed order/ring structure, unordered cardinality, and later algebraic surplus remain quarantined.
+**Evidence and falsifiers:** V4 must fail if two positions in the tested finite endpoint-bounded oriented chain remain bisimilar. V5 must fail if equivalent formal-difference presentations normalize differently or if the tested quotient laws fail. Neither check proves the framework genesis.
 
 ## TSR-110 — Rational ascent follows the exchange-eigenroute
 The exchange-fixed/negated decomposition over integers has an index-two defect, requiring division by two.

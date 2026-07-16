@@ -81,6 +81,17 @@ The M1 record does not establish D2 collapse, orientation-generated counting, in
 
 “Plurality without count” now means plurality without an **earned** unordered count at this grade. It does not mean proven absence of arity. Orientation-generated ordinal counting belongs to M3.
 
+## M3 orientation and integer record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| Identically characterized positions in a finite oriented chain are distinct by relational role. | **Secured by construction** within the M1 boundary. | Uses directed predecessor/successor and endpoint structure. No labels or privileged values. Orientation alone is not claimed to individuate positions in homogeneous cyclic or bi-infinite structures. | **Native** |
+| Finite positive order-characters compose by concatenation. | **Secured by construction.** | Order-characters are finite linear-order isomorphism classes, not presupposed lengths. Concatenation gives a commutative cancellative addition up to order-isomorphism and forgets the join; summands require no tags. The empty order-character remains Open. | **Registered** as positive natural numbers under addition for this additive finite-chain core; further natural-number surplus is quarantined. |
+| Formal differences of positive order-characters form an additive integer grading. | **Secured by construction and standard group completion.** | Pairs are quotiented by equal difference; componentwise addition is well-defined; role-swap is inverse; equal pairs represent zero without requiring an empty chain. | **Registered**, not Registered–Sealed, as integers for the additive grading core. Multiplication and undisplayed order/ring structure remain quarantined. |
+| The comparison `ω+1 != 1+ω` is available at M3. | **Open / conditional.** | M3 constructs finite order-characters, not a completed `ω` object. The comparison becomes available only under a separately admissible infinite-order-type presentation. | **Unregistered** at M3. |
+
+V4 and V5 are finite-range checks of the displayed models. They supply evidence and falsification surfaces, not framework warrant. Modules, rational ascent, pairing, and later mathematical structure belong to subsequent units.
+
 ## Foundation frontier pointers
 
 The one live F2 debt is governed only in the canonical treatise:

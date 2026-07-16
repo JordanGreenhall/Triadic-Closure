@@ -49,23 +49,55 @@ p2 = refine(states_c, obs=lambda s: s[1], succs=succ_c)
 check("V3 signatures+variety: 9/9 distinct; control (signature stripped): collapse occurs",
       len(set(p1.values())) == 9 and len(set(p2.values())) < 9)
 
-# V4 - Orientation rescue: oriented chain of identical tokens has all-distinct positions;
-#      symmetric adjacency collapses mirror pairs
-n = 7; chain = list(range(n))
-po = refine(chain, obs=lambda s: 0, succs=lambda s: [s+1] if s+1 < n else [])
-ps = refine(chain, obs=lambda s: 0, succs=lambda s: [t for t in (s-1, s+1) if 0 <= t < n], ordered=False)
-check("V4 oriented chain: 7/7 positions distinct; orientation stripped: mirror collapse",
-      len(set(po.values())) == n and len(set(ps.values())) < n)
+# V4 - Finite endpoint-bounded oriented chains. Direction + endpoint structure
+#      distinguishes every role; stripping direction leaves exactly mirror classes.
+v4_oriented = True
+v4_mirrors = True
+for n in range(2, 13):
+    chain = list(range(n))
+    po = refine(chain, obs=lambda s: 0,
+                succs=lambda s, n=n: [s+1] if s+1 < n else [])
+    ps = refine(chain, obs=lambda s: 0,
+                succs=lambda s, n=n: [t for t in (s-1, s+1) if 0 <= t < n],
+                ordered=False)
+    mirror_role = {s: min(s, n-1-s) for s in chain}
+    v4_oriented &= len(set(po.values())) == n
+    v4_mirrors &= all((ps[i] == ps[j]) == (mirror_role[i] == mirror_role[j])
+                      for i, j in product(chain, repeat=2))
+check("V4 finite oriented chains n=2..12: all roles distinct; undirected controls = mirror classes",
+      v4_oriented and v4_mirrors)
 
-# V5 - Order-sum and completion laws (no tags anywhere; roles only)
-osum = lambda a, b: a + b
-v5a = all(osum(osum(a,b),c) == osum(a,osum(b,c)) for a,b,c in product(range(6), repeat=3))
-def norm(pr): m = min(pr); return (pr[0]-m, pr[1]-m)
-zadd = lambda p, q: norm((p[0]+q[0], p[1]+q[1]))
-v5b = all(zadd(norm((a,b)), norm((c,d))) == zadd(norm((c,d)), norm((a,b))) and
-          zadd(norm((a,b)), (norm((a,b))[1], norm((a,b))[0])) == (0,0)
-          for a,b,c,d in product(range(4), repeat=4))
-check("V5 order-sum associative; Z-completion: commutative, inverse = role-swap", v5a and v5b)
+# V5 - Positive finite order-characters and additive group completion.
+# Chain tokens are identical; concatenation preserves no summand tag.
+chain_of = lambda n: ("x",) * n
+concat = lambda a, b: a + b
+v5_chain = all(
+    concat(concat(chain_of(a), chain_of(b)), chain_of(c))
+    == concat(chain_of(a), concat(chain_of(b), chain_of(c)))
+    and concat(chain_of(a), chain_of(b)) == concat(chain_of(b), chain_of(a))
+    and len(concat(chain_of(a), chain_of(b))) == a + b
+    and ((concat(chain_of(a), chain_of(c)) == concat(chain_of(b), chain_of(c))) == (a == b))
+    for a, b, c in product(range(1, 7), repeat=3)
+)
+def norm(pr):
+    m = min(pr)
+    return (pr[0]-m, pr[1]-m)
+def eqdiff(p, q):
+    return p[0] + q[1] == p[1] + q[0]
+def zadd(p, q):
+    return norm((p[0]+q[0], p[1]+q[1]))
+pairs = list(product(range(1, 7), repeat=2))
+v5_quotient = all(eqdiff(p, q) == (norm(p) == norm(q))
+                  for p, q in product(pairs, repeat=2))
+v5_group = all(
+    zadd(zadd(p, q), r) == zadd(p, zadd(q, r))
+    and zadd(p, q) == zadd(q, p)
+    and zadd(p, (p[1], p[0])) == (0, 0)
+    and zadd(p, (1, 1)) == norm(p)
+    for p, q, r in product(pairs, repeat=3)
+)
+check("V5 finite positive chains: tag-free concatenation; formal-difference quotient and additive laws",
+      v5_chain and v5_quotient and v5_group)
 
 # V6 - Same-summand: index-2 defect over Z; exact eigen-decomposition over Q; swap acts +1/-1
 v6a = (1 + 0) % 2 != 0  # s = a = 1/2 not integral for the pair (1,0)
