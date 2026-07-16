@@ -92,7 +92,7 @@ Each phantom problem (Hume's connection, identical particles, the metaphysics of
 
 ### 4.1 The From arrives whole, as a constraint — not a buffet
 
-When entering a successor domain, the From is the **full prior object** (for physics: the terminal mathematical object — rule-given ℂ, J, the two-sector polarity, the pairing, ρ, conservation, ℤ-grading, ℚ-linearity), inherited at every step. The crucial discipline: **every characteristic of the From is a constraint, not an option.** The From is not a rich field of resources to draw from selectively; it is a set of conditions *all of which must be deployed* in any admissible content of the successor domain.
+When entering a successor domain, the From is the **full prior object** (for physics: the terminal mathematical object — rule-given ℂ, J, the two-sector polarity, the pairing, ρ, conservation, ℤ-grading, and the scalar structure actually certified by the owning mathematics units), inherited at every step. M4 itself certifies only the repeated-halving additive grade, not full ℚ-linearity. The crucial discipline: **every characteristic of the From is a constraint, not an option.** The From is not a rich field of resources to draw from selectively; it is a set of conditions *all of which must be deployed* in any admissible content of the successor domain.
 
 This distinction is load-bearing. Treating the From as a buffet ("J is available if I want it") leaves the minimal object under-determined and invites smuggling. Treating it as a constraint ("J, the polarity, the recursion, ρ-coherence *all* must be deployed, *and mutually cohere*") winnows the admissible contents drastically.
 

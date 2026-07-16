@@ -5,9 +5,9 @@ Source locus: §§9.6–10 and the closing statement of the original `triadic-st
 Method: each theorem, gate claim, and open joint was checked against the mathematics walk, conversation-ledger audit, later physics controls, and current compiler governance. Historical verification labels were not treated as present authority. The principal result is preservation of the two-sector theorem and rule-given gate package together with every named unresolved hinge.
 
 ## TSR-096 — Exactly two exchange eigensectors
-For involutive `J`, with `2` invertible, the only eigenclasses are `+1` and `-1`; no third eigenvalue is generated.
+For involutive `J`, at a scalar grade where `2` is invertible, the only eigenclasses are `+1` and `-1`; no third eigenvalue is generated. M4 establishes the minimal additive threshold for the fixed/negated split; it does not by itself construct full rational scalar structure.
 
-**Adjudication:** retained for the walked rational linear structure.
+**Adjudication:** retained conditionally at any separately constructed `2`-invertible scalar grade.
 **Claim standing:** Registered and Sealed within those assumptions.
 
 ## TSR-097 — The sectors are eigensectors, not exchanged stocks
@@ -23,7 +23,7 @@ Physical names do no work in the mathematical derivation.
 **Claim standing:** Registered as recognition; physics occupancy requires separate work.
 
 ## TSR-099 — The mathematics gate-package contains certified structural resources only
-It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, rational linear composition, symmetric/antisymmetric combination, and a `J`-compatible pairing over rule-given complexes.
+It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, same-summand symmetric/antisymmetric decomposition at the `2`-invertible additive grade, and — only through their later owning constructions — fuller linear and pairing structure over rule-given complexes.
 
 **Adjudication:** retained with each resource limited to its local grade.
 **Claim standing:** Registered composite gate package.
@@ -158,4 +158,4 @@ Presentation-independence suffices for the current gate; categorical finality is
 
 ## Closing adjudication
 
-The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, and categorical finality remain unresolved.
+The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, full rational scalar ascent beyond M4's repeated-halving grade, category-grade coherence, universal progression, empty order-character, and categorical finality remain unresolved in their owning units.
