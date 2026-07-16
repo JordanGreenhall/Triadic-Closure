@@ -49,6 +49,15 @@ The governing terminology is maintained in [Vertical and Horizontal](vertical-an
 
 The governing operating page is [Domain Entry Method](domain-entry-method.md).
 
+## F5 closure record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| Closure is the triadic act completed and standing as one. | **Secured by construction within the F2 frame.** | Conditional on the pure posit of primitive relating, the Secured minimal office cores, and exactly-three Secured within its ceiling. Secures the form and unit-status of a completed determination, not its occurrence. | **Native** |
+| Actual and standing are readings of one closure. | **Secured by construction.** | Arrived aspect versus availability for further determination; neither is a second closure-kind. | **Native** |
+
+Completion does not entail relative stability, D6 persistence, or D7 passability. A stride is an occurrence of the same closure-form, and concrete mathematical, physical, domain-scale, or atomic closures are occupancies or species whose own constructions remain required. The foundation neither registers `substance` nor supplies warrant for self-closure dynamics.
+
 ## Foundation frontier pointers
 
 The one live F2 debt is governed only in the canonical treatise:
