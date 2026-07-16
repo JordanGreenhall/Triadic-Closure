@@ -137,11 +137,12 @@ Physics must separately earn time, energy, spacetime, and dynamics; D6 coherence
 **Adjudication:** retained.
 **Claim standing:** Registered gate package; listed debts Open.
 
-## TSR-118 — Empty order-character remains open
-Whether zero is content or completion-origin is unresolved and non-blocking.
+## TSR-118 — Empty positive order-character remains open
+Whether a zero-length chain stands as a positive order-character is unresolved. M3 does not require it: the additive completion's zero is the equivalence class of any equal formal-difference pair `(a,a)`, not an asserted empty chain.
 
-**Adjudication:** retained.
-**Claim standing:** Open.
+**Adjudication:** retained and synchronized with M3.
+**Framework standing:** Open for the empty positive order-character; Secured within M3 for the zero class of the completed additive group.
+**Registration:** Native distinction. No ordinary empty-set or zero-object surplus is licensed by the group identity alone.
 
 ## TSR-119 — Pairing form is earned; values are selected
 Existence and compatibility of the pairing do not fix its numerical values.
