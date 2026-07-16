@@ -7,7 +7,6 @@ status: current
 confidence: high
 sources:
   - architectonic-rigor-complete.md
-  - entering-a-new-domain.md
   - triadic-structure-of-relating-rev-canonical.md
   - _compiler/03-architectonic-rigor-semantic-inventory.md
   - _compiler/07-claim-status-vocabulary-semantic-inventory.md
