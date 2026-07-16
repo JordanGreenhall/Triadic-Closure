@@ -32,6 +32,14 @@ The current verifier does **not** independently establish that gate, boundary se
 
 V4 tests a later orientation-role consequence, and V5–V9 test later mathematical constructions. They must not be cited backward as the warrant for M1. No machine check licenses the inherited name `mathematics`; registration is the separate semantic mapping recorded in the canonical foundation and gateway.
 
+## M2 evidence boundary
+
+M2 concerns symmetric, role-free holdings over identically characterized content. The current verifier contains **no check** that distinguishes a symmetric two-occupancy from a symmetric three-occupancy and no check proving that such a distinction is inadmissible.
+
+V1 proves collapse for observation-free coalgebras of the specific plain functor `X -> X^3`. It does not model a D2 holding with registered internal structure and cannot be transferred into a general theorem that symmetric holdings have no arity. V2 and V3 concern observed office signatures and horizontal variety; they also do not close unordered cardinality.
+
+Accordingly, executable evidence supports neither the withdrawn “no arity” claim nor a positive unordered-cardinality construction. The exchange-invariance lemma receives its standing from the boundary and dependency trace; unordered cardinality remains Open.
+
 ## Replication
 
 Run:
