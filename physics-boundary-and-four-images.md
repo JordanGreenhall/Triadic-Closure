@@ -58,7 +58,7 @@ The four names are deliberately narrower than their ordinary physics bundles.
 
 The F3 office genealogy, the marked/flattened basis distinction, and the four images' conditional co-presence are framework remainder rather than ordinary semantic content of any one registered name. That remainder, together with the quarantined legacy surplus, is why none of the four registrations is sealed.
 
-The exact `3+1` and Lorentzian-signature claims belong to P4. Boson/fermion and holding statistics belong to [P3](boson-fermion-and-holding-statistics.md). Propagation and invariant velocity belong to P5. Persistence belongs to P6. Continuum and manifold recovery belong to P7. None is spent to make P2 pass.
+[P4](dimension-and-spacetime-status.md) owns exact `3+1` and the Lorentzian-signature germ. Boson/fermion and holding statistics belong to [P3](boson-fermion-and-holding-statistics.md). Propagation, metric commensuration, the null interval, and invariant velocity belong to P5. Persistence belongs to P6. Continuum and manifold recovery belong to P7. None is spent to make P2 pass.
 
 ## P1 execution trace
 

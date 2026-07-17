@@ -37,7 +37,7 @@ Read these first:
 4. [physics-domain-mature-status](physics-domain-mature-status.md)
 5. [physics-domain-work-plan](physics-domain-work-plan.md)
 6. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
-7. [dimension-and-spacetime-status](dimension-and-spacetime-status.md)
+7. [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
 
 ## 2. Spacetime and kinematics
 

@@ -48,7 +48,7 @@ Only after the above should a reader enter the physics corpus:
 9. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
 10. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
 11. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
-12. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
+12. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — P4 exact `3+1`, the bounded signature germ, and later-unit quarantines.
 13. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
