@@ -4,6 +4,12 @@
 
 ---
 
+## P1 — PHYSICS-ADMISSION PREFLIGHT
+
+Before Part 0 is spent, run the [Physics Registration Rule](physics-registration-theorem.md): name the inherited mathematical content at its exact grade; exhibit the proposed physics boundary and the candidate's self-transforming / invariant / coherent participation; construct rather than assume physical occupancy; state both vertical and horizontal traces; separate framework construction, mathematics, observation, citation, selection, and comparison; and map every mature physics name property by property. P1 is a control rule. Passing this preflight gives no warrant to the candidate and registers no inherited name by itself.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:

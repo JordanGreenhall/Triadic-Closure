@@ -1,25 +1,26 @@
 ---
-title: "SM Frontier Loop 1: Physics Registration Theorem"
+title: "SM Frontier Loop 1: Physics Registration Rule"
 type: process
-status: non-pass-pending-downstream-map
+status: pass-control-map
 frontier_item: 1
-dependencies: []
-updated: 2026-06-25
+dependencies:
+  - F4
+  - M6
+  - C2
+updated: 2026-07-16
 ---
 
 # Target
 
 State the exact registration rule for first-physics standings: what is preserved
-from mathematics, what new actuality condition is added, and what remains only
-sealed recognition or empirical label.
-
-## Current status
+from mathematics, what physics boundary and participation conditions apply, and
+what remains only semantic recognition, empirical observation, or comparison.
 
 ## Corrected pass/fail status
 
-**NON-PASS — pending full downstream dependency map.** Historical PASS is suspended under the corrected full-load rule. It may be reused only after every dependent physics claim that relies on the registration rule has been mapped and verified as fully supported by Item 1.
+**PASS as a control and dependency-map unit.** The canonical [Physics Registration Rule](physics-registration-theorem.md) now maps the current curated physics surface and states exactly what P1 supplies to each family. The pass licenses P1 as compact admission and anti-smuggle control only. It gives no warrant, registration, or PASS status to a downstream physical claim.
 
-Historical loop output recorded PASS under the earlier scope; that PASS is suspended by the corrected full-load rule above and must not be used as compact upstream state until the downstream dependency map is completed.
+The historical loop output recorded PASS under a narrower scope, and that PASS was correctly suspended pending a full downstream map. P1 normalization discharges that execution debt without retroactively validating any consumer.
 
 Pre-flight sources read: `SCHEMA.md`, `agent-execution-rules.md`,
 `physics-domain-mature-status.md`, `physics-domain-work-plan.md`,
@@ -31,8 +32,10 @@ Pre-flight sources read: `SCHEMA.md`, `agent-execution-rules.md`,
   rebuild from offices/registration/sameness-difference/J/rho/modal triad.
 - From-whole inheritance: the successor domain inherits the full prior object, not
   optional selected handles.
-- Physics domain constraint: self-transforming / invariant / coherent structure.
-- Current status discipline: Open, Conjectured, Registered, Registered and Sealed.
+- Proposed physics boundary: self-transforming / invariant / coherent structure;
+  P1 does not supply its warrant or occupancy.
+- Two-axis discipline: framework state Open / Conjectured / Secured; semantic
+  registration Native / Unregistered / Registered / Registered–Sealed.
 - Mature physics may orient or supply empirical observations but cannot supply the
   metaphysical basis.
 
@@ -51,13 +54,11 @@ decay, gravity, and amplitude/readout pages.
 
 ## Load-bearing downstream coverage required for PASS
 
-PASS is valid only if the loop enumerates every current canonical page, frontier
-item, and leaf claim that depends on the physics-registration rule or uses mature
-physics vocabulary under its license. For each dependent claim, the worker must
-state exactly what registration work Item 1 must perform. If any dependent native
-claim requires more than this control rule actually supplies, Item 1 remains
-non-pass/conditional for that use or requires an exact weaker theorem / handback;
-downstream claims must not be edited merely to make Item 1 pass.
+Discharged in the canonical rule's complete downstream-load map. It covers the
+curated physics guide, source map, walk and control pages, all current result
+families, and frontier Items 2–13. Each row states P1's exact load and what remains
+owned downstream. The detailed leaf-property ledgers remain controlling for their
+own items.
 
 ## Attempt log
 
@@ -79,17 +80,19 @@ Passed gates:
 - Correctly treats mature physics names as bundles requiring property-by-property
   registration.
 - Does not import Standard Model content as load-bearing.
-- Keeps scope to a Registered control rule, not a sealed derivation of all later
-  physical vocabulary.
+- Confined its scope to a control rule rather than a derivation of all later
+  physical vocabulary. Its registration terminology is superseded by the current
+  two-axis decision below.
 
 Caution:
 
-- Title says “Theorem,” but body de-inflates status to “Registered control rule.”
-  No required change.
+- The historical title said “Theorem,” and the historical body called the rule
+  “Registered.” The canonical P1 page now names it a rule and records it as a
+  Native control secured as an execution construction.
 
 ## Decision
 
-**NON-PASS pending downstream dependency map.** The registration rule itself may be treated as a useful Registered control rule, but Item 1 is not compact upstream PASS until every dependent physics claim using the rule has been mapped and checked under the corrected full-load rule.
+**PASS as control/map; no theory regrade.** The phrase “Registered control rule” in the historical output is replaced operationally by a **Native control rule Secured as an execution construction**. Registration applies to inherited physics names, not to the rule's warrant. The positive physics gate, occupancy, and every downstream physical claim retain their own states and debts.
 
 ## Next loop unlocked
 

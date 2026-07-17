@@ -2,7 +2,7 @@
 title: Domain Entry Method
 type: method
 created: 2026-06-23
-updated: 2026-07-15
+updated: 2026-07-16
 status: current
 confidence: high
 sources:
@@ -132,4 +132,4 @@ The first is recorded locally in the canonical gate section and globally in its 
 
 ## Place in the corpus
 
-Read this after [Architectonic Rigor](architectonic-rigor.md), [Triadic Structure of Relating](triadic-structure-of-relating.md), and [Vertical and Horizontal](vertical-and-horizontal.md), before any domain walk. The older [Entering a New Domain](entering-a-new-domain.md) is retained only as a historical physics worked example and may not override this control.
+Read this after [Architectonic Rigor](architectonic-rigor.md), [Triadic Structure of Relating](triadic-structure-of-relating.md), and [Vertical and Horizontal](vertical-and-horizontal.md), before any domain walk. For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md) next; P1 applies this generic method to physical admission and mature-name control without contributing warrant to a physics claim. The older [Entering a New Domain](entering-a-new-domain.md) is retained only as a historical physics worked example and may not override this control.

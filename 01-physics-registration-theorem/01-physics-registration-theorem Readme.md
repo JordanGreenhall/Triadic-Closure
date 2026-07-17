@@ -1,16 +1,16 @@
 ---
-title: "Frontier Item 1: Physics registration theorem"
+title: "Frontier Item 1: Physics registration rule"
 type: process
-status: non-pass-pending-downstream-map
+status: pass-control-map
 frontier_item: 1
-updated: 2026-06-25
+updated: 2026-07-16
 sources:
   - ../physics-registration-theorem.md
   - ../domain-entry-method.md
   - ../physics-domain-mature-status.md
 ---
 
-# Frontier Item 1: Physics registration theorem
+# Frontier Item 1: Physics registration rule
 
 ## Brief
 
@@ -18,7 +18,7 @@ Define when a mathematical object may be treated as a framework-native physics-s
 
 ## Dependencies
 
-None.
+F4 domain-entry control, M6 mathematics gate-package, and C2 warrant/registration discipline.
 
 ## Actual load in current framework
 
@@ -26,7 +26,7 @@ Registration control for every later use of particle, field, mass, charge, inter
 
 ## Pass condition for the loop agent
 
-PASS requires a downstream dependency map and a clean registration rule that does not define physics as a different kind of actuality from mathematics. Physics is a subdomain of mathematics distinguished by self-transforming / invariant / coherent signature, not by extra occurrence-stuff.
+**PASS.** The canonical [Physics Registration Rule](../physics-registration-theorem.md) supplies the downstream dependency map and a clean admission rule that does not define physics as a different kind of actuality from mathematics. Physics is a proposed subdomain of mathematics distinguished by the self-transforming / invariant / coherent boundary, not by extra occurrence-stuff.
 
 ## Fail / smuggle condition
 
@@ -34,7 +34,7 @@ FAIL if “physical” means merely actual/standing-actual as opposed to mathema
 
 ## Integration rule
 
-Only after PASS may dependent pages use this item as compact upstream state. Until PASS, dependent pages must mark uses as empirical, mathematical comparison, conditional, Open, or quarantined according to the exact concept-load ledger.
+Dependent pages may use P1 as compact admission and source-separation control. They may not use P1 as warrant for gate existence, occupancy, a physical carrier, a mature name, or any frontier item. Those claims retain their exact local states, conditions, and quarantines.
 
 ## Required loop output
 

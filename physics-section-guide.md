@@ -2,10 +2,11 @@
 title: Physics Section Guide
 type: control
 created: 2026-06-23
-updated: 2026-07-13
+updated: 2026-07-16
 status: control
 confidence: high
 sources:
+  - physics-registration-theorem.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - domain-entry-method.md
@@ -28,10 +29,11 @@ Read these first:
 
 ## 1. Physics domain cut and walk discipline
 
-1. [physics-domain-mature-status](physics-domain-mature-status.md)
-2. [physics-domain-work-plan](physics-domain-work-plan.md)
-3. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
-4. [dimension-and-spacetime-status](dimension-and-spacetime-status.md)
+1. [physics-registration-theorem](physics-registration-theorem.md) — the P1 admission, source-separation, and mature-name control; it supplies no downstream warrant.
+2. [physics-domain-mature-status](physics-domain-mature-status.md)
+3. [physics-domain-work-plan](physics-domain-work-plan.md)
+4. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
+5. [dimension-and-spacetime-status](dimension-and-spacetime-status.md)
 
 ## 2. Spacetime and kinematics
 

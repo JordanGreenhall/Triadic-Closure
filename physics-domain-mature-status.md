@@ -2,10 +2,11 @@
 title: Physics Domain Mature Status
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-16
 status: control
 confidence: medium
 sources:
+  - physics-registration-theorem.md
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
   - domain-entry-method.md
@@ -34,20 +35,21 @@ This page is the control status for the physics-domain work. It should be read b
 
 The physics walk must remain framework-grounded.
 
-1. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, and action must be clarified architectonically before use.
-2. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
-3. Inherit the certified mathematical gate-package at every step, preserving each item's grade and debt. Audit every feature; inheritance does not mean every feature actively bites at every phase.
-4. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
-5. Use the three moves per stage:
+1. Run the [P1 Physics Registration Rule](physics-registration-theorem.md) before a mathematical structure or mature physics name does physical work. P1 supplies admission and boundary control, not warrant for the candidate.
+2. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, and action must be clarified architectonically before use.
+3. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
+4. Inherit the certified mathematical gate-package at every step, preserving each item's grade and debt. Audit every feature; inheritance does not mean every feature actively bites at every phase.
+5. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
+6. Use the three moves per stage:
    - Move 1: dependency position / essential-form portfolio.
    - Move 2: bottom-up combination from what actually stands.
    - Move 3: grade and dependency record.
-6. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
-7. No `locked actual`. Record two independent axes: framework epistemic state (Open / Conjectured / Secured, with warrant route and reach for every Secured claim) and semantic registration (Native / Unregistered / Registered / Registered–Sealed). Registration contributes zero warrant.
+7. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
+8. No `locked actual`. Record two independent axes: framework epistemic state (Open / Conjectured / Secured, with warrant route and reach for every Secured claim) and semantic registration (Native / Unregistered / Registered / Registered–Sealed). Registration contributes zero warrant.
 
 ## Authority order
 
-1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `domain-entry-method.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method. `entering-a-new-domain.md` is historical worked-example provenance.
+1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `domain-entry-method.md`, `physics-registration-theorem.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method. `physics-registration-theorem.md` governs P1 admission and name-boundary control only; it supplies no downstream theory warrant. `entering-a-new-domain.md` is historical worked-example provenance.
 2. `physics-walk-D1-D5-consolidated.md` is the current D1-D5 re-walk where it conflicts with earlier D3/D4 mediation-carrier documents.
 3. `phi-forward-reconstruction.md` is superseded provenance only.
 4. Current result modules may still overstate strength. Use the matrix below when they do.
@@ -58,6 +60,7 @@ The physics walk must remain framework-grounded.
 
 | Item | Legacy C2 record | Strength / reason | Notes / frontier |
 |---|---|---|---|
+| P1 physics admission and registration control | Native control rule; PASS as dependency map | Secured as an execution construction from F4, the proposed physics boundary, and C2. It separates mathematical availability, physical occupancy, source class, and mature-name registration. | Supplies no warrant to the physics gate or any consumer; mapped consumers retain their local conditions and debts. |
 | Domain-entry discipline | Current F4 execution control; registration inapplicable | Presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and D-series tracing are explicit. | Enforce on every new physics page. The method contributes no warrant to the physics claims it audits. |
 | Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |
 | Four framework readings at an occupied boundary; physical time/space/internal mappings | Native framework construction; physical registrations separate | F3 secures the marked office-kind and three unit-altitude readings by construction. F4 makes their boundary use conditional on occupancy. | Time, space, and internal/color language may be spent only under their owning physics registration records. |
