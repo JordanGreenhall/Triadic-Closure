@@ -22,23 +22,25 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 
 > **P1 control:** mathematical availability, including the M6 gate-package, does not establish physical occupancy. Each D1 candidate must pass the P1 boundary, participation, two-axis trace, source-separation, and mature-name audit. P1 supplies no warrant to the candidate and does not register time, space, color, boson, fermion, field, or any other physics name by itself.
 
-**Frame.** This walk proposes a physics boundary whose inclusion/exclusion rule is the threefold domain constraint: a physical content is self-transforming (From), invariant (This — a conserved structure persists), and coherent (With — held in mutual relation). The bare triad runs under this boundary-plus-triad.
+**Frame.** [P2](physics-boundary-and-four-images.md) governs this unit. The walk selects self-transforming / invariant / coherent as its proposed physics inclusion/exclusion rule. The rule's three-office articulation is Secured, while the claim that it is the actual positive physics gate remains Conjectured with F4's gate debt. The bare triad runs under boundary-plus-triad only conditionally.
 
 **The four images at the boundary.** Before any specific first-This is winnowed, the boundary already presents the triad in its two registers (the deepest D1 fact):
 
 - **Marked triad (within-stage, J):** the three offices distinct in kind — physics reads this as **threefold causation** (oriented conditioning / coherent holding / closure as three non-interchangeable constitutive modes).
 - **From-flattened (across-recursion, ρ):** **ordered succession** — asymmetric, one-way. Physics reads this as **time**.
-- **With-flattened:** **extent** — symmetric, interchangeable. Physics reads this as **space** (the three interchangeable continuous degrees; threeness carried as the flattened image of the marked triad's rigid three).
-- **This-flattened:** **internal distinction** — symmetric, non-interchangeable. Physics reads this as the **"color"-type internal charge**.
+- **With-flattened:** **extent** — symmetric, interchangeable. Physics reads this bounded core as **space**. Exact dimension, continuity, topology, metric, and manifold claims are excluded here.
+- **This-flattened:** **internal distinction** — symmetric, non-interchangeable. Physics reads this bounded core as an **internal / "color"-type distinction**. Gauge group, carrier, representation, charge value, and particle claims are excluded here.
 
-Conditional on the boundary, occupied D1, and the owning physics registration records, all four may stand at D1 in germ. The walk's downstream task is then to mature them (the metric of time/space; the specific internal symmetry).
+Conditional on an actual boundary and occupied D1, F3 makes all four co-present at D1 in germ. This is a Secured placement result, not proof of either condition. P2 records D1 occupancy as Conjectured pending an admissible construction and backward trace.
 
 **The first-This (boson/fermion), sealed within the exchange-mode scope.** Requiring every inherited constraint to remain binding, and auditing each as bites / does not bite / unresolved, is proposed to winnow the minimal self-transformer to a ℤ/2-graded coherent coalgebraic fixed-point self-transformer carrying the three intrinsic characteristics (invariant, generator, coupling-slots). This does not require every inherited feature to instantiate actively in that candidate. M5 contributes rational linearity and a perfect `J`-invariant bilinear form; M6 extends it to a non-degenerate Hermitian form only relative to a selected rule calculus closed under the scalar operations spent. “Super-Hermitian,” positive-definite, Hilbert, and physically normalized pairing structure is not inherited and requires its own construction. Two freedoms survive: pairing value/scale and the polarity-sector fork (+/−). **Sealed registration: boson = symmetric-mode self-transformer; fermion = antisymmetric-mode self-transformer** applies only to the exchange-mode correspondence. The interior flattened triad (the color-image) is the *ρ-level* structure, carried by every closure — boson or fermion alike.
 
-**Grades at D1.**
-- Boson/fermion mode: **sealed**.
-- The four images (marked triad; time-germ, space-germ, color-germ): **registered** — present at the boundary, matured downstream.
-- The threeness of space and of the interior color-triad: **registered**, both as flattened images of the one rigid marked triad (floor-and-ceiling three).
+**P2 grades at D1.**
+- Generic marked triad and three flattenings: **Secured by construction; Native**.
+- Positive physics gate: **Conjectured; Native**.
+- Physics D1 occupancy: **Conjectured; Native**.
+- Threefold causation, time-germ, space-germ, and internal/color-type germ: **Registered** over the exact P2 cores, conditional on the gate and occupancy; not Registered–Sealed.
+- Exact dimensionality, continuum, metric, specific internal triad, and gauge content: outside P2 and not licensed by this record.
 
 ---
 
@@ -48,7 +50,7 @@ Conditional on the boundary, occupied D1, and the owning physics registration re
 
 **Sealed at D2.**
 - **Pauli exclusion / Bose co-occupation.** Antisymmetric holding vanishes on coincidence (two fermions identical in every distinction → 0, from J); symmetric holding permits co-occupation. Directly from the modes + the no-coincidence fact, no spin. *Sealed.*
-- **The three spatial degrees.** Space is the With-flattening (the With-image of the marked triad), matured: three interchangeable continuous degrees of extent. Threeness is the flattened image of the rigid marked three (carried by conservation, not generated by an unfolding — escaping the unbounded-coalgebra worry). Continuum forced (From-as-constraint). *Sealed as the With-flattened image; "space" registered at the seal.*
+- **P4-owned dimensionality record (not a P2 expenditure): the three spatial degrees.** Space is the With-flattening (the With-image of the marked triad), matured: three interchangeable continuous degrees of extent. Threeness is the flattened image of the rigid marked three (carried by conservation, not generated by an unfolding — escaping the unbounded-coalgebra worry). Continuum forced (From-as-constraint). *Sealed as the With-flattened image; "space" registered at the seal.*
 - **Time.** The From-flattening, matured: oriented one-way succession. *Sealed as the From-flattened image.*
 
 **The signature-germ.** Time oriented (From), space unoriented (With): the orientation-difference between the two flattenings is the germ of the metric signature. *Registered.*
@@ -137,7 +139,7 @@ Actualization at a realizability fork follows P(k) = C(k)/Σⱼ C(j) — frequen
 
 **Sealed:** boson/fermion mode (D1); Pauli/Bose, the three spatial degrees, time, the Hamiltonian-essence (D2); composite-This, mode-multiplicativity, the Hamiltonian free+interaction decomposition (D3).
 
-**Registered, forced:** the four images at D1 (marked triad + three flattenings = causation/time/space/color); gravity-in-essence (D3); the Lorentzian interval (D5, strong seal candidate pending the Lorentz-algebra proof); c and propagation (D5).
+**P2-controlled:** conditional on the actual physics boundary and occupied D1, the four images are co-present; causation/time/space/internal-color names are Registered only over the bounded P2 cores. **Other legacy summary records:** gravity-in-essence (D3); the Lorentzian interval (D5, strong seal candidate pending the Lorentz-algebra proof); c and propagation (D5).
 
 **Registered:** matter-extension, field-essence, force-essence, momentum/angular-momentum, spacetime-germ (D3); the invariance-algebra, kind-labels, Noether-essence, sector-conservation, internal-charge-essence, CPT-germ (D4); the realizability-weighting law (cross-cutting).
 

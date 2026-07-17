@@ -34,7 +34,7 @@ Read this before any domain-specific reconstruction:
 
 [5. domain-entry-method](../domain-entry-method.md) — the governing F4 method: presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and the D-series. The older `entering-a-new-domain.md` is a historical physics worked example, not the control.
 
-For physics, this page explains why physics is entered as the mathematical object plus the self-transforming / invariant / coherent constraint, and why causation, metric, identity, possibility, and actuality must be rebuilt before use.
+For physics, this page explains why the walk conditionally enters from the mathematical object under the selected self-transforming / invariant / coherent rule, and why causation, metric, identity, possibility, and actuality must be rebuilt before use. The positive gate and D1 occupancy retain the [P2](../physics-boundary-and-four-images.md) debts.
 
 ## 3. Physics deep dive
 

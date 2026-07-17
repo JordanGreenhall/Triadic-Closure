@@ -2,11 +2,12 @@
 title: Standard Model Content Smuggle Audit and Cleanup Frontier
 type: overview
 created: 2026-06-24
-updated: 2026-07-16
+updated: 2026-07-17
 status: control
 confidence: medium-high
 sources:
   - physics-registration-theorem.md
+  - physics-boundary-and-four-images.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - gauge-structure-result.md
@@ -51,6 +52,14 @@ essential-form claims.
 **Smuggle risk:** importing concepts from "traditional physics" (`particle`, `field`, `mass`,`charge`, `interaction`, `decay`) before proving the domain-entry registration into the framework. A common example: we have established that the framework can identify an electron as a kind of object but have not yet established that it carries a negative charge - making an argument based on the the charge of the object (smuggling that in from traditional physics).
 
 **Cleanup work:** no P1 control debt remains. Each mapped consumer must still construct its physical occupancy and register inherited names property by property at the owning unit. A downstream failure is handed back locally; it does not reopen P1 unless the admission rule or map itself is incomplete.
+
+### 1A. P2 physics boundary and four-image names
+
+**Current support:** [P2](physics-boundary-and-four-images.md) PASSES as a conditional boundary-and-registration unit. F3 secures the generic marked/flattened images. P2 records the self-transforming / invariant / coherent physics rule as a selection, leaves the positive gate and D1 occupancy Conjectured, and licenses bounded uses of threefold causation, time, space, and internal/color-type distinction.
+
+**Smuggle risk:** treating F3's mathematical availability as physical occupancy; using the registered germs to import exact `3+1`, metric, continuum, clocks, Lorentz structure, `SU(3)`, gauge carriers, charge values, confinement, particles, or dynamics.
+
+**Cleanup work:** no P2 record debt remains. Every consumer must carry the gate and occupancy conditions and audit the name-specific surplus. P3-P7 own the excluded later content; a failure there does not strengthen or silently reopen P2.
 
 ### 2. Complex Hilbert / amplitude / Born bridge
 

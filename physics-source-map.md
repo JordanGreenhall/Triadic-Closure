@@ -2,7 +2,7 @@
 title: Physics Source Map
 type: control
 created: 2026-06-23
-updated: 2026-07-16
+updated: 2026-07-17
 status: control
 confidence: high
 ---
@@ -14,6 +14,7 @@ This page maps curated physics pages to their principal upstream sources in the 
 | Curated page | Main source / upstream source |
 |---|---|
 | [physics-registration-theorem](physics-registration-theorem.md) | [domain-entry-method](domain-entry-method.md), [claim-status-vocabulary](claim-status-vocabulary.md), and the P1 frontier records |
+| [physics-boundary-and-four-images](physics-boundary-and-four-images.md) | F3 in [triadic-structure-of-relating-rev-canonical](triadic-structure-of-relating-rev-canonical.md), [domain-entry-method](domain-entry-method.md), the detailed [D1-D5 re-walk](physics-walk-D1-D5-consolidated.md), and [jordan-decisions](jordan-decisions.md) |
 | [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md) | [physics-walk-D1-D6](physics-walk-D1-D6.md), [physics-walk-D2](physics-walk-D2.md) |
 | [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) | [propagation-invariant-velocity-and-modal-structure](propagation-invariant-velocity-and-modal-structure.md) |
 | [lorentz-from-recoupling](lorentz-from-recoupling.md) | same-named result page and physics walk |
@@ -34,6 +35,7 @@ This page maps curated physics pages to their principal upstream sources in the 
 Additional method sources:
 
 - [physics-registration-theorem](physics-registration-theorem.md) — governing P1 physics-admission and semantic-boundary control
+- [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — governing P2 physics-boundary, D1-placement, and four-name control
 - [domain-entry-method](domain-entry-method.md) — governing F4 control
 - [entering-a-new-domain](entering-a-new-domain.md) — historical physics worked example
 - [physics-walk-checklist](physics-walk-checklist.md)

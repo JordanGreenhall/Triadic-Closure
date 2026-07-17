@@ -2,7 +2,7 @@
 title: Physics Registration Rule
 type: physics-spine
 created: 2026-06-25
-updated: 2026-07-16
+updated: 2026-07-17
 status: current
 confidence: high
 sources:
@@ -72,7 +72,7 @@ This map closes the earlier P1 execution debt over the current curated physics s
 | Consumer family | Living consumers | P1 load | P1 does not supply |
 | --- | --- | --- | --- |
 | Navigation and supporting controls | [index](index.md), [physics-section-guide](physics-section-guide.md), [physics-source-map](physics-source-map.md), [physics reading order](overview/triadic-closure-reading-order.md), [locked-actual decrement map](locked-actual-decrement-map.md), [deferred articulations map](deferred-articulations-map.md) | Routes readers through P1 before physics claims and keeps P1's admission function distinct from the two-axis status and articulation ledgers. | A regrade of any ledger row, closure of a deferred articulation, or authority for a result page. |
-| Physics cut and walk | [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [physics-walk-checklist](physics-walk-checklist.md) | Boundary, whole-inheritance audit, occupancy trace, and two-axis record. | Gate existence, D1 occupancy, time, space, internal structure, or any D-stage result. |
+| Physics cut and walk | [physics-boundary-and-four-images](physics-boundary-and-four-images.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [physics-walk-checklist](physics-walk-checklist.md) | Boundary, whole-inheritance audit, occupancy trace, and two-axis record. P2 owns the bounded four-image registrations and their explicit gate/occupancy conditions. | Gate existence, D1 occupancy, time, space, internal structure, or any D-stage result. |
 | Supersession-sensitive detailed physics sources | [physics-walk-D1-D6](physics-walk-D1-D6.md), [physics-walk-D2](physics-walk-D2.md), [detailed D1–D5 re-walk](physics-walk-D1-D5-consolidated.md), [propagation and modal-structure source](propagation-invariant-velocity-and-modal-structure.md) | Requires every surviving use to pass through current P1 and supersession routing; obsolete physical licenses remain historical rather than silently current. | Restoration of superseded grades, carriers, actuality claims, or mature-name bundles. |
 | Spacetime and kinematics | [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [lorentz-from-recoupling](lorentz-from-recoupling.md) | Separates mathematical carriers/forms from their physical deployment and named registrations. | A physical continuum, topology, direction carrier, metric, Lorentz action, or manifold recovery. |
 | Realizability and actualization | [realizability-weighting-law](realizability-weighting-law.md), [with-to-this-closure](with-to-this-closure.md), [amplitude-readout-theorem](amplitude-readout-theorem.md) | Distinguishes framework measure, mathematical theorem, empirical frequency/readout, and physical interpretation. | Positive-definite/Hilbert structure, Born frequency semantics, collapse dynamics, or an amplitude carrier. |

@@ -50,6 +50,8 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 ## Physics walk and spacetime
 
+- `physics-registration-theorem.md`
+- `physics-boundary-and-four-images.md`
 - `physics-walk-checklist.md`
 - `physics-walk-D1-D6.md`
 - `physics-walk-D2.md`
