@@ -28,7 +28,7 @@ The conditioning-network is **not** a graph embedded in a background space. It i
 **Definition (conditioning-network N).**
 - **Nodes** of N are **standings** — actuals that have been taken. By (M1) each standing is reached by a finite address: a walk-history of turn-overs. Two standings are the **same node** iff they have the same address (M3: addresses individuate; unary reachability keeps distinct addresses distinct).
 - **Edges** of N are **conditionings**: a directed relation A ◁ B ("A directly conditions B") holding iff B is reached from A by exactly **one** turn-over (one aspect of A taken as the unit yielding B). Edges are one-way (M2).
-- N carries the inherited content at each node: the office-survey (0.1), J (0.2), the two sectors (0.3), the pairing (0.4). These ride on the standings; they are not extra structure added to the graph.
+- N carries the inherited content at each node: the office-survey (0.1), J (0.2), the two sectors (0.3), and the pairing at its certified grade (0.4). Canonical normalization unit M5 supplies a perfect `J`-invariant rational bilinear form; its Hermitian extension is conditional on canonical unit M6, and positivity/Hilbert structure is not inherited from the M5 construction. These ride on the standings only at those grades; they are not extra structure added to the graph.
 
 **(P1) [proved] N is a directed structure with no background.** The nodes are addresses (walk-histories), the edges are single turn-overs. Nothing in the definition references a position-in-space or an instant-in-time; "where" and "when" are *internal* — a node's location is its address, a node's time is its succession count in the build (below, F2). So N is background-free by construction: it is the build, and the build is not *in* anything. This is exactly what (M6) requires — N must not presuppose spacetime/metric, and it does not.
 
@@ -93,7 +93,7 @@ N supplies exactly two intrinsic count-structures, and they are different in kin
 **Next gates (in dependency order):**
 - **F3** — exactly three spatial degrees: verify that the canonical F2 premise — at-least-three Secured by retorsion and exactly-three Secured within the defended-posit ceiling — is carried through the With-flattening of address-separation. Cite the Treatise claim record; do not present the spatial result as an independent proof of the ultimate count.
 - **F4** — c as the succession-count/separation identity at metric level (mostly notational, given F1.3's two measures).
-- **F5/F6** — the flat metric form (sum-of-squares from isotropy) and signature (minus sign from the null bound), read off the J-compatible pairing (0.4) + J (0.2).
+- **F5/F6** — the flat metric form (sum-of-squares from isotropy) and signature (minus sign from the null bound). Their use of a positive or Lorentz-signature form cannot be read directly off canonical unit M5's rational hyperbolic witness; the required physics form must be separately constructed or selected, then checked for J-compatibility.
 - **F7** — the owed proof: the admissible re-couplings of N (J-compatible, pairing-preserving) are exactly the Lorentz group.
 - **F8/F9** — coherence-participation functional over next-configurations; Hamiltonian-distribution raising toward-it coherence-participation (the de-smuggled gravity tilt), now constrained to be (P2)-admissible.
 - **F10/F11** — the rule-given (not completed) continuum limit; curvature; the Einstein equation with G as the one free particular and c as the unit (not a particular).

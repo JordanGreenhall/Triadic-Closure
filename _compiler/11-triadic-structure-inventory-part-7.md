@@ -16,11 +16,11 @@ A domain boundary determines what is admissible; From supplies cut, side, and co
 **Adjudication:** retained.
 **Claim standing:** Registered.
 
-## TSR-7-003 — From yields polarity and non-degenerate pairing
-A side stands only against its complement; distinction and pairing are two faces of one office.
+## TSR-7-003 — From yields polarity and the relational pairing seed
+A side stands only against its complement; distinction and relational pairing are two faces of one office. Algebraic non-degeneracy is a later M5 construction, not a primitive property of the office.
 
-**Adjudication:** retained.
-**Claim standing:** Registered.
+**Adjudication:** corrected to prevent an algebraic backward import.
+**Framework standing:** Secured as a Native office consequence; no additive, scalar, bilinear, or Hermitian structure is licensed here.
 
 ## TSR-7-004 — `J` recognizes vertical orientation-reversal
 `J` names the within-stage involutive polarity of the admissibility boundary.

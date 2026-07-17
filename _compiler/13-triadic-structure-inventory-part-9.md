@@ -138,10 +138,13 @@ For an additive object `A`, use `A × A` only as a calculational presentation of
 **Registration:** `Dyadic rationals under addition` is Registered for the repeated-halving core. Multiplication, field structure, and denominators not powers of two remain quarantined. `Symmetric component` and `antisymmetric component` are Registered–Sealed within the exhibited two-place additive swap scope: fixed and negated under swap, respectively, with no remainder in either direction.
 
 ## TSR-111 — Linear structure and a `J`-compatible non-degenerate pairing are constructed
-Existence and compatibility are earned; numerical pairing values remain selected.
+M5 supplies the omitted construction in four stages. Repeated-addition endomorphisms of the M3 additive integer group form a unital ring under pointwise addition and composition. Its fraction field supplies `ℚ` by a selected field-completion rule, not by the M4 index defect. The free rational module on the M1 unmarked dyad is defined invariantly as `V=ℚ^(U)`, with exchange extended by `(Jf)(u)=f(Ju)`. The exhibited form `B(f,g)=Σ_u f(u)g(Ju)` has coordinate matrix `[[0,1],[1,0]]`; it is symmetric, rational-bilinear, `J`-invariant, and perfect.
 
-**Adjudication:** retained with value selection explicit.
-**Claim standing:** Registered for structure; selected for values.
+**Adjudication:** repaired. The former compressed record hid the scalar construction and allowed M4's now-withdrawn `ℤ→ℚ` claim to carry it. The rational field and module stand by their own M5 construction. The displayed pairing proves availability, not uniqueness; Gram values and scale remain selected.
+**Framework standing:** Secured by construction plus the standard endomorphism-ring and fraction-field theorems, conditional on M1 and M3. M4 supplies the compatible fixed/negated decomposition but does not generate `ℚ`.
+**Registration:** `Integers as a ring`, `rational numbers`, `rational vector space`, `symmetric bilinear pairing`, `perfect/non-degenerate pairing`, and `J-isometry` are Registered for the exhibited algebraic cores. Unconstructed order, measure, continuum, analytic structure, and uniqueness of pairing values remain quarantined.
+**Complex-extension boundary:** if M6 supplies the rule-given complex scalar algebra with conjugation, scalar extension yields a non-degenerate Hermitian form and semilinear `J`. M5 does not supply positivity, Hilbert completeness, carrier-specific restriction, or physical normalization.
+**Evidence:** the deleted verifier's V7 is historical provenance for the integral two-generator witness only; it is not current evidence or framework warrant.
 
 ## TSR-112 — A rule-free completed continuum is inadmissible at this boundary
 An arbitrary subset lacking registered character does not stand as mathematical content.

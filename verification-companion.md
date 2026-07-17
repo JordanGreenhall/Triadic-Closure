@@ -49,4 +49,10 @@ V5 constructs tag-free identical-token chain presentations, uses host-language l
 
 The M3 executable checks do not construct an empty positive order-character, multiplication, a completed infinite order-type, unordered cardinality, modules, or rational structure. The additive zero class is represented by an equal formal-difference pair and does not settle whether an empty chain stands.
 
+## M5 historical evidence boundary
+
+The deleted verifier's V7 instantiated two named generators, extended exchange by swapping them, and used the matrix `[[0,1],[1,0]]` to check finite samples of additivity, non-degeneracy, and `J`-invariance. This is historical provenance for the intended hyperbolic witness now stated invariantly in M5.
+
+V7 used host-language integer multiplication and named coordinates. It did not construct integer multiplication from the M3 additive group, construct the fraction field `ℚ`, prove presentation-independence under relabeling, test the rational module, establish uniqueness of a pairing, or supply a complex, positive-definite, Hilbert, carrier-specific, or physically normalized form. The deleted implementation supplies no current executable evidence and no framework warrant. M5's standing comes from the displayed endomorphism-ring, fraction-field, free-module, and perfect-pairing constructions.
+
 See also: [The Triadic Structure of Relating — Canonical Foundation](triadic-structure-of-relating-rev-canonical.md), [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md), [Known Failure Modes](known-failure-modes.md), and [Corpus Lineage](corpus-lineage.md).

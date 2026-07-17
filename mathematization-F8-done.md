@@ -10,10 +10,10 @@ A content P stands at a node of the conditioning-network N. Construct the space 
 
 - **[def] The elementary couplings.** P has finitely many admissible elementary next-couplings — one per neighbor/aspect P can condition at the next succession count. (Finiteness: F2 atomicity + finite conditioning-degree per step.) Label them $e_1, \dots, e_n$. They are the basis directions of the configuration space.
 - **[def] The configuration space** $V = \mathbb{C}^n$, over rule-given $\mathbb{C}$ (0.9). A **next-configuration** is a vector $k = \sum_i k_i e_i \in V$ — a coherent superposition of elementary couplings (coherent because the standing is a ρ-coherent structure and realizability carries all forks with amplitudes, 0.5).
-- **[def] The pairing** $h$: the inherited Hermitian form (0.4), non-degenerate, J-compatible. In the physics subdomain it is positive-definite (probability-readability), so $(V, h)$ is a finite-dimensional Hilbert space. Write $h(x,y) = x^\dagger H y$ for a Hermitian positive-definite matrix $H$.
+- **[conditional input] The pairing** $h$: M5 constructs a perfect `J`-invariant rational bilinear form, and M6 may extend it to a non-degenerate Hermitian form over rule-given $\mathbb C$. Neither step supplies positive definiteness. This F8 construction therefore assumes a separately licensed positive-definite physics pairing (probability-readability); conditional on that input, $(V,h)$ is a finite-dimensional inner-product space and may be written $h(x,y)=x^\dagger H y$ for Hermitian positive-definite $H$. M5 is not the warrant for this positivity.
 - **[def] The standing vector** $\sigma \in V$: the accumulated standing, projected onto P's coupling-options — i.e. how the coherence the standing has already established constrains which of P's next-couplings cohere. It lives in the same space $V$ (the standing constrains P's couplings *through the pairing*, so its bearing on P is a vector paired against P's configurations).
 
-Every object is built from N's intrinsic data — couplings (edges), the pairing (0.4), ρ-coherence and conservation (0.5, 0.6) in the standing vector. No background metric or measure enters. Admissible by F1.2 (P2).
+Every object is built from N's intrinsic data plus the explicitly conditional positive-definite physics pairing — couplings (edges), the licensed pairing, ρ-coherence and conservation (0.5, 0.6) in the standing vector. No background metric or measure enters after that pairing is licensed. Admissible by F1.2 (P2) only under the stated pairing condition.
 
 ## 2. The requirements C(k) must satisfy
 
@@ -64,7 +64,7 @@ Only $f(t) = t$ gives a basis-independent sum; every nonlinear candidate's sum v
 
 ## 5. Status of F8 — stated exactly
 
-**Established (constructed + derived + uniqueness):**
+**Established conditional on the licensed positive-definite physics pairing (constructed + derived + uniqueness):**
 - The next-configuration space $(V = \mathbb{C}^n, h)$ is built from N's intrinsic data (elementary couplings, the pairing). [def, F1.2-admissible]
 - $C(k) = |h(\sigma,k)|^2/h(k,k)$ satisfies the five required properties R1–R5. [checked]
 - $C$ is the **unique** functional satisfying R1–R5 when $\dim V \ge 3$, by the frame-function/Gleason argument; the induced probability is the Born measure. [checked + cited]
@@ -73,9 +73,9 @@ Only $f(t) = t$ gives a basis-independent sum; every nonlinear candidate's sum v
 **Honest conditions and gaps:**
 - **Dimensional condition $\dim V \ge 3$** [open-conditional]: uniqueness requires P to have at least 3 admissible elementary next-couplings. Generic nodes plausibly satisfy this, but it is a genuine condition, not automatic — to be discharged by showing admissible conditioning-degree $\ge 3$ generically (likely from the three-fold spatial structure F3, but not proved here).
 - **The standing vector $\sigma$** [def, partially open]: I defined $\sigma$ as "the standing projected onto P's coupling-options through the pairing." That it is *well-defined and unique* — that the accumulated standing determines a single such $\sigma \in V$ — is asserted at the level of definition; making it a construction (an explicit map from the accumulated standing to $\sigma \in V$) is owed. This is the next real piece, and it is the hinge for F9 (the degree-derivative needs $\sigma$ as an explicit function of the neighbours' conditioning-degrees).
-- The positive-definiteness of $h$ (used for the Hilbert-space structure and Cauchy–Schwarz) is the physics-subdomain condition (probability-readability); in the bare pairing it is an admissibility condition (0.4), carried as such.
+- **Positive-definite pairing input** [open / separately owned]: M5 supplies a perfect rational form and, conditional on M6, a non-degenerate Hermitian extension; it does not supply positivity. The positive-definite form used for Hilbert-space structure, orthonormal frames, Cauchy–Schwarz, and Gleason must be constructed or selected in its physics owning unit. F8 is conditional until that dependency is discharged.
 
-**What F8 now is, honestly:** the functional is constructed from N's data and *derived* (uniqueness via Gleason, dimension $\ge 3$ stated), not asserted "in essence." The two owed pieces are the dimensional condition and the explicit construction of $\sigma$ from the standing — the latter being exactly what F9 needs, so it is the right next step.
+**What F8 now is, honestly:** conditional on a licensed positive-definite physics pairing, the functional is constructed from N's data and derived (uniqueness via Gleason, dimension $\ge 3$ stated), not asserted “in essence.” The owed pieces are that pairing construction, the dimensional condition, and the explicit construction of $\sigma$ from the standing — the last being exactly what F9 needs.
 
 ---
 
