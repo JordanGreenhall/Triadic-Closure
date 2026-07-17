@@ -10,6 +10,7 @@ sources:
   - gauge-structure-result.md
   - lorentz-from-recoupling.md
   - 05-gauge-architecture-beyond-color.md
+  - boson-fermion-and-holding-statistics.md
 ---
 
 # SM Frontier Item 6 — Spin / Helicity / Chirality / Lift
@@ -20,7 +21,7 @@ Item 6 passes for the spin/helicity/chirality machinery. It does not carry the e
 
 | Sub-capacity | Grade | Basis |
 |---|---|---|
-| 6.4 boson/fermion essence + Pauli/Bose holding | Registered and Sealed, stripped | Already sealed via the §9.6 J-sector split; preserve, do not reopen. |
+| 6.4 boson/fermion exchange mode + Pauli/Bose holding | P3-controlled | [P3](boson-fermion-and-holding-statistics.md): Registered–Sealed only within its conditional sector-pure exchange-mode, complete-state exclusion, and no-sign-prohibition scopes; physical occupancy is not supplied. |
 | 6.3 chiral/vectorial criterion | Registered | Chiral iff orientation-faithful. |
 | Spin as lifted-rotatability representation label | Registered | Irreps of `Spin(3)=SU(2)`, as mathematics, off Item 5's lift. |
 | 6.1 elementary fermion = spin-1/2 | Registered | Minimal faithful spinor representation by minimality. |
@@ -37,7 +38,7 @@ Item 6 passes for the spin/helicity/chirality machinery. It does not carry the e
 
 ## Verdict
 
-**PASS** for the spin/helicity/chirality machinery, at **Registered** status, with 6.4 already **Registered and Sealed** in stripped form.
+**PASS** for the spin/helicity/chirality machinery, at **Registered** status. Item 6 consumes P3's independently controlled, scoped boson/fermion and Pauli/Bose registrations; it may not widen them.
 
 The machinery is derived from metric/lifted rotatability/propagation plus the J-sector split: spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity as spin-vs-propagation comparison with `σ·p` as its `j=1/2` form, chiral criterion, binary handedness, maximal chirality/V-A, and parity violation. Pauli matrices and SM handedness are not imported as primitives.
 

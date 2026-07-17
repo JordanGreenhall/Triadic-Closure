@@ -10,6 +10,7 @@ sources:
   - ../06-spin-helicity-chirality-lift.md
   - ../05-gauge-architecture-beyond-color.md
   - ../03-10-physics-concept-load-pass-ledger.md
+  - ../boson-fermion-and-holding-statistics.md
 ---
 
 # Frontier Item 6: Spin / helicity / chirality / lift theorem
@@ -28,7 +29,7 @@ See [06-spin-helicity-chirality-lift](../06-spin-helicity-chirality-lift.md): sp
 
 ## Pass condition for the loop agent
 
-PASS is achieved for the machinery: 6.4 stripped boson/fermion + Pauli/Bose is Registered and Sealed; spin/helicity/chirality machinery is Registered. Exact chiral fermion module, hypercharge particulars, and Higgs/electroweak breaking remain outside Item 6 load.
+PASS is achieved for the machinery: spin/helicity/chirality machinery is Registered. For 6.4, [P3](../boson-fermion-and-holding-statistics.md) governs the conditional sector-pure boson/fermion correspondence and exact Pauli/Bose scopes; physical occupancy and all P3 exclusions remain outside Item 6's warrant. Exact chiral fermion module, hypercharge particulars, and Higgs/electroweak breaking remain outside Item 6 load.
 
 ## Fail / smuggle condition
 

@@ -10,6 +10,8 @@ sources:
   - ../architectonic-rigor-complete.md
   - ../triadic-structure-of-relating-rev-canonical.md
   - ../domain-entry-method.md
+  - ../physics-boundary-and-four-images.md
+  - ../boson-fermion-and-holding-statistics.md
   - ../physics-domain-mature-status.md
 ---
 
@@ -41,11 +43,13 @@ For physics, this page explains why the walk conditionally enters from the mathe
 Only after the above should a reader enter the physics corpus:
 
 6. [physics-registration-theorem](../physics-registration-theorem.md) — P1 admission, source-separation, and mature-name control; no downstream warrant is supplied by this rule.
-7. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
-8. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
-9. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
-10. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
-11. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
+7. [physics-boundary-and-four-images](../physics-boundary-and-four-images.md) — P2 boundary proposal, D1 occupancy debt, and bounded four-image registrations.
+8. [boson-fermion-and-holding-statistics](../boson-fermion-and-holding-statistics.md) — P3 mathematical sectors, conditional exchange-mode deployment, and exact Pauli/Bose scopes.
+9. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
+10. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
+11. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
+12. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
+13. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
 

@@ -8,6 +8,7 @@ confidence: medium
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
   - physics-domain-mature-status.md
   - physics-walk-checklist.md
   - three-moves-per-stage.md
@@ -30,14 +31,15 @@ Every task below must run:
 
 1. P1 preflight: inherited-grade integrity, physics boundary, occupancy/participation, two-axis structural trace, source separation, and mature-name boundary. P1 is control only and contributes no claim warrant.
 2. P2 boundary/four-image control where relevant: carry the Conjectured positive-gate and D1-occupancy debts; spend causation, time, space, and internal/color language only within their licensed cores and quarantines.
-3. Architectonic clarification of the relevant presupposition.
-4. Physics-walk checklist: certified Part 0 gate-package with grades and debts; record each feature as bites / does not bite / unresolved; then A frame, B instruments, C population, D C2 record, and E adversarial pass.
-5. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
-6. Essential-form/mature-form split.
-7. Final two-axis record:
+3. P3 mode/holding control where relevant: distinguish mathematical eigensectors, conditional physical capacity, D2 holding deployment, and empirical occurrence; never infer spin, unlimited occupation, or matter/field roles from exchange sign alone.
+4. Architectonic clarification of the relevant presupposition.
+5. Physics-walk checklist: certified Part 0 gate-package with grades and debts; record each feature as bites / does not bite / unresolved; then A frame, B instruments, C population, D C2 record, and E adversarial pass.
+6. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.
+7. Essential-form/mature-form split.
+8. Final two-axis record:
    - framework epistemic state: Open / Conjectured / Secured, with warrant route and reach for every Secured claim;
    - semantic registration: Native / Unregistered / Registered / Registered–Sealed.
-8. For Registered, record the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, verify bidirectional content identity within the declared scope.
+9. For Registered, record the licensed framework-secured core and quarantine all legacy surplus. For Registered–Sealed, verify bidirectional content identity within the declared scope.
 
 Traditional physics may orient the search and supply empirical checks. It may not supply the metaphysical basis or silently determine the result.
 

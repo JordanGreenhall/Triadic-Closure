@@ -52,6 +52,14 @@ Status: adjudicated orientation artifact. This file governs reader orientation a
 
 ---
 
+## TCR-005B — Exchange mode, physical occupancy, and holding consequences remain distinct
+
+**Canonical formulation:** The M4/M5 `J` theorem Secures exactly two mathematically inhabited eigensectors at the `2`-invertible grade. P3 does not turn mathematical inhabitation into physical occupancy. Conditional on admitted sector-pure D1 contents, the eigencharacter is a holding-capacity; at occupied D2, same-kind holding deploys it. Antisymmetry forces complete-state diagonal vanishing, while symmetry merely lacks that prohibition. Boson/fermion and Pauli/Bose names are Registered–Sealed only within these exact scopes. Spin-statistics, unlimited occupation, Fock/Hilbert structure, and matter/force roles are later claims.
+
+**Standing:** current P3 dependency and name-boundary control.
+
+---
+
 ## TCR-006 — Control pages are discovery maps, not automatic semantic governors
 
 **Canonical formulation:** Physics status matrices, work plans, consolidated walks, source maps, and dimensionality controls should be consulted early because they identify live families, known supersessions, and open gates. Their statements must still be checked against the most advanced detailed derivations, repairs, and downstream expenditures for each claim.

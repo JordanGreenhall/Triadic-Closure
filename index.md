@@ -40,6 +40,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 - [Physics Registration Rule](physics-registration-theorem.md)
 - [Physics Boundary and Four Images](physics-boundary-and-four-images.md)
+- [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
 - [Dimension and Spacetime Status](dimension-and-spacetime-status.md)

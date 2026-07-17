@@ -8,6 +8,7 @@ confidence: medium
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
   - domain-entry-method.md
@@ -66,8 +67,8 @@ The physics walk must remain framework-grounded.
 | P2 selected physics constraint: self-transforming / invariant / coherent | Native boundary proposal; actual positive gate Conjectured | The selection and its three-office articulation are explicit; F4's peer-level From-to-With gate debt remains open. | Conditional use only. The rule neither proves the physics gate nor D1 occupancy. See [physics-boundary-and-four-images](physics-boundary-and-four-images.md). |
 | P2 four images and physical readings | Generic construction Secured/Native; bounded physical names Registered conditionally | F3 secures the marked office-kind and three unit-altitude readings. Given an actual boundary and occupied D1, their co-presence is Secured by dependency. | Physics D1 occupancy remains Conjectured. Causation/time/space/internal-color terms carry the exact P2 quarantines; none is Registered–Sealed here. |
 | Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |
-| Boson/fermion essence | Registered and Sealed | Bidirectional content-identity between ± holding-mode and properly stripped boson/fermion essence. | Spin-statistics is deployment-context, not essence. |
-| Pauli/Bose holding result | Registered and Sealed | Follows from symmetric/antisymmetric holding and coincidence. | Does not require importing spin. |
+| P3 boson/fermion exchange mode | Algebraic theorem Secured/Native; names Registered–Sealed within scoped correspondence | `J` has exactly the `+1/-1` eigensectors at the `2`-invertible grade. Conditional sector-pure physics candidates carry symmetric/antisymmetric holding-capacity. | Physical occupants remain Conjectured internally and empirically observed. No universal sector-purity, particle/field ontology, or spin-statistics tie. See [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md). |
+| P3 Pauli/Bose holding | Conditional algebraic consequences Secured; names Registered–Sealed within exact scopes | Antisymmetric complete-state diagonal vanishes; symmetry introduces no such prohibition. | Spatial coincidence alone, unlimited occupation, occupation numbers, Fock/Hilbert structure, matter/force roles, and spin are excluded. |
 | Time, three spatial degrees, Hamiltonian-essence | Registered and Sealed | Current D1-D5 re-walk seals essential forms. | Mature Hamiltonian terms/spectrum remain Open. |
 | Lorentzian interval / metric signature | Registered and Sealed, with external theorem note | Lorentz proof preserves null cone and uses Alexandrov-Zeeman as named external implication. | Framework supplies hypotheses; external theorem supplies null-cone-preserving => Lorentz. |
 | Propagation and invariant velocity `c` | Registered and Sealed | Link/step identity; finite, unique, constant, frame-invariant upper bound. | Adjudication (2026-06-21, Item 8): the three-level distinction (actual discreteness / realizability continuity / observational coarse sampling) is Registered as a clarification; the **continuum-adequacy / manifold-recovery theorem remains Open** — no proof that coarse-graining yields a metric manifold rather than a graph approximant. See [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md). |

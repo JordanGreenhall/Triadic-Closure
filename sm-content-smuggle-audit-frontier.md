@@ -8,6 +8,7 @@ confidence: medium-high
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - gauge-structure-result.md
@@ -132,15 +133,12 @@ lattice, electroweak mixing, decay product typing.
 
 ### 6. Fermion/boson versus spin/helicity/chirality
 
-**Current support:** Item 6 passes for spin/helicity/chirality machinery at
-Registered status. Boson/fermion essence and Pauli/Bose holding are Registered and
-Sealed in stripped form. Spin as lifted-rotatability representation, elementary
+**Current support:** [P3](boson-fermion-and-holding-statistics.md) now governs the upstream mode/statistics load. The M4/M5 exchange theorem is Secured; boson/fermion and Pauli/Bose are Registered–Sealed only within their exact exchange-mode and complete-state holding scopes, conditional on physical occupancy. Item 6 separately passes for spin/helicity/chirality machinery at Registered status. Spin as lifted-rotatability representation, elementary
 spin-1/2 by minimality, helicity as spin-vs-propagation comparison, `sigma . p`
 for `j=1/2`, binary handedness, maximal chirality/V-A, and parity violation are
 Registered. Exact chiral fermion module and hypercharge particulars remain Open.
 
-**Smuggle risk:** importing exact SM module content, hypercharge, Higgs/electroweak
-breaking, or unrelated higher-spin occupancy from the registered machinery. A page
+**Smuggle risk:** inferring physical occupants from mathematical eigensectors; reading Pauli as spatial-only exclusion; reading Bose permission as unlimited occupation; or importing spin-statistics, matter/force roles, exact SM module content, hypercharge, Higgs/electroweak breaking, or unrelated higher-spin occupancy from the registered machinery. A page
 may use the machinery; it may not automatically use the full SM representation
 bundle.
 

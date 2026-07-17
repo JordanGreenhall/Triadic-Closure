@@ -13,7 +13,7 @@ The corrective: for each proposed physics structure, identify a candidate **esse
 Examples already encountered:
 - **Hamiltonian:** essential form = the conserved coherent total generator of the field's joint self-transformation (present at D2). Mature form adds: free+interaction decomposition (D3), specific terms/spectrum, continuum-filling. We nearly mis-graded by expecting the mature form.
 - **Gravity:** essential form = the mutual conditioning between energy (Hamiltonian) and spatial-degree structure (present at D3). Mature form adds: the specific Einstein equation, Lorentzian curvature dynamics. We *did* mis-grade it once — waved "not yet" by expecting the mature (metric-dynamical) form, when the essential form (energy ↔ geometry mutual conditioning) is exactly a D3 operation.
-- **Boson/fermion:** essential form = the symmetric/antisymmetric holding-mode (D1). Mature form adds: spin, mass, charge, the spin-statistics tie (all deployment-context).
+- **Boson/fermion:** [P3](boson-fermion-and-holding-statistics.md) licenses the names only for the conditional sector-pure symmetric/antisymmetric exchange-mode correspondence. D1 supplies holding-capacity and occupied D2 supplies deployment; physical occupancy, spin, mass, charge, particle/field roles, and the spin-statistics tie are not P3 results.
 
 ---
 

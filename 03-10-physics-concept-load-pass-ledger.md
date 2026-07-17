@@ -166,7 +166,7 @@ See [05-gauge-architecture-beyond-color](05-gauge-architecture-beyond-color.md).
 
 ## Item 6 — Spin / helicity / chirality / lift theorem
 
-See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status; stripped boson/fermion + Pauli/Bose holding is already Registered and Sealed.
+See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status. [P3](boson-fermion-and-holding-statistics.md) separately controls the conditional boson/fermion exchange-mode correspondence and exact Pauli/Bose holding scopes.
 
 ### 6.1 Spin and elementary spin-1/2
 
@@ -199,10 +199,10 @@ See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 
 
 - **Physics concept:** Fermions obey exclusion/antisymmetric holding; bosons allow symmetric/shared occupation.
 - **Actual physics job:** Statistics and occupancy behavior in stripped essence.
-- **Current framework use:** Already registered/sealed in the control layer.
-- **Grade:** **Registered and Sealed, stripped.** Preserve; do not reopen.
-- **Boundary:** Does not by itself license surplus spin/module/particle-bundle claims.
-- **Fail condition:** Sealed stripped statistics are used to smuggle exact spin values or SM representation bundles beyond the registered machinery.
+- **Current framework use:** Conditional exchange-mode and holding-statistics control under [P3](boson-fermion-and-holding-statistics.md).
+- **Grade:** The mathematical `+1/-1` eigensectors are **Secured** at the `2`-invertible grade. Boson/fermion is **Registered–Sealed** only for admitted sector-pure exchange modes. Pauli is **Registered–Sealed** for antisymmetric complete-state diagonal vanishing; Bose is **Registered–Sealed** for absence of that exchange-sign prohibition.
+- **Boundary:** Physical occupants remain internally Conjectured; P3 supplies no universal sector-purity, spatial-only exclusion, unlimited occupation, Fock/Hilbert structure, spin, module, particle-bundle, or matter/force role.
+- **Fail condition:** Mathematical sector-inhabitation is treated as physical occupancy, or the scoped seals are used to smuggle any excluded surplus.
 
 ---
 

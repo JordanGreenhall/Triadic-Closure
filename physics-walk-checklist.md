@@ -16,6 +16,12 @@ Run [Physics Boundary and Four Images](physics-boundary-and-four-images.md) when
 
 ---
 
+## P3 — EXCHANGE-MODE AND HOLDING CONTROL
+
+Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md) whenever `J` sectors, boson/fermion, Pauli exclusion, or Bose co-occupation are spent. Keep mathematical sector-inhabitation separate from physical occupancy; distinguish conditional D1 holding-capacity from D2 holding deployment; require complete-state coincidence for Pauli; and read Bose as permission rather than guaranteed or unlimited occupation. P3 supplies no spin-statistics theorem, particle/field ontology, matter/force role, Fock/Hilbert structure, occupation-number algebra, or universal sector-purity.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:
@@ -24,7 +30,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.2 The involution J.** Orientation-reversal, J² = id by construction, constitutive. Every content self-conjugate as a whole with internal polarity exchanged. *Constraint inherited:* orientation (one-way / from-toward) is built into every content; J acts throughout; conjugation = orientation-reversal.
 
-**0.3 The two-sector polarity.** λ² = 1 permits exactly the eigenclasses +1 (symmetric) and −1 (antisymmetric), **both inhabited**, no third wherever the scalar grade makes `2` invertible. M4 supplies the minimal additive halving threshold; M5 separately constructs the rational scalar field on which the full eigenspace theorem runs. Strictly-paired contents and self-conjugate (orientation-symmetric) contents. *Constraint inherited:* the ±1 split, both sectors live, AND their **commingling** — the relation between the sectors is itself structure (not just two preserved bins). Read in physics: boson/fermion split, with the self-conjugate sector the room for self-conjugate entities (recognition).
+**0.3 The two-sector polarity.** At the `2`-invertible scalar grade, `J²=id` gives the +1 fixed and −1 negated eigensectors, both mathematically inhabited. M4 supplies the minimal additive halving threshold; M5 separately constructs the rational scalar field and free module on which the full eigenspace theorem runs. [P3](boson-fermion-and-holding-statistics.md) controls every physics reading: mathematical inhabitation does not establish physical occupants, universal sector-purity, cross-sector physical superposition, or a superselection rule.
 
 **0.4 The pairing.** From supplies the Native relational pairing seed, not an algebraic form. M5 constructs the rational scalar field, the free rational module on the unmarked dyad, and one perfect symmetric `J`-invariant bilinear pairing. At M6's conditional rule-calculus grade, standard complex scalar extension gives a non-degenerate Hermitian form with semilinear `J`. *Constraint inherited:* only that scoped algebraic structure is available, and every use must retain M6's calculus-closure condition. Gram values and scale are selections. Positive definiteness, Hilbert completeness, carrier-specific restriction, probability readability, and physical normalization require their own physics constructions and may not be smuggled through “pairing.”
 

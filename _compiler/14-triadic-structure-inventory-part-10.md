@@ -20,8 +20,8 @@ The decomposition is direct-sum complementarity of fixed and negated components,
 ## TSR-098 — Bosonic/fermionic readings are recognition only
 Physical names do no work in the mathematical derivation.
 
-**Adjudication:** retained as sealed recognition.
-**Claim standing:** Registered as recognition; physics occupancy requires separate work.
+**Adjudication:** retained for the foundation and routed to [P3](../boson-fermion-and-holding-statistics.md) for physics use.
+**Claim standing:** the algebraic exchange-mode correspondence is Registered–Sealed within its declared scope; physical occupancy remains Conjectured internally and independently empirical. Pauli/Bose deployment additionally requires an admitted occupied D2 holding.
 
 ## TSR-099 — The mathematics gate-package contains certified structural resources only
 It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, M4 same-summand decomposition at the `2`-invertible additive grade, and M5's rational scalar field, free rational module, and exhibited perfect symmetric `J`-invariant pairing. M6 adds valid rule-cut admissibility, scalar and least-upper-bound schemas relative to a selected closed rule calculus, and the selected quadratic complex extension at that grade. The resulting Hermitian extension is algebraic and non-degenerate. Positive-definite/Hilbert, carrier-specific pairing, unrestricted completeness, topology, measure, and physical continuum deployment are not inherited merely from the mathematics gate.
