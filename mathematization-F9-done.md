@@ -1,6 +1,6 @@
 # F9, Done Properly: The Standing Vector σ, and the Gravity Tilt Derived as Exactly Linear in Conditioning-Degree
 
-### Builds on F8 (the next-configuration space (V, h) and the forced functional C(k) = |h(σ,k)|²/h(k,k)). The owed piece from F8 was an explicit construction of the standing vector σ; this document constructs it and computes the tilt. The result is stronger than the prose F9 (P20) claimed: the coherence-participation of P coupling to neighbor i is not merely *monotone* in i's conditioning-degree but **exactly linear** in it. Every non-trivial step is checked by computation; scripts and outputs are recorded. Tags: **[def]**, **[derived]** (each link a framework fact), **[checked]** (computed), **[choice]** (a modeling selection, flagged honestly).
+### Builds on F8 (the next-configuration space (V, h) and the conditional functional C(k) = |h(σ,k)|²/h(k,k)). M5 does not supply the positive-definite physics pairing assumed by F8; every F9 result therefore inherits that unresolved condition. Within it, this document constructs the standing vector σ and computes the tilt. The result is stronger than the prose F9 (P20) claimed: the coherence-participation of P coupling to neighbor i is not merely *monotone* in i's conditioning-degree but **exactly linear** in it. Every non-trivial step is checked by computation; scripts and outputs are recorded. Tags: **[def]**, **[derived]** (within stated conditions), **[checked]** (computed), **[choice]** (a modeling selection, flagged honestly).
 
 ---
 
@@ -54,6 +54,7 @@ The √ in the amplitude (link 2) and the squaring in C (Born, F8) cancel: ampli
 - P(i) = d_i/Σ_j d_j (the selection probability over next-couplings). [checked]
 
 **Flagged choices / owed:**
+- **[condition]** The positive-definite physics pairing assumed by F8 remains separately owned; M5's perfect rational form and conditional M6 Hermitian extension do not discharge it.
 - **[choice]** The standing-state is the conserved coherence-flow stationary amplitude (not the bare adjacency eigenvector). Motivated by ρ = conservation, and it is what makes the measure conserved — but "forced by ρ" is owed; currently "the framework-consistent choice," not "the unique choice."
 - **The continuum step is still ahead (F10).** This gives the *per-step, discrete* tilt law (linear in degree). Whether this discrete linear-in-degree weighting accumulates, in the rule-given continuum limit, to exactly the metric curvature (the cone-tilt tensor) is **F10** — still the open frontier. F9 supplies F10's input (an explicit, exactly-linear local tilt law) in clean admissible form, which is exactly what a curvature computation needs.
 

@@ -89,13 +89,25 @@ The M1 record does not establish D2 collapse, orientation-generated counting, in
 | Formal differences of positive order-characters form an additive integer grading. | **Secured by construction and standard group completion.** | Pairs are quotiented by equal difference; componentwise addition is well-defined; role-swap is inverse; equal pairs represent zero without requiring an empty chain. | **Registered**, not Registered–Sealed, as integers for the additive grading core. Multiplication and undisplayed order/ring structure remain quarantined. |
 | The comparison `ω+1 != 1+ω` is available at M3. | **Open / conditional.** | M3 constructs finite order-characters, not a completed `ω` object. The comparison becomes available only under a separately admissible infinite-order-type presentation. | **Unregistered** at M3. |
 
-Former V4/V5 runs are historical provenance, not current evidence or framework warrant. M4 supplies the minimal repeated-halving additive grade for unmarked same-summand decomposition; full rational structure, modules, pairing, and later mathematical structure belong to subsequent units.
+Former V4/V5 runs are historical provenance, not current evidence or framework warrant. M4 supplies the minimal repeated-halving additive grade for unmarked same-summand decomposition. M5 below supplies the rational field, rational module, and displayed algebraic pairing by separate constructions; still later mathematical structure remains quarantined to its owning units.
+
+## M5 rational-linear and pairing record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| The M3 additive integers admit a unital ring structure. | **Secured by construction.** | Repeated-addition endomorphisms form a ring under pointwise addition and composition; evaluation at the positive generator transports composition to integer multiplication. This construction occurs at M5 and does not retroactively license multiplication at M3. | **Integers as a ring** is **Registered** for the displayed algebraic core; undisplayed order and analytic surplus remain quarantined. |
+| The rational scalar field is available. | **Secured by construction plus the standard fraction-field theorem.** | Fractions `(a,b)`, `b≠0`, are quotiented by `ad=bc`. Inverting every nonzero integer is a selected field-completion rule; `ℚ` is not forced by M4's index defect. | **Rational numbers** is **Registered** for the field core; order, measure, continuum, and analytic surplus remain quarantined. |
+| The unmarked dyad supports a free rational module and a perfect `J`-invariant bilinear pairing. | **Secured by construction**, conditional on M1 and M3. | For `V=ℚ^(U)`, `B(f,g)=Σ_u f(u)g(Ju)`; in exchanged coordinates its matrix is `[[0,1],[1,0]]`, so it is symmetric, `J`-invariant, and perfect. Coordinate names are scaffolding. The displayed form proves existence, not uniqueness. | **Rational vector space**, **symmetric bilinear pairing**, **perfect/non-degenerate pairing**, and **`J`-isometry** are **Registered** for the exhibited algebraic core. Gram values and scale remain selected. |
+| A complex Hermitian pairing follows at M5. | **Conditional, not an M5 result by itself.** | If M6 supplies the rule-given complex scalar algebra and conjugation, scalar extension gives a non-degenerate Hermitian form. M5 supplies neither positivity nor Hilbert completeness nor a carrier-specific restriction. | **Hermitian pairing** is unavailable from M5 alone; later use must cite M6 and any additional physics construction. |
+
+The deleted verifier's V7 is historical provenance for the displayed finite-rank witness. It supplies no current executable evidence and no framework warrant.
 
 ## Foundation frontier pointers
 
-The one live F2 debt is governed only in the canonical treatise:
+The live foundation and mathematics debts are governed only in the canonical treatise:
 
 - the full From -> With coherence-conditioning account: local record §2.4; global record §10.
+- positive-definite/Hilbert pairing structure and carrier-specific pairing restrictions: local M5 record §9.5; global record §10.
 
 This gateway does not duplicate their missing-premise records.
 

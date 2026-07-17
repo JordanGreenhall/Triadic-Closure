@@ -57,11 +57,11 @@ Conditioning proceeds from one side toward another; an inverse is not built into
 **Adjudication:** retained with scope: reversibility may later arise in a constructed relation, but it is not primitive in From itself.
 **Claim standing:** Registered.
 
-## TS-020 — Polarity and non-degenerate pairing are two faces of From
-Distinction yields side/complement; holding the distinction in relation yields pairing. These are not separately imported structures.
+## TS-020 — Polarity and the relational pairing seed are two faces of From
+Distinction yields side/complement; holding the distinction in relation yields the native relational pairing seed. These are not separately imported structures. The algebraic predicates bi-additive, bilinear, Hermitian, and non-degenerate require the M5 scalar/module construction and may not be read backward into the primitive office.
 
-**Adjudication:** retained as a foundational structural consequence. Later uses of `J` and polarity are recognitions of this inherited structure.
-**Claim standing:** Registered.
+**Adjudication:** corrected to separate the primitive relation from its later algebraic realization. Later uses of `J` and polarity recognize the inherited structure; later pairing forms must cite their construction.
+**Framework standing:** Secured as a Native consequence of From's distinction-held-in-relation. No algebraic pairing is established at this grade.
 
 ## TS-021 — From has two native directions
 From→This conditions a successor standing; From→With conditions the medium in which realization is possible.

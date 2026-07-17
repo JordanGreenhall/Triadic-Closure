@@ -5,10 +5,11 @@ Source locus: §§9.6–10 and the closing statement of the original `triadic-st
 Method: each theorem, gate claim, and open joint was checked against the mathematics walk, conversation-ledger audit, later physics controls, and current compiler governance. Historical verification labels were not treated as present authority. The principal result is preservation of the two-sector theorem and rule-given gate package together with every named unresolved hinge.
 
 ## TSR-096 — Exactly two exchange eigensectors
-For involutive `J`, at a scalar grade where `2` is invertible, the only eigenclasses are `+1` and `-1`; no third eigenvalue is generated. M4 establishes the minimal additive threshold for the fixed/negated split; it does not by itself construct full rational scalar structure.
+For involutive `J`, at a scalar grade where `2` is invertible, the only eigenclasses are `+1` and `-1`; no third eigenvalue is generated. M4 establishes the minimal additive threshold for the fixed/negated split; M5 separately constructs the rational scalar field on which the full eigenspace statement may run.
 
-**Adjudication:** retained conditionally at any separately constructed `2`-invertible scalar grade.
-**Claim standing:** Registered and Sealed within those assumptions.
+**Adjudication:** retained over M5's rational scalar construction and, more generally, any scalar grade where `2` is invertible.
+**Framework standing:** Secured by the factorization `(λ-1)(λ+1)=0` over the stated scalar condition.
+**Registration:** the two eigensectors are Registered–Sealed within that algebraic scope; physical boson/fermion occupancy is not included.
 
 ## TSR-097 — The sectors are eigensectors, not exchanged stocks
 The decomposition is direct-sum complementarity of fixed and negated components, not a topological partition.
@@ -23,10 +24,11 @@ Physical names do no work in the mathematical derivation.
 **Claim standing:** Registered as recognition; physics occupancy requires separate work.
 
 ## TSR-099 — The mathematics gate-package contains certified structural resources only
-It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, same-summand symmetric/antisymmetric decomposition at the `2`-invertible additive grade, and — only through their later owning constructions — fuller linear and pairing structure over rule-given complexes.
+It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, M4 same-summand decomposition at the `2`-invertible additive grade, and M5's rational scalar field, free rational module, and exhibited perfect symmetric `J`-invariant pairing. A non-degenerate Hermitian extension is conditional on M6's rule-given complex scalars. Positive-definite/Hilbert and carrier-specific pairing structure is not inherited merely from the mathematics gate.
 
 **Adjudication:** retained with each resource limited to its local grade.
-**Claim standing:** Registered composite gate package.
+**Framework standing:** composite and item-specific; each resource inherits only its owning construction, conditions, and debts.
+**Registration:** the composite mathematics gate-package is Registered for the listed certified resources. Positive-definite/Hilbert, carrier-specific, and physical pairing surplus remains quarantined.
 
 ## TSR-100 — The mathematics gate excludes unearned physics
 Energy, spacetime, dimension, time, dynamics, and rule-free continuum are not supplied.
@@ -145,10 +147,11 @@ Whether a zero-length chain stands as a positive order-character is unresolved. 
 **Registration:** Native distinction. No ordinary empty-set or zero-object surplus is licensed by the group identity alone.
 
 ## TSR-119 — Pairing form is earned; values are selected
-Existence and compatibility of the pairing do not fix its numerical values.
+M5 exhibits a normalized perfect symmetric `J`-invariant rational bilinear form, so availability and compatibility are constructed. The witness does not force a unique Gram form, values, or scale. Conditional scalar extension through M6 preserves non-degeneracy and gives a Hermitian form, but M5 does not establish positivity or Hilbert structure.
 
-**Adjudication:** retained.
-**Claim standing:** Registered form; values Selected/Conjectured.
+**Adjudication:** repaired to state the witness, its scalar conditions, and its limit.
+**Framework standing:** Secured by M5 construction for the rational form; conditional on M6 for the complex Hermitian extension. Positive-definite/Hilbert and carrier-specific pairing claims remain Open in their owning units.
+**Registration:** symmetric bilinear, perfect/non-degenerate, and `J`-isometric are Registered for the displayed rational core. Hermitian is Registered only for the conditional M6 scalar extension. Values and scale are selections, not an epistemic state.
 
 ## TSR-120 — Categorical survey-finality remains open
 Presentation-independence suffices for the current gate; categorical finality is not established.
@@ -158,4 +161,4 @@ Presentation-independence suffices for the current gate; categorical finality is
 
 ## Closing adjudication
 
-The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, full rational scalar ascent beyond M4's repeated-halving grade, category-grade coherence, universal progression, empty order-character, and categorical finality remain unresolved in their owning units.
+The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, categorical finality, and positive-definite/Hilbert or carrier-specific pairing structure remain unresolved in their owning units. M5 now supplies the full rational scalar field by a selected fraction-field construction; it is no longer an open consequence of M4.
