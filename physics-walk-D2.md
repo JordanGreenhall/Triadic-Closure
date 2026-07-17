@@ -125,7 +125,7 @@ This carries the Secured-within-ceiling exactly-three premise into the dimension
 - **Hamiltonian** — conserved coherent total generator of the field's joint self-transformation, generating temporal succession, conservation = time-translation invariance; full form, not full articulation; the physics-domain signature in the modal register. **Registered and sealed.**
 - **Time / space as the two faces of With** — succession (oriented) / co-standing (unoriented). **Registered**; signature-germ present.
 - **Temporal and spatial count-metrics** — quantity-over-quality; oriented vs unoriented. Metric-essence **sealed prior**; these specific metrics **registered**.
-- **Three-dimensionality of space** — the horizontal flattening of the invariant primitive triad; three (conserved from the triad) orthogonal interchangeable (marking flattened by nondegenerate ρ) rule-given-continuous (From-forced) degrees of freedom for positioning co-standing relationships; qualitative twin = threefold causation. **Registered and sealed.**
+- **Exact dimensionality** — governed by [P4](dimension-and-spacetime-status.md): the horizontal With-flattening carries the invariant three as three distinct interchangeable degrees of extent, joined to the one oriented From-succession direction. Exact `3+1` is **Registered–Sealed within this dimensional scope**. Continuity, topology, metric interval, null structure, Lorentz symmetry, and manifold recovery are not supplied here.
 
 ## 9. What D2 hands forward
 

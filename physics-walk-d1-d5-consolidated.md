@@ -43,6 +43,6 @@ It explicitly supersedes the older mediation-carrier framing in `d3-as-establish
 
 ## Dimensionality status
 
-P2 licenses only succession as a time-germ and interchangeable extent as a space-germ. Exact `3+1`, dimension, and signature are not P2 results; they retain their owning record in [dimension-and-spacetime-status](dimension-and-spacetime-status.md) pending P4 normalization.
+P2 licenses only succession as a time-germ and interchangeable extent as a space-germ. [P4](dimension-and-spacetime-status.md) now governs the later dimensional construction: one oriented From-succession direction plus three With-flattened interchangeable degrees of extent is exact `3+1`, Secured at the declared defended-posit/flattening reach and Registered–Sealed within that dimensional scope. Their orientation-difference Registers the Lorentzian-signature germ only. Metric commensuration, the interval, null structure, Lorentz symmetry, continuum, and manifold recovery are not P4 results.
 
 See also: [physics-boundary-and-four-images](physics-boundary-and-four-images.md), [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [vertical-and-horizontal](vertical-and-horizontal.md), [supersession-map](supersession-map.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md).

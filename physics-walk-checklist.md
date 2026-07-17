@@ -22,6 +22,12 @@ Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.
 
 ---
 
+## P4 — EXACT 3+1 AND SIGNATURE-GERM CONTROL
+
+Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) whenever exact dimension or metric-signature language is spent. P4 carries the already fixed marked three through the With-flattening as three interchangeable degrees of extent and joins it to the one oriented From-succession direction. Exact `3+1` is Registered–Sealed only as this dimensional partition. The orientation-difference Registers a Lorentzian-signature germ; P4 does not supply a sign-valued metric, interval, null cone, Lorentz group, continuum, or manifold. Those belong to P5 and P7. Do not use P3 sector count, arity-to-dimension, or D6 stability alone as P4's warrant.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:

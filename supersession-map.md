@@ -72,7 +72,7 @@ Execution rule: do not say Λ has no framework meaning; say its magnitude is not
 - Later control ruling: exact `3+1` stands at the same architectonic strength as the triadic exactly-three posit and horizontal flattening: three With-flattened spatial degrees plus one From-succession direction.
 - Caution: `physics-walk-D1-D6.md`'s D6 stability argument and the ternary-coalgebra route are not the primary proof.
 
-Execution rule: report exact `3+1` on both axes: **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within that declared scope. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
+Execution rule: report exact `3+1` on both axes: **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the `1|3` Lorentzian-signature germ; the sign-valued interval, null cone, and Lorentz symmetry are later P5 results. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
 
 ### Ternary coalgebra dimension route
 
@@ -92,7 +92,7 @@ The four rulings collected in `jordan-decisions.md` have been absorbed into dedi
 - vertical/horizontal language: [Vertical and Horizontal](vertical-and-horizontal.md);
 - tool discipline: [Known Failure Modes](known-failure-modes.md) and [Agent Execution Rules](agent-execution-rules.md);
 - color as This-flattening: [Physics Walk D1–D5](physics-walk-D1-D5-consolidated.md) and [Gauge Structure Result](gauge-structure-result.md);
-- exact `3+1`: [Dimension and Spacetime Status](dimension-and-spacetime-status.md).
+- exact `3+1` and signature germ: [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md).
 
 Execution rule: use the dedicated pages as living theory. The standalone decision record is provenance after absorption, not an alternative canonical formulation.
 
