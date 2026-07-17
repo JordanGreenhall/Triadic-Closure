@@ -98,9 +98,21 @@ Former V4/V5 runs are historical provenance, not current evidence or framework w
 | The M3 additive integers admit a unital ring structure. | **Secured by construction.** | Repeated-addition endomorphisms form a ring under pointwise addition and composition; evaluation at the positive generator transports composition to integer multiplication. This construction occurs at M5 and does not retroactively license multiplication at M3. | **Integers as a ring** is **Registered** for the displayed algebraic core; undisplayed order and analytic surplus remain quarantined. |
 | The rational scalar field is available. | **Secured by construction plus the standard fraction-field theorem.** | Fractions `(a,b)`, `b≠0`, are quotiented by `ad=bc`. Inverting every nonzero integer is a selected field-completion rule; `ℚ` is not forced by M4's index defect. | **Rational numbers** is **Registered** for the field core; order, measure, continuum, and analytic surplus remain quarantined. |
 | The unmarked dyad supports a free rational module and a perfect `J`-invariant bilinear pairing. | **Secured by construction**, conditional on M1 and M3. | For `V=ℚ^(U)`, `B(f,g)=Σ_u f(u)g(Ju)`; in exchanged coordinates its matrix is `[[0,1],[1,0]]`, so it is symmetric, `J`-invariant, and perfect. Coordinate names are scaffolding. The displayed form proves existence, not uniqueness. | **Rational vector space**, **symmetric bilinear pairing**, **perfect/non-degenerate pairing**, and **`J`-isometry** are **Registered** for the exhibited algebraic core. Gram values and scale remain selected. |
-| A complex Hermitian pairing follows at M5. | **Conditional, not an M5 result by itself.** | If M6 supplies the rule-given complex scalar algebra and conjugation, scalar extension gives a non-degenerate Hermitian form. M5 supplies neither positivity nor Hilbert completeness nor a carrier-specific restriction. | **Hermitian pairing** is unavailable from M5 alone; later use must cite M6 and any additional physics construction. |
+| A complex Hermitian pairing follows at M5. | **Conditional, not an M5 result by itself.** | M6 supplies the complex scalar algebra and conjugation only relative to a selected rule calculus closed under the operations used; scalar extension then gives a non-degenerate Hermitian form. M5 supplies neither positivity nor Hilbert completeness nor a carrier-specific restriction. | **Hermitian pairing** is unavailable from M5 alone; later use must cite M6's calculus condition and any additional physics construction. |
 
 The deleted verifier's V7 is historical provenance for the displayed finite-rank witness. It supplies no current executable evidence and no framework warrant.
+
+## M6 rule-presented continuum record
+
+| Claim | Framework state and warrant | Reach / condition | Registration |
+| --- | --- | --- | --- |
+| A completed rule-free subset continuum is unavailable at the mathematics boundary. | **Secured by dependency from the selected boundary.** | An arbitrary extensional subset with no registered presentation is not admitted as framework content. This is not a theorem against other philosophies of mathematics. | The completed classical continuum is **Unregistered as framework content** and may be cited but not spent. |
+| Rule-presented Dedekind cuts are admissible. | **Secured by construction.** | A cut is nonempty, proper, downward closed, and has no greatest rational. Presentations are identified extensionally. The corpus does not select a universal rule calculus. | **Real numbers** is **Registered** only for the displayed rule-cut core, with completed-totality and analytic surplus quarantined. |
+| Rule-presented cuts form an ordered field. | **Secured by the standard Dedekind-cut theorem, conditional on rule-calculus closure.** | The selected calculus must be closed under every finite composition and rational quantification used by the standard field operations. | The ordered-field content is licensed only at that conditional calculus grade. |
+| Rule-presented completeness is available. | **Secured schematically.** | A nonempty bounded rule-given family has a supremum only when its union-membership is itself supplied by an admitted rule. | **Least upper bound** is **Registered** only for this schema; unrestricted Dedekind completeness remains unavailable. |
+| A complex scalar algebra and Hermitian extension are available. | **Secured by construction**, conditional on the rule-presented real field. | Select `i²=-1`; use the standard pair operations and conjugation `(a,b)↦(a,-b)`. Scalar extension of M5's form is Hermitian and non-degenerate, not positive-definite. | **Complex numbers**, **complex conjugation**, and **Hermitian pairing** are **Registered** for the displayed algebraic cores. Hilbert and physical surplus remains quarantined. |
+
+The deleted verifier's V8 is historical provenance only. It neither formalized a rule calculus nor proved its closure, unrestricted completeness, or physics-side adequacy.
 
 ## Foundation frontier pointers
 
@@ -108,6 +120,7 @@ The live foundation and mathematics debts are governed only in the canonical tre
 
 - the full From -> With coherence-conditioning account: local record §2.4; global record §10.
 - positive-definite/Hilbert pairing structure and carrier-specific pairing restrictions: local M5 record §9.5; global record §10.
+- selection and closure audit of each rule calculus actually spent downstream, together with the impredicativity audit: local M6 record §9.5; global record §10.
 
 This gateway does not duplicate their missing-premise records.
 

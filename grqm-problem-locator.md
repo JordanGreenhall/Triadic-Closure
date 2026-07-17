@@ -99,7 +99,7 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **G1** criticality native (c-identity → gapless substrate); global frame-freedom native | (1) | **Registered** |
 | **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; **exact local Lorentz = Defended posit** |
 | **Gate 2 (gravity)** second-order field equation from one-step conditioning locality (replaces Lovelock's *posited* premise) | strong-field | **Registered, conditional on G1** |
-| **Lovelock** reclassified as native rule-given math (not external import); impredicativity audit passes | strong-field | **Registered (native)** |
+| **Lovelock** uses locally finite tensor algebra compatible with an M6 rule-presented treatment; the global impredicativity audit is not discharged | strong-field | **Conditional** on an exhibited closed rule calculus and the separate manifold/carrier premises |
 | **Native horizon**: mass = self-closure; horizon = total self-closure (`d→∞`, `dτ/dt→0`) | (3) | **Registered** |
 | **Near-horizon Rindler form + native κ** (local, strong-field-solution-independent) | (3) | **Registered** (rule-given fragment) |
 | **Area = straddling-link count** (closure de-registers interior; no Planck-area) | (3) | **Registered** (shape); G→length conversion quarantined |
@@ -204,12 +204,14 @@ path** (it cancels); it is needed only for *which* black hole has which temperat
 the Einstein form holding strong-field at the horizon (S2 — favorable, since the horizon is
 locally regular; see §11).
 
-**Impredicativity audit (passed).** "Recover the *classical completed-continuum* manifold" was
-chasing an object the framework forbids by theorem (§10). The admissible target is the rule-given
-differential fragment. Lovelock's rigidity is pointwise tensor algebra on the metric 2-jet
-(finite, combinatorial) — passes. `A/4`'s machinery passes given two reroutes: local
-Killing/trapping horizon (not the global event horizon), Euclidean regularity / Noether (not the
-QFT mode-sum). The `1/4` is a dimensionless combinatorial ratio; `G` is the only values-side piece.
+**Impredicativity audit (local compatibility shown; global audit Open).** “Recover the classical
+completed-continuum manifold” targets an object M6 does not admit as framework content. The
+admissible target must instead be stated in a selected rule calculus. Lovelock's pointwise tensor
+algebra on a metric 2-jet is locally finite and is a plausible rule-presented operation, but this
+page does not select the calculus, prove its closure, or construct the physical metric carrier.
+The local Killing/trapping-horizon and Euclidean-regularity/Noether reroutes likewise avoid the
+named global completed-totality machinery only conditionally. The global impredicativity audit
+therefore remains Open even though the finite local algebra identifies a viable route.
 
 ---
 

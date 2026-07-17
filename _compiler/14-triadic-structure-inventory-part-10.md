@@ -24,7 +24,7 @@ Physical names do no work in the mathematical derivation.
 **Claim standing:** Registered as recognition; physics occupancy requires separate work.
 
 ## TSR-099 — The mathematics gate-package contains certified structural resources only
-It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, M4 same-summand decomposition at the `2`-invertible additive grade, and M5's rational scalar field, free rational module, and exhibited perfect symmetric `J`-invariant pairing. A non-degenerate Hermitian extension is conditional on M6's rule-given complex scalars. Positive-definite/Hilbert and carrier-specific pairing structure is not inherited merely from the mathematics gate.
+It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, M4 same-summand decomposition at the `2`-invertible additive grade, and M5's rational scalar field, free rational module, and exhibited perfect symmetric `J`-invariant pairing. M6 adds valid rule-cut admissibility, scalar and least-upper-bound schemas relative to a selected closed rule calculus, and the selected quadratic complex extension at that grade. The resulting Hermitian extension is algebraic and non-degenerate. Positive-definite/Hilbert, carrier-specific pairing, unrestricted completeness, topology, measure, and physical continuum deployment are not inherited merely from the mathematics gate.
 
 **Adjudication:** retained with each resource limited to its local grade.
 **Framework standing:** composite and item-specific; each resource inherits only its owning construction, conditions, and debts.
@@ -134,10 +134,11 @@ It does not establish domain occupancy or richness.
 **Claim standing:** Registered scope rule.
 
 ## TSR-117 — Physics inherits only the rule-given gate grade
-Physics must separately earn time, energy, spacetime, and dynamics; D6 coherence, physics-fit re-derivation, and impredicativity audits remain debts.
+Physics may spend M6 only by naming an admitted rule presentation and showing that its calculus is closed under the operation invoked. It must separately earn continuum deployment on a physical carrier, manifold recovery, time, energy, spacetime, and dynamics; D6 coherence, physics-fit re-derivation, and impredicativity audits remain debts.
 
-**Adjudication:** retained.
-**Claim standing:** Registered gate package; listed debts Open.
+**Adjudication:** repaired so “rule-given” cannot function as a blank authorization for standard completed-continuum machinery.
+**Framework standing:** Secured as a gate restriction. Each physical expenditure remains conditional until its presentation, closure, and carrier are exhibited; listed debts remain Open.
+**Registration:** Native execution constraint. No mature analytic or physical name is licensed by the restriction itself.
 
 ## TSR-118 — Empty positive order-character remains open
 Whether a zero-length chain stands as a positive order-character is unresolved. M3 does not require it: the additive completion's zero is the equivalence class of any equal formal-difference pair `(a,a)`, not an asserted empty chain.
@@ -147,11 +148,11 @@ Whether a zero-length chain stands as a positive order-character is unresolved. 
 **Registration:** Native distinction. No ordinary empty-set or zero-object surplus is licensed by the group identity alone.
 
 ## TSR-119 — Pairing form is earned; values are selected
-M5 exhibits a normalized perfect symmetric `J`-invariant rational bilinear form, so availability and compatibility are constructed. The witness does not force a unique Gram form, values, or scale. Conditional scalar extension through M6 preserves non-degeneracy and gives a Hermitian form, but M5 does not establish positivity or Hilbert structure.
+M5 exhibits a normalized perfect symmetric `J`-invariant rational bilinear form, so availability and compatibility are constructed. The witness does not force a unique Gram form, values, or scale. At M6's conditional rule-calculus grade, the selected complex scalar extension preserves non-degeneracy and gives a Hermitian form. Neither unit establishes positivity or Hilbert structure.
 
 **Adjudication:** repaired to state the witness, its scalar conditions, and its limit.
-**Framework standing:** Secured by M5 construction for the rational form; conditional on M6 for the complex Hermitian extension. Positive-definite/Hilbert and carrier-specific pairing claims remain Open in their owning units.
-**Registration:** symmetric bilinear, perfect/non-degenerate, and `J`-isometric are Registered for the displayed rational core. Hermitian is Registered only for the conditional M6 scalar extension. Values and scale are selections, not an epistemic state.
+**Framework standing:** Secured by M5 construction for the rational form; Secured by standard scalar extension conditional on M6's selected closed rule calculus for the complex Hermitian form. Positive-definite/Hilbert and carrier-specific pairing claims remain Open in their owning units.
+**Registration:** symmetric bilinear, perfect/non-degenerate, `J`-isometric, and conditionally Hermitian are Registered for their displayed algebraic cores. Values and scale are selections, not an epistemic state.
 
 ## TSR-120 — Categorical survey-finality remains open
 Presentation-independence suffices for the current gate; categorical finality is not established.
@@ -161,4 +162,4 @@ Presentation-independence suffices for the current gate; categorical finality is
 
 ## Closing adjudication
 
-The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, categorical finality, and positive-definite/Hilbert or carrier-specific pairing structure remain unresolved in their owning units. M5 now supplies the full rational scalar field by a selected fraction-field construction; it is no longer an open consequence of M4.
+The living architecture rests on the Secured architectonic primitiveness of relating and defended exact triadic closure. Downstream claims remain bounded by explicit dependency traces. The exchange theorem and mathematics gate survive; the privileged-value hinge, disjunction seam, sorter, compound-address injectivity, unordered cardinality, category-grade coherence, universal progression, empty order-character, categorical finality, selection and closure audit of downstream rule calculi, impredicative analytic expenditures, and positive-definite/Hilbert or carrier-specific pairing structure remain unresolved in their owning units. M5 supplies the full rational scalar field by a selected fraction-field construction. M6 supplies rule-presented real and complex algebra only at its explicit calculus-closure and schematic-completeness reach.

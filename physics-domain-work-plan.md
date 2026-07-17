@@ -173,7 +173,7 @@ Current status: Open.
 
 Work items:
 
-- Show rule-given continuum adequacy from discrete causal events and continuous realizability field.
+- Select the M6 rule calculus, prove closure under the continuum-limit operations used, and show physical-carrier/manifold adequacy from discrete causal events and the realizability field.
 - Distinguish actual discreteness from realizability continuity and observational coarse sampling.
 - Prevent completed-continuum expenditure.
 
