@@ -34,13 +34,13 @@ Registration contributes no warrant. `Conjectured-strong` is warrant-strength me
 Every proposed domain entry must:
 
 1. name the standing ground and preserve each inherited structure at its own grade, conditions, and debts;
-2. exhibit separately the gate-From and the boundary-With; if the positive bridge is not constructed, retain the Conjectured From→With joint;
-3. state the boundary's inclusion/exclusion rule;
+2. state a determinate admissibility constraint in the standing ground and establish its validity and nonemptiness there; until then call it a candidate constraint, not a boundary;
+3. treat the valid nonempty constraint as the boundary-With and its admitted contents as D1, without adding a second gate event or occupancy claim;
 4. quarantine familiar vocabulary until a Secured mapped core licenses registration;
-5. if D1 is occupied, construct and trace the first internal content without assuming occupancy;
+5. construct and trace every claimed D2-or-later phase without treating domain membership as a second kind of actuality;
 6. record every imported premise, selection, recognition, empirical identification, and unresolved bridge.
 
-Whole-ground inheritance means that certified prior constraints remain binding. It does not mean that every inherited feature must be active in every successor content. The D-series secures phase-form and dependency order, not occupancy or an inventory of all possible phases.
+Whole-ground inheritance means that certified prior constraints remain binding. It does not mean that every inherited feature must be active in every later construction. The D-series secures D1 from boundary nonemptiness and constrains the form and dependency order of later phases; it does not supply those later constructions or an inventory of all possible phases.
 
 Each mature domain is organized as: entry, D-series walk, deep dives, current standing, and open frontier.
 

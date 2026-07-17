@@ -2,6 +2,8 @@
 
 ### Submitted for adjudication. The claim is a conditional with one explicitly located selection. The question for the mediator is whether the conditional is sound and the selection correctly placed — not whether SU(3) is forced unconditionally. It is not, and the proof says where and why.
 
+> **P3 scope control.** [P3](boson-fermion-and-holding-statistics.md) carries both nontrivial `J` modes into D1 by whole-ground inheritance; no second physical-population premise is required. This conditional theorem still must construct or assume its mediation carrier, composite operation, spin, gauge role, and any claim that the selected carrier is sector-pure.
+
 ---
 
 ## 0. Statement
@@ -11,7 +13,7 @@ Let the physics branch selection **(S)** hold: physics is the sub-branch of math
 
   G = Aut_ℂ(M, h, ε)⁰ = SU(3).
 
-**Modal status.** Given (S) and the D1/D2 actuals, every step below is forced *except* (A). (A) is a selection: the framework forces both exchange sectors to be inhabited actuals (Section 2) but does not force the mediation carrier onto the antisymmetric one. The theorem is therefore *conditional on (A)*, and the conditional itself is claimed to be hermetic: granting (A), SU(3) follows with no further selection.
+**Modal status.** Given (S), the explicitly hypothesized D1/D2 structures, and the later carrier construction stated below, this source claims every later step is forced except (A). (A) selects the antisymmetric mode for the mediation carrier; P3 supplies neither that selection nor the carrier.
 
 **What is NOT claimed.** That (A) is forced. That SU(3) is the symmetry of From/With/This (it is not; see Section 3). That the color identification of M is derived (it is recognition, zero load).
 
@@ -19,17 +21,17 @@ Let the physics branch selection **(S)** hold: physics is the sub-branch of math
 
 ## 1. Inherited structure (D1/D2 actuals, taken as given here)
 
-From the math→physics gate and the D1/D2 walk, the following stand as physical actuals (each established prior to this theorem; used here as hypotheses):
+The theorem takes the following as hypotheses. P3 establishes only the exchange-mode content identified below; the later carrier and dynamical structures are not established by P3:
 
 - **(I1)** A complex vector space of physical states; superposition available. [D2: the continuous flow U(θ) = e^{iθG} requires complex linearity.]
 - **(I2)** A nondegenerate **positive-definite** Hermitian pairing h. [D1 registration; positivity from probability-readability. Stated explicitly to fix the unitary group as compact U(n), not U(p,q).]
-- **(I3)** A constitutive orientation/involution J with J² = id, and the induced exchange split into eigensectors λ = +1 (symmetric) and λ = −1 (antisymmetric), **both inhabited as physical actuals**. [D1 bifurcation; the inhabited −1 sector is the established fermionic actual.]
+- **(I3)** A constitutive orientation/involution J with J² = id and nontrivial eigensectors λ = +1 (symmetric) and λ = −1 (antisymmetric), inherited whole inside D1. The later theorem separately assumes that its mediation carrier is sector-pure and makes the selection (A). [P3 supplies the exchange modes, not the carrier or its selection.]
 - **(I4)** Interaction-events exist as physical actuals (occurrences within the D1 registration), and unitary reversibility constrains admissible transformations. [D2.]
 - **(I5)** D3 demand: interaction-events must compose into higher-order closures of the **same physical kind**.
 
 ## 2. The two sectors are inhabited; neither is forced as the mediation carrier
 
-By (I3), the exchange split has both a symmetric (+1) and an antisymmetric (−1) sector, each inhabited. Nothing in (S) or (I1)–(I5) selects which sector carries the D3 mediation structure. This is recorded now because it is the hinge: the entire conditionality of the theorem is the choice of sector, made explicit as (A). A proof that did not surface this choice would be concealing a selection; this one surfaces it as its sole condition.
+By (I3), the exchange split has nontrivial symmetric (+1) and antisymmetric (−1) modes inside D1. Nothing in (S) or (I1)–(I5) selects which mode characterizes the later D3 mediation carrier. The carrier construction and sector-purity premise belong to this later theorem; the carrier selection is explicit as (A).
 
 ## 3. The carrier M is horizontal; the offices are not mixed
 
@@ -86,8 +88,8 @@ The forced structure on M is: complex 3-space (Section 5), positive-definite Her
 |---|---|---|
 | (S) | physics = self-transforming-structure branch | selection (one, named, upstream) |
 | I1–I5 | D1/D2 actuals | inherited; established prior |
-| §2 | both exchange sectors inhabited | forced (I3) |
-| **(A)** | **mediation carrier on the antisymmetric sector** | **selection — the sole condition of this theorem** |
+| §2 | both `J` modes inherited; later carrier and sector-purity separately hypothesized | exchange algebra Secured by P3; carrier claim conditional |
+| **(A)** | **mediation carrier on the antisymmetric sector** | **selection beyond the independently conditional physical-occupancy premises** |
 | P1,P2,P3 | ε scalar, multilinear, nonzero | forced (I1, I5) |
 | P4 → Lemma 4.1 | ε alternating | forced **given (A)** |
 | Lemma 5.1 | dim M ≥ 3 | forced (linear algebra) |
@@ -103,6 +105,6 @@ Two questions, separable:
 
 **(Q1) Is the conditional sound?** Granting (S), the D1/D2 actuals, and (A): does SU(3) follow with no further selection? The proof claims yes, with the only non-elementary steps being Lemma 4.1 (standard), Lemma 5.1 (standard), the determinant action on Λ³ (standard), and the conservation argument for exact preservation (§6, the one place a framework principle rather than linear algebra is invoked).
 
-**(Q2) Is the selection correctly located and minimal?** The proof claims the entire gap between "forced unconditionally" and "forced conditionally" is exactly (A) — the choice of the antisymmetric sector for the mediation carrier — and that this choice is a genuine selection (both sectors inhabited, §2) not derivable from (S) or the D1/D2 actuals. The biconditional in the Section 5 note (dim ≥ 3 ⇔ ε alternating ⇔ (A)) is the claim that no part of the dependence on (A) is hidden elsewhere.
+**(Q2) Is the selection correctly located and minimal?** Within this source's explicit later carrier hypotheses, the proof asks whether (A) is the remaining choice of antisymmetric mediation carrier. P3 supplies both inherited modes; it does not construct or select the carrier. The biconditional in the Section 5 note (dim ≥ 3 ⇔ ε alternating ⇔ (A)) is the source's later conditional claim.
 
-If both are accepted — the conditional hermetic, the selection correctly located and singular — the result stands as: *SU(3) is forced given (S) and the single selection (A), and not otherwise.* That is the claim submitted.
+If the full later carrier hypotheses and (A) are accepted, this source submits its conditional `SU(3)` result. P3 neither supplies those hypotheses nor adjudicates that gauge-theoretic conditional.

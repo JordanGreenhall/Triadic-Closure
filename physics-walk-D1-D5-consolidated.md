@@ -1,6 +1,6 @@
 # The Physics Walk, D1–D5: Consolidated Re-Walk
 
-### A single consolidated record of the physics reconstruction from D1 through D5, conditional on an exhibited physics boundary and occupied phases. At an occupied D1, the F3 construction makes the full triad available in four framework readings: one marked (the within-stage J-image) and three flattened (the across-recursion ρ-images — ordering, quantity, quality). This reorders the walk: time, space, and the internal "color"-type distinction are all present in germ at D1, not discovered piecemeal downstream. Earlier walk documents (the D1–D6 walk, the two "as established" documents built on a "mediation carrier") are superseded where they conflict with this. Grades follow the bidirectional seal-test; nothing is locked before D7.
+### A single consolidated record of the physics reconstruction from D1 through D5. The established physics boundary supplies D1 as its nonempty extension, and whole inheritance carries the full triad in four framework readings: one marked (the within-stage J-image) and three flattened (the across-recursion ρ-images — ordering, quantity, quality). This reorders the walk: time, space, and the internal "color"-type distinction are all present in germ at D1, not discovered piecemeal downstream. Earlier walk documents (the D1–D6 walk, the two "as established" documents built on a "mediation carrier") are superseded where they conflict with this. Grades follow the bidirectional seal-test; nothing is locked before D7.
 
 ---
 
@@ -8,7 +8,7 @@
 
 The prior walk recovered time at D2, space at D2 (as the flattened triad), the internal/charge structure as a late lead (D4), and color via a "mediation carrier" of undetermined dimension (D3, then deferred). Three corrections now drive a cleaner walk:
 
-1. **The four images are available at an occupied D1.** Given an actual boundary and D1 occupancy, the boundary-conditioned triad is available as one marked triad (within-stage, the offices distinct in kind) and three flattenings (across-recursion): the From-flattening (ordering — asymmetric), the With-flattening (quantity/extent — symmetric, interchangeable), the This-flattening (quality/internal distinction — symmetric, non-interchangeable). In physics these are read as **threefold causation** (marked), **time** (From-flattened), **space** (With-flattened), and **internal "color"-type distinction** (This-flattened). (See *Entering a New Domain* §5.5; *Treatise* §7.4a.)
+1. **The four images are available at D1.** Under the established boundary, the inherited triad is available as one marked triad (within-stage, the offices distinct in kind) and three flattenings (across-recursion): the From-flattening (ordering — asymmetric), the With-flattening (quantity/extent — symmetric, interchangeable), the This-flattening (quality/internal distinction — symmetric, non-interchangeable). In physics these are read as **threefold causation** (marked), **time** (From-flattened), **space** (With-flattened), and **internal "color"-type distinction** (This-flattened). (See *Entering a New Domain* §5.5; *Treatise* §7.4a.)
 
 2. **Color is the This-flattening, not a carrier.** The "mediation carrier" framing is dropped entirely. Color is the interior triadic distinction of a closure read across the recursion under the quality (non-interchangeable) basis — symmetric but non-interchangeable. It is present in germ at D1 (every closure carries it) and is not built from a separate carrier of guessed dimension.
 
@@ -18,11 +18,11 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 
 ## D1 — Distinction: the first physical closures, and the four images
 
-> **F4 control:** the generic D-series secures phase-form and dependency order, not the existence of a physics gate or D1 occupancy. This physics walk must exhibit those domain-specific facts; the familiar existence of physics cannot supply them. Whole-ground inheritance preserves every certified mathematical constraint at its existing grade but does not require every feature to deploy at D1.
+> **F4 control:** a valid nonempty admissibility constraint is the domain boundary and its extension is D1. The familiar existence of physics cannot establish a candidate rule's validity or nonemptiness, but no second gate or occupancy event follows once they are established. Whole-ground inheritance preserves every certified mathematical constraint at its existing grade without requiring every feature to be active in every later construction.
 
-> **P1 control:** mathematical availability, including the M6 gate-package, does not establish physical occupancy. Each D1 candidate must pass the P1 boundary, participation, two-axis trace, source-separation, and mature-name audit. P1 supplies no warrant to the candidate and does not register time, space, color, boson, fermion, field, or any other physics name by itself.
+> **P1 control:** content satisfying the physics boundary is already physics-domain content. P1 audits inherited grade, boundary satisfaction, genuinely additional claims, load-bearing structural traces, source separation, and mature-name surplus. It supplies no warrant to an additional claim and registers no inherited name by itself.
 
-**Frame.** [P2](physics-boundary-and-four-images.md) governs this unit. The walk selects self-transforming / invariant / coherent as its proposed physics inclusion/exclusion rule. The rule's three-office articulation is Secured, while the claim that it is the actual positive physics gate remains Conjectured with F4's gate debt. The bare triad runs under boundary-plus-triad only conditionally.
+**Frame.** [P2](physics-boundary-and-four-images.md) governs this unit. The valid nonempty self-transforming / invariant / coherent constraint is the physics boundary and its extension is D1. The triad and its constitutive mathematical structures are inherited whole under that constraint.
 
 **The four images at the boundary.** Before any specific first-This is winnowed, the boundary already presents the triad in its two registers (the deepest D1 fact):
 
@@ -31,15 +31,15 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 - **With-flattened:** **extent** — symmetric, interchangeable. Physics reads this bounded core as **space**. Exact dimension, continuity, topology, metric, and manifold claims are excluded here.
 - **This-flattened:** **internal distinction** — symmetric, non-interchangeable. Physics reads this bounded core as an **internal / "color"-type distinction**. Gauge group, carrier, representation, charge value, and particle claims are excluded here.
 
-Conditional on an actual boundary and occupied D1, F3 makes all four co-present at D1 in germ. This is a Secured placement result, not proof of either condition. P2 records D1 occupancy as Conjectured pending an admissible construction and backward trace.
+F3 makes all four images co-present at D1 by whole inheritance. No additional placement, compatibility, or occupancy proof is required because the boundary contains no operation that could erase a constitutive image.
 
-**The first-This (boson/fermion), sealed within the exchange-mode scope.** Requiring every inherited constraint to remain binding, and auditing each as bites / does not bite / unresolved, is proposed to winnow the minimal self-transformer to a ℤ/2-graded coherent coalgebraic fixed-point self-transformer carrying the three intrinsic characteristics (invariant, generator, coupling-slots). This does not require every inherited feature to instantiate actively in that candidate. M5 contributes rational linearity and a perfect `J`-invariant bilinear form; M6 extends it to a non-degenerate Hermitian form only relative to a selected rule calculus closed under the scalar operations spent. “Super-Hermitian,” positive-definite, Hilbert, and physically normalized pairing structure is not inherited and requires its own construction. Two freedoms survive: pairing value/scale and the polarity-sector fork (+/−). **Sealed registration: boson = symmetric-mode self-transformer; fermion = antisymmetric-mode self-transformer** applies only to the exchange-mode correspondence. The interior flattened triad (the color-image) is the *ρ-level* structure, carried by every closure — boson or fermion alike.
+**P3 mode control.** [P3](boson-fermion-and-holding-statistics.md) carries the two nontrivial inherited `J` modes into physics as symmetric and antisymmetric holding-capacities. **Boson = symmetric mode** and **fermion = antisymmetric mode** are Registered–Sealed only within that exchange-mode scope. P3 does not prove universal sector-purity of later closures, particle ontology, spin, spin-statistics, or a physical pairing structure.
 
-**P2 grades at D1.**
+**Normalized grades at D1.**
 - Generic marked triad and three flattenings: **Secured by construction; Native**.
-- Positive physics gate: **Conjectured; Native**.
-- Physics D1 occupancy: **Conjectured; Native**.
-- Threefold causation, time-germ, space-germ, and internal/color-type germ: **Registered** over the exact P2 cores, conditional on the gate and occupancy; not Registered–Sealed.
+- Physics boundary and D1: **Secured by construction; Native**. **Physics** is **Registered**, not Registered–Sealed, for the mapped boundary-defined core.
+- Threefold causation, time-germ, space-germ, and internal/color-type germ: **Registered** over the exact P2 cores; not Registered–Sealed.
+- Boson/fermion: **Registered–Sealed** for the symmetric/antisymmetric exchange-mode correspondence. Classification of a particular later closure may still require a sector-purity construction.
 - Exact dimensionality, continuum, metric, specific internal triad, and gauge content: outside P2 and not licensed by this record.
 
 ---
@@ -49,7 +49,7 @@ Conditional on an actual boundary and occupied D1, F3 makes all four co-present 
 **Move (With activated).** With holds standings on a basis; the two basis-kinds (self-relation/other-relation, *Treatise* §6.2) are available, and the two With-capacities deploy: **holding** (like-with-like, requires sameness, gives multiplicity/exchange) and **coupling** (across generators, requires slot-compatibility, gives interaction).
 
 **Sealed at D2.**
-- **Pauli exclusion / Bose co-occupation.** Antisymmetric holding vanishes on coincidence (two fermions identical in every distinction → 0, from J); symmetric holding permits co-occupation. Directly from the modes + the no-coincidence fact, no spin. *Sealed.*
+- **P3 Pauli/Bose holding.** When a same-kind D2 holding stands, antisymmetric holding vanishes when the complete represented state coincides; symmetric holding has no exchange-sign prohibition against that coincidence. Pauli exclusion and Bose co-occupation are Registered–Sealed within those exact scopes. Spatial coincidence alone, spin-statistics, occupation numbers, unlimited multiplicity, Fock/Hilbert structure, and matter/field roles are not supplied.
 - **P4-owned dimensionality record (not a P2 expenditure): the three spatial degrees.** Space is the With-flattening (the With-image of the marked triad), matured: three interchangeable continuous degrees of extent. Threeness is the flattened image of the rigid marked three (carried by conservation, not generated by an unfolding — escaping the unbounded-coalgebra worry). Continuum forced (From-as-constraint). *Sealed as the With-flattened image; "space" registered at the seal.*
 - **Time.** The From-flattening, matured: oriented one-way succession. *Sealed as the From-flattened image.*
 
@@ -67,13 +67,12 @@ Conditional on an actual boundary and occupied D1, F3 makes all four co-present 
 
 **Sealed at D3.**
 - **Composite-This.** Closure of held/coupled constituents into a self-transformer with its own invariant/generator/slots. Bidirectional content-identity holds (stripped of the assembly-of-pre-existing-bricks picture). *Sealed.* ("Bound state" = the persistent subcase, deferred.)
-- **Mode-multiplicativity through closure.** The mode-charge (±1) composes as the product of constituents' modes (J acting throughout × multiplicative combination of independents → product eigenvalue): even-fermion composite = boson, odd = fermion. *Sealed*, with the scope condition (independent constituents; irreducible composites carry a primitive mode).
+- **Post-P3 mode-multiplicativity claim.** P3 supplies no tensor/product composite construction. Conditional on later composite materials, this source proposes product composition of independent constituents' mode charges; its standing belongs to the owning composite unit and is not upgraded by P3.
 - **The Hamiltonian's free + interaction decomposition.** Composition forces H = H_free + H_interaction (the parts' own generators + their mutual conditioning). *The decomposition seals*; the interaction *content* is later.
 
 **Registered at D3.**
 - **Gravity-in-essence** [forced]. The mutual conditioning (With-causation) between the Hamiltonian (energy) and the spatial-degree structure: energy conditions the spatial structure and vice versa. The *first force to stand*, because it needs only two already-standing D2 structures and couples universally to energy (not to a not-yet-differentiated charge). *Registered in essence; the specific law and the dilation/curvature mechanism are the dedicated gravity walk (flagged, in progress).*
-- **Matter-extension** (fermionic exclusion in the spatial degrees) — *the fermionic structure seals as itself*; its registration *as* "impenetrability" is registered-not-sealed (electromagnetic remainder absent at D3).
-- **Field-in-essence** (bosonic common-condition over space); **force-in-essence** (bosonically-mediated interaction-coupling); **momentum and angular momentum** (from spatial symmetries; orbital only — spin-mode-tie deferred); **spacetime 3+1 germ**; **composite conserved totals**. All *registered*.
+- **Post-P3 matter/field/force proposals.** P3 does not derive spatial extension, bulk, impenetrability, field, force, or mediating/coupled roles from exchange sign. Those assignments require their own physical-role constructions. **Other later claims:** momentum and angular momentum (from spatial symmetries; orbital only — spin-mode-tie deferred), spacetime 3+1 germ, and composite conserved totals retain their owning-unit records.
 
 **Color at D3 (corrected).** The This-flattening (color-germ from D1) is now carried by *composite* closures too. The structure under "color" — that same-kind fermions can co-exist without spatial separation by differing in the non-interchangeable interior (This-flattened) distinction — is the interior triadic distinction, **not** a kind-distinction (the colors share an invariant) and **not** a carrier. The closed neutral unit is the complete set over the interior triad (the three interior moments saturated); confinement-in-essence is the triad's floor read inside the closure (no single interior moment stands as a closure alone). *Registered; the specific count and group await the matured metric — see D5.*
 
@@ -81,7 +80,7 @@ Conditional on an actual boundary and occupied D1, F3 makes all four co-present 
 
 ---
 
-## D4 — Invariance: the conserved-quantity algebra, kind-labels, Noether-in-essence, and sector-conservation
+## D4 — Invariance: the conserved-quantity algebra, kind-labels, Noether-in-essence, and a later sector-preservation question
 
 **Move (the invariance phase).** What is preserved across the passages the lower phases generate.
 
@@ -89,12 +88,12 @@ Conditional on an actual boundary and occupied D1, F3 makes all four co-present 
 - **The closing invariance-algebra** — the conserved quantities form a closed algebra, closure forced by ρ-coherence (an unclosed set would generate constraints outside itself).
 - **Casimir kind-labels** — the conserved invariants label kinds. The mode (ℤ/2) is one such label, present and sealed. **Mass is *not* present even in germ** — it requires the Lorentzian energy-momentum structure (the four-vector invariant), which is only matured at D5. ("Mass-germ" is withdrawn as overreach; what is present is the generic kind-labeling invariant slot, which mass fills later.)
 - **Noether-in-essence** (Hamiltonian-side: generator = conserved observable). The action/variational apparatus is *not* forced (it presupposes trajectory-integration) — later or recognition, not a D4 derivation.
-- **Sector-membership is a conserved invariant** (the boson/fermion sector is preserved under the flows; admissible generators preserve the exchange split). This is the quantity spin-statistics will later tie to spin.
+- **Later-owner sector-preservation claim.** P3 does not establish universal sector-purity, superselection, or preservation under dynamics. Any conserved sector-membership claim requires its own specified dynamics and proof.
 - **Internal-charge structure** — the conserved charges of the internal (This-flattened, non-interchangeable) distinction. *Registered in essence; the specific group not fixed here.*
 - **CPT-germ** (the discrete invariances from J / sectors / spatial reflection).
 
 **Open at D4, with named homes.**
-- **Spin-statistics** — needs the metric (rotation/Lorentz), so it relocates to D5. It alone fixes the exchange-sector and hence the symmetry-type of the closed color-unit.
+- **Spin-statistics** — outside P3. Any later use requires an independently constructed metric, locality, representation theory, and correlation theorem; it cannot be treated as automatically available at D5.
 - **The specific gauge group, charge quantization, the action principle** — all deferred (to D5 / later / recognition).
 
 ---
@@ -123,9 +122,9 @@ ds² = −dt² + dx² + dy² + dz², each piece forced from standing structure:
 
 ### D5.3 What the matured metric unlocks
 
-With the metric matured, the rotation/Lorentz structure stands, so **spin-statistics can complete** — which discharges the D4-deferred O2 and unlocks:
+This source historically proposed that matured metric and rotation/Lorentz structure would allow a spin-statistics bridge. P3 does not supply or validate that bridge. Its completion and downstream uses remain later-owner work, including:
 
-- **The internal-structure (gauge) walk.** The This-flattened internal distinction (color, in essence since D1) now gets its specific symmetry, because spin-statistics fixes the exchange-sector of the closed interior-triad unit. *This is the next major thread* (the gauge group; whether the interior triad's count is exactly three → three-quark nucleons is the flagged open value). Built forward from the interior triadic distinction, not from a carrier.
+- **The internal-structure (gauge) walk.** Any use of exchange character to fix the symmetry of a closed interior-triad unit requires the later spin-statistics and carrier constructions. P3 contributes no gauge result.
 - **The gravity walk (dynamical metric).** Energy concentration commits conditioning-capacity (a partition of finite coupling-slots between self-transformation and re-coupling): high energy slows local re-coupling (time dilation in essence), and asymmetrically (the directional part — curvature), tilting the causal cones toward energy concentration; free bodies follow tilted cones (geodesic free-fall, forceless, equivalence principle). *Walked in essence; the asymmetry/tilt mechanism (event-density / update-frequency weighting) and the quantitative field-equation are the flagged next deep-dive.*
 - **Mass** — now available as the energy-momentum invariant (the Lorentzian Casimir), filling the kind-label slot D4 left open.
 
@@ -137,11 +136,11 @@ Actualization at a realizability fork follows P(k) = C(k)/Σⱼ C(j) — frequen
 
 ## Standing summary of grades after D5
 
-**Sealed:** boson/fermion mode (D1); Pauli/Bose, the three spatial degrees, time, the Hamiltonian-essence (D2); composite-This, mode-multiplicativity, the Hamiltonian free+interaction decomposition (D3).
+**P3-controlled:** boson/fermion exchange-mode correspondence is inherited within physics and Registered–Sealed at its scoped core; Pauli/Bose holding is Registered–Sealed only when the additional holding specified in [P3](boson-fermion-and-holding-statistics.md) stands. **Other legacy summary records:** the three spatial degrees, time, and Hamiltonian-essence (D2); composite-This, mode-multiplicativity, and Hamiltonian free+interaction decomposition (D3).
 
-**P2-controlled:** conditional on the actual physics boundary and occupied D1, the four images are co-present; causation/time/space/internal-color names are Registered only over the bounded P2 cores. **Other legacy summary records:** gravity-in-essence (D3); the Lorentzian interval (D5, strong seal candidate pending the Lorentz-algebra proof); c and propagation (D5).
+**P2-controlled:** the established physics boundary supplies D1 and whole inheritance carries the four images; **physics** and the causation/time/space/internal-color names are Registered only over their bounded P2 cores. **Other legacy summary records:** gravity-in-essence (D3); the Lorentzian interval (D5, strong seal candidate pending the Lorentz-algebra proof); c and propagation (D5).
 
-**Registered:** matter-extension, field-essence, force-essence, momentum/angular-momentum, spacetime-germ (D3); the invariance-algebra, kind-labels, Noether-essence, sector-conservation, internal-charge-essence, CPT-germ (D4); the realizability-weighting law (cross-cutting).
+**Other legacy records, not P3 results:** matter-extension, field-essence, force-essence, momentum/angular-momentum, spacetime-germ (D3); the invariance-algebra, kind-labels, Noether-essence, sector-preservation proposal, internal-charge-essence, CPT-germ (D4); the realizability-weighting law (cross-cutting). Their standings remain with their owning units.
 
 **Open, with named homes and flagged for the next sessions:**
 - The **gravity asymmetry** (dilation vs curvature; the conditioning-event-density / update-frequency mechanism and whether it integrates exactly to metric curvature) — the immediate next deep-dive.

@@ -8,6 +8,7 @@ confidence: high
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - domain-entry-method.md
@@ -30,12 +31,13 @@ Read these first:
 
 ## 1. Physics domain cut and walk discipline
 
-1. [physics-registration-theorem](physics-registration-theorem.md) — the P1 admission, source-separation, and mature-name control; it supplies no downstream warrant.
-2. [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — the P2 boundary proposal, D1 occupancy debt, four-image placement, and bounded causation/time/space/internal-color registrations.
-3. [physics-domain-mature-status](physics-domain-mature-status.md)
-4. [physics-domain-work-plan](physics-domain-work-plan.md)
-5. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
-6. [dimension-and-spacetime-status](dimension-and-spacetime-status.md)
+1. [physics-registration-theorem](physics-registration-theorem.md) — the P1 boundary-membership, additional-claim, source-separation, and mature-name control; it supplies no downstream warrant.
+2. [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — the P2 established boundary, D1 extension, four-image placement, and bounded causation/time/space/internal-color registrations.
+3. [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) — the P3 algebraic sectors, conditional exchange-mode registrations, and exact Pauli/Bose holding scopes.
+4. [physics-domain-mature-status](physics-domain-mature-status.md)
+5. [physics-domain-work-plan](physics-domain-work-plan.md)
+6. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
+7. [dimension-and-spacetime-status](dimension-and-spacetime-status.md)
 
 ## 2. Spacetime and kinematics
 

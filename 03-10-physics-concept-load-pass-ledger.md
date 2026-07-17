@@ -3,7 +3,7 @@ title: "Frontier Items 3-10: Physics Concept Load and Native-Derivation Pass Led
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-17
 scope: frontier-items-3-10
 sources:
   - 03-epsilon-su3-bridge/03-epsilon-su3-bridge Readme.md
@@ -166,7 +166,7 @@ See [05-gauge-architecture-beyond-color](05-gauge-architecture-beyond-color.md).
 
 ## Item 6 — Spin / helicity / chirality / lift theorem
 
-See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status; stripped boson/fermion + Pauli/Bose holding is already Registered and Sealed.
+See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 6 **PASSES** for spin/helicity/chirality machinery at Registered status. [P3](boson-fermion-and-holding-statistics.md) separately controls the conditional boson/fermion exchange-mode correspondence and exact Pauli/Bose holding scopes.
 
 ### 6.1 Spin and elementary spin-1/2
 
@@ -199,10 +199,10 @@ See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 
 
 - **Physics concept:** Fermions obey exclusion/antisymmetric holding; bosons allow symmetric/shared occupation.
 - **Actual physics job:** Statistics and occupancy behavior in stripped essence.
-- **Current framework use:** Already registered/sealed in the control layer.
-- **Grade:** **Registered and Sealed, stripped.** Preserve; do not reopen.
-- **Boundary:** Does not by itself license surplus spin/module/particle-bundle claims.
-- **Fail condition:** Sealed stripped statistics are used to smuggle exact spin values or SM representation bundles beyond the registered machinery.
+- **Current framework use:** Conditional exchange-mode and holding-statistics control under [P3](boson-fermion-and-holding-statistics.md).
+- **Grade:** The nontrivial `+1/-1` eigensectors are **Secured** at the `2`-invertible grade and inherited whole inside D1. Boson/fermion is **Registered–Sealed** for that exchange-mode core. Pauli is **Registered–Sealed** for antisymmetric complete-state diagonal vanishing under D2 same-kind holding; Bose is **Registered–Sealed** for absence of that exchange-sign prohibition.
+- **Boundary:** P3 supplies no universal later sector-purity, spatial-only exclusion, unlimited occupation, Fock/Hilbert structure, spin, module, particle-bundle, or matter/force role.
+- **Fail condition:** A second physical-population proof is demanded for inherited exchange modes, or the scoped seals are used to smuggle any excluded surplus.
 
 ---
 

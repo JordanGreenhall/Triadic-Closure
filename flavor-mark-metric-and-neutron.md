@@ -45,14 +45,14 @@ ground; SM language is the downstream dialect used only to check against measure
 
 This recapitulates the walk exactly, adding and subtracting nothing.
 
-**1.1 The J polarity — the two modes.** The triad is taken up into the recursion; at the
+**1.1 The J polarity — the two modes.** This paragraph is governed by [P3](boson-fermion-and-holding-statistics.md). The triad is taken up into the recursion; at the
 boundary the bare distinction is two-valued: +/−, symmetric/antisymmetric. Once "particle"
 is refused as a primitive, this polarity-fork is the two coherent modes of the minimal
 This's intrinsic holding-capacity: **boson = the symmetric-mode self-transformer; fermion =
 the antisymmetric-mode self-transformer.** This is the marked (vertical, J-level)
 distinction; it survives the stripping of mass, charge, color, and spacetime. At this point
 there are fermion and boson in essence and nothing else — no kinds, no quarks, no leptons.
-**[Registered and Sealed — the stripped J-sector split.]**
+**[Registered–Sealed for the inherited exchange-mode core; a later carrier's sector-purity and role are not supplied here.]**
 
 **1.2 The flattened triad — common to both modes.** Beneath the grading sits the primitive
 triad, taken up the recursion, read in its three flattenings by office-signature:
@@ -266,7 +266,7 @@ remains **Conjectured**.
 
 | Claim | Grade | Held by / blocked by |
 |---|---|---|
-| J-sector split (boson/fermion modes) | **Registered and Sealed** | stripped statistics (Item 6.4) |
+| J-sector split (boson/fermion modes) | **Registered–Sealed within P3's inherited exchange-mode core** | [P3](boson-fermion-and-holding-statistics.md); later carrier construction, sector-purity, and role retain their own burdens |
 | flattened triad by office-signature (time/space/color) | **Registered** | canonical foundation |
 | **flavor = the three This-aspects marked (three-ness + which three)** | **Registered** | fresh walk §1; registers flavor (was parked empirical) |
 | quark = marked color; closure = color neutrality | **Registered** | Items 3–4, 9 |

@@ -1,6 +1,6 @@
 # The Three Moves at Every Stage
 
-### A standing protocol for an **occupied** physics phase, to be run in addition to the population survey. The generic D-series supplies phase-form and dependency order, not occupancy. Before using this protocol, exhibit the phase's occupancy by construction and backward trace. The moves then (a) identify what the occupied phase may construct, (b) audit inherited constraints without assuming every one bites here, and (c) guide investigation without an intractable exhaustive search. These moves keep the dependency-bookkeeping honest.
+### A standing protocol for a physics phase, to be run in addition to the population survey. The established physics boundary supplies D1 as its nonempty extension. Every later D-phase must be constructed from the inherited standing; it is not supplied merely by the generic D-series form. The moves then (a) identify what the phase may construct, (b) audit inherited constraints without assuming every one is active here, and (c) guide investigation without an intractable exhaustive search. These moves keep the dependency-bookkeeping honest.
 
 ---
 
@@ -13,7 +13,7 @@ The corrective: for each proposed physics structure, identify a candidate **esse
 Examples already encountered:
 - **Hamiltonian:** essential form = the conserved coherent total generator of the field's joint self-transformation (present at D2). Mature form adds: free+interaction decomposition (D3), specific terms/spectrum, continuum-filling. We nearly mis-graded by expecting the mature form.
 - **Gravity:** essential form = the mutual conditioning between energy (Hamiltonian) and spatial-degree structure (present at D3). Mature form adds: the specific Einstein equation, Lorentzian curvature dynamics. We *did* mis-grade it once — waved "not yet" by expecting the mature (metric-dynamical) form, when the essential form (energy ↔ geometry mutual conditioning) is exactly a D3 operation.
-- **Boson/fermion:** essential form = the symmetric/antisymmetric holding-mode (D1). Mature form adds: spin, mass, charge, the spin-statistics tie (all deployment-context).
+- **Boson/fermion:** [P3](boson-fermion-and-holding-statistics.md) licenses the names for the inherited symmetric/antisymmetric exchange-mode core. D2 same-kind holding supplies the scoped Pauli/Bose deployment. P3 does not supply universal later sector-purity, spin, mass, charge, particle/field roles, or the spin-statistics tie.
 
 ---
 
@@ -24,7 +24,7 @@ Examples already encountered:
 1. Maintain a **dependency hierarchy of essential forms**: for each foundational physics structure, what must already stand (in essential form) for it to be realizable. (E.g. gravity-essence depends on Hamiltonian-essence + spatial-degrees-essence; gauge-force differentiation depends on internal-charge structure; quarks depend on confinement which depends on the specific strong coupling.)
 2. Given the current stage's standing, list the structures whose dependencies are **now satisfied** — these are the candidates.
 3. For each candidate, ask: **is it now realizable?**
-   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State framework state and warrant separately from semantic registration, and explain why it emerges at this occupied phase specifically.
+   - **If yes:** *have we realized it?* Construct it forward (never reverse-fit). State framework state and warrant separately from semantic registration, and explain why it emerges at this phase specifically.
    - **If no:** *why not?* Name the missing dependency and the later stage that is its home. A clean "not yet, because X is missing, home is Dn" is a real result — it is the dependency-bookkeeping that prevents silent downstream breakage.
 
 **Guard:** Move 1 tells us *where to look*, never *what to conclude*. Finding a structure must still be a forward construction from the standing, not a placement of something we wanted.

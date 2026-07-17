@@ -3,7 +3,7 @@ title: "Frontier Item 1: Physics registration rule"
 type: process
 status: pass-control-map
 frontier_item: 1
-updated: 2026-07-16
+updated: 2026-07-17
 sources:
   - ../physics-registration-theorem.md
   - ../domain-entry-method.md
@@ -14,7 +14,7 @@ sources:
 
 ## Brief
 
-Define when a mathematical object may be treated as a framework-native physics-subdomain standing rather than mathematics-as-mathematics, empirical observation, or comparison.
+Define when content belongs to the physics subdomain by satisfying its established boundary, when a genuinely additional physics structure needs construction, and when a mature name is only recognition, empirical observation, or comparison.
 
 ## Dependencies
 
@@ -26,7 +26,7 @@ Registration control for every later use of particle, field, mass, charge, inter
 
 ## Pass condition for the loop agent
 
-**PASS.** The canonical [Physics Registration Rule](../physics-registration-theorem.md) supplies the downstream dependency map and a clean admission rule that does not define physics as a different kind of actuality from mathematics. Physics is a proposed subdomain of mathematics distinguished by the self-transforming / invariant / coherent boundary, not by extra occurrence-stuff.
+**PASS.** The canonical [Physics Registration Rule](../physics-registration-theorem.md) supplies the downstream dependency map and a clean expenditure rule that does not define physics as a different kind of actuality from mathematics. Physics is the boundary-defined subdomain of mathematics selected by the valid nonempty self-transforming / invariant / coherent constraint, not by extra occurrence-stuff.
 
 ## Fail / smuggle condition
 
@@ -34,7 +34,7 @@ FAIL if “physical” means merely actual/standing-actual as opposed to mathema
 
 ## Integration rule
 
-Dependent pages may use P1 as compact admission and source-separation control. They may not use P1 as warrant for gate existence, occupancy, a physical carrier, a mature name, or any frontier item. Those claims retain their exact local states, conditions, and quarantines.
+Dependent pages may use P1 as compact boundary-membership, additional-claim, and source-separation control. They may not use P1 as warrant for a later carrier, phase construction, mature name, or frontier item—and may not use it to manufacture a second actuality test for inherited D1 content. Genuine later claims retain their exact local states, conditions, and quarantines.
 
 ## Required loop output
 

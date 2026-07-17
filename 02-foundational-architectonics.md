@@ -63,17 +63,17 @@ Nesting, layers, and strata are horizontal. Altitude is horizontal tower positio
 
 A closure is the triadic act completed and standing as one, not an external boundary around an object. Actual and standing are arrived and forward-available readings of that one closure. A stride is an occurrence of the same closure-form; concrete closures at different constraints or scales are occupancies or species, not second foundational meanings.
 
-Completion alone does not supply relative stability. D6 certifies persistence across a variation-space; only a persisting closure is eligible for selection as standing ground for a proposed D7 handoff, and an exhibited successor boundary is still required. A completed closure may therefore be transient, and a persisting closure does not automatically “become From.” The gate-From must bridge from that ground to an actual boundary-With. The boundary is the successor's inclusion/exclusion rule; the domain is what unfolds under it.
+Completion alone does not supply relative stability. D6 certifies persistence across a variation-space; only a persisting closure is eligible for selection as standing ground for a proposed D7 handoff. A completed closure may therefore be transient. A determinate successor admissibility constraint that is valid and nonempty on the selected ground is the successor boundary-With; no additional transition event is required.
 
 **F5 record:** the closure core is **Secured by construction within the F2 frame** and **Native**, conditional on relating's Secured architectonic primitiveness, the Secured office cores, and exactly-three within its ceiling. Reach includes completed unit-form and the actual/standing readings; it excludes occurrence, occupancy, persistence, passability, concrete domain realization, and self-closure dynamics. No inherited name is registered by this result.
 
-**F4 record:** boundary and conditional bootstrap are **Secured by construction** and **Native**. The full positive From→With gate transition remains **Conjectured**. Given a boundary, D-series form and adjacency are **Secured by construction** and strict order by dependency; occupancy is never forced.
+**F4 record:** a valid nonempty admissibility constraint is **Secured by construction** as the boundary-With and its extension is D1; both are **Native**. D-series later phase-form and adjacency are **Secured by construction** and strict order by dependency; D2 and beyond require their additional constructions.
 
-Physics inherits the certified mathematical gate-package under a proposed physics boundary. Chemistry inherits only what an exhibited physics→chemistry gate licenses. These are domain-specific occupancy and handoff claims, not consequences of the generic schema alone.
+Physics inherits the certified mathematical gate-package under its established boundary. Chemistry inherits only what a valid nonempty physics→chemistry boundary licenses. The particular constraints and later phase constructions remain domain-specific.
 
 ## 7. Reflexive inheritance
 
-Given an exhibited gate, a domain does not discard its standing ground when it begins. Certified prior distinctions remain binding at their inherited grades, conditions, and debts. The successor boundary selects; it does not add. Whole-ground inheritance forbids contradiction or silent loss, but does not require every inherited feature to be active in every successor content.
+Under an established boundary, a domain does not discard its standing ground when it begins. Certified prior distinctions remain binding at their inherited grades, conditions, and debts. The successor boundary selects; it does not add. Whole-ground inheritance forbids contradiction or silent loss, but does not require every inherited feature to be active in every later construction.
 
 This means that independently established downstream success may support the foundation upward along the dependency trace, but it cannot erase the totalization ceiling, extend the defended-posit warrant beyond intelligible determination, or substitute empirical fit for the defense profile.
 

@@ -15,6 +15,7 @@ depends-on:
   - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)
   - lambda-derived                          # complete-return principle (shared with winding tower)
+  - boson-fermion-and-holding-statistics   # P3 complete-state exclusion scope
 supersedes:
   - "Φ periodic-table downstream claims (already dead provenance; not reactivated)"
 inherited_caveats:
@@ -61,7 +62,7 @@ standings in that With, and does it decompose natively?
 |---|---|---|
 | (l, m) angular | Spin(3) irreps (registered symmetry) acting on the isotropic holding; 2l+1 by rule-given rep theory | Registered-candidate |
 | s (doubling) | minimal lifted rotatability | Registered (prior) |
-| occupancy | antisymmetric holding ⇒ single occupancy per (l,m,s); capacity 2(2l+1) — Pauli as **theorem**, not import | Registered (prior, Sealed) |
+| occupancy | conditional on the independently constructed `(l,m,s)` complete-state labels, antisymmetric holding gives diagonal vanishing for repeated complete states; the capacity formula also spends the later spin/representation construction | P3 Registered–Sealed only for complete-state diagonal vanishing; capacity retains its owning-unit standing |
 | n (discrete radial tower) | **complete-return**: a maintained closure's carrier phase must return single-valued ⇒ integer winding ⇒ discrete tower. Same principle that forced w=−1 for Λ. | Conjectured (tower in form; construction unbuilt) |
 
 **Finding:** the *existence* of a discrete tower with s/p/d/f blocks of widths
@@ -242,7 +243,7 @@ This deposit exhibits one proposed physics→chemistry handoff and motivates a c
   is proposed as maximizing catenation (its D3);
 - the biology projection remains recognition with no load-bearing use.
 
-**F4 boundary:** one proposed instance cannot secure or semantically register a universal handoff law. The general statement is **Conjectured** and **Unregistered**. The generic F4 result is narrower: D7 selects a D6-persisting ground under the characteristics required by an exhibited successor boundary; whether a gate fires, which ground is selected, and whether “residue” or “recursion-maximization” describes further gates are domain-specific.
+**F4 boundary:** one proposed instance cannot secure or semantically register a universal handoff law. The general statement is **Conjectured** and **Unregistered**. The generic F4 result is narrower: D7 selects a D6-persisting ground under the characteristics required by a successor constraint; when that constraint is valid and nonempty it is the boundary and supplies successor D1. Which ground and constraint are selected, and whether “residue” or “recursion-maximization” describes further handoffs, are domain-specific.
 
 ---
 

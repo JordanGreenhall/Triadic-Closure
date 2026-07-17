@@ -2,31 +2,31 @@
 
 Source locus: §§8.1–8.6 of the original `triadic-structure-of-relating-rev-canonical.md`.
 
-Method: each phase-schema claim was checked against the domain-entry method, later physics and chemistry walks, domain status controls, and the conversation-ledger audit. The later corpus consistently confirms that the D-series constrains dependency and form without forcing occupancy or completeness. No domain-specific success is allowed to retroactively strengthen the generic schema.
+Method: each phase-schema claim was checked against the domain-entry method, later physics and chemistry walks, domain status controls, and the conversation-ledger audit. The corrected generic rule is that a valid nonempty constraint supplies the boundary and D1, while the D-series constrains dependency and form without forcing D2-or-later construction or completeness. No domain-specific success is allowed to retroactively strengthen the generic schema.
 
-## TSR-0801 — Domain opening requires gate, boundary, and bootstrap
-A gate is the From bridging from standing ground to a new boundary-With; the boundary supplies inclusion/exclusion; the domain unfolds within it.
-
-**Adjudication:** retained.
-**Claim standing:** Registered.
-
-## TSR-0802 — Domain bootstrap repeats primordial form under a new boundary
-A domain may have a boundary before internal actuals; its first unfolding repeats the triadic form, not primordial content.
+## TSR-0801 — A valid nonempty admissibility constraint is the boundary
+A domain opens when a determinate constraint is valid and nonempty in a standing ground. “Gate” names this selection and handoff; it does not add a second bridge event.
 
 **Adjudication:** retained.
 **Claim standing:** Registered.
 
-## TSR-0803 — D1–D7 is a diagnostic path-schema, not a guaranteed ladder
-The series states phase order and form but does not guarantee any occupancy.
+## TSR-0802 — Boundary nonemptiness supplies D1
+An empty or merely proposed rule is a candidate constraint, not a boundary. The nonempty extension of an established boundary is already D1; no additional bootstrap actuality is owed.
 
-**Adjudication:** retained as governing scope.
+**Adjudication:** retained.
+**Claim standing:** Registered.
+
+## TSR-0803 — D1–D7 is a diagnostic path-schema after D1
+The boundary supplies D1. The series states the dependency order and form of D2 and later but does not guarantee those additional constructions.
+
+**Adjudication:** corrected as governing scope.
 **Claim standing:** Registered.
 
 ## TSR-0804 — D1 is distinction under the domain boundary
 D1 yields distinguishable closures standing under the boundary; stability is not yet claimed.
 
-**Adjudication:** retained as forced form with contingent occupancy.
-**Claim standing:** Registered form; occupancy Open until exhibited.
+**Adjudication:** retained as forced form supplied by boundary nonemptiness.
+**Claim standing:** Registered form; D1 follows from an established boundary.
 
 ## TSR-0805 — D2 is holding over standings
 With holds D1 standings under domain-admissible bases.
@@ -58,22 +58,22 @@ Persistence means coherent preservation through the D5 field, not temporal endur
 **Adjudication:** retained.
 **Claim standing:** Registered form.
 
-## TSR-0810 — D7 is passability to a successor domain
-A persisting closure can ground a new gate and boundary.
+## TSR-0810 — D7 is passability to a successor boundary
+A persisting closure can be selected as standing ground for a determinate successor constraint; if that constraint is valid and nonempty, it is the successor boundary and its extension is successor D1.
 
 **Adjudication:** retained as forced form with contingent occupancy.
 **Claim standing:** Registered form.
 
-## TSR-0811 — Dependency, form, and occupancy are distinct
-The schema claims strict dependency and constrained form, not forced occurrence.
+## TSR-0811 — D1 and later-phase construction are distinct
+Boundary nonemptiness supplies D1. The schema claims strict dependency and constrained form for later phases, not their forced construction.
 
 **Adjudication:** retained as central control distinction.
 **Claim standing:** Registered.
 
-## TSR-0812 — A domain may terminate before D1 or at any later phase
-A boundary may admit no realizable actuals, and any walk may end early.
+## TSR-0812 — A domain may terminate at D1 or at any later phase
+A valid nonempty boundary cannot lack D1. A candidate constraint may be empty, in which case it is not yet a boundary; any established domain walk may end after D1 or a later constructed phase.
 
-**Adjudication:** retained.
+**Adjudication:** corrected.
 **Claim standing:** Registered negative result.
 
 ## TSR-0813 — Seven phases are selected at recognized sufficiency, not exhaustive completeness
@@ -100,14 +100,14 @@ Persistence is structural preservation under admitted perturbation.
 **Adjudication:** retained as anti-smuggling guard.
 **Claim standing:** Registered.
 
-## TSR-0817 — Occupancy is established by construction and backward trace
-A later object may verify phases only by explicit decomposition through each dependency without imported content.
+## TSR-0817 — Later phases are established by construction and backward trace
+A D2-or-later claim is verified by explicit construction through its dependencies without imported content. This is not a renewed domain-membership test.
 
 **Adjudication:** retained as verification method.
 **Claim standing:** Registered.
 
 ## TSR-0818 — The D-series makes three claims only
-Occupied phases have the stated form; dependencies are strict; occupancy is not forced.
+D1 is the nonempty boundary extension; constructed later phases have the stated form; and their dependencies are strict. Later-phase construction is not forced.
 
 **Adjudication:** retained as canonical summary.
 **Claim standing:** Registered.
@@ -130,8 +130,8 @@ Operator convergence is evidence, not the ground of validity.
 **Adjudication:** retained.
 **Claim standing:** Registered.
 
-## TSR-0822 — Phase occupancy is domain-wide, not specimen-level
-A phase stands when its form governs the domain’s relevant whole stock, not when one example appears.
+## TSR-0822 — Later phase construction is domain-wide, not specimen-level
+After D1, a phase stands at domain grade when its form governs the domain’s relevant whole stock, not when one example appears.
 
 **Adjudication:** retained as pacing rule. Later physics and chemistry status pages must respect it.
 **Claim standing:** Registered.
@@ -154,14 +154,14 @@ The method may not invent a handoff candidate.
 **Adjudication:** retained.
 **Claim standing:** Registered.
 
-## TSR-0826 — The generic walk discharges form and adjacency only
-It does not establish concrete occupancy, domain-specific realizability, or richness.
+## TSR-0826 — The generic walk supplies D1 and later form/adjacency only
+It does not establish D2-or-later construction, domain-specific richness, or inventory completeness.
 
 **Adjudication:** retained as hard scope limit.
 **Claim standing:** Registered.
 
 ## TSR-0827 — Generic D1 adjacency
-Given boundary and no internal actuals, From can cut and closure can complete with an empty internal ledger.
+Given a valid nonempty boundary, its nonemptiness witness already stands in the boundary extension; no further adjacency or actuality event is required.
 
 **Adjudication:** retained at form-and-adjacency strength only.
 **Claim standing:** Registered form.
@@ -197,16 +197,16 @@ D4 registration can be extended coherently across the D5 field.
 **Claim standing:** Registered form.
 
 ## TSR-0833 — Generic D7 adjacency
-A D6 closure may ground the ordinary gate operation to a new boundary.
+A D6 closure may be selected as standing ground for a successor constraint; validity and nonemptiness establish the new boundary and D1.
 
 **Adjudication:** retained at form-and-adjacency strength only.
 **Claim standing:** Registered form.
 
 ## Adjudicated limitations
 
-1. Generic availability never establishes occupancy.
+1. A valid nonempty boundary establishes D1; no second actuality test is licensed.
 2. Specimen occurrence never establishes domain-wide phase standing.
 3. D7 is successor-relative selection, not universal terminus.
 4. Metric, geometry, group, conservation, time, and endurance remain sealed unless separately earned.
 5. The seven-phase schema is not exhaustive.
-6. Every concrete occupancy claim requires construction and backward trace.
+6. Every D2-or-later phase claim requires its genuinely additional construction and backward trace.

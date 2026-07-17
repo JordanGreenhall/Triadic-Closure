@@ -1,12 +1,12 @@
 # The D2 Walk: With Activated — Full Results
 
-### The complete record of the D2 (With) walk for the physics domain: what it produces, why, and the architectonic-rigor grade of each result (registered / registered-and-sealed / registered-not-sealed). D2 inherits from D1 the sealed minimal Thises in their two modes (boson = symmetric-mode self-transformer; fermion = antisymmetric-mode self-transformer), each carrying the three intrinsic characteristics (invariant, generator, coupling-slots), and inherits Part 0 (the full terminal mathematical object as constraint, not buffet) and the clarified presuppositions (metric, causation, individuation, possibility/actuality).
+### The complete record of the D2 (With) walk for the physics domain. [P3](boson-fermion-and-holding-statistics.md) governs its mode/statistics claims: D1 inherits the two nontrivial `J` modes whole under the established physics constraint, while D2 same-kind holding, universal later sector-purity, and the proposed minimal-This construction remain additional claims at their owning units. Part 0 arrives as the full terminal mathematical object at each item's exact grade and debt.
 
 ---
 
 ## 0. What D2 is
 
-D2 is the activation of **With** — the filling of D1's coupling-slots, which at D1 were present only as intrinsic capacity. D2 is the stage of **relationship between the primordial Thises**. Because there are two sealed modes, the relationships are the pairings boson–boson, fermion–fermion, boson–fermion.
+D2 is the activation of **With** — the filling of D1's coupling-slots, which at D1 were present only as intrinsic capacity. D2 is the stage of relationship between D1 contents. When a later construction supplies sector-pure same-kind holding, it can deploy the inherited `+1` or `-1` capacity. P3 supplies the modes inside D1; it does not supply that later holding construction or a universal sector-purity rule.
 
 A methodological note that governs the whole walk below: at several points the natural first impulse was to **hedge** — to register a result as "germ only," "not the full thing," "carried, not yet claimed." On inspection these hedges were *performative*, not rigorous. Removing them and asking what the From-as-constraint actually *forces* revealed that substantial content is **framework-required at D2** — present in full form, not merely in germ. The discipline applied throughout: do not hedge what is earned; do not claim what is not; let the simple thing land, because the simple landing is what makes the next step available.
 
@@ -19,27 +19,25 @@ With is not one relationship. It carries two distinct capacities, and D2 activat
 
 Likeness conditions holding, not coupling. This separation is load-bearing for everything below.
 
-## 2. Holding: Pauli exclusion and Bose co-occupation [registered and sealed]
+## 2. Holding: Pauli exclusion and Bose co-occupation [P3-controlled]
 
-Apply individuation without haecceity: no brute identity labels may do work, and exchange symmetry supplies no ordered roles. M2 does not license the former claim that symmetric holding erases arity or occupation number. The boson/fermion mode **is** the mode of the holding:
+Apply individuation without haecceity: no brute identity labels may do work, and exchange symmetry supplies no ordered roles. M2 does not license the former claim that symmetric holding erases arity or occupation number. At an admitted occupied D2, the D1 eigencharacter deploys as the mode of same-kind holding:
 
-- **Boson–boson holding (symmetric mode).** The symmetric holding *permits* positional coincidence: same-character bosons may co-occupy a position. This permission does not imply absence of occupation number. **Bose co-occupation.**
-- **Fermion–fermion holding (antisymmetric mode).** An antisymmetric holding of two positionally-coincident same-character contents **vanishes** (exchange carries J's sign; coincidence annihilates). Therefore fermions cannot co-occupy a position. **Pauli exclusion.**
+- **Boson–boson holding (symmetric mode).** Symmetry introduces no sign that forces a complete-state diagonal to vanish. This permits same-state co-occupation; it does not guarantee occupation, remove occupation number, or prove unlimited multiplicity. **Bose co-occupation.**
+- **Fermion–fermion holding (antisymmetric mode).** For complete-state coincidence, `A(x,x)=-A(x,x)` and `2`-invertibility give `A(x,x)=0`. Spatial coincidence with a remaining internal distinction is not complete-state coincidence. **Pauli exclusion.**
 
-**Why this seals.** Exclusion and co-occupation fall *directly* out of the holding-modes meeting individuation — no spin invoked, no added principle. This is D1's sealed boson/fermion essence doing work the moment With is activated, exactly as the seal promised. Spin is a deployment-signature (sealed away at D1), not needed here. The content-identity is exact: "Pauli exclusion properly understood" is precisely "the antisymmetric holding vanishes on positional coincidence," and the framework object carries all of it and no more. **Registered and sealed.**
+**P3 record.** The algebraic consequences are Secured by construction, conditional on the D2 same-kind holding. **Pauli exclusion** is Registered–Sealed for diagonal vanishing on complete-state coincidence. **Bose co-occupation** is Registered–Sealed for absence of the exchange-sign prohibition. No spin is invoked. The seals do not include spatial-only exclusion, unlimited occupation, a Fock construction, Bose/Fermi distributions, or a universal claim that all later contents are sector-pure.
 
-## 3. Coupling: interaction, and force-carrier vs matter [registered, not sealed]
+## 3. Coupling: interaction, and force-carrier vs matter [later-owner claim]
 
 **Coupling** is the filled coupling-slot: the mutual conditioning of generators — object A's self-transformation is in part constituted by B's state through the slot, and conversely. This is the With-causation (symmetric co-determination among co-standing contents) made dynamical. It is available across all mode-pairings by slot-compatibility, not likeness.
 
-**Force-carrier vs matter.** Stripped of non-essential loading: a *force-carrier* is the object whose coupling-role is to **mediate** — to be the coupling between others; *matter* is the object that is **coupled** — that occupies and is conditioned. The modes force the roles:
+**Historical proposal.** Stripped of non-essential loading, this source proposed a *force-carrier* as an object whose coupling-role is to mediate and *matter* as an object that is coupled. P3 does not force that role assignment from the modes:
 
-- The symmetric (boson) mode *co-occupies / superposes without limit* — which is exactly what a mediating field must do (a force-carrier must pile up, superpose, accumulate to *be* a field of mediation).
-- The antisymmetric (fermion) mode *excludes* (Pauli) — which is exactly what matter is: that which takes up a place and will not share it, giving bulk and standing.
+- The symmetric mode permits same-state co-occupation; P3 does not prove unlimited superposition or a mediating-field role.
+- The antisymmetric mode excludes complete-state coincidence; P3 does not derive matter, bulk, impenetrability, or a coupled-object role.
 
-So force-carrier-vs-matter is the coupling-role reading of co-occupation-vs-exclusion, and it is **forced** at D2 — not a deployment-accident.
-
-**Why this does not seal.** "Force" and "matter" carry conventional metaphysical freight (force as a primitive pushing-power; matter as a primitive substance/stuff) that the framework object does *not* carry and should not. The content-identity fails in one direction: the framework object carries all the *essential* content (the mediating/occupying roles), but the conventional concepts overflow the essence with accretions we are not endorsing. **Registered, not sealed** — the essence is captured and correct; the conventional concepts overflow it. (The *specific* forces — electromagnetic, etc. — are further deployment.)
+The historical inference from these modes to force-carrier versus matter is outside P3 and is not forced by the holding result. It requires its own physical-role construction; this page therefore supplies no current registration or framework warrant for that assignment.
 
 ## 4. The Hamiltonian [registered and sealed]
 
@@ -121,9 +119,9 @@ This carries the Secured-within-ceiling exactly-three premise into the dimension
 
 ## 8. Summary table of D2 results and grades
 
-- **Bose co-occupation / Pauli exclusion** — holding-modes meeting individuation. **Registered and sealed.**
+- **Bose co-occupation / Pauli exclusion** — P3-controlled holding consequences. **Registered–Sealed only within the exact permission/diagonal-vanishing scopes; conditional on the D2 same-kind holding construction.**
 - **Coupling / interaction** — mutual generator-conditioning, slot-compatibility not likeness. **Registered** (the structure).
-- **Force-carrier vs matter** — coupling-role reading of co-occupation vs exclusion; forced. **Registered, not sealed** (conventional concepts overflow the essence).
+- **Force-carrier vs matter** — historical role proposal; not forced or registered by P3. Requires its own physical-role construction.
 - **Hamiltonian** — conserved coherent total generator of the field's joint self-transformation, generating temporal succession, conservation = time-translation invariance; full form, not full articulation; the physics-domain signature in the modal register. **Registered and sealed.**
 - **Time / space as the two faces of With** — succession (oriented) / co-standing (unoriented). **Registered**; signature-germ present.
 - **Temporal and spatial count-metrics** — quantity-over-quality; oriented vs unoriented. Metric-essence **sealed prior**; these specific metrics **registered**.

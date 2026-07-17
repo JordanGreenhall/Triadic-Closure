@@ -8,6 +8,7 @@ confidence: medium-high
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - gauge-structure-result.md
@@ -47,19 +48,19 @@ essential-form claims.
 
 ### 1. Physics registration itself: what counts as a physical standing
 
-**Current support:** [P1](physics-registration-theorem.md) now PASSES as the canonical admission and dependency-map control. It separates mathematical availability from physical occupancy, requires the self-transforming / invariant / coherent boundary and a two-axis participation trace, and maps the current curated physics surface. This pass supplies no warrant or name-registration to any downstream object.
+**Current support:** [P1](physics-registration-theorem.md) now PASSES as the canonical expenditure and dependency-map control. A valid nonempty physics admissibility constraint is the boundary, and its extension is D1; P1 therefore tests whether a proposed physics expenditure satisfies that constraint and whether its inherited warrant, source, and two-axis reach are recorded. This pass supplies no warrant or mature name-registration to any downstream object.
 
 **Smuggle risk:** importing concepts from "traditional physics" (`particle`, `field`, `mass`,`charge`, `interaction`, `decay`) before proving the domain-entry registration into the framework. A common example: we have established that the framework can identify an electron as a kind of object but have not yet established that it carries a negative charge - making an argument based on the the charge of the object (smuggling that in from traditional physics).
 
-**Cleanup work:** no P1 control debt remains. Each mapped consumer must still construct its physical occupancy and register inherited names property by property at the owning unit. A downstream failure is handed back locally; it does not reopen P1 unless the admission rule or map itself is incomplete.
+**Cleanup work:** no P1 control debt remains. Each mapped consumer must still construct every genuinely additional phase, carrier, operation, or property it spends and register inherited names property by property at the owning unit. It must not be asked to re-prove inherited structure merely because the domain is called physics. A downstream failure is handed back locally; it does not reopen P1 unless the boundary rule or map itself is incomplete.
 
 ### 1A. P2 physics boundary and four-image names
 
-**Current support:** [P2](physics-boundary-and-four-images.md) PASSES as a conditional boundary-and-registration unit. F3 secures the generic marked/flattened images. P2 records the self-transforming / invariant / coherent physics rule as a selection, leaves the positive gate and D1 occupancy Conjectured, and licenses bounded uses of threefold causation, time, space, and internal/color-type distinction.
+**Current support:** [P2](physics-boundary-and-four-images.md) PASSES as the boundary-and-registration unit. F3 secures the generic marked/flattened images. P2 exhibits the self-transforming / invariant / coherent physics rule as a valid nonempty selection; that rule is the physics boundary and its extension is D1. P2 licenses bounded uses of threefold causation, time, space, and internal/color-type distinction.
 
-**Smuggle risk:** treating F3's mathematical availability as physical occupancy; using the registered germs to import exact `3+1`, metric, continuum, clocks, Lorentz structure, `SU(3)`, gauge carriers, charge values, confinement, particles, or dynamics.
+**Smuggle risk:** treating inherited mathematical structure as if it already contained exact `3+1`, metric, continuum, clocks, Lorentz structure, `SU(3)`, gauge carriers, charge values, confinement, particles, or dynamics; or, in the opposite direction, inventing a second physical-population test for structure already constitutive of D1.
 
-**Cleanup work:** no P2 record debt remains. Every consumer must carry the gate and occupancy conditions and audit the name-specific surplus. P3-P7 own the excluded later content; a failure there does not strengthen or silently reopen P2.
+**Cleanup work:** no P2 record debt remains. Every consumer must carry the established boundary conditions and audit the name-specific surplus. P3-P7 own the excluded later content; a failure there does not strengthen or silently reopen P2.
 
 ### 2. Complex Hilbert / amplitude / Born bridge
 
@@ -132,15 +133,12 @@ lattice, electroweak mixing, decay product typing.
 
 ### 6. Fermion/boson versus spin/helicity/chirality
 
-**Current support:** Item 6 passes for spin/helicity/chirality machinery at
-Registered status. Boson/fermion essence and Pauli/Bose holding are Registered and
-Sealed in stripped form. Spin as lifted-rotatability representation, elementary
+**Current support:** [P3](boson-fermion-and-holding-statistics.md) now governs the upstream mode/statistics load. The M4/M5 exchange theorem is Secured and inherited whole inside D1; boson/fermion and Pauli/Bose are Registered–Sealed only within their exact exchange-mode and complete-state holding scopes, with the holding consequences conditional on the D2 same-kind holding construction. Item 6 separately passes for spin/helicity/chirality machinery at Registered status. Spin as lifted-rotatability representation, elementary
 spin-1/2 by minimality, helicity as spin-vs-propagation comparison, `sigma . p`
 for `j=1/2`, binary handedness, maximal chirality/V-A, and parity violation are
 Registered. Exact chiral fermion module and hypercharge particulars remain Open.
 
-**Smuggle risk:** importing exact SM module content, hypercharge, Higgs/electroweak
-breaking, or unrelated higher-spin occupancy from the registered machinery. A page
+**Smuggle risk:** demanding a second physical population or compatibility proof for the inherited `J` modes; reading Pauli as spatial-only exclusion; reading Bose permission as unlimited occupation; or importing universal later sector-purity, spin-statistics, matter/force roles, exact SM module content, hypercharge, Higgs/electroweak breaking, or unrelated higher-spin content from the registered machinery. A page
 may use the machinery; it may not automatically use the full SM representation
 bundle.
 

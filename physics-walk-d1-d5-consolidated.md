@@ -8,6 +8,7 @@ confidence: high
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
 historical_sources:
   - physics-walk-d1-d5-consolidated.md
   - raw/context/full-conversation-ledger.md
@@ -19,7 +20,7 @@ This is a major re-walk produced after the four-images-at-D1 insight.
 
 ## Mature status
 
-This overview retains legacy status language for later D-stages. For D1 entry, the canonical two-axis record is [P2 Physics Boundary and Four Images](physics-boundary-and-four-images.md): the four-image construction is Secured and Native; its physical readings are Registered over bounded cores; the positive physics gate and D1 occupancy remain respectively Conjectured and Conjectured.
+This overview retains legacy status language for later D-stages. [P2](physics-boundary-and-four-images.md) governs the established physics boundary, D1, and four images. [P3](boson-fermion-and-holding-statistics.md) governs the inherited exchange modes and exact Pauli/Bose holding scopes. Neither page licenses mature-name surplus or unbuilt later phases.
 
 ## Current significance
 
@@ -27,8 +28,9 @@ It explicitly supersedes the older mediation-carrier framing in `d3-as-establish
 
 ## Current commitments
 
-- P1 separates mathematical availability from physical occupancy and supplies no warrant to the proposed physics gate or D1 contents. Each physical reading must retain its owning boundary, participation, source, two-axis, and mature-name records.
-- [P2](physics-boundary-and-four-images.md) governs the boundary and four-image claim. Conditional on an actual physics boundary and D1 occupancy, threefold causation, time, space, and internal/color-type distinction are co-present as bounded D1 germs rather than piecemeal downstream finds. This placement result does not prove either condition.
+- P1 treats satisfaction of the established boundary as physics-domain membership and audits only inherited grade, genuinely additional claims, sources, structural traces where load-bearing, and mature-name surplus.
+- [P2](physics-boundary-and-four-images.md) governs the boundary and four-image claim. The valid nonempty physics constraint supplies D1; whole inheritance makes threefold causation, time, space, and internal/color-type distinction co-present as bounded D1 germs rather than piecemeal downstream finds.
+- [P3](boson-fermion-and-holding-statistics.md) governs boson/fermion and Pauli/Bose language. The modes need no second physical population proof; the names are Registered–Sealed only within their exact exchange-mode and complete-state holding scopes.
 - Color is This-flattening, not a guessed mediation carrier.
 - Mass is a D5 Lorentzian Casimir, not a D4 germ.
 
@@ -43,4 +45,4 @@ It explicitly supersedes the older mediation-carrier framing in `d3-as-establish
 
 P2 licenses only succession as a time-germ and interchangeable extent as a space-germ. Exact `3+1`, dimension, and signature are not P2 results; they retain their owning record in [dimension-and-spacetime-status](dimension-and-spacetime-status.md) pending P4 normalization.
 
-See also: [physics-boundary-and-four-images](physics-boundary-and-four-images.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [vertical-and-horizontal](vertical-and-horizontal.md), [supersession-map](supersession-map.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
+See also: [physics-boundary-and-four-images](physics-boundary-and-four-images.md), [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [vertical-and-horizontal](vertical-and-horizontal.md), [supersession-map](supersession-map.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
