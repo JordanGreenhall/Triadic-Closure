@@ -2,7 +2,7 @@
 
 Source locus: §§9.1–9.5 of the original `triadic-structure-of-relating-rev-canonical.md`.
 
-Method: every mathematical-gate and walk claim was checked against the later corpus controls, conversation-ledger audit, mathematics source variants, and downstream physics uses. Historical “machine-verified” labels have been removed as claim standing: absent restoration and rerun of the exact verifier against the exact artifact, they are provenance only. The mathematical boundary remains selected, the rule-given grade remains binding, and named debts remain open.
+Method: every mathematical-gate and walk claim was checked against the later corpus controls, conversation-ledger audit, mathematics source variants, and downstream physics uses. Historical “machine-verified” labels have been removed as claim standing: absent restoration and rerun of the exact verifier against the exact artifact, they are provenance only. The mathematical boundary remains selected, M6's conditional rule-presented grade remains binding, and named debts remain open.
 
 ## TSR-091 — The mathematical object appears only after its dependencies
 It is not an imported starting formalism.
@@ -109,10 +109,11 @@ The D7 object is selected with required ambient partners for the successor gate.
 **Claim standing:** Registered as selected handoff; categorical finality Open.
 
 ## TSR-107 — The mathematical object is rule-given
-Only definable/schematic completeness and rule-given real/complex structure may be spent downstream unless separately audited.
+Only the M6 rule-presented cut, scalar, and completeness schemas may be spent downstream unless separately audited. “Rule-given” never means an unspecified completed subset: every expenditure must name an admitted presentation calculus and show closure under the operation used.
 
-**Adjudication:** retained as binding grade constraint.
-**Claim standing:** Registered.
+**Adjudication:** corrected from a free-standing grade label to an operational condition.
+**Framework standing:** Secured as an inheritance restriction from the selected mathematics boundary and the M6 construction. Whether a particular calculus supports a particular downstream operation is item-specific and remains Open until exhibited.
+**Registration:** Native as a framework restriction; inherited analytic names retain only their separately mapped cores.
 
 ## TSR-108 — D2 symmetry does not generate labels or ordered count
 A symmetric, role-free holding of identically characterized positions registers neither which-position identity nor an ordering merely from its symmetry.
@@ -143,20 +144,25 @@ M5 supplies the omitted construction in four stages. Repeated-addition endomorph
 **Adjudication:** repaired. The former compressed record hid the scalar construction and allowed M4's now-withdrawn `ℤ→ℚ` claim to carry it. The rational field and module stand by their own M5 construction. The displayed pairing proves availability, not uniqueness; Gram values and scale remain selected.
 **Framework standing:** Secured by construction plus the standard endomorphism-ring and fraction-field theorems, conditional on M1 and M3. M4 supplies the compatible fixed/negated decomposition but does not generate `ℚ`.
 **Registration:** `Integers as a ring`, `rational numbers`, `rational vector space`, `symmetric bilinear pairing`, `perfect/non-degenerate pairing`, and `J-isometry` are Registered for the exhibited algebraic cores. Unconstructed order, measure, continuum, analytic structure, and uniqueness of pairing values remain quarantined.
-**Complex-extension boundary:** if M6 supplies the rule-given complex scalar algebra with conjugation, scalar extension yields a non-degenerate Hermitian form and semilinear `J`. M5 does not supply positivity, Hilbert completeness, carrier-specific restriction, or physical normalization.
+**Complex-extension boundary:** M6 supplies the complex scalar algebra with conjugation only relative to a selected rule calculus closed under the operations used; scalar extension then yields a non-degenerate Hermitian form and semilinear `J`. M5 does not supply positivity, Hilbert completeness, carrier-specific restriction, or physical normalization.
 **Evidence:** the deleted verifier's V7 is historical provenance for the integral two-generator witness only; it is not current evidence or framework warrant.
 
 ## TSR-112 — A rule-free completed continuum is inadmissible at this boundary
-An arbitrary subset lacking registered character does not stand as mathematical content.
+An arbitrary extensional subset of `ℚ` lacking a registered presentation does not stand as mathematical content.
 
 **Adjudication:** retained as theorem of the selected boundary, not as a theorem about every possible philosophy of mathematics.
-**Claim standing:** Registered within the boundary.
+**Framework standing:** Secured by dependency from the selected mathematics boundary.
+**Registration:** the completed classical continuum is Unregistered as framework content. It may be cited externally but cannot be spent as inherited framework structure.
 
 ## TSR-113 — Rule-given reals and complexes are admissible
-Rules present reals, arithmetic, schematic completeness, complex pairing, and conjugation.
+A rule-presentation is a determinate prescription over the M5 rationals using only admitted parameters and operations; it may not conceal an arbitrary set-oracle. Presentations of the same rational lower set are identified extensionally. A valid cut is nonempty, proper, downward closed, and has no greatest element.
 
-**Adjudication:** retained at rule-given grade. “Predicative analysis” remains recognition.
-**Claim standing:** Registered.
+For any selected rule calculus `C` closed under the standard Dedekind-cut formulas, the `C`-rule-cuts form an ordered field. A nonempty bounded `C`-rule-given family has a least upper bound exactly at the displayed reach where union-membership has an admitted `C`-rule. Selecting `i²=-1` gives the standard pair field `ℂ_C` and conjugation; scalar extension of M5's form gives a non-degenerate Hermitian form.
+
+**Adjudication:** repaired. The former summary omitted the cut conditions, presentation quotient, rule-calculus closure condition, selected status of the quadratic extension, and schematic limit on completeness.
+**Framework standing:** valid rule-cut admissibility is Secured by construction relative to the boundary. The ordered-field and complex constructions are Secured by standard theorems conditional on closure of the selected calculus. Least-upper-bound formation is Secured only for rule-given bounded families with an admitted union-rule.
+**Registration:** `Real numbers`, `least upper bound`, `complex numbers`, `complex conjugation`, and `Hermitian pairing` are Registered only for the displayed cut, schema, and algebraic cores. `Predicative analysis` is Registered only as recognition for the rule-presented cut/schema core. Completed powersets, unrestricted completeness, topology, measure, analytic function spaces, correspondence with any particular historical predicative system, positivity, Hilbert structure, and physical continuum deployment remain quarantined.
+**Evidence:** the deleted verifier's V8 is historical provenance only. It did not formalize `C`, prove calculus closure, establish unrestricted completeness, or certify physics-side adequacy.
 
 ## TSR-114 — Vertical recursion alone generates no mathematical variety
 Position-only recursion collapses; office-signature recursion yields the three office solutions. Mathematical variety arises horizontally.
@@ -165,7 +171,7 @@ Position-only recursion collapses; office-signature recursion yields the three o
 **Claim standing:** Registered with stated scope.
 
 ## TSR-115 — The mathematical walk retains named debts
-Open debts include category-grade D6 coherence, re-derivation of physics fit, unordered cardinality, empty order-character, categorical survey-finality, and audits of impredicative functional analysis used downstream.
+Open debts include selection and closure audit of every rule calculus actually spent downstream, category-grade D6 coherence, re-derivation of physics fit, unordered cardinality, empty order-character, categorical survey-finality, and audits of impredicative functional analysis used downstream.
 
 **Adjudication:** retained. No later detailed source closes the full ledger.
 **Claim standing:** Open.
@@ -176,5 +182,5 @@ Open debts include category-grade D6 coherence, re-derivation of physics fit, un
 2. Event-particularity is excluded; vertical form is not.
 3. The unmarked dyad does not supply a privileged value.
 4. Historical verifier runs are provenance only unless rerun against the exact current artifact.
-5. Rule-given structure is the maximum spendable downstream grade.
-6. Category-grade coherence, unordered cardinality, categorical finality, and impredicativity audits remain Open.
+5. M6's conditional rule-presented schemas are the maximum spendable downstream grade; the phrase `rule-given` alone licenses nothing.
+6. Rule-calculus selection and closure, category-grade coherence, unordered cardinality, categorical finality, and impredicativity audits remain Open where not separately exhibited.

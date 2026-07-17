@@ -1,6 +1,6 @@
 # Mathematizing the Flat Substrate: F4 (c as metric identity), F5 (sum-of-squares), F6 (Lorentzian signature), F7 (the Lorentz group)
 
-### Second computation of the gravity-mathematization survey, building on F1–F2 (the conditioning-network N, the anti-smuggle admissibility rule, step atomicity). This tier establishes the flat metric and proves the owed result: the admissible re-couplings of N are exactly the Lorentz group. Tags: **[proved]** (derived here), **[forced-prior]** (cited), **[argued]** (words, not full proof), **[open]** (gap). The discipline of F1.2 (P2) is in force: every quantity must be definable from N's intrinsic data; rate/density are banned.
+### Second computation of the gravity-mathematization survey, building on F1–F2 (the conditioning-network N, the anti-smuggle admissibility rule, step atomicity). This tier gives a conditional derivation of the flat metric and Lorentz re-couplings while locating the still-open continuous-direction-carrier premise. Tags: **[proved]** (derived here), **[forced-prior]** (cited), **[argued]** (words, not full proof), **[open]** (gap), **[conditional]** (depends on a named construction). The discipline of F1.2 (P2) is in force: every quantity must be definable from N's intrinsic data; rate/density are banned.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Succession count** = address-length = the From-count (oriented, discrete, atomic — F2). The temporal substructure.
 - **Address-separation** = minimal connecting-chain length = the With-count (symmetric). The spatial substructure; three-fold by the flattening (F3, taken as established: floor-and-ceiling three carried through the With-flattening).
 - **(P2)** Admissibility rule: a quantity is admissible iff definable from N's intrinsic data (addresses, edges, node-content, ρ, conservation). Rate/density banned; coherence-participation and the two counts admitted.
-- **Node-content:** offices (0.1), **J** = involutive polarity, orientation-reversal, J²=id (0.2, Treatise §7.2), the two sectors (0.3), and the pairing at its certified grade (0.4). M5 constructs a perfect rational bilinear form; a complex Hermitian extension is conditional on M6. The Lorentz-signature form used below is a physics-specific construction and may not be inferred from M5 alone.
+- **Node-content:** offices (0.1), **J** = involutive polarity, orientation-reversal, J²=id (0.2, Treatise §7.2), the two sectors (0.3), and the pairing at its certified grade (0.4). Canonical M5 constructs a perfect rational bilinear form; canonical M6 supplies a complex Hermitian extension only at a selected closed rule-calculus grade. The Lorentz-signature form and continuum of directions used below are physics-specific constructions and may not be inferred from either unit alone.
 
 ---
 
@@ -26,11 +26,11 @@
 
 **Setup.** Address-separation gives, between two standings, a chain-length along each of the three flattened With-degrees (F3). Write the separation components (Δx¹, Δx², Δx³). The spatial interval is some combination σ(Δx¹, Δx², Δx³). The question: which combination?
 
-**(P8) [proved] The three spatial degrees are isotropic — pairwise interchangeable by an admissible symmetry.** [forced-prior + here] The three degrees are the With-flattening of the marked triad: the flattening blinds the kind-marking (Treatise §7.4a), so the three are symmetric and interchangeable (the With-flattening is the *interchangeable* one, by the office-signature readout). "Interchangeable" means: there are admissible transformations of N permuting and, more strongly, continuously mixing the three degrees while preserving N's structure (the rotations among the flattened degrees). Admissible because they preserve addresses-up-to-relabeling of the flattened degrees, which carry no kind-marking to violate. ∎
+**(P8) [proved for permutation symmetry; continuous extension Open] The three spatial degrees are pairwise interchangeable by an admissible symmetry.** [forced-prior + here] The three degrees are the With-flattening of the marked triad: the flattening blinds the kind-marking, so permutations of the three preserve the displayed degree-structure. This establishes `S₃` interchangeability. It does not by itself construct intermediate directions, a topology, or continuous rotations; those are exactly the F5a dependency below.
 
-**(P9) [proved] An isotropic, additive, sign-definite interval on three interchangeable degrees is the sum of squares (up to scale).** Proof: the spatial interval σ must be (i) **invariant** under the isotropy group (P8) — the continuous mixings of the three degrees; (ii) **additive over orthogonal independent separations** (the degrees are independent — separation along one is unconstrained by another; and accumulation of distinction composes additively, the metric-as-registered-distinction principle); (iii) **sign-definite** (a separation is a count of edges ≥ 0; the interval vanishes only at coincidence). The continuous group preserving a sign-definite additive quadratic form on three real degrees and acting transitively on directions is the rotation group SO(3), whose unique (up to scale) invariant sign-definite additive form is δᵢⱼΔxⁱΔxʲ = (Δx¹)² + (Δx²)² + (Δx³)². Any non-quadratic additive isotropic form (e.g. Σ|Δxⁱ|ᵖ, p≠2) is *not* invariant under continuous mixing of the degrees (only under the discrete permutations and sign-flips) — it fails (i). So the quadratic is forced by isotropy + additivity + sign-definiteness. ∎
+**(P9) [proved conditional on continuous isotropy] An isotropic, additive, sign-definite interval on three continuously interchangeable degrees is the sum of squares (up to scale).** Given a separately constructed continuous rotation action, the standard invariant-form argument yields `δᵢⱼΔxⁱΔxʲ`. `S₃` permutation symmetry alone does not exclude other symmetric norms and therefore does not discharge this premise.
 
-*Status of F5:* **[proved]**, modulo (P8)'s claim that the isotropy is the *continuous* mixing group (not merely discrete permutations). That the flattening yields *continuous* interchangeability (rotations), not just permutation symmetry, rests on the degrees being a rule-given continuum (0.9) along each — **[argued]**, flagged: the continuum of directions needs the rule-given continuum deployed on the flattened degrees. Sub-gate F5a: confirm the isotropy is continuous (SO(3)), not discrete.
+*Status of F5:* **[conditional]** on F5a. Permutation symmetry is established, but continuous interchangeability is not. Canonical M6 supplies neither a topology nor deployment of rule-presented scalars on the spatial degrees. Sub-gate F5a must construct the physical direction carrier and its continuous `SO(3)` action.
 
 ---
 
@@ -72,7 +72,7 @@ This is the harder direction (showing the group is *exactly* Lorentz, not a subg
 
 **(P13) [argued → partially proved] Every interval-preserving transformation is realized by an admissible re-coupling of N.** The Lorentz group O(1,3) is generated by (a) **spatial rotations** SO(3), and (b) **boosts** (the succession-count↔spatial mixings). Take each:
 
-- **Rotations** are admissible re-couplings: they are the continuous isotropy of the spatial degrees (P8), which preserve edges, unit, J, and the F5/F6 physics form. So SO(3) ⊆ Aut(N). **[proved, given F5a and the form].**
+- **Rotations** are admissible re-couplings only after F5a supplies the continuous isotropy of the spatial carrier. Given that construction, they preserve edges, unit, J, and the F5/F6 physics form, so SO(3) ⊆ Aut(N). **[proved, given F5a and the form].**
 - **Boosts** are the re-splittings of a separation into succession-count-versus-spatial parts — exactly the “re-coupling” of F1/propagation: a different admissible accounting of the same conditioning-separation as more-succession-count/less-spatial or vice versa, preserving the interval and the unit. A boost re-coordinatizes the same conditioning-chains and preserves the separately constructed interval form; J-compatibility must be checked against the succession-count/spatial structure. So boosts ⊆ Aut(N). **[argued]** — the load-bearing sub-claim is that *every* interval-preserving boost corresponds to an admissible re-splitting. Sub-gate F7a.
 
 **(P14) [proved, given P13] Aut(N, re-coupling) = O(1,3) (or SO⁺(1,3) for the orientation-and-time-direction-preserving part).** From P12, Aut(N) ⊆ O(1,3). From P13, the generators of O(1,3) (rotations + boosts) are in Aut(N), so O(1,3) ⊆ Aut(N). Hence equality. Restricting to (D7.1)'s one-way orientation-preservation (conditioning runs one way) selects the **orthochronous** part (time-direction-preserving), and to the proper part if reflection is excluded: SO⁺(1,3), the connected Lorentz group. ∎
@@ -94,7 +94,7 @@ The orthochronous restriction is itself a **result, not an input**: because cond
 - **F7:** Aut(N, re-coupling) ⊆ O(1,3) proved (P12); rotations admissible; the full equality Aut(N) = SO⁺(1,3) proved modulo F7a (boost-admissibility converse). The **orthochronous restriction is derived** from From's one-wayness, not imposed.
 
 **Remaining sub-gates to seal the flat tier:**
-- **F5a:** the spatial isotropy is the continuous rotation group (rule-given continuum on the flattened degrees), not merely discrete permutations.
+- **F5a:** construct a physical rule-presented direction carrier, select and audit its M6 rule calculus, and prove that its admissible symmetry is the continuous rotation group rather than merely discrete permutations.
 - **F6a:** pressure-test the null condition (P10) — that immediate-conditioning neighbors at the bound are forced to zero-interval.
 - **F7a:** the converse for boosts — every interval-preserving boost is an admissible re-coupling of N (no admissibility condition excludes any boost).
 
@@ -104,13 +104,13 @@ These three are concrete and finite; clearing them seals the flat Lorentzian met
 
 ---
 
-## F5a, F6a, F7a — the three sub-gates cleared (flat tier sealed)
+## F5a, F6a, F7a — reassessment of the three sub-gates
 
 **(P15) [proved] F6a — the null condition is forced; it is the unit-identity.** At the bound v = 1, one succession-count increment is spent entirely traversing one link of separation — and by F4 the succession-count increment and the spatial-link are the *same single conditioning* counted two ways. So Δt = 1 and |Δx| = 1 at the bound are not two separations but one act counted both ways; the *net* separation (the interval) is that one act minus itself, = 0. The interval's vanishing on the null cone is therefore not an independent assumption but c = 1 (F4) read as "one act, counted as both succession count and link, nets to zero": s² = −Δt² + |Δx|² = −1 + 1 = 0. The minus sign (F6) and the null cone are the same fact as the unit-identity (F4). ∎
 
-**(P16) [proved] F5a — the spatial isotropy is continuous SO(3), not merely discrete S₃.** The With-flattening blinds *all* directional kind-marking (Treatise §7.4a), not only the marking distinguishing the three named degrees from one another. If only the three original axes were real and directions *between* them were not, that would be a retained marking (axes privileged over intermediate directions) — precisely the marking the flattening removes. So intermediate directions are as unprivileged as the axes; with the rule-given continuum (0.9) on each degree, a separation may point in any rule-given direction the three degrees span, and the no-privileged-direction symmetry preserving the degree-structure is the continuous rotation group SO(3). Discrete-permutation-only (S₃) would retain the forbidden axis-privileging marking. Hence the isotropy is continuous, and F5's sum-of-squares is forced (only the quadratic is SO(3)-invariant). ∎
+**(P16) [Open / conditional] F5a — continuous `SO(3)` isotropy is not supplied by M6 or flattening alone.** Flattening removes registered kind-marking among directions that have been constructed. It does not construct intermediate directions, a topology on the direction space, or a continuous group action. M6 supplies rule-presented scalar schemas only relative to a selected closed rule calculus, and it does not deploy those scalars on this physical carrier. A model with only three permuted axes remains compatible with the displayed premises. To discharge F5a, a physics construction must exhibit the rule-presented direction carrier and prove that its admissible automorphisms contain the required rotation action.
 
-**(P17) [proved] F7a — every orthochronous interval-preserving transformation is an admissible re-coupling; only the time-reversing ones are excluded.** Check D7.1–D7.4 against an arbitrary orthochronous interval-preserver:
+**(P17) [proved conditional on the F5/F6 carrier and form] F7a — every orthochronous interval-preserving transformation is an admissible re-coupling; only the time-reversing ones are excluded.** Once the rule-presented direction carrier, continuous action, and Lorentz form are separately supplied, check D7.1–D7.4 against an arbitrary orthochronous interval-preserver:
 - *D7.2 (unit):* c = 1 is the null structure of the interval (F4/F6); an interval-preserver preserves it. ✓
 - *D7.4 (physics form):* the interval is the F5/F6 Lorentz-signature form; an interval-preserver preserves it by construction. This is not an inference from M5's rational pairing. ✓
 - *D7.3 (J-compatible):* the (1,3) signature is exactly the J-eigenstructure (time = J-odd/orientation-carrying, space = J-even); preserving the interval preserves the signature-split, hence commutes with J. Automatic, not an extra constraint. ✓
@@ -118,17 +118,17 @@ These three are concrete and finite; clearing them seals the flat Lorentzian met
 
 So every orthochronous interval-preserver satisfies all four conditions and is admissible; the only exclusions are the time-reversing transformations, by D7.1's one-wayness. ∎
 
-### The flat tier, sealed
+### The flat tier, conditional
 
-**(THEOREM, flat tier) [proved, modulo the cited prior materials] The admissible re-coupling symmetry of the conditioning-network N is exactly the proper orthochronous Lorentz group SO⁺(1,3), with invariant interval s² = −Δt² + (Δx¹)² + (Δx²)² + (Δx³)², and this is forced from N's intrinsic structure.**
+**(THEOREM, flat tier) [conditional] Given a physics-side rule-presented direction carrier with continuous `SO(3)` action, the Lorentz-signature form, and the stated re-coupling premises, the admissible re-coupling symmetry is the proper orthochronous Lorentz group `SO⁺(1,3)`. M6 does not discharge those physics premises.**
 
 Every component forced, with its source:
 - **c = 1** — the succession-count/link unit-identity (F4); not a parameter.
-- **spatial sum-of-squares** — continuous isotropy (SO(3)) from the total flattening of directional marking + rule-given continuum (F5, P16).
+- **spatial sum-of-squares** — conditional on the still-open physics construction of a rule-presented direction carrier and continuous `SO(3)` action (F5, P16).
 - **Lorentzian minus sign / null cone** — the unit-identity read as net-zero separation at the bound (F6, P15); the same fact as c = 1.
 - **exactly the Lorentz group** — interval-preservation both inclusions (P12, P14), with admissibility = interval-preservation for orthochronous transformations (P17).
 - **proper orthochronous specifically** — *derived* from From's one-way conditioning (P17, D7.1), not imposed: N does not admit time-reversing re-couplings.
 
-The flat Lorentzian structure of physics is thereby recovered as forced from the conditioning-network, which is itself the horizontal build of the terminal mathematical object. Two particulars differ from the standard presentation and are themselves results: **c is the unit (= 1), not an empirical constant**, and **the orthochronous restriction is derived from one-way conditioning**, not postulated.
+The conditional derivation identifies exactly what would recover the flat Lorentzian structure from the conditioning-network. It does not yet construct the continuous direction carrier. Two particulars within the conditional line differ from the standard presentation: **c is the unit (= 1), not an empirical constant**, and **the orthochronous restriction follows from one-way conditioning**, rather than being separately postulated.
 
-**Remaining for the whole gravity program (curved tier, not flat):** F8 (coherence-participation functional over next-configurations), F9 (the de-smuggled gravity tilt: the Hamiltonian-distribution raises toward-it coherence-participation, all quantities (P2)-admissible), F10 (coherence-weighting accumulates to curvature in the rule-given continuum limit), F11 (the relation is exactly the Einstein equation; G the one free particular, c the unit). The flat tier is now a sealed foundation for these.
+**Remaining for the gravity program:** F5a now explicitly requires selection and closure of the M6 rule calculus, construction of a physical direction carrier, and proof of its continuous rotation action. F8–F11 retain their stated additional conditions, including the continuum-limit and curvature debts. The flat tier is not sealed until the F5a carrier/deployment gap is discharged.

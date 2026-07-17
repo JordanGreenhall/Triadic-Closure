@@ -55,4 +55,10 @@ The deleted verifier's V7 instantiated two named generators, extended exchange b
 
 V7 used host-language integer multiplication and named coordinates. It did not construct integer multiplication from the M3 additive group, construct the fraction field `ℚ`, prove presentation-independence under relabeling, test the rational module, establish uniqueness of a pairing, or supply a complex, positive-definite, Hilbert, carrier-specific, or physically normalized form. The deleted implementation supplies no current executable evidence and no framework warrant. M5's standing comes from the displayed endomorphism-ring, fraction-field, free-module, and perfect-pairing constructions.
 
+## M6 historical evidence boundary
+
+The deleted verifier's V8 reportedly instantiated rule-presented lower cuts, checked sample cut laws and addition, formed a definable union-supremum, and produced a rule-given rational approximation to `√2`. Those reports are historical provenance for the intended M6 presentation, not current executable evidence.
+
+V8 did not specify a formal rule calculus, show that hidden arbitrary-set parameters were excluded, prove closure under all ordered-field operations, establish unrestricted Dedekind completeness, construct and verify the complex field and conjugation at the framework grade, or certify any physics-side continuum deployment. M6's current standing comes from the displayed boundary argument and the standard Dedekind-cut, quadratic-extension, and scalar-extension theorems at their explicit rule-calculus conditions. No verifier has been restored.
+
 See also: [The Triadic Structure of Relating — Canonical Foundation](triadic-structure-of-relating-rev-canonical.md), [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md), [Known Failure Modes](known-failure-modes.md), and [Corpus Lineage](corpus-lineage.md).
