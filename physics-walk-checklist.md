@@ -28,6 +28,12 @@ Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) wheneve
 
 ---
 
+## P5 — PROPAGATION AND LORENTZ CONTROL
+
+Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md) whenever neighbor, distance, propagation, `c`, null interval, or Lorentz symmetry is spent. P5 natively Secures finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation. The full quadratic interval and `SO^+(1,3)` theorem are Secured only given the stated rule-presented direction carrier/continuous `SO(3)` action and are Registered–Sealed only on that carrier/manifold. Name Alexandrov–Zeeman where its implication is used. Do not manufacture another physical occupancy test; do not erase the real P7/G1 carrier-recovery condition; do not treat exact local Lorentz of a recovered continuum as unconditionally sealed.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:

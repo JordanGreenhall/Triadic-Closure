@@ -62,6 +62,14 @@ essential-form claims.
 
 **Cleanup work:** no P2 record debt remains. Every consumer must carry the established boundary conditions and audit the name-specific surplus. P3-P7 own the excluded later content; a failure there does not strengthen or silently reopen P2.
 
+### 1B. P5 propagation and Lorentz scope
+
+**Current support:** [P5](propagation-and-invariant-velocity.md) PASSES. Neighbor/distance, finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation are native Secured constructions and Registered–Sealed within their exact scopes. Given a physical rule-presented direction carrier with continuous `SO(3)` action, the Lorentzian interval and `SO^+(1,3)` re-coupling theorem are Secured conditionally and Registered–Sealed on that carrier/manifold; Alexandrov–Zeeman is the named external implication.
+
+**Smuggle risk:** treating P4's discrete spatial interchangeability as if it already supplied continuous directions and `SO(3)`; reporting the conditional Lorentz theorem as unconditional recovery of physical spacetime; or importing a traveler/container ontology into native propagation. The opposite error is inventing a second physical occupancy or bearer test for consequences already constructed within the established P2 domain.
+
+**Cleanup work:** carry the carrier/manifold condition only into claims that spend it. P7/G1 owns recovery. Do not push that debt backward into `c = 1`, finite propagation, or the null unit-identity. Exact local Lorentz symmetry of a recovered continuum is Secured within its defended-posit ceiling and Registered, not sealed.
+
 ### 2. Complex Hilbert / amplitude / Born bridge
 
 **Current support:** realizability weighting is Registered, not sealed. Pairing to
@@ -249,8 +257,9 @@ circle receipt / n-p splitting packages remain empirical/Open/quarantined.
 ### 12. Gravity full-GR imports
 
 **Current support:** Item 12 passes by separation. Weak-field/static gravity and
-the participation-gradient meaning of curvature are Registered; Lorentzian
-signature is Registered and Sealed via named Alexandrov-Zeeman import; Lambda
+the participation-gradient meaning of curvature are Registered; the Lorentzian
+theorem is Secured conditionally and Registered–Sealed on a given carrier/manifold
+via the named Alexandrov–Zeeman import; Lambda
 structural meaning and stress-energy office representation are Registered. Λ
 scaling is Registered; native complete `3 R_H^-2` is Conjectured-strong; present
 `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Λ dynamics remain Open. Full Einstein form remains Registered-conditional through

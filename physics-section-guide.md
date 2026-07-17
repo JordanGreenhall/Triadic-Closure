@@ -38,11 +38,12 @@ Read these first:
 5. [physics-domain-work-plan](physics-domain-work-plan.md)
 6. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
 7. [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
+8. [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
 
 ## 2. Spacetime and kinematics
 
-1. [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md)
-2. [lorentz-from-recoupling](lorentz-from-recoupling.md)
+1. [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) — canonical P5 record; native propagation core and conditional carrier/manifold theorem.
+2. [lorentz-from-recoupling](lorentz-from-recoupling.md) — supporting conditional theorem and named external implication.
 
 ## 3. Realizability, actualization, and weighting
 

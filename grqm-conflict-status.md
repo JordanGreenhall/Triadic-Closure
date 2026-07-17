@@ -21,7 +21,7 @@ Current curated status page for the GR/QM conflict problem-locator and session l
 
 ## Mature status
 
-Status: **Registered** for the root dissolution G2 and its non-renormalizability symptom G3's registered subclaims; **Registered / Registered-not-Sealed / defended-posit split** for G1 manifold-recovery subpieces; **Registered shape with Registered-not-Sealed coefficient hinge** for `A/4`; **Registered and sealed-for-matter-sourced-case** for conflict (2) / BMV-positive-without-actual-geometric-superposition; **out of quarantine** for conflict (4) / Λ magnitude, with scaling Registered and coefficient/present-value Conjectured-strong; **Conjectured** for information/unitarity.
+Status: **Registered** for the root dissolution G2 and its non-renormalizability symptom G3's registered subclaims; split for G1 manifold-recovery subpieces, with smoothness/rotational invariance Registered-not-Sealed and exact local Lorentz Secured within its defended-posit ceiling but Registered-not-Sealed; **Registered shape with Registered-not-Sealed coefficient hinge** for `A/4`; **Registered and sealed-for-matter-sourced-case** for conflict (2) / BMV-positive-without-actual-geometric-superposition; **out of quarantine** for conflict (4) / Λ magnitude, with scaling Registered and coefficient/present-value Conjectured-strong; **Conjectured** for information/unitarity.
 
 The standard statement of the GR/QM conflict is treated as a symptom: naive metric quantization fails because it mislocates the vertical/horizontal crossing onto the arena continuum rather than at the discrete This. The root conflict is the background problem: QM uses a flattened arena; GR makes the With live.
 
@@ -41,7 +41,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 | G3 non-renormalizability as mislocated V/H crossing | Conjectured overall; gravity-vs-gauge asymmetry Registered given G2 | Use as diagnosis, not completed theorem. |
 | G1a graph-dimension forced to 3 by With-holds-open | Registered | Advances manifold recovery but does not seal smooth continuum. |
 | G1 criticality / gapless substrate / global frame-freedom | Registered | Native ingredients for continuum recovery. |
-| G1c smoothness / rotational invariance | Registered-not-Sealed via named universality import; exact local Lorentz = defended posit | Do not state manifold recovery as sealed. |
+| G1c smoothness / rotational invariance and exact local Lorentz | Smoothness/rotational invariance: Registered-not-Sealed via named universality import. Exact local Lorentz: Secured within the defended-posit ceiling; Registered-not-Sealed. | Do not state manifold recovery as sealed or turn the exactness ceiling into a manufactured proof task. |
 | Second-order field equation from one-step conditioning locality | Registered conditional on G1 | Replaces the old “pure Lovelock import” posture, but remains conditional on manifold/order recovery. |
 | Lovelock route | Registered as native rule-given math, not external doctrine | Use as rule-given tensor rigidity once the second-order/locality premises are admitted. |
 | Native horizon: mass = self-closure; horizon = total self-closure | Registered | May be used for horizon shape and boundary-count arguments. |

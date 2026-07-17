@@ -12,7 +12,7 @@ The prior walk recovered time at D2, space at D2 (as the flattened triad), the i
 
 2. **Color is the This-flattening, not a carrier.** The "mediation carrier" framing is dropped entirely. Color is the interior triadic distinction of a closure read across the recursion under the quality (non-interchangeable) basis — symmetric but non-interchangeable. It is present in germ at D1 (every closure carries it) and is not built from a separate carrier of guessed dimension.
 
-3. **c, the Lorentzian metric, the realizability law are in hand.** The invariant velocity (the link/step identity, v ≤ 1), the forced Lorentzian interval, and the realizability-weighting law are established results and are placed at their proper strata below.
+3. **c is in hand; the Lorentzian result has an explicit carrier condition.** The invariant velocity (the link/step identity, `v <= 1`) and direct-bound null relation are native P5 constructions. The full interval and Lorentz group are sealed only on a stated direction carrier/manifold; recovery of that carrier is not a P5 result. The realizability-weighting law has its own independent standing below.
 
 ---
 
@@ -98,9 +98,9 @@ F3 makes all four images co-present at D1 by whole inheritance. No additional pl
 
 ---
 
-## D5 — The metric matured (the root), then the threads it unlocks
+## D5 — Propagation and the conditional metric result
 
-The D5 dependency structure has a single root: **the metric maturation depends on nothing else, and gravity, the internal-structure (gauge) walk, and the specific connection all depend on it.** So the metric is walked first.
+P5 first constructs propagation and the link/step commensuration. The full flat metric and Lorentz group follow only under their declared carrier/manifold conditions. Later consumers must preserve that split.
 
 ### D5.1 The invariant velocity c (the commensuration)
 
@@ -111,14 +111,15 @@ c is not a speed-magnitude; its large numerical value is a units artifact. Funda
 - The rate is the **unique** commensuration (conditioning is the sole bridge between the From-time and With-space registers) and is **constant, frame-invariant, = 1 by nature** (it is the link/step identity, not a magnitude). The maximal (null) rate is the upper bound: **v ≤ 1**, attained only by direct null propagation; effective motion is slower.
 - **Propagation** = neighbor-by-neighbor resolution of coherence-differences as the unified Hamiltonian advances one step (no traveler; the same event read as the whole = time, and as the differentiated field = space).
 
-### D5.2 The Lorentzian interval (forced)
+### D5.2 The null relation and conditional Lorentzian interval
 
-ds² = −dt² + dx² + dy² + dz², each piece forced from standing structure:
-- **One interval** — c commensurates the temporal and spatial counts into a single quantity.
-- **Spatial sum of squares** — forced by the **isotropy of the With-flattening** (the three spatial degrees are interchangeable, so the only rotation-invariant combination is the quadratic/Pythagorean form). The square is the signature of isotropy.
-- **Minus sign on time** — forced by the propagation bound: null separation (v = 1, direct conditioning-contact) must be zero-interval, so the null cone is the zero-set, which forces time at opposite sign. The Lorentzian signature is the signature of the propagation bound.
+The unconditional P5 result is the **null unit-identity**: at direct bound propagation, one conditioning is counted as one temporal step and one spatial link, so the two contributions net to zero. This Secures the opposite-sign relation at the bound.
 
-*Registered, strong seal candidate.* Seal-check (flagged): that the network's step↔link re-couplings (the boosts) preserve exactly this form — i.e. that the re-coupling symmetry is exactly the Lorentz group. This is the **Lorentz-algebra proof** still owed.
+Given a physical rule-presented direction carrier with continuous `SO(3)` action, the spatial invariant is the sum of squares and the combined interval is
+
+`ds² = -dt² + dx² + dy² + dz²`.
+
+On that given carrier/manifold, causal/null-preserving re-couplings are exactly `SO^+(1,3)` by the named Alexandrov–Zeeman implication, with one-way conditioning selecting the orthochronous component. The interval and group are **Secured conditionally and Registered–Sealed on that scope**. P4's discrete interchangeability alone does not construct continuous directions or `SO(3)`; P7 owns carrier/manifold recovery. Exact local Lorentz symmetry of a continuum recovered from the discrete base is Secured within its separate defended-posit ceiling and Registered, not sealed.
 
 ### D5.3 What the matured metric unlocks
 
@@ -138,13 +139,13 @@ Actualization at a realizability fork follows P(k) = C(k)/Σⱼ C(j) — frequen
 
 **P3-controlled:** boson/fermion exchange-mode correspondence is inherited within physics and Registered–Sealed at its scoped core; Pauli/Bose holding is Registered–Sealed only when the additional holding specified in [P3](boson-fermion-and-holding-statistics.md) stands. **Other legacy summary records:** the three spatial degrees, time, and Hamiltonian-essence (D2); composite-This, mode-multiplicativity, and Hamiltonian free+interaction decomposition (D3).
 
-**P2-controlled:** the established physics boundary supplies D1 and whole inheritance carries the four images; **physics** and the causation/time/space/internal-color names are Registered only over their bounded P2 cores. **Other legacy summary records:** gravity-in-essence (D3); the Lorentzian interval (D5, strong seal candidate pending the Lorentz-algebra proof); c and propagation (D5).
+**P2-controlled:** the established physics boundary supplies D1 and whole inheritance carries the four images; **physics** and the causation/time/space/internal-color names are Registered only over their bounded P2 cores. **P5-controlled:** `c`, finite propagation, no-traveler propagation, and the direct-bound null relation are Secured and Registered–Sealed in scope; the Lorentzian interval and `SO^+(1,3)` theorem are Secured conditionally and Registered–Sealed only on the stated carrier/manifold.
 
 **Other legacy records, not P3 results:** matter-extension, field-essence, force-essence, momentum/angular-momentum, spacetime-germ (D3); the invariance-algebra, kind-labels, Noether-essence, sector-preservation proposal, internal-charge-essence, CPT-germ (D4); the realizability-weighting law (cross-cutting). Their standings remain with their owning units.
 
 **Open, with named homes and flagged for the next sessions:**
 - The **gravity asymmetry** (dilation vs curvature; the conditioning-event-density / update-frequency mechanism and whether it integrates exactly to metric curvature) — the immediate next deep-dive.
-- The **Lorentz-algebra proof** (that network re-couplings = exactly the Lorentz group) — seals the metric.
+- **P7/G1 carrier recovery:** construct or otherwise seal the physical direction carrier/manifold. The conditional Lorentz theorem itself is complete; the recovery condition is not.
 - The **internal-structure (gauge) walk** (the specific symmetry of the This-flattened distinction; whether the interior triad's count is three) — the major unlocked thread.
 - The **realizability law's three gates**; the **gravity field-equation**.
 - Then D6–D7 (persistence; the periodic-table handoff).

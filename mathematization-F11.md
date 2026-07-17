@@ -75,7 +75,7 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 ## 6. The gravity program, end to end
 
 - **F1–F2:** the conditioning-network N; the anti-smuggle admissibility rule; step atomicity. **Done.**
-- **F4–F7:** the flat tier — c = 1 (the unit), the Lorentzian metric, Aut(N) = SO⁺(1,3). **Sealed** (modulo cited prior materials).
+- **F4–F7:** the flat tier — `c = 1` and the direct-bound null relation are native; the Lorentzian metric and `Aut(N) = SO^+(1,3)` are **Secured conditionally and Registered–Sealed on the stated direction carrier/manifold**. P7/G1 carrier recovery remains incompletely sealed.
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
 - **F10:** genuine curvature — sign forced by atomicity, geodesic motion and tidal deviation verified by independent simulation. **Core done** (weak-field static 2+1; full-tensor/strong-field ahead).

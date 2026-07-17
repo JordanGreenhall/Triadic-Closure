@@ -25,7 +25,7 @@ Item 2's PASS quietly upgrades the weak-field gravity dependency: participation-
 |---|---|---|
 | Curvature = anisotropic re-weighting of realizable-next null directions by the participation gradient | **Registered** | Rests on Item 2, now PASS. Gravity-asymmetry uses no rate, no density, no driver; smuggle-clean. |
 | Weak-field static `g00`: participation gradient → Newtonian potential; F9 tilt → geodesic deflection | **Registered** | Item-2 functional dependency is now discharged. Weak-field gravity stands without the prior caveat. |
-| Lorentzian signature / metric re-coupling symmetry | **Registered and Sealed** | Uses Alexandrov-Zeeman as a named external theorem; honestly flagged import, not a smuggle. |
+| Lorentzian signature / metric re-coupling symmetry | **Secured conditionally; Registered–Sealed on a given carrier/manifold** | P5 Secures the null unit-identity natively. The full interval and re-coupling theorem use Alexandrov-Zeeman as a named external implication and do not seal P7/G1 carrier recovery. |
 | `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by [grqm-conflict-status](grqm-conflict-status.md): scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open. |
 | Stress-energy three offices: From=flux, This=energy, With=relational stress | **Registered representationally** | Dynamical population Conjectured; With-mode remains the unproven gate. |
 | Full Einstein form | **Registered conditional / Conjectured nonlinear** | Rests on native one-step-conditioning second-order route conditional on G1 plus Lovelock-style tensor rigidity; not Sealed. |
@@ -37,7 +37,7 @@ Item 2's PASS quietly upgrades the weak-field gravity dependency: participation-
 
 Gravity is the sector where established mathematics is legitimately load-bearing, provided the imports are flagged.
 
-- **Alexandrov-Zeeman:** null-cone-preserving structure gives Lorentzian form. The corpus treats this as an external established theorem, not a framework primitive.
+- **Alexandrov-Zeeman:** on the stated carrier/manifold, null/causal preservation gives the Lorentz transformation class. The corpus treats this as external established mathematics, not a framework primitive or a construction of the carrier.
 - **Lovelock / tensor rigidity:** given second-order metric field equations and the usual hypotheses, the Einstein tensor form is forced. The GR/QM ledger reclassifies the use: the second-order premise now has a native one-step-conditioning route, Registered conditional on G1, and Lovelock is treated as rule-given tensor algebra once those premises are admitted. This is still not a Sealed native full-GR derivation.
 
 The failure condition does not occur: weak-field success plus conditional second-order/tensor rigidity is not promoted into a claimed sealed full native Einstein equation.
@@ -52,11 +52,11 @@ The single most promotable gate is the second-order premise. Native route:
 - third-order dependence would require next-nearest conditioning;
 - therefore one-step conditioning locality should imply at most second-order field equations.
 
-The GR/QM ledger promotes this from Conjectured to **Registered conditional on G1**. The honest reason it is not Sealed: it inherits manifold/order recovery. G1 is now split — dimension/criticality/frame-freedom Registered, smoothness Registered-not-Sealed, exact local Lorentz a defended posit — but the completed metric-manifold/order theorem is still not sealed.
+The GR/QM ledger promotes this from Conjectured to **Registered conditional on G1**. The honest reason it is not Sealed: it inherits manifold/order recovery. G1 is now split — dimension/criticality/frame-freedom Registered; smoothness Registered-not-Sealed; exact local Lorentz Secured within its defended-posit ceiling and Registered-not-Sealed — but the completed metric-manifold/order theorem is still not sealed.
 
 ## Verdict
 
-**PASS by separation.** Native weak-field/static gravity is Registered. `Λ` meaning, stress-energy representation, and Lorentz signature are Registered or Sealed with imports flagged. Full Einstein form remains Registered-conditional, now via the native-conditional second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side; Λ magnitude has been advanced by [grqm-conflict-status](grqm-conflict-status.md).
+**PASS by separation.** Native weak-field/static gravity is Registered. `Λ` meaning and stress-energy representation are Registered; the Lorentz theorem is Registered–Sealed only on its given carrier/manifold, with the import and condition flagged. Full Einstein form remains Registered-conditional, now via the native-conditional second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side; Λ magnitude has been advanced by [grqm-conflict-status](grqm-conflict-status.md).
 
 The four hard theorem targets are promotion gates, not load gates. Attempting the nonlinear strong-field construction now would be over-reach.
 

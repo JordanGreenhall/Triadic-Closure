@@ -55,7 +55,7 @@ Nothing in this construction requires the P3 exchange sectors. Nothing requires 
 | time, dimensional scope | exactly one oriented succession direction | duration, clock readings, continuous parameter, temporal metric coefficient |
 | Lorentzian-signature germ | one orientation-distinguished temporal direction against three unoriented spatial degrees | opposite metric signs, interval `ds^2`, null structure, boosts, `SO^+(1,3)`, local Lorentz symmetry, pseudo-Riemannian geometry |
 
-P5 owns propagation, the link/step identity, invariant velocity, commensuration of temporal and spatial measures, the null interval, and the resulting Lorentz symmetry. P6 owns persistence. P7 owns continuum and manifold recovery. Those later results may spend P4's dimensional partition; P4 may not spend them as its proof.
+P5 owns propagation, the link/step identity, invariant velocity, commensuration of temporal and spatial measures, the direct-bound null relation, and the Lorentz theorem on a stated carrier/manifold. P6 owns persistence. P7 owns continuum and manifold recovery. Those later results may spend P4's dimensional partition; P4 may not spend them as its proof, and P5's conditional theorem may not be inflated into P7 recovery.
 
 ## Rejected and superseded routes
 
