@@ -2,11 +2,12 @@
 title: Physics Domain Mature Status
 type: overview
 created: 2026-06-21
-updated: 2026-07-16
+updated: 2026-07-17
 status: control
 confidence: medium
 sources:
   - physics-registration-theorem.md
+  - physics-boundary-and-four-images.md
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
   - domain-entry-method.md
@@ -62,8 +63,8 @@ The physics walk must remain framework-grounded.
 |---|---|---|---|
 | P1 physics admission and registration control | Native control rule; PASS as dependency map | Secured as an execution construction from F4, the proposed physics boundary, and C2. It separates mathematical availability, physical occupancy, source class, and mature-name registration. | Supplies no warrant to the physics gate or any consumer; mapped consumers retain their local conditions and debts. |
 | Domain-entry discipline | Current F4 execution control; registration inapplicable | Presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and D-series tracing are explicit. | Enforce on every new physics page. The method contributes no warrant to the physics claims it audits. |
-| Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |
-| Four framework readings at an occupied boundary; physical time/space/internal mappings | Native framework construction; physical registrations separate | F3 secures the marked office-kind and three unit-altitude readings by construction. F4 makes their boundary use conditional on occupancy. | Time, space, and internal/color language may be spent only under their owning physics registration records. |
+| P2 selected physics constraint: self-transforming / invariant / coherent | Native boundary proposal; actual positive gate Conjectured | The selection and its three-office articulation are explicit; F4's peer-level From-to-With gate debt remains open. | Conditional use only. The rule neither proves the physics gate nor D1 occupancy. See [physics-boundary-and-four-images](physics-boundary-and-four-images.md). |
+| P2 four images and physical readings | Generic construction Secured/Native; bounded physical names Registered conditionally | F3 secures the marked office-kind and three unit-altitude readings. Given an actual boundary and occupied D1, their co-presence is Secured by dependency. | Physics D1 occupancy remains Conjectured. Causation/time/space/internal-color terms carry the exact P2 quarantines; none is Registered–Sealed here. |
 | Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |
 | Boson/fermion essence | Registered and Sealed | Bidirectional content-identity between ± holding-mode and properly stripped boson/fermion essence. | Spin-statistics is deployment-context, not essence. |
 | Pauli/Bose holding result | Registered and Sealed | Follows from symmetric/antisymmetric holding and coincidence. | Does not require importing spin. |

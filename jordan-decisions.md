@@ -2,7 +2,7 @@
 title: Jordan Decisions
 type: overview
 created: 2026-06-21
-updated: 2026-07-15
+updated: 2026-07-17
 status: historical
 confidence: high
 historical_sources:
@@ -17,7 +17,7 @@ This page is historical provenance for four direct Jordan rulings. Each ruling h
 
 - Vertical/horizontal language: [vertical-and-horizontal](vertical-and-horizontal.md).
 - Tool discipline: [known-failure-modes](known-failure-modes.md) and [agent-execution-rules](agent-execution-rules.md).
-- Color as This-flattening: [physics-walk-D1-D5-consolidated](physics-walk-D1-D5-consolidated.md) and [gauge-structure-result](gauge-structure-result.md).
+- Color as This-flattening: [physics-boundary-and-four-images](physics-boundary-and-four-images.md), [physics-walk-D1-D5-consolidated](physics-walk-D1-D5-consolidated.md), and [gauge-structure-result](gauge-structure-result.md).
 - Exact `3+1`: [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
 
 The sections below preserve ruling provenance only.

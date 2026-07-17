@@ -10,6 +10,12 @@ Before Part 0 is spent, run the [Physics Registration Rule](physics-registration
 
 ---
 
+## P2 — BOUNDARY AND FOUR-IMAGE CONTROL
+
+Run [Physics Boundary and Four Images](physics-boundary-and-four-images.md) whenever the physics gate, D1, causation, time, space, or internal/color language is spent. Keep the F3 four-image construction separate from the selected physics boundary and from D1 occupancy. The positive physics gate and D1 occupancy remain Conjectured. Use the four familiar names only within their P2 licensed cores; exact `3+1`, statistics, propagation, persistence, manifold recovery, and mature gauge content belong to later units.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:

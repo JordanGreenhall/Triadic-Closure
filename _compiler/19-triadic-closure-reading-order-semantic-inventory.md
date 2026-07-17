@@ -44,6 +44,14 @@ Status: adjudicated orientation artifact. This file governs reader orientation a
 
 ---
 
+## TCR-005A — Physics boundary and four-image readings remain condition-separated
+
+**Canonical formulation:** F3 secures one marked triad and three flattenings as Native framework images. P2 selects self-transforming / invariant / coherent as the proposed physics rule, while retaining the Conjectured positive-gate and D1-occupancy debts. Conditional on an actual boundary and occupied D1, the four images are co-present and license only bounded uses of threefold causation, time, space, and internal/color-type distinction. Exact dimension, statistics, propagation, persistence, manifold recovery, and mature gauge content require later owning units.
+
+**Standing:** current P2 dependency and name-boundary control.
+
+---
+
 ## TCR-006 — Control pages are discovery maps, not automatic semantic governors
 
 **Canonical formulation:** Physics status matrices, work plans, consolidated walks, source maps, and dimensionality controls should be consulted early because they identify live families, known supersessions, and open gates. Their statements must still be checked against the most advanced detailed derivations, repairs, and downstream expenditures for each claim.
