@@ -2,7 +2,7 @@
 title: Triadic Structure of Relating
 type: gateway
 created: 2026-06-21
-updated: 2026-07-16
+updated: 2026-07-17
 status: current
 sources:
   - triadic-structure-of-relating-rev-canonical.md
@@ -41,10 +41,9 @@ The governing terminology is maintained in [Vertical and Horizontal](vertical-an
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
 | Admissible / realizable / actual as nested office-readings. | **Secured by construction.** | Working modal cores only; probability, weighting, possible-worlds ontology, and extra occurrence-modes excluded. | **Registered** |
-| Domain boundary and bootstrap under boundary-plus-triad. | **Secured by construction.** | Conditional on an actual boundary; no domain or D1 occupancy forced. | **Native** |
-| Positive gate transition from standing ground to boundary-With. | **Conjectured.** | Missing the full framework-native From→With trace. | **Native** |
-| Whole-ground inheritance given an exhibited gate. | **Secured by dependency**, conditional on the gate. | Certified constraints remain binding at inherited grades; active phase-local expenditure must still be exhibited. | **Native** |
-| D-series phase-form and strict dependency order. | **Secured by construction and dependency.** | Form and adjacency only; no occupancy, richness, or inventory claim. | **Native** |
+| A valid nonempty admissibility constraint is a domain boundary; its extension is D1. | **Secured by construction.** | An empty or merely proposed rule is a candidate constraint. No second gate or occupancy claim is required. | **Native** |
+| Whole-ground inheritance under the boundary. | **Secured by dependency.** | Certified constraints remain binding at inherited grades; only genuinely additional later structure requires construction. | **Native** |
+| D-series later phase-form and strict dependency order. | **Secured by construction and dependency.** | D1 follows from boundary nonemptiness; D2 and later require their additional structures. No richness or inventory claim. | **Native** |
 
 The governing operating page is [Domain Entry Method](domain-entry-method.md).
 
@@ -62,9 +61,9 @@ Completion does not entail relative stability, D6 persistence, or D7 passability
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
 | The held/registered seam is available wherever a basis holds determinate contents. | **Secured by dependency.** | A basis registers character without recovering the full individuation of what it holds. | **Native** |
-| The seam-cut From and boundary-With exhibit an entry into mathematics. | **Secured by construction** for this gate; the boundary-content is a licensed selection. | Admits content exactly when identity-conditions are exhausted by registration. Excludes event-particularity and internal designation; retains vertical form, conditionedness, and orientation. Does not close the generic From→With joint. | **Registered** as **mathematics** for this mapped core; ordinary mathematical surplus is quarantined. |
+| The seam-cut constraint is valid and nonempty and therefore establishes entry into mathematics. | **Secured by construction**; the boundary-content is a licensed selection. | Admits content exactly when identity-conditions are exhausted by registration. Excludes event-particularity and internal designation; retains vertical form, conditionedness, and orientation. | **Registered** as **mathematics** for this mapped core; ordinary mathematical surplus is quarantined. |
 | Isomorphism-invariance, portability, and the lineage-event / lineage-structure distinction follow from the selected boundary. | **Secured by dependency** to the displayed traces. | Event-history is excluded; registrable order-type remains. Portability means the gate is available from any holding, not that every mathematical theory is derived. | Registration inherited from the boundary record; no additional legacy content licensed. |
-| D1 registration is boundary-registration; internal bases begin only after first content. | **Secured by construction** within the exhibited gate. | Prevents an internal mathematical basis from being imported before D2. | **Native** |
+| D1 registration is boundary-registration; internal bases begin only after first content. | **Secured by construction** within the established boundary. | Prevents an internal mathematical basis from being imported before D2. | **Native** |
 | The first mathematical content is an unmarked dyad plus distinct orientation-form. | **Secured by construction** within the selected boundary. | Internal two-ness, mutual exclusion, identical position-character; the cut and With-held multiplicity block collapse. Labels are scaffolding and every construction must be exchange-equivariant. | **Native** |
 | “Weak discernibility” names the dyad’s relational discernment without monadic difference. | Framework core **Secured** by the preceding construction. | Only the stated irreflexive discernment mapping is licensed. | **Registered**, not Registered–Sealed; further legacy implications are quarantined. |
 

@@ -9,7 +9,7 @@ For involutive `J`, at a scalar grade where `2` is invertible, the only eigencla
 
 **Adjudication:** retained over M5's rational scalar construction and, more generally, any scalar grade where `2` is invertible.
 **Framework standing:** Secured by the factorization `(λ-1)(λ+1)=0` over the stated scalar condition.
-**Registration:** the two eigensectors are Registered–Sealed within that algebraic scope; physical boson/fermion occupancy is not included.
+**Registration:** the two eigensectors are Registered–Sealed within that algebraic scope. Their inheritance inside the physics domain follows from whole-ground inheritance; the mature boson/fermion name remains limited to P3's exchange-mode core.
 
 ## TSR-097 — The sectors are eigensectors, not exchanged stocks
 The decomposition is direct-sum complementarity of fixed and negated components, not a topological partition.
@@ -17,11 +17,11 @@ The decomposition is direct-sum complementarity of fixed and negated components,
 **Adjudication:** retained.
 **Claim standing:** Registered.
 
-## TSR-098 — Bosonic/fermionic readings are recognition only
-Physical names do no work in the mathematical derivation.
+## TSR-098 — Bosonic/fermionic readings are bounded registrations
+Physical names do no work in the mathematical derivation, but P3 may register them over the inherited exchange-mode core without introducing a second kind of object.
 
 **Adjudication:** retained for the foundation and routed to [P3](../boson-fermion-and-holding-statistics.md) for physics use.
-**Claim standing:** the algebraic exchange-mode correspondence is Registered–Sealed within its declared scope; physical occupancy remains Conjectured internally and independently empirical. Pauli/Bose deployment additionally requires an admitted occupied D2 holding.
+**Claim standing:** the algebraic exchange-mode correspondence is Registered–Sealed within its declared scope. The two modes remain constitutive inside D1 by whole-ground inheritance. Pauli/Bose deployment additionally requires the D2 same-kind holding construction; universal later sector-purity, spin-statistics, Fock/Hilbert structure, and matter/force roles remain outside P3's reach.
 
 ## TSR-099 — The mathematics gate-package contains certified structural resources only
 It supplies unmarked polarity, `J`, two exchange sectors, preservation of registered distinction, integer grading, M4 same-summand decomposition at the `2`-invertible additive grade, and M5's rational scalar field, free rational module, and exhibited perfect symmetric `J`-invariant pairing. M6 adds valid rule-cut admissibility, scalar and least-upper-bound schemas relative to a selected closed rule calculus, and the selected quadratic complex extension at that grade. The resulting Hermitian extension is algebraic and non-degenerate. Positive-definite/Hilbert, carrier-specific pairing, unrestricted completeness, topology, measure, and physical continuum deployment are not inherited merely from the mathematics gate.
@@ -127,8 +127,8 @@ Adjacency depends on it, and no independent prior definition has been supplied.
 **Adjudication:** retained as explicit primitive rather than concealed circularity.
 **Claim standing:** Registered as primitive declaration.
 
-## TSR-116 — Generic D-series walking establishes form and adjacency only
-It does not establish domain occupancy or richness.
+## TSR-116 — Generic D-series walking supplies D1 and later form/adjacency
+An established boundary supplies D1. The generic walk does not establish D2-or-later construction or domain richness.
 
 **Adjudication:** retained.
 **Claim standing:** Registered scope rule.
@@ -136,7 +136,7 @@ It does not establish domain occupancy or richness.
 ## TSR-117 — Physics inherits only the rule-given gate grade
 Physics may spend M6 only by naming an admitted rule presentation and showing that its calculus is closed under the operation invoked. It must separately earn continuum deployment on a physical carrier, manifold recovery, time, energy, spacetime, and dynamics; D6 coherence, physics-fit re-derivation, and impredicativity audits remain debts.
 
-Every such expenditure also passes P1: mathematical availability is not physical occupancy, and the physics boundary, participation trace, source class, two-axis record, and mature-name boundary must be exhibited. P1 is a control rule and supplies none of the missing physics content.
+Every such expenditure also passes P1: it must satisfy the established physics boundary and record its source class, inherited warrant, two-axis reach, and mature-name boundary. P1 is a control rule and supplies none of the missing physics content; it also does not demand a second physical-population or participation proof for inherited structure.
 
 **Adjudication:** repaired so “rule-given” cannot function as a blank authorization for standard completed-continuum machinery.
 **Framework standing:** Secured as a gate restriction. Each physical expenditure remains conditional until its presentation, closure, and carrier are exhibited; listed debts remain Open.

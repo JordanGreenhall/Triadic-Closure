@@ -2,7 +2,7 @@
 title: Domain Entry Method
 type: method
 created: 2026-06-23
-updated: 2026-07-16
+updated: 2026-07-17
 status: current
 confidence: high
 sources:
@@ -20,14 +20,14 @@ This is the governing F4 method for moving from a standing ground into a success
 
 | Claim | Framework state and warrant | Reach / condition | Registration |
 | --- | --- | --- | --- |
-| A domain boundary is an actual With whose determinate content is an inclusion/exclusion rule. | **Secured by construction** from the office and modal records. | Governs contents under the boundary; does not establish that the boundary admits any internal actual. | **Native** |
-| A gate positively carries a standing ground into a new boundary-With. | **Conjectured** as a full account. | The gate grammar is articulated, but the peer-level framework-native From→With dependency trace remains open. | **Native** |
-| Given an actual boundary-With, the triad can bootstrap under boundary-plus-triad. | **Secured by construction**, conditional on the boundary and inherited foundation record. | Secures the form of an occupied D1; does not force occupancy. | **Native** |
-| Given an exhibited gate, the successor inherits the standing ground whole as constraint. | **Secured by dependency**, conditional on that gate. | Every certified prior distinction remains binding at its inherited grade. Inheritance does not require every feature to be actively instantiated or spent in every successor content. | **Native** |
-| The D-series fixes phase-form and strict dependency order when phases are occupied. | **Secured by construction and dependency**. | Form and adjacency only. Occupancy, richness, and completeness over possible phases are excluded. | **Native** |
-| A D6-persisting closure may serve as ground for a D7 handoff. | **Secured by dependency**, conditional on an exhibited gate. | Which ground is selected, whether a successor gate fires, and what boundary it opens remain domain-specific. | **Native** |
+| A domain boundary is a determinate admissibility constraint that is valid in the standing ground and nonempty there. | **Secured by construction** from the office, modal, and admissibility records. | A merely proposed or empty rule is a candidate constraint, not a boundary. Nonemptiness may be established by construction or theorem within the standing ground; no second kind of actuality is required. | **Native** |
+| Selecting a valid nonempty constraint establishes the boundary-With and successor domain. | **Secured by construction and dependency**. | The boundary is the constraint itself, not the result of an additional gate event. The domain is the standing ground conditioned by that constraint. | **Native** |
+| A boundary's nonempty extension is its D1 content. | **Secured by construction**, conditional only on the valid nonempty boundary and inherited foundation record. | D1 is not a second occupancy claim beyond boundary nonemptiness. The exact population and richness of D1 remain domain-specific. | **Native** |
+| The successor inherits the standing ground whole as constraint. | **Secured by dependency**. | Every certified prior distinction remains binding at its inherited grade. Inheritance does not require every feature to be actively instantiated or spent in every later construction. | **Native** |
+| The D-series fixes phase-form and strict dependency order after D1. | **Secured by construction and dependency**. | A boundary supplies D1; D2 and later phases require their own additional constructions. Richness and completeness over possible phases are excluded. | **Native** |
+| A D6-persisting closure may serve as ground for a D7 handoff. | **Secured by dependency**, conditional on a valid nonempty successor constraint. | Which ground and successor constraint are selected remain domain-specific; no additional gate-firing event is owed. | **Native** |
 
-The gate-transition debt is load-bearing and explicit. F4 normalizes the conditional method; it does not pretend to close the open From→With bridge.
+F4 does not posit a second transition between a valid nonempty admissibility constraint and the domain it defines. Requiring an additional gate event, physical bearer, or occurrence-stuff at that point imports an ontology the framework does not share.
 
 ## 1. Presupposition audit
 
@@ -42,17 +42,18 @@ Before a familiar domain concept does load-bearing work:
 
 Dissolution of a phantom problem is useful audit evidence, not framework warrant. The reconstruction must stand by its own exhibited route. A demand is dissolved only when its obligation has been shown to depend on a presupposition the framework does not share; an unanswered live question is not thereby a smuggled demand.
 
-## 2. Exhibit the gate
+## 2. Establish the boundary
 
-A domain entry record must identify separately:
+A domain entry record must identify:
 
-- **standing ground** — the D6-persisting closure proposed for gate-ground use, with its grades, conditions, and debts; closure alone does not supply persistence or passability;
-- **gate-From** — the proposed bridge from that ground;
-- **boundary-With** — the actual inclusion/exclusion rule;
-- **domain** — what unfolds under that rule;
-- **bootstrap** — the triad running under boundary-plus-triad.
+- **standing ground** — the closure on which the proposed constraint is defined, with its grades, conditions, and debts;
+- **candidate constraint** — the determinate inclusion/exclusion rule stated only in licensed ground terms;
+- **validity** — why the rule is admissible and coherent in that ground;
+- **nonemptiness** — the construction or theorem establishing that some ground content satisfies it;
+- **boundary-With** — the valid nonempty constraint itself;
+- **domain and D1** — respectively the ground conditioned by the constraint and its admitted contents.
 
-Do not use the existence of a familiar successor domain as proof that the gate has been constructed. If the positive ground-to-boundary bridge is not exhibited, retain the Conjectured joint while continuing any analysis that is valid conditional on the boundary.
+Do not use the familiar name or mature contents of a successor discipline to establish validity or nonemptiness. Conversely, once those two conditions are secured, do not manufacture a further proof that the constraint becomes a boundary or that its admitted contents become “physical.” That would count the same domain entry twice.
 
 ## 3. Inherit the ground whole
 
@@ -68,17 +69,17 @@ Thus the ground is not a buffet of optional premises, but neither is inheritance
 
 A boundary selects; it does not add. Domain-specific content must be constructed under the boundary, selected under an explicit license, or recognized only after a Secured core exists.
 
-## 4. Bootstrap and occupancy
+## 4. D1 and later phase construction
 
-A boundary-With may stand before the domain has internal actuals. The bootstrap then runs the triad under the boundary. If a first internal actual stands, it is a boundary-conditioned distinction completed as closure.
+A candidate constraint may be well formed yet empty. It becomes a boundary only when validity and nonemptiness are secured. Its nonempty extension is already the domain's D1: boundary-conditioned distinctions standing as closures.
 
-Keep three claims separate:
+Keep three later-phase claims separate:
 
-- **forced dependency** — a later occupied phase requires the earlier occupied phases named in its trace;
-- **forced form** — if a phase is occupied, its form is office-constrained;
-- **forced occupancy** — the phase must occur.
+- **forced dependency** — a later phase requires the earlier phases named in its trace;
+- **forced form** — if a later phase is constructed, its form is office-constrained;
+- **later-phase construction** — D2 and beyond must add the relation, recursion, invariance, variation, persistence, or handoff their phase names.
 
-F4 secures the first two at their stated reach. It does not secure the third. Not even D1 is guaranteed: a boundary may admit no realizable internal actuals.
+F4 secures the first two at their stated reach. It does not secure later phases merely because D1 stands. The old statement that a boundary may lack D1 was ill-typed: an empty rule is not yet a boundary.
 
 ## 5. The D-series
 
@@ -86,7 +87,7 @@ The D-series is a selected path-schema at recognized sufficiency, not an invento
 
 | Phase | Framework form if occupied | Dependency boundary |
 | --- | --- | --- |
-| D1 — Distinction | Distinguishable closures stand under the boundary. | No stability or persistence language. |
+| D1 — Distinction | The boundary's admitted contents stand as distinguishable closures. | Supplied by boundary nonemptiness; no stability or persistence language. |
 | D2 — Relation | Holdings over standings stand as actuals. | Requires D1 standings. |
 | D3 — Recursion | An actual holding is taken at unit-altitude; closures compose into further closures. | Requires D2 holdings; “same kind” means again-a-closure, not the same registered type. |
 | D4 — Invariance | A basis registers sameness across really distinct stages of admissible passage. | Requires D3 lineage; symmetry, group, and conservation remain quarantined. |
@@ -94,7 +95,7 @@ The D-series is a selected path-schema at recognized sufficiency, not an invento
 | D6 — Persistence | The invariant is preserved coherently across passages through the D5 variation-space. | Requires D5; temporal endurance is not included. |
 | D7 — Passability | A persisting closure is selected as standing ground for a proposed successor gate. | Requires D6 and an exhibited successor boundary; no candidate is forced. |
 
-Occupancy is certified only by construction and backward trace: exhibit the domain object, decompose the phase-forms, and show each is present in dependency order without imported later content.
+After D1, a phase is certified by construction and backward trace: identify the additional phase-form and show that its dependencies are present in order without imported later content. This is not a renewed proof that the contents belong to the domain.
 
 ## 6. Registration controls for phase language
 
@@ -123,13 +124,13 @@ Likewise, time, space, color, particle, field in the physical sense, boson, ferm
 
 ## Frontier
 
-Two debts remain live:
+Two boundaries remain live:
 
-1. **From→With gate transition:** Conjectured. Missing is a peer-level framework-native dependency trace from the Secured minimal From core to medium- or boundary-conditioning.
-2. **Per-domain occupancy:** no phase is occupied by schema alone. Each domain owes construction and backward trace.
+1. **Candidate constraints:** a proposed rule is not a boundary until its validity and nonemptiness in the standing ground are secured.
+2. **Later phases:** D2 and beyond are not supplied by D1 alone. Each claimed phase owes its additional construction and backward trace.
 
-The first is recorded locally in the canonical gate section and globally in its standing open-joints table. The second is the governing scope line of the D-series.
+Neither boundary licenses an extra proof demand between an established boundary and D1.
 
 ## Place in the corpus
 
-Read this after [Architectonic Rigor](architectonic-rigor.md), [Triadic Structure of Relating](triadic-structure-of-relating.md), and [Vertical and Horizontal](vertical-and-horizontal.md), before any domain walk. For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md) next; P1 applies this generic method to physical admission and mature-name control without contributing warrant to a physics claim. The older [Entering a New Domain](entering-a-new-domain.md) is retained only as a historical physics worked example and may not override this control.
+Read this after [Architectonic Rigor](architectonic-rigor.md), [Triadic Structure of Relating](triadic-structure-of-relating.md), and [Vertical and Horizontal](vertical-and-horizontal.md), before any domain walk. For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md) next; P1 applies this generic method to boundary membership, genuinely additional claims, and mature-name control without contributing warrant to a physics claim. The older [Entering a New Domain](entering-a-new-domain.md) is retained only as a historical physics worked example and may not override this control.

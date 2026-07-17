@@ -1,12 +1,12 @@
 # The D2 Walk: With Activated — Full Results
 
-### The complete record of the D2 (With) walk for the physics domain. [P3](boson-fermion-and-holding-statistics.md) governs its mode/statistics claims: D2 conditionally inherits admitted D1 contents with symmetric or antisymmetric holding-capacity, while physical occupancy, universal sector-purity, and the proposed minimal-This construction remain unproved here. Part 0 arrives as the full terminal mathematical object at each item's exact grade and debt.
+### The complete record of the D2 (With) walk for the physics domain. [P3](boson-fermion-and-holding-statistics.md) governs its mode/statistics claims: D1 inherits the two nontrivial `J` modes whole under the established physics constraint, while D2 same-kind holding, universal later sector-purity, and the proposed minimal-This construction remain additional claims at their owning units. Part 0 arrives as the full terminal mathematical object at each item's exact grade and debt.
 
 ---
 
 ## 0. What D2 is
 
-D2 is the activation of **With** — the filling of D1's coupling-slots, which at D1 were present only as intrinsic capacity. D2 is the stage of relationship between admitted D1 contents. Conditional on sector-pure occupants, same-kind holding can deploy the `+1` or `-1` capacity. P3 does not infer the existence of those occupants from the mathematical decomposition.
+D2 is the activation of **With** — the filling of D1's coupling-slots, which at D1 were present only as intrinsic capacity. D2 is the stage of relationship between D1 contents. When a later construction supplies sector-pure same-kind holding, it can deploy the inherited `+1` or `-1` capacity. P3 supplies the modes inside D1; it does not supply that later holding construction or a universal sector-purity rule.
 
 A methodological note that governs the whole walk below: at several points the natural first impulse was to **hedge** — to register a result as "germ only," "not the full thing," "carried, not yet claimed." On inspection these hedges were *performative*, not rigorous. Removing them and asking what the From-as-constraint actually *forces* revealed that substantial content is **framework-required at D2** — present in full form, not merely in germ. The discipline applied throughout: do not hedge what is earned; do not claim what is not; let the simple thing land, because the simple landing is what makes the next step available.
 
@@ -26,7 +26,7 @@ Apply individuation without haecceity: no brute identity labels may do work, and
 - **Boson–boson holding (symmetric mode).** Symmetry introduces no sign that forces a complete-state diagonal to vanish. This permits same-state co-occupation; it does not guarantee occupation, remove occupation number, or prove unlimited multiplicity. **Bose co-occupation.**
 - **Fermion–fermion holding (antisymmetric mode).** For complete-state coincidence, `A(x,x)=-A(x,x)` and `2`-invertibility give `A(x,x)=0`. Spatial coincidence with a remaining internal distinction is not complete-state coincidence. **Pauli exclusion.**
 
-**P3 record.** The algebraic consequences are Secured by construction, conditional on the admitted holding. **Pauli exclusion** is Registered–Sealed for diagonal vanishing on complete-state coincidence. **Bose co-occupation** is Registered–Sealed for absence of the exchange-sign prohibition. No spin is invoked. The seals do not include physical occupancy, spatial-only exclusion, unlimited occupation, a Fock construction, or Bose/Fermi distributions.
+**P3 record.** The algebraic consequences are Secured by construction, conditional on the D2 same-kind holding. **Pauli exclusion** is Registered–Sealed for diagonal vanishing on complete-state coincidence. **Bose co-occupation** is Registered–Sealed for absence of the exchange-sign prohibition. No spin is invoked. The seals do not include spatial-only exclusion, unlimited occupation, a Fock construction, Bose/Fermi distributions, or a universal claim that all later contents are sector-pure.
 
 ## 3. Coupling: interaction, and force-carrier vs matter [later-owner claim]
 
@@ -119,7 +119,7 @@ This carries the Secured-within-ceiling exactly-three premise into the dimension
 
 ## 8. Summary table of D2 results and grades
 
-- **Bose co-occupation / Pauli exclusion** — P3-controlled holding consequences. **Registered–Sealed only within the exact permission/diagonal-vanishing scopes; conditional on admitted physical holding.**
+- **Bose co-occupation / Pauli exclusion** — P3-controlled holding consequences. **Registered–Sealed only within the exact permission/diagonal-vanishing scopes; conditional on the D2 same-kind holding construction.**
 - **Coupling / interaction** — mutual generator-conditioning, slot-compatibility not likeness. **Registered** (the structure).
 - **Force-carrier vs matter** — historical role proposal; not forced or registered by P3. Requires its own physical-role construction.
 - **Hamiltonian** — conserved coherent total generator of the field's joint self-transformation, generating temporal succession, conservation = time-translation invariance; full form, not full articulation; the physics-domain signature in the modal register. **Registered and sealed.**

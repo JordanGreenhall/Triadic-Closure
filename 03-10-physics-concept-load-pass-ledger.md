@@ -3,7 +3,7 @@ title: "Frontier Items 3-10: Physics Concept Load and Native-Derivation Pass Led
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-17
 scope: frontier-items-3-10
 sources:
   - 03-epsilon-su3-bridge/03-epsilon-su3-bridge Readme.md
@@ -200,9 +200,9 @@ See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 
 - **Physics concept:** Fermions obey exclusion/antisymmetric holding; bosons allow symmetric/shared occupation.
 - **Actual physics job:** Statistics and occupancy behavior in stripped essence.
 - **Current framework use:** Conditional exchange-mode and holding-statistics control under [P3](boson-fermion-and-holding-statistics.md).
-- **Grade:** The mathematical `+1/-1` eigensectors are **Secured** at the `2`-invertible grade. Boson/fermion is **Registered–Sealed** only for admitted sector-pure exchange modes. Pauli is **Registered–Sealed** for antisymmetric complete-state diagonal vanishing; Bose is **Registered–Sealed** for absence of that exchange-sign prohibition.
-- **Boundary:** Physical occupants remain internally Conjectured; P3 supplies no universal sector-purity, spatial-only exclusion, unlimited occupation, Fock/Hilbert structure, spin, module, particle-bundle, or matter/force role.
-- **Fail condition:** Mathematical sector-inhabitation is treated as physical occupancy, or the scoped seals are used to smuggle any excluded surplus.
+- **Grade:** The nontrivial `+1/-1` eigensectors are **Secured** at the `2`-invertible grade and inherited whole inside D1. Boson/fermion is **Registered–Sealed** for that exchange-mode core. Pauli is **Registered–Sealed** for antisymmetric complete-state diagonal vanishing under D2 same-kind holding; Bose is **Registered–Sealed** for absence of that exchange-sign prohibition.
+- **Boundary:** P3 supplies no universal later sector-purity, spatial-only exclusion, unlimited occupation, Fock/Hilbert structure, spin, module, particle-bundle, or matter/force role.
+- **Fail condition:** A second physical-population proof is demanded for inherited exchange modes, or the scoped seals are used to smuggle any excluded surplus.
 
 ---
 

@@ -28,7 +28,7 @@ The central tool is the coherence-fixed-point, already established in the mass a
 
 ## Dependency audit, and the honest boundary on "atom"
 
-Everything a persistence stage should yield is present: persistence-essence, bound states, stability, decay, identity-over-time. The first persistent structures — stable bound coherence-fixed-points of charged closures — are proposed here against charged fermionic closures (quark/lepton), gauge couplings (SU(3)×SU(2)×U(1)), bound-state structure, and stability. [P3](boson-fermion-and-holding-statistics.md) supplies only the scoped fermion exchange-mode registration and complete-state exclusion consequence; it does not supply these occupants, charges, particle identities, gauge roles, or persistence.
+Everything a persistence stage should yield is present: persistence-essence, bound states, stability, decay, identity-over-time. The first persistent structures — stable bound coherence-fixed-points of charged closures — are proposed here against charged fermionic closures (quark/lepton), gauge couplings (SU(3)×SU(2)×U(1)), bound-state structure, and stability. [P3](boson-fermion-and-holding-statistics.md) supplies only the scoped fermion exchange-mode registration and complete-state exclusion consequence; it does not construct those charged closures, particle identities, gauge roles, or persistence.
 
 But "atom" as a mature concept must not be over-claimed. What is in essence here is a **stable bound charged structure** — a coherence-fixed-point of charged closures held by gauge coupling. The *specific* atom (electromagnetic binding of electron and nucleus, Pauli shell-filling) additionally needs the electromagnetic identification (the U(1)-root is standing but its reading as unbroken electromagnetism is not yet sealed — flagged open in the gauge result) and the absolute value-scale (open). So the persistent-bound-charged-structure registers; "atom" specifically is not sealed, its electromagnetic-specific and scale content overflowing the essence. This is the same discipline applied to matter-extension at D3: seal the essence, not the mature name.
 
@@ -46,7 +46,7 @@ But "atom" as a mature concept must not be over-claimed. What is in essence here
 
 ## The D7 handoff
 
-Persistent bound closures may serve as standing grounds for a proposed physics→chemistry gate. They do not automatically become “primitives of chemistry,” and a higher stratum is not by itself a new domain. F4 requires an exhibited gate-From and chemistry boundary-With; only then may the licensed persistent structures serve as successor relata. Given such a boundary and occupied phases, the same office-form recurs: an atom can stand as a This, atoms can be held in relation, and further closures can form.
+Persistent bound closures may serve as standing ground for a proposed physics→chemistry boundary. They do not automatically become “primitives of chemistry,” and a higher stratum is not by itself a new domain. F4 requires a determinate chemistry constraint shown valid and nonempty in that ground; that constraint is the boundary and its extension is chemistry D1. Later chemistry phases still require their own constructions: an atom can stand as a This, atoms can be held in relation, and further closures can form.
 
 ## Result
 

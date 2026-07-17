@@ -35,7 +35,7 @@ This page maps curated physics pages to their principal upstream sources in the 
 
 Additional method sources:
 
-- [physics-registration-theorem](physics-registration-theorem.md) — governing P1 physics-admission and semantic-boundary control
+- [physics-registration-theorem](physics-registration-theorem.md) — governing P1 boundary-membership, additional-claim, and semantic-registration control
 - [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — governing P2 physics-boundary, D1-placement, and four-name control
 - [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) — governing P3 exchange-mode and Pauli/Bose holding control
 - [domain-entry-method](domain-entry-method.md) — governing F4 control

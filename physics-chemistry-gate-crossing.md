@@ -243,7 +243,7 @@ This deposit exhibits one proposed physics→chemistry handoff and motivates a c
   is proposed as maximizing catenation (its D3);
 - the biology projection remains recognition with no load-bearing use.
 
-**F4 boundary:** one proposed instance cannot secure or semantically register a universal handoff law. The general statement is **Conjectured** and **Unregistered**. The generic F4 result is narrower: D7 selects a D6-persisting ground under the characteristics required by an exhibited successor boundary; whether a gate fires, which ground is selected, and whether “residue” or “recursion-maximization” describes further gates are domain-specific.
+**F4 boundary:** one proposed instance cannot secure or semantically register a universal handoff law. The general statement is **Conjectured** and **Unregistered**. The generic F4 result is narrower: D7 selects a D6-persisting ground under the characteristics required by a successor constraint; when that constraint is valid and nonempty it is the boundary and supplies successor D1. Which ground and constraint are selected, and whether “residue” or “recursion-maximization” describes further handoffs, are domain-specific.
 
 ---
 

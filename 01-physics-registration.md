@@ -7,18 +7,18 @@ dependencies:
   - F4
   - M6
   - C2
-updated: 2026-07-16
+updated: 2026-07-17
 ---
 
 # Target
 
-State the exact registration rule for first-physics standings: what is preserved
-from mathematics, what physics boundary and participation conditions apply, and
-what remains only semantic recognition, empirical observation, or comparison.
+State the exact expenditure and registration rule for physics standings: what is preserved
+from mathematics, how the established physics boundary applies, which later claims add
+real construction burdens, and what remains only semantic recognition, empirical observation, or comparison.
 
 ## Corrected pass/fail status
 
-**PASS as a control and dependency-map unit.** The canonical [Physics Registration Rule](physics-registration-theorem.md) now maps the current curated physics surface and states exactly what P1 supplies to each family. The pass licenses P1 as compact admission and anti-smuggle control only. It gives no warrant, registration, or PASS status to a downstream physical claim.
+**PASS as a control and dependency-map unit.** The canonical [Physics Registration Rule](physics-registration-theorem.md) now maps the current curated physics surface and states exactly what P1 supplies to each family. The pass licenses P1 as compact expenditure and anti-smuggle control only. It gives no warrant, registration, or PASS status to a downstream claim.
 
 The historical loop output recorded PASS under a narrower scope, and that PASS was correctly suspended pending a full downstream map. P1 normalization discharges that execution debt without retroactively validating any consumer.
 
@@ -32,8 +32,8 @@ Pre-flight sources read: `SCHEMA.md`, `agent-execution-rules.md`,
   rebuild from offices/registration/sameness-difference/J/rho/modal triad.
 - From-whole inheritance: the successor domain inherits the full prior object, not
   optional selected handles.
-- Proposed physics boundary: self-transforming / invariant / coherent structure;
-  P1 does not supply its warrant or occupancy.
+- Established physics boundary: valid nonempty self-transforming / invariant /
+  coherent structure; P1 audits membership but does not add a second admission.
 - Two-axis discipline: framework state Open / Conjectured / Secured; semantic
   registration Native / Unregistered / Registered / Registered–Sealed.
 - Mature physics may orient or supply empirical observations but cannot supply the
@@ -43,8 +43,8 @@ Pre-flight sources read: `SCHEMA.md`, `agent-execution-rules.md`,
 
 - Treating `particle`, `field`, `mass`, `charge`, `interaction`, or `decay` as
   already physically native merely because mature physics uses those names.
-- Treating formal resemblance / mathematical availability as license for a mature
-  physics-subdomain standing without showing the physics-entry signature.
+- Treating formal resemblance as license for a different mature physics claim,
+  or demanding a second physical actuality for inherited content that satisfies the boundary.
 - Treating empirical observation as framework derivation.
 
 ## Downstream pages affected
@@ -92,7 +92,7 @@ Caution:
 
 ## Decision
 
-**PASS as control/map; no theory regrade.** The phrase “Registered control rule” in the historical output is replaced operationally by a **Native control rule Secured as an execution construction**. Registration applies to inherited physics names, not to the rule's warrant. The positive physics gate, occupancy, and every downstream physical claim retain their own states and debts.
+**PASS as control/map; no theory regrade.** The phrase “Registered control rule” in the historical output is replaced operationally by a **Native control rule Secured as an execution construction**. Registration applies to inherited physics names, not to the rule's warrant. The established boundary and D1 need no second actuality proof; every genuinely additional downstream claim retains its own state and debt.
 
 ## Next loop unlocked
 

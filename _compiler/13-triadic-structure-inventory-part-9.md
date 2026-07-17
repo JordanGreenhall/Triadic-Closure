@@ -26,14 +26,14 @@ A provisional terminal object may guide decomposition, but every component must 
 The gate cuts from held individuation toward basis-registered character.
 
 **Adjudication:** retained. The seam is framework-available by dependency; this domain cut is an exhibited construction whose boundary-content is a licensed selection.
-**Framework standing:** Secured by construction for the mathematics entry; generic positive From→With remains Conjectured.
-**Registration:** Native gate structure. The inherited name `mathematics` is Registered only for the mapped boundary core stated in TSR-095; legacy surplus is quarantined.
+**Framework standing:** Secured by construction for the mathematics entry: the seam-cut constraint is valid and nonempty and therefore is the mathematics boundary. Deeper From→With articulation remains Open but is not a second transition debt.
+**Registration:** Native boundary structure. The inherited name `mathematics` is Registered only for the mapped boundary core stated in TSR-095; legacy surplus is quarantined.
 
 ## TSR-095 — Mathematical identity is exhausted by registration
 Event-particularity, which-taking, embodied occurrence, and internal designation are excluded from identity. Constitutive vertical form, conditionedness, and orientation cannot be excluded.
 
 **Adjudication:** retained as the selected mathematical boundary. The earlier broad exclusion of lineage, address, or arrival without qualification is rejected: event-history is excluded, not registrable structure or vertical form.
-**Framework standing:** Secured by construction within the exhibited gate and selected boundary.
+**Framework standing:** Secured by construction within the selected valid nonempty boundary.
 **Registration:** `Mathematics` is Registered, not Registered–Sealed. Licensed content: identity exhausted by registration under this boundary. Quarantined surplus: every ordinary mathematical primitive, object, operation, totality, or theorem not separately derived.
 
 ## TSR-096 — Mathematics retains lineage-structure but excludes lineage-event
@@ -54,7 +54,7 @@ The gate is available wherever a basis holds content because registered characte
 Internal mathematical bases begin only after the first content.
 
 **Adjudication:** retained.
-**Framework standing:** Secured by construction within the exhibited gate.
+**Framework standing:** Secured by construction within the established boundary.
 **Registration:** Native phase-order claim.
 
 ## TSR-099 — The first mathematical content is an unmarked dyad

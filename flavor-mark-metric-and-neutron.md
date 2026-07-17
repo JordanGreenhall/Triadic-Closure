@@ -52,7 +52,7 @@ This's intrinsic holding-capacity: **boson = the symmetric-mode self-transformer
 the antisymmetric-mode self-transformer.** This is the marked (vertical, J-level)
 distinction; it survives the stripping of mass, charge, color, and spacetime. At this point
 there are fermion and boson in essence and nothing else — no kinds, no quarks, no leptons.
-**[Registered–Sealed only for the conditional sector-pure exchange-mode correspondence; physical occupancy is not supplied here.]**
+**[Registered–Sealed for the inherited exchange-mode core; a later carrier's sector-purity and role are not supplied here.]**
 
 **1.2 The flattened triad — common to both modes.** Beneath the grading sits the primitive
 triad, taken up the recursion, read in its three flattenings by office-signature:
@@ -266,7 +266,7 @@ remains **Conjectured**.
 
 | Claim | Grade | Held by / blocked by |
 |---|---|---|
-| J-sector split (boson/fermion modes) | **Registered–Sealed within P3's conditional sector-pure exchange-mode scope** | [P3](boson-fermion-and-holding-statistics.md); mathematical sectors do not prove physical occupants |
+| J-sector split (boson/fermion modes) | **Registered–Sealed within P3's inherited exchange-mode core** | [P3](boson-fermion-and-holding-statistics.md); later carrier construction, sector-purity, and role retain their own burdens |
 | flattened triad by office-signature (time/space/color) | **Registered** | canonical foundation |
 | **flavor = the three This-aspects marked (three-ness + which three)** | **Registered** | fresh walk §1; registers flavor (was parked empirical) |
 | quark = marked color; closure = color neutrality | **Registered** | Items 3–4, 9 |

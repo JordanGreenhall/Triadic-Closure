@@ -2,7 +2,7 @@
 title: Entering a New Domain — Historical Physics Worked Example
 type: historical
 created: 2026-06-23
-updated: 2026-07-15
+updated: 2026-07-17
 status: historical
 superseded_by:
   - domain-entry-method.md
@@ -11,7 +11,7 @@ superseded_by:
 
 > **Historical scope control.** This page preserves the physics worked-example lineage and its unique presupposition clarifications. It is not the governing generic domain-entry method and may not establish current physics standing. The current controls are [Domain Entry Method](domain-entry-method.md) and the canonical treatise, Parts 3 and 8.
 >
-> Three formulations below are retained as provenance, not executable doctrine: (1) “every inherited characteristic must deploy” is superseded by whole-ground inheritance—every certified constraint remains binding, while phase-local expenditure must be exhibited; (2) D1 form is conditional and D1 occupancy is never forced; (3) the boson/fermion “sealed” record uses historical one-axis language and belongs to its physics owner after translation into independent warrant and registration axes. The marked/flattened wording is likewise governed by [Vertical and Horizontal](vertical-and-horizontal.md).
+> Three formulations below are retained as provenance, not executable doctrine: (1) “every inherited characteristic must deploy” is superseded by whole-ground inheritance—every certified constraint remains binding, while genuinely additional phase-local expenditure must be exhibited; (2) the historical split between a valid nonempty boundary and a separate D1 occupancy is superseded—such a boundary's extension is D1; (3) the boson/fermion “sealed” record uses historical one-axis language and belongs to its physics owner after translation into independent warrant and registration axes. The marked/flattened wording is likewise governed by [Vertical and Horizontal](vertical-and-horizontal.md).
 
 # Entering a New Domain: Architectonic Clarification of Presuppositions
 

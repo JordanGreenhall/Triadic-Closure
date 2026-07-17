@@ -2,7 +2,7 @@
 
 ### What the walk has at D3 — stated to the boundary of what is proven, no further. Nothing here is locked: the theory is not adjudicated until D7. This document records what D3 holds cleanly and names, as open forward-dependencies, exactly what it does not.
 
-> **P3 scope control.** [P3](boson-fermion-and-holding-statistics.md) Secures mathematical `+1/-1` sector-inhabitation but not physical occupants. Any physical sector used below is therefore a conditional D1/D2 premise, not an established consequence of the eigenspace theorem.
+> **P3 scope control.** [P3](boson-fermion-and-holding-statistics.md) Secures the nontrivial `+1/-1` modes, which remain within D1 by whole-ground inheritance. What remains conditional below is the later mediation carrier, any claim that it is sector-pure, and its sector selection—not a second physical population of the inherited modes.
 
 ---
 
@@ -14,7 +14,7 @@ D3 is an intermediate stage. It establishes some structure and leaves other stru
 
 - **(I1)** Complex linear physical state-space; superposition available. [D2 continuous flow requires it.]
 - **(I2)** Nondegenerate positive-definite Hermitian pairing h. [D1 registration + probability-readability.]
-- **(I3)** Constitutive orientation/involution J, J² = id, with mathematically inhabited eigensectors λ = +1 (symmetric) and λ = −1 (antisymmetric); physical sector occupancy is an explicit conditional premise. [P3.]
+- **(I3)** Constitutive orientation/involution J, J² = id, with nontrivial eigensectors λ = +1 (symmetric) and λ = −1 (antisymmetric), inherited whole in D1. Any sector-pure later carrier and its selected mode are explicit later premises. [P3.]
 - **(I4)** Interaction-events exist as physical actuals; unitary reversibility constrains transformations. [D2.]
 - **(I5)** D3 demand: interaction-events compose into higher-order closures of the same physical kind.
 
@@ -32,7 +32,7 @@ D3 is an intermediate stage. It establishes some structure and leaves other stru
 
 These are not failures; they are structure not yet reachable with D1–D3 materials. Each is carried forward with its likely later home.
 
-**(O1) The dimension of M.** dim_ℂ M is not forced at D3. It would be forced by the form and arity of the closure-reading (E3), and those are not fixed at D3. In particular, the closure-reading's *symmetry type* — whether it is symmetric or antisymmetric under exchange of two contributions — is undetermined at D3. P3 makes both mathematical sectors available but does not populate either physical carrier or select its sector.
+**(O1) The dimension of M.** dim_ℂ M is not forced at D3. It would be forced by the form and arity of the closure-reading (E3), and those are not fixed at D3. In particular, the closure-reading's *symmetry type* — whether it is symmetric or antisymmetric under exchange of two contributions — is undetermined at D3. P3 makes both modes available but does not construct the mediation carrier or select its mode.
 
 **(O2) The closure-form's symmetry, and its dependence on statistics.** Whether the closure-reading is alternating (→ would force dim M ≥ 3 and, with exact preservation, SU(3)) or symmetric (→ permits lower dimension and a different group) depends on the exchange-statistics of the composed events. In established physics the analogous fact — color's totally-antisymmetric singlet — is fixed by the identical-fermion antisymmetry of the composed quarks, which is fixed by the spin-statistics connection, which is a spacetime-and-locality result. The framework's analogue is therefore expected to be fixed not at D3 but at the stratum where orientation/locality/dimension are available (D4/D5). **D3 carries this as a forward-dependency on the spin-statistics structure, not as a selection to be made now.**
 

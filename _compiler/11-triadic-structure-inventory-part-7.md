@@ -95,7 +95,7 @@ A domain is a bounded With under inquiry; a stratum is a stabilized horizontal l
 **Claim standing:** Registered control distinction.
 
 ## TSR-7-016 — A stratum is not automatically a domain
-A new domain requires an exhibited gate and boundary; stabilization alone is insufficient.
+A new domain requires a determinate admissibility constraint shown valid and nonempty on a standing ground; stabilization alone is insufficient. That established boundary needs no second gate event.
 
 **Adjudication:** retained.
 **Claim standing:** Registered.
@@ -106,4 +106,4 @@ A new domain requires an exhibited gate and boundary; stabilization alone is ins
 2. Vertical constitution and horizontal build remain distinct.
 3. Emergence preserves both traceability and novelty.
 4. Stratum does not imply domain.
-5. A domain transition requires a gate and boundary.
+5. A domain transition requires a valid nonempty boundary; “gate” names the selection and handoff.

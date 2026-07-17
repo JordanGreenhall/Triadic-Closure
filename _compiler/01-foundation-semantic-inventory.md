@@ -136,11 +136,11 @@ Claim standing must be preserved exactly. Warrant-route terms such as forced, re
 
 ---
 
-## FND-011 — Domain boundary and conditional bootstrap
+## FND-011 — Domain boundary and D1
 
-A domain boundary is an actual With whose determinate content is an inclusion/exclusion rule. Given that boundary, the triad can run under boundary-plus-triad; if D1 is occupied, a boundary-conditioned distinction completes as closure.
+A domain boundary is a valid nonempty admissibility constraint whose determinate content is an inclusion/exclusion rule. The standing ground conditioned by that boundary is the successor domain, and the boundary's nonempty extension is D1. Later phases require their own constructions.
 
-**C2 record:** boundary and conditional bootstrap are **Secured by construction**; **Native**. The full positive gate transition from standing ground to boundary-With remains **Conjectured** because the peer-level framework-native From→With trace is open. Neither a boundary nor D1 occupancy is forced.
+**C2 record:** boundary formation and D1 are **Secured by construction and dependency** once the constraint's validity and nonemptiness are exhibited; **Native**. No additional positive gate event, bearer, occurrence, or occupancy proof is required. The deeper peer-level account of From→With remains Open as articulation, but it is not a blocking proof debt for domain formation.
 
 **Adjudication status:** current under F4.
 
@@ -148,9 +148,9 @@ A domain boundary is an actual With whose determinate content is an inclusion/ex
 
 ## FND-012 — Whole-ground inheritance
 
-Given an exhibited gate, a successor inherits the standing ground whole as constraint: every certified distinction remains binding at its inherited grade and debt. A boundary selects; it does not add.
+Given an established boundary, a successor inherits the standing ground whole as constraint: every certified distinction remains binding at its inherited grade and debt. A boundary selects; it does not add.
 
-**C2 record:** **Secured by dependency**, conditional on the gate; **Native**. “Whole” forbids contradiction, silent loss, and warrant upgrade. It does not require every inherited feature to be actively instantiated or spent in every successor actual. Expenditure is phase-local and must be shown.
+**C2 record:** **Secured by dependency**, conditional on the boundary; **Native**. “Whole” forbids contradiction, silent loss, and warrant upgrade. It does not require every inherited feature to be active in every later construction. A new proof is owed only where an explicit later operation could exclude, alter, or spend the feature beyond its inherited reach.
 
 **Adjudication status:** current under F4.
 

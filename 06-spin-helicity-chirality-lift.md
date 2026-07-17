@@ -3,7 +3,7 @@ title: "SM Frontier Item 6: Spin / Helicity / Chirality / Lift"
 type: process
 status: current
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-17
 scope: frontier-item-6
 sources:
   - chiral-coupling-result.md
@@ -21,7 +21,7 @@ Item 6 passes for the spin/helicity/chirality machinery. It does not carry the e
 
 | Sub-capacity | Grade | Basis |
 |---|---|---|
-| 6.4 boson/fermion exchange mode + Pauli/Bose holding | P3-controlled | [P3](boson-fermion-and-holding-statistics.md): Registered–Sealed only within its conditional sector-pure exchange-mode, complete-state exclusion, and no-sign-prohibition scopes; physical occupancy is not supplied. |
+| 6.4 boson/fermion exchange mode + Pauli/Bose holding | P3-controlled | [P3](boson-fermion-and-holding-statistics.md): exchange-mode core inherited and Registered–Sealed; complete-state exclusion and no-sign-prohibition scopes require D2 same-kind holding. Universal later sector-purity is not supplied. |
 | 6.3 chiral/vectorial criterion | Registered | Chiral iff orientation-faithful. |
 | Spin as lifted-rotatability representation label | Registered | Irreps of `Spin(3)=SU(2)`, as mathematics, off Item 5's lift. |
 | 6.1 elementary fermion = spin-1/2 | Registered | Minimal faithful spinor representation by minimality. |

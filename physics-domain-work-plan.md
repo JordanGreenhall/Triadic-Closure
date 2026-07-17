@@ -29,9 +29,9 @@ This is the hinge-first work plan for the physics domain. It is not a publicatio
 
 Every task below must run:
 
-1. P1 preflight: inherited-grade integrity, physics boundary, occupancy/participation, two-axis structural trace, source separation, and mature-name boundary. P1 is control only and contributes no claim warrant.
-2. P2 boundary/four-image control where relevant: carry the Conjectured positive-gate and D1-occupancy debts; spend causation, time, space, and internal/color language only within their licensed cores and quarantines.
-3. P3 mode/holding control where relevant: distinguish mathematical eigensectors, conditional physical capacity, D2 holding deployment, and empirical occurrence; never infer spin, unlimited occupation, or matter/field roles from exchange sign alone.
+1. P1 preflight: inherited-grade integrity, satisfaction of the established physics boundary, genuinely additional claim construction, load-bearing structural trace, source separation, and mature-name boundary. P1 is control only and contributes no claim warrant.
+2. P2 boundary/four-image control where relevant: treat the valid nonempty self-transforming / invariant / coherent constraint as the physics boundary and its extension as D1; spend **physics**, causation, time, space, and internal/color language only within their licensed cores and quarantines.
+3. P3 mode/holding control where relevant: inherit the two nontrivial `J` modes without a second population test; distinguish intrinsic holding-capacity from additional D2 holding deployment; never infer spin, unlimited occupation, universal sector-purity, or matter/field roles from exchange sign alone.
 4. Architectonic clarification of the relevant presupposition.
 5. Physics-walk checklist: certified Part 0 gate-package with grades and debts; record each feature as bites / does not bite / unresolved; then A frame, B instruments, C population, D C2 record, and E adversarial pass.
 6. Three moves per stage: dependency position, bottom-up combination, grade/dependency record.

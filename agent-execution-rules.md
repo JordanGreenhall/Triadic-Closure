@@ -1,7 +1,7 @@
 ---
 title: Agent Execution Rules
 type: process
-updated: 2026-07-15
+updated: 2026-07-17
 status: control
 confidence: high
 sources:
@@ -94,6 +94,7 @@ Normalization reduces semantic entropy; it does not create new theory.
 The agent may adjudicate existing formulations, clarify, rewrite, merge, split, reorder, relocate, archive, delete, propagate, and expose genuine gaps. The agent may not:
 
 - invent a missing premise, derivation, value, or bridge;
+- invent a proof obligation by positing a failure mode for which no framework operation has been identified;
 - upgrade framework warrant or semantic registration without existing authority;
 - import mature domain content as framework content;
 - preserve a living contradiction merely for historical completeness;
@@ -106,6 +107,8 @@ When the corpus cannot resolve a question:
 2. preserve the strongest warranted formulation;
 3. record the gap locally and in the global frontier;
 4. continue the active unit if the gap is non-blocking.
+
+Under-proof and over-proof are symmetric distortions. Before recording a missing proof, identify the exact operation that could exclude, alter, or defeat the inherited result at the location in question. If no such operation exists, the proposed burden is a manufactured demand and must be removed rather than promoted to the frontier. Whole-ground inheritance does not require constitutive structure to be re-admitted or re-populated in a successor domain.
 
 ## 6. One-unit execution loop
 

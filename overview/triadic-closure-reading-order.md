@@ -2,7 +2,7 @@
 title: Triadic Closure Reading Order
 type: overview
 created: 2026-06-23
-updated: 2026-07-16
+updated: 2026-07-17
 status: control
 confidence: high
 sources:
@@ -34,17 +34,17 @@ This first layer is not a preface to physics. It is the wiki's root.
 
 Read this before any domain-specific reconstruction:
 
-[5. domain-entry-method](../domain-entry-method.md) — the governing F4 method: presupposition audit, conditional gate construction, whole-ground inheritance, occupancy discipline, and the D-series. The older `entering-a-new-domain.md` is a historical physics worked example, not the control.
+[5. domain-entry-method](../domain-entry-method.md) — the governing F4 method: presupposition audit, valid-nonempty boundary construction, whole-ground inheritance, later-phase construction discipline, and the D-series. The older `entering-a-new-domain.md` is a historical physics worked example, not the control.
 
-For physics, this page explains why the walk conditionally enters from the mathematical object under the selected self-transforming / invariant / coherent rule, and why causation, metric, identity, possibility, and actuality must be rebuilt before use. The positive gate and D1 occupancy retain the [P2](../physics-boundary-and-four-images.md) debts.
+For physics, this page explains why the valid nonempty self-transforming / invariant / coherent rule is the boundary on the inherited mathematical object, why its extension is D1, and why mature causation, metric, identity, possibility, and actuality must still be reconstructed before use. [P2](../physics-boundary-and-four-images.md) owns that bounded boundary and name-registration record.
 
 ## 3. Physics deep dive
 
 Only after the above should a reader enter the physics corpus:
 
-6. [physics-registration-theorem](../physics-registration-theorem.md) — P1 admission, source-separation, and mature-name control; no downstream warrant is supplied by this rule.
-7. [physics-boundary-and-four-images](../physics-boundary-and-four-images.md) — P2 boundary proposal, D1 occupancy debt, and bounded four-image registrations.
-8. [boson-fermion-and-holding-statistics](../boson-fermion-and-holding-statistics.md) — P3 mathematical sectors, conditional exchange-mode deployment, and exact Pauli/Bose scopes.
+6. [physics-registration-theorem](../physics-registration-theorem.md) — P1 boundary-membership, additional-claim, source-separation, and mature-name control; no downstream warrant is supplied by this rule.
+7. [physics-boundary-and-four-images](../physics-boundary-and-four-images.md) — P2 established boundary, D1 extension, and bounded four-image registrations.
+8. [boson-fermion-and-holding-statistics](../boson-fermion-and-holding-statistics.md) — P3 inherited exchange modes, later D2 holding deployment, and exact Pauli/Bose scopes.
 9. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
 10. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
 11. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.

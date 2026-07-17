@@ -4,21 +4,21 @@
 
 ---
 
-## P1 — PHYSICS-ADMISSION PREFLIGHT
+## P1 — PHYSICS-EXPENDITURE PREFLIGHT
 
-Before Part 0 is spent, run the [Physics Registration Rule](physics-registration-theorem.md): name the inherited mathematical content at its exact grade; exhibit the proposed physics boundary and the candidate's self-transforming / invariant / coherent participation; construct rather than assume physical occupancy; state both vertical and horizontal traces; separate framework construction, mathematics, observation, citation, selection, and comparison; and map every mature physics name property by property. P1 is a control rule. Passing this preflight gives no warrant to the candidate and registers no inherited name by itself.
+Before Part 0 is spent, run the [Physics Registration Rule](physics-registration-theorem.md): name inherited content at its exact grade; show how the expenditure satisfies the established self-transforming / invariant / coherent boundary; identify only genuinely additional structure and its construction; state vertical or horizontal traces where they bear load; separate framework construction, mathematics, observation, citation, selection, and comparison; and map every mature physics name property by property. P1 is a control rule. It adds no second admission or occupancy event and gives no warrant to an additional claim.
 
 ---
 
 ## P2 — BOUNDARY AND FOUR-IMAGE CONTROL
 
-Run [Physics Boundary and Four Images](physics-boundary-and-four-images.md) whenever the physics gate, D1, causation, time, space, or internal/color language is spent. Keep the F3 four-image construction separate from the selected physics boundary and from D1 occupancy. The positive physics gate and D1 occupancy remain Conjectured. Use the four familiar names only within their P2 licensed cores; exact `3+1`, statistics, propagation, persistence, manifold recovery, and mature gauge content belong to later units.
+Run [Physics Boundary and Four Images](physics-boundary-and-four-images.md) whenever the physics boundary, D1, causation, time, space, or internal/color language is spent. The valid nonempty self-transforming / invariant / coherent constraint is the boundary and its extension is D1. Keep this framework result separate from semantic registration: **physics** and the four familiar image names are licensed only within their P2 cores; exact `3+1`, statistics, propagation, persistence, manifold recovery, and mature gauge content belong to later units.
 
 ---
 
 ## P3 — EXCHANGE-MODE AND HOLDING CONTROL
 
-Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md) whenever `J` sectors, boson/fermion, Pauli exclusion, or Bose co-occupation are spent. Keep mathematical sector-inhabitation separate from physical occupancy; distinguish conditional D1 holding-capacity from D2 holding deployment; require complete-state coincidence for Pauli; and read Bose as permission rather than guaranteed or unlimited occupation. P3 supplies no spin-statistics theorem, particle/field ontology, matter/force role, Fock/Hilbert structure, occupation-number algebra, or universal sector-purity.
+Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md) whenever `J` modes, boson/fermion, Pauli exclusion, or Bose co-occupation are spent. The two nontrivial modes are inherited constitutive structure within the physics domain; do not re-populate or re-admit them. Distinguish D1 holding-capacity from an additional D2 holding; require complete-state coincidence for Pauli; and read Bose as permission rather than guaranteed or unlimited occupation. P3 supplies no spin-statistics theorem, particle/field ontology, matter/force role, Fock/Hilbert structure, occupation-number algebra, or universal sector-purity of later closures.
 
 ---
 
@@ -30,7 +30,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 
 **0.2 The involution J.** Orientation-reversal, J² = id by construction, constitutive. Every content self-conjugate as a whole with internal polarity exchanged. *Constraint inherited:* orientation (one-way / from-toward) is built into every content; J acts throughout; conjugation = orientation-reversal.
 
-**0.3 The two-sector polarity.** At the `2`-invertible scalar grade, `J²=id` gives the +1 fixed and −1 negated eigensectors, both mathematically inhabited. M4 supplies the minimal additive halving threshold; M5 separately constructs the rational scalar field and free module on which the full eigenspace theorem runs. [P3](boson-fermion-and-holding-statistics.md) controls every physics reading: mathematical inhabitation does not establish physical occupants, universal sector-purity, cross-sector physical superposition, or a superselection rule.
+**0.3 The two-sector polarity.** At the `2`-invertible scalar grade, `J²=id` gives the nontrivial +1 fixed and −1 negated modes. M4 supplies the minimal additive halving threshold; M5 separately constructs the rational scalar field and free module on which the full eigenspace theorem runs. The physics boundary inherits both modes whole. [P3](boson-fermion-and-holding-statistics.md) controls their names and later uses; it does not establish universal sector-purity of later closures, cross-statistics physical superposition, or a superselection rule.
 
 **0.4 The pairing.** From supplies the Native relational pairing seed, not an algebraic form. M5 constructs the rational scalar field, the free rational module on the unmarked dyad, and one perfect symmetric `J`-invariant bilinear pairing. At M6's conditional rule-calculus grade, standard complex scalar extension gives a non-degenerate Hermitian form with semilinear `J`. *Constraint inherited:* only that scoped algebraic structure is available, and every use must retain M6's calculus-closure condition. Gram values and scale are selections. Positive definiteness, Hilbert completeness, carrier-specific restriction, probability readability, and physical normalization require their own physics constructions and may not be smuggled through “pairing.”
 

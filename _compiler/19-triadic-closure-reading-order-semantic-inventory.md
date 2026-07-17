@@ -38,7 +38,7 @@ Status: adjudicated orientation artifact. This file governs reader orientation a
 
 ## TCR-005 — Physics inherits the prior mathematical closure whole
 
-**Canonical formulation:** Physics begins from the complete prior mathematical closure object rather than selected isolated handles. P1 then separates mathematical availability from physical occupancy, requires the proposed physics boundary and participation trace, and controls mature physics names property by property. Domain-native use of causation, metric, identity, possibility, actuality, and related concepts must be reconstructed rather than smuggled. P1 supplies no warrant to the gate or any physical candidate.
+**Canonical formulation:** Physics begins from the complete prior mathematical closure object rather than selected isolated handles. A valid nonempty admissibility constraint is the physics boundary and its extension is D1. P1 then controls expenditures against that boundary and controls mature physics names property by property. Domain-native use of causation, metric, identity, possibility, actuality, and related concepts must be reconstructed rather than smuggled; inherited structure must not be subjected to an invented second actuality test.
 
 **Standing:** current physics-entry and P1 control.
 
@@ -46,15 +46,15 @@ Status: adjudicated orientation artifact. This file governs reader orientation a
 
 ## TCR-005A — Physics boundary and four-image readings remain condition-separated
 
-**Canonical formulation:** F3 secures one marked triad and three flattenings as Native framework images. P2 selects self-transforming / invariant / coherent as the proposed physics rule, while retaining the Conjectured positive-gate and D1-occupancy debts. Conditional on an actual boundary and occupied D1, the four images are co-present and license only bounded uses of threefold causation, time, space, and internal/color-type distinction. Exact dimension, statistics, propagation, persistence, manifold recovery, and mature gauge content require later owning units.
+**Canonical formulation:** F3 secures one marked triad and three flattenings as Native framework images. P2 exhibits self-transforming / invariant / coherent as a valid nonempty physics rule. That rule is the physics boundary and its extension is D1; the four images are co-present by whole-ground inheritance and license only bounded uses of threefold causation, time, space, and internal/color-type distinction. Exact dimension, later holding/statistics consequences, propagation, persistence, manifold recovery, and mature gauge content require later owning units.
 
 **Standing:** current P2 dependency and name-boundary control.
 
 ---
 
-## TCR-005B — Exchange mode, physical occupancy, and holding consequences remain distinct
+## TCR-005B — Inherited exchange mode and later holding consequences remain distinct
 
-**Canonical formulation:** The M4/M5 `J` theorem Secures exactly two mathematically inhabited eigensectors at the `2`-invertible grade. P3 does not turn mathematical inhabitation into physical occupancy. Conditional on admitted sector-pure D1 contents, the eigencharacter is a holding-capacity; at occupied D2, same-kind holding deploys it. Antisymmetry forces complete-state diagonal vanishing, while symmetry merely lacks that prohibition. Boson/fermion and Pauli/Bose names are Registered–Sealed only within these exact scopes. Spin-statistics, unlimited occupation, Fock/Hilbert structure, and matter/force roles are later claims.
+**Canonical formulation:** The M4/M5 `J` theorem Secures exactly two nontrivial eigensectors at the `2`-invertible grade, and whole-ground inheritance carries both modes into D1 without a second admission proof. P3 registers boson/fermion over that exchange-mode core. When D2 same-kind holding is constructed, antisymmetry forces complete-state diagonal vanishing while symmetry merely lacks that prohibition; Pauli/Bose names are Registered–Sealed only within those exact scopes. Universal later sector-purity, spin-statistics, unlimited occupation, Fock/Hilbert structure, and matter/force roles are later claims.
 
 **Standing:** current P3 dependency and name-boundary control.
 
