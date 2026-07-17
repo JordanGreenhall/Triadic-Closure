@@ -2,10 +2,11 @@
 title: Triadic Closure Reading Order
 type: overview
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-16
 status: control
 confidence: high
 sources:
+  - ../physics-registration-theorem.md
   - ../architectonic-rigor-complete.md
   - ../triadic-structure-of-relating-rev-canonical.md
   - ../domain-entry-method.md
@@ -39,11 +40,12 @@ For physics, this page explains why physics is entered as the mathematical objec
 
 Only after the above should a reader enter the physics corpus:
 
-6. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
-7. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
-8. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
-9. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
-10. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
+6. [physics-registration-theorem](../physics-registration-theorem.md) — P1 admission, source-separation, and mature-name control; no downstream warrant is supplied by this rule.
+7. [physics-domain-mature-status](../physics-domain-mature-status.md) — the current status matrix for the physics-domain work.
+8. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
+9. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
+10. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — exact 3+1 status and cautions.
+11. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
 

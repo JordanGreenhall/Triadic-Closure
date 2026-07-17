@@ -2,10 +2,11 @@
 title: Known Failure Modes
 type: overview
 created: 2026-06-21
-updated: 2026-07-15
+updated: 2026-07-16
 status: control
 confidence: high
 sources:
+  - physics-registration-theorem.md
   - physics-walk-checklist.md
   - architectonic-rigor-complete.md
 historical_sources:
@@ -60,6 +61,8 @@ Dimensionality special case: exact `3+1` is **Secured** by the architectonic/def
 Do not import premises, primitives, results, or inherited meanings that the framework has not earned. Mature physics names are a common carrier of this failure.
 
 When a Secured native core supports an inherited name, use recognition with surplus quarantined: license only the mapped core and bar every legacy surplus from doing work. Recognition contributes no warrant.
+
+For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md). Mathematical availability is not physical occupancy, `Native` is not a physical-warrant label, and P1 does not register a mature physics name merely by admitting a candidate to review.
 
 ## 6. Smuggled demand
 

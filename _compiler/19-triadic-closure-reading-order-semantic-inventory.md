@@ -38,9 +38,9 @@ Status: adjudicated orientation artifact. This file governs reader orientation a
 
 ## TCR-005 — Physics inherits the prior mathematical closure whole
 
-**Canonical formulation:** Physics begins from the complete prior mathematical closure object rather than selected isolated handles. Domain-native use of causation, metric, identity, possibility, actuality, and related concepts must be reconstructed rather than smuggled.
+**Canonical formulation:** Physics begins from the complete prior mathematical closure object rather than selected isolated handles. P1 then separates mathematical availability from physical occupancy, requires the proposed physics boundary and participation trace, and controls mature physics names property by property. Domain-native use of causation, metric, identity, possibility, actuality, and related concepts must be reconstructed rather than smuggled. P1 supplies no warrant to the gate or any physical candidate.
 
-**Standing:** current physics-entry control.
+**Standing:** current physics-entry and P1 control.
 
 ---
 

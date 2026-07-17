@@ -136,6 +136,8 @@ It does not establish domain occupancy or richness.
 ## TSR-117 — Physics inherits only the rule-given gate grade
 Physics may spend M6 only by naming an admitted rule presentation and showing that its calculus is closed under the operation invoked. It must separately earn continuum deployment on a physical carrier, manifold recovery, time, energy, spacetime, and dynamics; D6 coherence, physics-fit re-derivation, and impredicativity audits remain debts.
 
+Every such expenditure also passes P1: mathematical availability is not physical occupancy, and the physics boundary, participation trace, source class, two-axis record, and mature-name boundary must be exhibited. P1 is a control rule and supplies none of the missing physics content.
+
 **Adjudication:** repaired so “rule-given” cannot function as a blank authorization for standard completed-continuum machinery.
 **Framework standing:** Secured as a gate restriction. Each physical expenditure remains conditional until its presentation, closure, and carrier are exhibited; listed debts remain Open.
 **Registration:** Native execution constraint. No mature analytic or physical name is licensed by the restriction itself.

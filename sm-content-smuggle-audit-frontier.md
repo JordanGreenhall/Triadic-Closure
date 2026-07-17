@@ -2,10 +2,11 @@
 title: Standard Model Content Smuggle Audit and Cleanup Frontier
 type: overview
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-16
 status: control
 confidence: medium-high
 sources:
+  - physics-registration-theorem.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - gauge-structure-result.md
@@ -45,12 +46,11 @@ essential-form claims.
 
 ### 1. Physics registration itself: what counts as a physical standing
 
-**Current support:** physics domain constraint as self-transforming / invariant /
-coherent is Registered; math-to-physics registration toward quantum state-space is partly available in the broader theorem pattern.
+**Current support:** [P1](physics-registration-theorem.md) now PASSES as the canonical admission and dependency-map control. It separates mathematical availability from physical occupancy, requires the self-transforming / invariant / coherent boundary and a two-axis participation trace, and maps the current curated physics surface. This pass supplies no warrant or name-registration to any downstream object.
 
 **Smuggle risk:** importing concepts from "traditional physics" (`particle`, `field`, `mass`,`charge`, `interaction`, `decay`) before proving the domain-entry registration into the framework. A common example: we have established that the framework can identify an electron as a kind of object but have not yet established that it carries a negative charge - making an argument based on the the charge of the object (smuggling that in from traditional physics).
 
-**Cleanup work:** where content has been smuggled, Register and when possible Seal that content within the framework.
+**Cleanup work:** no P1 control debt remains. Each mapped consumer must still construct its physical occupancy and register inherited names property by property at the owning unit. A downstream failure is handed back locally; it does not reopen P1 unless the admission rule or map itself is incomplete.
 
 ### 2. Complex Hilbert / amplitude / Born bridge
 

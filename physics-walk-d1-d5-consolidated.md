@@ -2,9 +2,11 @@
 title: Physics Walk D1-D5 Consolidated
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-16
 status: current
 confidence: high
+sources:
+  - physics-registration-theorem.md
 historical_sources:
   - physics-walk-d1-d5-consolidated.md
   - raw/context/full-conversation-ledger.md
@@ -24,6 +26,7 @@ It explicitly supersedes the older mediation-carrier framing in `d3-as-establish
 
 ## Current commitments
 
+- P1 separates mathematical availability from physical occupancy and supplies no warrant to the proposed physics gate or D1 contents. Each physical reading must retain its owning boundary, participation, source, two-axis, and mature-name records.
 - Conditional on an exhibited physics boundary, D1 occupancy, and their owning registration records, time, space, and color are read from D1 boundary-images rather than piecemeal downstream finds. F4 supplies no physical registration.
 - Color is This-flattening, not a guessed mediation carrier.
 - Mass is a D5 Lorentzian Casimir, not a D4 germ.
