@@ -2,26 +2,26 @@
 title: Quark Lepton Split
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-18
 status: current
 confidence: medium
 sources:
-  - gauge-structure-result.md
+  - p13-particle-identity-and-native-role-taxonomy.md
 historical_sources:
   - quark-lepton-split.md
 ---
 
 # Quark / Lepton Split
 
-Result module for quark/lepton distinction through interior triad resolution versus closure within a single standing.
+This page is a concise result shadow of [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md). P13 governs where this page conflicts with earlier wording.
 
-## Mature status
+## Current result
 
-Status: **Registered** for the quark/lepton split as interior-triad part/whole distinction; **Open** for specific charge values, masses, and generations. Exact dependence on the SU(3) bridge should be checked through [gauge-structure-result](gauge-structure-result.md).
+- **Quark:** a fermionic standing whose This-interior is color-resolved; Registered, not Sealed, at the color-bearing constituent-role core.
+- **Lepton:** a fermionic standing whose This-interior is color-trivial; Registered, not Sealed, at the color-trivial role core.
 
-## Current claim
+The distinction is role-taxonomic, not a partition of primitive particle-substances. It does not derive flavor, charge, hypercharge, mass, generation, exact electroweak modules, confinement dynamics, or free asymptotic occupancy.
 
-- Quark: interior triad externally resolved as color distinction.
-- Lepton: interior triad closed within the single closure, presenting no external color distinction.
+The older phrase “interior triad externally resolved versus closed within a single standing” is retained only insofar as it means color-resolved versus color-trivial. It must not be read as importing P14 mark geometry or a complete particle ontology.
 
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md), [claim-status-vocabulary](claim-status-vocabulary.md).
+See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md), and [claim-status-vocabulary](claim-status-vocabulary.md).
