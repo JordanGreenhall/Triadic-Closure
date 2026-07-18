@@ -22,6 +22,7 @@ sources:
   - with-to-this-closure.md
   - mass-as-self-closure.md
   - mass-derivation-three-faces.md
+  - flavor-mark-metric-and-neutron.md
   - realizability-weighting-law.md
   - gravity-asymmetry.md
   - stress-energy-three-offices.md
@@ -66,10 +67,11 @@ Method controls govern method; dedicated P4, P5, and P6 pages govern those units
 | P6 modeled baryon persistence | Secured conditionally in reported model/flows | Complete singlet closure preserved | Bound-state/baryon persistence Registered; inherits gauge/closure conditions |
 | P6 modeled baryon stability | Secured conditionally in tested perturbation flows | Perturbations return to singlet | No universal basin/rate/all-dynamics theorem |
 | P6 electron bare-repeat persistence | Secured conditionally at per-step recurrence scope | Same color-trivial closure re-selected; native ruler `m_e=1` | Persistence and ruler Registered; no perturbative stability or external calibration |
+| P6 neutron metastability | Registered at owning result's stated grade | Neutron is the shallower fully internalized standing; proton is deeper relieved attractor | Inherits flavor/mark/closure dependencies |
+| P6 neutron structural decay | Registered at owning result's stated grade | `d→u` mark transition and inverse closure into proton/electron relation plus kinetic From | Antineutrino reading Conjectured; lifetime Open |
 | P6 domain-grade occupancy | Open | Scoped witnesses do not establish the total persistent population | Relevant totality must stand as one field |
 | P6 basic stable ruler, stronger sense | Open | Electron is a serious candidate and native ruler; ontological basicness, broader stability, and calibration remain | P6-F1 |
-| P6 bound state / metastability / structural decay | Conditional classifiers Secured; names Registered | Persistent composite; restricted persistence plus escape | Products, mechanisms, rates retain owners |
-| P6 escape propensity / rate | Conditional measure use; generic rate Open | Weight is not frequency/lifetime | Transition, frequency, calibration, scale required |
+| P6 generic quantitative decay | Open | Neutron supplies transition structure and conditional weight, not calibrated lifetime | Frequency, clock, scale, coupling required |
 | Realizability weighting | Registered, not sealed | Coherence-participation law at stated conditions | Frequency bridge Open |
 | F8 functional | Registered | Construction and uniqueness support | Dimensional cautions remain |
 | F9 standing choice | Registered–Sealed in scope | Conserved-flow state selected | No automatic downstream promotion |
@@ -95,6 +97,7 @@ Method controls govern method; dedicated P4, P5, and P6 pages govern those units
 - P6 generic phase-form.
 - Scoped baryon persistence and tested stability.
 - Scoped electron persistence and native ruler normalization.
+- Scoped neutron metastability and structural decay.
 - Weak-field gravity.
 - Mass as self-closure in nature/ratio scope.
 
@@ -106,12 +109,12 @@ Method controls govern method; dedicated P4, P5, and P6 pages govern those units
 4. Stress-energy dynamical population.
 5. Exact chiral module and hypercharge particulars.
 6. **P6-F1:** survey all downstream closure results; establish domain-grade persistent population; decide whether the electron or another closure is ontologically basic and perturbatively stable enough for the quantitative cascade.
-7. **P6-F2:** identify later transition constructions that actually supply quantitative stability/decay, retaining frequency and calibration requirements.
+7. **P6-F2:** convert existing transition structures—especially neutron decay—into quantitative rates only if frequency, hazard, and calibration premises are actually supplied.
 8. Stable-closure hierarchy, coupling constants, mass ratios, and calibration.
 9. Matter spectrum / generations.
 
 ## Bottom line
 
-Reality, not audit sequence, determines applicability. The later baryon and mass constructions therefore supply genuine scoped P6 witnesses. What remains Open is not all physical persistence, but domain-grade completion, ontological basicness, broader perturbative stability, the closure hierarchy, external calibration, and generic quantitative decay.
+Reality, not audit sequence, determines applicability. The later baryon, mass, and neutron constructions therefore supply genuine scoped P6 persistence, stability, metastability, and decay results. What remains Open is domain-grade completion, ontological basicness, broader perturbative stability, the closure hierarchy, external calibration, and quantitative lifetimes.
 
-See also: [physics-domain-work-plan](physics-domain-work-plan.md), [d6-persistence](d6-persistence.md), [with-to-this-closure](with-to-this-closure.md), [mass-as-self-closure](mass-as-self-closure.md), [known-failure-modes](known-failure-modes.md).
+See also: [physics-domain-work-plan](physics-domain-work-plan.md), [d6-persistence](d6-persistence.md), [with-to-this-closure](with-to-this-closure.md), [mass-as-self-closure](mass-as-self-closure.md), [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md), [known-failure-modes](known-failure-modes.md).
