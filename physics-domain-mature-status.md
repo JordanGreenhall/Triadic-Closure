@@ -71,11 +71,12 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 | P7 exact local Lorentz | Defended posit at exactness ceiling; Sealed on a given recovered manifold | P5 plus Alexandrov–Zeeman on the recovered carrier | Ceiling, not an unfinished task |
 | P7 G1 narrowing | Registered | Only spatial-carrier expenditures inherit G1 | Internal carrier, Born/readout, and mass-measure spine owe G1 nothing merely as internal structure |
 | P8 one same-kind carrier | Registered | One shared character and With-field; independent gluing either adds a frame-selector or collapses | Full gluing classification remains a seal residual |
-| P8 complex representation type | Registered, not Sealed | Non-interchangeable three with no privileged element gives the current cyclic-orientation route | Formal exclusion of exotic non-cyclic structures is the primary residual |
+| M6 selected complex extension | Secured conditionally; Registered for displayed core | Selected rule calculus must be closed under operations used | P8 may deploy but may not force or unrestrictedly inherit `C` |
+| P8 carrier-specific complex deployment | Registered, not Sealed; conditional on M6 | Internal orientation-content is preserved by the selected complex representation | Real sufficiency / complex necessity is the primary seal residual; cyclic route is corroborative |
 | P8 primitive scalar verdict | Registered | Closure status is prior to vector/operator content produced downstream | Mixed primitive scalar/operator models remain a minor residual |
 | P8 fixed scalar verdict scale | Registered | Registered magnitude cannot remain arbitrarily projective | Does not yet supply epsilon, determinant, `det=1`, or U(1) |
-| P8 Hermitian carrier pairing | Registered | Complex registration requires conjugation-symmetric real magnitude | Positivity inherits readout scope; no unrestricted Hilbert import |
-| P8 dimension exactly three | Registered | Three This-flattened moments, one complex line each | Grounded independently of P9 |
+| P8 Hermitian carrier pairing | Registered conditionally | Deploys M6's non-degenerate Hermitian extension on the carrier | Positivity inherits readout scope; no unrestricted Hilbert import |
+| P8 dimension exactly three | Registered conditionally | Three This-flattened moments, one line over the selected M6 extension each | Grounded independently of P9; carries M6 grade |
 | P9 alternating form / native SU(3) | Registered, not Sealed | P8 carrier inherited; alternation remains the live framework gate; stabilizer step Sealed as mathematics | P9 may not back-prove P8 |
 | Realizability weighting | Registered, not sealed | Coherence-participation law at stated conditions | Quantitative bridges retain their own conditions |
 | Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
@@ -96,25 +97,26 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 - P5 propagation and conditional Lorentz theorem.
 - P6 generic phase-form and bounded physical witnesses.
 - P7 graph dimension, criticality, frame-freedom, narrowed spatial-sector debt, and exactness ceiling.
-- P8 one complex same-kind carrier `C^3`, scalar verdict, fixed scale, and Hermitian pairing at their recorded scopes.
+- P8 one same-kind carrier with carrier-specific deployment of M6's selected complex extension, scalar verdict, fixed scale, and M6-grade Hermitian pairing.
 - Weak-field gravity.
 - Mass as self-closure in nature/ratio scope.
 
 ## Living frontier
 
 1. P7 native smoothness seal and explicit calculus closure for analytic continuum operations.
-2. **P8-F1:** formalize the cyclic-structure inference without using SU(3).
+2. **P8-F1:** establish necessity/uniqueness of the complex deployment over a real carrier; cyclic formalization is corroborative, not scalar provenance.
 3. **P8-F2:** classify one-carrier gluing alternatives.
 4. **P8-F3:** complete the scalar-verdict exclusion of mixed primitive models.
-5. P9 alternation/vanishing-on-coincidence and remaining SU(3) seal work.
-6. Full gravity beyond weak-field.
-7. Stress-energy dynamical population.
-8. Exact chiral module and hypercharge particulars.
-9. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
-10. Matter spectrum / generations.
+5. **P8-F4:** record the selected M6 calculus and closure for every complex-scalar expenditure.
+6. P9 alternation/vanishing-on-coincidence and remaining SU(3) seal work.
+7. Full gravity beyond weak-field.
+8. Stress-energy dynamical population.
+9. Exact chiral module and hypercharge particulars.
+10. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
+11. Matter spectrum / generations.
 
 ## Bottom line
 
-P8 is a Registered carrier theorem, not Sealed. It supplies one same-kind complex carrier `C^3`, a primitive scalar verdict with fixed scale, and a Hermitian registration pairing. It does not supply the alternating form, determinant, SU(3), U(1), or downstream representation content. Those remain with P9 and later units.
+P8 is a Registered carrier theorem, not Sealed, and its complex/Hermitian content is conditional on M6's selected rule-presented quadratic extension. M6 supplies complex scalar availability; P8 supplies carrier-specific deployment. The cyclic route is corroborative and seal-directed, not the source of `C`. P8 does not supply the alternating form, determinant, SU(3), U(1), or unrestricted classical complex/Hilbert structure.
 
 See also: [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md), [P9 Gauge Structure Result](gauge-structure-result.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md).
