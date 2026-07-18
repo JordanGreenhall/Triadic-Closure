@@ -24,14 +24,16 @@ Curated pages govern status; historical sources are provenance only.
 | [gauge-structure-result](gauge-structure-result.md) | P8 carrier plus epsilon bridge and connectedness/irreducibility reduction; P9 owner |
 | [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) | Supporting P9 mathematics |
 | [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) | Foundation This-flattening, P8/P9, tensor decompositions; P10 owner |
-| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | Exact-three office architecture, P8 phase, P9/P10 color, and With-office lifted rotatability; P11 owner |
-| [p12-spin-helicity-handedness-and-chiral-coupling](p12-spin-helicity-handedness-and-chiral-coupling.md) | P4/P5/P7 rotation/Lorentz structure, spin-cover deployment, chirality, and the native doublet-interior-action seam; P12 owner |
-| [p13-particle-identity-and-native-role-taxonomy](p13-particle-identity-and-native-role-taxonomy.md) | P3 fermionic mode, P10 color/singlet structure, P6 bounded persistence, and particle-role sources; P13 owner |
-| [p14-flavor-and-mark-geometry](p14-flavor-and-mark-geometry.md) | P10 color, P13 roles, P8 pairing, P9 no-privilege discipline, and flavor/mark source; P14 owner |
-| [p15-charge-hypercharge-valence-and-center-locking](p15-charge-hypercharge-valence-and-center-locking.md) | P11 From/With source-forms, P12 chiral structure, P13 roles, P14 mark patterns, and work-plan center-locking audit; P15 owner |
+| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | Office-indexed gauge-source architecture; P11 owner |
+| [p12-spin-helicity-handedness-and-chiral-coupling](p12-spin-helicity-handedness-and-chiral-coupling.md) | Spin-cover deployment, helicity, chirality, and coupling structure; P12 owner |
+| [p13-particle-identity-and-native-role-taxonomy](p13-particle-identity-and-native-role-taxonomy.md) | Fermionic mode, color structure, persistence, and particle-role sources; P13 owner |
+| [p14-flavor-and-mark-geometry](p14-flavor-and-mark-geometry.md) | Color, particle roles, pairing, no-privilege discipline, and mark source; P14 owner |
+| [p15-charge-hypercharge-valence-and-center-locking](p15-charge-hypercharge-valence-and-center-locking.md) | Gauge-source forms, chiral structure, roles, marks, and center-locking audit; P15 owner |
+| [p16-quantitative-qcd-dynamics-and-quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md) | P9/P10 color carrier, invariant pairwise operator, representation decomposition, With-to-This closure, and frontier item 9; P16 owner |
+| [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) | Concise P16 result shadow |
 | [chiral-coupling-result](chiral-coupling-result.md) | Concise P11/P12 result shadow |
 | [quark-lepton-split](quark-lepton-split.md) | Concise P13 result shadow |
-| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source for flavor/mark geometry and later source for neutron mass/decay; canonical owners govern each scope |
+| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later neutron mass/decay source; canonical owners govern each scope |
 | [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
 | [mass-as-self-closure](mass-as-self-closure.md) | Mass derivation and P6 stable-ruler dependency |
@@ -58,6 +60,7 @@ Additional controls:
 - [p13-particle-identity-and-native-role-taxonomy](p13-particle-identity-and-native-role-taxonomy.md) — P13
 - [p14-flavor-and-mark-geometry](p14-flavor-and-mark-geometry.md) — P14
 - [p15-charge-hypercharge-valence-and-center-locking](p15-charge-hypercharge-valence-and-center-locking.md) — P15
+- [p16-quantitative-qcd-dynamics-and-quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md) — P16
 - [domain-entry-method](domain-entry-method.md) — F4
 - [physics-walk-checklist](physics-walk-checklist.md)
 - [three-moves-per-stage](three-moves-per-stage.md)
