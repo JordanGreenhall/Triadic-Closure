@@ -1,8 +1,8 @@
 ---
-title: Same-Kind Carrier and Representation Type Theorem
+title: P8 Same-Kind Internal Carrier
 type: physics-internal-structure
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-07-18
 status: current
 confidence: medium
 sources:
@@ -13,104 +13,117 @@ sources:
   - sm-content-smuggle-audit-frontier.md
 ---
 
-# Same-Kind Carrier and Representation Type Theorem
+# P8 Same-Kind Internal Carrier
 
-## Mature status
+P8 establishes the carrier required before the alternating closure-form and native SU(3) construction of P9. Its exact scope is: one same-kind carrier, complex representation type, primitive scalar closure verdict, fixed verdict scale, Hermitian registration pairing, and dimension exactly three.
 
-Status: **CONDITIONAL-PASS / Registered carrier theorem, not Sealed**.
+P8 does not derive the alternating form, epsilon/determinant, connectedness, irreducibility, SU(3), color-singlet consequences, U(1), or Standard Model representations. Those belong to P9 and later units.
 
-The earlier “redirect ledger only / no carrier theorem yet” state is superseded. All six carrier gates reach Registered. “Conditional” means below-Seal residuals remain; it does not mean a Registered premise is being double-counted as an open condition.
+## 1. Mature status
 
-## Item 4 — Same-Kind Complex Carrier: **CONDITIONAL-PASS / Registered carrier theorem**
+Status: **Registered carrier theorem, not Sealed**.
 
-The load reduces to six gates. All reach **Registered**; the role-sorted, discrete,
-vector/operator, projective, lower-dimensional, symmetric-cubic, and fibered
-alternatives are all excluded.
+The earlier “redirect ledger only / no carrier theorem yet” state is superseded. The carrier exists at a usable framework grade. The remaining debts are explicit seal residuals, not a reason to describe the theorem as merely Open or as conditional on already-Registered premises.
 
-### Gate A — one carrier (vs. fibered/isomorphic fibers) — **Registered**
-A fibered model posits three isomorphic fibers plus a gluing datum. By the
-registrability dichotomy: a registrable gluing datum is an additional internal
-distinction — a frame-selector forbidden by `no-fourth-determinant` and contrary to
-pure same-kindness; an unregistrable one makes the fibers framework-identical, so
-they collapse to one carrier under the single shared closure-kind basis. Since
-"same-kind" *is* "registered under one shared character" (With's basis, §2.5),
-there is no room for an independent registrable gluing datum. One With-field forces
-one carrier.
-**Falsification surface:** a gluing datum that is registrable yet not a forbidden
-frame-selector.
+## 2. Gate A — one carrier
 
-### Gate B — complex linearity (vs. real) — **Registered** (the load-bearing gate)
-The real alternative (ℝ³, real determinant, `SO(3)`) is fully coherent, so
-complexness is not forced by the alternating form, one carrier, scalar verdict, or
-dimension alone. The native source is **non-interchangeability**: the This-flattened
-triad is registered as "symmetric but non-interchangeable," so the three moments
-carry a *registered orientation*. A linear/total order would privilege a first
-element — a frame-selector, forbidden by `no-privileged-frame`. The only orientation
-on three elements with no privileged element is the **cyclic order ℤ₃**. ℤ₃ has no
-faithful real one-dimensional representation; its minimal faithful representation is
-two real dimensions — rotation by 120°, i.e. multiplication by a primitive cube root
-of unity. To register the orientation faithfully, each moment-line carries that
-complex structure. Hence the carrier is complex.
+The three internal moments are same-kind: they are registered under one shared character and stand within one With-field.
 
-Chain: non-interchangeable (This-flattening) + no-privileged-element
-(`no-privileged-frame`) + three (office count) ⇒ cyclic ℤ₃ ⇒ faithful real rep is
-complex ⇒ complex carrier.
+A model with three isomorphic fibers requires a gluing datum. If the datum is registrable, it introduces an additional internal distinction or frame-selector not supplied by the same-kind basis. If it is unregistrable, the fibers are framework-identical and collapse to one carrier. Therefore the minimal same-kind construction is one carrier, not role-sorted slots or independently fibered copies.
 
-**Falsification surface / seal residual:** the step "non-interchangeable +
-no-privileged-element + three ⇒ cyclic ℤ₃" — formally excluding an exotic
-non-cyclic registered structure on three elements is the seal debt.
-**Recognition only (not load-bearing):** the center of `SU(3)` is ℤ₃; the same
-cyclic structure that forces complexness reappears as the center of the group it
-builds toward — a consistency, not a derivation.
+Standing: **Registered**.
 
-### Gate C — scalar closure-verdict is primitive (vs. vector/operator) — **Registered**
-A dependency argument. The closure-verdict asks whether the triad closes as one,
-with what standing — a This/actuality question. Any vector- or operator-valued
-output is *produced content*: a successor This conditioned by the closure
-(From→This lineage). Producing the content of a closure presupposes the closure
-occurred, so closure-status is prior to produced content, not a readout of it. The
-verdict is single-valued because With's basis registers one respect (the
-closure-kind). Vector/operator-with-scalar-readout models are dependent downstream
-representations.
+Seal residual: formally classify every possible registrable gluing datum and show that none escapes the frame-selector objection.
 
-### Gate D — fixed form (vs. projective line) — **Registered**, and it locates U(1)
-The closure-verdict has a magnitude (Gate C). A magnitude is a registered
-distinction, and conservation of registered distinctions (§9.7) forces it to be
-preserved exactly — the form's **modulus is fixed**, `det = 1` on the nose, not up
-to scale. The residual phase freedom (`ε ↦ e^{iθ}ε`) is not a defect: it is the
-**From-phase, the separately-registered U(1) oriented line**. So the projective
-ambiguity is exactly the U(1) factor, and the fixed-modulus internal stabilizer is
-`SU(3)` — consistent with the gauge-structure result locating U(1) at the From-phase.
+## 3. Gate B — complex representation type
 
-### Gate E — Hermitian pairing (vs. symmetric-bilinear) — **Registered**
-*(Depends on Gate B, which is Registered, so E inherits Registered — it is not
-"conditional on B." The earlier "conditional on B" was a status error: it
-double-counted B as both a Registered result and a live open premise.)*
-Given a complex carrier, the pairing is forced Hermitian: the coherence-overlap is a
-real nonnegative magnitude (Item 2's `|h|²`), and a real-valued conjugation-symmetric
-form on a complex space is Hermitian; a symmetric C-bilinear form would instead
-distinguish a preferred real structure — a registered real frame, forbidden (this is
-what excludes `SO(3,C)` in Item 3). Positive-definiteness comes from Item 2: the
-participation weight is ≥ 0, zero only for the zero standing, and a genuine standing
-is maximally self-participating. So the pairing is positive-definite Hermitian —
-which cuts `SL(3,C)` to `SU(3)`.
+A real three-dimensional carrier is not excluded by one-carrier, scalar-verdict, or dimension arguments alone. Complexness must have an independent source.
 
-### Gate F — dimension exactly 3 — **Registered** (independent of Item 3)
-The three This-flattened interior moments come from the **three offices** (the
-exactly-three posit) via This-flattening — one marked triad, three flattened images.
-Each occupies one complex line (Gate B); three complex lines = C³. This grounds
-dimension-3 in the office-count posit plus This-flattening, **upstream of any gauge
-work and with no reference to the alternating form.** The "nonzero alternating
-3-form ⇒ dim ≥ 3" route is corroboration, not the load-bearing ground. This is the
-cut that makes the 3↔4 dependency acyclic.
+The This-flattened internal triad is symmetric in standing but non-interchangeable in kind. Combined with no privileged element, its registered orientation cannot be linear, because a linear order selects a first element. The current route identifies the orientation as cyclic on three moments. A faithful realization of that cyclic orientation requires the two-real-dimensional rotation representation, equivalently one complex line per moment. The same-kind carrier is therefore complex.
 
-### Verdict
-**CONDITIONAL-PASS: the same-kind complex carrier C³ with Hermitian pairing and
-fixed volume form is a Registered carrier theorem** — an upgrade from "no carrier
-theorem exists." Conditional only in that it sits, as the whole corpus does, on the
-foundational posits; its own seal residuals are Gate B's ℤ₃-cyclic formalization
-(the largest) and minor formal residuals on A, C, D.
+Standing: **Registered, not Sealed**.
 
-## Use rule
+Primary seal residual: formally establish that non-interchangeability plus no privileged element on exactly three admits only the cyclic registered structure relevant here, excluding exotic non-cyclic alternatives without assuming the later SU(3) center.
 
-Downstream pages may treat the same-kind complex carrier `C³`, Hermitian pairing, and fixed form as Registered for the SU(3) bridge. They must carry the named seal residuals, especially Gate B's ℤ₃-cyclic formalization, and must not import additional Standard Model representation content beyond the Registered carrier theorem.
+The appearance of `Z3` as the center of SU(3) is downstream recognition only and contributes no P8 warrant.
+
+## 4. Gate C — primitive scalar closure verdict
+
+The carrier must support a verdict on whether the internal triad closes as one. Closure status is prior to any vector or operator produced by a closure: a vector-valued or operator-valued output is successor content whose production presupposes that the closure has already occurred.
+
+The primitive closure verdict is therefore scalar-valued. Vector and operator realizations may represent or consume the verdict downstream, but they do not replace its primitive type.
+
+Standing: **Registered**.
+
+Seal residual: sharpen the dependency claim into a complete exclusion of mixed scalar-plus-operator primitive verdict models.
+
+## 5. Gate D — fixed verdict scale
+
+The scalar verdict carries a magnitude. Once that magnitude registers a distinction, conservation of registered distinctions prevents arbitrary rescaling in subsequent use. P8 therefore supplies a fixed verdict scale rather than a merely projective scalar line.
+
+This does **not** yet supply a fixed alternating 3-form, determinant, `det = 1`, SU(3), or the identification of a residual phase with U(1). Those require the P9 alternating-form construction and P11 gauge-source analysis.
+
+Standing: **Registered** for fixed scalar normalization at the carrier interface; the particular closure-form remains P9.
+
+## 6. Gate E — Hermitian registration pairing
+
+Given the complex carrier, registration and coherence comparison require a conjugation-symmetric real magnitude. A complex-bilinear symmetric form would select a preferred real structure. The carrier-specific registration form is therefore Hermitian.
+
+Where the amplitude/readout construction is spent, the pairing is positive on genuine standings and supports nonnegative self-participation. This positivity is bounded to that readout scope; P8 does not silently import a complete Hilbert space, probability interpretation, or unrestricted positive-definite structure.
+
+Standing: **Registered** for the Hermitian carrier pairing; positivity inherits the exact scope and conditions of the readout construction.
+
+## 7. Gate F — dimension exactly three
+
+Dimension three is grounded upstream of P9.
+
+The interior distinction is the This-flattened image of the primitive triad. It presents three non-interchangeable moments. Under Gate B each moment contributes one complex line. Minimal faithful same-kind carriage therefore gives
+
+`V_int = C^3`.
+
+This route depends on the exactly-three office result, This-flattening, same-kindness, and the complex representation result. It does not depend on the existence of a nonzero alternating 3-form. The later theorem that such a form requires dimension at least three is corroboration, not P8's warrant.
+
+Standing: **Registered**.
+
+## 8. Excluded alternatives and their owners
+
+P8 excludes:
+
+- role-sorted independent slots as the primitive carrier;
+- three independently glued fibers without additional registered structure;
+- a merely real carrier at the current Registered route;
+- vector/operator output as the primitive closure verdict;
+- a projective verdict scale;
+- lower-dimensional carriage of all three internal moments.
+
+P8 does **not** exclude the symmetric-cubic alternative to the closure-form, prove alternation, or establish the epsilon stabilizer. Those are P9 questions. Earlier P8 summaries that claimed symmetric-cubic exclusion or a fixed volume form at the carrier stage overran the unit boundary.
+
+## 9. P8 result
+
+| Claim | Standing | Boundary |
+|---|---|---|
+| One same-kind internal carrier | Registered | Gluing classification remains a seal residual |
+| Complex representation type | Registered, not Sealed | Cyclic-structure formalization is the primary residual |
+| Primitive scalar closure verdict | Registered | Mixed primitive models remain a minor formal residual |
+| Fixed scalar verdict scale | Registered | No alternating form, determinant, or U(1) yet |
+| Hermitian carrier pairing | Registered | Positivity only at the readout construction's scope |
+| Dimension exactly three | Registered | Grounded independently of P9 |
+| Same-kind carrier `C^3` as the P9 input | Registered | Carries all named residuals |
+
+## 10. Frontier
+
+### P8-F1 — Cyclic-structure seal
+
+Formalize the inference from three non-interchangeable, equally standing, no-privileged moments to the relevant cyclic registered structure without using the later SU(3) result.
+
+### P8-F2 — One-carrier gluing classification
+
+Classify possible registrable gluing data and test whether any avoids becoming an additional frame-selector.
+
+### P8-F3 — Scalar-verdict completeness
+
+Exclude primitive mixed scalar/operator verdicts rather than only pure vector- or operator-valued alternatives.
+
+## 11. Use rule
+
+P9 may inherit one same-kind complex carrier `C^3`, its Hermitian registration pairing, scalar verdict type, and fixed verdict scale at P8's Registered grade. P9 must still construct the alternating closure-form and its stabilizer. No downstream group result may be back-spent as P8's proof.
