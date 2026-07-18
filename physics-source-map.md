@@ -24,9 +24,10 @@ Curated pages govern status; historical sources are provenance only.
 | [gauge-structure-result](gauge-structure-result.md) | P8 carrier plus epsilon bridge and connectedness/irreducibility reduction; P9 owner |
 | [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) | Supporting P9 mathematics |
 | [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) | Foundation This-flattening, P8/P9, tensor decompositions; P10 owner |
-| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | P8 phase, P9/P10 color, and P12 corrective audit of the With-lift; P11 owner |
-| [p12-spin-helicity-handedness-and-chiral-coupling](p12-spin-helicity-handedness-and-chiral-coupling.md) | P4/P5/P7 rotation/Lorentz structure and the adversarial separation of spin `SU(2)` from weak internal `SU(2)`; P12 owner |
-| [chiral-coupling-result](chiral-coupling-result.md) | Concise P12 result shadow; earlier maximal-chirality wording superseded |
+| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | Exact-three office architecture, P8 phase, P9/P10 color, and With-office lifted rotatability; office-trace Registered-not-Sealed, weak-interaction identity Conjectured; P11 owner |
+| [p12-spin-helicity-handedness-and-chiral-coupling](p12-spin-helicity-handedness-and-chiral-coupling.md) | P4/P5/P7 rotation/Lorentz structure, spin-cover deployment, chirality, and the native doublet-interior-action seam; P12 owner |
+| [chiral-coupling-result](chiral-coupling-result.md) | Concise P11/P12 result shadow; weak chirality recorded as corroborative, not warrant |
+| [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 | [quark-lepton-split](quark-lepton-split.md) | Later P13 particle-role source only |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Later P13/P14/P20 source material |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
