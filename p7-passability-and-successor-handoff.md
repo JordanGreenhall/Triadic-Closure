@@ -2,7 +2,7 @@
 title: P7 Passability and Successor Handoff
 type: physics-spine
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 status: current
 confidence: medium
 sources:
@@ -11,6 +11,7 @@ sources:
   - physics-registration-theorem.md
   - d6-persistence.md
   - physics-chemistry-gate-crossing.md
+  - c1-chemistry-entry-and-bond.md
   - physics-domain-mature-status.md
 ---
 
@@ -33,109 +34,77 @@ then `g` may be spent as the successor domain's inherited From, `C_s` is the suc
 
 D7 adds no new modal kind. It selects and spends an already-standing ground under an additional valid constraint.
 
-## 2. What P7 itself must establish
+## 2. P7 burden
 
 P7 owes only the additional handoff claims:
 
 - the proposed ground persists at the scope being spent;
 - the successor constraint is stated, valid, and nonempty;
-- the successor D1 unit is identified by satisfaction of that constraint;
-- the provisioning location is selected by successor-facing characteristics, with its ambient partners where relevant.
+- successor D1 is identified by satisfaction of that constraint;
+- the provisioning location is selected by successor-facing characteristics.
 
-P7 does **not** re-prove the parent's persistence, internal structure, spectrum, interaction law, or geometry. Those remain inherited premises at their owning grades. Conversely, a familiar successor name does not establish the handoff by itself.
-
-Walk order is not epistemic order. A later chemistry construction may establish or constrain P7 whenever it actually exhibits the successor boundary, D1 unit, or provisioning characteristics. Its genuine additional dependencies remain attached.
+P7 does not re-prove the parent's persistence, internal structure, spectrum, interaction law, or geometry. Later successor work may correct the scope of the proposed boundary because walk order is not epistemic order.
 
 ## 3. Physics-to-chemistry instance
 
-The current candidate instance is the physics-to-chemistry handoff recorded in [Physics–Chemistry Gate Crossing](physics-chemistry-gate-crossing.md).
+### 3.1 Ground
 
-### 3.1 Proposed persistent ground
+The proposed ground is the persistent atom within an atomic landscape. The atom and periodic landscape remain partly unnormalized parents. P7 inherits those claims at their owning grades and does not promote them.
 
-The ground is the atom as a persistent composite physical closure, situated in an atomic landscape. The current corpus does not yet carry a fully normalized, wiki-standing derivation of the atom or periodic landscape. P7 therefore inherits the atomic and shell-structure claims at the exact grades recorded in the gate-crossing page; P7 does not manufacture them and does not convert their candidate or Open parts into Secured premises.
+### 3.2 Successor constraint corrected by C1
 
-This parent debt does not make the generic P7 form Open. It conditions the framework-native physics-to-chemistry instance.
+The predecessor-side gate-crossing identified **shell-edge closure-completion**. [C1 Chemistry Entry and Bond D1](c1-chemistry-entry-and-bond.md) confirms that this is a valid chemistry entry route but rejects it as the exhaustive chemistry boundary.
 
-### 3.2 Successor constraint and D1
+The broader successor constraint is:
 
-The proposed successor constraint is **shell-edge closure-completion**:
+> reconfiguration and joint closure of persistent atomic exterior relation-capacities, under preservation of nuclear identity.
 
-- charge closure can terminate at neutrality while a shell-edge remains available for joint completion;
-- two atomic standings may jointly close that residual edge;
-- the resulting minimal successor standing is the **bond**.
+Shell-edge co-completion and charge-site completion after redistribution are two exhibited subconstraints. The minimal nonzero successor standing is the **bond**, understood as the joint closure rather than as an external link-substance.
 
-At essential-form scope, this maps chemistry to the domain of bond-mediated shell-edge closure-completion and maps the bond to chemistry D1.
+Current standing: **Secured conditionally from the inherited atomic ground and exhibited closure sites; empirically nonempty. Chemistry and bond are Registered, not Sealed, at essential-form scope.**
 
-Current standing: **Secured conditionally from the stated atomic/shell premises; chemistry and bond Registered, not sealed, within this essential-form mapping.** Mature chemistry surplus remains quarantined.
+This correction narrows the old P7 claim without damaging passability. P7 successfully found a valid route into chemistry; C1 supplies the broader inside-domain boundary.
 
-The nonemptiness of the boundary is also empirically Secured by observed bonded matter. That empirical warrant must not be relabeled as a framework-native atom or shell derivation.
+### 3.3 Provisioner selection
 
-### 3.3 D7 selection
+P7 is not the internally best or most stable atom. It is the location selected by chemistry-facing composition characteristics.
 
-D7 is not the internally best or most stable atom. It is the location selected by chemistry-facing composition characteristics.
+Given the gate-crossing's octet-capacity, midpoint, screening, bridging, and catenation premises, the criterion selects **carbon**, with its ambient partners, as the physics closure provisioning chemistry's recursive composition.
 
-The current selection criterion is:
+Current standing: **Secured conditionally from the explicitly listed parent premises; carbon Registered, not Sealed, in the P7 role.**
 
-1. multiple simultaneous residual edges sufficient for bridging;
-2. give/receive balance rather than simple termination;
-3. self-composability, expressed in chemistry as catenation;
-4. smallest scale among candidates satisfying the preceding structural conditions, because increasing shell scale weakens edge concentration under the gate-crossing's screening premise.
+The geometry family, four-engageable-edge magnitude, exact Madelung order, and quantitative interaction strengths are not premises of this bounded selection unless explicitly spent.
 
-Given the gate-crossing's octet-capacity, midpoint, and screening premises, the criterion selects **carbon**, in the company of its ambient partners, as the physics closure that provisions chemistry's recursive composition.
+## 4. Bounded use
 
-Current standing: **Secured conditionally from the explicitly listed parent premises; carbon Registered, not sealed, as the P7 provisioner at this essential-form scope.** This is stronger than a mere intuitive gloss and weaker than an unconditional derivation of atomic structure or all chemistry.
+- Generic P7 form is distinct from any particular handoff instance.
+- One valid entry route need not exhaust the successor boundary.
+- Selecting carbon does not re-derive every property of carbon.
+- Empirical atoms, bonds, and catenation secure observation, not framework-native shell derivation.
+- Later articulation may reveal earlier constitutive scope; document order gives neither permission nor prohibition.
 
-The geometry family for two, three, and four partners is a downstream chemistry result and is not a premise of carbon's P7 selection. The conjectured magnitude claim that all four carbon edges are engageable also does not bear the selection unless explicitly invoked.
-
-## 4. Reality-first applicability and bounded use
-
-The following distinctions control every P7 expenditure:
-
-- **P7 form versus P7 instance:** the generic handoff form is Secured even when a particular candidate inherits unresolved parent claims.
-- **scoped witness versus domain-total claim:** one valid handoff establishes a scoped P7 occupancy; it does not prove that every possible successor of physics has been identified.
-- **selection versus derivation of the selected object:** P7 may select carbon under chemistry-facing characteristics without re-deriving every property of carbon.
-- **empirical warrant versus framework derivation:** observed atoms, bonds, and catenation can secure observational claims; they do not erase the framework-native debts in shell construction or interaction magnitude.
-- **later articulation versus later constitution:** downstream chemistry work may reveal the actual boundary and recursion that select carbon; document order neither licenses nor bars the application.
-
-## 5. What remains Open or conditional
-
-- A fully normalized framework-native atom and periodic landscape.
-- The discrete radial/principal tower construction.
-- Exact Madelung ordering and anomalous configurations.
-- Fine-structure and other interaction magnitudes.
-- Any P7 claim spending spatial `r` beyond the standing of G1 inherited by its parent result.
-- Registered–Sealed identity between the essential-form chemistry boundary and mature chemistry.
-- A universal law that every successor inhabits an unconsumed residue or that every D7 provisioner maximizes the successor's D3 recursion.
-- Any chemistry-to-biology handoff.
-
-These are not all P7 proof requirements. They are debts only where the corresponding stronger claim is spent.
-
-## 6. P7 result
+## 5. P7 result
 
 | Claim | Framework state and warrant | Registration / boundary |
 |---|---|---|
 | Generic P7 passability form | Secured by D-series dependency and domain-entry construction | Native |
-| Physics-to-chemistry successor constraint: shell-edge closure-completion | Secured conditionally on the gate-crossing's atomic/shell premises; empirically nonempty | Chemistry Registered, not sealed, at essential-form scope |
-| Bond as chemistry D1 | Secured conditionally by boundary satisfaction; empirically witnessed | Bond Registered, not sealed, at essential-form scope |
-| Carbon as physics P7 provisioner | Secured conditionally from octet-midpoint, bridging, catenation, and smallest-scale premises | Carbon Registered, not sealed, in P7 role |
-| Geometry family by partner count | Retains owning gate-crossing grade | Not required for P7 selection |
-| Four engageable carbon edges | Conjectured-strong in owning source | Not required for P7 selection unless spent |
-| Universal residue / D3-maximizer handoff law | Conjectured; one instance is insufficient for universality | Unregistered as universal rule |
+| Shell-edge closure-completion | Secured conditionally as a valid chemistry entry route | Not the exhaustive boundary |
+| Broader chemistry successor constraint | Secured conditionally through C1; empirically nonempty | Chemistry Registered, not Sealed at essential-form scope |
+| Bond as chemistry D1 | Secured conditionally by broader boundary satisfaction; empirically witnessed | Bond Registered, not Sealed |
+| Carbon as physics P7 provisioner | Secured conditionally from stated atomic and chemistry-facing premises | Carbon Registered, not Sealed in P7 role |
+| Universal residue / D3-maximizer handoff law | Conjectured; one instance is insufficient | Unregistered as universal rule |
 
-## 7. Frontier
+## 6. Remaining debts
 
-### P7-F1 — Normalize the atomic parent
+- Fully normalized atom and periodic landscape.
+- C1 boundary exhaustiveness against metallic, multicenter, radical, weak-interaction, and excited-state chemistry.
+- Exact Madelung order and interaction magnitudes where spent.
+- Any spatial `r` claim beyond its G1 parent standing.
+- Universal residue/D3-maximizer law.
+- Chemistry-to-biology handoff.
 
-Produce a current atom/periodic-landscape claim record that distinguishes framework construction, mathematical consequences, empirical observation, and remaining magnitudes. P7's conditional instance must inherit that record rather than absorb it.
+These are debts only where the stronger claim is spent; they are not retroactive proof requirements for generic P7.
 
-### P7-F2 — Seal the successor mapping
+## 7. Use rule
 
-Test whether shell-edge closure-completion and bond exhaust the essential form of chemistry's boundary and D1, or whether chemically real counterexamples require a broader essential-form statement.
-
-### P7-F3 — Test the general handoff conjecture
-
-Carry the residue and recursion-maximization proposal to an independent successor transition before considering semantic registration as a general law.
-
-## 8. Use rule
-
-Use this page as the canonical P7 control. Use [Physics–Chemistry Gate Crossing](physics-chemistry-gate-crossing.md) for the detailed atomic, shell, carbon, geometry, and audit construction. Do not cite P7 as proof of its parent atomic claims, and do not block an applicable handoff merely because its decisive successor-facing evidence was articulated later.
+Use this page as the canonical P7 control and [C1 Chemistry Entry and Bond D1](c1-chemistry-entry-and-bond.md) as the canonical successor-side correction. Use the detailed gate-crossing for atomic, shell, carbon, and geometry construction. Do not cite P7 as proof of its atomic parents, and do not treat its first valid chemistry route as automatically exhaustive.
