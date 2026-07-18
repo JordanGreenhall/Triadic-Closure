@@ -16,6 +16,7 @@ sources:
   - same-kind-carrier-representation-theorem.md
   - gauge-structure-result.md
   - epsilon-su3-bridge-construction.md
+  - p10-color-singlet-and-representation-consequences.md
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
   - domain-entry-method.md
@@ -50,7 +51,7 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-The normalization-program IDs are semantic units and are not interchangeable with similarly numbered D-series phases. P7 is manifold recovery. P8 is the same-kind internal carrier. P9 is the alternating closure-form and native SU(3) bridge.
+The normalization-program IDs are semantic units and are not interchangeable with similarly numbered D-series phases. P7 is manifold recovery. P8 is the same-kind internal carrier. P9 is the alternating closure-form and native SU(3) bridge. P10 is This-flattening color, singlet closure, and allowed representation consequences. Particle identity and native role taxonomy belong to P13.
 
 ## Status matrix
 
@@ -82,6 +83,10 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 | P9 alternating form | Registered, not Sealed | Connectedness and irreducibility eliminate declared symmetric rivals | Candidate-class exhaustiveness remains a seal residual |
 | P9 stabilizer mathematics | Sealed given P8/P9 inputs | `Stab(epsilon)=SL(3,C_C)` and pairing intersection gives `SU(3)` | Retains M6 selected-calculus condition |
 | P9 native SU(3) | Registered, not Sealed | Framework-selected alternating form plus Sealed stabilizer theorem | Vanishing-on-coincidence is retired as load-bearing route; no mature-QCD surplus |
+| P10 This-flattening color | Secured deployment; color Registered, not Sealed | Threefold qualitative interior distinction on the P8/P9 carrier | Non-spatial; no particle or flavor assignment |
+| P10 singlet closure | Sealed as invariant mathematics; Registered for color-neutral closure core | Trivial total SU(3) transformation; epsilon and conjugate-pair singlet channels | Physical singlet necessity and dynamics remain Open |
+| P10 representation consequences | Sealed as mathematics given P8/P9 | `3`, `3-bar`, `3 x 3-bar = 1 + 8`, `3 x 3 x 3 = 1 + 8 + 8 + 10` | Occupancy, particle names, spectrum, spin/flavor, and dynamics excluded |
+| P10 selected color-operator spectrum | Sealed for the stated operator | Eigenvalues `-2`, `-1/2`, `+1` by representation | No binding or confinement interpretation without a physical law |
 | Realizability weighting | Registered, not sealed | Coherence-participation law at stated conditions | Quantitative bridges retain their own conditions |
 | Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
 | Full Einstein form | Conditional / nonlinear incomplete | Weak-field strong; full route incomplete | Exact G Open |
@@ -89,7 +94,7 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 | Λ meaning | Registered | Reflexive closure gives w=-1 form | Magnitude Open |
 | Mass as self-closure | Registered | Mass nature and structural ratios; electron native ruler | Calibrated values and hierarchy Open |
 | Chiral / hypercharge / electroweak particulars | Mixed Registered / Open | Structural criteria located | Exact module and assignments Open |
-| Quark/lepton split | Registered | Interior triad resolved versus closed | Charges, masses, generations Open |
+| Particle-role taxonomy | Not yet normalized in P-series | Quark/lepton and named particle roles are later source material | P13 owns normalization |
 | Generation count | Open | No replication-three result | Spectral route or Open |
 | Atoms / periodic landscape | Open as a fully normalized wiki-standing derivation | Later interface work retains its own grades | X1, not P7 |
 
@@ -103,6 +108,7 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 - P7 graph dimension, criticality, frame-freedom, narrowed spatial-sector debt, and exactness ceiling.
 - P8 one same-kind carrier, selected complex deployment, scalar verdict, fixed scale, Hermitian pairing, and dimension three at their recorded grades.
 - P9 native SU(3) at Registered-not-Sealed scope, with the stabilizer theorem Sealed as mathematics.
+- P10 This-flattening color, singlet channels, and the listed representation decompositions at their recorded scopes.
 - Weak-field gravity.
 - Mass as self-closure in nature/ratio scope.
 
@@ -114,14 +120,18 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 4. **P9-F2:** ground polystability/reductivity and no-privileged-subspace scope.
 5. **P9-F3:** classify the complete primitive ternary scalar candidate space.
 6. **P9-F4:** record the selected M6 calculus and closure for every stabilizer operation.
-7. Full gravity beyond weak-field.
-8. Stress-energy dynamical population.
-9. Exact chiral module and hypercharge particulars.
-10. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
-11. Matter spectrum / generations.
+7. **P10-F1:** determine whether complete physical color standings must be singlets.
+8. **P10-F2:** construct the conjugate carrier and `3 x 3-bar` singlet expenditure at carrier precision.
+9. **P10-F3:** test any representation-to-dynamics bridge for attraction, confinement, or stability.
+10. **P10-F4:** record M6 closure under tensor, dual, conjugation, contraction, decomposition, and operator operations.
+11. Full gravity beyond weak-field.
+12. Stress-energy dynamical population.
+13. Exact chiral module and hypercharge particulars.
+14. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
+15. Matter spectrum / generations.
 
 ## Bottom line
 
-P9 registers the fixed alternating closure form and native `SU(3)` without deriving the P8 carrier retroactively. The live framework route is connectedness plus irreducibility, not the retired vanishing-on-coincidence premise. The form-selection result is Registered, not Sealed; the stabilizer calculation is Sealed as mathematics given the M6-selected P8 carrier and the P9 form.
+P10 registers color as the physics reading of the This-flattened qualitative interior distinction, constructs singlet closure as trivial total `SU(3)` transformation, and records only the representation consequences allowed by the P8 carrier and P9 group. It does not normalize particle identity, confinement dynamics, charge, flavor, mass, or the empirical matter spectrum.
 
-See also: [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md), [Epsilon / SU(3) Bridge Construction](epsilon-su3-bridge-construction.md), [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md).
+See also: [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md), [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md), [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md).
