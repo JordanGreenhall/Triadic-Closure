@@ -2,7 +2,7 @@
 title: Known Failure Modes
 type: overview
 created: 2026-06-21
-updated: 2026-07-17
+updated: 2026-07-18
 status: control
 confidence: high
 sources:
@@ -40,129 +40,83 @@ Always consult [supersession-map](supersession-map.md).
 
 ## 3. Vertical/horizontal collapse
 
-Do not confuse:
-
-- vertical office-composition;
-- horizontal accumulated layers/nesting;
-- standing-face readout of horizontal history;
-- horizontal address-length, succession count, or layer altitude mislabeled as depth; depth is reserved for vertical coinductive office-decomposition;
-- treating the direct terminology ruling as if it supplied warrant for mutual composition or flattening, or dropping the pure-posit condition from vertical composition.
-
-This collapse causes downstream confusion around J, ρ, composition, and emergence.
+Do not confuse vertical office-composition, horizontal accumulated layers, standing-face readout of horizontal history, or horizontal address-length with vertical depth. Do not treat a terminology ruling as warrant for mutual composition or flattening, and do not drop the pure-posit condition from vertical composition.
 
 ## 4. Deprecated `locked actual` status
 
-Do not use `locked actual` as a live status. It is deprecated because it hides multiple independent facts. Translate it through [locked-actual-decrement-map](locked-actual-decrement-map.md) into:
+Do not use `locked actual` as a live status. Translate it through [locked-actual-decrement-map](locked-actual-decrement-map.md) into separate framework epistemic state and semantic registration. Never infer either axis from `locked actual` alone.
 
-- framework epistemic state: Open / Conjectured / Secured, with warrant route and reach where Secured;
-- semantic registration: Native / Unregistered / Registered / Registered–Sealed, with licensed core and quarantined surplus where Registered.
+Dimensionality special case: exact `3+1` is Secured by the architectonic/defended-posit route and Registered–Sealed within dimensional scope. P4 Registers only the Lorentzian `1|3` signature germ; P5 owns the sign-valued interval and Lorentz theorem; P7 owns carrier recovery.
 
-Never infer either axis from `locked actual` alone.
-
-Dimensionality special case: exact `3+1` is **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the Lorentzian `1|3` signature germ; do not smuggle in P5's sign-valued interval, null cone, or Lorentz group. P5 Secures the link/step identity and direct-bound null relation natively, but its full interval/group theorem is conditional on a stated direction carrier/manifold. P7 owns recovery of that carrier. Do not downgrade dimensionality to a merely empirical trajectory lock, and do not overclaim it as a completed formal theorem.
-
-P6 special case: the generic D6 phase-form is Secured, and persistence is Registered–Sealed within that form. That does not make a particular persistent physical closure actual, established, or locked. Physics D6 occupancy and the basic stable ruler remain Open.
+P6 special case: the generic D6 phase-form is Secured and persistence is Registered–Sealed within that form. Particular persistent physical closures and the basic stable ruler remain Open.
 
 ## 5. Smuggled content and premature naming
 
-Do not import premises, primitives, results, or inherited meanings that the framework has not earned. Mature physics names are a common carrier of this failure.
+Do not import premises, primitives, results, or inherited meanings that the framework has not earned. Mature names license only their mapped core; legacy surplus is quarantined and contributes no warrant.
 
-When a Secured native core supports an inherited name, use recognition with surplus quarantined: license only the mapped core and bar every legacy surplus from doing work. Recognition contributes no warrant.
+For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md). A mathematical object belongs to the physics subdomain exactly when it satisfies the established physics boundary; no second physical bearer or occupancy trace is required.
 
-For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md). A mathematical object belongs to the physics subdomain exactly when it satisfies the established physics boundary; no second “physical occupancy” is added. `Native` is not a warrant label, and P1 does not register a mature physics name merely because a framework core exists.
+P6 name boundaries:
 
-P6 name boundaries are especially easy to overrun:
-
-- **bound state** at P6 means only a persistent-composite core; it does not import a Hamiltonian, normalizability, localization, threshold, binding energy, or lifetime;
+- **bound state** means only a persistent-composite core;
 - **stability** requires an exhibited perturbation class, comparison structure, and return/retention rule;
 - **metastability** and **decay** require restricted persistence plus an admitted escape passage;
-- **atom**, **hadron**, **particle spectrum**, and **Higgs** belong to later owning units and are not D6 synonyms.
+- **atom**, **hadron**, **particle spectrum**, and **Higgs** belong to later units.
 
 ## 6. Smuggled demand
 
 Do not import a question or explanatory obligation generated by a rival ontology and treat the framework as owing an answer without first showing that the framework's own commitments generate the demand.
 
-Expose the presupposition. If the framework does not share it, dissolve the demand rather than inventing an answer. Do not misuse this diagnosis to avoid a live question: an unanswered question counts as a smuggled demand only when its obligation depends on an absent or rejected presupposition.
+Expose the presupposition. If the framework does not share it, dissolve the demand rather than inventing an answer. Do not misuse this diagnosis to avoid a live question.
+
+### Reverse smuggle
+
+> **Reverse smuggle.** Importing a rival ontology's requirements, taxonomy, or theorems as discharge conditions for a framework claim, then demoting the claim for failing to satisfy them. Test: is the demanded condition stated in framework primitives, or does satisfying it require adopting a distinction the framework does not hold? If the latter, the demand is dissolved, not owed. Related to smuggled demand; distinguished by direction — the alien content enters as an obligation rather than as a result.
 
 ### Manufactured proof requirements
 
-Under-proof and over-proof are symmetric distortions. Do not invent a possible failure and demand a proof against it unless an actual framework operation could produce that failure.
+Under-proof and over-proof are symmetric distortions. Do not invent a possible failure and demand proof against it unless an actual framework operation could produce that failure.
 
 In particular:
 
-- a valid nonempty admissibility constraint is already a boundary; no additional gate event is required;
-- the boundary's admitted contents are already D1; no second physical bearer, occurrence-stuff, or occupancy trace is required;
-- whole-ground inheritance carries constitutive structure into the subdomain; do not demand that it be re-admitted, re-populated, or proved compatible unless the boundary contains an operation that could exclude or alter it;
-- a genuinely additional later claim—such as D2 holding, sector-purity of a particular closure, superselection, dynamics, spin-statistics, P6 physical occupancy, or an actual stability/decay law—retains its real proof burden.
+- a valid nonempty admissibility constraint is already a boundary;
+- admitted contents are already D1;
+- whole-ground inheritance carries constitutive structure into the subdomain;
+- genuinely additional later claims retain their real proof burden.
 
-The audit question is: **what exact operation could make the inherited result fail here?** If none is identified, the proposed proof obligation is a smuggled demand. Conversely, when a later construction is genuinely additional, do not erase its proof burden by calling the generic phase-form inherited.
+The audit question is: **what exact operation could make the inherited result fail here?** If none is identified, the proposed obligation is a smuggled demand.
 
 ## 7. Warrant/registration collapse
 
-Do not:
+Do not treat Registered as well-proven; place registration and epistemic warrant on one ladder; use inherited names before their mapped core is Secured; spend quarantined surplus; call registration sealed without bidirectional identity; treat Native as deficient; misclassify pure posits; convert argued into proved; or infer physical occupancy from a generic phase-form.
 
-- treat Registered as well-proven, mature, stable, or high-confidence;
-- place Registered and Registered–Sealed above Conjectured on one epistemic ladder;
-- use an inherited name before its mapped framework core is Secured;
-- let a Registered name spend quarantined legacy content;
-- call a registration sealed without bidirectional content-identity;
-- treat a Native concept as epistemically deficient because no legacy mapping applies;
-- treat a pure posit as Conjectured, Secured, or an incomplete defended posit, or fail to propagate downstream dependence on it;
-- convert argued → proved, checked → theorem, selection → forced, confidence → warrant, or workflow/disposition → epistemic state;
-- translate raw-package `locked actual` without separating framework warrant from semantic registration;
-- infer physical occupancy from a Secured generic phase-form.
-
-Use the two-axis record in [claim-status-vocabulary](claim-status-vocabulary.md).
+Use [claim-status-vocabulary](claim-status-vocabulary.md).
 
 ## 8. Closure-grade collapse
 
 Do not use `closure` as if it already meant stable, persistent, passable, self-maintaining, domain-complete, or physically bound.
 
-- closure: the completed triadic act standing as one;
-- relative stability: the same standing remains intelligible across some variation;
+- closure: completed triadic act standing as one;
+- relative stability: standing remains intelligible across variation;
 - D6 persistence: invariant-preservation across an exhibited variation-space;
-- D7 passability: a persisting closure is selected as gate-ground under an exhibited successor boundary.
-
-Actual and standing are aspect-readings of one closure. Strides and concrete domain closures are occurrences or occupancies of the same form, not alternate foundational meanings. The F5 closure record is **Secured by construction within the F2 frame** and **Native**; it supplies no warrant for a particular occupancy or self-closure dynamics.
+- D7 passability: persisting closure selected as gate-ground under a successor boundary.
 
 ### P6 classifier collapse
 
-Keep these distinct:
-
-- **fixed point**: unchanged under a specified map;
-- **attractor**: nearby or admitted perturbations return under a specified dynamics;
-- **persistent closure**: its identifying invariant is preserved across the declared passage-class;
-- **stable closure**: persistence plus a declared perturbation/return structure;
-- **metastable closure**: persistence on a restricted class plus an admitted escape passage;
-- **escape weight**: a measure assigned to escape alternatives by a separately warranted weighting construction;
-- **decay rate or lifetime**: a calibrated hazard/frequency statement.
-
-Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a measure, or a lifetime from escape-accessibility. Those are distinct additional constructions.
+Keep fixed point, attractor, persistent closure, stable closure, metastable closure, escape weight, and decay rate distinct. Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a measure, or a lifetime from escape-accessibility.
 
 ## 9. Regression to earlier lineage
 
-The conversation shows that earlier docs often contain good work in obsolete frames. Extract provenance carefully; do not restore the old frame.
-
-For P6, retain the historical walk as evidence of where overreach occurred, but never restore its dimensionality, atom, confinement, spectrum, Higgs, or rate claims as current doctrine.
+Earlier documents may contain good work in obsolete frames. Extract provenance without restoring the old frame.
 
 ## 10. Treating the ledger as polished doctrine
 
-The full conversation is a lineage source, not a final document. Use it to understand decisions, not to quote every provisional statement as doctrine.
+The full conversation is a lineage source, not final doctrine.
 
 ## 11. Execution-discipline collapse
 
-Do not:
+Do not activate the corpus as a whole, edit beyond required propagation, infer absence from partial search, improvise theory to close a debt, mix semantic categories opaquely, claim completion before verification, retain duplicate reports after absorption, delete before checking unique value, or report an external action the returned state did not confirm.
 
-- activate the corpus as a whole or bounce among nearby semantic units;
-- edit a downstream file beyond the propagation required by the active unit;
-- infer absence from a partial search or begin adjudication before collecting current, superseded, adversarial, summary, frontier, and downstream sources;
-- improvise theory to close a normalization debt;
-- mix authority, semantics, structure, disposition, and readability in an opaque pass;
-- claim completion before propagation, real verification, the fresh-AI test, and a second no-change compiler cycle;
-- retain duplicate reports or inventories after their unique work is absorbed;
-- archive or delete before checking unique semantic, evidentiary, frontier, and memorial value;
-- report a mutation, commit, PR, or external action that the returned state did not confirm.
-
-Use the one-unit loop and pass constraints in [agent-execution-rules](agent-execution-rules.md).
+Use [agent-execution-rules](agent-execution-rules.md).
 
 See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [d6-persistence](d6-persistence.md), [corpus-lineage](corpus-lineage.md).

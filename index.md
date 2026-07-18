@@ -65,17 +65,18 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
-## Gauge and internal structure
+## Gauge, internal structure, and spin structure
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
 - [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md)
 - [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md)
-- [Chiral Coupling Result — P12 source material](chiral-coupling-result.md)
+- [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md)
+- [Chiral Coupling Result — concise P12 shadow](chiral-coupling-result.md)
 - [Quark–Lepton Split — P13 source material](quark-lepton-split.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-P11 owns `SU(2)` and `U(1)` source classification, the gauge-completeness boundary, and electroweak quarantine. It does not own spin/helicity/chirality, particle taxonomy, charge/hypercharge, or electroweak breaking.
+`Spin(3) ≅ SU(2)` is the double cover of spatial rotations. It does not by itself establish the internal weak gauge group. P12 governs spin, helicity, chirality, and the chiral/vectorial coupling distinction; actual weak chirality and exact `V−A` remain Open.
 
 Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
 
