@@ -34,6 +34,19 @@ Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-i
 
 ---
 
+## P6 — PERSISTENCE, STABILITY, AND DECAY CONTROL
+
+Run [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md) whenever persistence, bound state, stability, metastability, decay, escape, lifetime, stable closure, atom, or a D6 handoff is spent. Keep four levels separate:
+
+1. the generic D6 phase-form — invariant-preservation across an exhibited D5 variation-field — is Secured and Native;
+2. persistence is Registered–Sealed only within that exact phase-form scope;
+3. a persistent composite, stability, metastability, and structural decay are conditional classifiers requiring the stated composite invariant, perturbation class, and passage/return structure;
+4. physics D6 occupancy, the basic stable closure, atoms, the stable-closure cascade, and all rates remain Open.
+
+Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a weight, or a lifetime from an escape measure. Do not revive the superseded D6 stability proof of exact `3+1`; P4 owns dimensionality. P6 supplies no confinement dynamics, Higgs structure, particle spectrum, decay products, or chemistry gate.
+
+---
+
 ## PART 0 — THE FROM: full content of the terminal mathematical object (inherited at EVERY step)
 
 Physics is a sub-branch of mathematics. Its From is not the foundational floor — it is the **terminal mathematical object in full**, the persisting closure of the math domain, arriving before D1(phys) as the conditioning constraint-bundle. Every physics step inherits the certified gate-package, at each item's existing grade and debt, rather than a chosen handle off it. “Inherited whole” means no certified constraint may be contradicted or silently dropped; it does **not** mean every item must actively instantiate or bite at every phase. Record each as bites / does not bite / unresolved, and exhibit every expenditure. The survey, by kind of constraint:
