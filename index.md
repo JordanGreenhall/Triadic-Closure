@@ -44,6 +44,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
 - [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
 - [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
+- [P7 Passability and Successor Handoff](p7-passability-and-successor-handoff.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
 - [Locked Actual Decrement Map](locked-actual-decrement-map.md)
@@ -53,7 +54,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 ## Physics walk, propagation, and spacetime
 
-- [Physics Walk D1–D6 — historical development source; current P1–P6 pages govern](physics-walk-D1-D6.md)
+- [Physics Walk D1–D6 — historical development source; current P1–P7 pages govern](physics-walk-D1-D6.md)
 - [Physics Walk D2](physics-walk-D2.md)
 - [Physics Walk D1–D5 Consolidated](physics-walk-d1-d5-consolidated.md)
 - [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
@@ -92,7 +93,10 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 
 ## Physics-to-chemistry transition
 
-- [Physics–Chemistry Gate Crossing — candidate deposit, not wiki-standing](physics-chemistry-gate-crossing.md)
+- [P7 Passability and Successor Handoff — canonical control](p7-passability-and-successor-handoff.md)
+- [Physics–Chemistry Gate Crossing — detailed construction and source ledger](physics-chemistry-gate-crossing.md)
+
+The canonical P7 page governs the handoff grade and scope. The gate-crossing page retains the detailed atomic, shell, carbon, geometry, and audit construction at its owning grades. P7 is successor passability; G1 manifold recovery is independent.
 
 The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
 
