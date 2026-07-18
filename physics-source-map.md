@@ -20,8 +20,9 @@ This page maps curated physics pages to their principal upstream sources in the 
 | [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) | [propagation-invariant-velocity-and-modal-structure](propagation-invariant-velocity-and-modal-structure.md), [lorentz-from-recoupling](lorentz-from-recoupling.md), and P4 controls |
 | [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md) | G1 records in the consolidated Physics I source, P5 carrier boundary, gravity/GR-QM control ledgers, and the named universality import |
 | [d6-persistence](d6-persistence.md) | Generic D6 construction, current status/work-plan controls, and bounded baryon/electron/neutron witnesses; historical D6 walk retained as adversarial evidence |
-| [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) | M6 selected quadratic extension and Hermitian scalar extension at the conditional rule-calculus grade; PR #1 Lineage 4 provenance correction; Item 4 carrier adjudication and internal-structure sources; canonical P8 owner |
-| [gauge-structure-result](gauge-structure-result.md) | P8 carrier input plus the epsilon/alternating-form bridge, earlier D3 color-forcing sources, and stabilizer mathematics; canonical P9 owner |
+| [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) | Item 4 status/adjudication, PR #1 complex-provenance correction, M6 selected-extension boundary, and the internal-structure consolidated source; canonical P8 owner |
+| [gauge-structure-result](gauge-structure-result.md) | P8 carrier input plus [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) and Item 3's connectedness/irreducibility reduction; canonical P9 owner |
+| [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) | Supporting worked P9 reduction; not an independent competing control page |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result page and current adjudication |
 | [quark-lepton-split](quark-lepton-split.md) | Same-named result page |
 | [chiral-coupling-result](chiral-coupling-result.md) | Same-named result page |
@@ -45,6 +46,7 @@ Additional method sources:
 - [d6-persistence](d6-persistence.md) — P6 control
 - [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md) — P7 control
 - [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) — P8 control
+- [gauge-structure-result](gauge-structure-result.md) — P9 control
 - [domain-entry-method](domain-entry-method.md) — F4 control
 - [physics-walk-checklist](physics-walk-checklist.md)
 - [three-moves-per-stage](three-moves-per-stage.md)
