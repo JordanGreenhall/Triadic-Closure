@@ -65,7 +65,25 @@ Do not attach P7 to the internal carrier, Born/readout, or mass-measure spine me
 
 ## P8 — SAME-KIND INTERNAL-CARRIER CONTROL
 
-Run [Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md) whenever one internal carrier, complexness, scalar closure verdict, fixed form, Hermitian pairing, or internal dimension three is spent. P8 is upstream of the alternating-form/SU(3) unit. Do not use SU(3) or the epsilon form to prove P8's carrier dimension or complexness, and do not attach P7/G1 to this internal vertical carrier.
+Run [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) whenever one internal carrier, carrier-specific complex deployment, scalar closure verdict, fixed scalar scale, Hermitian pairing, or internal dimension three is spent.
+
+M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8 deploys that extension on the one same-kind carrier; it does not derive unrestricted `C` from the internal triad. The cyclic route is corroborative and seal-directed, not scalar provenance. P8 is upstream of the alternating-form/SU(3) unit. Do not use SU(3) or epsilon to prove P8, and do not attach P7/G1 to this internal vertical carrier.
+
+---
+
+## P9 — ALTERNATING-FORM AND NATIVE-SU(3) CONTROL
+
+Run [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md) whenever epsilon, determinant, alternating ternary closure, `SL(3,C)`, `SU(3)`, or native color-gauge structure is spent.
+
+P9 inherits the P8 carrier package at M6's selected-extension grade. Its framework work is the connectedness/irreducibility reduction among primitive fixed complex trilinear scalar forms. The retired vanishing-on-coincidence route is not the live warrant. Keep these layers separate:
+
+1. connectedness of the admissible algebraic stabilizer — Registered, not Sealed;
+2. irreducibility under no privileged internal frame, given reductivity — Registered, not Sealed;
+3. alternating-form selection within the declared candidate class — Registered, not Sealed;
+4. `Stab(epsilon)=SL(3,C_C)` and `SL(3,C_C) intersect U(3)=SU(3)` — Sealed as mathematics given P8/P9 inputs;
+5. native `SU(3)` — Registered, not Sealed.
+
+Do not re-open P8 carrier alternatives as P9 debts. Do not derive U(1), SU(2), hypercharge, chiral modules, generations, confinement dynamics, masses, Yukawa couplings, or Standard Model gauge completeness from P9.
 
 ---
 
