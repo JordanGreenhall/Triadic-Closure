@@ -21,6 +21,7 @@ sources:
   - p13-particle-identity-and-native-role-taxonomy.md
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
+  - p16-quantitative-qcd-dynamics-and-quarantine.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -53,7 +54,8 @@ Read by semantic dependency rather than file age.
 13. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
 14. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
 15. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
-16. [Physics Domain Mature Status](physics-domain-mature-status.md).
+16. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
+17. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -66,7 +68,7 @@ Read by semantic dependency rather than file age.
 5. [realizability-weighting-law](realizability-weighting-law.md).
 6. [with-to-this-closure](with-to-this-closure.md).
 
-## 3. Internal structure, gauge sources, spin, particle roles, marks, and charge
+## 3. Internal structure, gauge sources, roles, marks, charge, and color dynamics
 
 Read in this order:
 
@@ -79,31 +81,26 @@ Read in this order:
 7. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
 8. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
 9. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
-10. [Quark–Lepton Split](quark-lepton-split.md) — concise P13 shadow.
-11. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — source for P14 and later mass/decay work.
+10. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
+11. [Specific Color Dynamics / Narrow QCD Quarantine](09-specific-color-dynamics-qcd-quarantine.md) — concise P16 shadow.
 
 Reader guards:
 
 - P8 is upstream of P9; do not derive carrier dimension or complexness from `SU(3)`.
 - P10 owns color/singlet/representation consequences only.
-- P11 owns gauge-source office traces and their bounded identities.
-- P12 owns spin, helicity, chirality, and chiral-coupling structure.
 - P13 treats particle names as standing-roles, not primitive substances.
-- P14 treats flavor as marked color and owns primitive mark count and geometry only.
-- P15 Registers charge as signed relational valence and hypercharge only at architectural sector-assignment scope.
-- `Q = T3 + Y/2` is conditional mathematics; it does not populate or normalize the operators.
-- Center-locking, the exact quotient, fractional assignments, the `1/6` lattice, and anomaly cancellation remain Open or Conjectured.
-- P16 owns quantitative QCD dynamics; P17–P21 own mass, baryon, energetics, and decay; P29 owns breaking, Higgs/Yukawa, generations, and spectrum.
+- P14 owns primitive mark count and geometry only.
+- P15 owns charge/hypercharge/valence/center-locking at its bounded grades.
+- P16 may spend P9/P10 color structure downstream; its operator and decomposition results may not be spent backward to prove the bridge.
+- P16 structural confinement means colored non-closure plus singlet complete-closure and tested return. It does not include flux tubes, linear potential, area law, or a mass-gap theorem.
+- Coupling magnitude, `alpha_s` running, asymptotic freedom, lattice mechanisms, the QCD scale, and quantitative hadron observables remain quarantined.
+- P17–P21 own mass, baryon, energetics, and decay; P29 owns breaking, Higgs/Yukawa, generations, and spectrum.
 
 ## 4. Closure, mass, flavor, and neutron
 
 1. [mass-as-self-closure](mass-as-self-closure.md).
 2. [closure-inherited-metric](closure-inherited-metric.md).
-3. [mass-derivation-three-faces](mass-derivation-three-faces.md):
-
-   > `m_p / m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
-
-   The standalone `6 pi^5` is only the exact With–This color-seating factor.
+3. [mass-derivation-three-faces](mass-derivation-three-faces.md).
 4. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 
 ## 5. Gravity and cosmology
@@ -127,4 +124,4 @@ Reader guards:
 
 ## One-line reader rule
 
-Before spending a charge or hypercharge value, identify the native valence or phase-assignment construction that warrants it; standard tables and center quotients may not be spent backward.
+Before using the word **confinement**, state whether the claim is structural colored non-closure, tested singlet attraction, or mature quantitative QCD dynamics; only the first two are presently Registered.

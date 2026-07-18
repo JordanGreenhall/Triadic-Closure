@@ -65,7 +65,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
-## Gauge, internal structure, spin, particle roles, marks, and charge
+## Gauge, internal structure, roles, marks, charge, and color dynamics
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -75,11 +75,13 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md)
 - [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
 - [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
+- [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
+- [Specific Color Dynamics / Narrow QCD Quarantine — concise P16 shadow](09-specific-color-dynamics-qcd-quarantine.md)
 - [Chiral Coupling Result — concise P12 shadow](chiral-coupling-result.md)
 - [Quark–Lepton Split — concise P13 shadow](quark-lepton-split.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-P15 Registers charge as signed relational valence and hypercharge as a From-phase sector assignment at architectural scope. Exact assignments, fractional charges, center-locking, the `1/6` lattice, anomaly cancellation, and the global quotient remain Open or Conjectured.
+P16 retains the invariant pairwise color-operator form, the three-factor `SU(3)` decomposition, structural colored non-closure, and the tested-flow singlet attractor at bounded grades. Coupling magnitude, running, asymptotic freedom, flux-tube mechanisms, lattice dynamics, the QCD scale, and quantitative hadron observables remain quarantined and Open.
 
 Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
 
