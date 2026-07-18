@@ -20,6 +20,7 @@ sources:
   - p12-spin-helicity-handedness-and-chiral-coupling.md
   - p13-particle-identity-and-native-role-taxonomy.md
   - p14-flavor-and-mark-geometry.md
+  - p15-charge-hypercharge-valence-and-center-locking.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -65,6 +66,12 @@ P10 owns color, singlet closure, and allowed representation consequences. P11 ow
 | P14 cyclic mark geometry | Registered-not-Sealed | Threefold orientation plus no privilege | No-fixed-line step inherits P9 debt |
 | P14 mark metric `-1/2` | Algebra Sealed given premises; framework geometry Registered-not-Sealed | Equal magnitude, equal overlap, zero sum | No charge, mass, or dynamics |
 | P14 `uud` / `udd` differentiation | Registered at mark-pattern scope | Positive nucleon distinction by surviving marks | P15 valence and later mass/decay excluded |
+| P15 signed relational valence | Secured structurally; Registered as charge-core | Outward/inward relational edge | Magnitude Open |
+| P15 hypercharge | Registered at architectural scope | From-phase sector indexing over chiral roles | Exact assignments and normalization Open |
+| P15 `Q = T3 + Y/2` | Sealed conditional mathematics | Standard operator relation once admitted | Physical population and values not derived |
+| P15 center-locking | Conjectured | Proposed compatibility of source-form centers | Exact quotient and locking action absent |
+| P15 `1/6` charge lattice | Open / conditional | Mystery-compression only | No framework theorem or uniqueness proof |
+| P15 proton positive / neutron neutral | Registered at bounded valence-core | Outward satisfiable versus net-neutral edge | Fractional constituent charges conditional |
 | Realizability weighting | Registered-not-Sealed | Coherence-participation law | Quantitative bridges retain conditions |
 | Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
 | Mass as self-closure | Registered | Nature and structural ratios | Calibrated values and hierarchy Open |
@@ -79,13 +86,14 @@ P10 owns color, singlet closure, and allowed representation consequences. P11 ow
 5. **P11/P12-F1:** construct exactly *how a lift of With-rotatability acts on doublet-type interior structure rather than on spatial position.*
 6. **P13-F2:** adjudicate the proposed neutrino From–With/chiral office trace.
 7. **P14-F1:** determine whether the three primitive marks exhaust flavor-kind at one horizontal level.
-8. **P14-F2:** strengthen or bound the no-fixed-line argument.
-9. **P14-F3:** record the real-subspace and pairing expenditure from M6/P8.
-10. Full gravity beyond weak-field.
-11. Matter spectrum and generations.
+8. **P15-F1:** construct the exact chiral module carrying With and From actions.
+9. **P15-F2:** specify the source-form centers, their actions, and the native locking condition.
+10. **P15-F3:** determine which hypercharge ratios follow and which normalization remains free.
+11. Full gravity beyond weak-field.
+12. Matter spectrum and generations.
 
 ## Bottom line
 
-P14 normalizes flavor as marked color, Registers three primitive marks as color's threefold distinction under determinate engagement, and Registers their cyclic zero-sum geometry with pairwise metric `-1/2`. It positively distinguishes proton and neutron at mark-pattern scope while leaving charge, valence, mass, decay, generations, and the full flavor spectrum to later units.
+P15 Registers charge as signed relational valence and hypercharge as a From-phase sector assignment at architectural scope. The standard charge relation is conditional mathematics. Exact assignments, fractional charges, center-locking, the `1/6` lattice, anomaly cancellation, and global quotient remain Open or Conjectured.
 
-See also: [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md), [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md), and [Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md).
+See also: [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md), [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md), and [Physics Domain Work Plan](physics-domain-work-plan.md).

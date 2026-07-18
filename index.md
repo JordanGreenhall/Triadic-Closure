@@ -65,7 +65,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
-## Gauge, internal structure, spin, particle roles, and marks
+## Gauge, internal structure, spin, particle roles, marks, and charge
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -74,11 +74,12 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md)
 - [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md)
 - [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
+- [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
 - [Chiral Coupling Result — concise P12 shadow](chiral-coupling-result.md)
 - [Quark–Lepton Split — concise P13 shadow](quark-lepton-split.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-P14 treats flavor as marked color. It Registers three primitive marks, their cyclic zero-sum geometry, the pairwise mark metric `-1/2`, and `uud`/`udd` nucleon differentiation at mark-pattern scope only. Charge, valence, mass, decay, generations, and the full flavor spectrum retain their later owners.
+P15 Registers charge as signed relational valence and hypercharge as a From-phase sector assignment at architectural scope. Exact assignments, fractional charges, center-locking, the `1/6` lattice, anomaly cancellation, and the global quotient remain Open or Conjectured.
 
 Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
 
