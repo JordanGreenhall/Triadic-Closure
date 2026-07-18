@@ -421,7 +421,7 @@ See [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md). Item 12 **PASSE
 
 - **Curvature meaning:** anisotropic re-weighting of realizable-next null directions by the participation gradient — **Registered**. Rests on Item 2, now PASS; no rate, no density, no driver smuggle.
 - **Weak-field static `g00`:** participation gradient → Newtonian potential; F9 tilt → geodesic deflection — **Registered**. Item-2 functional dependency is discharged.
-- **Lorentzian signature / metric re-coupling symmetry:** **Registered and Sealed** using Alexandrov-Zeeman as a named external theorem.
+- **Lorentzian signature / metric re-coupling symmetry:** P5 Secures the null unit-identity natively; the full interval and re-coupling symmetry are **Secured conditionally and Registered–Sealed on a given carrier/manifold**, using Alexandrov-Zeeman as a named external theorem. P7/G1 carrier recovery remains incompletely sealed; exact local Lorentz on the recovered continuum is Secured within its defended-posit ceiling and Registered-not-Sealed.
 - **`Λ` structural meaning:** stress-energy of self-closure, `w=-1` — **Registered**; scaling `Λ ∼ R_H^-2` **Registered**; native complete `3 R_H^-2` **Conjectured-strong**; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open.
 - **Stress-energy three offices:** From=flux, This=energy, With=relational stress — **Registered representationally**; dynamical population Conjectured, With-mode unproven.
 
@@ -434,7 +434,7 @@ See [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md). Item 12 **PASSE
 
 ### 12.3 External theorem imports
 
-- **Alexandrov-Zeeman:** accepted named external theorem for the Lorentzian recognition step.
+- **Alexandrov-Zeeman:** accepted named external theorem for the Lorentzian recognition step on a given carrier/manifold; it does not construct or recover that carrier.
 - **Lovelock:** accepted named external theorem for the conditional full-Einstein route, given the second-order premise.
 
 The imports are flagged, not smuggled. The failure condition is promoting weak-field success plus Lovelock into a sealed native full Einstein equation.

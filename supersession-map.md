@@ -72,7 +72,7 @@ Execution rule: do not say Λ has no framework meaning; say its magnitude is not
 - Later control ruling: exact `3+1` stands at the same architectonic strength as the triadic exactly-three posit and horizontal flattening: three With-flattened spatial degrees plus one From-succession direction.
 - Caution: `physics-walk-D1-D6.md`'s D6 stability argument and the ternary-coalgebra route are not the primary proof.
 
-Execution rule: report exact `3+1` on both axes: **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the `1|3` Lorentzian-signature germ; the sign-valued interval, null cone, and Lorentz symmetry are later P5 results. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md).
+Execution rule: report exact `3+1` on both axes: **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the `1|3` Lorentzian-signature germ. P5 natively Secures the link/step identity and direct-bound null relation; its sign-valued interval and Lorentz-group theorem are Secured conditionally and Registered–Sealed only on a stated direction carrier/manifold. P7 owns carrier/manifold recovery. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md) and [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
 
 ### Ternary coalgebra dimension route
 

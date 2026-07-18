@@ -97,7 +97,7 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **G3** non-renormalizability = mislocating the V/H crossing from the discrete This onto the arena continuum | (1) symptom | **Conjectured** (diagnosis); gravity-vs-gauge asymmetry and mislocation-contrast **Registered** given G2 |
 | **G1a** graph-dimension forced to 3 (With-holds-open) natively | (1) root | **Registered** |
 | **G1** criticality native (c-identity → gapless substrate); global frame-freedom native | (1) | **Registered** |
-| **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; **exact local Lorentz = Defended posit** |
+| **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; exact local Lorentz is **Secured within its defended-posit ceiling** and **Registered, not Sealed** |
 | **Gate 2 (gravity)** second-order field equation from one-step conditioning locality (replaces Lovelock's *posited* premise) | strong-field | **Registered, conditional on G1** |
 | **Lovelock** uses locally finite tensor algebra compatible with an M6 rule-presented treatment; the global impredicativity audit is not discharged | strong-field | **Conditional** on an exhibited closed rule calculus and the separate manifold/carrier premises |
 | **Native horizon**: mass = self-closure; horizon = total self-closure (`d→∞`, `dτ/dt→0`) | (3) | **Registered** |
@@ -655,7 +655,7 @@ Kept explicit so the corpus shows where the discipline bit.
 - **G1 — Manifold-recovery.** No longer a single Open wall. **G1a dimension: Registered** (forced
   native — the genuine edge over causal-set programs). **Criticality, global frame-freedom:
   Registered** (native). **G1c smoothness: Registered-not-Sealed** via named universality import on
-  native criticality. **Exact local Lorentz: Defended posit** — the completeness diagnostic fires;
+  native criticality. **Exact local Lorentz: Secured within its defended-posit ceiling; Registered, not Sealed** — the completeness diagnostic fires;
   a completed continuous symmetry cannot be sealed from a discrete base; same ceiling as exactly-three
   and 3+1. Whole: Registered-with-one-defended-posit, *not* fully background-free until the
   remaining seam (the isotropic-fixed-point residual / `σ`-map) is settled.

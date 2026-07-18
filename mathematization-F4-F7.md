@@ -77,15 +77,17 @@ This is the harder direction (showing the group is *exactly* Lorentz, not a subg
 
 **(P14) [proved, given P13] Aut(N, re-coupling) = O(1,3) (or SO⁺(1,3) for the orientation-and-time-direction-preserving part).** From P12, Aut(N) ⊆ O(1,3). From P13, the generators of O(1,3) (rotations + boosts) are in Aut(N), so O(1,3) ⊆ Aut(N). Hence equality. Restricting to (D7.1)'s one-way orientation-preservation (conditioning runs one way) selects the **orthochronous** part (time-direction-preserving), and to the proper part if reflection is excluded: SO⁺(1,3), the connected Lorentz group. ∎
 
-### F7.4 Status of F7
+### F7.4 Interim status before the sub-gate reassessment
 
-**[proved]** that Aut(N) ⊆ O(1,3) (P12) and that the interval is preserved; **[proved]** that rotations are admissible (given F5a); **[argued]** that all boosts are admissible re-couplings (P13, the converse for boosts) — this is the one remaining substantive gap, **sub-gate F7a**: show every interval-preserving boost is an admissible re-splitting of N's separations (no interval-preserving boost is excluded by D7.1–D7.4). If F7a holds, F7 is sealed: the re-coupling symmetry of N is exactly the connected Lorentz group, which is the flat-metric seal owed since the metric-maturation walk.
+At this point in the computation, `Aut(N) ⊆ O(1,3)` and rotation admissibility given F5a were proved, while the boost converse was still only argued. The later P17 reassessment below discharges that converse conditionally on the same F5/F6 carrier and form. This interim gap is not a current open frontier.
 
 The orthochronous restriction is itself a **result, not an input**: because conditioning is one-way (M2), the admissible group is the *time-direction-preserving* part — N does not admit the time-reversing Lorentz transformations as re-couplings. This matches the physical fact that the orthochronous proper Lorentz group is the physical symmetry, and it falls out of From's one-wayness.
 
 ---
 
-## Status after F4–F7
+## Interim status after F4–F7
+
+This section records the state before P15–P17. The reassessment below governs the current result.
 
 **Proved:**
 - **F4:** c = 1 is the succession-count/separation unit-identity, forced, not a particular (P7, C7.1).
@@ -93,12 +95,12 @@ The orthochronous restriction is itself a **result, not an input**: because cond
 - **F6:** the signature is Lorentzian (1,3), the minus sign forced by the null condition from the propagation bound (P11), modulo F6a (P10 pressure-test).
 - **F7:** Aut(N, re-coupling) ⊆ O(1,3) proved (P12); rotations admissible; the full equality Aut(N) = SO⁺(1,3) proved modulo F7a (boost-admissibility converse). The **orthochronous restriction is derived** from From's one-wayness, not imposed.
 
-**Remaining sub-gates to seal the flat tier:**
+**Sub-gates sent to reassessment:**
 - **F5a:** construct a physical rule-presented direction carrier, select and audit its M6 rule calculus, and prove that its admissible symmetry is the continuous rotation group rather than merely discrete permutations.
-- **F6a:** pressure-test the null condition (P10) — that immediate-conditioning neighbors at the bound are forced to zero-interval.
-- **F7a:** the converse for boosts — every interval-preserving boost is an admissible re-coupling of N (no admissibility condition excludes any boost).
+- **F6a:** pressure-test the null condition (P10) — later discharged by P15 as the link/step unit-identity.
+- **F7a:** the converse for boosts — later discharged conditionally by P17.
 
-These three are concrete and finite; clearing them seals the flat Lorentzian metric and the Lorentz-group symmetry as forced from N. Then the tier is complete and the curved/Einstein gates (F8–F11) follow, with the F1.2 admissibility rule (no rate, no density) carried into the gravity-tilt computation.
+After P15–P17, only F5a remains: the physical rule-presented direction carrier and continuous rotation action. The flat Lorentzian theorem is therefore complete conditionally, not unconditionally sealed as recovered physical spacetime.
 
 **Confirmed structural particulars (our model vs. standard):** c is the unit (= 1, forced), not an empirical parameter; the orthochronous restriction is derived from one-way conditioning, not postulated. Both are points where our grounding differs from the standard presentation while recovering the same flat structure.
 

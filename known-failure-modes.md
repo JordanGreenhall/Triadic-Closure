@@ -54,7 +54,7 @@ Do not use `locked actual` as a live status. It is deprecated because it hides m
 
 Never infer either axis from `locked actual` alone.
 
-Dimensionality special case: exact `3+1` is **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the Lorentzian `1|3` signature germ; do not smuggle in P5's sign-valued interval, null cone, or Lorentz group, or P7's continuum/manifold recovery. Do not downgrade dimensionality to a merely empirical trajectory lock, and do not overclaim it as a completed formal theorem.
+Dimensionality special case: exact `3+1` is **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the Lorentzian `1|3` signature germ; do not smuggle in P5's sign-valued interval, null cone, or Lorentz group. P5 Secures the link/step identity and direct-bound null relation natively, but its full interval/group theorem is conditional on a stated direction carrier/manifold. P7 owns recovery of that carrier. Do not downgrade dimensionality to a merely empirical trajectory lock, and do not overclaim it as a completed formal theorem.
 
 ## 5. Smuggled content and premature naming
 
