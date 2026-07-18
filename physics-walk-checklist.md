@@ -24,13 +24,13 @@ Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.
 
 ## P4 — EXACT 3+1 AND SIGNATURE-GERM CONTROL
 
-Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) whenever exact dimension or metric-signature language is spent. P4 carries the already fixed marked three through the With-flattening as three interchangeable degrees of extent and joins it to the one oriented From-succession direction. Exact `3+1` is Registered–Sealed only as this dimensional partition. The orientation-difference Registers a Lorentzian-signature germ; P4 does not supply a sign-valued metric, interval, null cone, Lorentz group, continuum, or manifold. P5 owns the interval/Lorentz construction; G1 independently owns carrier/manifold recovery. Do not use P3 sector count, arity-to-dimension, or D6 stability alone as P4's warrant.
+Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) whenever exact dimension or metric-signature language is spent. P4 carries the already fixed marked three through the With-flattening as three interchangeable degrees of extent and joins it to the one oriented From-succession direction. Exact `3+1` is Registered–Sealed only as this dimensional partition. The orientation-difference Registers a Lorentzian-signature germ; P4 does not supply a sign-valued metric, interval, null cone, Lorentz group, continuum, or manifold. P5 owns the interval/Lorentz construction; P7 owns carrier/manifold recovery. Do not use P3 sector count, arity-to-dimension, or D6 stability alone as P4's warrant.
 
 ---
 
 ## P5 — PROPAGATION AND LORENTZ CONTROL
 
-Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md) whenever neighbor, distance, propagation, `c`, null interval, or Lorentz symmetry is spent. P5 natively Secures finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation. The full quadratic interval and `SO^+(1,3)` theorem are Secured only given the stated rule-presented direction carrier/continuous `SO(3)` action and are Registered–Sealed only on that carrier/manifold. Name Alexandrov–Zeeman where its implication is used. Do not manufacture another physical occupancy test; do not erase the real G1 carrier-recovery condition; do not treat exact local Lorentz of a recovered continuum as unconditionally sealed.
+Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md) whenever neighbor, distance, propagation, `c`, null interval, or Lorentz symmetry is spent. P5 natively Secures finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation. The full quadratic interval and `SO^+(1,3)` theorem are Secured only given the stated rule-presented direction carrier/continuous `SO(3)` action and are Registered–Sealed only on that carrier/manifold. Name Alexandrov–Zeeman where its implication is used. Do not manufacture another physical occupancy test; do not erase the real P7 carrier-recovery condition; do not treat exact local Lorentz of a recovered continuum as an ordinary unfinished proof task.
 
 ---
 
@@ -47,20 +47,25 @@ Do not demand an unrestricted passage-class before recognizing a scoped witness.
 
 ---
 
-## P7 — PASSABILITY AND SUCCESSOR-HANDOFF CONTROL
+## P7 — MANIFOLD-RECOVERY AND LOCAL-CONTINUUM CONTROL
 
-Run [P7 Passability and Successor Handoff](p7-passability-and-successor-handoff.md) whenever a persistent physics closure is spent as ground for chemistry or another successor domain, or whenever `D7`, successor boundary, bond-as-D1, or carbon-as-provisioner language is used.
+Run [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md) whenever a spatial graph is spent as a continuum carrier, or whenever smoothness, rotational invariance, local momentum direction, manifold structure, or exact local Lorentz is used.
 
-P7 must identify:
+Keep the split result explicit:
 
-1. the persistent ground at its owning P6 grade;
-2. a valid nonempty successor constraint;
-3. the successor D1 unit selected by that constraint;
-4. the predecessor location selected by successor-facing composition characteristics.
+1. graph dimension three, criticality/gaplessness, and global frame-freedom are Registered;
+2. smoothness and rotational invariance are Registered, not Sealed, through the named universality import;
+3. the isotropic/cubic fixed-point seam is discharged only at its recorded scope;
+4. exact local Lorentz is a Defended posit at the exactness ceiling and is Sealed on a given recovered manifold through P5 plus Alexandrov–Zeeman;
+5. G1 is spatial-sector-only.
 
-P7 does not re-prove the parent closure, shell structure, spectrum, interaction law, or geometry. The current physics-to-chemistry instance conditionally maps shell-edge closure-completion to chemistry's boundary, bond to chemistry D1, and carbon to the provisioning role under explicitly retained atomic/shell, octet-midpoint, catenation, screening, and smallest-scale premises. Empirical bonded matter secures nonemptiness as observation, not as a framework-native atom derivation. Geometry, four-edge payoff, exact Madelung order, magnitudes, and the universal residue/D3-maximizer conjecture retain their own grades and are not required for the bounded P7 selection unless spent.
+Do not attach P7 to the internal carrier, Born/readout, or mass-measure spine merely because those use continuous mathematics. Do not substitute generic D7 successor passability or the physics-to-chemistry handoff for the normalization-program P7 unit. Successor handoff belongs to the generic D-series and X1.
 
-P7 is successor passability. **It is not G1 manifold recovery.** Walk order is not epistemic order: later chemistry work may reveal the actual boundary or selection characteristics, but every genuinely additional dependency remains attached.
+---
+
+## P8 — SAME-KIND INTERNAL-CARRIER CONTROL
+
+Run [Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md) whenever one internal carrier, complexness, scalar closure verdict, fixed form, Hermitian pairing, or internal dimension three is spent. P8 is upstream of the alternating-form/SU(3) unit. Do not use SU(3) or the epsilon form to prove P8's carrier dimension or complexness, and do not attach P7/G1 to this internal vertical carrier.
 
 ---
 
