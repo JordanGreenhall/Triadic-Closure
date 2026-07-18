@@ -22,7 +22,7 @@ sources:
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
   - p16-quantitative-qcd-dynamics-and-quarantine.md
-  - p17-mass-as-self-closure-and-native-ruler.md
+  - p17-mass-as-closure-maintenance.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -56,7 +56,7 @@ Read by semantic dependency rather than file age.
 14. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
 15. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
 16. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
-17. [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md).
+17. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 18. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
@@ -85,19 +85,21 @@ Reader guards:
 
 ## 4. Mass, closure, and later baryon work
 
-1. [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md).
+1. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 2. [Mass as Self-Closure](mass-as-self-closure.md) — concise P17 shadow.
-3. [Closure-Inherited Metric](closure-inherited-metric.md) — later owner.
-4. [Mass Derivation — Three Faces](mass-derivation-three-faces.md) — later owner.
-5. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — later owner for mass/decay content.
+3. [Closure-Inherited Metric](closure-inherited-metric.md) — P18 source.
+4. [Mass Derivation — Three Faces](mass-derivation-three-faces.md) — P18/P19 source.
+5. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
 
 Reader guards:
 
-- P17 owns the nature of mass as self-closure and the stay/advance decomposition.
-- `m_e = 1` is an internal native-ruler normalization, not an external-unit mass calculation.
-- Recurrence supplies scoped persistence, not perturbative stability by itself.
-- P17 does not own the complete proton/electron ratio, neutron splitting, decay energetics, absolute calibration, or the mass hierarchy.
-- P18–P21 own those later structures; P29 owns Higgs/Yukawa mass generation and spectrum.
+- P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation.
+- P17 supplies no metric, measure, ruler, numerical ratio, or external calibration.
+- P18 owns closure-inherited metric selection and `2 pi^5`.
+- P19 owns the electron ruler, `6 pi^5`, and the bounded proton/electron correction.
+- P20 owns baryon closure and the proton-neutron relation.
+- P21 owns forward/inverse With-to-This closure and decay.
+- P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 
 ## 5. Gravity and cosmology
 
@@ -118,4 +120,4 @@ Reader guards:
 
 ## One-line reader rule
 
-Before spending a mass value, distinguish structural self-closure, native ratio normalization, later internal ratios, and external calibration; P17 establishes only the first two.
+Before spending any mass quantity, distinguish P17 ontology/loading from P18 metric/measure, P19 ruler/ratio, P20 baryon relation, and P21 decay.
