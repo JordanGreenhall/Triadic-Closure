@@ -15,6 +15,7 @@ sources:
   - p7-manifold-recovery-and-local-continuum.md
   - same-kind-carrier-representation-theorem.md
   - gauge-structure-result.md
+  - quark-lepton-split.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - domain-entry-method.md
@@ -42,8 +43,9 @@ This is the reader-facing organization of the physics deep dive. Read by semanti
 7. [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md).
 8. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md).
 9. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md).
-10. [physics-domain-mature-status](physics-domain-mature-status.md).
-11. [physics-domain-work-plan](physics-domain-work-plan.md).
+10. [P10 Quark–Lepton Split and Color Exposure](quark-lepton-split.md).
+11. [physics-domain-mature-status](physics-domain-mature-status.md).
+12. [physics-domain-work-plan](physics-domain-work-plan.md).
 
 `physics-walk-D1-D6.md` is historical development material. Its conclusions are governed by the dedicated normalized pages.
 
@@ -65,14 +67,14 @@ Reader guard: P6 has scoped baryon, electron, and neutron witnesses. It does not
 1. [realizability-weighting-law](realizability-weighting-law.md).
 2. [with-to-this-closure](with-to-this-closure.md).
 
-## 5. Internal carrier, alternating form, gauge structure, and matter taxonomy
+## 5. Internal carrier, alternating form, color exposure, and matter taxonomy
 
 Read in this order:
 
 1. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) — one same-kind carrier, M6-selected complex deployment, scalar verdict, fixed scale, Hermitian pairing, and dimension three.
 2. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md) — connectedness/irreducibility reduction, alternating form, and native SU(3).
 3. [Epsilon / SU(3) Bridge Construction](epsilon-su3-bridge-construction.md) — supporting worked reduction.
-4. [quark-lepton-split](quark-lepton-split.md).
+4. [P10 Quark–Lepton Split and Color Exposure](quark-lepton-split.md) — exposed one-moment color role versus internally closed color triad, and the two structural routes to neutrality.
 5. [chiral-coupling-result](chiral-coupling-result.md).
 6. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 
@@ -82,6 +84,8 @@ Reader guards:
 - M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8 and P9 must retain the selected-calculus condition.
 - P9's live alternation route is connectedness plus irreducibility. The older vanishing-on-coincidence argument is retired as load-bearing warrant.
 - P9 registers native SU(3), not mature QCD or the entire Standard Model gauge architecture.
+- P10 registers the color-bearing part-role versus colorless whole-role distinction. Its elementary binary is not Sealed, and its structural need for color completion is not the full dynamical theorem of confinement.
+- P10 does not derive electric charge values, weak modules, chirality, flavor, generations, or masses.
 
 ## 6. Closure, confinement, and mass/value machinery
 
