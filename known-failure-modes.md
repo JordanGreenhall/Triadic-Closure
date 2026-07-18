@@ -9,6 +9,9 @@ sources:
   - physics-registration-theorem.md
   - physics-walk-checklist.md
   - architectonic-rigor-complete.md
+  - dimension-and-spacetime-status.md
+  - propagation-and-invariant-velocity.md
+  - d6-persistence.md
 historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
@@ -29,7 +32,9 @@ Examples:
 
 - treating F10 as simply "not done" despite `mathematization-F10-resolved.md`;
 - treating SU(3) as conditional on (A) despite `gauge-structure-result.md`;
-- treating color as a mediation carrier rather than This-flattening.
+- treating color as a mediation carrier rather than This-flattening;
+- using the historical D6 stability route to prove exact `3+1`;
+- treating the historical D6 walk or Φ as a current derivation of atoms, confinement dynamics, particle spectrum, Higgs structure, or the periodic landscape.
 
 Always consult [supersession-map](supersession-map.md).
 
@@ -39,8 +44,8 @@ Do not confuse:
 
 - vertical office-composition;
 - horizontal accumulated layers/nesting;
-- standing-face readout of horizontal history.
-- horizontal address-length, succession count, or layer altitude mislabeled as depth; depth is reserved for vertical coinductive office-decomposition.
+- standing-face readout of horizontal history;
+- horizontal address-length, succession count, or layer altitude mislabeled as depth; depth is reserved for vertical coinductive office-decomposition;
 - treating the direct terminology ruling as if it supplied warrant for mutual composition or flattening, or dropping the pure-posit condition from vertical composition.
 
 This collapse causes downstream confusion around J, ρ, composition, and emergence.
@@ -56,6 +61,8 @@ Never infer either axis from `locked actual` alone.
 
 Dimensionality special case: exact `3+1` is **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the Lorentzian `1|3` signature germ; do not smuggle in P5's sign-valued interval, null cone, or Lorentz group. P5 Secures the link/step identity and direct-bound null relation natively, but its full interval/group theorem is conditional on a stated direction carrier/manifold. P7 owns recovery of that carrier. Do not downgrade dimensionality to a merely empirical trajectory lock, and do not overclaim it as a completed formal theorem.
 
+P6 special case: the generic D6 phase-form is Secured, and persistence is Registered–Sealed within that form. That does not make a particular persistent physical closure actual, established, or locked. Physics D6 occupancy and the basic stable ruler remain Open.
+
 ## 5. Smuggled content and premature naming
 
 Do not import premises, primitives, results, or inherited meanings that the framework has not earned. Mature physics names are a common carrier of this failure.
@@ -63,6 +70,13 @@ Do not import premises, primitives, results, or inherited meanings that the fram
 When a Secured native core supports an inherited name, use recognition with surplus quarantined: license only the mapped core and bar every legacy surplus from doing work. Recognition contributes no warrant.
 
 For physics, run the [P1 Physics Registration Rule](physics-registration-theorem.md). A mathematical object belongs to the physics subdomain exactly when it satisfies the established physics boundary; no second “physical occupancy” is added. `Native` is not a warrant label, and P1 does not register a mature physics name merely because a framework core exists.
+
+P6 name boundaries are especially easy to overrun:
+
+- **bound state** at P6 means only a persistent-composite core; it does not import a Hamiltonian, normalizability, localization, threshold, binding energy, or lifetime;
+- **stability** requires an exhibited perturbation class, comparison structure, and return/retention rule;
+- **metastability** and **decay** require restricted persistence plus an admitted escape passage;
+- **atom**, **hadron**, **particle spectrum**, and **Higgs** belong to later owning units and are not D6 synonyms.
 
 ## 6. Smuggled demand
 
@@ -79,9 +93,9 @@ In particular:
 - a valid nonempty admissibility constraint is already a boundary; no additional gate event is required;
 - the boundary's admitted contents are already D1; no second physical bearer, occurrence-stuff, or occupancy trace is required;
 - whole-ground inheritance carries constitutive structure into the subdomain; do not demand that it be re-admitted, re-populated, or proved compatible unless the boundary contains an operation that could exclude or alter it;
-- a genuinely additional later claim—such as D2 holding, sector-purity of a particular closure, superselection, dynamics, or spin-statistics—retains its real proof burden.
+- a genuinely additional later claim—such as D2 holding, sector-purity of a particular closure, superselection, dynamics, spin-statistics, P6 physical occupancy, or an actual stability/decay law—retains its real proof burden.
 
-The audit question is: **what exact operation could make the inherited result fail here?** If none is identified, the proposed proof obligation is a smuggled demand.
+The audit question is: **what exact operation could make the inherited result fail here?** If none is identified, the proposed proof obligation is a smuggled demand. Conversely, when a later construction is genuinely additional, do not erase its proof burden by calling the generic phase-form inherited.
 
 ## 7. Warrant/registration collapse
 
@@ -95,7 +109,8 @@ Do not:
 - treat a Native concept as epistemically deficient because no legacy mapping applies;
 - treat a pure posit as Conjectured, Secured, or an incomplete defended posit, or fail to propagate downstream dependence on it;
 - convert argued → proved, checked → theorem, selection → forced, confidence → warrant, or workflow/disposition → epistemic state;
-- translate raw-package `locked actual` without separating framework warrant from semantic registration.
+- translate raw-package `locked actual` without separating framework warrant from semantic registration;
+- infer physical occupancy from a Secured generic phase-form.
 
 Use the two-axis record in [claim-status-vocabulary](claim-status-vocabulary.md).
 
@@ -110,9 +125,25 @@ Do not use `closure` as if it already meant stable, persistent, passable, self-m
 
 Actual and standing are aspect-readings of one closure. Strides and concrete domain closures are occurrences or occupancies of the same form, not alternate foundational meanings. The F5 closure record is **Secured by construction within the F2 frame** and **Native**; it supplies no warrant for a particular occupancy or self-closure dynamics.
 
+### P6 classifier collapse
+
+Keep these distinct:
+
+- **fixed point**: unchanged under a specified map;
+- **attractor**: nearby or admitted perturbations return under a specified dynamics;
+- **persistent closure**: its identifying invariant is preserved across the declared passage-class;
+- **stable closure**: persistence plus a declared perturbation/return structure;
+- **metastable closure**: persistence on a restricted class plus an admitted escape passage;
+- **escape weight**: a measure assigned to escape alternatives by a separately warranted weighting construction;
+- **decay rate or lifetime**: a calibrated hazard/frequency statement.
+
+Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a measure, or a lifetime from escape-accessibility. Those are distinct additional constructions.
+
 ## 9. Regression to earlier lineage
 
 The conversation shows that earlier docs often contain good work in obsolete frames. Extract provenance carefully; do not restore the old frame.
+
+For P6, retain the historical walk as evidence of where overreach occurred, but never restore its dimensionality, atom, confinement, spectrum, Higgs, or rate claims as current doctrine.
 
 ## 10. Treating the ledger as polished doctrine
 
@@ -134,4 +165,4 @@ Do not:
 
 Use the one-unit loop and pass constraints in [agent-execution-rules](agent-execution-rules.md).
 
-See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [corpus-lineage](corpus-lineage.md).
+See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [d6-persistence](d6-persistence.md), [corpus-lineage](corpus-lineage.md).
