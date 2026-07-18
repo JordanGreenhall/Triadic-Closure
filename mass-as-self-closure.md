@@ -6,41 +6,43 @@ updated: 2026-07-18
 status: current
 confidence: medium
 sources:
-  - p17-mass-as-self-closure-and-native-ruler.md
+  - p17-mass-as-closure-maintenance.md
   - mass-derivation-three-faces.md
   - with-to-this-closure.md
   - d6-persistence.md
+  - lambda-derived.md
 historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
 # Mass as Self-Closure
 
-Concise result shadow for [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md). P17 governs current use.
+Concise result shadow for [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md). P17 governs current use.
 
 ## Mature status
 
-- Mass as self-directed closure-maintenance and the stay/advance decomposition: **Registered, not Sealed** at structural scope.
-- Electron bare repeat as native ratio ruler `m_e = 1`: **Registered, not Sealed** at the displayed recurrence scope.
-- Per-step recurrence as a P6 persistence witness: **Secured conditionally** within that scope.
-- Strong perturbative stability, ontological basicness, the full stable-closure cascade, and external calibration: **Open**.
+- Mass as self-directed closure-maintenance: **Registered, not Sealed** at structural scope.
+- Closure loading as a qualitative burden/order-form: **Registered, not Sealed**; no metric or measure is supplied here.
+- Mass and energy as distinct structural readings: **Registered, not Sealed**.
+- Horizon relation as total-self-closure limit: architectural relation **Secured**; physical identification **Conjectured**.
 
 ## Current claim
 
-A standing bears mass insofar as its identity-constituting closure must be re-selected through itself rather than wholly expressed as onward advance. The maintenance portion is the **stay** component; onward change is the **advance** component.
+A standing bears mass insofar as its identity-constituting closure must be maintained through successive passages. The degree of constitutive work borne in that recurrence is its closure loading.
 
-The electron's color-trivial bare repeat is the minimal displayed mass-bearing recurrence and supplies the internal normalization `m_e = 1`. This is a native ratio ruler, not an external-unit mass calculation.
+Mass is that maintained closure-load. Energy concerns admissible or realized change of the same standing. The two are related but not identical by definition.
+
+At the limiting case of total self-closure with respect to an exterior, the framework obtains the architectural form of a horizon. P17 does not derive quantitative horizon physics.
 
 ## Boundary
 
-P17 fixes the nature of mass and the ruler normalization only. It does not derive:
+P17 does not derive:
 
-- the complete proton/electron ratio;
-- three-face mass factors or correction coefficients;
-- neutron splitting or decay energetics;
-- absolute masses in kg/eV;
+- the closure-inherited metric or `2 pi^5` measure;
+- the electron ruler or any particle mass ratio;
+- absolute masses or external-unit calibration;
+- quantitative energy-momentum relations;
+- black-hole radius, entropy, temperature, or `A/4`;
 - Higgs/Yukawa structure or the numerical spectrum.
 
-Do not invent a spatial-compression energy law unless separately derived.
-
-See also: [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md), [P6 Persistence](d6-persistence.md), [With-to-This Closure](with-to-this-closure.md), and [Physics Domain Mature Status](physics-domain-mature-status.md).
+See also: [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md), [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md), [P6 Persistence](d6-persistence.md), and [Lambda Derived](lambda-derived.md).
