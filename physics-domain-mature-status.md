@@ -16,6 +16,7 @@ sources:
   - same-kind-carrier-representation-theorem.md
   - gauge-structure-result.md
   - epsilon-su3-bridge-construction.md
+  - quark-lepton-split.md
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
   - domain-entry-method.md
@@ -50,7 +51,7 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-The normalization-program IDs are semantic units and are not interchangeable with similarly numbered D-series phases. P7 is manifold recovery. P8 is the same-kind internal carrier. P9 is the alternating closure-form and native SU(3) bridge.
+The normalization-program IDs are semantic units and are not interchangeable with similarly numbered D-series phases. P7 is manifold recovery. P8 is the same-kind internal carrier. P9 is the alternating closure-form and native SU(3) bridge. P10 is the quark/lepton split and color-exposure unit.
 
 ## Status matrix
 
@@ -82,6 +83,11 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 | P9 alternating form | Registered, not Sealed | Connectedness and irreducibility eliminate declared symmetric rivals | Candidate-class exhaustiveness remains a seal residual |
 | P9 stabilizer mathematics | Sealed given P8/P9 inputs | `Stab(epsilon)=SL(3,C_C)` and pairing intersection gives `SU(3)` | Retains M6 selected-calculus condition |
 | P9 native SU(3) | Registered, not Sealed | Framework-selected alternating form plus Sealed stabilizer theorem | Vanishing-on-coincidence is retired as load-bearing route; no mature-QCD surplus |
+| P10 internally closed color standing | Secured by construction relative to P8/P9; `lepton` Registered, not Sealed | Interior color triad closes within one elementary fermionic standing | No full strong-interaction or electroweak theorem |
+| P10 exposed one-moment standing | Secured by construction relative to P8/P9; `quark` Registered, not Sealed | One interior moment is externally resolved as a color-bearing part-role | Requires structural color completion; no mature confinement dynamics |
+| P10 quark/lepton distinction | Registered for the two exhibited standings | Colorless whole-role versus color-bearing part-role | Exhaustive elementary binary remains Registered, not Sealed |
+| P10 two neutrality routes | Registered | Internal unresolved closure versus resolved recombination | Meson conjugate route retains its exact inherited-warrant audit |
+| P10 confinement-in-essence | Registered at structural closure scope only | Exposed single color moment is not a complete neutral closure | Yang–Mills confinement dynamics, scale, potential, and area law remain Open |
 | Realizability weighting | Registered, not sealed | Coherence-participation law at stated conditions | Quantitative bridges retain their own conditions |
 | Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
 | Full Einstein form | Conditional / nonlinear incomplete | Weak-field strong; full route incomplete | Exact G Open |
@@ -89,7 +95,6 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 | Λ meaning | Registered | Reflexive closure gives w=-1 form | Magnitude Open |
 | Mass as self-closure | Registered | Mass nature and structural ratios; electron native ruler | Calibrated values and hierarchy Open |
 | Chiral / hypercharge / electroweak particulars | Mixed Registered / Open | Structural criteria located | Exact module and assignments Open |
-| Quark/lepton split | Registered | Interior triad resolved versus closed | Charges, masses, generations Open |
 | Generation count | Open | No replication-three result | Spectral route or Open |
 | Atoms / periodic landscape | Open as a fully normalized wiki-standing derivation | Later interface work retains its own grades | X1, not P7 |
 
@@ -103,6 +108,7 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 - P7 graph dimension, criticality, frame-freedom, narrowed spatial-sector debt, and exactness ceiling.
 - P8 one same-kind carrier, selected complex deployment, scalar verdict, fixed scale, Hermitian pairing, and dimension three at their recorded grades.
 - P9 native SU(3) at Registered-not-Sealed scope, with the stabilizer theorem Sealed as mathematics.
+- P10 color-bearing part-role versus colorless whole-role distinction and the two structural routes to color neutrality.
 - Weak-field gravity.
 - Mass as self-closure in nature/ratio scope.
 
@@ -110,18 +116,19 @@ The normalization-program IDs are semantic units and are not interchangeable wit
 
 1. P7 native smoothness seal and explicit calculus closure for analytic continuum operations.
 2. P8 necessity/uniqueness of complex deployment, gluing classification, scalar-verdict completeness, and M6 expenditure record.
-3. **P9-F1:** formalize the connected relation-through criterion.
-4. **P9-F2:** ground polystability/reductivity and no-privileged-subspace scope.
-5. **P9-F3:** classify the complete primitive ternary scalar candidate space.
-6. **P9-F4:** record the selected M6 calculus and closure for every stabilizer operation.
-7. Full gravity beyond weak-field.
-8. Stress-energy dynamical population.
-9. Exact chiral module and hypercharge particulars.
-10. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
-11. Matter spectrum / generations.
+3. P9 connectedness, reductivity, candidate-class exhaustiveness, and M6 stabilizer-calculus record.
+4. **P10-F1:** classify primitive standings relative to the interior triad and test elementary-binary exhaustiveness.
+5. **P10-F2:** establish the exact conjugate moment/antimoment closure route.
+6. **P10-F3:** separate and bridge structural color incompleteness from mature dynamical confinement.
+7. **P10-F4:** locate charge-operator and numerical-assignment ownership.
+8. Full gravity beyond weak-field.
+9. Stress-energy dynamical population.
+10. Exact chiral module and hypercharge particulars.
+11. P6 domain-grade population, stronger basic-ruler question, and calibrated rates.
+12. Matter spectrum / generations.
 
 ## Bottom line
 
-P9 registers the fixed alternating closure form and native `SU(3)` without deriving the P8 carrier retroactively. The live framework route is connectedness plus irreducibility, not the retired vanishing-on-coincidence premise. The form-selection result is Registered, not Sealed; the stabilizer calculation is Sealed as mathematics given the M6-selected P8 carrier and the P9 form.
+P10 registers the quark/lepton distinction as two exhibited ways an elementary fermionic closure stands relative to the P9 interior color triad: one exposed color moment versus an internally closed triad. It also registers the two structural routes to color neutrality and the need for completion of an exposed moment. The exhaustive elementary binary is not Sealed, and structural color incompleteness is not the mature dynamical theorem of confinement. Charge values, weak modules, flavor, generations, masses, and the observed matter spectrum remain later-owned or Open.
 
-See also: [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md), [Epsilon / SU(3) Bridge Construction](epsilon-su3-bridge-construction.md), [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md).
+See also: [P10 Quark–Lepton Split and Color Exposure](quark-lepton-split.md), [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md), [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md), [physics-domain-work-plan](physics-domain-work-plan.md), [known-failure-modes](known-failure-modes.md).
