@@ -2,39 +2,38 @@
 title: Chiral Coupling Result
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-18
 status: current
 confidence: medium
 sources:
-  - gauge-structure-result.md
+  - p12-spin-helicity-handedness-and-chiral-coupling.md
 historical_sources:
   - chiral-coupling-result.md
 ---
 
 # Chiral Coupling Result
 
-Result module for chiral coupling and weak SU(2), including maximal chirality / V−A form.
+This page is a concise result shadow of [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md). P12 governs where this page conflicts with earlier wording.
 
-## Mature status
+## Corrected status
 
-Status: **Registered** for maximal chirality/orientation-faithful coupling; **Open** for exact chiral fermion module and hypercharge embedding.
+- Spinorial representations of the spacetime spin cover: Sealed mathematics; physical deployment conditional.
+- Helicity and left/right Lorentz chirality: Sealed representation mathematics at their stated carrier conditions.
+- Chiral versus vectorial coupling distinction: Registered for the displayed structural core.
+- Availability of an orientation-faithful coupling form: Secured as a possibility.
+- Actual weak chiral coupling: Open.
+- Maximal chirality and exact `V−A`: Open.
+- Exact one-generation chiral module: Open.
+- Hypercharge and charge lattice: later-unit owned and conditional.
 
-## Caution
+## Governing correction
 
-The cover letter says the exact chiral module is not derived; do not overstate beyond the result module's scope.
+`Spin(3) ≅ SU(2)` identifies the double cover of spatial rotations. It does not identify the internal weak gauge group by group isomorphism alone. The internal carrier, local gauge action, matter representation, and coupling remain unconstructed.
 
-## Grade adjudication (2026-06-21)
+Therefore the earlier statement that the framework fixes the weak interaction at maximal chirality is withdrawn. Orientation-faithfulness distinguishes a chiral coupling from a vectorial one; it does not prove that nature selects that coupling, selects only one handed sector, or realizes exact `V−A`.
 
-Worked as Item 6 of [physics-domain-work-plan](physics-domain-work-plan.md). Four sub-claims earn distinct grades.
+## Boundary
 
-**Chiral/vectorial criterion — Registered.** The framework fixes that a coupling is chiral iff orientation-faithful and vectorial iff orientation-independent, and that the weak coupling sits at maximal chirality (V−A). This is a structural result and is securely Registered.
+This page does not derive particle identities, flavor, charge, hypercharge, center-locking, electroweak breaking, Higgs/Yukawa structure, generations, or spectrum.
 
-**One-generation chiral module — Open.** The specific `SU(3)×SU(2)×U(1)` representation content of a single generation (the left-handed doublets, right-handed singlets, and their multiplicities) is *not* derived. The framework motivates a chiral, color-split, doublet-bearing pattern, but does not force the exact module. Treat as Open, not Conjectured-with-content, because no concrete representation assignment is pinned by framework primitives yet.
-
-**Hypercharge / `1/6` charge-lattice — Conditional, not Registered.** The hypercharge assignments and the `1/6`-spaced charge lattice remain *conditional mystery-compression*: they follow only if a center-lock premise (the simultaneous diagonal identification of the `SU(3)`, `SU(2)`, and `U(1)` centers) is granted, and that premise is not derived. Any anomaly/hypercharge-ratio constraints that are supplied externally must be registered separately as imported empirical input, not as framework output.
-
-**Generation count — Open and kept separate.** Multiplicity of generations is not addressed here and must not be folded into the module derivation (see Item 9).
-
-**Verdict.** Criterion **Registered**; exact module and hypercharge **Open / conditional**, gated on (a) the center-lock premise and (b) the SU(3) alternating premise inherited from [gauge-structure-result](gauge-structure-result.md). Confidence >90% attaches to this split grade. The dependency on the Item 3 alternating gate means this item cannot seal ahead of the gauge bridge.
-
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gauge-structure-result](gauge-structure-result.md), [claim-status-vocabulary](claim-status-vocabulary.md), [locked-actual-decrement-map](locked-actual-decrement-map.md).
+See also: [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md), [physics-domain-mature-status](physics-domain-mature-status.md), and [claim-status-vocabulary](claim-status-vocabulary.md).
