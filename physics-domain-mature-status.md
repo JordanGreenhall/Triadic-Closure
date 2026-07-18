@@ -20,119 +20,98 @@ sources:
   - physics-walk-d1-d5-consolidated.md
   - gauge-structure-result.md
   - with-to-this-closure.md
-  - realizability-weighting-law.md
-  - mathematization-F8-done.md
-  - mathematization-F9-done.md
-  - mathematization-F10-resolved.md
-  - mathematization-F11.md
-  - gravity-asymmetry.md
   - mass-as-self-closure.md
+  - mass-derivation-three-faces.md
+  - realizability-weighting-law.md
+  - gravity-asymmetry.md
   - stress-energy-three-offices.md
   - lambda-derived.md
 ---
 
 # Physics Domain Mature Status
 
-This page is the control status for the physics-domain work. It should be read before any individual physics result module.
+This page is the control status for the physics-domain work.
 
 ## Governing discipline
 
-The physics walk must remain framework-grounded.
+1. Run P1 control before mature names do load-bearing work.
+2. Do not import traditional physics as metaphysics.
+3. Traditional physics may orient, check, or support recognition, but contributes no framework warrant unless explicitly imported as a theorem.
+4. Preserve inherited grades and debts.
+5. Run vertical and horizontal axes together.
+6. Use dependency position, bottom-up combination, and grade/dependency record.
+7. Separate essential form from mature accretions.
+8. Record framework state and semantic registration independently.
+9. **Walk order is not epistemic order.** A later-articulated result may establish or constrain an earlier phase whenever its actual constitutive content satisfies that phase. Later location gives neither permission nor prohibition.
 
-1. Run the [P1 Physics Registration Rule](physics-registration-theorem.md) before inherited structure or a mature physics name does load-bearing physics work. P1 supplies boundary-membership, additional-claim, and name control, not warrant for a genuinely additional claim.
-2. Do not import traditional physics as metaphysics. Metric, causation, actuality, identity, particle, field, probability, mass, force, action, persistence, stability, and decay must be clarified architectonically before use.
-3. Use traditional physics only as orientation, empirical check, or recognition with surplus quarantined. It may suggest where to look; it may not supply load-bearing premises unless explicitly marked as an external theorem.
-4. Inherit the certified mathematical gate-package at every step, preserving each item's grade and debt. Audit every feature; inheritance does not mean every feature actively bites at every phase.
-5. Run both axes every time: vertical constitution and horizontal accumulation. Do not collapse J into ρ, admissibility into realizability, or vertical depth into horizontal layering.
-6. Use the three moves per stage: dependency position, bottom-up combination, and grade/dependency record.
-7. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
-8. No `locked actual`. Record framework epistemic state and semantic registration independently.
-9. **Walk order is not epistemic order.** A result first articulated in a later unit may establish or constrain an earlier phase whenever its constitutive content satisfies that phase's criterion. The audit must distinguish later recognition of already-applicable reality from genuinely additional structure that cannot be imported backward.
+## Authority and applicability
 
-## Authority order
-
-1. `architectonic-rigor-complete.md`, `triadic-structure-of-relating-rev-canonical.md`, `domain-entry-method.md`, `physics-registration-theorem.md`, `physics-walk-checklist.md`, and `three-moves-per-stage.md` govern method.
-2. `physics-walk-D1-D5-consolidated.md` is the current D1-D5 re-walk where it conflicts with earlier D3/D4 mediation-carrier documents.
-3. `dimension-and-spacetime-status.md`, `propagation-and-invariant-velocity.md`, and `d6-persistence.md` govern P4, P5, and P6 respectively within their declared scopes.
-4. Later result modules may provide evidence for an earlier phase when they actually exhibit that phase's constitutive criterion. Their written position gives neither permission nor prohibition.
-5. `phi-forward-reconstruction.md` is superseded provenance only.
-6. Current result modules may still overstate strength. Use the matrix below when they do.
+Method controls govern method; dedicated P4, P5, and P6 pages govern those units. Later result modules may provide evidence for an earlier phase when they exhibit its criterion. Their genuine additional dependencies remain binding. `phi-forward-reconstruction.md` remains superseded provenance.
 
 ## Status matrix
 
-> **C2 translation notice.** A legacy `Registered` licenses only an explicitly mapped familiar-name core; it does not report proof strength. `Registered and Sealed` means bidirectional content identity within the row's stated scope. Before downstream use, reconstruct state, warrant route/reach, scope/conditions/debts, registration, licensed legacy content, quarantined surplus, and any framework remainder.
-
 | Item | Current C2 record | Strength / reason | Notes / frontier |
 |---|---|---|---|
-| P1 physics expenditure and registration control | Native control rule; PASS as dependency map | Secured as an execution construction from F4, the established physics boundary, and C2. | Supplies no warrant and adds no second admission or occupancy test. |
-| Domain-entry discipline | Current F4 execution control; registration inapplicable | Valid-nonempty boundary construction, whole-ground inheritance, and later-phase tracing are explicit. | The method contributes no warrant to additional domain claims. |
-| P2 physics boundary | Boundary Secured/Native; **physics** Registered, not sealed | The valid nonempty constraint is the boundary; its extension is D1. | Mature-physics completeness remains open. |
-| P2 four images | Generic construction Secured/Native; bounded physical names Registered | Whole inheritance carries the four images into physics D1. | Exact later content retains its own owners. |
-| P4 exact `3+1` dimensionality | Secured at defended-posit/flattening reach; Registered–Sealed within dimensional scope | One From-succession direction plus three With-flattened spatial degrees. | No continuum, metric, null cone, Lorentz group, or manifold included. |
-| P4 Lorentzian-signature germ | Secured orientation distinction; Registered, not sealed | One oriented temporal direction against three unoriented spatial degrees. | Sign-valued interval and Lorentz symmetry belong to P5. |
-| P3 boson/fermion exchange mode | Algebraic theorem Secured/Native; names Registered–Sealed within scoped correspondence | The two nontrivial J modes are inherited whole. | No particle ontology, spin-statistics, or universal sector-purity. |
-| P3 Pauli/Bose holding | Conditional algebraic consequences Secured; names Registered–Sealed within exact scopes | Antisymmetric complete-state diagonal vanishes; symmetry supplies no such prohibition. | Unlimited occupation, Fock/Hilbert structure, spin, and matter/force roles excluded. |
-| Hamiltonian-essence | Registered and Sealed | Conserved coherent total generator at essential-form scope. | Terms and spectrum Open. |
-| P5 Lorentzian interval / metric symmetry | Secured conditionally; Registered–Sealed on a given carrier/manifold | P5 commensurates the dimensional partition and uses Alexandrov–Zeeman on a stated carrier. | P7/G1 owns carrier/manifold recovery. |
-| P5 propagation and invariant velocity `c` | Secured by construction; Registered–Sealed within scope | Intrinsic neighbor/chain distance, one-link/one-step identity, no-traveler propagation. | Stable composite motion and manifold recovery remain outside P5. |
-| P6 D6 phase-form and persistence meaning | Phase-form Secured by N2 construction; persistence Registered–Sealed within exact phase-form scope | Persistence is invariant-preservation across a declared variation-field. | Every application must state invariant and variation-class. |
-| P6 modeled baryon persistence | Secured conditionally within the reported color-overlap model and flows | Complete singlet closure is the invariant; the reported flows preserve/restore it. Bound-state/baryon persistence Registered for that core. | Inherits gauge and closure premises; no universal QCD or all-passage claim. |
-| P6 modeled baryon stability | Secured conditionally within tested perturbation/return flows | Perturbations return to the singlet while non-singlet components drain toward it. Stability Registered for that tested core. | No universal basin, attraction rate, or all-dynamics theorem. |
-| P6 domain-grade occupancy / basic stable ruler | Open | One scoped witness does not establish the total persistent population or identify the earliest/basic calibration closure. | P6-F1. Value cascade and calibration remain blocked here. |
-| P6 bound state, metastability, and structural decay | Conditional classifiers Secured at displayed reaches; names Registered, not sealed | Bound state maps to persistent composite; metastability/decay require restricted persistence plus an admitted escape. | Products, mechanism, bookkeeping, and rates require owning constructions. |
-| P6 escape propensity / decay rate | Conditional measure use only; generic rate Open | Weight is not frequency or lifetime. | Transition law, frequency bridge, clock calibration, and scale required. |
-| Realizability-weighting law | Registered, not sealed | Normalized coherence-participation law; exact use retains positive-pairing and dimensional conditions. | Frequency=weight Open; non-physics derivation undone. |
-| F8 coherence-participation functional | Registered | Constructed and checked; Gleason uniqueness cited for dim >= 3. | F9 supplies standing-vector map. |
-| F9 standing vector / degree tilt | Registered and Sealed for standing-state choice | Conserved-flow state discharges the adjacency alternative. | Downstream gravity and P6 uses retain their own burdens. |
-| Gravity weak-field curvature | Registered | Weak-field geodesic/tidal/Poisson structure computationally supported. | Strong-field, full spatial metric, and exact G Open. |
-| Full Einstein equation | Registered conditional; Conjectured for nonlinear sector | Weak-field line strong; nonlinear/full tensor route incomplete. | Exact G also Open. |
-| Stress-energy as three offices | Registered structural / representational | From=transport, This=energy/closure, With=relational stress. | Dynamical population remains Conjectured. |
-| Λ structural meaning | Registered | Reflexive closure gives metric-proportional positive w=-1 form. | Magnitude Open. |
-| Mass as self-closure | Registered | Strong account of mass nature and structural ratios. | Absolute values and generation tower Open. |
-| Gauge group architecture `SU(3) x SU(2) x U(1)` | Registered, not sealed | Six bridge properties strong; alternating/vanishing-on-coincidence remains the hinge. | Later use inherits that condition. |
-| SU(3) color | Registered, not sealed | Same residual alternating premise. | Do not generalize the modeled baryon witness beyond this dependency. |
-| SU(2) weak / chiral coupling | Registered for chiral/vectorial structure | Lifted rotatability and orientation-faithful coupling. | Exact module and hypercharge Open. |
-| U(1), hypercharge, electromagnetic residual | Registered in root/form; Open in assignments | Structural location established. | Assignments, center-lock, mixing Open. |
-| Quark/lepton split | Registered | Interior triad externally resolved versus internally closed. | Charges, masses, generations Open. |
-| Exact chiral fermion module | Open | Exact one-generation content not pinned. | Cannot seal ahead of gauge bridge. |
-| Generation count | Open | No replication-three result. | Sanctioned route remains spectral or Open. |
-| Coupling constants, Yukawas, Higgs values, fermion hierarchy | Registered program / Open values | Form of value Registered; actual values Open. | Requires explicit state/target, calibration, and basic stable ruler. |
-| Atoms / periodic landscape / chemistry-provisioning ground | Open | P6 does not itself derive atoms. Later atomic work may satisfy P6 when its invariant and variation-class are actually exhibited. | Current gate-crossing deposit remains candidate material. |
-| Numerical particle spectrum / specific values | Open | Deferred. | Requires value machinery and basic stable ruler. |
+| P1 control | Native control rule | Secured execution construction | Adds no warrant or second occupancy test |
+| P2 physics boundary | Boundary Secured/Native; physics Registered | Valid nonempty constraint supplies D1 | Mature completeness Open |
+| P2 four images | Secured/Native; bounded names Registered | Whole inheritance carries them into D1 | Later content retains owners |
+| P4 exact `3+1` | Secured at defended-posit/flattening reach; Registered–Sealed in dimensional scope | One From-succession plus three With-spatial degrees | No metric/manifold surplus |
+| P4 signature germ | Secured; Registered | One oriented versus three unoriented directions | P5 owns interval/Lorentz theorem |
+| P3 exchange modes | Secured/Native; names Registered–Sealed in scope | Two nontrivial J modes inherited whole | No spin-statistics or particle ontology |
+| P3 Pauli/Bose holding | Conditional consequences Secured; names Registered–Sealed in exact scopes | Antisymmetric complete-state diagonal vanishes | Fock/Hilbert and mature surplus excluded |
+| Hamiltonian essence | Registered–Sealed | Conserved coherent total generator | Terms/spectrum Open |
+| P5 interval / Lorentz symmetry | Secured conditionally; Registered–Sealed on stated carrier | P5 commensuration plus named theorem | P7/G1 owns carrier recovery |
+| P5 propagation / `c` | Secured; Registered–Sealed in scope | Intrinsic neighbor/chain, link-step identity, no-traveler propagation | Stable composites remain separate |
+| P6 generic phase-form | Secured; persistence Registered–Sealed in exact phase-form scope | Invariant preserved across declared variation-field | Every application states invariant and class |
+| P6 modeled baryon persistence | Secured conditionally in reported model/flows | Complete singlet closure preserved | Bound-state/baryon persistence Registered; inherits gauge/closure conditions |
+| P6 modeled baryon stability | Secured conditionally in tested perturbation flows | Perturbations return to singlet | No universal basin/rate/all-dynamics theorem |
+| P6 electron bare-repeat persistence | Secured conditionally at per-step recurrence scope | Same color-trivial closure re-selected; native ruler `m_e=1` | Persistence and ruler Registered; no perturbative stability or external calibration |
+| P6 domain-grade occupancy | Open | Scoped witnesses do not establish the total persistent population | Relevant totality must stand as one field |
+| P6 basic stable ruler, stronger sense | Open | Electron is a serious candidate and native ruler; ontological basicness, broader stability, and calibration remain | P6-F1 |
+| P6 bound state / metastability / structural decay | Conditional classifiers Secured; names Registered | Persistent composite; restricted persistence plus escape | Products, mechanisms, rates retain owners |
+| P6 escape propensity / rate | Conditional measure use; generic rate Open | Weight is not frequency/lifetime | Transition, frequency, calibration, scale required |
+| Realizability weighting | Registered, not sealed | Coherence-participation law at stated conditions | Frequency bridge Open |
+| F8 functional | Registered | Construction and uniqueness support | Dimensional cautions remain |
+| F9 standing choice | Registered–Sealed in scope | Conserved-flow state selected | No automatic downstream promotion |
+| Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
+| Full Einstein form | Conditional / nonlinear incomplete | Weak-field strong; full route incomplete | Exact G Open |
+| Stress-energy offices | Registered representationally | From/This/With decomposition | Dynamical population incomplete |
+| Λ meaning | Registered | Reflexive closure gives w=-1 form | Magnitude Open |
+| Mass as self-closure | Registered | Mass nature and structural ratios; electron native ruler | Calibrated values and hierarchy Open |
+| Gauge architecture / SU(3) | Registered, not sealed | Alternating/vanishing-on-coincidence hinge remains | Later P6 witnesses inherit this dependency |
+| Chiral / hypercharge / electroweak particulars | Mixed Registered / Open | Structural criteria located | Exact module and assignments Open |
+| Quark/lepton split | Registered | Interior triad resolved versus closed | Charges, masses, generations Open |
+| Generation count | Open | No replication-three result | Spectral route or Open |
+| Couplings/Yukawas/Higgs values/hierarchy | Program Registered; values Open | Internal ratio structure partly present | Explicit state/target, stability where needed, and calibration remain |
+| Atoms / periodic landscape | Open as current wiki-standing result | Later atomic constructions may satisfy P6 if they exhibit invariant and variation-class | Gate-crossing deposit remains candidate |
+| Numerical spectrum / external values | Open | Deferred | Requires hierarchy and calibration |
 
-## Importance/support classification
+## Important and well supported
 
-### Important and well supported
-
-- Domain-entry method and anti-smuggle discipline.
-- Exact `3+1` within dimensional scope.
-- Boson/fermion essence and Pauli/Bose holding.
-- Propagation/invariant velocity and conditional-on-carrier Lorentzian theorem.
-- P6 generic phase-form and persistence meaning.
-- Scoped P6 persistence and stability in the modeled baryon closure.
+- Domain-entry and anti-smuggle discipline.
+- Exact `3+1` within scope.
+- Boson/fermion and Pauli/Bose cores.
+- P5 propagation and conditional Lorentz theorem.
+- P6 generic phase-form.
+- Scoped baryon persistence and tested stability.
+- Scoped electron persistence and native ruler normalization.
 - Weak-field gravity.
-- Mass-as-self-closure as nature/ratio, not values.
+- Mass as self-closure in nature/ratio scope.
 
-### Living load-bearing frontier
+## Living frontier
 
-1. Realizability-weighting seal: frequency=weight, positive-pairing dependency, non-physics derivation.
-2. SU(3) closure-floor audit: alternating/vanishing-on-coincidence premise.
-3. Full Einstein equation beyond weak-field.
+1. Realizability-weighting frequency bridge and remaining conditions.
+2. SU(3) alternating premise.
+3. Full gravity beyond weak-field.
 4. Stress-energy dynamical population.
-5. Chiral fermion module and hypercharge/electroweak particulars.
-6. **P6-F1:** survey all downstream closure results for actual P6 witnesses; establish domain-grade persistent population and identify the basic stable ruler.
-7. **P6-F2:** determine which later transition constructions genuinely supply quantitative stability or decay, retaining frequency/calibration requirements.
-8. Coupling constants and mass ratios after the stable-ruler/calibration gate.
+5. Exact chiral module and hypercharge particulars.
+6. **P6-F1:** survey all downstream closure results; establish domain-grade persistent population; decide whether the electron or another closure is ontologically basic and perturbatively stable enough for the quantitative cascade.
+7. **P6-F2:** identify later transition constructions that actually supply quantitative stability/decay, retaining frequency and calibration requirements.
+8. Stable-closure hierarchy, coupling constants, mass ratios, and calibration.
 9. Matter spectrum / generations.
 
-### Ill-supported but less immediately load-bearing
+## Bottom line
 
-- Specific numerical parameter values.
-- Detailed particle spectrum and mass hierarchy.
-- Λ magnitude as a capstone ratio.
+Reality, not audit sequence, determines applicability. The later baryon and mass constructions therefore supply genuine scoped P6 witnesses. What remains Open is not all physical persistence, but domain-grade completion, ontological basicness, broader perturbative stability, the closure hierarchy, external calibration, and generic quantitative decay.
 
-## Current bottom line
-
-The physics work has a strong framework-grounded spine and explicit hinges. Reality, not the audit sequence, determines applicability. The modeled baryon closure is therefore a genuine scoped P6 witness even though its detailed construction appears later. What remains Open is not “all physical persistence,” but the unrestricted/domain-grade persistent population, the basic stable ruler, and generic quantitative decay.
-
-See also: [physics-domain-work-plan](physics-domain-work-plan.md), [d6-persistence](d6-persistence.md), [with-to-this-closure](with-to-this-closure.md), [known-failure-modes](known-failure-modes.md), [claim-status-vocabulary](claim-status-vocabulary.md).
+See also: [physics-domain-work-plan](physics-domain-work-plan.md), [d6-persistence](d6-persistence.md), [with-to-this-closure](with-to-this-closure.md), [mass-as-self-closure](mass-as-self-closure.md), [known-failure-modes](known-failure-modes.md).
