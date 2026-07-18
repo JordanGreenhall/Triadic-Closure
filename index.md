@@ -58,9 +58,9 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
 - [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
 - [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
-- [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md)
+- [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md)
 
-P17 Registers mass as self-directed closure-maintenance and the electron bare repeat as the native ratio ruler `m_e = 1`. Strong stable-ruler basicness, later mass ratios, neutron energetics, the full closure hierarchy, and external calibration remain with P18–P21 or Open.
+P17 Registers mass as closure maintenance, closure loading as a qualitative order-form, and mass and energy as distinct structural readings. It retains the horizon relation only as the architectural total-self-closure limit. Metric and measure belong to P18; the electron ruler and proton/electron ratio belong to P19.
 
 ## Supporting physics pages
 
