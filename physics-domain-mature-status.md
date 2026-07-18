@@ -21,6 +21,7 @@ sources:
   - p13-particle-identity-and-native-role-taxonomy.md
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
+  - p16-quantitative-qcd-dynamics-and-quarantine.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -42,7 +43,7 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-P10 owns color, singlet closure, and allowed representation consequences. P11 owns gauge sources beyond color and the completeness/electroweak boundary. P12 owns spin, helicity, handedness, spinors, and chiral coupling. P13 owns particle identity and native role taxonomy. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
+P10 owns color, singlet closure, and allowed representation consequences. P11 owns gauge sources beyond color and the completeness/electroweak boundary. P12 owns spin, helicity, handedness, spinors, and chiral coupling. P13 owns particle identity and native role taxonomy. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine boundary. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
 
 ## Status matrix
 
@@ -60,18 +61,14 @@ P10 owns color, singlet closure, and allowed representation consequences. P11 ow
 | P12 spin/helicity/chirality package | Mixed Sealed mathematics and bounded registrations | Spin cover and Lorentz representation structure | Exact weak action remains at native seam |
 | P13 particle identity | Native role-control | Repeatable standing-role under a defining invariant | No primitive substance individuality |
 | P13 quark / lepton | Registered-not-Sealed | Color-resolved versus color-trivial fermionic roles | Flavor, charge, mass, generation quarantined |
-| P13 electron / neutrino / nucleons | Bounded role registrations | Role-defining invariants and modeled closure class | Positive differentiations retain later owners |
-| P14 flavor as marked color | Secured by P10-to-P13 role construction; Registered-not-Sealed | Determinate engagement of color distinction | No mature flavor surplus |
-| P14 three primitive marks | Secured within displayed carrier engagement; Registered-not-Sealed | Same three under marking, not a second count | Not generation count or full observed flavor spectrum |
-| P14 cyclic mark geometry | Registered-not-Sealed | Threefold orientation plus no privilege | No-fixed-line step inherits P9 debt |
-| P14 mark metric `-1/2` | Algebra Sealed given premises; framework geometry Registered-not-Sealed | Equal magnitude, equal overlap, zero sum | No charge, mass, or dynamics |
-| P14 `uud` / `udd` differentiation | Registered at mark-pattern scope | Positive nucleon distinction by surviving marks | P15 valence and later mass/decay excluded |
+| P14 flavor and mark geometry | Registered-not-Sealed; conditional algebra Sealed | Marked color, cyclic zero-sum geometry, `-1/2` pairing | No charge, mass, or generation surplus |
 | P15 signed relational valence | Secured structurally; Registered as charge-core | Outward/inward relational edge | Magnitude Open |
-| P15 hypercharge | Registered at architectural scope | From-phase sector indexing over chiral roles | Exact assignments and normalization Open |
-| P15 `Q = T3 + Y/2` | Sealed conditional mathematics | Standard operator relation once admitted | Physical population and values not derived |
-| P15 center-locking | Conjectured | Proposed compatibility of source-form centers | Exact quotient and locking action absent |
-| P15 `1/6` charge lattice | Open / conditional | Mystery-compression only | No framework theorem or uniqueness proof |
-| P15 proton positive / neutron neutral | Registered at bounded valence-core | Outward satisfiable versus net-neutral edge | Fractional constituent charges conditional |
+| P15 hypercharge / center-locking | Architectural registration plus Conjectured locking | From-phase sector indexing; proposed center compatibility | Exact assignments, quotient, and `1/6` lattice Open |
+| P16 invariant pairwise color operator | Secured conditional on P9/P10; Registered | `SU(3)`-invariant pairwise form affine in `T_i · T_j` | offset, scale, and coupling magnitude Open |
+| P16 `1 + 8 + 8 + 10` decomposition | Sealed representation mathematics | Three fundamental color factors | no hadron spectrum or dynamics |
+| P16 structural colored non-closure | Secured at closure-form scope; Registered | resolved color factor is not complete closure | not flux-tube confinement |
+| P16 tested-flow singlet attractor | Secured for two exhibited flows; Registered-not-Sealed | fixed point plus tested perturbative return | universal admissible-dynamics theorem Open |
+| P16 quantitative QCD bundle | Open as framework derivation; quarantined | no native value or scale-dynamics construction | comparison only |
 | Realizability weighting | Registered-not-Sealed | Coherence-participation law | Quantitative bridges retain conditions |
 | Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
 | Mass as self-closure | Registered | Nature and structural ratios | Calibrated values and hierarchy Open |
@@ -84,16 +81,15 @@ P10 owns color, singlet closure, and allowed representation consequences. P11 ow
 3. P9 connectedness/reductivity/candidate classification/calculus residuals.
 4. P10 physical singlet necessity and representation-to-dynamics bridge.
 5. **P11/P12-F1:** construct exactly *how a lift of With-rotatability acts on doublet-type interior structure rather than on spatial position.*
-6. **P13-F2:** adjudicate the proposed neutrino From–With/chiral office trace.
-7. **P14-F1:** determine whether the three primitive marks exhaust flavor-kind at one horizontal level.
-8. **P15-F1:** construct the exact chiral module carrying With and From actions.
-9. **P15-F2:** specify the source-form centers, their actions, and the native locking condition.
-10. **P15-F3:** determine which hypercharge ratios follow and which normalization remains free.
-11. Full gravity beyond weak-field.
-12. Matter spectrum and generations.
+6. **P15-F1:** construct the exact chiral module carrying With and From actions.
+7. **P16-F1:** declare the admissible color-dynamics class and test universal singlet attraction within it.
+8. **P16-F2:** construct a native color-coupling value and scale-dependence mechanism.
+9. **P16-F3:** determine whether a stronger dynamical-confinement bridge exists without importing the mature QCD bundle.
+10. Full gravity beyond weak-field.
+11. Matter spectrum and generations.
 
 ## Bottom line
 
-P15 Registers charge as signed relational valence and hypercharge as a From-phase sector assignment at architectural scope. The standard charge relation is conditional mathematics. Exact assignments, fractional charges, center-locking, the `1/6` lattice, anomaly cancellation, and global quotient remain Open or Conjectured.
+P16 retains the invariant pairwise color-operator form, the `SU(3)` three-factor decomposition, structural colored non-closure, and the tested-flow singlet attractor at bounded grades. Coupling magnitude, running, asymptotic freedom, flux-tube mechanisms, lattice dynamics, the QCD scale, and quantitative hadron observables remain quarantined and Open as framework derivations.
 
-See also: [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md), [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md), and [Physics Domain Work Plan](physics-domain-work-plan.md).
+See also: [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md), [Specific Color Dynamics / Narrow QCD Quarantine](09-specific-color-dynamics-qcd-quarantine.md), and [With-to-This Closure](with-to-this-closure.md).
