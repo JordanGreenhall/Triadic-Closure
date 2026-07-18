@@ -70,11 +70,12 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
 - [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md)
-- [Quark–Lepton Split — later particle-role source pending P13 normalization](quark-lepton-split.md)
-- [Chiral Coupling Result](chiral-coupling-result.md)
+- [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md)
+- [Chiral Coupling Result — P12 source material](chiral-coupling-result.md)
+- [Quark–Lepton Split — P13 source material](quark-lepton-split.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-P10 owns This-flattening color, singlet closure, and allowed representation consequences. It does not own quark/lepton or other named particle-role taxonomy.
+P11 owns `SU(2)` and `U(1)` source classification, the gauge-completeness boundary, and electroweak quarantine. It does not own spin/helicity/chirality, particle taxonomy, charge/hypercharge, or electroweak breaking.
 
 Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
 
