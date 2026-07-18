@@ -44,7 +44,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
 - [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
 - [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
-- [P7 Passability and Successor Handoff](p7-passability-and-successor-handoff.md)
+- [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
 - [Locked Actual Decrement Map](locked-actual-decrement-map.md)
@@ -61,11 +61,13 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
 - [Lorentz from Recoupling](lorentz-from-recoupling.md)
 - [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
+- [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md)
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
 ## Gauge and internal structure
 
+- [Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [Gauge Structure Result](gauge-structure-result.md)
 - [Quark–Lepton Split](quark-lepton-split.md)
 - [Chiral Coupling Result](chiral-coupling-result.md)
@@ -93,10 +95,9 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 
 ## Physics-to-chemistry transition
 
-- [P7 Passability and Successor Handoff — canonical control](p7-passability-and-successor-handoff.md)
-- [Physics–Chemistry Gate Crossing — detailed construction and source ledger](physics-chemistry-gate-crossing.md)
+- [Physics–Chemistry Gate Crossing — X1 candidate source](physics-chemistry-gate-crossing.md)
 
-The canonical P7 page governs the handoff grade and scope. The gate-crossing page retains the detailed atomic, shell, carbon, geometry, and audit construction at its owning grades. P7 is successor passability; G1 manifold recovery is independent.
+Successor passability belongs to the generic D-series and the later X1 interface unit. It is not P7 in the normalization sequence.
 
 The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
 
