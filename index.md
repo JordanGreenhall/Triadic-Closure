@@ -47,7 +47,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
 
-## Normalized physics sequence P8–P18
+## Normalized physics sequence P8–P19
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -60,16 +60,17 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
 - [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md)
 - [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md)
+- [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md)
 
-P18 selects the closure-inherited physical metric and normalizes one nontrivial color closure to `2π^5`. This is a closure measure, not yet a particle mass. The electron ruler, spatial factor, `6π^5`, and proton/electron ratio belong to P19.
+P19 registers `m_e = 1` as the native internal ruler, seats one P18 color closure across three spatial bearings to give the exact With–This factor `6 pi^5`, and records the complete proton/electron relation as `6 pi^5 [1 + c(3 pi^4)^-2]` with `3/2 <= c <= 9/4`. The exact internal selection of `c` remains Open.
 
 ## Supporting physics pages
 
 - [Specific Color Dynamics / Narrow QCD Quarantine — concise P16 shadow](09-specific-color-dynamics-qcd-quarantine.md)
 - [Mass as Self-Closure — concise P17 shadow](mass-as-self-closure.md)
 - [Closure-Inherited Metric — concise P18 shadow](closure-inherited-metric.md)
+- [Particle Mass from the Three Faces — concise P19 shadow](mass-derivation-three-faces.md)
 - [With-to-This Closure](with-to-this-closure.md)
-- [Mass Derivation — Three Faces](mass-derivation-three-faces.md)
 - [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
 - [Realizability Weighting Law](realizability-weighting-law.md)
 
