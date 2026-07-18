@@ -47,7 +47,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
 
-## Normalized physics sequence P8–P17
+## Normalized physics sequence P8–P18
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -59,16 +59,17 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
 - [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
 - [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md)
+- [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md)
 
-P17 Registers mass as closure maintenance, closure loading as a qualitative order-form, and mass and energy as distinct structural readings. It retains the horizon relation only as the architectural total-self-closure limit. Metric and measure belong to P18; the electron ruler and proton/electron ratio belong to P19.
+P18 selects the closure-inherited physical metric and normalizes one nontrivial color closure to `2π^5`. This is a closure measure, not yet a particle mass. The electron ruler, spatial factor, `6π^5`, and proton/electron ratio belong to P19.
 
 ## Supporting physics pages
 
 - [Specific Color Dynamics / Narrow QCD Quarantine — concise P16 shadow](09-specific-color-dynamics-qcd-quarantine.md)
 - [Mass as Self-Closure — concise P17 shadow](mass-as-self-closure.md)
+- [Closure-Inherited Metric — concise P18 shadow](closure-inherited-metric.md)
 - [With-to-This Closure](with-to-this-closure.md)
 - [Mass Derivation — Three Faces](mass-derivation-three-faces.md)
-- [Closure-Inherited Metric](closure-inherited-metric.md)
 - [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
 - [Realizability Weighting Law](realizability-weighting-law.md)
 

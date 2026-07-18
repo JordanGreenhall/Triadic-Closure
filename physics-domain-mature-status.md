@@ -23,6 +23,7 @@ sources:
   - p15-charge-hypercharge-valence-and-center-locking.md
   - p16-quantitative-qcd-dynamics-and-quarantine.md
   - p17-mass-as-closure-maintenance.md
+  - p18-closure-inherited-metric-and-2pi5-measure.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -44,7 +45,7 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P12 owns spin and chirality. P13 owns particle roles. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine. P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation. P18 owns the closure-inherited metric and `2 pi^5` measure. P19 owns the native electron ruler and proton/electron ratio. P20 owns baryon closure and the proton-neutron relation. P21 owns With-to-This closure and decay. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
+P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P12 owns spin and chirality. P13 owns particle roles. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine. P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation. P18 owns closure-inherited metric selection, `2π^5` normalization, and physical payment. P19 owns the native electron ruler and proton/electron ratio. P20 owns baryon closure and the proton-neutron relation. P21 owns With-to-This closure and decay. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
 
 ## Status matrix
 
@@ -68,6 +69,10 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P17 closure loading | Registered as qualitative order-form | constitutive burden borne in recurrence | formal order and metric selection remain open |
 | P17 mass/energy distinction | Registered-not-Sealed | maintenance versus admissible/realized change | quantitative relation later-owned |
 | P17 horizon relation | architectural relation Secured; physical identification Conjectured | total-self-closure limit with respect to exterior | no radius, entropy, temperature, or `A/4` |
+| P18 sphere-volume computation | Sealed mathematics given the round pairing | `Vol(S^5) × Vol(S^3) = 2π^5` | no particle mass yet |
+| P18 metric selection | Secured relative to P8/P9; Registered-not-Sealed | standing pairing over abstract trace metric | uniqueness over all invariant metrics remains frontier |
+| P18 trace discrepancy | Sealed mathematics given conventions | discrepancy localized in determinant-balancing `λ8` direction | selection remains framework-level, not pure algebra |
+| P18 physical payment | Registered at qualitative accounting scope | measure belongs to an actually maintained closure | no ruler, spatial factor, ratio, or calibration |
 | Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
 | Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
 | Generation count and spectrum | Open | no derivation | P29 |
@@ -82,13 +87,14 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 6. **P15-F1:** construct the exact chiral module carrying With and From actions.
 7. **P16-F1:** declare the admissible color-dynamics class and test universal singlet attraction.
 8. **P17-F1:** formalize closure loading as an order before metric selection.
-9. **P17-F2:** prove or bound the mass/energy distinction in the selected physical calculus.
-10. **P17-F3:** construct the bridge from increasing closure load to the total-self-closure horizon limit without importing later GR formulae.
-11. Full gravity beyond weak-field.
-12. Matter spectrum and generations.
+9. **P18-F1:** strengthen the uniqueness of the standing pairing as the physical metric source.
+10. **P18-F2:** formalize physical payment and double-counting exclusion.
+11. **P18-F3:** state the exact P9/P10 dependencies of the `S^5 × S^3` factorization.
+12. Full gravity beyond weak-field.
+13. Matter spectrum and generations.
 
 ## Bottom line
 
-P17 Registers mass as closure maintenance, closure loading as a qualitative order-form, and mass and energy as distinct structural readings. It retains the horizon relation only as the architectural total-self-closure limit. Metric, measure, the electron ruler, particle mass ratios, absolute calibration, and quantitative horizon physics remain with P18, P19, and later units.
+P18 selects the closure-inherited metric over the abstract trace metric for the physical color standing. One nontrivial color closure carries measure `2π^5`; the sphere-volume calculation and trace-discrepancy localization are sealed mathematics given their conventions. Physical metric selection and payment are Registered, not Sealed. The electron ruler, spatial factor, `6π^5`, proton/electron ratio, baryon relation, and decay remain with P19–P21.
 
-See also: [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md), [Mass as Self-Closure](mass-as-self-closure.md), and [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
+See also: [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md), [Closure-Inherited Metric](closure-inherited-metric.md), and [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).

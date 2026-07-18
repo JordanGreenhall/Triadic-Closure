@@ -32,8 +32,9 @@ Curated pages govern status; historical sources are provenance only.
 | [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) | Concise P16 result shadow |
 | [p17-mass-as-closure-maintenance](p17-mass-as-closure-maintenance.md) | Mass ontology, closure loading, mass/energy distinction, and bounded horizon relation; P17 owner |
 | [mass-as-self-closure](mass-as-self-closure.md) | Concise P17 result shadow |
-| [closure-inherited-metric](closure-inherited-metric.md) | P18 source for metric selection and `2 pi^5` measure |
-| [mass-derivation-three-faces](mass-derivation-three-faces.md) | P18/P19 source for three-face factorization, electron ruler, and proton/electron ratio |
+| [p18-closure-inherited-metric-and-2pi5-measure](p18-closure-inherited-metric-and-2pi5-measure.md) | P8 pairing, P9 determinant-preserving closure, P10 color standing, and mass-source metric audit; P18 owner |
+| [closure-inherited-metric](closure-inherited-metric.md) | Concise P18 result shadow |
+| [mass-derivation-three-faces](mass-derivation-three-faces.md) | P18 source for metric/measure evidence and P19 source for ruler, spatial factor, and proton/electron ratio; canonical owners govern each scope |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later P20/P21 neutron relation/decay source; canonical owners govern each scope |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
 | [gravity-and-curvature](gravity-and-curvature.md) | F8–F11 mathematics, P7 carrier, gravity sources |
@@ -42,7 +43,7 @@ Curated pages govern status; historical sources are provenance only.
 
 Additional normalized controls:
 
-- P1 through P17 are owned by their numbered pages.
+- P1 through P18 are owned by their numbered pages.
 - [domain-entry-method](domain-entry-method.md) — F4.
 - [physics-walk-checklist](physics-walk-checklist.md).
 - [three-moves-per-stage](three-moves-per-stage.md).
