@@ -24,9 +24,10 @@ This page maps curated physics pages to their principal upstream sources in the 
 | [gauge-structure-result](gauge-structure-result.md) | P8 carrier input plus [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) and Item 3's connectedness/irreducibility reduction; canonical P9 owner |
 | [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) | Supporting worked P9 reduction; not an independent competing control page |
 | [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) | This-flattening from the canonical foundation, P8 carrier, P9 alternating form/native `SU(3)`, and standard minimal tensor-product decompositions; canonical P10 owner |
+| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | Exact-three office architecture, P4/P7 With-rotatability, P8 complex phase, P9/P10 color source, and the gauge-source/electroweak adjudication in the consolidated internal-structure source; canonical P11 owner |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result page and current adjudication |
-| [quark-lepton-split](quark-lepton-split.md) | Later particle-role source pending P13 normalization; explicitly not P10 authority |
-| [chiral-coupling-result](chiral-coupling-result.md) | Same-named result page |
+| [quark-lepton-split](quark-lepton-split.md) | Later particle-role source pending P13 normalization; explicitly not P10 or P11 authority |
+| [chiral-coupling-result](chiral-coupling-result.md) | P12 source for spin/helicity/chirality; P11 uses it only as adversarial boundary evidence |
 | [with-to-this-closure](with-to-this-closure.md) | Weighting, mass/self-closure, and later tested baryon closure mechanism |
 | [mass-as-self-closure](mass-as-self-closure.md) | [mass-derivation-three-faces](mass-derivation-three-faces.md) and P6 stable-ruler dependency |
 | [closure-inherited-metric](closure-inherited-metric.md) | [mass-derivation-three-faces](mass-derivation-three-faces.md) |
@@ -49,6 +50,7 @@ Additional method sources:
 - [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) — P8 control
 - [gauge-structure-result](gauge-structure-result.md) — P9 control
 - [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) — P10 control
+- [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) — P11 control
 - [domain-entry-method](domain-entry-method.md) — F4 control
 - [physics-walk-checklist](physics-walk-checklist.md)
 - [three-moves-per-stage](three-moves-per-stage.md)

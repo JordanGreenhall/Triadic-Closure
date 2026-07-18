@@ -16,6 +16,7 @@ sources:
   - same-kind-carrier-representation-theorem.md
   - gauge-structure-result.md
   - p10-color-singlet-and-representation-consequences.md
+  - p11-gauge-sources-beyond-color.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - domain-entry-method.md
@@ -44,8 +45,9 @@ This is the reader-facing organization of the physics deep dive. Read by semanti
 8. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md).
 9. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md).
 10. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md).
-11. [physics-domain-mature-status](physics-domain-mature-status.md).
-12. [physics-domain-work-plan](physics-domain-work-plan.md).
+11. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
+12. [physics-domain-mature-status](physics-domain-mature-status.md).
+13. [physics-domain-work-plan](physics-domain-work-plan.md).
 
 `physics-walk-D1-D6.md` is historical development material. Its conclusions are governed by the dedicated normalized pages.
 
@@ -67,7 +69,7 @@ Reader guard: P6 has scoped baryon, electron, and neutron witnesses. It does not
 1. [realizability-weighting-law](realizability-weighting-law.md).
 2. [with-to-this-closure](with-to-this-closure.md).
 
-## 5. Internal carrier, alternating form, color, and later matter taxonomy
+## 5. Internal carrier, color, gauge sources, and later matter taxonomy
 
 Read in this order:
 
@@ -75,18 +77,20 @@ Read in this order:
 2. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md) — connectedness/irreducibility reduction, alternating form, and native SU(3).
 3. [Epsilon / SU(3) Bridge Construction](epsilon-su3-bridge-construction.md) — supporting worked reduction.
 4. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md) — This-flattening color, singlet channels, and minimal `SU(3)` representation consequences.
-5. [quark-lepton-split](quark-lepton-split.md) — retained as a later particle-role source pending P13 normalization; not P10 authority.
-6. [chiral-coupling-result](chiral-coupling-result.md).
-7. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
+5. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md) — `SU(2)` source, `U(1)` source, completeness boundary, and electroweak quarantine.
+6. [chiral-coupling-result](chiral-coupling-result.md) — retained as P12 source material; not P11 authority for spin/helicity/chirality conclusions.
+7. [quark-lepton-split](quark-lepton-split.md) — retained as P13 source material; not P10/P11 authority.
+8. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) — later P13/P14/P20 source material.
 
 Reader guards:
 
 - P8 is upstream of P9. Do not derive P8 dimension or complexness from epsilon or SU(3).
-- M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8–P10 must retain the selected-calculus condition.
+- M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8–P11 retain the selected-calculus condition where used.
 - P9's live alternation route is connectedness plus irreducibility. The older vanishing-on-coincidence argument is retired as load-bearing warrant.
 - P10 owns This-flattening color, singlet closure, and allowed representation consequences only.
-- Do not assign quark, lepton, electron, proton, neutron, or neutrino roles in P10. Those belong to P13.
-- P10 does not establish mature QCD dynamics, empirical hadron taxonomy, charge values, flavor, masses, or the full Standard Model representation content.
+- P11 owns `SU(2)` and `U(1)` source classification, the completeness boundary, and electroweak quarantine only.
+- P12 owns spin, helicity, handedness, spinors, and chiral coupling. P15 owns charge, hypercharge, valence, and center-locking. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
+- Do not assign quark, lepton, electron, proton, neutron, or neutrino roles before P13.
 
 ## 6. Closure, confinement, and mass/value machinery
 
