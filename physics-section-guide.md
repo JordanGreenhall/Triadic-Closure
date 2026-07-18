@@ -14,6 +14,7 @@ sources:
   - d6-persistence.md
   - p7-manifold-recovery-and-local-continuum.md
   - same-kind-carrier-representation-theorem.md
+  - gauge-structure-result.md
   - physics-domain-mature-status.md
   - physics-domain-work-plan.md
   - domain-entry-method.md
@@ -40,8 +41,9 @@ This is the reader-facing organization of the physics deep dive. Read by semanti
 6. [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md).
 7. [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md).
 8. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md).
-9. [physics-domain-mature-status](physics-domain-mature-status.md).
-10. [physics-domain-work-plan](physics-domain-work-plan.md).
+9. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md).
+10. [physics-domain-mature-status](physics-domain-mature-status.md).
+11. [physics-domain-work-plan](physics-domain-work-plan.md).
 
 `physics-walk-D1-D6.md` is historical development material. Its conclusions are governed by the dedicated normalized pages.
 
@@ -63,18 +65,23 @@ Reader guard: P6 has scoped baryon, electron, and neutron witnesses. It does not
 1. [realizability-weighting-law](realizability-weighting-law.md).
 2. [with-to-this-closure](with-to-this-closure.md).
 
-## 5. Internal carrier, gauge structure, and matter taxonomy
+## 5. Internal carrier, alternating form, gauge structure, and matter taxonomy
 
 Read in this order:
 
-1. M6 in [triadic-structure-of-relating-rev-canonical](triadic-structure-of-relating-rev-canonical.md) — selected quadratic complex extension and non-degenerate Hermitian scalar extension at the conditional rule-calculus grade.
-2. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) — one carrier, carrier-specific deployment of M6's selected extension, scalar verdict, fixed scale, and Hermitian registration pairing.
-3. [P9 Gauge Structure Result](gauge-structure-result.md) — alternating closure-form and native SU(3) bridge.
+1. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) — one same-kind carrier, M6-selected complex deployment, scalar verdict, fixed scale, Hermitian pairing, and dimension three.
+2. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md) — connectedness/irreducibility reduction, alternating form, and native SU(3).
+3. [Epsilon / SU(3) Bridge Construction](epsilon-su3-bridge-construction.md) — supporting worked reduction.
 4. [quark-lepton-split](quark-lepton-split.md).
 5. [chiral-coupling-result](chiral-coupling-result.md).
 6. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 
-Reader guard: P8 is upstream of P9 but downstream of M6 for scalar type. M6 supplies the selected complex extension; P8 deploys it on the internal carrier. The cyclic route is corroborative/seal work and does not construct `C`. Every complex-scalar expenditure retains the selected-calculus and operation-closure conditions. P8's fixed scalar scale is not yet a fixed volume form, determinant condition, or U(1) result.
+Reader guards:
+
+- P8 is upstream of P9. Do not derive P8 dimension or complexness from epsilon or SU(3).
+- M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8 and P9 must retain the selected-calculus condition.
+- P9's live alternation route is connectedness plus irreducibility. The older vanishing-on-coincidence argument is retired as load-bearing warrant.
+- P9 registers native SU(3), not mature QCD or the entire Standard Model gauge architecture.
 
 ## 6. Closure, confinement, and mass/value machinery
 
