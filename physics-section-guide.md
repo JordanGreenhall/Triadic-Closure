@@ -18,6 +18,7 @@ sources:
   - p10-color-singlet-and-representation-consequences.md
   - p11-gauge-sources-beyond-color.md
   - p12-spin-helicity-handedness-and-chiral-coupling.md
+  - p13-particle-identity-and-native-role-taxonomy.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -47,23 +48,21 @@ Read by semantic dependency rather than file age.
 10. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md).
 11. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
 12. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
-13. [Physics Domain Mature Status](physics-domain-mature-status.md).
+13. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
+14. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
-## 2. Spacetime, kinematics, and carrier recovery
+## 2. Spacetime, persistence, and weighting
 
 1. [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
 2. [lorentz-from-recoupling](lorentz-from-recoupling.md).
 3. [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md).
+4. [d6-persistence](d6-persistence.md).
+5. [realizability-weighting-law](realizability-weighting-law.md).
+6. [with-to-this-closure](with-to-this-closure.md).
 
-## 3. Persistence and weighting
-
-1. [d6-persistence](d6-persistence.md).
-2. [realizability-weighting-law](realizability-weighting-law.md).
-3. [with-to-this-closure](with-to-this-closure.md).
-
-## 4. Internal structure, gauge sources, and spin structure
+## 3. Internal structure, gauge sources, spin, and particle roles
 
 Read in this order:
 
@@ -73,21 +72,22 @@ Read in this order:
 4. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md).
 5. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
 6. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
-7. [Chiral Coupling Result](chiral-coupling-result.md) — concise P12 shadow.
-8. [Quark–Lepton Split](quark-lepton-split.md) — later P13 source only.
-9. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — later source material.
+7. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
+8. [Quark–Lepton Split](quark-lepton-split.md) — concise P13 shadow.
+9. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P14/P20 source; not authority for P13 surplus.
 
 Reader guards:
 
 - P8 is upstream of P9; do not derive carrier dimension or complexness from `SU(3)`.
 - P10 owns color/singlet/representation consequences only.
-- `Spin(3) ≅ SU(2)` is the spin cover of spatial rotations. It does not establish the internal weak gauge group.
-- The minimal two-component spinor is not thereby a weak-isospin doublet.
-- P12 owns spin, helicity, chirality, and the chiral/vectorial coupling distinction.
-- Actual weak chiral coupling and exact `V−A` remain Open until an internal weak carrier, local action, and matter module are constructed.
-- P13 owns particle roles; P14 flavor; P15 charge/hypercharge; P29 breaking, Higgs/Yukawa, generations, and spectrum.
+- P11 owns gauge-source office traces and their bounded identities.
+- P12 owns spin, helicity, chirality, and chiral-coupling structure.
+- P13 treats particle names as standing-roles, not primitive substances.
+- Quark/lepton means color-resolved versus color-trivial fermionic role at P13 scope.
+- Electron, neutrino, proton, and neutron are bounded role registrations; flavor, charge, mass, decay, generations, and spectrum remain with later owners.
+- P14 owns flavor and mark geometry; P15 charge/hypercharge; P16 quantitative QCD; P17–P21 mass, baryon, and decay structures; P29 breaking, Higgs/Yukawa, generations, and spectrum.
 
-## 5. Closure, mass, flavor, and neutron
+## 4. Closure, mass, flavor, and neutron
 
 1. [mass-as-self-closure](mass-as-self-closure.md).
 2. [closure-inherited-metric](closure-inherited-metric.md).
@@ -98,21 +98,18 @@ Reader guards:
    The standalone `6 pi^5` is only the exact With–This color-seating factor.
 4. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 
-## 6. Gravity and cosmology
+## 5. Gravity and cosmology
 
 1. [gravity-and-curvature](gravity-and-curvature.md).
 2. [stress-energy-three-offices](stress-energy-three-offices.md).
 3. [lambda-derived](lambda-derived.md).
+4. [grqm-conflict-status](grqm-conflict-status.md).
 
-## 7. GR/QM frontier
-
-1. [grqm-conflict-status](grqm-conflict-status.md).
-
-## 8. Physics-to-chemistry interface
+## 6. Physics-to-chemistry interface
 
 1. [physics-chemistry-gate-crossing](physics-chemistry-gate-crossing.md) — later X1 source, not P7.
 
-## 9. Provenance and caution
+## 7. Provenance and caution
 
 - [supersession-map](supersession-map.md)
 - [known-failure-modes](known-failure-modes.md)
@@ -122,4 +119,4 @@ Reader guards:
 
 ## One-line reader rule
 
-Before spending a result, identify its normalization-program unit, exact owning grade, carrier, and action. A shared group name does not establish shared physical meaning.
+Before spending a mature particle name, identify the framework role-core that licenses it and quarantine every later property not owned by the active unit.
