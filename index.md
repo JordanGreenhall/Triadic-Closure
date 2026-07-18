@@ -21,7 +21,6 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
 - [Triadic Structure of Relating — concise](triadic-structure-of-relating.md)
 - [Domain Entry Method](domain-entry-method.md)
-- [Entering a New Domain — historical physics worked example](entering-a-new-domain.md)
 - [Three Moves per Stage](three-moves-per-stage.md)
 
 ## Mathematical walk and verification
@@ -34,8 +33,6 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Mathematization F11](mathematization-F11.md)
 - [Verification Companion](verification-companion.md)
 
-Earlier syntheses and status pages must be read through [Supersession Map](supersession-map.md).
-
 ## Physics control and source maps
 
 - [Physics Registration Rule](physics-registration-theorem.md)
@@ -47,25 +44,10 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
-- [Locked Actual Decrement Map](locked-actual-decrement-map.md)
-- [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
 
-## Physics walk, propagation, and spacetime
-
-- [Physics Walk D1–D6 — historical development source; current P1–P7 pages govern](physics-walk-D1-D6.md)
-- [Physics Walk D2](physics-walk-D2.md)
-- [Physics Walk D1–D5 Consolidated](physics-walk-d1-d5-consolidated.md)
-- [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
-- [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
-- [Lorentz from Recoupling](lorentz-from-recoupling.md)
-- [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
-- [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md)
-
-The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
-
-## Gauge, internal structure, roles, marks, charge, and color dynamics
+## Normalized physics sequence P8–P17
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -76,24 +58,19 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
 - [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
 - [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
+- [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md)
+
+P17 Registers mass as self-directed closure-maintenance and the electron bare repeat as the native ratio ruler `m_e = 1`. Strong stable-ruler basicness, later mass ratios, neutron energetics, the full closure hierarchy, and external calibration remain with P18–P21 or Open.
+
+## Supporting physics pages
+
 - [Specific Color Dynamics / Narrow QCD Quarantine — concise P16 shadow](09-specific-color-dynamics-qcd-quarantine.md)
-- [Chiral Coupling Result — concise P12 shadow](chiral-coupling-result.md)
-- [Quark–Lepton Split — concise P13 shadow](quark-lepton-split.md)
-- [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
-
-P16 retains the invariant pairwise color-operator form, the three-factor `SU(3)` decomposition, structural colored non-closure, and the tested-flow singlet attractor at bounded grades. Coupling magnitude, running, asymptotic freedom, flux-tube mechanisms, lattice dynamics, the QCD scale, and quantitative hadron observables remain quarantined and Open.
-
-Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
-
-## Closure, mass, flavor, and neutron
-
-- [Mass as Self-Closure](mass-as-self-closure.md)
+- [Mass as Self-Closure — concise P17 shadow](mass-as-self-closure.md)
+- [With-to-This Closure](with-to-this-closure.md)
 - [Mass Derivation — Three Faces](mass-derivation-three-faces.md)
 - [Closure-Inherited Metric](closure-inherited-metric.md)
-- [Epsilon FW Bracket Result](epsilon-fw-bracket-result.md)
 - [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
-- [With-to-This Closure](with-to-this-closure.md)
-- [Mass-Ratio Audit Report](mass-ratio-audit-report.md)
+- [Realizability Weighting Law](realizability-weighting-law.md)
 
 ## Gravity and cosmology
 
@@ -101,22 +78,18 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 - [Gravity Asymmetry](gravity-asymmetry.md)
 - [Stress-Energy: Three Offices](stress-energy-three-offices.md)
 - [Lambda Derived](lambda-derived.md)
-- [Lambda Scaling Validation Task](lambda-scaling-validation-task.md)
+- [GR/QM Conflict Status](grqm-conflict-status.md)
 
 ## Physics-to-chemistry transition
 
 - [Physics–Chemistry Gate Crossing — X1 candidate source](physics-chemistry-gate-crossing.md)
 
-Successor passability belongs to the generic D-series and the later X1 interface unit. It is not P7 in the normalization sequence.
-
-The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
-
 ## Historical and provenance
 
-- [Jordan Decisions](jordan-decisions.md) — direct-ruling provenance; rulings absorbed into dedicated living pages
-- [Cover Letter](cover-letter.md) — historical package framing
-- [Phi Forward Reconstruction](phi-forward-reconstruction.md) — heavily superseded package reconstruction
-- [Neutron Consideration](neutron-consideration.md) — partially superseded by the later flavor/mark-metric result
+- [Jordan Decisions](jordan-decisions.md)
+- [Cover Letter](cover-letter.md)
+- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- [Neutron Consideration](neutron-consideration.md)
 
 ## Compiler workspace
 
