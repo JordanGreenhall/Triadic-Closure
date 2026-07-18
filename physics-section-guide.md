@@ -67,13 +67,14 @@ Reader guard: P6 has scoped baryon, electron, and neutron witnesses. It does not
 
 Read in this order:
 
-1. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) — one complex carrier `C^3`, scalar verdict, fixed scale, and Hermitian pairing.
-2. [P9 Gauge Structure Result](gauge-structure-result.md) — alternating closure-form and native SU(3) bridge.
-3. [quark-lepton-split](quark-lepton-split.md).
-4. [chiral-coupling-result](chiral-coupling-result.md).
-5. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
+1. M6 in [triadic-structure-of-relating-rev-canonical](triadic-structure-of-relating-rev-canonical.md) — selected quadratic complex extension and non-degenerate Hermitian scalar extension at the conditional rule-calculus grade.
+2. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) — one carrier, carrier-specific deployment of M6's selected extension, scalar verdict, fixed scale, and Hermitian registration pairing.
+3. [P9 Gauge Structure Result](gauge-structure-result.md) — alternating closure-form and native SU(3) bridge.
+4. [quark-lepton-split](quark-lepton-split.md).
+5. [chiral-coupling-result](chiral-coupling-result.md).
+6. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
 
-Reader guard: P8 is upstream of P9. Do not derive P8 dimension or complexness from epsilon or SU(3). P8's fixed scalar scale is not yet a fixed volume form, determinant condition, or U(1) result.
+Reader guard: P8 is upstream of P9 but downstream of M6 for scalar type. M6 supplies the selected complex extension; P8 deploys it on the internal carrier. The cyclic route is corroborative/seal work and does not construct `C`. Every complex-scalar expenditure retains the selected-calculus and operation-closure conditions. P8's fixed scalar scale is not yet a fixed volume form, determinant condition, or U(1) result.
 
 ## 6. Closure, confinement, and mass/value machinery
 
