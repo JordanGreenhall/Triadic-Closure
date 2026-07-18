@@ -60,7 +60,6 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
 - [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
 - [Lorentz from Recoupling](lorentz-from-recoupling.md)
-- [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
@@ -71,7 +70,7 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [Chiral Coupling Result](chiral-coupling-result.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
+Developmental D3/D4 and internal-structure files remain supersession-sensitive.
 
 ## Closure, mass, flavor, and neutron
 
@@ -93,19 +92,20 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 
 ## Physics-to-chemistry transition
 
-- [P7 Passability and Successor Handoff — canonical control](p7-passability-and-successor-handoff.md)
+- [P7 Passability and Successor Handoff — predecessor-side control](p7-passability-and-successor-handoff.md)
+- [C1 Chemistry Entry and the Bond as D1 — successor-side control](c1-chemistry-entry-and-bond.md)
 - [Physics–Chemistry Gate Crossing — detailed construction and source ledger](physics-chemistry-gate-crossing.md)
 
-The canonical P7 page governs the handoff grade and scope. The gate-crossing page retains the detailed atomic, shell, carbon, geometry, and audit construction at its owning grades. P7 is successor passability; G1 manifold recovery is independent.
+P7 records the valid handoff. C1 broadens the initial shell-edge route into chemistry's essential boundary: reconfiguration and joint closure of persistent atomic exterior relation-capacities under preservation of nuclear identity. The bond is chemistry D1 as a joint standing, not only a two-center covalent case.
 
-The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
+The remaining chemistry D2–D4 deposit is represented by [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md) pending unit-by-unit normalization.
 
 ## Historical and provenance
 
-- [Jordan Decisions](jordan-decisions.md) — direct-ruling provenance; rulings absorbed into dedicated living pages
-- [Cover Letter](cover-letter.md) — historical package framing
-- [Phi Forward Reconstruction](phi-forward-reconstruction.md) — heavily superseded package reconstruction
-- [Neutron Consideration](neutron-consideration.md) — partially superseded by the later flavor/mark-metric result
+- [Jordan Decisions](jordan-decisions.md)
+- [Cover Letter](cover-letter.md)
+- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- [Neutron Consideration](neutron-consideration.md)
 
 ## Compiler workspace
 
