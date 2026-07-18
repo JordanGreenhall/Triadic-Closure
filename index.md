@@ -65,7 +65,7 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
-## Gauge, internal structure, spin, and particle roles
+## Gauge, internal structure, spin, particle roles, and marks
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -73,11 +73,12 @@ The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It 
 - [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md)
 - [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md)
 - [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md)
+- [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
 - [Chiral Coupling Result — concise P12 shadow](chiral-coupling-result.md)
 - [Quark–Lepton Split — concise P13 shadow](quark-lepton-split.md)
 - [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
 
-P13 treats particle names as repeatable standing-roles rather than primitive substances. Quark/lepton is the color-resolved versus color-trivial fermionic split. Electron, neutrino, proton, and neutron are bounded role registrations only; flavor, charge, mass, decay, generations, and spectrum retain their later owners.
+P14 treats flavor as marked color. It Registers three primitive marks, their cyclic zero-sum geometry, the pairwise mark metric `-1/2`, and `uud`/`udd` nucleon differentiation at mark-pattern scope only. Charge, valence, mass, decay, generations, and the full flavor spectrum retain their later owners.
 
 Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
 

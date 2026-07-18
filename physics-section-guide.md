@@ -19,6 +19,7 @@ sources:
   - p11-gauge-sources-beyond-color.md
   - p12-spin-helicity-handedness-and-chiral-coupling.md
   - p13-particle-identity-and-native-role-taxonomy.md
+  - p14-flavor-and-mark-geometry.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -49,7 +50,8 @@ Read by semantic dependency rather than file age.
 11. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
 12. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
 13. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
-14. [Physics Domain Mature Status](physics-domain-mature-status.md).
+14. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
+15. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -62,7 +64,7 @@ Read by semantic dependency rather than file age.
 5. [realizability-weighting-law](realizability-weighting-law.md).
 6. [with-to-this-closure](with-to-this-closure.md).
 
-## 3. Internal structure, gauge sources, spin, and particle roles
+## 3. Internal structure, gauge sources, spin, particle roles, and marks
 
 Read in this order:
 
@@ -73,8 +75,9 @@ Read in this order:
 5. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
 6. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
 7. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
-8. [Quark–Lepton Split](quark-lepton-split.md) — concise P13 shadow.
-9. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P14/P20 source; not authority for P13 surplus.
+8. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
+9. [Quark–Lepton Split](quark-lepton-split.md) — concise P13 shadow.
+10. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — source for P14 and later P20 work; P14 governs flavor/mark claims.
 
 Reader guards:
 
@@ -83,9 +86,10 @@ Reader guards:
 - P11 owns gauge-source office traces and their bounded identities.
 - P12 owns spin, helicity, chirality, and chiral-coupling structure.
 - P13 treats particle names as standing-roles, not primitive substances.
-- Quark/lepton means color-resolved versus color-trivial fermionic role at P13 scope.
-- Electron, neutrino, proton, and neutron are bounded role registrations; flavor, charge, mass, decay, generations, and spectrum remain with later owners.
-- P14 owns flavor and mark geometry; P15 charge/hypercharge; P16 quantitative QCD; P17–P21 mass, baryon, and decay structures; P29 breaking, Higgs/Yukawa, generations, and spectrum.
+- P14 treats flavor as marked color and owns only primitive mark count, cyclic geometry, zero-sum structure, and the `-1/2` pair metric.
+- The names `u`, `d`, and `s` carry no charge, mass, mixing, generation, or Standard Model module content at P14 scope.
+- `uud` and `udd` differentiate proton and neutron only as mark patterns here; P15 owns valence and charge, and P17–P21 own mass and decay consequences.
+- P29 owns generations and the full spectrum.
 
 ## 4. Closure, mass, flavor, and neutron
 
@@ -119,4 +123,4 @@ Reader guards:
 
 ## One-line reader rule
 
-Before spending a mature particle name, identify the framework role-core that licenses it and quarantine every later property not owned by the active unit.
+Before spending a mature flavor name, identify the primitive mark-core that licenses it and quarantine charge, mass, mixing, generations, and dynamics.
