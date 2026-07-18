@@ -22,7 +22,7 @@ sources:
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
   - p16-quantitative-qcd-dynamics-and-quarantine.md
-  - p17-mass-as-self-closure-and-native-ruler.md
+  - p17-mass-as-closure-maintenance.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -44,7 +44,7 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P12 owns spin and chirality. P13 owns particle roles. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine. P17 owns mass as self-closure, the stay/advance distinction, scoped mass-bearing recurrence, and the native electron ruler. P18–P21 own later mass ratios, baryon structure, energetics, and decay. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
+P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P12 owns spin and chirality. P13 owns particle roles. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine. P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation. P18 owns the closure-inherited metric and `2 pi^5` measure. P19 owns the native electron ruler and proton/electron ratio. P20 owns baryon closure and the proton-neutron relation. P21 owns With-to-This closure and decay. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
 
 ## Status matrix
 
@@ -64,10 +64,10 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P14 flavor and mark geometry | Registered-not-Sealed; conditional algebra Sealed | Marked color and cyclic geometry | No charge or mass surplus |
 | P15 charge/hypercharge package | Structural registration plus conjectured locking | Relational valence and From-phase indexing | Exact assignments and quotient Open |
 | P16 color dynamics boundary | Bounded native forms plus quantitative quarantine | invariant operator, decomposition, closure, tested flows | quantitative QCD bundle Open |
-| P17 mass as self-closure | Secured at structural scope; Registered-not-Sealed | closure-maintenance and stay/advance decomposition | universal exhaustion claim not made |
-| P17 electron native ruler `m_e = 1` | Secured at displayed recurrence scope; Registered-not-Sealed | minimal color-trivial bare repeat | internal normalization only |
-| P17 recurrence persistence | Conditional scoped P6 witness | identity-constituting repeat | perturbative stability and basicness Open |
-| P17 calibrated mass values | Open | no step/whole external anchor | P18–P21 and value machinery |
+| P17 mass as closure maintenance | Secured at structural scope; Registered-not-Sealed | self-directed maintenance of identity-constituting closure | no metric, measure, ruler, or ratio |
+| P17 closure loading | Registered as qualitative order-form | constitutive burden borne in recurrence | formal order and metric selection remain open |
+| P17 mass/energy distinction | Registered-not-Sealed | maintenance versus admissible/realized change | quantitative relation later-owned |
+| P17 horizon relation | architectural relation Secured; physical identification Conjectured | total-self-closure limit with respect to exterior | no radius, entropy, temperature, or `A/4` |
 | Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
 | Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
 | Generation count and spectrum | Open | no derivation | P29 |
@@ -81,14 +81,14 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 5. **P11/P12-F1:** construct how lifted With-rotatability acts on doublet-type interior structure.
 6. **P15-F1:** construct the exact chiral module carrying With and From actions.
 7. **P16-F1:** declare the admissible color-dynamics class and test universal singlet attraction.
-8. **P17-F1:** establish or reject electron basicness across stable closures.
-9. **P17-F2:** exhibit the perturbation/return class for strong stable-ruler status.
-10. **P17-F3:** construct a step/whole calibration anchor.
+8. **P17-F1:** formalize closure loading as an order before metric selection.
+9. **P17-F2:** prove or bound the mass/energy distinction in the selected physical calculus.
+10. **P17-F3:** construct the bridge from increasing closure load to the total-self-closure horizon limit without importing later GR formulae.
 11. Full gravity beyond weak-field.
 12. Matter spectrum and generations.
 
 ## Bottom line
 
-P17 Registers mass as self-directed closure-maintenance and separates stay from advance. The electron bare repeat is Registered, not Sealed, as the native ratio ruler `m_e = 1` and supplies scoped recurrence-based persistence. Strong stable-ruler basicness, the closure hierarchy, later mass ratios, and absolute calibration remain Open.
+P17 Registers mass as closure maintenance, closure loading as a qualitative order-form, and mass and energy as distinct structural readings. It retains the horizon relation only as the architectural total-self-closure limit. Metric, measure, the electron ruler, particle mass ratios, absolute calibration, and quantitative horizon physics remain with P18, P19, and later units.
 
-See also: [P17 Mass as Self-Closure and Native Ruler](p17-mass-as-self-closure-and-native-ruler.md), [Mass as Self-Closure](mass-as-self-closure.md), and [P6 Persistence](d6-persistence.md).
+See also: [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md), [Mass as Self-Closure](mass-as-self-closure.md), and [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
