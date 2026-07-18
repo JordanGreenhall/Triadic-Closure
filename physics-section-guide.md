@@ -22,6 +22,7 @@ sources:
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
   - p16-quantitative-qcd-dynamics-and-quarantine.md
+  - p17-mass-as-closure-maintenance.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -55,7 +56,8 @@ Read by semantic dependency rather than file age.
 14. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
 15. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
 16. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
-17. [Physics Domain Mature Status](physics-domain-mature-status.md).
+17. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
+18. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -68,40 +70,36 @@ Read by semantic dependency rather than file age.
 5. [realizability-weighting-law](realizability-weighting-law.md).
 6. [with-to-this-closure](with-to-this-closure.md).
 
-## 3. Internal structure, gauge sources, roles, marks, charge, and color dynamics
+## 3. Internal structure through color dynamics
 
-Read in this order:
-
-1. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md).
-2. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md).
-3. [Epsilon / SU(3) Bridge](epsilon-su3-bridge-construction.md).
-4. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md).
-5. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
-6. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
-7. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
-8. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
-9. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
-10. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
-11. [Specific Color Dynamics / Narrow QCD Quarantine](09-specific-color-dynamics-qcd-quarantine.md) — concise P16 shadow.
+Read P8 through P16 in numerical order. The concise shadows remain secondary to their owning normalized pages.
 
 Reader guards:
 
 - P8 is upstream of P9; do not derive carrier dimension or complexness from `SU(3)`.
-- P10 owns color/singlet/representation consequences only.
 - P13 treats particle names as standing-roles, not primitive substances.
 - P14 owns primitive mark count and geometry only.
-- P15 owns charge/hypercharge/valence/center-locking at its bounded grades.
-- P16 may spend P9/P10 color structure downstream; its operator and decomposition results may not be spent backward to prove the bridge.
-- P16 structural confinement means colored non-closure plus singlet complete-closure and tested return. It does not include flux tubes, linear potential, area law, or a mass-gap theorem.
-- Coupling magnitude, `alpha_s` running, asymptotic freedom, lattice mechanisms, the QCD scale, and quantitative hadron observables remain quarantined.
-- P17–P21 own mass, baryon, energetics, and decay; P29 owns breaking, Higgs/Yukawa, generations, and spectrum.
+- P15 owns charge/hypercharge/valence/center-locking at bounded grades.
+- P16 structural confinement does not include flux tubes, linear potential, area laws, or a mass-gap theorem.
+- Quantitative QCD dynamics remain quarantined.
 
-## 4. Closure, mass, flavor, and neutron
+## 4. Mass, closure, and later baryon work
 
-1. [mass-as-self-closure](mass-as-self-closure.md).
-2. [closure-inherited-metric](closure-inherited-metric.md).
-3. [mass-derivation-three-faces](mass-derivation-three-faces.md).
-4. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
+1. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
+2. [Mass as Self-Closure](mass-as-self-closure.md) — concise P17 shadow.
+3. [Closure-Inherited Metric](closure-inherited-metric.md) — P18 source.
+4. [Mass Derivation — Three Faces](mass-derivation-three-faces.md) — P18/P19 source.
+5. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
+
+Reader guards:
+
+- P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation.
+- P17 supplies no metric, measure, ruler, numerical ratio, or external calibration.
+- P18 owns closure-inherited metric selection and `2 pi^5`.
+- P19 owns the electron ruler, `6 pi^5`, and the bounded proton/electron correction.
+- P20 owns baryon closure and the proton-neutron relation.
+- P21 owns forward/inverse With-to-This closure and decay.
+- P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 
 ## 5. Gravity and cosmology
 
@@ -118,10 +116,8 @@ Reader guards:
 
 - [supersession-map](supersession-map.md)
 - [known-failure-modes](known-failure-modes.md)
-- [locked-actual-decrement-map](locked-actual-decrement-map.md)
-- [phi-forward-reconstruction](phi-forward-reconstruction.md)
 - [physics-source-map](physics-source-map.md)
 
 ## One-line reader rule
 
-Before using the word **confinement**, state whether the claim is structural colored non-closure, tested singlet attraction, or mature quantitative QCD dynamics; only the first two are presently Registered.
+Before spending any mass quantity, distinguish P17 ontology/loading from P18 metric/measure, P19 ruler/ratio, P20 baryon relation, and P21 decay.

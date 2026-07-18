@@ -22,6 +22,7 @@ sources:
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
   - p16-quantitative-qcd-dynamics-and-quarantine.md
+  - p17-mass-as-closure-maintenance.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -43,53 +44,51 @@ This page is the control status for the physics-domain work.
 
 ## Authority and applicability
 
-P10 owns color, singlet closure, and allowed representation consequences. P11 owns gauge sources beyond color and the completeness/electroweak boundary. P12 owns spin, helicity, handedness, spinors, and chiral coupling. P13 owns particle identity and native role taxonomy. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine boundary. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
+P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P12 owns spin and chirality. P13 owns particle roles. P14 owns flavor and mark geometry. P15 owns charge, hypercharge, valence, and center-locking. P16 owns quantitative QCD dynamics and its quarantine. P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation. P18 owns the closure-inherited metric and `2 pi^5` measure. P19 owns the native electron ruler and proton/electron ratio. P20 owns baryon closure and the proton-neutron relation. P21 owns With-to-This closure and decay. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
 
 ## Status matrix
 
 | Item | Current record | Strength / reason | Notes / frontier |
 |---|---|---|---|
 | P1–P3 boundary and exchange controls | Secured/Registered at recorded scopes | Canonical prior units | No extra occupancy or spin-statistics smuggle |
-| P4 exact `3+1` and signature germ | Secured within dimensional scope; bounded registrations | From/With partition | P5 owns interval; P7 carrier |
-| P5 propagation and Lorentz structure | Native propagation Secured; metric theorem conditional | Link/step construction plus named theorem | P7 owns recovered carrier |
+| P4 exact `3+1` and signature germ | Secured within dimensional scope | From/With partition | P5 owns interval; P7 carrier |
+| P5 propagation and Lorentz structure | Native propagation Secured; metric theorem conditional | Link/step construction | P7 owns recovered carrier |
 | P6 persistence and bounded witnesses | Mixed Secured/Registered | Generic phase-form plus scoped witnesses | Domain-grade totality and rates Open |
-| P7 manifold recovery | Mixed Registered / defended-posit ceiling | Graph dimension, criticality, universality import, local Lorentz | Spatial sector only |
-| P8 internal carrier | Registered at inherited M6 grade | Same-kind carrier, complex deployment, pairing, dimension | No gauge result before P9 |
+| P7 manifold recovery | Mixed Registered / defended-posit ceiling | Graph dimension and local continuum work | Spatial sector only |
+| P8 internal carrier | Registered at inherited M6 grade | Same-kind carrier and pairing | No gauge result before P9 |
 | P9 alternating form and native `SU(3)` | Form Registered-not-Sealed; stabilizer mathematics Sealed | Connectedness/irreducibility route | No mature-QCD surplus |
-| P10 color and singlet consequences | Color Registered; singlet/decompositions Sealed as mathematics | This-flattening plus P8/P9 | No particle identity or dynamics |
-| P11 With-office gauge source | Secured architectural office-trace; Registered-not-Sealed | Native With trace | Weak identity Conjectured |
-| P12 spin/helicity/chirality package | Mixed Sealed mathematics and bounded registrations | Spin cover and Lorentz representation structure | Exact weak action remains at native seam |
-| P13 particle identity | Native role-control | Repeatable standing-role under a defining invariant | No primitive substance individuality |
-| P13 quark / lepton | Registered-not-Sealed | Color-resolved versus color-trivial fermionic roles | Flavor, charge, mass, generation quarantined |
-| P14 flavor and mark geometry | Registered-not-Sealed; conditional algebra Sealed | Marked color, cyclic zero-sum geometry, `-1/2` pairing | No charge, mass, or generation surplus |
-| P15 signed relational valence | Secured structurally; Registered as charge-core | Outward/inward relational edge | Magnitude Open |
-| P15 hypercharge / center-locking | Architectural registration plus Conjectured locking | From-phase sector indexing; proposed center compatibility | Exact assignments, quotient, and `1/6` lattice Open |
-| P16 invariant pairwise color operator | Secured conditional on P9/P10; Registered | `SU(3)`-invariant pairwise form affine in `T_i · T_j` | offset, scale, and coupling magnitude Open |
-| P16 `1 + 8 + 8 + 10` decomposition | Sealed representation mathematics | Three fundamental color factors | no hadron spectrum or dynamics |
-| P16 structural colored non-closure | Secured at closure-form scope; Registered | resolved color factor is not complete closure | not flux-tube confinement |
-| P16 tested-flow singlet attractor | Secured for two exhibited flows; Registered-not-Sealed | fixed point plus tested perturbative return | universal admissible-dynamics theorem Open |
-| P16 quantitative QCD bundle | Open as framework derivation; quarantined | no native value or scale-dynamics construction | comparison only |
-| Realizability weighting | Registered-not-Sealed | Coherence-participation law | Quantitative bridges retain conditions |
-| Weak-field gravity | Registered | Geodesic/tidal/Poisson support | Strong-field/full metric/G Open |
-| Mass as self-closure | Registered | Nature and structural ratios | Calibrated values and hierarchy Open |
-| Generation count and spectrum | Open | No derivation | P29 |
+| P10 color and singlet consequences | Color Registered; decompositions Sealed as mathematics | This-flattening plus P8/P9 | No particle identity or dynamics |
+| P11 With-office gauge source | Registered-not-Sealed | Native office trace | Weak identity Conjectured |
+| P12 spin/helicity/chirality package | Mixed Sealed mathematics and bounded registrations | Spin cover and Lorentz structure | Exact weak action remains at native seam |
+| P13 particle identity | Native role-control | Repeatable standing-role under invariant | No primitive substances |
+| P14 flavor and mark geometry | Registered-not-Sealed; conditional algebra Sealed | Marked color and cyclic geometry | No charge or mass surplus |
+| P15 charge/hypercharge package | Structural registration plus conjectured locking | Relational valence and From-phase indexing | Exact assignments and quotient Open |
+| P16 color dynamics boundary | Bounded native forms plus quantitative quarantine | invariant operator, decomposition, closure, tested flows | quantitative QCD bundle Open |
+| P17 mass as closure maintenance | Secured at structural scope; Registered-not-Sealed | self-directed maintenance of identity-constituting closure | no metric, measure, ruler, or ratio |
+| P17 closure loading | Registered as qualitative order-form | constitutive burden borne in recurrence | formal order and metric selection remain open |
+| P17 mass/energy distinction | Registered-not-Sealed | maintenance versus admissible/realized change | quantitative relation later-owned |
+| P17 horizon relation | architectural relation Secured; physical identification Conjectured | total-self-closure limit with respect to exterior | no radius, entropy, temperature, or `A/4` |
+| Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
+| Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
+| Generation count and spectrum | Open | no derivation | P29 |
 
 ## Living frontier
 
 1. P7 native smoothness seal and calculus closure.
 2. P8 complex-deployment uniqueness and M6 expenditure record.
-3. P9 connectedness/reductivity/candidate classification/calculus residuals.
+3. P9 connectedness/reductivity/candidate classification residuals.
 4. P10 physical singlet necessity and representation-to-dynamics bridge.
-5. **P11/P12-F1:** construct exactly *how a lift of With-rotatability acts on doublet-type interior structure rather than on spatial position.*
+5. **P11/P12-F1:** construct how lifted With-rotatability acts on doublet-type interior structure.
 6. **P15-F1:** construct the exact chiral module carrying With and From actions.
-7. **P16-F1:** declare the admissible color-dynamics class and test universal singlet attraction within it.
-8. **P16-F2:** construct a native color-coupling value and scale-dependence mechanism.
-9. **P16-F3:** determine whether a stronger dynamical-confinement bridge exists without importing the mature QCD bundle.
-10. Full gravity beyond weak-field.
-11. Matter spectrum and generations.
+7. **P16-F1:** declare the admissible color-dynamics class and test universal singlet attraction.
+8. **P17-F1:** formalize closure loading as an order before metric selection.
+9. **P17-F2:** prove or bound the mass/energy distinction in the selected physical calculus.
+10. **P17-F3:** construct the bridge from increasing closure load to the total-self-closure horizon limit without importing later GR formulae.
+11. Full gravity beyond weak-field.
+12. Matter spectrum and generations.
 
 ## Bottom line
 
-P16 retains the invariant pairwise color-operator form, the `SU(3)` three-factor decomposition, structural colored non-closure, and the tested-flow singlet attractor at bounded grades. Coupling magnitude, running, asymptotic freedom, flux-tube mechanisms, lattice dynamics, the QCD scale, and quantitative hadron observables remain quarantined and Open as framework derivations.
+P17 Registers mass as closure maintenance, closure loading as a qualitative order-form, and mass and energy as distinct structural readings. It retains the horizon relation only as the architectural total-self-closure limit. Metric, measure, the electron ruler, particle mass ratios, absolute calibration, and quantitative horizon physics remain with P18, P19, and later units.
 
-See also: [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md), [Specific Color Dynamics / Narrow QCD Quarantine](09-specific-color-dynamics-qcd-quarantine.md), and [With-to-This Closure](with-to-this-closure.md).
+See also: [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md), [Mass as Self-Closure](mass-as-self-closure.md), and [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
