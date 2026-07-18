@@ -30,10 +30,11 @@ Curated pages govern status; historical sources are provenance only.
 | [p15-charge-hypercharge-valence-and-center-locking](p15-charge-hypercharge-valence-and-center-locking.md) | Relational valence and phase-sector architecture; P15 owner |
 | [p16-quantitative-qcd-dynamics-and-quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md) | Invariant color operator, structural closure, tested flows, and QCD quarantine; P16 owner |
 | [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) | Concise P16 result shadow |
-| [p17-mass-as-self-closure-and-native-ruler](p17-mass-as-self-closure-and-native-ruler.md) | P6 recurrence, With-to-This closure, mass source, and later three-face source limited to ruler evidence; P17 owner |
+| [p17-mass-as-closure-maintenance](p17-mass-as-closure-maintenance.md) | Mass ontology, closure loading, mass/energy distinction, and bounded horizon relation; P17 owner |
 | [mass-as-self-closure](mass-as-self-closure.md) | Concise P17 result shadow |
-| [mass-derivation-three-faces](mass-derivation-three-faces.md) | Later mass-ratio and three-face source; not P17 authority beyond cited recurrence/ruler evidence |
-| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later neutron mass/decay source; canonical owners govern each scope |
+| [closure-inherited-metric](closure-inherited-metric.md) | P18 source for metric selection and `2 pi^5` measure |
+| [mass-derivation-three-faces](mass-derivation-three-faces.md) | P18/P19 source for three-face factorization, electron ruler, and proton/electron ratio |
+| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later P20/P21 neutron relation/decay source; canonical owners govern each scope |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
 | [gravity-and-curvature](gravity-and-curvature.md) | F8–F11 mathematics, P7 carrier, gravity sources |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Same-named result |
