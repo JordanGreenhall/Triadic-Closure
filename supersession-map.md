@@ -2,11 +2,14 @@
 title: Supersession Map
 type: overview
 created: 2026-06-21
-updated: 2026-07-15
+updated: 2026-07-17
 status: control
 confidence: high
 sources:
   - physics-walk-d1-d5-consolidated.md
+  - dimension-and-spacetime-status.md
+  - propagation-and-invariant-velocity.md
+  - d6-persistence.md
   - gauge-structure-result.md
   - mathematization-F10-resolved.md
 historical_sources:
@@ -74,6 +77,15 @@ Execution rule: do not say Λ has no framework meaning; say its magnitude is not
 
 Execution rule: report exact `3+1` on both axes: **Secured** by the architectonic/defended-posit route at the same reach as triadic exactly-three plus horizontal flattening, and **Registered–Sealed** within the dimensional scope. P4 Registers only the `1|3` Lorentzian-signature germ. P5 natively Secures the link/step identity and direct-bound null relation; its sign-valued interval and Lorentz-group theorem are Secured conditionally and Registered–Sealed only on a stated direction carrier/manifold. P7 owns carrier/manifold recovery. Use [dimension-and-spacetime-status](dimension-and-spacetime-status.md) and [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
 
+### D6 persistence, stability, and physical occupancy
+
+- Generic source: the D6 construction in `triadic-structure-of-relating-rev-canonical.md` establishes the phase-form and dependency: a D4 invariant carried coherently across an exhibited D5 variation-field.
+- Earlier physics walk: the D6 section of `physics-walk-D1-D6.md` added exact `3+1` from stability, atoms, confinement, the particle spectrum, and a minimal Higgs realization.
+- Earlier result page: `d6-persistence.md` called persistence and bound state sealed, inferred attraction and escape rate from fixed-point/coherence language, and declared the persistence essence complete.
+- Current: [d6-persistence](d6-persistence.md) separates the Secured generic phase-form from Open physics D6 occupancy. Persistence is Registered–Sealed only within the exact phase-form scope. Bound state, stability, metastability, structural decay, and identity receive bounded conditional registrations; the basic persistent physical closure, atoms, stable-closure cascade, and quantitative rates remain Open.
+
+Execution rule: do not use the historical D6 walk to prove dimensionality, atoms, confinement dynamics, particle spectrum, or Higgs structure. Do not infer attractor from fixed point, barrier from local maximum, frequency from weight, or lifetime from escape-accessibility. P6-F1 owns the missing basic persistent closure; P6-F2 owns the quantitative stability/decay bridge.
+
 ### Ternary coalgebra dimension route
 
 - Task formulation: `ternary-coalgebra-dimension-task.md`.
@@ -132,6 +144,10 @@ Package-era opening reconstruction. Extremely superseded by the later conversati
 
 Useful as earlier synthesis, but specific F8–F11 statuses are superseded by later dedicated files.
 
+### `physics-walk-D1-D6.md`
+
+Useful as a detailed development source, but its P1–P6 conclusions must be read through the dedicated normalized pages. Its D6 section is historical/adversarial evidence only for persistence, dimensionality, atoms, confinement, spectrum, and Higgs claims.
+
 ### `internal-structure-walk-move1.md` and `internal-structure-walk-move2.md`
 
 Useful for development path. Some conclusions still say SU(3) is conditional on (A), so they predate `gauge-structure-result.md`.
@@ -140,8 +156,12 @@ Useful for development path. Some conclusions still say SU(3) is conditional on 
 
 Cleaner than `d3-as-established.md` in some respects, but still must be checked against the consolidated re-walk and later color result.
 
+### `physics-chemistry-gate-crossing.md`
+
+A candidate deposit, explicitly not wiki-standing. Its D6 atom premise, periodic landscape, carbon selection, and successor-gate claims cannot be used as current P6 or chemistry doctrine until P6-F1 and the owning later units are discharged and the deposit receives its own normalization.
+
 ## Open supersession work
 
-A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. A future spacetime theorem should classify exact `3+1` dimensionality without reviving the superseded D6 stability proof as current closure.
+A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. P7 must normalize carrier/manifold recovery without treating P5's conditional theorem as recovery. Later atom and chemistry units must begin from P6-F1 rather than reactivating the old D6/Φ route.
 
-See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [gravity-and-curvature](gravity-and-curvature.md), [known-failure-modes](known-failure-modes.md).
+See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [gravity-and-curvature](gravity-and-curvature.md), [known-failure-modes](known-failure-modes.md).

@@ -1,3 +1,27 @@
+---
+title: Physics Walk D1–D6 — Historical Development Source
+type: historical
+updated: 2026-07-17
+status: superseded
+current_controls:
+  - physics-registration-theorem.md
+  - physics-boundary-and-four-images.md
+  - boson-fermion-and-holding-statistics.md
+  - dimension-and-spacetime-status.md
+  - propagation-and-invariant-velocity.md
+  - d6-persistence.md
+---
+
+# Historical status
+
+This file preserves a detailed development walk and its adversarial exchanges. It is not current authority for P1–P6. Read it only through the dedicated normalized control pages listed above.
+
+In particular, the D6 section below is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, Higgs structure, the periodic landscape, or a completed physical persistence result. The generic D6 phase-form and the current boundary between persistence, stability, metastability, decay, physical occupancy, and rate are governed by [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md).
+
+The text below is retained intact as provenance and adversarial evidence.
+
+---
+
 **D1(phys). Frame (Part A).** A1 both axes: the first determinate content of the physics sub-branch. Vertically: office-constituted, three signature-distinct factors, oriented (Part 0.1–0.2). Horizontally: the nonempty extension of the selected physics boundary; no second cut or stride is inserted between boundary and D1. A2 modal: what stands in that extension, given the inherited ground's full content (Part 0)? A3 inherited: the certified terminal-object package (0.1–0.10), each item retaining its grade and debt. D1 does not start from the floor; it starts from the object already carrying J, the two modes, M4's halving grade, M5's rational field/module and perfect rational pairing, M6's conditional rule-presented scalar schemas, conservation, and ρ. A complex Hermitian extension is available only relative to a selected rule calculus closed under the operations spent. Continuum-carrier deployment, positive-definite/Hilbert structure, and carrier-specific pairing are not inherited. F4 control: the valid nonempty physics constraint is the boundary and its extension is D1. Inheritance keeps every certified constraint binding, while genuinely additional deployment still requires construction.
 
 **D1 population survey (Part C1), oriented by physical reality.** What kinds-of-things emerge at the first determinate content of a domain whose From is the self-transforming mathematical object? Candidates: (a) the bare occurrence-distinction (this/not-this); (b) polarity — the two-sector ±1 split, inherited directly (0.3); (c) orientation — one-wayness (0.2); (d) rational paired structure from M5 and complex non-degenerate Hermitian paired structure at M6's selected closed rule-calculus grade; (e) the proto-seeds of extension and succession (orientation = proto-before/after; held-polarity = proto-apart-together); (f) pairing-preserving reversible transformations. Calling (d) a positive-definite quantum state-space or (f) unitary requires a further physics construction.

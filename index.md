@@ -41,9 +41,11 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 - [Physics Registration Rule](physics-registration-theorem.md)
 - [Physics Boundary and Four Images](physics-boundary-and-four-images.md)
 - [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md)
+- [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
+- [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
+- [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
-- [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
 - [Locked Actual Decrement Map](locked-actual-decrement-map.md)
 - [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
@@ -51,13 +53,15 @@ Earlier syntheses and status pages must be read through [Supersession Map](super
 
 ## Physics walk, propagation, and spacetime
 
-- [Physics Walk D1–D6](physics-walk-D1-D6.md)
+- [Physics Walk D1–D6 — historical development source; current P1–P6 pages govern](physics-walk-D1-D6.md)
 - [Physics Walk D2](physics-walk-D2.md)
 - [Physics Walk D1–D5 Consolidated](physics-walk-d1-d5-consolidated.md)
 - [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
 - [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
 - [Lorentz from Recoupling](lorentz-from-recoupling.md)
-- [D6 Persistence](d6-persistence.md)
+- [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
+
+The D6 section of `physics-walk-D1-D6.md` is superseded as current doctrine. It may not be used to derive exact `3+1`, atoms, confinement dynamics, the particle spectrum, or Higgs structure.
 
 ## Gauge and internal structure
 
@@ -88,7 +92,7 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 
 ## Physics-to-chemistry transition
 
-- [Physics–Chemistry Gate Crossing](physics-chemistry-gate-crossing.md)
+- [Physics–Chemistry Gate Crossing — candidate deposit, not wiki-standing](physics-chemistry-gate-crossing.md)
 
 The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
 
