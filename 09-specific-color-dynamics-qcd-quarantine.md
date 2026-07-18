@@ -1,57 +1,42 @@
 ---
-title: "SM Frontier Item 9: Specific Color Dynamics / Narrow QCD Quarantine"
-type: process
+title: SM Frontier Item 9 — Specific Color Dynamics / Narrow QCD Quarantine
+type: result-shadow
 status: current
 created: 2026-06-25
-updated: 2026-06-25
-scope: frontier-item-9
+updated: 2026-07-18
 sources:
-  - 02-04-items-2-3-4-status.md
-  - 07-particle-identity-ledger.md
-  - 08-charge-hypercharge-ledger.md
-  - with-to-this-closure.md
-  - gauge-structure-result.md
-  - epsilon-su3-bridge-construction.md
-  - same-kind-carrier-representation-theorem.md
+  - p16-quantitative-qcd-dynamics-and-quarantine.md
 ---
 
-# SM Frontier Item 9 — Specific Color Dynamics / Narrow QCD Quarantine
+# Specific Color Dynamics / Narrow QCD Quarantine
 
-Item 9's earlier "quarantine" framing was set before the SU(3) bridge became Registered. With Items 3–4 done, most of what looked like QCD-import-to-be-quarantined is now a native mathematical consequence of the Registered SU(3) bridge. The genuine quarantine is narrow: quantitative QCD dynamics and external mechanisms, not the invariant operator form or the representation decomposition.
+This page is the concise result shadow of [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md). P16 governs.
 
-Direction-of-inference rule: the Registered SU(3) bridge may be used downstream to derive color consequences. The color computations must never be used upstream to prove the bridge.
+## Current disposition
 
-## Adjudication
-
-| Sub-item | Adjudication | Grade |
-|---|---|---|
-| 9.1 Pairwise `T_i · T_j` mutual-conditioning operator | The `SU(3)`-invariant Hermitian pairwise operator on the carrier is affine in `T_i · T_j`, unique up to offset and scale by invariant theory. Given the now-Registered `SU(3)`, the operator form is native: the forced invariant pairwise conditioning operator, not a QCD import. Coupling magnitude remains values-side. | **Registered** for form, given `SU(3)`; magnitude **Open / values-side**. |
-| 9.2 Singlet/octet/decuplet decomposition `3⊗3⊗3 = 1⊕8⊕8⊕10` | Pure `SU(3)` representation theory downstream of the Registered bridge. The singlet / color-neutral baryon sector exists natively. This is used only downstream, not to prove the bridge. | **Registered** as mathematical consequence, given `SU(3)`. |
-| 9.3 Confinement / baryon formation | Framework confinement is structural: only the complete-closure singlet is a stable free standing; sub-arity colored configurations have no closure fork. This supports quark = non-closing resolved part, lepton = closed, baryon = singlet. QCD flux tubes, linear potential, `α_s` running, lattice dynamics, etc. are not native and not load-bearing. | Framework confinement **Registered**; QCD dynamical mechanism **Quarantined**. |
-| 9.4 Realizability-flow stability | The singlet attractor is verified for two tested flows, not proven for the whole admissible-dynamics class. Qualitative load-bearing result stands; universal uniqueness is a seal target, not a load gate. | **Registered, not sealed** with tested-flow caveat. |
+- invariant pairwise `T_i · T_j` operator form — Registered, conditional on the P9/P10 color carrier;
+- additive offset, overall scale, and physical coupling magnitude — Open;
+- `3 tensor 3 tensor 3 = 1 + 8 + 8 + 10` — Registered–Sealed as representation mathematics;
+- structural colored non-closure and singlet complete-closure — Registered;
+- singlet attraction under the two exhibited flows — Registered, not Sealed;
+- universal uniqueness over all admissible dynamics — Open.
 
 ## Narrow quarantine
 
-Quarantine only the quantitative/dynamical QCD bundle:
+The following remain external comparison material rather than native framework results:
 
-- coupling magnitudes;
-- flux tubes and linear potential;
-- asymptotic freedom;
-- running of `α_s`;
+- `alpha_s` magnitude and running;
+- beta functions and asymptotic freedom;
+- flux tubes, string tension, linear potentials, and area laws;
 - lattice-QCD numerical mechanisms;
-- empirical QCD binding decompositions.
+- empirical binding decompositions;
+- hadron masses, radii, form factors, scattering amplitudes, and cross sections;
+- the QCD scale and dimensional transmutation.
 
-These may be used as external comparison only. They are not load-bearing for the framework result and should not be demanded as Item 9 proof targets.
+Structural **confinement** means failure of a color-resolved factor to constitute a complete color closure, together with the availability and tested stability of the singlet closure. It does not silently import the mature dynamical-confinement bundle.
 
-## Honesty caveats
+## Direction of inference
 
-1. Framework confinement means structural non-closure of colored configurations. It must not import the QCD dynamical-confinement bundle through the shared word "confinement."
-2. The singlet-attractor result is Registered-not-sealed. Two tested flows cannot be promoted to a universal admissible-dynamics theorem. The seal target is proving the admissible-dynamics class result; it is not a current load gate.
+P9/P10 color structure may be spent downstream to establish these consequences. None of the consequences may be spent backward to prove the `SU(3)` bridge.
 
-## Verdict
-
-**PASS as narrowed quarantine/adjudication.** Item 9 advances from blocked-quarantine-prep to a split status: invariant color operator form, representation decomposition, structural confinement, and tested-flow singlet attractor are native consequences downstream of Registered `SU(3)`; quantitative QCD dynamics remain quarantined.
-
-## Integration rule
-
-Downstream pages may use the pairwise invariant operator form, `1⊕8⊕8⊕10` decomposition, singlet/color-neutral baryon sector, structural colored-nonclosure, and tested-flow singlet attractor where those are the exact load. They may not use QCD coupling magnitude, flux-tube confinement, `α_s` running, lattice numerics, or empirical QCD binding mechanisms as native framework proof.
+See also: [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md), [With-to-This Closure](with-to-this-closure.md), and [Physics Domain Mature Status](physics-domain-mature-status.md).
