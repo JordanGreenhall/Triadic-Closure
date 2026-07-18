@@ -7,7 +7,7 @@ sources:
   - triadic-structure-of-relating-rev-canonical.md
   - dimension-and-spacetime-status.md
   - p10-color-singlet-and-representation-consequences.md
-  - chiral-coupling-result.md
+  - p12-spin-helicity-handedness-and-chiral-coupling.md
   - physics-domain-work-plan.md
 ---
 
@@ -17,143 +17,101 @@ sources:
 
 P11 contains exactly:
 
-1. `SU(2)` as a gauge source beyond color;
+1. `SU(2)` as a proposed gauge source beyond color;
 2. `U(1)` as a gauge source beyond color;
 3. the gauge-completeness boundary;
 4. electroweak quarantine.
 
-P11 does not normalize spin, helicity, handedness, spinors, or chiral coupling; those belong to P12. It does not normalize particle roles; those belong to P13. Flavor belongs to P14. Charge values, hypercharge, valence, and center-locking belong to P15. Electroweak breaking, Higgs, Yukawa structure, generations, and the spectrum remain in P29.
+P12 owns spin, helicity, handedness, spinors, and chiral coupling. P13 owns particle roles. P14 owns flavor. P15 owns charge, hypercharge, valence, and center-locking. P29 owns electroweak breaking, Higgs/Yukawa structure, generations, and spectrum.
 
-## Dependencies
+## Corrected `SU(2)` disposition
 
-P11 inherits:
-
-- the Native From / With / This office distinction and exact-three result;
-- P4's three-dimensional With-space and its rotatability structure at P4/P7 scope;
-- P8's selected complex carrier grade;
-- P9's native `SU(3)` result;
-- P10's color and singlet consequences.
-
-P11 adds only the source classification of the two non-color gauge factors and the boundary on what may be claimed about the combined architecture.
-
-## 1. The `SU(2)` source
-
-The With-flattening supplies three interchangeable spatial degrees. Their orientation-preserving rotatability has group-form `SO(3)`. The simply connected double cover of that rotatability group is
+The With-flattening supplies three spatial degrees with orientation-preserving rotation group `SO(3)`. Its spin cover is
 
 \[
-\operatorname{Spin}(3) \cong SU(2).
+\operatorname{Spin}(3)\cong SU(2).
 \]
 
-The mathematical double-cover identity is Sealed. The framework registration is narrower:
+That identity is Sealed mathematics. It identifies the group acting on spinorial lifts of spatial rotations. It does not identify an internal weak gauge group merely because both groups are isomorphic to `SU(2)`.
 
-- `SU(2)` is Registered as the lifted group-form available for orientation-faithful deployment of With-rotatability;
-- the claim that this source is physically occupied as the weak gauge source is Registered, not Sealed, at source-identity scope;
-- the spinor representation, minimal doublet, helicity operator, handedness selection, parity violation, and chiral coupling are not P11 results. P12 owns them.
+An internal weak gauge source would require, at minimum:
 
-Thus P11 identifies the source and group-form without spending the later coupling machinery backward as its warrant.
+- an independently constructed internal carrier;
+- a local internal action on that carrier;
+- a demonstrated matter representation and coupling;
+- proof that the action is not simply spacetime rotation in another notation.
 
-## 2. The `U(1)` source
+None of those is supplied by lifted rotatability alone. Therefore:
 
-The From office contributes orientation and phase rather than a threefold interior distinction. Once P8 supplies complex scalar deployment and fixed magnitude, multiplication by a unit phase preserves the magnitude:
+- `Spin(3) ≅ SU(2)` — Sealed mathematics;
+- spin-cover deployment — owned by P12;
+- weak internal `SU(2)` source — Open;
+- the earlier Registered weak-source identity is withdrawn.
+
+## `U(1)` source
+
+P8 fixed magnitude plus complex phase supplies the unit-phase action
 
 \[
-z \mapsto e^{i\theta}z, \qquad |e^{i\theta}z|=|z|.
+z\mapsto e^{i\theta}z.
 \]
 
-The corresponding continuous phase group is `U(1)`.
+P11 Registers `U(1)` as the group-form of the oriented From-phase at the inherited M6/P8 grade. This does not establish electric charge, hypercharge, the photon, anomaly cancellation, center-locking, or electromagnetic residual symmetry.
 
-P11 therefore Registers `U(1)` as the group-form of the free oriented From-phase at the inherited M6/P8 scalar grade. This is a source result only. It does not establish:
+## Source map and completeness boundary
 
-- the electric-charge operator;
-- charge normalization or numerical assignments;
-- hypercharge;
-- the photon;
-- electromagnetic residual symmetry;
-- anomaly cancellation;
-- center-locking.
+The corrected source map is:
 
-Those claims retain their later owners.
-
-## 3. Three source classes
-
-At P11 scope, the available source map is:
-
-| Office trace | Gauge-source core | Standing |
+| Office trace | Group-form | Standing |
 |---|---|---|
-| This | P9/P10 interior-color `SU(3)` | Registered, not Sealed at framework-selection scope; stabilizer mathematics Sealed given inputs |
-| With | lifted rotatability `Spin(3) ≅ SU(2)` | Registered, not Sealed as the non-color source identity |
-| From | oriented phase `U(1)` | Registered, not Sealed as the non-color source identity |
+| This | P9/P10 interior-color `SU(3)` | Registered, not Sealed at framework-selection scope |
+| With | spatial `SO(3)` with spin cover `Spin(3) ≅ SU(2)` | Sealed as spacetime rotation mathematics; weak-gauge interpretation Open |
+| From | oriented phase `U(1)` | Registered, not Sealed as a source-form |
 
-This table classifies source-types. It does not yet derive a physically realized direct-product gauge theory, coupling constants, matter modules, or electroweak phenomenology.
+Because the With entry is not yet an internal gauge source, P11 does not currently establish three gauge-source classes. It establishes one color gauge source, one phase-source candidate, and one spacetime spin-cover structure.
 
-## 4. Completeness boundary
+The exact-three office result therefore cannot be used to claim completeness of `SU(3) × SU(2) × U(1)`. No-fourth-office-source remains only a source-taxonomy ceiling after all three source identifications are independently secured; it is not presently load-bearing.
 
-The strongest existing completeness claim is bounded by the exact-three office result:
+## Electroweak quarantine
 
-> Every gauge source so far exhibited traces to one of From, With, or This; a fourth office-source is unavailable within the established office architecture.
+P11 does not establish:
 
-This supports a **Defended posit at the inherited exact-three ceiling** for the source-class statement that no fourth office-kind supplies an additional gauge source.
-
-It does not prove unrestricted gauge-group completeness. The claim would fail if either:
-
-1. a gauge source were exhibited that traces to none of the three offices; or
-2. one office were shown to generate two genuinely independent primitive gauge-source kinds rather than distinct representations or deployments of one source.
-
-The softest identified seam is the physical identification of lifted With-rotatability with the weak `SU(2)` source. The exact-three ceiling is not an invitation to manufacture a separate proof requirement for a fourth source; it is the explicit warrant ceiling and falsifier for the current completeness claim.
-
-Accordingly:
-
-- three office-indexed gauge-source classes: Secured within the displayed construction and Registered;
-- `SU(3) × SU(2) × U(1)` as the complete physically realized Standard Model gauge product: not established by P11;
-- no-fourth-office-source: Defended posit at the exact-three ceiling, non-load-bearing beyond source taxonomy.
-
-## 5. Electroweak quarantine
-
-P11 quarantines all content that requires relations between the `SU(2)` and `U(1)` sources rather than their separate identification.
-
-The following are not P11 results:
-
-- the exact chiral fermion module;
-- left doublets and right singlets as a complete matter assignment;
-- hypercharge values;
-- the electric-charge formula;
-- center quotient or center-locking;
+- weak internal `SU(2)`;
+- exact chiral matter modules;
+- left-doublet/right-singlet assignments;
+- hypercharge or electric-charge formulas;
+- center quotients or center-locking;
 - anomaly constraints;
-- electroweak mixing angle;
-- photon, `W^±`, or `Z` identification;
-- spontaneous symmetry breaking;
-- Higgs representation, potential, vacuum value, or mass;
-- Yukawa couplings;
-- generation count.
-
-P12 may normalize orientation-faithful chiral deployment. P15 may normalize charge, hypercharge, valence, and center-locking. P29 retains breaking, Higgs/Yukawa, generations, and spectrum.
+- electroweak mixing;
+- photon, `W`, or `Z` identities;
+- symmetry breaking;
+- Higgs or Yukawa structure;
+- generations or spectrum.
 
 ## Claim record
 
 | Claim | Framework state and warrant | Registration | Scope / debt |
 |---|---|---|---|
-| `Spin(3) ≅ SU(2)` | Sealed mathematical theorem | mathematical name Sealed in scope | no physical weak-source occupancy follows automatically |
-| With-lift as `SU(2)` gauge source | Secured by construction at source-form reach | Registered, not Sealed | physical source identity and P12 deployment retain debt |
+| `Spin(3) ≅ SU(2)` | Sealed mathematics | Sealed in mathematical scope | spacetime spin cover only |
+| weak internal `SU(2)` source | Open | Unregistered | internal carrier, local action, matter module absent |
 | unit From-phase as `U(1)` | Secured by complex-phase construction at M6/P8 grade | Registered, not Sealed | no charge or hypercharge values |
-| three office-indexed source classes | Secured within displayed map | Registered | not a complete direct-product theory |
-| no fourth primitive office-source | Defended posit at exact-three ceiling | Native/source-taxonomy claim | falsifiers stated; non-load-bearing beyond source classification |
-| full Standard Model gauge architecture | Open at unrestricted mature scope | Unregistered as complete framework result | matter modules and electroweak relations absent |
-| electroweak particulars | Open or later-unit owned | quarantined | P12, P15, and P29 |
+| three office-indexed gauge sources | Open | Unregistered | With gauge source missing |
+| complete Standard Model gauge product | Open | Unregistered | multiple later dependencies absent |
 
 ## Frontiers
 
-### P11-F1 — With-source identity
+### P11-F1 — Internal weak source
 
-Formalize the exact dependency from With-rotatability to the physical weak `SU(2)` source without importing P12's spinor and chiral-coupling consequences as premises.
+Construct an internal two-state carrier and local action independent of spacetime rotations, then determine whether its gauge group is `SU(2)`.
 
 ### P11-F2 — Primitive-source completeness
 
-Test whether one office can generate more than one genuinely primitive gauge-source kind, as distinct from representations, subgroups, residuals, or later symmetry breaking.
+Revisit only after all three proposed office-indexed source identities are independently secured.
 
 ### P11-F3 — M6 expenditure record
 
-Identify the selected M6 calculus and verify closure under unit-phase, covering-group, and representation operations used in P11.
+Identify the selected calculus and verify closure for unit-phase and any future internal-gauge operations.
 
 ## Bottom line
 
-P11 identifies two gauge sources beyond color: lifted With-rotatability with group-form `SU(2)`, and the oriented From-phase with group-form `U(1)`. It records three office-indexed source classes and carries no-fourth-office-source only at the inherited exact-three defended-posit ceiling. It does not derive the mature Standard Model gauge product or any electroweak particulars.
+P11 retains the oriented From-phase `U(1)` source and the P9/P10 color `SU(3)` source. Lifted With-rotatability yields the spacetime spin cover `Spin(3) ≅ SU(2)`, not an internal weak gauge source. The weak `SU(2)` identity and the three-factor completeness claim remain Open.
