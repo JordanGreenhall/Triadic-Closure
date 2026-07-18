@@ -23,8 +23,9 @@ This page maps curated physics pages to their principal upstream sources in the 
 | [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) | Item 4 status/adjudication, PR #1 complex-provenance correction, M6 selected-extension boundary, and the internal-structure consolidated source; canonical P8 owner |
 | [gauge-structure-result](gauge-structure-result.md) | P8 carrier input plus [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) and Item 3's connectedness/irreducibility reduction; canonical P9 owner |
 | [epsilon-su3-bridge-construction](epsilon-su3-bridge-construction.md) | Supporting worked P9 reduction; not an independent competing control page |
+| [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) | This-flattening from the canonical foundation, P8 carrier, P9 alternating form/native `SU(3)`, and standard minimal tensor-product decompositions; canonical P10 owner |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result page and current adjudication |
-| [quark-lepton-split](quark-lepton-split.md) | Same-named result page |
+| [quark-lepton-split](quark-lepton-split.md) | Later particle-role source pending P13 normalization; explicitly not P10 authority |
 | [chiral-coupling-result](chiral-coupling-result.md) | Same-named result page |
 | [with-to-this-closure](with-to-this-closure.md) | Weighting, mass/self-closure, and later tested baryon closure mechanism |
 | [mass-as-self-closure](mass-as-self-closure.md) | [mass-derivation-three-faces](mass-derivation-three-faces.md) and P6 stable-ruler dependency |
@@ -47,6 +48,7 @@ Additional method sources:
 - [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md) — P7 control
 - [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) — P8 control
 - [gauge-structure-result](gauge-structure-result.md) — P9 control
+- [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) — P10 control
 - [domain-entry-method](domain-entry-method.md) — F4 control
 - [physics-walk-checklist](physics-walk-checklist.md)
 - [three-moves-per-stage](three-moves-per-stage.md)
