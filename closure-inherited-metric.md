@@ -1,60 +1,39 @@
 ---
 title: Closure-Inherited Metric
-type: physics-closure-mass
+type: result
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-18
 status: current
 confidence: medium-high
-section: Closure, confinement, and mass/value machinery
 sources:
+  - p18-closure-inherited-metric-and-2pi5-measure.md
   - mass-derivation-three-faces.md
   - gauge-structure-result.md
-  - mathematization-F8-done.md
+  - same-kind-carrier-representation-theorem.md
 ---
 
 # Closure-Inherited Metric
 
-A load-bearing metric result extracted from [mass-derivation-three-faces](mass-derivation-three-faces.md). It fixes which measure belongs to the color closure before that measure is used in the mass-ratio synthesis.
+Concise result shadow for [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md). P18 governs current use.
 
-## Result
+## Current result
 
-The measure of one seated color closure is the closure-inherited metric
+The framework metric source is the primitive pairing on standings. For one normalized nontrivial color closure, the standing-space and determinant-preserving completion give
 
-> Vol(SU(3))_closure = Vol(S^5) x Vol(S^3) = pi^3 x 2 pi^2 = 2 pi^5.
+> `Vol(SU(3))_closure = Vol(S^5) × Vol(S^3) = π^3 × 2π^2 = 2π^5`.
 
-Status: **Registered** for the metric forcing. This page does not by itself derive the proton/electron ratio; it supplies the color-closure measure used by [mass-derivation-three-faces](mass-derivation-three-faces.md).
+The sphere-volume computation is sealed mathematics given the round pairing. The selection of this closure-inherited metric over the abstract trace metric is Registered, not Sealed.
 
-## Place in the physics section
+## Trace-metric boundary
 
-Section: **Closure, confinement, and mass/value machinery**.
+The abstract trace metric gives `√3 π^5`. Its discrepancy from `2π^5` lies in the determinant-balancing direction `λ8 = diag(1,1,-2)/√3`. In the closure construction, `det = 1` makes that direction a dependent completion rather than an independently paid freedom.
 
-Read this page in the sequence given by [physics-section-guide](physics-section-guide.md). Current claim grade is governed by [physics-domain-mature-status](physics-domain-mature-status.md). Source/provenance links are collected in [physics-source-map](physics-source-map.md).
+## Physical payment
 
-## Why the metric is 2 pi^5, not sqrt(3) pi^5
+`2π^5` is the measure paid by one actually maintained nontrivial color closure. It is not yet a particle mass. It may not be multiplied by spatial dimension, assigned to the electron, or spent in the proton/electron ratio until P19.
 
-The abstract trace metric on SU(3) gives sqrt(3) pi^5. That is not the metric the framework is allowed to use for the physical color closure.
+## Boundary
 
-The framework's metric source is the primitive pairing on standings. It measures the standing's closure, not the abstract operator group detached from the standing. The standing is a normalized color vector in C^3, so the free color-standing part is the round S^5. The determinant-preserving completion supplies the round S^3. Their product gives 2 pi^5.
+P18 does not derive the electron ruler, the spatial factor `3`, `6π^5`, the proton/electron ratio, proton/neutron splitting, decay, or external calibration.
 
-The entire difference between sqrt(3) pi^5 and 2 pi^5 lives in the determinant-balancing direction lambda_8 = diag(1,1,-2)/sqrt(3). In the abstract trace metric lambda_8 is counted as a free operator direction. In the closure-inherited metric it is not free: det = 1 makes that direction the forced completion of the closure. The same condition that yields SU(3) also fixes the measure by making the determinant-balancing direction dependent.
-
-## Why confinement matters
-
-Confinement removes the possibility of measuring a free abstract color group. There is no physical free color standing whose independent trace metric could be used. What exists is the closure that preserves determinant and closes color into a singlet. Therefore the measure belongs to the closure, not to an abstract color freedom considered apart from confinement.
-
-## Grade
-
-**Registered:**
-- the pairing, not the trace form, is the framework metric source;
-- the color standing is measured as S^5 with determinant-preserving S^3 completion;
-- the 2/sqrt(3) discrepancy is localized wholly in lambda_8;
-- det = 1 makes lambda_8 dependent rather than independent for the closure;
-- confinement forbids replacing the closure-inherited metric with a free abstract group metric.
-
-**Boundary:** the factor-3 spatialization is Registered in [mass-derivation-three-faces](mass-derivation-three-faces.md) as an additive seating result. The From-With chiral face is theorem-bounded there by
-
-> epsilon_FW = c(3 pi^4)^-2,  3/2 <= c <= 9/4.
-
-Only the exact internal selection of c remains Open.
-
-See also: [mass-as-self-closure](mass-as-self-closure.md), [gauge-structure-result](gauge-structure-result.md).
+See also: [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md), [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md), and [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
