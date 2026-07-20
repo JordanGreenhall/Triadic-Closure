@@ -90,7 +90,7 @@ At P13 scope, neutron identity is Registered as the companion nucleon-role. Its 
 
 ### Nucleon boundary
 
-P13 therefore Registers two named nucleon roles sharing one color-singlet closure type while explicitly leaving the positive construction of their difference to P14 and P15. Their empirical distinguishability is corroborative; it is not used to manufacture the missing mark or charge derivation.
+P13 therefore Registers two named nucleon roles sharing one color-singlet closure type while routing positive construction of their difference to P14 and P15. P14 now supplies their `uud`/`udd` mark differentiation, P15 supplies their outward/neutral valence differentiation, P20 owns the mass relation, and P21 owns decay. Their empirical distinguishability is corroborative; it is not used to manufacture the mark or valence construction.
 
 ## Claim record
 
@@ -105,10 +105,6 @@ P13 therefore Registers two named nucleon roles sharing one color-singlet closur
 | neutron | alternate named role in same nucleon class | Registered at role scope | marks/neutrality later-owned; mass excess Conjectured; decay P21-owned |
 
 ## Frontiers
-
-### P13-F1 — Positive proton/neutron differentiation
-
-P14 and P15 must construct the mark and valence distinctions that positively differentiate the two nucleon roles without using the inherited names as premises.
 
 ### P13-F2 — Neutrino office trace
 
