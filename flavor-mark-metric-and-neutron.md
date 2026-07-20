@@ -1,8 +1,8 @@
 ---
 title: "Flavor, the Mark-Metric, and the Neutron Mass Constraint"
 type: result
-status: current
-confidence: "flavor derivation and mark-metric Registered; neutron sign/mechanism and decay structure Registered; full magnitude Conjectured on premise 4 + Open proton residual"
+status: supporting-scope-split
+confidence: "supporting derivation; P14 owns flavor/mark geometry, P20 owns baryon and proton-neutron relation, P21 owns decay"
 created: 2026-06-26
 depends-on:
   - triadic-structure-of-relating                  # J polarity, flattened triad, no-privileged-frame
@@ -17,6 +17,16 @@ claim_statuses: [Open, Conjectured, Registered, "Registered and Sealed"]
 ---
 
 # Flavor, the Mark-Metric, and the Neutron Mass Constraint
+
+## Current authority routing
+
+This page is retained as detailed supporting derivation, not as a cross-unit canonical owner.
+
+- [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md) governs flavor, the primitive marks, cyclic geometry, and the `-1/2` metric.
+- [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs the shared singlet, `uud`/`udd` comparison, sign, `1/4` access weight, and magnitude status.
+- P21 governs With-to-This/inverse closure, decay products, beta particulars, and rates when that unit is normalized.
+
+Where this source mixes those regions, the numbered owner controls scope and standing. In particular, the exact receipt-complement partition and refined splitting magnitude remain Conjectured; decay content must not be spent as P20 warrant.
 
 ## 0. Scope
 
@@ -299,7 +309,7 @@ to be worked the same way, ready to come back as a different split. The proton r
 
 Section: **Internal/gauge structure, matter taxonomy, and mass/value machinery**.
 
-Read this page after [gauge-structure-result](gauge-structure-result.md), [quark-lepton-split](quark-lepton-split.md), [mass-derivation-three-faces](mass-derivation-three-faces.md), and [neutron-consideration](neutron-consideration.md). Current claim grade is governed by [physics-domain-mature-status](physics-domain-mature-status.md). Source/provenance links are collected in [physics-source-map](physics-source-map.md).
+Read this page as supporting evidence after the applicable canonical owner: [P14](p14-flavor-and-mark-geometry.md) for marks, [P20](p20-baryon-closure-and-proton-neutron-relation.md) for the proton–neutron relation, and later P21 for decay. Current claim grades are summarized in [physics-domain-mature-status](physics-domain-mature-status.md). Source/provenance links are collected in [physics-source-map](physics-source-map.md).
 
 ## Source links
 

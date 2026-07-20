@@ -1,20 +1,21 @@
 ---
 title: The Neutron — Full Consideration
 type: result
-status: current-partially-superseded
-confidence: structure high; mark-metric/flavor premise Registered by flavor-mark-metric-and-neutron; full magnitude conjectured on receipt-complement premise plus proton residual
+status: historical-mixed-provenance
+confidence: P20 doctrine superseded; unique wrong-sign, failed-route, and later P21 decay provenance retained
 depends-on: [mass-derivation-three-faces, with-to-this-closure, realizability-weighting-law, flavor-mark-metric-and-neutron]
 superseded-by:
   - flavor-mark-metric-and-neutron # supersedes §5.2(a), §6 premise 2, §7 A₂ / 120° flavor-SU(3) keystone
+  - p20-baryon-closure-and-proton-neutron-relation # supersedes P20 singlet, marks, sign, and magnitude status
 ---
 
 # The Neutron — Full Consideration
 
 ## Current status / supersession notice
 
-See [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). That page supersedes this draft's §5.2(a), §6 premise 2, and §7 A₂ / 120° flavor-SU(3) keystone. The current live reading is: flavor is color's three This-aspects under marking; the mark-metric `u·d = -1/2` is forced by no-privileged-frame on the three marks; the `1/4` in the neutron/proton splitting is the squared mark-access overlap. The old flavor-SU(3) / A₂ route is provenance only.
+This draft is historical mixed provenance. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) now governs singlet closure, marks, proton–neutron sign, the `1/4` access weight, and magnitude status. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) remains supporting derivational evidence and supersedes this draft's §5.2(a), §6 premise 2, and §7 `A_2` / `120°` flavor-`SU(3)` keystone. The old flavor-`SU(3)` / `A_2` route is provenance only.
 
-The neutron sign/mechanism and decay-structure account remain usable where consistent with the newer mark-metric page. The full magnitude remains Conjectured because the receipt-complement partition `[1 - 1/(2π)^2]` is not yet forced and the proton residual `ε_FW` remains Open.
+No P20 claim should be taken from this draft when the canonical page is available. The wrong-sign failures and superseded route remain adversarial evidence. Decay passages remain source material for later P21 normalization only; they are not within P20. The full magnitude remains Conjectured because the receipt-complement partition `[1 - 1/(2π)^2]` is not yet forced and the proton residual `epsilon_FW` remains Open.
 
 ## 0. Scope and discipline
 
