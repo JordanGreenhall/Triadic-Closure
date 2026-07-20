@@ -36,7 +36,9 @@ Curated pages govern status; historical sources are provenance only.
 | [closure-inherited-metric](closure-inherited-metric.md) | Concise P18 result shadow |
 | [p19-native-electron-ruler-and-proton-electron-ratio](p19-native-electron-ruler-and-proton-electron-ratio.md) | P13 electron role, P17 recurrence, P18 measure, exact-three With, and three-face mass source; P19 owner |
 | [mass-derivation-three-faces](mass-derivation-three-faces.md) | Concise P19 result shadow |
-| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later P20/P21 neutron relation/decay source; canonical owners govern each scope |
+| [p20-baryon-closure-and-proton-neutron-relation](p20-baryon-closure-and-proton-neutron-relation.md) | P10/P13–P19 controls, amplitude/readout conditions, and detailed neutron sources; P20 owner |
+| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and later P21 source; canonical numbered owners govern claims and grades |
+| [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20; retains failed routes and candidate calculations |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
 | [gravity-and-curvature](gravity-and-curvature.md) | F8–F11 mathematics, P7 carrier, gravity sources |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Same-named result |
@@ -44,7 +46,7 @@ Curated pages govern status; historical sources are provenance only.
 
 Additional normalized controls:
 
-- P1 through P19 are owned by their numbered pages.
+- P1 through P20 are owned by their numbered pages.
 - [domain-entry-method](domain-entry-method.md) — F4.
 - [physics-walk-checklist](physics-walk-checklist.md).
 - [three-moves-per-stage](three-moves-per-stage.md).

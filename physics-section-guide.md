@@ -25,6 +25,7 @@ sources:
   - p17-mass-as-closure-maintenance.md
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p19-native-electron-ruler-and-proton-electron-ratio.md
+  - p20-baryon-closure-and-proton-neutron-relation.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -61,7 +62,8 @@ Read by semantic dependency rather than file age.
 17. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 18. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
 19. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
-20. [Physics Domain Mature Status](physics-domain-mature-status.md).
+20. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md).
+21. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -86,7 +88,9 @@ Read P8 through P16 in numerical order. The concise shadows remain secondary to 
 4. [Closure-Inherited Metric](closure-inherited-metric.md) — concise P18 shadow.
 5. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
 6. [Particle Mass from the Three Faces](mass-derivation-three-faces.md) — concise P19 shadow.
-7. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
+7. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md).
+8. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — supporting P20 derivation and later P21 source.
+9. [Neutron Consideration](neutron-consideration.md) — historical/adversarial for P20.
 
 Reader guards:
 
@@ -96,6 +100,7 @@ Reader guards:
 - `6 pi^5` is not the complete proton/electron ratio.
 - The complete expression is `m_p/m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
 - P20 owns baryon closure and the proton-neutron relation.
+- P20 Secures the shared singlet and mark-pattern core; its framework sign, physical `1/4` access weight, and complete magnitude are Conjectured.
 - P21 owns forward/inverse With-to-This closure and decay.
 - P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 
