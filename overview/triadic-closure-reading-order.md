@@ -13,6 +13,7 @@ sources:
   - ../physics-boundary-and-four-images.md
   - ../boson-fermion-and-holding-statistics.md
   - ../physics-domain-mature-status.md
+  - ../p20-baryon-closure-and-proton-neutron-relation.md
 ---
 
 # Triadic Closure Reading Order
@@ -49,7 +50,8 @@ Only after the above should a reader enter the physics corpus:
 10. [physics-domain-work-plan](../physics-domain-work-plan.md) — hinge-first work plan and live gates.
 11. [physics-walk-d1-d5-consolidated](../physics-walk-d1-d5-consolidated.md) — the current D1-D5 physics walk.
 12. [dimension-and-spacetime-status](../dimension-and-spacetime-status.md) — P4 exact `3+1`, the bounded signature germ, and later-unit quarantines.
-13. Current physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md),[mass-derivation-three-faces](../epsilon-fw-bracket-result.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
+13. [P20 Baryon Closure and Proton–Neutron Relation](../p20-baryon-closure-and-proton-neutron-relation.md) — canonical singlet, marks, sign, and magnitude-status record after P10 and P13–P19.
+14. Current supporting physics result pages as needed: [gauge-structure-result](../gauge-structure-result.md), [mass-as-self-closure](../mass-as-self-closure.md), [mass-derivation-three-faces](../mass-derivation-three-faces.md), [flavor-mark-metric-and-neutron](../flavor-mark-metric-and-neutron.md), [gravity-and-curvature](../gravity-and-curvature.md), [realizability-weighting-law](../realizability-weighting-law.md), [propagation-and-invariant-velocity](../propagation-and-invariant-velocity.md), [stress-energy-three-offices](../stress-energy-three-offices.md), [lambda-derived](../lambda-derived.md), [quark-lepton-split](../quark-lepton-split.md), [chiral-coupling-result](../chiral-coupling-result.md).
 
 ## 4. Provenance and guardrails
 
