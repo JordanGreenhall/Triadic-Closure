@@ -183,8 +183,13 @@ def main() -> int:
         "07-particle-identity-ledger.md",
         "11-decay-product-registration.md",
         "sm-content-smuggle-audit-frontier.md",
+        "physics-domain-mature-status.md",
         "physics-domain-work-plan.md",
         "physics-chemistry-gate-crossing.md",
+        "physics-section-guide.md",
+        "physics-source-map.md",
+        "physics-walk-checklist.md",
+        "supersession-map.md",
         "index.md",
         "epsilon-fw-bracket-result.md",
     )
