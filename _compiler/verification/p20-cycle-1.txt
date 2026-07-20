@@ -1,0 +1,54 @@
+P20 deterministic verifier
+PASS 01: repository-relative execution
+PASS 02: catalog elements
+PASS 03: P20-F1 substantive local placement
+PASS 04: P20-F1 substantive global placement
+PASS 05: P20-F2 substantive local placement
+PASS 06: P20-F2 substantive global placement
+PASS 07: P20-F3 substantive local placement
+PASS 08: P20-F3 substantive global placement
+PASS 09: P20-F1 finite local discharge
+PASS 10: P20-F1 finite global discharge
+PASS 11: P20-F2 finite local discharge
+PASS 12: P20-F2 finite global discharge
+PASS 13: P20-F3 finite local discharge
+PASS 14: P20-F3 finite global discharge
+PASS 15: PR-added Markdown links
+PASS 16: mark algebra
+PASS 17: documented algebra |P|^2 = |N|^2 = 3
+PASS 18: documented algebra P·N = 3/2
+PASS 19: documented algebra = 1/2
+PASS 20: documented algebra squared overlap = 1/4
+PASS 21: sign and relief status demoted
+PASS 22: physical access status demoted
+PASS 23: conditional algebra preserved
+PASS 24: p20-baryon-closure-and-proton-neutron-relation.md has no actuality warrant
+PASS 25: flavor-mark-metric-and-neutron.md has no actuality warrant
+PASS 26: d6-persistence.md has no actuality warrant
+PASS 27: physics-domain-mature-status.md has no actuality warrant
+PASS 28: index.md has no actuality warrant
+PASS 29: 07-particle-identity-ledger.md has no actuality warrant
+PASS 30: 03-10-physics-concept-load-pass-ledger.md has no actuality warrant
+PASS 31: 11-decay-product-registration.md has no actuality warrant
+PASS 32: p13-particle-identity-and-native-role-taxonomy.md has no actuality warrant
+PASS 33: sm-content-smuggle-audit-frontier.md has no actuality warrant
+PASS 34: physics-chemistry-gate-crossing.md has no actuality warrant
+PASS 35: physics-section-guide.md has no actuality warrant
+PASS 36: physics-source-map.md has no actuality warrant
+PASS 37: p20-baryon-closure-and-proton-neutron-relation.md has no stale former grade
+PASS 38: flavor-mark-metric-and-neutron.md has no stale former grade
+PASS 39: d6-persistence.md has no stale former grade
+PASS 40: physics-domain-mature-status.md has no stale former grade
+PASS 41: index.md has no stale former grade
+PASS 42: 07-particle-identity-ledger.md has no stale former grade
+PASS 43: 03-10-physics-concept-load-pass-ledger.md has no stale former grade
+PASS 44: 11-decay-product-registration.md has no stale former grade
+PASS 45: p13-particle-identity-and-native-role-taxonomy.md has no stale former grade
+PASS 46: sm-content-smuggle-audit-frontier.md has no stale former grade
+PASS 47: physics-chemistry-gate-crossing.md has no stale former grade
+PASS 48: physics-section-guide.md has no stale former grade
+PASS 49: physics-source-map.md has no stale former grade
+PASS 50: P19 boundary explicit
+PASS 51: P21 boundary explicit
+PASS 52: git diff --check against merge-base with origin/main
+RESULT: PASS (52 checks)
