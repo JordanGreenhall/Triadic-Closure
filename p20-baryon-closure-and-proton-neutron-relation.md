@@ -91,8 +91,8 @@ The P20 construction applies those premises as follows:
 - the neutron has no such outward relief and bears the corresponding load internally;
 - therefore the proton is the lower-maintenance standing and the neutron is heavier: `m_n-m_p>0`.
 
-**Framework standing:** Secured within the displayed P15/P17 qualitative-load construction and its bounded role premises.  
-**Warrant route:** construction/dependency, not a quantitative QCD calculation and not empirical reverse-fitting.  
+**Framework standing:** Secured within the displayed P15/P17 qualitative-load construction and its bounded role premises.
+**Warrant route:** construction/dependency, not a quantitative QCD calculation and not empirical reverse-fitting.
 **Semantic registration:** the proton–neutron **mass-ordering sign** and **relief-valve mechanism** are Registered for this mapped core; mature binding-energy decomposition, absolute masses, and spectrum surplus remain quarantined.
 
 The adversarial negative result is retained: treating charge as an interior mass cost predicts the wrong sign and is rejected. Charge marks edge orientation here; charge magnitude is not itself mass.
