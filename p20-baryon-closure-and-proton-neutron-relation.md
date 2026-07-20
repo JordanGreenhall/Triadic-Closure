@@ -173,3 +173,63 @@ P20 does not derive beta decay, product identities, the antineutrino reading, a 
 | `1/4` as physical access weight | Conjectured | not a transition probability, frequency, or rate |
 | additive splitting ledger and receipt-complement partition | Conjectured selections | alternatives and uniqueness unresolved |
 | complete quantitative splitting expression | Conjectured; numerical agreement is empirical evidence | not a Registered framework magnitude |
+
+## Local frontier
+
+### P20-F1 — Valence-to-maintenance sign bridge
+
+**Open question:** Does outward satisfiable valence reduce intrinsic closure-maintenance independently of whether an external partner currently occupies that relation?
+
+**Current strongest result and standing:** P15 Secures the proton-outward/neutron-neutral valence distinction, and P17 Secures a qualitative maintenance-load order. Their proposed composition into a relief mechanism and `m_n - m_p > 0` is Conjectured.
+
+**Established:** the roles differ in relational valence; the charge-as-interior-cost route fails with the wrong sign; the measured sign is positive.
+
+**Missing premise / countermodel / computation / empirical input:** an occupancy-independent construction mapping satisfiable valence to a definite reduction in the isolated standing's intrinsic maintenance load, together with exclusion of a model in which valence orientation leaves that load unchanged.
+
+**Dependencies and downstream claims affected:** P15, P17, P20 mass ordering, P6 comparative attractor/metastability language, and any later decay argument that presupposes the ordering.
+
+**False-completion risk:** the corpus may mistake the existence of an electron counterpart, or the observed positive sign, for a constructed intrinsic-relief mechanism.
+
+**Global location:** `physics-domain-mature-status.md`.
+
+**Next legitimate research action:** define intrinsic closure-maintenance before external occupancy and test the proposed valence map against unchanged-load and wrong-sign countermodels.
+
+### P20-F2 — Mark-overlap-to-access-amplitude bridge
+
+**Open question:** Under what construction does the normalized aggregate mark overlap `1/2` become a physical access amplitude whose square `1/4` is a weighting measure?
+
+**Current strongest result and standing:** the norms, inner product, normalized overlap, and square are Sealed mathematics given P14's mark geometry; the physical access-weight interpretation is Conjectured.
+
+**Established:** P14 licenses the mark pairing at its recorded grade, and the amplitude/readout theorem licenses squaring only when its amplitude-space, pairing, normalization, and alternative-frame conditions hold.
+
+**Missing premise / countermodel / computation / empirical input:** a licensed amplitude-space location for the aggregate configurations, the access pairing, a normalized/conserved frame of alternatives, and a map from mark overlap to transition reach; alternatives in which the mark overlap is only geometric or readout data must be excluded.
+
+**Dependencies and downstream claims affected:** the candidate `1/4`, the P20 magnitude ledger, P6 escape-weight language, and any P21 transition-weight expenditure.
+
+**False-completion risk:** the corpus may infer that every inner product in a normalized mark plane is automatically a Born amplitude.
+
+**Global location:** `physics-domain-mature-status.md`.
+
+**Next legitimate research action:** construct the P20 alternative frame and access map explicitly, then check every amplitude/readout theorem condition without using the desired `1/4` as a premise.
+
+### P20-F3 — Splitting-ledger selection and exact magnitude
+
+**Open question:** Does the framework force the additive electron-plus-release ledger, the receipt-complement partition, and their map to the complete proton/neutron mass difference?
+
+**Current strongest result and standing:** the displayed expression is a constant-free Conjectured selection that closely matches observation when `w = 1/4`; no exact framework magnitude is Secured.
+
+**Established:** P19 supplies the inherited `3 pi^4` normalization; the candidate expression is dimensionless; its numerical output can be compared with measurement.
+
+**Missing premise / countermodel / computation / empirical input:** a conservation or composition law selecting linear addition, proof that the electron term is paid exactly once in this ledger, derivation and uniqueness of the receipt complement, discharge of P20-F2, and control of the inherited Open P19 coefficient where it affects the comparison.
+
+**Dependencies and downstream claims affected:** every quantitative proton/neutron splitting statement and any P21 use of a derived energy release.
+
+**False-completion risk:** close numerical agreement may be reported as a derivation even though several discrete composition choices remain unforced.
+
+**Global location:** `physics-domain-mature-status.md`.
+
+**Next legitimate research action:** enumerate admissible composition and partition rules under the inherited accounting constraints, then test whether one is uniquely selected before comparing numerically with observation.
+
+## Verdict
+
+P20 Secures a bounded baryon-closure core and the shared-singlet/mark-pattern differentiation at their inherited scopes. The framework-derived neutron-heavier sign, the physical `1/4` access weight, and the complete splitting magnitude remain Conjectured behind three explicit frontiers. P20 supplies no decay result.
