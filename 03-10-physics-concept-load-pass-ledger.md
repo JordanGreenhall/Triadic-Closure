@@ -398,7 +398,7 @@ See [11-decay-product-registration](11-decay-product-registration.md). Item 11 *
 
 ### 11.2 Received, Open, or quarantined content
 
-- **Product identities:** Mixed. Electron-as-product has a Registered structural role in the neutron-specific ledger of [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md), while empirical product identity remains observational.
+- **Product identities:** P21-owned. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) is retained source material, not a current Registered structural result; empirical product identity remains observation.
 - **Antineutrino as such:** Conjectured. From-With missing-partner / receipt reading remains Conjectured; missing-energy observation is allowed, entity is not Registered native.
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
 - **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
