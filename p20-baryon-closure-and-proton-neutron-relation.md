@@ -1,7 +1,7 @@
 ---
 title: P20 Baryon Closure and Proton–Neutron Relation
 type: result
-status: active-normalization
+status: current
 updated: 2026-07-20
 sources:
   - p10-color-singlet-and-representation-consequences.md
