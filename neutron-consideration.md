@@ -110,7 +110,9 @@ proton carries more outward charge. The correct reading inverts this — the out
 
 ---
 
-## 3. Decay as the inverse closure (This → With)
+## 3. Historical P21 source material — decay as the inverse closure (This → With)
+
+The claims and grades in this section are preserved as provenance and are not current P20 doctrine. Later P21 normalization must adjudicate them before use.
 
 The companion result [with-to-this-closure](with-to-this-closure.md) derives the forward direction: a With (relata
 held apart) flows up the realizability gradient and closes into a This (a gathered standing).
@@ -277,8 +279,8 @@ Numerically:
 | measured (m_n − m_p)/m_p | 1.378420 × 10⁻³ |
 | **ratio model / measured** | **1.0000258** |
 
-The model reproduces the proton–neutron splitting to **2.6 × 10⁻⁵**, with **no fitted
-constants** — every term is a named framework object.
+The historical model reproduces the proton–neutron splitting to **2.6 × 10⁻⁵**, with no fitted
+continuous constants. This is an empirical check on a selected formula, not warrant that the receipt-complement partition is forced.
 
 ---
 
@@ -312,9 +314,9 @@ not a rank), scale-type (small abelian-exterior correction on large non-abelian 
 
 ---
 
-## 7. Current sharp frontier
+## 7. Historical handoff — not a current frontier location
 
-The old frontier — “Why does exterior flavor-access inherit the A₂ (120°) geometry?” — is superseded by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). The live frontier is now narrower:
+The old frontier — “Why does exterior flavor-access inherit the A₂ (120°) geometry?” — is superseded by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). The issue below is now governed solely by the [canonical P20 frontier](p20-baryon-closure-and-proton-neutron-relation.md) and its matching global mature-status entry:
 
 > **Can the receipt-complement partition `[1 - 1/(2π)^2]` be forced rather than posited?**
 

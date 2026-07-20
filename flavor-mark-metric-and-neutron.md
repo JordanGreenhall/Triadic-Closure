@@ -192,7 +192,7 @@ face outward (relievable) vs. inward (borne): **a relief valve, not a cost.** Th
 **sign right**, where every charge-as-cost attempt got the proton heavier. **[Registered:
 mechanism and sign.]**
 
-**3.3 Decay as the inverse closure (This → With + From).** Forward (`with-to-this-closure`): a
+**3.3 Later P21 source material — decay as the inverse closure (This → With + From).** This subsection is not P20 doctrine; later P21 must adjudicate its claims and grades. Forward (`with-to-this-closure`): a
 With closes into a This. Neutron decay is the inverse: a This (the neutron) partially re-opens
 into a With (proton + electron, held in an external relationship) plus a From (kinetic
 advance). The three faces appear in the three products. The drain is ordinary
@@ -288,7 +288,7 @@ remains **Conjectured**.
 | **`1/4` = squared mark-access overlap** | **Registered, not Sealed** | §2 + Item 2 (Born/access) |
 | isospin reconciliation (access ≠ readout; Fermi = 1 is readout) | **Registered** | Item 2 |
 | `2π`/`6π⁵`/`3π⁴` measures | **Registered** | mass-derivation-three-faces |
-| leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Registered** | above |
+| leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Secured only within a selected accounting construction; not uniquely forced** | P20 governs the bounded use |
 | receipt-complement partition `[1 − 1/(2π)²]` (premise 4) | **Conjectured** | not yet forced |
 | full magnitude to 2×10⁻⁵ | **Conjectured** | on premise 4 |
 | proton residual `ε_FW` (1.9×10⁻⁵) | **Open** | inherited from `6π⁵` |
@@ -301,7 +301,7 @@ convenient number, but by finding the native object the number was pointing at. 
 detour resolved: the ladder coefficient `1` is the readout normalization (true), and the
 access object is the mark overlap (`1/2` → `1/4`).
 
-**What remains.** Premise 4 (the receipt-complement partition) is the next clean target —
+**Supporting handoff, not an additional frontier location.** The P20 magnitude frontier is recorded only on the canonical P20 page and in the global mature-status summary. Premise 4 (the receipt-complement partition) is the next clean target —
 to be worked the same way, ready to come back as a different split. The proton residual
 `ε_FW` is Open and inherited, not closed here.
 
