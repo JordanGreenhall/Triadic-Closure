@@ -24,13 +24,66 @@ Run [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.
 
 ## P4 — EXACT 3+1 AND SIGNATURE-GERM CONTROL
 
-Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) whenever exact dimension or metric-signature language is spent. P4 carries the already fixed marked three through the With-flattening as three interchangeable degrees of extent and joins it to the one oriented From-succession direction. Exact `3+1` is Registered–Sealed only as this dimensional partition. The orientation-difference Registers a Lorentzian-signature germ; P4 does not supply a sign-valued metric, interval, null cone, Lorentz group, continuum, or manifold. Those belong to P5 and P7. Do not use P3 sector count, arity-to-dimension, or D6 stability alone as P4's warrant.
+Run [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md) whenever exact dimension or metric-signature language is spent. P4 carries the already fixed marked three through the With-flattening as three interchangeable degrees of extent and joins it to the one oriented From-succession direction. Exact `3+1` is Registered–Sealed only as this dimensional partition. The orientation-difference Registers a Lorentzian-signature germ; P4 does not supply a sign-valued metric, interval, null cone, Lorentz group, continuum, or manifold. P5 owns the interval/Lorentz construction; P7 owns carrier/manifold recovery. Do not use P3 sector count, arity-to-dimension, or D6 stability alone as P4's warrant.
 
 ---
 
 ## P5 — PROPAGATION AND LORENTZ CONTROL
 
-Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md) whenever neighbor, distance, propagation, `c`, null interval, or Lorentz symmetry is spent. P5 natively Secures finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation. The full quadratic interval and `SO^+(1,3)` theorem are Secured only given the stated rule-presented direction carrier/continuous `SO(3)` action and are Registered–Sealed only on that carrier/manifold. Name Alexandrov–Zeeman where its implication is used. Do not manufacture another physical occupancy test; do not erase the real P7/G1 carrier-recovery condition; do not treat exact local Lorentz of a recovered continuum as unconditionally sealed.
+Run [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md) whenever neighbor, distance, propagation, `c`, null interval, or Lorentz symmetry is spent. P5 natively Secures finite one-link/one-step propagation, `c = 1` as the unique link/step identity, no-traveler propagation, and the direct-bound null relation. The full quadratic interval and `SO^+(1,3)` theorem are Secured only given the stated rule-presented direction carrier/continuous `SO(3)` action and are Registered–Sealed only on that carrier/manifold. Name Alexandrov–Zeeman where its implication is used. Do not manufacture another physical occupancy test; do not erase the real P7 carrier-recovery condition; do not treat exact local Lorentz of a recovered continuum as an ordinary unfinished proof task.
+
+---
+
+## P6 — PERSISTENCE, STABILITY, AND DECAY CONTROL
+
+Run [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md) whenever persistence, bound state, stability, metastability, decay, escape, lifetime, stable closure, atom, or a D6 handoff is spent. Keep these levels separate:
+
+1. the generic D6 phase-form — invariant-preservation across an exhibited D5 variation-field — is Secured and Native;
+2. persistence is Registered–Sealed only within that exact phase-form scope;
+3. baryon persistence and tested stability, electron bare-repeat persistence/ruler, and neutron metastability/structural decay are bounded physical witnesses at their owning grades and conditions;
+4. domain-grade persistent population, the stronger basic stable ruler, stable-closure hierarchy, and calibrated rates remain Open.
+
+Do not demand an unrestricted passage-class before recognizing a scoped witness. Do not confuse one witness with domain-grade D6. Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a weight, or a lifetime from an escape measure. Do not revive the superseded D6 stability proof of exact `3+1`; P4 owns dimensionality. P6 supplies no atom derivation, universal confinement dynamics, Higgs structure, complete particle spectrum, or chemistry gate.
+
+---
+
+## P7 — MANIFOLD-RECOVERY AND LOCAL-CONTINUUM CONTROL
+
+Run [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md) whenever a spatial graph is spent as a continuum carrier, or whenever smoothness, rotational invariance, local momentum direction, manifold structure, or exact local Lorentz is used.
+
+Keep the split result explicit:
+
+1. graph dimension three, criticality/gaplessness, and global frame-freedom are Registered;
+2. smoothness and rotational invariance are Registered, not Sealed, through the named universality import;
+3. the isotropic/cubic fixed-point seam is discharged only at its recorded scope;
+4. exact local Lorentz is a Defended posit at the exactness ceiling and is Sealed on a given recovered manifold through P5 plus Alexandrov–Zeeman;
+5. G1 is spatial-sector-only.
+
+Do not attach P7 to the internal carrier, Born/readout, or mass-measure spine merely because those use continuous mathematics. Do not substitute generic D7 successor passability or the physics-to-chemistry handoff for the normalization-program P7 unit. Successor handoff belongs to the generic D-series and X1.
+
+---
+
+## P8 — SAME-KIND INTERNAL-CARRIER CONTROL
+
+Run [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md) whenever one internal carrier, carrier-specific complex deployment, scalar closure verdict, fixed scalar scale, Hermitian pairing, or internal dimension three is spent.
+
+M6 supplies only a selected quadratic complex extension at a conditional rule-presented grade. P8 deploys that extension on the one same-kind carrier; it does not derive unrestricted `C` from the internal triad. The cyclic route is corroborative and seal-directed, not scalar provenance. P8 is upstream of the alternating-form/SU(3) unit. Do not use SU(3) or epsilon to prove P8, and do not attach P7/G1 to this internal vertical carrier.
+
+---
+
+## P9 — ALTERNATING-FORM AND NATIVE-SU(3) CONTROL
+
+Run [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md) whenever epsilon, determinant, alternating ternary closure, `SL(3,C)`, `SU(3)`, or native color-gauge structure is spent.
+
+P9 inherits the P8 carrier package at M6's selected-extension grade. Its framework work is the connectedness/irreducibility reduction among primitive fixed complex trilinear scalar forms. The retired vanishing-on-coincidence route is not the live warrant. Keep these layers separate:
+
+1. connectedness of the admissible algebraic stabilizer — Registered, not Sealed;
+2. irreducibility under no privileged internal frame, given reductivity — Registered, not Sealed;
+3. alternating-form selection within the declared candidate class — Registered, not Sealed;
+4. `Stab(epsilon)=SL(3,C_C)` and `SL(3,C_C) intersect U(3)=SU(3)` — Sealed as mathematics given P8/P9 inputs;
+5. native `SU(3)` — Registered, not Sealed.
+
+Do not re-open P8 carrier alternatives as P9 debts. Do not derive U(1), SU(2), hypercharge, chiral modules, generations, confinement dynamics, masses, Yukawa couplings, or Standard Model gauge completeness from P9.
 
 ---
 
@@ -65,9 +118,7 @@ Physics is a sub-branch of mathematics. Its From is not the foundational floor �
 ## PART A — Frame the object (first, every time)
 
 A1. State it on **both axes** — never pick one. Vertical constitution (offices all the way down) AND horizontal position (which stride, which content among contents). Every object is fully on both always. "Is it vertical or horizontal" is already an error.
-
 A2. State its **modal structure** as co-constituting, not sequential. Admissible / realizable / actual. The realizable is the coherent constraint of the domain **given the sum of all actuals so far**, and that sum constrains the next actual. Realizability is running, not static — and this running constraint **is ρ** (0.5).
-
 A3. Name what is **inherited** (Part 0 content + prior stage results, with grades and debts) vs. what this step must produce. For each inherited feature, state whether it bites here; inheritance alone is not active deployment.
 
 ## PART B — Sweep all structural instruments (one line each: bites / doesn't / unsure — never skip)

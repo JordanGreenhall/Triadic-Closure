@@ -1,77 +1,150 @@
 ---
-title: Gauge Structure Result
-type: result
+title: P9 Alternating Closure Form and Native SU(3)
+type: physics-internal-structure
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-18
 status: current
 confidence: medium
 sources:
-  - physics-walk-d1-d5-consolidated.md
+  - same-kind-carrier-representation-theorem.md
+  - epsilon-su3-bridge-construction.md
+  - 02-04-items-2-3-4-status.md
+  - physics-registration-theorem.md
 historical_sources:
-  - gauge-structure-result.md
+  - physics-walk-d1-d5-consolidated.md
   - raw/context/full-conversation-ledger.md
 ---
 
-# Gauge Structure Result
+# P9 Alternating Closure Form and Native SU(3)
 
-## Mature status
+P9 begins with the P8 carrier package and asks which primitive fixed ternary closure form can act on it while preserving the framework's internal requirements. Its result is the native alternating form and its pairing-preserving stabilizer, `SU(3)`.
 
-Status: **Registered, not sealed — residual risk localized to one premise** (see audit adjudication below).
+P9 does not construct the carrier, complex scalars, Hermitian pairing, or dimension three. It does not derive U(1), SU(2), hypercharge, the chiral module, generations, masses, Yukawa couplings, or the completeness of the Standard Model gauge product.
 
-The raw gauge result and later ledger context claim SU(3) is unconditional: the closure-floor gives the alternating form, continuity follows from same-kind complex sharing, pairing-preservation gives U(3), and conservation strips det to 1. The adversarial audit (2026-06-21) finds the mathematics clean *given* the seven bridge properties, and the framework grounding of six of those properties strong; the whole seal now hinges on a single interpretive premise (alternating = the closure-floor vanishes when two offices coincide). That premise is well-motivated but not proved, so the honest grade stays **Registered, not Sealed** — but the audit converts an open bridge into a single identified gate.
+## 1. Mature status
 
-## What stands
+Status: **native SU(3) Registered, not Sealed**.
 
-- The internal distinction is the This-flattening / interior triadic distinction, not the old mediation-carrier framing.
-- Color is framework-grounded as same-kind interior distinction.
-- The route to SU(3) is ledger-claimed: closure-floor ⇒ primitive nonzero alternating form; pairing and det=1 then give SU(3).
-- SU(2) is located at lifted rotatability / metric hinge.
-- U(1) is located at the From-phase / oriented phase-line.
-- The chiral/vectorial criterion is registered: chiral iff orientation-faithful; vectorial iff orientation-independent.
+The mathematical stabilizer theorem is Sealed given the P8 carrier and the P9 form. The framework selection of the alternating form is Registered through the connectedness and irreducibility reduction, with named seal residuals.
 
-## Audit gate before sealing exact SU(3)
+The retired `vanishing-on-coincidence` argument is not the live P9 ground. It may be read as historical motivation, but it is neither required nor sufficient as the current proof route.
 
-Do not claim `SU(3)` is Registered and Sealed in the mature control layer until the ledger's claimed bridge survives adversarial audit:
+## 2. P8 input and M6 grade
 
-`full vertical ternary office-registration + accumulated complex pairing-bearing interaction content + role-faithful same-kind mediation + minimality => primitive nonzero alternating 3-form on C^3`.
+P9 inherits:
 
-Countermodels to exclude explicitly:
+- one same-kind internal carrier;
+- the carrier-specific deployment of M6's selected quadratic complex extension `C_C`;
+- dimension exactly three;
+- a primitive scalar closure-verdict type;
+- fixed verdict scale;
+- the carrier-specific non-degenerate Hermitian registration pairing.
 
-- role-sorted `C^2` ternary functional;
-- Pauli/operator `End(C^2)` representation;
-- vector-valued ternary mediation;
-- symmetric cubic/trilinear invariant;
-- projective volume-line rather than fixed volume-form.
+Every complex-linear and Hermitian expenditure remains at M6's conditional rule-presented grade. The selected rule calculus `C` and closure under the algebraic operations used must travel with the result. `C^3` and `SU(3)` are shorthand only when that condition is understood; the framework has not inherited unrestricted completed classical complex analysis.
 
-## Audit adjudication (2026-06-21)
+P9 may not back-spend epsilon, determinant, the SU(3) center, or the stabilizer theorem as proof of P8.
 
-Worked as Item 3 of [physics-domain-work-plan](physics-domain-work-plan.md). The bridge splits cleanly into a mathematical step and a grounding step.
+## 3. Candidate population
 
-**Mathematical step (Sealed as mathematics).** Given a fixed nonzero alternating complex 3-form on a 3-dimensional carrier, its stabilizer in `GL(3,C)` is `SL(3,C)`; pairing-preservation restricts the group to `U(3)`; the fixed (not projective) volume-form forces `det = 1`, so `U(3) ∩ SL(3,C) = SU(3)`. This is a theorem, not an interpretation. Minimality forces the carrier dimension to be exactly 3, since a nonzero alternating 3-form requires dimension ≥ 3 and minimality takes the floor.
+Given the P8 package, the primitive closure verdict must be represented by a nonzero fixed complex-multilinear ternary scalar form on the three-dimensional same-kind carrier.
 
-**Grounding of the seven properties.** Six are either theorems or strongly grounded; one carries the whole residual risk.
+The relevant live form-types are:
 
-- *same-carrier* — strong: same-kind interior distinction places the three offices in one complex space.
-- *scalar-valued* — strong: a closure-floor returns a closure/conservation magnitude, a scalar verdict, not an operator or vector. Excludes the `End(C^2)` Pauli countermodel and the vector-valued-mediation countermodel.
-- *complex multilinear* — strong: linear per office-slot, complex by same-kind complex sharing.
-- *nonzero* — strong: genuine triadic closures occur, so the form is not identically zero. With minimality this excludes the `C^2` role-sorted functional, on which every alternating 3-form vanishes.
-- *primitive / minimal* — theorem given the above: nonzero alternating 3-form ⇒ dim ≥ 3; minimality ⇒ dim = 3.
-- *fixed / normalized* — strong: conservation (the 0.6 weight) fixes the scale, so the form is a fixed volume-form, not a projective ray. Excludes the projective-volume-line countermodel and is what pins `det = 1` exactly rather than up-to-phase.
-- *alternating* — **the single load-bearing gate.** The claim is that the closure-floor vanishes whenever two offices coincide: if two of From/With/This collapse, there is no genuine triadic distinction and no closure, so the floor is zero. Over a field of characteristic ≠ 2, vanishing-on-coincidence is equivalent to alternating, which excludes the symmetric cubic/trilinear invariant (a symmetric cubic does not vanish on coincidence). This step is well-motivated by triadic non-degeneracy but is a framework-interpretation claim, not a proof.
+1. an alternating form, whose holomorphic stabilizer is `SL(3,C_C)`;
+2. symmetric cubic forms of `xyz` type, whose identity component preserves a proper decomposition;
+3. generic symmetric cubics with finite algebraic stabilizer;
+4. non-alternating mixed trilinear forms, which must be tested by the same connectedness and irreducibility requirements rather than excluded by mature-QCD recognition.
 
-**Verdict.** The symmetric-cubic countermodel is excluded only if vanishing-on-coincidence holds; every other countermodel is excluded by a property that is either a theorem or strongly grounded. So the seal reduces to that one premise. Net grade: **Registered, not Sealed**, with residual risk now localized to the alternating/vanishing-on-coincidence step rather than spread across the whole bridge. Confidence >90% attaches to this grade, not to forcing a seal. To promote to Registered and Sealed, derive vanishing-on-coincidence from triadic-distinction primitives without assuming the antisymmetry it is meant to produce.
+P8 already owns lower-dimensional, real-carrier, fibered-carrier, primitive vector/operator-verdict, and projective scalar-line alternatives. They are not reopened as P9 debts.
 
-## Not derived
+## 4. Connectedness requirement
 
-- Electroweak mixing angle.
-- Exact hypercharge assignments.
-- Chiral fermion module.
-- Generation count.
-- Masses / Yukawa couplings.
-- Completeness of `SU(3) x SU(2) x U(1)` as the entire internal gauge structure.
+The same-kind carrier is held as one relation-through field, not as a finite set of isolated relabelings. The admissible algebraic re-framing family must therefore act through the carrier as a positive-dimensional connected family rather than merely permute finitely many configurations.
 
-## Use rule
+This excludes generic symmetric cubics with finite algebraic stabilizer, including irreducible finite cases such as the Hesse-type stabilizer.
 
-Use [physics-domain-mature-status](physics-domain-mature-status.md) as control. The raw page's “SU(3) unconditional” language is now recorded as a ledger-claimed seal, not ignored; its remaining task is proof-audit against the known countermodels.
+Standing: **Registered, not Sealed**.
 
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [supersession-map](supersession-map.md), [known-failure-modes](known-failure-modes.md).
+Seal residual: formalize the precise relation-through criterion and its implication for the identity component of the algebraic stabilizer. The argument must exclude discrete algebraic stabilizers without silently assuming topological connectedness from the word `continuum`.
+
+## 5. Irreducibility requirement
+
+No privileged internal frame forbids a globally fixed proper internal direction.
+
+If the stabilizer of the nonzero closure form is reductive and preserves a proper subspace, complete reducibility supplies an invariant complement. In dimension three, this yields an invariant line either directly or through the complementary decomposition. Such a line is a separately addressable, frame-independent internal direction and therefore violates no-privileged-internal-frame.
+
+The stabilizer must therefore act irreducibly. This excludes the reducible diagonal-torus identity component of the `xyz`-type symmetric cubic.
+
+Standing: **Registered, not Sealed**.
+
+Seal residuals:
+
+- establish the needed polystability/closed-orbit premise for the primitive closure form rather than importing reductivity without record;
+- formalize the exact subspace scope of no-privileged-internal-frame;
+- verify that the reduction covers the complete relevant class of non-alternating ternary scalar forms, not only the two named symmetric exemplars.
+
+## 6. Alternating-form selection
+
+Connectedness excludes the finite-stabilizer symmetric family. Irreducibility excludes the reducible `xyz` family. Within the declared candidate class, the primitive nonzero alternating 3-form is the surviving form-type.
+
+Thus P9 registers a fixed nonzero
+
+`epsilon in Lambda^3((C_C^3)^*)`
+
+at the inherited P8 scalar normalization.
+
+Standing: **Registered, not Sealed**. The residuals are those of the candidate-class exhaustiveness and the connectedness/irreducibility lemmas. Alternation is not left Open merely because the result is not Sealed.
+
+## 7. Stabilizer and compact form
+
+For a fixed nonzero alternating 3-form on a three-dimensional complex carrier,
+
+`Stab_GL(3,C_C)(epsilon) = SL(3,C_C)`.
+
+The P8 Hermitian registration pairing selects the unitary subgroup `U(3)`. Therefore
+
+`SL(3,C_C) intersect U(3) = SU(3)`.
+
+This is **Sealed as mathematics**, conditional only on the inherited M6-selected scalar grade and the P8/P9 inputs.
+
+No separate `SO(3,C)` rival remains once the full stabilizer of the alternating form is identified. Selecting `SO(3,C)` would add preservation of a symmetric complex-bilinear form that P8 does not supply.
+
+## 8. Fixedness and determinant
+
+P8 supplies a fixed primitive scalar verdict scale rather than a projective verdict line. Once P9 identifies the primitive verdict with the alternating ternary form, that inherited normalization makes the form fixed rather than defined only up to arbitrary nonzero scale.
+
+The determinant-one condition is therefore a P9 stabilizer consequence of preserving the fixed alternating form. This does not derive the independent From-phase/U(1) source, nor does it identify every phase freedom with U(1). Those belong to their later owning units.
+
+## 9. P9 result
+
+| Claim | Standing | Boundary |
+|---|---|---|
+| Connected admissible algebraic stabilizer | Registered, not Sealed | Relation-through criterion requires formalization |
+| Irreducible internal action | Registered, not Sealed | Polystability/reductivity and frame-scope residuals remain |
+| Alternating form selected from the declared ternary candidate class | Registered, not Sealed | Candidate-class exhaustiveness remains a seal residual |
+| Fixed nonzero alternating 3-form | Registered, not Sealed | Inherits P8 normalization and M6 selected-extension grade |
+| `Stab(epsilon)=SL(3,C_C)` | Sealed as mathematics | Given the P9 form |
+| Pairing-preserving stabilizer `SU(3)` | Sealed as mathematics | Given P8 pairing and P9 form |
+| Native SU(3) | Registered, not Sealed | No mature-QCD surplus imported |
+
+## 10. Frontiers
+
+### P9-F1 — Connectedness seal
+
+State and prove the exact relation-through condition that forces the relevant algebraic stabilizer identity component to be connected and positive-dimensional.
+
+### P9-F2 — Irreducibility seal
+
+Ground polystability/reductivity for the primitive closure form and formalize the no-privileged-subspace prohibition.
+
+### P9-F3 — Candidate classification
+
+Classify all primitive fixed complex trilinear scalar forms compatible with the P8 package and verify that connectedness plus irreducibility leaves only the alternating orbit.
+
+### P9-F4 — M6 expenditure record
+
+Name the selected rule calculus and verify closure under every algebraic operation used in the form and stabilizer construction.
+
+## 11. Use rule
+
+Downstream pages may use native `SU(3)` as Registered internal structure at the stated M6/P8/P9 grade. They may not call it Registered-Sealed, derive P8 retroactively, or import color representations, confinement, QCD dynamics, exact charges, hypercharge, generations, masses, Yukawa couplings, or gauge-product completeness without their owning units.

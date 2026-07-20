@@ -2,45 +2,50 @@
 title: Physics Source Map
 type: control
 created: 2026-06-23
-updated: 2026-07-17
+updated: 2026-07-18
 status: control
 confidence: high
 ---
 
 # Physics Source Map
 
-This page maps curated physics pages to their principal upstream sources in the flattened GitHub corpus. Curated pages govern status; historical Drive paths are provenance only.
+Curated pages govern status; historical sources are provenance only.
 
 | Curated page | Main source / upstream source |
 |---|---|
-| [physics-registration-theorem](physics-registration-theorem.md) | [domain-entry-method](domain-entry-method.md), [claim-status-vocabulary](claim-status-vocabulary.md), and the P1 frontier records |
-| [physics-boundary-and-four-images](physics-boundary-and-four-images.md) | F3 in [triadic-structure-of-relating-rev-canonical](triadic-structure-of-relating-rev-canonical.md), [domain-entry-method](domain-entry-method.md), the detailed [D1-D5 re-walk](physics-walk-D1-D5-consolidated.md), and [jordan-decisions](jordan-decisions.md) |
-| [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) | The `J` bifurcation theorem in [triadic-structure-of-relating-rev-canonical](triadic-structure-of-relating-rev-canonical.md), the detailed [D1-D5 re-walk](physics-walk-D1-D5-consolidated.md), [physics-walk-D1-D6](physics-walk-D1-D6.md), and [physics-walk-D2](physics-walk-D2.md) |
-| [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md) | [physics-walk-D1-D6](physics-walk-D1-D6.md), [physics-walk-D2](physics-walk-D2.md) |
-| [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) | [propagation-invariant-velocity-and-modal-structure](propagation-invariant-velocity-and-modal-structure.md) |
-| [lorentz-from-recoupling](lorentz-from-recoupling.md) | same-named result page and physics walk |
-| [realizability-weighting-law](realizability-weighting-law.md) | same-named result page |
-| [gauge-structure-result](gauge-structure-result.md) | [d3-color-forcing-argument-v2](d3-color-forcing-argument-v2.md), [d3-su3-conditional-theorem](d3-su3-conditional-theorem.md) |
-| [quark-lepton-split](quark-lepton-split.md) | same-named result page |
-| [chiral-coupling-result](chiral-coupling-result.md) | same-named result page |
-| [with-to-this-closure](with-to-this-closure.md) | [d6-persistence](d6-persistence.md), [realizability-weighting-law](realizability-weighting-law.md) |
-| [mass-as-self-closure](mass-as-self-closure.md) | [mass-derivation-three-faces](mass-derivation-three-faces.md) |
-| [closure-inherited-metric](closure-inherited-metric.md) | [mass-derivation-three-faces](mass-derivation-three-faces.md) |
-| [mass-derivation-three-faces](mass-derivation-three-faces.md) | [mass-as-self-closure](mass-as-self-closure.md), [with-to-this-closure](with-to-this-closure.md), [closure-inherited-metric](closure-inherited-metric.md) |
-| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | supersedes specified portions of [neutron-consideration](neutron-consideration.md) |
-| [gravity-and-curvature](gravity-and-curvature.md) | [mathematization-F8-done](mathematization-F8-done.md) |
-| [stress-energy-three-offices](stress-energy-three-offices.md) | same-named result page |
-| [lambda-derived](lambda-derived.md) | [grqm-conflict-status](grqm-conflict-status.md), [gravity-and-curvature](gravity-and-curvature.md) |
-| [grqm-conflict-status](grqm-conflict-status.md) | [grqm-problem-locator](grqm-problem-locator.md) |
+| [physics-registration-theorem](physics-registration-theorem.md) | Domain-entry and claim-status controls; P1 owner |
+| [physics-boundary-and-four-images](physics-boundary-and-four-images.md) | Canonical foundation flattenings and domain entry; P2 owner |
+| [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) | `J` bifurcation and holding consequences; P3 owner |
+| [dimension-and-spacetime-status](dimension-and-spacetime-status.md) | Four-image construction and exact `3+1`; P4 owner |
+| [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) | Native propagation and conditional Lorentz construction; P5 owner |
+| [d6-persistence](d6-persistence.md) | Generic D6 form and bounded witnesses; P6 owner |
+| [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md) | Spatial graph, criticality, universality, local Lorentz; P7 owner |
+| [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md) | M6 selected extension and internal carrier; P8 owner |
+| [gauge-structure-result](gauge-structure-result.md) | Alternating closure form and native `SU(3)`; P9 owner |
+| [p10-color-singlet-and-representation-consequences](p10-color-singlet-and-representation-consequences.md) | Color, singlet closure, and decompositions; P10 owner |
+| [p11-gauge-sources-beyond-color](p11-gauge-sources-beyond-color.md) | Office-indexed gauge-source architecture; P11 owner |
+| [p12-spin-helicity-handedness-and-chiral-coupling](p12-spin-helicity-handedness-and-chiral-coupling.md) | Spin-cover deployment and chirality; P12 owner |
+| [p13-particle-identity-and-native-role-taxonomy](p13-particle-identity-and-native-role-taxonomy.md) | Particle standing-role taxonomy; P13 owner |
+| [p14-flavor-and-mark-geometry](p14-flavor-and-mark-geometry.md) | Marked color and mark geometry; P14 owner |
+| [p15-charge-hypercharge-valence-and-center-locking](p15-charge-hypercharge-valence-and-center-locking.md) | Relational valence and phase-sector architecture; P15 owner |
+| [p16-quantitative-qcd-dynamics-and-quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md) | Invariant color operator, structural closure, tested flows, and QCD quarantine; P16 owner |
+| [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) | Concise P16 result shadow |
+| [p17-mass-as-closure-maintenance](p17-mass-as-closure-maintenance.md) | Mass ontology, closure loading, mass/energy distinction, and bounded horizon relation; P17 owner |
+| [mass-as-self-closure](mass-as-self-closure.md) | Concise P17 result shadow |
+| [p18-closure-inherited-metric-and-2pi5-measure](p18-closure-inherited-metric-and-2pi5-measure.md) | P8 pairing, P9 determinant-preserving closure, P10 color standing, and mass-source metric audit; P18 owner |
+| [closure-inherited-metric](closure-inherited-metric.md) | Concise P18 result shadow |
+| [mass-derivation-three-faces](mass-derivation-three-faces.md) | P18 source for metric/measure evidence and P19 source for ruler, spatial factor, and proton/electron ratio; canonical owners govern each scope |
+| [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | P14 source and later P20/P21 neutron relation/decay source; canonical owners govern each scope |
+| [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
+| [gravity-and-curvature](gravity-and-curvature.md) | F8–F11 mathematics, P7 carrier, gravity sources |
+| [stress-energy-three-offices](stress-energy-three-offices.md) | Same-named result |
+| [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 
-Additional method sources:
+Additional normalized controls:
 
-- [physics-registration-theorem](physics-registration-theorem.md) — governing P1 boundary-membership, additional-claim, and semantic-registration control
-- [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — governing P2 physics-boundary, D1-placement, and four-name control
-- [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) — governing P3 exchange-mode and Pauli/Bose holding control
-- [domain-entry-method](domain-entry-method.md) — governing F4 control
-- [entering-a-new-domain](entering-a-new-domain.md) — historical physics worked example
-- [physics-walk-checklist](physics-walk-checklist.md)
-- [three-moves-per-stage](three-moves-per-stage.md)
+- P1 through P18 are owned by their numbered pages.
+- [domain-entry-method](domain-entry-method.md) — F4.
+- [physics-walk-checklist](physics-walk-checklist.md).
+- [three-moves-per-stage](three-moves-per-stage.md).
 
-See also: [physics-section-guide](physics-section-guide.md), [physics-domain-mature-status](physics-domain-mature-status.md), [supersession-map](supersession-map.md).
+See also: [physics-section-guide](physics-section-guide.md), [physics-domain-mature-status](physics-domain-mature-status.md), and [supersession-map](supersession-map.md).

@@ -1,55 +1,205 @@
-# D6 — Persistence: The Walk
-
-The persistence stage. A standing persists when its invariant is preserved across the allowed variation of the realizability field — not by enduring as a substance through time, but by being a coherence-fixed-point of the re-selection. Bound states (deferred from D3) and stability land here, decay falls out as the metastable case, and the stage hands cleanly to chemistry: persistent bound structures are themselves Thises, the relata of the next stratum. Seals: persistence, bound state. The persistence essence is complete; only the quantitative spectrum of specific stable structures awaits the open value-scale machinery.
-
+---
+title: P6 Persistence, Stability, and Decay Boundary
+type: result
+updated: 2026-07-17
+status: current
+confidence: high
+sources:
+  - triadic-structure-of-relating-rev-canonical.md
+  - domain-entry-method.md
+  - physics-walk-checklist.md
+  - physics-domain-mature-status.md
+  - physics-domain-work-plan.md
+  - realizability-weighting-law.md
+  - with-to-this-closure.md
+  - mass-as-self-closure.md
+  - mass-derivation-three-faces.md
+  - flavor-mark-metric-and-neutron.md
+historical_sources:
+  - physics-walk-D1-D6.md
+  - phi-forward-reconstruction.md
 ---
 
-## Frame
+# P6 — Persistence, Stability, and the Decay Boundary
 
-D6 is the persistence stage in the D-series rhythm (D1 distinction, D2 relation, D3 recursion, D4 invariance, D5 the matured field/metric, D6 persistence). The stage-move: the invariant carried coherently across passages through the D5 field; lower-layer coherence preserved in higher structure. **Persistence is preservation-across-allowed-variation, not endurance-through-time** — a framework-native reading that refuses the picture of a substance enduring through a container-time.
+This is the canonical P6 record. It separates the generic D6 phase-form, its actual physical instances, semantic registrations, and the remaining quantitative or domain-grade debts.
 
-The central tool is the coherence-fixed-point, already established in the mass account: a standing that re-selects itself. Persistence extends it from the single step to the whole variation-field.
+**Walk order is not epistemic authority.** A result first articulated later may establish or constrain P6 whenever its constitutive content satisfies P6. Genuine additional dependencies remain binding, but later document position is neither a prohibition nor a warrant.
 
-**Two distinctions checked before building** (so the stage is not a rename):
-- *Persistence is not mass.* Mass is per-step self-closure (the self-directed component of one re-selection). Persistence is preservation of the invariant across the *whole* field of allowed variation. A massive standing need not persist — unstable particles have mass and decay; a persistent standing's invariant survives all allowed variation. Related (both fixed-point-flavored), different scope.
-- *"Allowed variation" is well-defined.* The D5 field is the realizability field (the coherent possible); the allowed variation is the coherent next-configurations within it. No background is smuggled.
+## Unit boundary
 
-## The walk
+P6 owns:
 
-**(i) Persistence-in-essence.** A standing persists iff its invariant is preserved across all coherent variation — iff its configuration is a fixed-point of the realizability re-selection that holds across the field, not merely for one step. This is exactly the stage-move.
+- invariant-preservation across an exhibited variation-field;
+- recognition of every physical construction, wherever articulated, that satisfies that criterion;
+- persistent-composite / bound-state classification;
+- stability, metastability, and structural-decay classification when perturbation, return, or escape structures are exhibited;
+- the boundary between escape weight and observed decay rate;
+- identity-continuity through preserved invariants.
 
-**(ii) Bound state** (deferred from D3, lands here). A composite-This persists iff the composite configuration is a coherence-fixed-point across the variation-field: the constituents' couplings re-select the same bound configuration. Bound = persistent composite; unbound = a non-self-reproducing configuration that disperses. This discharges the D3 deferral (D3 sealed the general composite and explicitly held the bound state for the persistence stage).
+P6 does not by itself construct later gauge, particle, mass, flavor, atomic, chemical, or quantitative structures. But those constructions are P6 evidence wherever they actually exhibit P6 content.
 
-**(iii) Stability.** A fixed-point is attracting (nearby variations return) or repelling (they grow). The coherence-weighted realizability field pulls configurations toward higher coherence, so a coherence-maximal fixed-point is attracting — stable. Stable matter is the coherence-maximal bound fixed-points.
+## Applicability adjudication
 
-**(iv) Decay / metastability.** A fixed-point that is only locally maximal (metastable) persists until a variation carries it over the coherence-barrier to a more-coherent configuration — which is decay: persistence-until-a-realizability-fork-escapes. Unstable particles are metastable fixed-points, and the realizability-weighting gives the escape a rate-in-essence (the participation-weight of the escape-configurations). The frame produces both stable and decaying matter from one structure, rather than forcing everything to persist.
+The canonical foundation secures the generic D6 form: given a D4 invariant and a standing D5 variation-field, D6 is that invariant carried coherently across allowed passages through the field.
 
-**(v) Identity-over-time.** A persistent standing *is* the same individual across the variation because its invariant is preserved. This is what "the same thing continuing" means framework-natively — not a substance enduring, but an invariant preserved across coherent variation — dissolving the substance-endurance picture in keeping with the gerund-native discipline.
+The older D6 walk's assertions about exact `3+1`, atoms, spectrum, Higgs structure, and periodicity do not survive merely because they were placed at D6. They require their own constructions.
 
-## Dependency audit, and the honest boundary on "atom"
+Conversely, three later-articulated constructions do satisfy P6 at bounded scopes:
 
-Everything a persistence stage should yield is present: persistence-essence, bound states, stability, decay, identity-over-time. The first persistent structures — stable bound coherence-fixed-points of charged closures — are proposed here against charged fermionic closures (quark/lepton), gauge couplings (SU(3)×SU(2)×U(1)), bound-state structure, and stability. [P3](boson-fermion-and-holding-statistics.md) supplies only the scoped fermion exchange-mode registration and complete-state exclusion consequence; it does not construct those charged closures, particle identities, gauge roles, or persistence.
+1. **Baryon singlet closure:** scoped persistence and perturbative stability under the reported color-overlap flows.
+2. **Electron bare repeat:** scoped persistence under per-step self-reselection and a native mass-ruler normalization.
+3. **Neutron-to-proton transition:** scoped metastability and structural decay through a specified mark reconfiguration and inverse-closure transition.
 
-But "atom" as a mature concept must not be over-claimed. What is in essence here is a **stable bound charged structure** — a coherence-fixed-point of charged closures held by gauge coupling. The *specific* atom (electromagnetic binding of electron and nucleus, Pauli shell-filling) additionally needs the electromagnetic identification (the U(1)-root is standing but its reading as unbroken electromagnetism is not yet sealed — flagged open in the gauge result) and the absolute value-scale (open). So the persistent-bound-charged-structure registers; "atom" specifically is not sealed, its electromagnetic-specific and scale content overflowing the essence. This is the same discipline applied to matter-extension at D3: seal the essence, not the mature name.
+The prior PR version wrongly treated later ownership as a reason to withhold these P6 applications. That was an epistemic-order error.
 
-## Grades
+## 1. Generic D6 phase-form
 
-**Sealed** (bidirectional content-identity, no remainder):
-- **Persistence** — "persistence properly understood" is invariant preserved across allowed variation; stripped of the enduring-substance-through-time picture (refused), it carries no more. Seals.
-- **Bound state** — "bound state properly understood" is a persistent composite (constituents in a self-reproducing configuration); stripped of the particles-glued-by-a-pushing-force picture, it is a persistent composite coherence-fixed-point, no more. Seals.
+Let a physical construction supply:
 
-**Registered:**
-- **Stability** (attracting fixed-point) — the essence registered; the quantitative content (rates, barriers) is scale-dependent.
-- **Decay / metastability** (metastable fixed-point with participation-weighted escape).
-- **Identity-over-time** (the continuing individual as preserved invariant).
-- **Persistent bound charged structure** (atoms-in-essence) — the essence registered; the specific spectrum needs the electromagnetic identification and the scale.
+- an invariant `I`;
+- an admitted variation or passage class `V`;
+- a closure `x` whose presentations can be compared under `I`.
 
-## The D7 handoff
+Then `x` persists over `V` exactly when the admitted passages preserve the registered invariant by which `x` is re-identified.
 
-Persistent bound closures may serve as standing ground for a proposed physics→chemistry boundary. They do not automatically become “primitives of chemistry,” and a higher stratum is not by itself a new domain. F4 requires a determinate chemistry constraint shown valid and nonempty in that ground; that constraint is the boundary and its extension is chemistry D1. Later chemistry phases still require their own constructions: an atom can stand as a This, atoms can be held in relation, and further closures can form.
+Persistence is preservation across allowed variation, not substance-endurance in a container-time. The generic construction secures the form; it does not guarantee an unrestricted physical population.
+
+## 2. Current physical witnesses
+
+### 2.1 Modeled baryon closure
+
+- **Invariant:** complete color-singlet closure / its gauge-equivalence class.
+- **Variation class:** the reported binding-coherence and conditioning-degree flows plus tested perturbations.
+- **Result:** tested starts and perturbations flow or return to the singlet while non-singlet components drain toward it.
+
+Within that model and those flows, baryon persistence and perturbative stability are Secured conditionally. **Bound state**, **baryon persistence**, and **stability** are Registered for that mapped core. Universal QCD confinement, all-passage persistence, attraction rates, and the complete hadron spectrum do not follow.
+
+### 2.2 Electron bare repeat
+
+- **Invariant:** the same color-trivial electron closure recurring as itself.
+- **Variation class:** per-step self-reselection in the mass/self-closure construction.
+- **Result:** the bare repeat is preserved and supplies the native normalization `m_e = 1`.
+
+Within that recurrence class, electron persistence is Secured conditionally. Electron persistence and the native ruler are Registered for that core. Recurrence alone does not establish perturbative stability, ontological basicness, or external-unit calibration.
+
+### 2.3 Neutron metastability and structural decay
+
+The flavor/mark result supplies:
+
+- **metastable standing:** the neutron `udd` mark-configuration on the common color-singlet baryon closure;
+- **attractor / lower-maintenance class:** the proton `uud` configuration, whose outward edge is relieved by an actual electron relation;
+- **escape/transition:** one mark flips `d → u`, partially reopening the neutron This into a With (proton + electron relation) plus From (kinetic advance), with the antineutrino reading separately Conjectured;
+- **structural result:** the neutron is the shallower, fully internalized metastable standing and the proton is the deeper relieved fixed point/attractor.
+
+This is constitutively a P6 instance. **Neutron metastability** and the **structural decay transition** are Registered at the owning page's stated grade and dependencies. The transition-weight construction inherits the mark-metric and realizability-weighting conditions. The antineutrino identification remains Conjectured.
+
+What is not established by that page is an absolute decay rate, lifetime, or fully derived frequency law. “Accumulating to certainty” is a structural direction claim, not a calibrated half-life.
+
+## 3. Physical occupancy: corrected record
+
+Physical P6 occupancy is scope-specific, not all-or-nothing.
+
+Established:
+
+- one modeled persistent/stable composite class: the baryon singlet under reported flows;
+- one per-step persistent elementary/ruler class: the electron bare repeat;
+- one metastable/decay instance: neutron-to-proton inverse closure.
+
+Open:
+
+- domain-grade physics D6 as the relevant totality of persisting closures standing as one field;
+- persistence/stability across every physically relevant passage for the witnesses;
+- which closure is ontologically earliest/basic;
+- the full stable-closure hierarchy;
+- external calibration and quantitative lifetimes.
+
+The blanket claim “physics D6 occupancy is Open” is retired.
+
+## 4. Persistent composite and bound-state core
+
+A composite is persistent when its constitutive relation remains registered across its declared admitted passages. **Bound state** is Registered for that persistent-composite core, not Registered–Sealed. Mature spectral, localization, binding-energy, channel, and lifetime content remains quarantined unless separately supplied.
+
+The modeled baryon satisfies this criterion at its flow scope. No atom or universal hadron claim follows automatically.
+
+## 5. Stability
+
+Stability requires an exhibited perturbation and return/retention structure beyond mere recurrence.
+
+The modeled baryon supplies scoped perturbative stability. The electron bare repeat supplies persistence but not, merely by recurrence, a perturbative stability theorem. The proton/neutron page supplies a comparative attractor/metastability structure at the mark-configuration scope.
+
+A fixed point is not automatically an attractor. But an actually exhibited return or drain structure must not be discarded because it is found later in the written walk.
+
+## 6. Metastability and decay
+
+A standing is metastable when it preserves its invariant over a restricted class but admits an escape into a differently registered closure-class. Decay is the loss or reconfiguration of the prior invariant through that escape.
+
+The neutron result instantiates this form: `udd` reconfigures toward `uud`, with the prior standing partially reopening into the reported With/From products. **Metastability** and **structural decay** are therefore not merely generic conditional classifiers; they have a current scoped physical instance.
+
+Products and readings retain separate grades: proton/electron/kinetic settlement Registered structurally; antineutrino reading Conjectured; calibrated lifetime Open.
+
+## 7. Escape propensity versus decay rate
+
+An escape weight requires an applicable measure over alternatives. A rate additionally requires:
+
+- a transition/hazard per step;
+- a frequency bridge;
+- clock or step calibration;
+- relevant scale and coupling data.
+
+The neutron page supplies a transition structure and a squared mark-overlap weight at its stated conditions. This advances P6 beyond mere escape-accessibility. It still does not derive the observed neutron lifetime because frequency and calibration remain unresolved.
+
+## 8. Identity through succession
+
+Identity-continuity is continuity of the registered invariant across lineage-related passages. **Identity over time** is Registered for that core. Decay is precisely where the prior identity-constituting registration fails or reconfigures into a new closure-class.
+
+## 9. C2 record
+
+| Claim | Framework state and warrant | Semantic registration | Scope and debt |
+|---|---|---|---|
+| Generic D6 phase-form | **Secured** by N2 construction/dependency | Native | No unrestricted population guarantee |
+| Persistence meaning | **Secured** within phase-form | **Registered–Sealed** within declared scope | Applications state invariant/class |
+| Baryon persistence | **Secured conditionally** under reported flows | Bound state / baryon persistence **Registered** | Gauge/closure/model dependencies; no universal QCD |
+| Baryon stability | **Secured conditionally** by tested return | Stability **Registered** | No universal basin/rate |
+| Electron bare-repeat persistence | **Secured conditionally** at recurrence scope | Electron persistence and native ruler **Registered** | No perturbative stability/basicness/calibration |
+| Neutron metastability | **Secured/Registered at owning result's scope** from comparative maintenance/attractor structure | Metastability **Registered** | Inherits flavor, mark, closure, weighting dependencies |
+| Neutron structural decay | **Secured/Registered at owning result's scope** as inverse closure / mark transition | Decay structure **Registered** | Antineutrino Conjectured; lifetime Open |
+| Domain-grade physics D6 | **Open** | Unregistered as completed domain result | Relevant persistent totality absent |
+| Basic stable ruler, stronger sense | **Open** | Electron is Registered candidate | Basicness, broader stability, calibration remain |
+| Generic quantitative lifetime | **Open** | Unregistered generically | Frequency/calibration/scale required |
+| Identity through succession | **Secured** at invariant-continuity reach | **Registered**, not sealed | No exhaustive identity theorem |
+
+## 10. Superseded errors
+
+Do not:
+
+- treat P-number as epistemic authority;
+- demand a universal passage-class before recognizing a scoped P6 witness;
+- treat recurrence as perturbative stability;
+- treat one witness as domain-grade completion;
+- treat a transition weight as a calibrated lifetime;
+- use P6 alone to derive exact dimension, atoms, periodicity, universal confinement, spectrum, Higgs structure, or numerical values.
+
+The historical D6 source remains provenance, not current authority.
+
+## 11. Frontier
+
+### P6-F1 — Domain-grade persistence and basic stable ruler
+
+Established: baryon scoped persistence/stability; electron scoped persistence/native ruler; neutron metastability/decay.
+
+Open: relevant persistent totality; ontological dependency order among witnesses; whether the electron is basic and perturbatively stable enough for the quantitative cascade; stable-closure hierarchy; external calibration.
+
+Next action: survey remaining downstream closures by constitutive dependency, not document position.
+
+### P6-F2 — Quantitative stability and decay
+
+Established: tested baryon return dynamics; neutron escape/transition structure and conditional overlap weight.
+
+Open: general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
+
+Next action: test later concrete decay results for actual rate-producing structure without either dismissing them as “later” or upgrading structural weights into frequencies.
 
 ## Result
 
-D6 walks cleanly to the D7 handoff. Persistence is being a coherence-fixed-point across the variation-field (sealed); a bound state is a persistent composite (sealed, discharging the D3 deferral); stability is the attracting/coherence-maximal case and decay the metastable case (both registered, the frame producing stable and decaying matter from one structure); identity-over-time is the preserved invariant. The first persistent structures (stable bound charged closures, atoms-in-essence) are registered in this physics lineage and are candidate grounds for chemistry; becoming chemistry's relata remains conditional on the exhibited successor gate.
-
-No open issue blocks the persistence essence: strong-field gravity and G's magnitude are a separate thread; the gauge-enumeration completeness question does not touch persistence (the standing gauge structure suffices for charged persistent matter); generations are tertiary and independent; and D6 supplies candidate persistent ground for a chemistry gate rather than an automatic constraint-cascade into chemistry. The single limiter is the absolute value-scale machinery, which bounds only the *quantitative spectrum* of specific stable structures (which atoms, what binding energies) — the same nature-versus-values boundary that holds across the whole walk. The persistence essence itself is complete.
+P6 is normalized by reality-first constitutive applicability. The generic phase-form is established. The baryon supplies scoped persistence and tested stability; the electron supplies scoped persistence and a native ruler candidate; the neutron supplies scoped metastability and structural decay. Domain-grade completion, ontological basicness, broader stability, hierarchy, calibration, and quantitative lifetimes remain Open.

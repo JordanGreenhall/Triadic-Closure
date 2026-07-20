@@ -2,90 +2,125 @@
 title: Physics Section Guide
 type: control
 created: 2026-06-23
-updated: 2026-07-17
+updated: 2026-07-18
 status: control
 confidence: high
 sources:
   - physics-registration-theorem.md
   - physics-boundary-and-four-images.md
   - boson-fermion-and-holding-statistics.md
+  - dimension-and-spacetime-status.md
+  - propagation-and-invariant-velocity.md
+  - d6-persistence.md
+  - p7-manifold-recovery-and-local-continuum.md
+  - same-kind-carrier-representation-theorem.md
+  - gauge-structure-result.md
+  - p10-color-singlet-and-representation-consequences.md
+  - p11-gauge-sources-beyond-color.md
+  - p12-spin-helicity-handedness-and-chiral-coupling.md
+  - p13-particle-identity-and-native-role-taxonomy.md
+  - p14-flavor-and-mark-geometry.md
+  - p15-charge-hypercharge-valence-and-center-locking.md
+  - p16-quantitative-qcd-dynamics-and-quarantine.md
+  - p17-mass-as-closure-maintenance.md
+  - p18-closure-inherited-metric-and-2pi5-measure.md
   - physics-domain-mature-status.md
-  - physics-domain-work-plan.md
   - domain-entry-method.md
 ---
 
 # Physics Section Guide
 
-This is the reader-facing organization of the physics deep dive. It is written for a physicist or mathematical physicist entering the Triadic Closure corpus without already knowing the internal history.
-
-Do **not** begin with isolated result pages. The physics section is a dependency-ordered reconstruction: first the domain cut, then spacetime/kinematics, then actualization/weighting, then gauge/internal structure, then closure/mass, then gravity/cosmology, then open frontiers.
+Read by semantic dependency rather than file age.
 
 ## 0. Prerequisites outside physics
 
-Read these first:
+1. [architectonic-rigor](architectonic-rigor.md).
+2. [triadic-structure-of-relating](triadic-structure-of-relating.md).
+3. [domain-entry-method](domain-entry-method.md).
+4. [claim-status-vocabulary](claim-status-vocabulary.md) and [vertical-and-horizontal](vertical-and-horizontal.md).
 
-1. [architectonic-rigor](architectonic-rigor.md) — how claim standing is graded.
-2. [triadic-structure-of-relating](triadic-structure-of-relating.md) — the foundational object and mathematical object.
-3. [domain-entry-method](domain-entry-method.md) — how a successor domain is entered without smuggling its inherited metaphysics.
-4. [claim-status-vocabulary](claim-status-vocabulary.md) and [vertical-and-horizontal](vertical-and-horizontal.md) — status language and axis discipline.
+## 1. Normalized physics sequence
 
-## 1. Physics domain cut and walk discipline
+1. [P1 Physics Registration Rule](physics-registration-theorem.md).
+2. [P2 Physics Boundary and Four Images](physics-boundary-and-four-images.md).
+3. [P3 Boson/Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md).
+4. [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md).
+5. [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md).
+6. [P6 Persistence, Stability, and Decay](d6-persistence.md).
+7. [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md).
+8. [P8 Same-Kind Internal Carrier](same-kind-carrier-representation-theorem.md).
+9. [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md).
+10. [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md).
+11. [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md).
+12. [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md).
+13. [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md).
+14. [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md).
+15. [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md).
+16. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
+17. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
+18. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
+19. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
-1. [physics-registration-theorem](physics-registration-theorem.md) — the P1 boundary-membership, additional-claim, source-separation, and mature-name control; it supplies no downstream warrant.
-2. [physics-boundary-and-four-images](physics-boundary-and-four-images.md) — the P2 established boundary, D1 extension, four-image placement, and bounded causation/time/space/internal-color registrations.
-3. [boson-fermion-and-holding-statistics](boson-fermion-and-holding-statistics.md) — the P3 algebraic sectors, conditional exchange-mode registrations, and exact Pauli/Bose holding scopes.
-4. [physics-domain-mature-status](physics-domain-mature-status.md)
-5. [physics-domain-work-plan](physics-domain-work-plan.md)
-6. [physics-walk-d1-d5-consolidated](physics-walk-d1-d5-consolidated.md)
-7. [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
-8. [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
+`physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
-## 2. Spacetime and kinematics
+## 2. Spacetime, persistence, and weighting
 
-1. [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) — canonical P5 record; native propagation core and conditional carrier/manifold theorem.
-2. [lorentz-from-recoupling](lorentz-from-recoupling.md) — supporting conditional theorem and named external implication.
+1. [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md).
+2. [lorentz-from-recoupling](lorentz-from-recoupling.md).
+3. [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md).
+4. [d6-persistence](d6-persistence.md).
+5. [realizability-weighting-law](realizability-weighting-law.md).
+6. [with-to-this-closure](with-to-this-closure.md).
 
-## 3. Realizability, actualization, and weighting
+## 3. Internal structure through color dynamics
 
-1. [realizability-weighting-law](realizability-weighting-law.md)
-2. [with-to-this-closure](with-to-this-closure.md)
+Read P8 through P16 in numerical order. The concise shadows remain secondary to their owning normalized pages.
 
-## 4. Internal/gauge structure and matter taxonomy
+Reader guards:
 
-1. [gauge-structure-result](gauge-structure-result.md)
-2. [quark-lepton-split](quark-lepton-split.md)
-3. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md)
-4. [chiral-coupling-result](chiral-coupling-result.md)
+- P8 is upstream of P9; do not derive carrier dimension or complexness from `SU(3)`.
+- P13 treats particle names as standing-roles, not primitive substances.
+- P14 owns primitive mark count and geometry only.
+- P15 owns charge/hypercharge/valence/center-locking at bounded grades.
+- P16 structural confinement does not include flux tubes, linear potential, area laws, or a mass-gap theorem.
+- Quantitative QCD dynamics remain quarantined.
 
-## 5. Closure, confinement, and mass/value machinery
+## 4. Mass, closure, and later baryon work
 
-1. [mass-as-self-closure](mass-as-self-closure.md)
-2. [closure-inherited-metric](closure-inherited-metric.md)
-3. [mass-derivation-three-faces](mass-derivation-three-faces.md) — canonical proton/electron relation:
+1. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
+2. [Mass as Self-Closure](mass-as-self-closure.md) — concise P17 shadow.
+3. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
+4. [Closure-Inherited Metric](closure-inherited-metric.md) — concise P18 shadow.
+5. [Mass Derivation — Three Faces](mass-derivation-three-faces.md) — P19 source.
+6. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
 
-   > `m_p / m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
+Reader guards:
 
-   The standalone `6 pi^5` is only the exact With-This color-seating factor.
-4. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) and [neutron-consideration](neutron-consideration.md)
+- P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation.
+- P18 owns metric selection, `2π^5` normalization, and physical payment by one nontrivial color closure.
+- `2π^5` is not yet a particle mass and may not be multiplied by spatial dimension at P18.
+- P19 owns the electron ruler, factor `3`, `6π^5`, and the bounded proton/electron correction.
+- P20 owns baryon closure and the proton-neutron relation.
+- P21 owns forward/inverse With-to-This closure and decay.
+- P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 
-## 6. Gravity and cosmology
+## 5. Gravity and cosmology
 
-1. [gravity-and-curvature](gravity-and-curvature.md)
-2. [stress-energy-three-offices](stress-energy-three-offices.md)
-3. [lambda-derived](lambda-derived.md)
+1. [gravity-and-curvature](gravity-and-curvature.md).
+2. [stress-energy-three-offices](stress-energy-three-offices.md).
+3. [lambda-derived](lambda-derived.md).
+4. [grqm-conflict-status](grqm-conflict-status.md).
 
-## 7. GR/QM conflict and quantum-gravity frontier
+## 6. Physics-to-chemistry interface
 
-1. [grqm-conflict-status](grqm-conflict-status.md)
+1. [physics-chemistry-gate-crossing](physics-chemistry-gate-crossing.md) — later X1 source, not P7.
 
-## 8. Provenance and caution pages
+## 7. Provenance and caution
 
 - [supersession-map](supersession-map.md)
 - [known-failure-modes](known-failure-modes.md)
-- [locked-actual-decrement-map](locked-actual-decrement-map.md)
-- [phi-forward-reconstruction](phi-forward-reconstruction.md)
 - [physics-source-map](physics-source-map.md)
 
 ## One-line reader rule
 
-If a page seems like a free-standing result, ask where it sits in the dependency spine: domain cut, kinematics, realizability, gauge/internal structure, closure/mass, gravity/cosmology, or frontier.
+Before spending `2π^5`, identify the actually maintained color closure that pays it; before spending `6π^5` or a particle mass ratio, proceed to P19.

@@ -21,7 +21,6 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
 - [Triadic Structure of Relating — concise](triadic-structure-of-relating.md)
 - [Domain Entry Method](domain-entry-method.md)
-- [Entering a New Domain — historical physics worked example](entering-a-new-domain.md)
 - [Three Moves per Stage](three-moves-per-stage.md)
 
 ## Mathematical walk and verification
@@ -34,49 +33,45 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Mathematization F11](mathematization-F11.md)
 - [Verification Companion](verification-companion.md)
 
-Earlier syntheses and status pages must be read through [Supersession Map](supersession-map.md).
-
 ## Physics control and source maps
 
 - [Physics Registration Rule](physics-registration-theorem.md)
 - [Physics Boundary and Four Images](physics-boundary-and-four-images.md)
 - [Boson Fermion and Holding Statistics](boson-fermion-and-holding-statistics.md)
+- [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
+- [P5 Propagation, Invariant Velocity, and Lorentz Symmetry](propagation-and-invariant-velocity.md)
+- [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
+- [P7 Manifold Recovery and Local Continuum](p7-manifold-recovery-and-local-continuum.md)
 - [Physics Domain Mature Status](physics-domain-mature-status.md)
 - [Physics Domain Work Plan](physics-domain-work-plan.md)
-- [P4 Exact 3+1 and Signature Germ](dimension-and-spacetime-status.md)
-- [Locked Actual Decrement Map](locked-actual-decrement-map.md)
-- [Deferred Articulations Map](deferred-articulations-map.md)
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
 
-## Physics walk, propagation, and spacetime
+## Normalized physics sequence P8–P18
 
-- [Physics Walk D1–D6](physics-walk-D1-D6.md)
-- [Physics Walk D2](physics-walk-D2.md)
-- [Physics Walk D1–D5 Consolidated](physics-walk-d1-d5-consolidated.md)
-- [Propagation and Invariant Velocity](propagation-and-invariant-velocity.md)
-- [Propagation, Invariant Velocity, and Modal Structure](propagation-invariant-velocity-and-modal-structure.md)
-- [Lorentz from Recoupling](lorentz-from-recoupling.md)
-- [D6 Persistence](d6-persistence.md)
+- [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
+- [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
+- [P10 Color, Singlet Closure, and Representation Consequences](p10-color-singlet-and-representation-consequences.md)
+- [P11 Gauge Sources Beyond Color](p11-gauge-sources-beyond-color.md)
+- [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md)
+- [P13 Particle Identity and Native Role Taxonomy](p13-particle-identity-and-native-role-taxonomy.md)
+- [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md)
+- [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
+- [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md)
+- [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md)
+- [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md)
 
-## Gauge and internal structure
+P18 selects the closure-inherited physical metric and normalizes one nontrivial color closure to `2π^5`. This is a closure measure, not yet a particle mass. The electron ruler, spatial factor, `6π^5`, and proton/electron ratio belong to P19.
 
-- [Gauge Structure Result](gauge-structure-result.md)
-- [Quark–Lepton Split](quark-lepton-split.md)
-- [Chiral Coupling Result](chiral-coupling-result.md)
-- [D3 Standing and D4 Walk](d3-standing-and-d4-walk.md)
+## Supporting physics pages
 
-Developmental D3/D4 and internal-structure files remain available but are supersession-sensitive; consult the repository inventory and supersession map before using them.
-
-## Closure, mass, flavor, and neutron
-
-- [Mass as Self-Closure](mass-as-self-closure.md)
-- [Mass Derivation — Three Faces](mass-derivation-three-faces.md)
-- [Closure-Inherited Metric](closure-inherited-metric.md)
-- [Epsilon FW Bracket Result](epsilon-fw-bracket-result.md)
-- [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
+- [Specific Color Dynamics / Narrow QCD Quarantine — concise P16 shadow](09-specific-color-dynamics-qcd-quarantine.md)
+- [Mass as Self-Closure — concise P17 shadow](mass-as-self-closure.md)
+- [Closure-Inherited Metric — concise P18 shadow](closure-inherited-metric.md)
 - [With-to-This Closure](with-to-this-closure.md)
-- [Mass-Ratio Audit Report](mass-ratio-audit-report.md)
+- [Mass Derivation — Three Faces](mass-derivation-three-faces.md)
+- [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md)
+- [Realizability Weighting Law](realizability-weighting-law.md)
 
 ## Gravity and cosmology
 
@@ -84,20 +79,18 @@ Developmental D3/D4 and internal-structure files remain available but are supers
 - [Gravity Asymmetry](gravity-asymmetry.md)
 - [Stress-Energy: Three Offices](stress-energy-three-offices.md)
 - [Lambda Derived](lambda-derived.md)
-- [Lambda Scaling Validation Task](lambda-scaling-validation-task.md)
+- [GR/QM Conflict Status](grqm-conflict-status.md)
 
 ## Physics-to-chemistry transition
 
-- [Physics–Chemistry Gate Crossing](physics-chemistry-gate-crossing.md)
-
-The substantive chemistry D1–D4 source deposit has not yet been migrated to repository root. Its adjudicated compiler inventory is [_compiler/04-chemistry-walk-semantic-inventory.md](_compiler/04-chemistry-walk-semantic-inventory.md).
+- [Physics–Chemistry Gate Crossing — X1 candidate source](physics-chemistry-gate-crossing.md)
 
 ## Historical and provenance
 
-- [Jordan Decisions](jordan-decisions.md) — direct-ruling provenance; rulings absorbed into dedicated living pages
-- [Cover Letter](cover-letter.md) — historical package framing
-- [Phi Forward Reconstruction](phi-forward-reconstruction.md) — heavily superseded package reconstruction
-- [Neutron Consideration](neutron-consideration.md) — partially superseded by the later flavor/mark-metric result
+- [Jordan Decisions](jordan-decisions.md)
+- [Cover Letter](cover-letter.md)
+- [Phi Forward Reconstruction](phi-forward-reconstruction.md)
+- [Neutron Consideration](neutron-consideration.md)
 
 ## Compiler workspace
 
