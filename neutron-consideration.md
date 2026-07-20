@@ -13,7 +13,7 @@ superseded-by:
 
 ## Current status / supersession notice
 
-For P20, this document is historical/adversarial evidence. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs current use. The native P14 mark geometry supersedes the old flavor-`SU(3)`/`A_2` route, but the resulting `1/2` normalized mark overlap and `1/4` square do not yet constitute a physical access amplitude or weight. The valence-relief sign mechanism, physical `1/4`, additive splitting ledger, and complete magnitude are Conjectured behind P20's three frontiers.
+For P20, this document is historical/adversarial evidence. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs current use. The native P14 mark geometry supersedes the old flavor-`SU(3)`/`A_2` route, but the resulting `1/2` normalized mark overlap and `1/4` square do not yet constitute a physical access amplitude or weight. The valence-relief sign mechanism, physical `1/4`, additive splitting ledger, and complete magnitude are Conjectured behind P20's three frontiers. This draft's Registered equal-spin and nucleon spin-assignment claims are also superseded: equality is only a selected/model-conditional premise of the displayed comparison, and the native nucleon assignment is unconstructed.
 
 The body below is retained because it records detailed candidate calculations and wrong-sign failures. Its former **Registered** labels on P20 claims are superseded by P20. Decay material is reserved for P21 and receives no upgrade here.
 

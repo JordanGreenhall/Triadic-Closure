@@ -26,7 +26,8 @@ This page deposits three linked results worked since the neutron consideration:
    and where they live), replacing the imported flavor-SU(3) reading;
 2. the **mark-metric** `u·d = −1/2`, forced by the no-privileged-frame argument on the
    three marks — the keystone the earlier draft could only posit; and
-3. a candidate route by which the mark-metric may constrain the neutron mass: the
+3. a candidate route by which the mark-metric may constrain the neutron mass, using equal
+   proton/neutron spin contribution only as a selected comparison premise: the
    aggregate configurations have normalized overlap `1/2` and squared overlap `1/4`,
    while P20 keeps the physical access-weight interpretation Conjectured.
 
@@ -100,9 +101,9 @@ maintains, simply by their being-there, one of the combinations of flavor markin
 udd, and the rest**. The marks are present on the closed, color-balanced baryon as its
 determinate qualitative configuration, distinguishing this closure from that one.
 
-> **Consequence carried forward.** The proton–neutron difference lives entirely in the marks
-> — the With/flavor face — on an *identical* color-neutral closure. This is what the earlier
-> neutron draft posited at the top; here it is derived.
+> **Consequence carried forward.** P14 positively distinguishes the registered proton and
+> neutron roles by their marks — the With/flavor face — on a shared color-neutral closure.
+> This does not establish that marks exhaust every physical difference between the roles.
 
 ---
 
@@ -159,15 +160,15 @@ relata gathered into one color singlet.
 - **Interior / color (This-face).** *Identical* for proton and neutron — the same singlet.
   **Blind** to the difference. Interior capacity is the closure-inherited measure `2π⁵`,
   spatialized across three isotropic degrees to `6π⁵` (the exact With-This factor, not the complete proton/electron ratio). **[Registered.]**
-- **Spin (the gate).** Color antisymmetric ⇒ flavor-spin totally symmetric. Three identical
-  marks are forced to spin 3/2 with *no* spin-1/2 channel (structurally absent from the
-  nucleon floor); mixed configurations carry spin-1/2. The two surviving mixed configurations
-  are spin-equivalent by mirror construction, so **spin contributes equally to proton and
-  neutron and cancels in the difference.** A controlled constant for the n–p question.
-  **[Registered.]**
-- **Flavor / marks (With-face).** With color shared and spin cancelling, the sole remaining
-  distinction is the **mark-configuration** (§1, §2): `P = uud`, `N = udd`. **[Registered as
-  the locus.]**
+- **Spin (selected comparison premise).** The displayed mixed-mark model holds proton and
+  neutron spin contribution equal in order to compare the mark term. P12 supplies spinorial
+  representation structure but no particle-species, spin-statistics, or nucleon assignment;
+  the Pauli/spin-`SU(2)` nucleon construction used by the older derivation is external or
+  unconstructed at current native scope. Equal contribution is therefore selected and
+  model-conditional, not Secured or Registered native nucleon content.
+- **Flavor / marks (With-face).** On the shared color closure, P14 positively distinguishes
+  the registered roles by **mark-configuration** (§1, §2): `P = uud`, `N = udd`.
+  **[Registered at P14's differentiation scope; not an exhaustive physical-difference claim.]**
 
 **3.2 Candidate sign mechanism.** Both configurations are realizable standings. P15 supplies
 the proton's satisfiable outward valence and the neutron's lack of net outward valence; P17
@@ -268,7 +269,7 @@ an empirical check rather than framework warrant.
 | **flavor = the three This-aspects marked (three-ness + which three)** | **Registered** | fresh walk §1; registers flavor (was parked empirical) |
 | quark = marked color; closure = color neutrality | **Registered** | Items 3–4, 9 |
 | **mark-metric `u·d = −1/2`** | **Registered, not Sealed** | no-privileged-frame (Item 3) + carrier pairing (Item 4) |
-| spin gate (cancels in n–p difference) | **Registered** | Pauli antisymmetry + spin SU(2) |
+| spin gate (cancels in n–p difference) | **Selected/model-conditional comparison premise; not Secured or Registered** | Pauli/spin-`SU(2)` nucleon assignment external or unconstructed at current native scope |
 | neutron heavier — relief-valve mechanism and **sign** | **Conjectured** | P20 canonical frontier; missing valence-to-maintenance bridge |
 | decay as inverse closure; two-ledger settlement | **Registered** (structure) | with-to-this-closure |
 | antineutrino = From-With receipt | **Conjectured** | corpus missing-partner reading |

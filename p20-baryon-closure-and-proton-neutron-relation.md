@@ -6,6 +6,7 @@ updated: 2026-07-20
 sources:
   - p10-color-singlet-and-representation-consequences.md
   - with-to-this-closure.md
+  - p12-spin-helicity-handedness-and-chiral-coupling.md
   - p13-particle-identity-and-native-role-taxonomy.md
   - p14-flavor-and-mark-geometry.md
   - p15-charge-hypercharge-valence-and-center-locking.md
@@ -29,7 +30,7 @@ historical_sources:
 
 **Excluded neighbors:** P19's electron ruler and proton/electron ratio are inherited rather than reopened; P21 owns With-to-This closure, decay, beta-decay particulars, lifetimes, and decay-product registration; P16 retains specific QCD dynamics and quantitative hadron-spectrum calculations.
 
-**Primary dependencies:** P10 color and singlet closure; P13 proton/neutron role registration; P14 flavor and mark geometry; P15 relational valence; P16 quantitative-QCD quarantine; P17 closure-maintenance mass; P18 metric and measure; P19 electron ruler and proton/electron ratio; amplitude/readout control.
+**Primary dependencies:** P10 color and singlet closure; P12's limited spin-representation boundary; P13 proton/neutron role registration; P14 flavor and mark geometry; P15 relational valence; P16 quantitative-QCD quarantine; P17 closure-maintenance mass; P18 metric and measure; P19 electron ruler and proton/electron ratio; amplitude/readout control.
 
 **Expected downstream propagation:** current neutron and mark derivations; particle-role and concept-load ledgers; persistence and physics–chemistry expenditures; the global physics status/frontier summary; source map, section guide, reading order, and corpus index. P21-owned decay documents change only where needed to remove a false P20 expenditure.
 
@@ -42,6 +43,7 @@ Authority is claim-specific. No source below governs all of P20.
 ### Primary current sources by scope
 
 - [P10](p10-color-singlet-and-representation-consequences.md) governs the color-singlet construction and its representation-theoretic limits. [With-to-This Closure](with-to-this-closure.md) governs only the modeled physical occupancy, persistence, and tested-flow stability of that singlet class.
+- [P12](p12-spin-helicity-handedness-and-chiral-coupling.md) governs spinorial representation structure but derives no particle species, spin-statistics theorem, or nucleon spin assignment. [P16](p16-quantitative-qcd-dynamics-and-quarantine.md) quarantines hadron-spectrum particulars. Neither source warrants an equal-spin nucleon theorem.
 - [P13](p13-particle-identity-and-native-role-taxonomy.md) governs the bounded proton and neutron role-names. It supplies no marks, mass relation, or decay result.
 - [P14](p14-flavor-and-mark-geometry.md) governs `uud`/`udd` mark differentiation and the cyclic mark geometry, including the conditional algebra that yields pairwise mark overlap `-1/2`.
 - [P15](p15-charge-hypercharge-valence-and-center-locking.md) governs only the proton's outward satisfiable valence and the neutron's lack of net outward valence. It explicitly supplies no energetic relief or mass ordering.
@@ -61,6 +63,7 @@ Authority is claim-specific. No source below governs all of P20.
 - Any claim that the relief-valve mechanism or positive neutron/proton mass ordering is Secured or Registered is superseded. P15 plus P17 do not construct the required valence-to-maintenance bridge.
 - Any claim that `1/4` is already a Registered physical transition/access weight is superseded. The mark algebra is retained; the amplitude/readout conditions are not yet all constructed.
 - Any claim that the additive splitting ledger or receipt-complement partition is forced is superseded. These remain candidate selections.
+- Any claim that equal proton/neutron spin contribution is a Secured or Registered native nucleon result is superseded. Holding spin equal is only a selected premise of the displayed mixed-mark comparison; P12 does not derive the required nucleon assignment and P16 quarantines hadron-spectrum content.
 
 ### Disposition
 
@@ -86,11 +89,13 @@ P13 licenses proton and neutron as two nucleon roles within the same color-singl
 - proton: `P = uud`;
 - neutron: `N = udd`.
 
-The color closure is common to both roles and therefore cannot by itself produce their difference. Within the selected mixed-mark spin model, the two patterns are mirror configurations and the spin contribution is held equal for the comparison. At P20 scope the positive structural result is therefore:
+The color closure is common to both roles and therefore cannot by itself differentiate them. P14 positively differentiates the registered roles by:
 
-> the proton/neutron distinction lies in the `uud`/`udd` mark configuration on a shared color-singlet closure.
+> the `uud`/`udd` mark configurations on their shared color-singlet closure.
 
 This mark-pattern differentiation is Secured at P14's scope and Registered. It does not yet establish a mass order, numerical splitting, transition law, or decay channel.
+
+The displayed mixed-mark comparison additionally **selects** equal proton/neutron spin contribution as a model premise so that it can isolate the mark term. That equality is not derived from P12: spinorial representation structure does not assign nucleon states or prove the needed spin-statistics/species result. It is not Secured or Registered as native nucleon content, and P16's hadron-spectrum quarantine remains in force.
 
 ### 3. Sign: a candidate relief route, not a completed derivation
 
@@ -166,7 +171,7 @@ P20 does not derive beta decay, product identities, the antineutrino reading, a 
 | ternary color-singlet channel | Sealed representation mathematics given P8/P9/P10 premises | color-singlet closure Registered at bounded core |
 | modeled baryon occupancy, persistence, and stability | Secured conditionally by the reported flows and tested returns | baryon/bound-state language Registered only for that mapped core |
 | shared singlet plus `uud`/`udd` differentiation | Secured at P13/P14 role and mark-pattern scope | proton/neutron role distinction Registered; no mass or decay surplus |
-| equal spin contribution in the selected comparison | Secured conditionally within the exhibited mixed-mark mirror model | no general nucleon-spectrum claim |
+| equal spin contribution in the displayed mixed-mark comparison | selected/model-conditional premise; native nucleon assignment unconstructed | not Secured or Registered; no nucleon-spectrum expenditure |
 | valence-to-maintenance relief bridge | Conjectured | no Registered energetic mechanism |
 | framework-derived `m_n - m_p > 0` | Conjectured; empirical sign corroborates only | no upgrade from observation |
 | mark norms, inner product, normalized overlap `1/2`, and square `1/4` | Sealed mathematics given P14 geometry | inherits P14 geometry conditions |
