@@ -403,7 +403,7 @@ See [11-decay-product-registration](11-decay-product-registration.md). Item 11 *
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
 - **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
-- **Neutron-decay specifics:** Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle / flavor-SU(3) A₂ package is superseded; mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured.
+- **Neutron relation versus decay:** [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common singlet, `uud`/`udd` marks, positive sign, `1/4` access weight, and Conjectured magnitude. Item 11 governs later decay/product scope. Old two-circle / flavor-`SU(3)` `A_2` warrant is superseded.
 
 ### 11.3 Integration rule
 

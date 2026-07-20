@@ -160,7 +160,7 @@ exact module/hypercharge/electroweak-breaking claims in Items 8/13.
 
 **Current support:** Item 7 passes as an adjudication ledger. Quark/lepton binary
 as interior-triad part/whole distinction is Registered, and the SU(3)/color bridge
-dependency is discharged by Items 3–4. Flavor/mark update: [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) registers flavor as color's three This-aspects under marking, registers quark as marked color, and registers the neutron sign/mechanism and decay structure while leaving the full magnitude Conjectured on its named residuals. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
+dependency is discharged by Items 3–4. [P14](p14-flavor-and-mark-geometry.md) governs flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common baryon singlet, `uud`/`udd` distinction, positive sign, `1/4` access weight, and Conjectured full magnitude. Decay remains later P21 work. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
 
 **Smuggle risk:** using `quark`, `lepton`, `electron`, `neutrino`, `baryon`,
 `proton`, or `neutron` as if their full SM identity is registered. The ledger

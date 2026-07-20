@@ -15,6 +15,7 @@ sources:
   - mass-as-self-closure.md
   - mass-derivation-three-faces.md
   - flavor-mark-metric-and-neutron.md
+  - p20-baryon-closure-and-proton-neutron-relation.md
 historical_sources:
   - physics-walk-D1-D6.md
   - phi-forward-reconstruction.md
@@ -85,14 +86,14 @@ Within that recurrence class, electron persistence is Secured conditionally. Ele
 
 ### 2.3 Neutron metastability and structural decay
 
-The flavor/mark result supplies:
+P20 supplies the common singlet, comparative maintenance ordering, and sign; the supporting flavor/mark result supplies later decay-source detail:
 
-- **metastable standing:** the neutron `udd` mark-configuration on the common color-singlet baryon closure;
+- **comparative standing:** the neutron `udd` mark-configuration on the common color-singlet baryon closure;
 - **attractor / lower-maintenance class:** the proton `uud` configuration, whose outward edge is relieved by an actual electron relation;
 - **escape/transition:** one mark flips `d → u`, partially reopening the neutron This into a With (proton + electron relation) plus From (kinetic advance), with the antineutrino reading separately Conjectured;
 - **structural result:** the neutron is the shallower, fully internalized metastable standing and the proton is the deeper relieved fixed point/attractor.
 
-This is constitutively a P6 instance. **Neutron metastability** and the **structural decay transition** are Registered at the owning page's stated grade and dependencies. The transition-weight construction inherits the mark-metric and realizability-weighting conditions. The antineutrino identification remains Conjectured.
+This is constitutively a P6 instance. P20 owns the common singlet and lower-/higher-maintenance sign comparison; later P21 owns the structural decay transition and products. The transition-weight construction inherits the mark-metric and realizability-weighting conditions. The antineutrino identification remains Conjectured.
 
 What is not established by that page is an absolute decay rate, lifetime, or fully derived frequency law. “Accumulating to certainty” is a structural direction claim, not a calibrated half-life.
 
