@@ -79,7 +79,7 @@ Verification and reader controls:
 
 ## Targeted second-review evidence
 
-- `git grep -n 'P13-F1' HEAD -- '*.md'`: no occurrences.
+- Exact Markdown search for the retired P13 positive-differentiation frontier identifier: no occurrences.
 - Exact searches for `spin-equivalent`, `spin contributes equally`, `equal spin contribution`, and `spin gate (cancels` returned four occurrences: the canonical and supporting occurrences explicitly say selected/model-conditional, while the two historical-body occurrences are governed by the explicit supersession notice at the top of `neutron-consideration.md`.
 - P13 still states that P14 supplies `uud`/`udd`, P15 supplies outward/neutral valence, P20 owns the mass relation, and P21 owns decay; P13-F2 and P13-F3 remain unchanged.
 - Each P20 frontier ID resolves to only `p20-baryon-closure-and-proton-neutron-relation.md` and `physics-domain-mature-status.md`.
