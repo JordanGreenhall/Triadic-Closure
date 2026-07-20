@@ -46,11 +46,11 @@ The canonical foundation secures the generic D6 form: given a D4 invariant and a
 
 The older D6 walk's assertions about exact `3+1`, atoms, spectrum, Higgs structure, and periodicity do not survive merely because they were placed at D6. They require their own constructions.
 
-Conversely, three later-articulated constructions do satisfy P6 at bounded scopes:
+Conversely, two later-articulated constructions satisfy P6 at bounded scopes, while a third supplies identity structure but not a completed metastability/decay result:
 
 1. **Baryon singlet closure:** scoped persistence and perturbative stability under the reported color-overlap flows.
 2. **Electron bare repeat:** scoped persistence under per-step self-reselection and a native mass-ruler normalization.
-3. **Neutron-to-proton transition:** scoped metastability and structural decay through a specified mark reconfiguration and inverse-closure transition.
+3. **Proton/neutron identity distinction:** P14/P20 establish distinct mark-configurations on one shared closure; comparative metastability remains Conjectured under P20 and structural decay remains P21-owned.
 
 The prior PR version wrongly treated later ownership as a reason to withhold these P6 applications. That was an epistemic-order error.
 

@@ -183,7 +183,9 @@ intrinsic maintenance. The relief mechanism and framework-derived positive sign 
 **Conjectured under P20**. The observed sign corroborates the proposal but does not warrant it.
 The wrong-sign charge-as-interior-cost route remains negative evidence only.
 
-**3.3 Decay as the inverse closure (This → With + From).** Forward (`with-to-this-closure`): a
+**3.3 P21-owned decay proposal: inverse closure (This → With + From).** This subsection
+retains source material for P21; it is not a current P20 result and its former Registered labels
+do not govern. Forward (`with-to-this-closure`): a
 With closes into a This. Neutron decay is the inverse: a This (the neutron) partially re-opens
 into a With (proton + electron, held in an external relationship) plus a From (kinetic
 advance). The three faces appear in the three products. The drain is ordinary
@@ -199,7 +201,7 @@ amplitude), accumulating monotonically to certainty. The neutron flips one inwar
 - **Surplus → pure From: kinetic energy.**
 
 Energy balances in the dialect: `m_n = m_p + m_e + m_ν + KE` (939.565 = 938.272 + 0.511 + 0 +
-0.782 MeV). **[Registered: structure of the drain and the two-ledger settlement.]**
+0.782 MeV). **[Historical source proposal; standing awaits P21 normalization.]**
 
 ---
 
@@ -271,7 +273,7 @@ an empirical check rather than framework warrant.
 | **mark-metric `u·d = −1/2`** | **Registered, not Sealed** | no-privileged-frame (Item 3) + carrier pairing (Item 4) |
 | spin gate (cancels in n–p difference) | **Selected/model-conditional comparison premise; not Secured or Registered** | Pauli/spin-`SU(2)` nucleon assignment external or unconstructed at current native scope |
 | neutron heavier — relief-valve mechanism and **sign** | **Conjectured** | P20 canonical frontier; missing valence-to-maintenance bridge |
-| decay as inverse closure; two-ledger settlement | **Registered** (structure) | with-to-this-closure |
+| decay as inverse closure; two-ledger settlement | **P21-owned source proposal; no current P20 registration** | former source grade superseded pending P21 normalization |
 | antineutrino = From-With receipt | **Conjectured** | corpus missing-partner reading |
 | normalized mark overlap `1/2`; square `1/4` | **Sealed mathematics given P14 geometry** | §2 and displayed algebra |
 | **`1/4` as physical access weight** | **Conjectured** | P20 canonical frontier; amplitude/readout conditions incomplete |
