@@ -10,7 +10,7 @@ depends-on:
   - triadic-structure-of-relating          # 8.5 D7 selection rule; no-privileged-frame; held/registered (2.5); winding/complete-return
   - chiral-coupling-result                  # spin-½ by minimal lifted rotatability; Spin(3)
   - gauge-structure-result                  # U(1) From-phase valence axis; SU(3) color
-  - flavor-mark-metric-and-neutron          # relief-valve mechanism; no-privileged-frame → angle; marks-remain residue
+  - flavor-mark-metric-and-neutron          # Conjectured relief candidate; no-privileged-frame → mark algebra; marks-remain residue
   - mass-derivation-three-faces             # mass = maintenance of closure; 6π⁵; m_e = 1
   - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)
@@ -80,19 +80,18 @@ The office grading that unblocked this (previously stuck on a false color-parall
   *stands* (free electron exists) but bears an unreturned From-edge: outward
   conditioning with no terminus. *From*-incompleteness **taxes standing**.
 
-Binding = closure-completion at the From-axis. Opposite valences are the two sides
-of one From-cut (polarity/pairing, two faces of one office); when they close, each
-edge terminates in the other, both maintenance loads relieved, joint configuration
-coherence-favored. This is the **relief-valve mechanism** (Registered at the
-neutron/mark site) occupying a **second site** (charge).
+Binding is proposed as closure-completion at the From-axis. Opposite valences are the two sides
+of one From-cut (polarity/pairing, two faces of one office). The further claim that their closure
+reduces intrinsic maintenance is **Conjectured**: P20 no longer Registers the relief mechanism,
+and this chemistry use cannot inherit a stronger grade.
 
 Consequences:
 
 | Claim | Basis | Grade |
 |---|---|---|
-| mass defect (bound < free; sign of binding energy) | mass = maintenance; binding relieves maintenance | Registered-candidate |
-| termination at neutrality: Z electrons for charge-Z nucleus | valence additive; accretion continues iff residual edge; stops at sum-zero | Registered-candidate |
-| like valences: no binding channel (mutual relief impossible) | same side of a cut twice; no cut composes | Registered-candidate |
+| mass defect (bound < free; sign of binding energy) | candidate maintenance-relief bridge | Conjectured |
+| termination at neutrality: Z electrons for charge-Z nucleus | valence additive; accretion continues iff residual edge; stops at sum-zero | Conjectured pending the maintenance bridge |
+| like valences: no binding channel (mutual relief impossible) | same side of a cut twice; no cut composes | Conjectured pending the maintenance bridge |
 | like valences: **repulsion** (positive, not just absence) | needs field structure → Gate B | deferred |
 
 No Coulomb form, no energy-minimization spent (maintenance-relief replaces it).

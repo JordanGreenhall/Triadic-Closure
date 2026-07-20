@@ -236,8 +236,8 @@ See [07-particle-identity-ledger](07-particle-identity-ledger.md). Item 7 **PASS
 
 ### 7.5 Neutron
 
-- **Native / Registered role:** Neutral baryon with mark configuration `udd`, same color singlet as proton, spin-equivalent mixed mark configuration; heavier sign via relief-valve mechanism Registered by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
-- **Parked:** Full mass magnitude Conjectured on receipt-complement premise and Open proton residual; charge-neutrality value → Item 8; beta-decay mechanism and antineutrino identity → Open/Conjectured under Item 11.
+- **Native / Registered role:** Neutral baryon with mark configuration `udd`, same color singlet as proton, spin-equivalent mixed mark configuration.
+- **Parked:** Heavier sign and relief mechanism Conjectured pending an occupancy-independent valence-to-maintenance bridge; physical `1/4` access weight Conjectured pending a mark-overlap-to-amplitude bridge; full mass magnitude Conjectured on those bridges and the receipt-complement premise; Open proton residual; charge-neutrality value → Item 8; beta-decay mechanism and antineutrino identity → Open/Conjectured under Item 11.
 - **Fail condition:** Beta-decay familiarity imports full neutron identity.
 
 ### 7.6 Neutrino / antineutrino
@@ -403,7 +403,7 @@ See [11-decay-product-registration](11-decay-product-registration.md). Item 11 *
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
 - **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
-- **Neutron relation versus decay:** [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common singlet, `uud`/`udd` marks, positive sign, `1/4` access weight, and Conjectured magnitude. Item 11 governs later decay/product scope. Old two-circle / flavor-`SU(3)` `A_2` warrant is superseded.
+- **Neutron relation versus decay:** [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common singlet and `uud`/`udd` marks; the positive sign/relief mechanism, physical `1/4` access-weight use, and magnitude are Conjectured. The conditional overlap algebra remains Sealed. Item 11 governs later decay/product scope. Old two-circle / flavor-`SU(3)` `A_2` warrant is superseded.
 
 ### 11.3 Integration rule
 

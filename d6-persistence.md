@@ -50,7 +50,7 @@ Conversely, three later-articulated constructions do satisfy P6 at bounded scope
 
 1. **Baryon singlet closure:** scoped persistence and perturbative stability under the reported color-overlap flows.
 2. **Electron bare repeat:** scoped persistence under per-step self-reselection and a native mass-ruler normalization.
-3. **Neutron-to-proton transition:** scoped metastability and structural decay through a specified mark reconfiguration and inverse-closure transition.
+3. **Neutron-to-proton candidate transition:** a later P21 source proposes metastability and structural decay, but P20's sign and access bridges are Conjectured and P21 has not normalized the transition.
 
 The prior PR version wrongly treated later ownership as a reason to withhold these P6 applications. That was an epistemic-order error.
 
@@ -86,14 +86,14 @@ Within that recurrence class, electron persistence is Secured conditionally. Ele
 
 ### 2.3 Neutron metastability and structural decay
 
-P20 supplies the common singlet, comparative maintenance ordering, and sign; the supporting flavor/mark result supplies later decay-source detail:
+P20 supplies the common singlet but leaves the comparative maintenance ordering and sign Conjectured; the supporting flavor/mark result preserves later P21 decay-source detail:
 
 - **comparative standing:** the neutron `udd` mark-configuration on the common color-singlet baryon closure;
-- **attractor / lower-maintenance class:** the proton `uud` configuration, whose outward edge is relieved by an actual electron relation;
+- **candidate lower-maintenance class:** the proton `uud` configuration, pending an occupancy-independent valence-to-maintenance bridge;
 - **escape/transition:** one mark flips `d → u`, partially reopening the neutron This into a With (proton + electron relation) plus From (kinetic advance), with the antineutrino reading separately Conjectured;
-- **structural result:** the neutron is the shallower, fully internalized metastable standing and the proton is the deeper relieved fixed point/attractor.
+- **candidate structural reading:** the neutron is metastable relative to the proton under the proposed transition.
 
-This is constitutively a P6 instance. P20 owns the common singlet and lower-/higher-maintenance sign comparison; later P21 owns the structural decay transition and products. The transition-weight construction inherits the mark-metric and realizability-weighting conditions. The antineutrino identification remains Conjectured.
+The common singlet is a P6 witness at its tested-flow scope. The neutron-specific metastability/decay application remains Conjectured: P20 owns the unresolved sign and access bridges, while later P21 owns the structural decay transition and products. The P14 overlap algebra is Sealed given its selected geometry, but a physical transition weight is not Registered. The antineutrino identification remains Conjectured.
 
 What is not established by that page is an absolute decay rate, lifetime, or fully derived frequency law. “Accumulating to certainty” is a structural direction claim, not a calibrated half-life.
 
@@ -105,7 +105,7 @@ Established:
 
 - one modeled persistent/stable composite class: the baryon singlet under reported flows;
 - one per-step persistent elementary/ruler class: the electron bare repeat;
-- one metastable/decay instance: neutron-to-proton inverse closure.
+- one candidate metastable/decay instance: neutron-to-proton inverse closure, awaiting P20 bridges and later P21 normalization.
 
 Open:
 
@@ -127,7 +127,7 @@ The modeled baryon satisfies this criterion at its flow scope. No atom or univer
 
 Stability requires an exhibited perturbation and return/retention structure beyond mere recurrence.
 
-The modeled baryon supplies scoped perturbative stability. The electron bare repeat supplies persistence but not, merely by recurrence, a perturbative stability theorem. The proton/neutron page supplies a comparative attractor/metastability structure at the mark-configuration scope.
+The modeled baryon supplies scoped perturbative stability. The electron bare repeat supplies persistence but not, merely by recurrence, a perturbative stability theorem. The proton/neutron page supplies only a Conjectured comparative attractor/metastability candidate at the mark-configuration scope.
 
 A fixed point is not automatically an attractor. But an actually exhibited return or drain structure must not be discarded because it is found later in the written walk.
 
@@ -135,7 +135,7 @@ A fixed point is not automatically an attractor. But an actually exhibited retur
 
 A standing is metastable when it preserves its invariant over a restricted class but admits an escape into a differently registered closure-class. Decay is the loss or reconfiguration of the prior invariant through that escape.
 
-The neutron result instantiates this form: `udd` reconfigures toward `uud`, with the prior standing partially reopening into the reported With/From products. **Metastability** and **structural decay** are therefore not merely generic conditional classifiers; they have a current scoped physical instance.
+The neutron source proposes this form: `udd` reconfigures toward `uud`, with the prior standing partially reopening into reported With/From products. Because the sign/access bridges remain Conjectured and the transition belongs to later P21, **neutron metastability** and **neutron structural decay** are Conjectured applications rather than Registered P6 instances.
 
 Products and readings retain separate grades: proton/electron/kinetic settlement Registered structurally; antineutrino reading Conjectured; calibrated lifetime Open.
 
@@ -148,7 +148,7 @@ An escape weight requires an applicable measure over alternatives. A rate additi
 - clock or step calibration;
 - relevant scale and coupling data.
 
-The neutron page supplies a transition structure and a squared mark-overlap weight at its stated conditions. This advances P6 beyond mere escape-accessibility. It still does not derive the observed neutron lifetime because frequency and calibration remain unresolved.
+The neutron page supplies conditional mark-overlap algebra and a candidate transition structure. It does not yet supply a Registered escape weight, and it does not derive the observed neutron lifetime.
 
 ## 8. Identity through succession
 
@@ -163,8 +163,8 @@ Identity-continuity is continuity of the registered invariant across lineage-rel
 | Baryon persistence | **Secured conditionally** under reported flows | Bound state / baryon persistence **Registered** | Gauge/closure/model dependencies; no universal QCD |
 | Baryon stability | **Secured conditionally** by tested return | Stability **Registered** | No universal basin/rate |
 | Electron bare-repeat persistence | **Secured conditionally** at recurrence scope | Electron persistence and native ruler **Registered** | No perturbative stability/basicness/calibration |
-| Neutron metastability | **Secured/Registered at owning result's scope** from comparative maintenance/attractor structure | Metastability **Registered** | Inherits flavor, mark, closure, weighting dependencies |
-| Neutron structural decay | **Secured/Registered at owning result's scope** as inverse closure / mark transition | Decay structure **Registered** | Antineutrino Conjectured; lifetime Open |
+| Neutron metastability | **Conjectured** from candidate comparative maintenance/attractor structure | Unregistered as a physical application | P20 sign bridge and P21 transition unresolved |
+| Neutron structural decay | **Conjectured** as inverse closure / mark transition | Unregistered as a neutron-specific result | P20 access bridge and P21 products unresolved |
 | Domain-grade physics D6 | **Open** | Unregistered as completed domain result | Relevant persistent totality absent |
 | Basic stable ruler, stronger sense | **Open** | Electron is Registered candidate | Basicness, broader stability, calibration remain |
 | Generic quantitative lifetime | **Open** | Unregistered generically | Frequency/calibration/scale required |
@@ -187,7 +187,7 @@ The historical D6 source remains provenance, not current authority.
 
 ### P6-F1 — Domain-grade persistence and basic stable ruler
 
-Established: baryon scoped persistence/stability; electron scoped persistence/native ruler; neutron metastability/decay.
+Established: baryon scoped persistence/stability; electron scoped persistence/native ruler. Candidate only: neutron metastability/decay.
 
 Open: relevant persistent totality; ontological dependency order among witnesses; whether the electron is basic and perturbatively stable enough for the quantitative cascade; stable-closure hierarchy; external calibration.
 
@@ -195,7 +195,7 @@ Next action: survey remaining downstream closures by constitutive dependency, no
 
 ### P6-F2 — Quantitative stability and decay
 
-Established: tested baryon return dynamics; neutron escape/transition structure and conditional overlap weight.
+Established: tested baryon return dynamics and conditional P14 overlap algebra. Candidate only: neutron escape/transition structure and physical overlap weight.
 
 Open: general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
 
@@ -203,4 +203,4 @@ Next action: test later concrete decay results for actual rate-producing structu
 
 ## Result
 
-P6 is normalized by reality-first constitutive applicability. The generic phase-form is established. The baryon supplies scoped persistence and tested stability; the electron supplies scoped persistence and a native ruler candidate; the neutron supplies scoped metastability and structural decay. Domain-grade completion, ontological basicness, broader stability, hierarchy, calibration, and quantitative lifetimes remain Open.
+P6 is normalized by constitutive applicability. The generic phase-form is established. The baryon supplies scoped persistence and tested stability; the electron supplies scoped persistence and a native ruler candidate. The neutron metastability/decay application remains Conjectured pending P20's sign/access bridges and later P21 normalization. Domain-grade completion, ontological basicness, broader stability, hierarchy, calibration, and quantitative lifetimes remain Open.

@@ -99,7 +99,8 @@ Reader guards:
 - `6 pi^5` is not the complete proton/electron ratio.
 - The complete expression is `m_p/m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
 - P20 owns baryon closure and the proton-neutron relation.
-- P20 Secures the positive sign only within the bounded P15/P17 load construction; its exact magnitude remains Conjectured.
+- P20 leaves the positive sign and relief mechanism Conjectured pending an occupancy-independent valence-to-maintenance bridge.
+- P20 Seals the conditional P14 overlap algebra through `1/4`, but leaves its use as a physical access weight Conjectured pending the amplitude/readout bridge; the exact magnitude also remains Conjectured.
 - P21 owns forward/inverse With-to-This closure and decay.
 - P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 

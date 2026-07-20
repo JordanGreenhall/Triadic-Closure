@@ -108,7 +108,7 @@ P13 therefore Registers two named nucleon roles sharing one color-singlet closur
 
 ### Discharged handoff — Positive proton/neutron differentiation
 
-P14 and P15 construct the `uud`/`udd` mark and outward/neutral valence distinctions without using the inherited names as premises. [P20](p20-baryon-closure-and-proton-neutron-relation.md) spends those distinctions for the bounded sign and magnitude-status comparison. This handoff is no longer a P13 frontier.
+P14 and P15 construct the `uud`/`udd` mark and outward/neutral valence distinctions without using the inherited names as premises. [P20](p20-baryon-closure-and-proton-neutron-relation.md) spends those distinctions while keeping the sign mechanism, physical access-weight use, and magnitude Conjectured at their missing bridges. This handoff is no longer a P13 frontier.
 
 ### P13-F2 — Neutrino office trace
 

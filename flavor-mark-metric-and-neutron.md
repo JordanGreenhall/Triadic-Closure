@@ -23,7 +23,7 @@ claim_statuses: [Open, Conjectured, Registered, "Registered and Sealed"]
 This page is retained as detailed supporting derivation, not as a cross-unit canonical owner.
 
 - [P14 Flavor and Mark Geometry](p14-flavor-and-mark-geometry.md) governs flavor, the primitive marks, cyclic geometry, and the `-1/2` metric.
-- [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs the shared singlet, `uud`/`udd` comparison, sign, `1/4` access weight, and magnitude status.
+- [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs the shared singlet, `uud`/`udd` comparison, Conjectured sign mechanism, conditional overlap algebra, Conjectured candidate `1/4` access weight, and magnitude status.
 - P21 governs With-to-This/inverse closure, decay products, beta particulars, and rates when that unit is normalized.
 
 Where this source mixes those regions, the numbered owner controls scope and standing. In particular, the exact receipt-complement partition and refined splitting magnitude remain Conjectured; decay content must not be spent as P20 warrant.
@@ -36,9 +36,7 @@ This page deposits three linked results worked since the neutron consideration:
    and where they live), replacing the imported flavor-SU(3) reading;
 2. the **mark-metric** `u·d = −1/2`, forced by the no-privileged-frame argument on the
    three marks — the keystone the earlier draft could only posit; and
-3. how the mark-metric **constrains the neutron mass**: the `1/4` Born weight in the
-   proton–neutron splitting is the squared coherence-participation overlap of the two
-   mark-configurations, a registered object, not an SU(3)-weight coincidence.
+3. how the mark-metric supplies the conditional algebraic candidate used in the neutron-mass ledger: the normalized overlap is `1/2` and its square is `1/4`. The algebra is Sealed given the selected P14 geometry; its physical use as an access weight is Conjectured because the amplitude/readout bridge is not constructed.
 
 It supersedes the A₂/120° keystone of the prior neutron draft. The electron remains the
 native mass ruler; all masses are ratios to it. No Standard-Model structure is imported as
@@ -179,18 +177,16 @@ relata gathered into one color singlet.
   distinction is the **mark-configuration** (§1, §2): `P = uud`, `N = udd`. **[Registered as
   the locus.]**
 
-**3.2 Why both exist, and why the proton is preferred.** Both configurations are realizable
-standings (free neutrons exist). They are not equal under the With-face conditioning. The
-**proton presents a satisfiable net outward edge** — an outward valence whose
-inverse-equal-most-basic counterpart exists in reality (an electron) — so part of its
-relational load is **relieved**, carried off-books by a real external relationship. The
-**neutron presents no satisfiable edge** (neutral): nothing is relieved; its whole valence
-load is borne internally. Mass is internally-borne maintenance, so the **proton is the deeper,
-more-relieved fixed point (attractor)** and the **neutron the shallower, fully-internalized
-metastable standing — and therefore heavier.** Charge enters only as the marker of which edges
-face outward (relievable) vs. inward (borne): **a relief valve, not a cost.** This gets the
-**sign right**, where every charge-as-cost attempt got the proton heavier. **[Registered:
-mechanism and sign.]**
+**3.2 Candidate preference mechanism.** P15 distinguishes the proton's satisfiable net outward
+valence from the neutron's neutral valence. P17 supplies only a qualitative closure-load order.
+The candidate mechanism says that outward-satisfiable valence could reduce intrinsic maintenance
+relative to neutral valence, making the proton lower-maintenance and yielding `m_n-m_p>0`.
+Neither source constructs that valence-to-maintenance map, and exterior occupancy may not be used
+as its warrant. The mechanism and sign are therefore **Conjectured**, not Registered.
+
+The adversarial negative evidence remains useful: treating charge as an interior mass cost gives
+the wrong sign by making the proton heavier. That failure rejects charge-as-cost, but it does not
+by itself prove the relief candidate.
 
 **3.3 Later P21 source material — decay as the inverse closure (This → With + From).** This subsection is not P20 doctrine; later P21 must adjudicate its claims and grades. Forward (`with-to-this-closure`): a
 With closes into a This. Neutron decay is the inverse: a This (the neutron) partially re-opens
@@ -221,36 +217,36 @@ normalization is `3π⁴ = 6π⁵/2π`. The splitting parameter is `f`, with
 `(m_n − m_p)/m_p = f / (3π⁴)`. **[Registered, modulo the single 1.9×10⁻⁵ proton residual that
 `6π⁵` already carries.]**
 
-**4.2 The access overlap = `1/4` (the keystone, now native).** The neutron does not contain a
-proton; it contains an **amplitude of access** toward it — a single mark-step (`d → u`). By the
-realizability→actuality (Born) principle (Item 2, PASS), **actuality is paid in the square of
-reach**: the transition weight is the squared coherence-participation overlap of the two
-mark-configurations. With the registered mark-metric `u·d = −1/2`:
+**4.2 Conditional overlap algebra and candidate `1/4` access weight.** With the registered
+mark-metric `u·d = −1/2`:
 
 ```
 P = 2u + d,   N = u + 2d
 |P|² = |N|² = 3,   P·N = 3/2
 cos θ = (3/2)/3 = 1/2   →   θ = π/3
-Born weight = cos²(π/3) = 1/4
+squared overlap = cos²(π/3) = 1/4
 ```
 
-The overlap is computed **in the marks' own metric** (the carrier pairing, §2), so the inner
-product *is* the access amplitude — no half-angle (Bloch/readout) correction applies. **[Registered,
-not Sealed — given §2 (mark-metric) and Item 2 (access = |h|² weighting).]**
+Given the selected P14 geometry, these norms, the inner product, normalized overlap `1/2`, and
+squared overlap `1/4` are Sealed mathematics. The page has not shown that the mark inner product
+*is* a physical access amplitude. It lacks the amplitude-space location, licensed access pairing,
+normalized or conserved alternative frame, and map from mark overlap to transition reach required
+by the amplitude/readout control. The `1/4` is therefore a **Conjectured candidate access weight**,
+not a Registered physical weighting measure.
 
 **4.3 Reconciliation with the isospin ladder (access ≠ readout).** The isospin lowering
 coefficient `⟨n|I₋|p⟩ = 1` — equivalently the superallowed Fermi matrix element `|M_F|² = 1`
-— is **real physics and remains true**. It is the *readout normalization* in the orthonormal
-doublet space (proton and neutron are orthogonal as readout states). It is **not** the access
-object. The framework's transition weight is the **access** amplitude — the mark-configuration
-overlap, `1/2`, Born-squared to `1/4` — licensed as the coherence-participation overlap by
-Item 2. Readout (ladder = 1) and access (mark overlap = 1/2) are different quantities in
-different spaces; both hold. The earlier "isospin gives 1, model breaks" result was correct
-*about the readout object* and is now positive evidence that the access object is distinct.
+— is an external physics comparison. It is the *readout normalization* in the orthonormal
+doublet space (proton and neutron are orthogonal as readout states). It is **not** the mark
+overlap. The candidate framework route would map the mark overlap `1/2` to an access amplitude and
+then square it to `1/4`, but Item 2 does not itself construct that map. Readout (ladder = 1) and
+candidate access (mark overlap = 1/2) must remain distinct pending the missing bridge. The earlier
+"isospin gives 1, model breaks" result was correct *about the readout object* and motivates keeping
+it distinct from the candidate mark-access object.
 The third mark (`s`) fixes the u–d angle even though neither nucleon contains it, because the
 three marks are one cyclic geometry (§2) — justified, not smuggled.
 
-**4.4 The splitting formula.** The decay ledger partitions in `f`-units:
+**4.4 Conjectured splitting formula.** The selected ledger partitions in `f`-units:
 
 ```
 f_total = f_electron + f_Q
@@ -264,7 +260,7 @@ Numerically: `f_total = 0.402822`, `f_total/(3π⁴) = 1.37846×10⁻³` against
 `(m_n−m_p)/m_p = 1.37843×10⁻³` — agreement at **~2×10⁻⁵**, with no fitted continuous constant
 (every term is a named object built from `2π` and the mark-metric).
 
-**Honest leverage note.** The leading native structure `1/(2π) + 1/4` already lands within
+**Honest leverage note.** The leading candidate structure `1/(2π) + 1/4` already lands within
 **~1.6%**. The further factor `[1 − 1/(2π)²]` — premise 4, "receipt reserved off the top,
 advance gets the complement" — carries the last 1.6% → 2×10⁻⁵ and reuses `2π` (no new
 constant), but the *complement partition* is one principled choice among possible splits and
@@ -282,13 +278,13 @@ remains **Conjectured**.
 | quark = marked color; closure = color neutrality | **Registered** | Items 3–4, 9 |
 | **mark-metric `u·d = −1/2`** | **Registered, not Sealed** | no-privileged-frame (Item 3) + carrier pairing (Item 4) |
 | spin gate (cancels in n–p difference) | **Registered** | Pauli antisymmetry + spin SU(2) |
-| neutron heavier — relief-valve mechanism and **sign** | **Registered** | §3.2 |
+| neutron heavier — relief mechanism and **sign** | **Conjectured; Unregistered as framework results** | occupancy-independent valence-to-maintenance bridge missing (§3.2) |
 | decay as inverse closure; two-ledger settlement | **Registered** (structure) | with-to-this-closure |
 | antineutrino = From-With receipt | **Conjectured** | corpus missing-partner reading |
-| **`1/4` = squared mark-access overlap** | **Registered, not Sealed** | §2 + Item 2 (Born/access) |
-| isospin reconciliation (access ≠ readout; Fermi = 1 is readout) | **Registered** | Item 2 |
+| **`1/4` = squared mark overlap** | **Sealed algebra given selected P14 geometry; Conjectured as physical access weight** | amplitude/readout bridge missing (§4.2) |
+| isospin distinction (candidate access ≠ readout; Fermi = 1 is external readout comparison) | **Conjectured at physical mapping scope** | spaces and mapping not yet constructed |
 | `2π`/`6π⁵`/`3π⁴` measures | **Registered** | mass-derivation-three-faces |
-| leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Secured only within a selected accounting construction; not uniquely forced** | P20 governs the bounded use |
+| leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Conjectured** | spends candidate access weight and selected accounting; P20 governs |
 | receipt-complement partition `[1 − 1/(2π)²]` (premise 4) | **Conjectured** | not yet forced |
 | full magnitude to 2×10⁻⁵ | **Conjectured** | on premise 4 |
 | proton residual `ε_FW` (1.9×10⁻⁵) | **Open** | inherited from `6π⁵` |
@@ -296,14 +292,15 @@ remains **Conjectured**.
 **What changed from the prior neutron draft.** The keystone moved from *"import flavor-SU(3)
 weight geometry — non-native, wrong sector, obstructed"* to *"native and Registered: flavor is
 color's three aspects marked, and `u·d = −1/2` is forced by no-privileged-frame on the marks."*
-The obstruction raised against the A₂ route is genuinely lifted — not by reaching for the
-convenient number, but by finding the native object the number was pointing at. The isospin
-detour resolved: the ladder coefficient `1` is the readout normalization (true), and the
-access object is the mark overlap (`1/2` → `1/4`).
+The obstruction raised against the A₂ route is lifted for the mark algebra — not by reaching for
+the convenient number, but by finding the native geometry it was pointing at. The physical bridge
+is not lifted: the ladder coefficient `1` is a distinct external readout comparison, while the map
+from mark overlap (`1/2` → `1/4`) to an access amplitude remains Conjectured.
 
-**Supporting handoff, not an additional frontier location.** The P20 magnitude frontier is recorded only on the canonical P20 page and in the global mature-status summary. Premise 4 (the receipt-complement partition) is the next clean target —
-to be worked the same way, ready to come back as a different split. The proton residual
-`ε_FW` is Open and inherited, not closed here.
+**Supporting handoff, not an additional frontier location.** P20's magnitude, sign-bridge, and
+access-amplitude frontiers are recorded substantively only on the canonical P20 page and in the
+global mature-status summary. This page supplies supporting algebra and adversarial evidence only.
+The proton residual `ε_FW` is Open and inherited, not closed here.
 
 ## Place in the physics section
 

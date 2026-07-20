@@ -36,7 +36,7 @@ Curated pages govern status; historical sources are provenance only.
 | [closure-inherited-metric](closure-inherited-metric.md) | Concise P18 result shadow |
 | [p19-native-electron-ruler-and-proton-electron-ratio](p19-native-electron-ruler-and-proton-electron-ratio.md) | P13 electron role, P17 recurrence, P18 measure, exact-three With, and three-face mass source; P19 owner |
 | [mass-derivation-three-faces](mass-derivation-three-faces.md) | Concise P19 result shadow |
-| [p20-baryon-closure-and-proton-neutron-relation](p20-baryon-closure-and-proton-neutron-relation.md) | P10/P13 singlet role, P14 marks, P15 valence, P17 load order, and amplitude control; P20 owner |
+| [p20-baryon-closure-and-proton-neutron-relation](p20-baryon-closure-and-proton-neutron-relation.md) | P10/P13 singlet role; P14 marks and conditional overlap algebra; P15 valence and P17 load order with Conjectured sign bridge; amplitude control with Conjectured access bridge; P20 owner |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting derivation split among P14, P20, and later P21 ownership |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial P20 provenance and later P21 source material; not current P20 authority |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |

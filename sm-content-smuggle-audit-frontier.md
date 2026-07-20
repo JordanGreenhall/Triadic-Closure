@@ -72,9 +72,10 @@ essential-form claims.
 
 ### 2. Complex Hilbert / amplitude / Born bridge
 
-**Current support:** realizability weighting is Registered, not sealed. Pairing to
-`|h|^2` is strong via Gleason/frame-function reasoning; frequency-as-weight remains
-Open.
+**Current support:** realizability weighting is Registered, not sealed, where a licensed
+amplitude space, pairing, and alternative frame have been constructed. P20's selected mark
+geometry Seals its overlap algebra through `1/4`, but does not place that overlap in amplitude
+space or map it to transition reach; the physical `1/4` access-weight use is Conjectured.
 
 **Smuggle risk:** treating Born probabilities, Hilbert amplitudes, collapse,
 long-run frequencies, and transition rates as fully native. In recent neutron work,
@@ -85,8 +86,10 @@ angle, not a visual charge/flavor angle.
 realizability-to-actuality payments, coupling as `|h(sigma,k)|^2`, gravity F8/F9,
 and transition-cost arguments.
 
-**Cleanup work:** prove or downgrade the frequency=weight bridge and explicitly
-separate amplitude-space geometry from compact readout-state geometry.
+**Cleanup work:** for P20, construct the amplitude-space location, licensed access pairing,
+normalized or conserved alternative frame, and mark-overlap-to-transition-reach map before using
+`1/4` as a physical weight. Explicitly separate mark geometry, amplitude-space geometry, and
+compact readout-state geometry.
 
 ### 3. Internal triadic registration to an alternating 3-form
 
@@ -160,7 +163,7 @@ exact module/hypercharge/electroweak-breaking claims in Items 8/13.
 
 **Current support:** Item 7 passes as an adjudication ledger. Quark/lepton binary
 as interior-triad part/whole distinction is Registered, and the SU(3)/color bridge
-dependency is discharged by Items 3–4. [P14](p14-flavor-and-mark-geometry.md) governs flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common baryon singlet, `uud`/`udd` distinction, positive sign, `1/4` access weight, and Conjectured full magnitude. Decay remains later P21 work. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
+dependency is discharged by Items 3–4. [P14](p14-flavor-and-mark-geometry.md) governs flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the common baryon singlet and `uud`/`udd` distinction. Its positive sign/relief mechanism and physical `1/4` access-weight use are Conjectured; only the conditional overlap algebra is Sealed. The full magnitude is Conjectured. Decay remains later P21 work. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
 
 **Smuggle risk:** using `quark`, `lepton`, `electron`, `neutrino`, `baryon`,
 `proton`, or `neutron` as if their full SM identity is registered. The ledger
@@ -297,7 +300,7 @@ machinery is registered. If used, mark as empirical/SM comparison only.
 
 2. **Gauge bridge theorem.** Closed for load by Items 3–4 as Registered SU(3) / same-kind carrier. Remaining work is seal residuals, not a block on color, quarks, baryons, `6 pi^5`, confinement, or mark-metric use.
 
-3. **Amplitude/readout theorem.** Closed for measured downstream load by [02-amplitude-readout](02-amplitude-readout.md). Use the Registered weighting measure where that is the load; keep observed frequency / numerical transition-rate promotion behind the still-Open frequency=weight seal gate.
+3. **Amplitude/readout theorem.** Closed for measured downstream load by [02-amplitude-readout](02-amplitude-readout.md) only where its amplitude/readout conditions are constructed. P20's mark overlap is not yet such an amplitude: keep physical `1/4` weighting Conjectured until amplitude space, access pairing, alternative frame, and transition-reach map are supplied. Do not promote it by generic Born language.
 
 4. **Spin/chirality/lift theorem.** Closed for spin/helicity/chirality machinery by [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Use the Registered machinery where it is the actual load; keep exact weak modules, neutrino identity, beta-decay mechanism, and electroweak residuals behind Items 8/11/13 as specified.
 

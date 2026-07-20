@@ -63,7 +63,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md)
 - [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md)
 
-P20 places proton and neutron on one modeled ternary singlet, differentiates them by `uud`/`udd`, Secures the positive mass-ordering sign within the bounded P15/P17 construction, and retains the exact splitting magnitude as Conjectured because its receipt-complement partition is not forced.
+P20 places proton and neutron on one modeled ternary singlet and differentiates them by `uud`/`udd`. The positive sign and relief mechanism are Conjectured pending an occupancy-independent valence-to-maintenance bridge; the `1/4` algebra is Sealed given the selected P14 geometry but its physical access-weight use is Conjectured; the exact splitting magnitude remains Conjectured.
 
 ## Supporting physics pages
 
