@@ -96,10 +96,11 @@ Execution rule: do not use “ternary coalgebra ⇒ dimension three” or any ar
 ### P20 proton/neutron sign and access weight
 
 - Earlier integrated source: `flavor-mark-metric-and-neutron.md` called the relief-valve sign mechanism and physical `1/4` access weight Registered.
-- Earlier draft: `neutron-consideration.md` used an imported flavor-`SU(3)`/`A_2` route and later retained overgraded sign and access claims.
-- Current: [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) preserves the conditional mark algebra while grading the valence-to-maintenance bridge, framework-derived positive sign, physical access weight, and complete magnitude Conjectured.
+- Earlier integrated source and draft also treated equal proton/neutron spin contribution and the needed nucleon spin assignment as Registered.
+- Earlier draft: `neutron-consideration.md` used an imported flavor-`SU(3)`/`A_2` route and later retained overgraded sign, access, and equal-spin claims.
+- Current: [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) preserves the conditional mark algebra while grading the valence-to-maintenance bridge, framework-derived positive sign, physical access weight, and complete magnitude Conjectured. Equal spin is only a selected/model-conditional comparison premise because P12 supplies no nucleon assignment and P16 quarantines hadron-spectrum content.
 
-Execution rule: use P20 for every baryon-relation claim and grade. Use the integrated source only as supporting derivation and the neutron draft as historical/adversarial evidence. Do not infer a physical Born weight from mark-plane algebra or infer intrinsic maintenance relief from external satisfiability.
+Execution rule: use P20 for every baryon-relation claim and grade. Use the integrated source only as supporting derivation and the neutron draft as historical/adversarial evidence. Do not infer a physical Born weight from mark-plane algebra, infer intrinsic maintenance relief from external satisfiability, or promote selected equal-spin comparison to native nucleon theorem.
 
 ## Authority-control succession
 

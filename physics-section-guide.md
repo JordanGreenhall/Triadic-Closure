@@ -101,6 +101,7 @@ Reader guards:
 - The complete expression is `m_p/m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
 - P20 owns baryon closure and the proton-neutron relation.
 - P20 Secures the shared singlet and mark-pattern core; its framework sign, physical `1/4` access weight, and complete magnitude are Conjectured.
+- Equal proton/neutron spin contribution is only a selected/model-conditional P20 comparison premise, not Secured or Registered native nucleon content.
 - P21 owns forward/inverse With-to-This closure and decay.
 - P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 

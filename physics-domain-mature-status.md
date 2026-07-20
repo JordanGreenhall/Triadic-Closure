@@ -75,6 +75,7 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P19 `6 pi^5` factor | exact within registered construction | With–This color-seating factor | not the complete mass ratio |
 | P19 proton/electron ratio form | Registered-not-Sealed | positive multiplicative correction, second-order scale, coefficient interval | exact internal `c` Open |
 | P20 baryon closure and nucleon differentiation | Secured/Registered at bounded inherited scopes | singlet closure plus shared closure and `uud`/`udd` marks | no universal QCD or decay surplus |
+| P20 equal-spin comparison | Selected/model-conditional premise only | P12 supplies no nucleon spin assignment; P16 quarantines spectrum | not Secured or Registered native nucleon content |
 | P20 neutron-heavier sign | Conjectured as a framework result | candidate valence-relief route; observed sign is empirical | intrinsic relief bridge absent |
 | P20 normalized mark overlap | Sealed mathematics given P14 geometry | overlap `1/2`, square `1/4` | physical access-weight use Conjectured |
 | P20 splitting magnitude | Conjectured | selected additive ledger and receipt complement | no forced exact magnitude |
