@@ -25,6 +25,7 @@ sources:
   - p17-mass-as-closure-maintenance.md
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p19-native-electron-ruler-and-proton-electron-ratio.md
+  - p20-baryon-closure-and-proton-neutron-relation.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -73,6 +74,10 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P19 spatial seating `3 x 2 pi^5` | Secured relative to P18 and exact-three With; Registered-not-Sealed | one gathered closure borne along three equal bearings | alternative-join seal remains frontier |
 | P19 `6 pi^5` factor | exact within registered construction | With–This color-seating factor | not the complete mass ratio |
 | P19 proton/electron ratio form | Registered-not-Sealed | positive multiplicative correction, second-order scale, coefficient interval | exact internal `c` Open |
+| P20 baryon singlet closure | Sealed representation mathematics; bounded physical model Secured conditionally | unique ternary singlet plus tested-flow persistence | no universal singlet necessity or QCD dynamics |
+| P20 proton/neutron marks and sign | mark differentiation inherited Registered; qualitative sign Secured within P15/P17 construction | shared singlet, `uud`/`udd`, outward-relief comparison | no fractional-charge or binding-energy import |
+| P20 squared mark-access weight `1/4` | Secured conditionally; Registered weighting measure | P14 pairing plus amplitude/readout control | not readout normalization, frequency, or lifetime |
+| P20 full splitting magnitude | Conjectured | selected receipt-complement refinement; empirical near-match only checks | exact partition not forced; P19 residual Open |
 | Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
 | Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
 | Generation count and spectrum | Open | no derivation | P29 |
@@ -91,11 +96,12 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 10. **P19-F1:** derive the exact internal selection of `c`.
 11. **P19-F2:** strengthen the additive spatial-seating warrant against admissible alternatives.
 12. **P19-F3:** construct the external step/whole calibration anchor.
-13. Full gravity beyond weak-field.
-14. Matter spectrum and generations.
+13. **P20-F1 — exact proton–neutron magnitude ledger:** Open as a unique derivation; the current refined formula is Conjectured. Established: common singlet, `uud`/`udd` differentiation, positive sign, `-1/2` mark metric, `1/4` squared access weight, and inherited P18/P19 normalization. Missing: uniquely force or replace the receipt-complement partition while separating access weight, standing payment, and P21 decay/readout objects; exact P19 residual selection remains independently Open. Affected: any exact splitting claim and later P21 receipt accounting. False-completion risk: the empirical near-match can masquerade as derivation. Next research action: enumerate admissible native partitions and prove uniqueness, derive an alternative, or retain Conjectured status. Local record: [P20-F1](p20-baryon-closure-and-proton-neutron-relation.md#p20-f1--force-or-replace-the-exact-protonneutron-magnitude-ledger).
+14. Full gravity beyond weak-field.
+15. Matter spectrum and generations.
 
 ## Bottom line
 
-P19 Registers the electron bare repeat as the native ruler `m_e = 1`, seats one P18 color closure additively across three spatial bearings to obtain the exact With–This factor `6 pi^5`, and records the complete proton/electron relation as `6 pi^5 [1 + c(3 pi^4)^-2]` with `3/2 <= c <= 9/4`. The exact internal selection of `c`, external calibration, proton-neutron splitting, and decay remain later-owned or Open.
+P20 places proton and neutron on one modeled ternary singlet and distinguishes them by the P14 `uud`/`udd` marks. The bounded P15/P17 relief construction Secures the positive sign, and the `1/4` squared mark-access overlap is conditionally Secured as a weighting measure. The exact splitting magnitude remains Conjectured because the receipt-complement partition is not forced; decay remains P21.
 
-See also: [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md), [P18 Closure-Inherited Metric](p18-closure-inherited-metric-and-2pi5-measure.md), and [Particle Mass from the Three Faces](mass-derivation-three-faces.md).
+See also: [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md), [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md), and [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) as supporting derivation.
