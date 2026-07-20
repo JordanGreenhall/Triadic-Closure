@@ -24,6 +24,7 @@ sources:
   - p16-quantitative-qcd-dynamics-and-quarantine.md
   - p17-mass-as-closure-maintenance.md
   - p18-closure-inherited-metric-and-2pi5-measure.md
+  - p19-native-electron-ruler-and-proton-electron-ratio.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -59,7 +60,8 @@ Read by semantic dependency rather than file age.
 16. [P16 Quantitative QCD Dynamics and Quarantine](p16-quantitative-qcd-dynamics-and-quarantine.md).
 17. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 18. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
-19. [Physics Domain Mature Status](physics-domain-mature-status.md).
+19. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
+20. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -76,30 +78,23 @@ Read by semantic dependency rather than file age.
 
 Read P8 through P16 in numerical order. The concise shadows remain secondary to their owning normalized pages.
 
-Reader guards:
-
-- P8 is upstream of P9; do not derive carrier dimension or complexness from `SU(3)`.
-- P13 treats particle names as standing-roles, not primitive substances.
-- P14 owns primitive mark count and geometry only.
-- P15 owns charge/hypercharge/valence/center-locking at bounded grades.
-- P16 structural confinement does not include flux tubes, linear potential, area laws, or a mass-gap theorem.
-- Quantitative QCD dynamics remain quarantined.
-
 ## 4. Mass, closure, and later baryon work
 
 1. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 2. [Mass as Self-Closure](mass-as-self-closure.md) — concise P17 shadow.
 3. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
 4. [Closure-Inherited Metric](closure-inherited-metric.md) — concise P18 shadow.
-5. [Mass Derivation — Three Faces](mass-derivation-three-faces.md) — P19 source.
-6. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
+5. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
+6. [Particle Mass from the Three Faces](mass-derivation-three-faces.md) — concise P19 shadow.
+7. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — P20/P21 source.
 
 Reader guards:
 
 - P17 owns mass ontology, closure loading, the mass/energy distinction, and the bounded horizon relation.
-- P18 owns metric selection, `2π^5` normalization, and physical payment by one nontrivial color closure.
-- `2π^5` is not yet a particle mass and may not be multiplied by spatial dimension at P18.
-- P19 owns the electron ruler, factor `3`, `6π^5`, and the bounded proton/electron correction.
+- P18 owns metric selection, `2 pi^5` normalization, and physical payment by one nontrivial color closure.
+- P19 owns `m_e = 1`, the factor-three spatial seating, `6 pi^5`, and the bounded proton/electron correction.
+- `6 pi^5` is not the complete proton/electron ratio.
+- The complete expression is `m_p/m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
 - P20 owns baryon closure and the proton-neutron relation.
 - P21 owns forward/inverse With-to-This closure and decay.
 - P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
@@ -123,4 +118,4 @@ Reader guards:
 
 ## One-line reader rule
 
-Before spending `2π^5`, identify the actually maintained color closure that pays it; before spending `6π^5` or a particle mass ratio, proceed to P19.
+Report `6 pi^5` only as the With–This factor; report the complete proton/electron ratio with its bounded multiplicative correction.
