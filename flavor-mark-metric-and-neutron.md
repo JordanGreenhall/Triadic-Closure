@@ -269,11 +269,11 @@ an empirical check rather than framework warrant.
 | quark = marked color; closure = color neutrality | **Registered** | Items 3–4, 9 |
 | **mark-metric `u·d = −1/2`** | **Registered, not Sealed** | no-privileged-frame (Item 3) + carrier pairing (Item 4) |
 | spin gate (cancels in n–p difference) | **Registered** | Pauli antisymmetry + spin SU(2) |
-| neutron heavier — relief-valve mechanism and **sign** | **Conjectured** | P20-F1; missing valence-to-maintenance bridge |
+| neutron heavier — relief-valve mechanism and **sign** | **Conjectured** | P20 canonical frontier; missing valence-to-maintenance bridge |
 | decay as inverse closure; two-ledger settlement | **Registered** (structure) | with-to-this-closure |
 | antineutrino = From-With receipt | **Conjectured** | corpus missing-partner reading |
 | normalized mark overlap `1/2`; square `1/4` | **Sealed mathematics given P14 geometry** | §2 and displayed algebra |
-| **`1/4` as physical access weight** | **Conjectured** | P20-F2; amplitude/readout conditions incomplete |
+| **`1/4` as physical access weight** | **Conjectured** | P20 canonical frontier; amplitude/readout conditions incomplete |
 | isospin readout/access distinction | **Conjectured as the needed bridge; external comparison for Fermi = 1** | no access-space construction yet |
 | `2π`/`6π⁵`/`3π⁴` measures | **Registered** | mass-derivation-three-faces |
 | leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Conjectured** | ledger addition and physical weight unforced |
