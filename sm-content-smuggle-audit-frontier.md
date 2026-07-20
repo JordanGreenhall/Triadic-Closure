@@ -151,7 +151,8 @@ may use the machinery; it may not automatically use the full SM representation
 bundle.
 
 **Downstream dependencies:** chiral coupling result, neutrino claims,
-proton/neutron spin gate, nucleon fork, decay channels, generation/module claims.
+selected/model-conditional proton/neutron spin comparison, nucleon fork, decay channels,
+generation/module claims. No native equal-spin nucleon theorem is registered.
 
 **Cleanup work:** use the registered machinery where it is the actual load; keep
 exact module/hypercharge/electroweak-breaking claims in Items 8/13.

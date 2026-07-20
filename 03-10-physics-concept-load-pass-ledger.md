@@ -236,8 +236,8 @@ See [07-particle-identity-ledger](07-particle-identity-ledger.md). Item 7 **PASS
 
 ### 7.5 Neutron
 
-- **Native / Registered role:** Companion baryon role with mark configuration `udd`, the same color singlet as proton and a spin-equivalent mixed mark configuration at the selected model scope. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the relation.
-- **Parked:** Framework-derived heavier sign and relief mechanism Conjectured; physical `1/4` access weight Conjectured though the mark algebra is conditional mathematics; full magnitude Conjectured; charge value → Item 8; decay mechanism and antineutrino identity → P21 / Item 11.
+- **Native / Registered role:** Companion baryon role with mark configuration `udd` and the same color singlet as proton. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the relation.
+- **Parked:** Equal proton/neutron spin contribution is a selected/model-conditional comparison premise, not a Secured or Registered native nucleon assignment; framework-derived heavier sign and relief mechanism Conjectured; physical `1/4` access weight Conjectured though the mark algebra is conditional mathematics; full magnitude Conjectured; charge value → Item 8; decay mechanism and antineutrino identity → P21 / Item 11.
 - **Fail condition:** Beta-decay familiarity imports full neutron identity.
 
 ### 7.6 Neutrino / antineutrino

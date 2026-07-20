@@ -44,8 +44,8 @@ Mechanisms tested and **closed this session** (all gave zero or did not force):
 - mark-curvature flux: zero (same reason).
 - φ·s² (golden coefficient): **refused** — near-miss (φ=1.6180 vs needed 1.6076,
   +0.65%), no derivation; excluded by measurement at ~hundreds σ.
-- import via neutron splitting: **fails** — neutron is spin-blind (spin cancels in
-  n−p), cannot pin the spin coupling.
+- import via neutron splitting: **fails** — P20's displayed comparison merely selects equal
+  proton/neutron spin contribution; it is not a native nucleon theorem and cannot pin the spin coupling.
 - import via g_A: **circular** (g_A = 5/3 was the smuggled upper endpoint).
 
 ## 2. The forced bracket (theorem)
