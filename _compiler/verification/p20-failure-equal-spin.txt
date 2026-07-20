@@ -1,0 +1,11 @@
+P20 deterministic normalization verification
+base: 6d88509b900add3340f7a688ab58e66a0ee30134
+changed Markdown files checked: 19
+local Markdown links checked: 283
+frontier file placement: local canonical + global summary
+mark norms: 3, 3
+mark inner product: 3/2
+normalized overlap: 1/2
+squared overlap: 1/4
+FAIL (1 errors)
+- active P20 consumer overgrades equal nucleon spin: equal spin contribution[^|\n]*\|\s*(?:\*\*)?(?:Secured|Registered)

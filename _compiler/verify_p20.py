@@ -2,7 +2,10 @@
 """Deterministic P20 normalization verifier.
 
 Run from any directory inside the repository:
-    python3 _compiler/verify_p20.py --base main
+    python3 _compiler/verify_p20.py --base 6d88509b900add3340f7a688ab58e66a0ee30134
+
+An optional overlay directory supports failure-capability tests. A file in the overlay
+replaces the same repository-relative file for semantic checks without mutating the tree.
 """
 
 from __future__ import annotations
@@ -18,6 +21,7 @@ from pathlib import Path
 LOCAL = "p20-baryon-closure-and-proton-neutron-relation.md"
 GLOBAL = "physics-domain-mature-status.md"
 FRONTIERS = ("P20-F1", "P20-F2", "P20-F3")
+P20_BASE = "6d88509b900add3340f7a688ab58e66a0ee30134"
 
 
 def git(root: Path, *args: str) -> str:
@@ -38,6 +42,13 @@ def git(root: Path, *args: str) -> str:
 def require(errors: list[str], condition: bool, message: str) -> None:
     if not condition:
         errors.append(message)
+
+
+def corpus_text(root: Path, relative: str | Path, overlay: Path | None) -> str:
+    relative_path = Path(relative)
+    if overlay is not None and (overlay / relative_path).is_file():
+        return (overlay / relative_path).read_text(encoding="utf-8")
+    return (root / relative_path).read_text(encoding="utf-8")
 
 
 def changed_markdown(root: Path, base: str) -> list[Path]:
@@ -70,7 +81,12 @@ def check_links(root: Path, paths: list[Path], errors: list[str]) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--base", default="main", help="base ref for the PR diff")
+    parser.add_argument("--base", default=P20_BASE, help="exact base ref for the PR diff")
+    parser.add_argument(
+        "--overlay",
+        type=Path,
+        help="temporary content overlay for failure-capability tests",
+    )
     args = parser.parse_args()
 
     root_text = subprocess.run(
@@ -84,10 +100,22 @@ def main() -> int:
         print("FAIL repository discovery")
         return 1
     root = Path(root_text.stdout.strip()).resolve()
+    overlay = args.overlay.resolve() if args.overlay else None
     errors: list[str] = []
 
-    local = (root / LOCAL).read_text(encoding="utf-8")
-    global_text = (root / GLOBAL).read_text(encoding="utf-8")
+    try:
+        base_sha = git(root, "rev-parse", f"{args.base}^{{commit}}").strip()
+    except RuntimeError as error:
+        print(f"FAIL base resolution: {error}")
+        return 1
+    require(
+        errors,
+        base_sha == P20_BASE,
+        f"base must resolve to exact P20 base {P20_BASE}; got {base_sha}",
+    )
+
+    local = corpus_text(root, LOCAL, overlay)
+    global_text = corpus_text(root, GLOBAL, overlay)
 
     required_local = (
         "## Unit opening note",
@@ -114,7 +142,7 @@ def main() -> int:
             rel = path.relative_to(root)
             if ".git" in rel.parts or "_compiler/verification" in rel.as_posix():
                 continue
-            if frontier in path.read_text(encoding="utf-8"):
+            if frontier in corpus_text(root, rel, overlay):
                 files.append(rel.as_posix())
         require(
             errors,
@@ -158,17 +186,64 @@ def main() -> int:
         "physics-domain-work-plan.md",
         "physics-chemistry-gate-crossing.md",
         "index.md",
+        "epsilon-fw-bracket-result.md",
     )
-    combined = "\n".join((root / name).read_text(encoding="utf-8") for name in active_files)
+    combined = "\n".join(corpus_text(root, name, overlay) for name in active_files)
     banned = (
         "heavier sign via relief-valve mechanism Registered",
         "[Registered: mechanism and sign.]",
         "`1/4` = squared mark-access overlap** | **Registered",
         "leading splitting structure `1/(2π) + 1/4` (~1.6%) | **Registered",
         "neutron escape/transition structure and conditional overlap weight established",
+        "spin-equivalent mixed mark configuration",
     )
     for phrase in banned:
         require(errors, phrase not in combined, f"obsolete active formulation remains: {phrase}")
+
+    stale_spin_patterns = (
+        re.compile(r"equal spin contribution[^|\n]*\|\s*(?:\*\*)?(?:Secured|Registered)"),
+        re.compile(r"spin gate \(cancels[^\n]*\|\s*\*\*Registered"),
+        re.compile(r"spin contributes (?:\*\*)?equally[^\n]{0,160}\[Registered", re.IGNORECASE),
+    )
+    for pattern in stale_spin_patterns:
+        require(
+            errors,
+            pattern.search(combined) is None,
+            f"active P20 consumer overgrades equal nucleon spin: {pattern.pattern}",
+        )
+
+    spin_guards = (
+        "selected/model-conditional premise; native nucleon assignment unconstructed",
+        "It is not Secured or Registered as native nucleon content",
+        "Selected/model-conditional comparison premise; not Secured or Registered",
+    )
+    for phrase in spin_guards:
+        require(errors, phrase in combined, f"equal-spin boundary guard missing: {phrase}")
+
+    p13 = corpus_text(root, "p13-particle-identity-and-native-role-taxonomy.md", overlay)
+    markdown_with_resolved_frontier = []
+    for path in root.rglob("*.md"):
+        rel = path.relative_to(root)
+        if ".git" in rel.parts or "_compiler/verification" in rel.as_posix():
+            continue
+        if "P13-F1" in corpus_text(root, rel, overlay):
+            markdown_with_resolved_frontier.append(rel.as_posix())
+    require(
+        errors,
+        not markdown_with_resolved_frontier,
+        "resolved P13 positive-differentiation frontier remains in "
+        + str(sorted(markdown_with_resolved_frontier)),
+    )
+    p13_routes = (
+        "P14 now supplies their `uud`/`udd` mark differentiation",
+        "P15 supplies their outward/neutral valence differentiation",
+        "P20 owns the mass relation",
+        "P21 owns decay",
+        "### P13-F2 — Neutrino office trace",
+        "### P13-F3 — Taxonomy completeness",
+    )
+    for phrase in p13_routes:
+        require(errors, phrase in p13, f"P13 routing/frontier guard missing: {phrase}")
 
     required_status = (
         "framework-derived positive sign are therefore **Conjectured**",
@@ -179,6 +254,17 @@ def main() -> int:
     )
     for phrase in required_status:
         require(errors, phrase in local, f"canonical status guard missing: {phrase}")
+
+    p19_boundary_ok = (
+        "P19's electron ruler and proton/electron ratio are inherited rather than reopened"
+        in local
+        and "P20 does not reopen it" in local
+    )
+    p21_boundary_ok = (
+        "P20 does not derive beta decay" in local and "Those belong to P21" in local
+    )
+    require(errors, p19_boundary_ok, "P19 inherited/not-reopened boundary assertion failed")
+    require(errors, p21_boundary_ok, "P21 decay-exclusion boundary assertion failed")
 
     changed = changed_markdown(root, args.base)
     link_count = check_links(root, changed, errors)
@@ -206,15 +292,17 @@ def main() -> int:
     print(f"mark inner product: {p_dot_n}")
     print(f"normalized overlap: {normalized_overlap}")
     print(f"squared overlap: {squared_overlap}")
-    print("P19 boundary: inherited, not reopened")
-    print("P21 boundary: decay excluded")
-    print("diff hygiene: checked")
 
     if errors:
         print(f"FAIL ({len(errors)} errors)")
         for error in errors:
             print(f"- {error}")
         return 1
+    print("resolved P13 differentiation frontier: absent")
+    print("equal-spin nucleon standing: selected/model-conditional only")
+    print("P19 boundary: inherited, not reopened")
+    print("P21 boundary: decay excluded")
+    print("diff hygiene: checked")
     print("PASS")
     return 0
 
