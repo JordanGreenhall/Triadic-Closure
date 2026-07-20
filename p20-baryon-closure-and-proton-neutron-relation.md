@@ -70,3 +70,106 @@ Authority is claim-specific. No source below governs all of P20.
 - **Dependency controls:** P10 and P13–P19 plus the amplitude/readout theorem; retain at their own scopes.
 - **Delete candidates:** none. The two neutron sources retain distinct derivational or adversarial value.
 - **Direct Jordan rulings:** none carries unique P20 work.
+
+## Current understanding
+
+### 1. Baryon closure
+
+P10 supplies one totally antisymmetric singlet channel in the three-fundamental color product. This is Sealed representation mathematics given the inherited P8/P9 carrier and `SU(3)` structure. Calling the channel **baryon closure** is Registered at the bounded core in which three color-resolved contributions form one color-neutral complete closure.
+
+Physical occupancy is narrower than algebraic availability. The modeled flows in `with-to-this-closure.md` select the singlet as a fixed point and return tested perturbations to it. Baryon persistence and stability are therefore Secured conditionally and Registered only for those reported flows. Universal confinement, all-dynamics uniqueness, quantitative binding, and the hadron spectrum remain outside P20.
+
+### 2. What proton and neutron share, and what differs
+
+P13 licenses proton and neutron as two nucleon roles within the same color-singlet fermionic composite class. P14 positively differentiates them by mark pattern:
+
+- proton: `P = uud`;
+- neutron: `N = udd`.
+
+The color closure is common to both roles and therefore cannot by itself produce their difference. Within the selected mixed-mark spin model, the two patterns are mirror configurations and the spin contribution is held equal for the comparison. At P20 scope the positive structural result is therefore:
+
+> the proton/neutron distinction lies in the `uud`/`udd` mark configuration on a shared color-singlet closure.
+
+This mark-pattern differentiation is Secured at P14's scope and Registered. It does not yet establish a mass order, numerical splitting, transition law, or decay channel.
+
+### 3. Sign: a candidate relief route, not a completed derivation
+
+P15 establishes that the proton role presents an outward satisfiable valence while the neutron role has no net outward valence. P17 establishes only the order-form that a greater internally borne maintenance burden corresponds to greater mass-loading.
+
+The detailed neutron source proposes a bridge: satisfiable outward valence relieves part of the proton's internally borne maintenance, while the neutral neutron bears the corresponding load internally. If that bridge holds, then
+
+> `m_n - m_p > 0`.
+
+The bridge is not constructed. In particular, the corpus does not show an occupancy-independent map from a merely satisfiable edge—or from an actually occupied external relation—to a reduction in the intrinsic closure-maintenance assigned to the isolated proton role. The relief mechanism and framework-derived positive sign are therefore **Conjectured**. The observed positive sign is empirical corroboration, not framework warrant.
+
+The failed opposite route remains useful negative evidence: treating outward charge as an additional interior mass cost predicts the proton to be heavier. That wrong-sign failure rejects that candidate route; it does not prove the relief route.
+
+### 4. Mark algebra and the candidate `1/4`
+
+P14 supplies normalized primitive marks with
+
+```text
+u·u = d·d = 1
+u·d = -1/2.
+```
+
+Represent the two aggregate mark configurations in that selected mark plane by
+
+```text
+P = 2u + d
+N = u + 2d.
+```
+
+Then
+
+```text
+|P|^2 = |N|^2 = 3
+P·N = 3/2
+(P·N)/(|P||N|) = 1/2
+[(P·N)/(|P||N|)]^2 = 1/4.
+```
+
+These equalities are **Sealed mathematics given the P14 mark geometry**. Their framework deployment inherits P14's Registered-not-Sealed selection of that geometry.
+
+The calculation does not by itself make `P` and `N` normalized physical alternatives in an amplitude space. The corpus still owes the amplitude/readout theorem's required amplitude-space location, licensed access pairing, normalized/conserved alternative frame, and map from aggregate mark overlap to transition reach. Consequently, `1/4` is **Conjectured as a physical access weight**. It may not be spent as a Registered transition probability, observed frequency, or decay rate.
+
+The mature isospin ladder normalization `|M_F|^2 = 1` may be cited as external physics. The proposal that this is readout normalization while `1/4` is access weighting avoids an immediate numerical identification, but it does not discharge the missing access-amplitude construction.
+
+### 5. Magnitude: selected ledger under explicit conditions
+
+The supporting source proposes the dimensionless ledger
+
+```text
+(m_n - m_p)/m_p = f/(3 pi^4)
+f = 1/(2 pi) + w[1 - 1/(2 pi)^2]
+w = 1/4.
+```
+
+Its components have different standings:
+
+- `3 pi^4` is inherited from P19 as `6 pi^5/(2 pi)`; P20 does not reopen it.
+- `1/(2 pi)` is a selected linear electron-standing ledger term. The source itself notes that it has no independent predictive content.
+- `w = 1/4` is mathematically available from the displayed mark overlap but Conjectured as a physical access weight.
+- `[1 - 1/(2 pi)^2]` is a Conjectured receipt-complement partition; no uniqueness or conservation argument forces this split.
+- adding these terms in this ledger and mapping the result to the neutron/proton mass difference are selected, not theorem-secured.
+
+The complete magnitude expression is therefore **Conjectured**, not Secured or Registered as a framework derivation. Its close agreement with the measured splitting is an empirical check only. P19's Open internal selection of the proton correction coefficient remains inherited and is not solved here.
+
+### 6. P21 boundary
+
+P20 does not derive beta decay, product identities, the antineutrino reading, a weak-interaction operator, lifetime, branching ratio, or the conversion of a structural weight into observed frequency. Those belong to P21 and later electroweak work. A P21 transition may eventually spend a P20 mass order or access construction, but decay evidence may not be used backward to upgrade either one here.
+
+## Claim record
+
+| Claim | Framework standing and warrant | Registration / use boundary |
+|---|---|---|
+| ternary color-singlet channel | Sealed representation mathematics given P8/P9/P10 premises | color-singlet closure Registered at bounded core |
+| modeled baryon occupancy, persistence, and stability | Secured conditionally by the reported flows and tested returns | baryon/bound-state language Registered only for that mapped core |
+| shared singlet plus `uud`/`udd` differentiation | Secured at P13/P14 role and mark-pattern scope | proton/neutron role distinction Registered; no mass or decay surplus |
+| equal spin contribution in the selected comparison | Secured conditionally within the exhibited mixed-mark mirror model | no general nucleon-spectrum claim |
+| valence-to-maintenance relief bridge | Conjectured | no Registered energetic mechanism |
+| framework-derived `m_n - m_p > 0` | Conjectured; empirical sign corroborates only | no upgrade from observation |
+| mark norms, inner product, normalized overlap `1/2`, and square `1/4` | Sealed mathematics given P14 geometry | inherits P14 geometry conditions |
+| `1/4` as physical access weight | Conjectured | not a transition probability, frequency, or rate |
+| additive splitting ledger and receipt-complement partition | Conjectured selections | alternatives and uniqueness unresolved |
+| complete quantitative splitting expression | Conjectured; numerical agreement is empirical evidence | not a Registered framework magnitude |
