@@ -118,7 +118,7 @@ Current status:
 - generic P6 form established;
 - baryon persistence/stability established conditionally in reported flows;
 - electron persistence and native ruler `m_e=1` established at recurrence scope;
-- neutron metastability and structural decay Registered at owning scope;
+- proton/neutron shared-closure identity differentiated; framework metastability order Conjectured under P20; decay P21-owned;
 - domain-grade persistent population, ontological basicness, broader stability, hierarchy, and external calibration Open.
 
 Work:
@@ -134,7 +134,7 @@ Current status:
 
 - structural classifiers established;
 - baryon tested attractor established;
-- neutron escape/transition structure and conditional overlap weight established;
+- P14 mark-overlap mathematics established; P20 physical access weight Conjectured; P21 transition structure not yet normalized;
 - observed rates and lifetimes Open.
 
 Work:

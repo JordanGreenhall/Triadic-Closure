@@ -80,13 +80,13 @@ P10 and the modeled With-to-This closure supply a color-singlet three-factor com
 
 The **proton** is the persistent color-singlet fermionic composite role that later receives the outward-relievable valence and native stable-ruler determinations.
 
-At P13 scope, proton identity is Registered only as the stable nucleon-role within the modeled color-singlet closure class. Its exact mark configuration, charge, mass ratio, and stability mechanism retain P14, P15, P19, and P20 ownership.
+At P13 scope, proton identity is Registered only as the stable nucleon-role within the modeled color-singlet closure class. Its exact mark configuration, charge, proton/electron ratio, and candidate proton/neutron stability ordering retain P14, P15, P19, and P20 ownership; P20 does not currently Secure that ordering.
 
 ### Neutron
 
 The **neutron** is the alternate nucleon-role within the same color-singlet fermionic composite class, distinguished from the proton by later mark/valence structure rather than by color-singlet form itself.
 
-At P13 scope, neutron identity is Registered as the companion nucleon-role. Its exact mark configuration, neutral charge, mass excess, metastability, and decay products retain P14, P15, P20, and P21 ownership.
+At P13 scope, neutron identity is Registered as the companion nucleon-role. Its exact mark configuration and neutral valence retain P14/P15 ownership; its mass excess and framework-native metastability remain Conjectured under P20; decay retains P21 ownership.
 
 ### Nucleon boundary
 
@@ -101,8 +101,8 @@ P13 therefore Registers two named nucleon roles sharing one color-singlet closur
 | lepton | color-trivial fermionic standing | Registered, not Sealed | exact electroweak module, charge, generation |
 | electron | persistent color-trivial exterior fermionic role | Registered at bounded core | charge value, mass/ruler status, magnetic moment |
 | neutrino | neutral color-trivial fermionic role | Registered at bounded core | From–With/chiral reading Conjectured; mass/oscillation Open |
-| proton | stable named role in modeled color-singlet nucleon class | Registered at role scope | marks, charge, mass ratio, full stability mechanism |
-| neutron | alternate named role in same nucleon class | Registered at role scope | marks, neutrality, mass excess, decay |
+| proton | stable named role in modeled color-singlet nucleon class | Registered at role scope | marks and charge later-owned; proton/neutron relief order Conjectured |
+| neutron | alternate named role in same nucleon class | Registered at role scope | marks/neutrality later-owned; mass excess Conjectured; decay P21-owned |
 
 ## Frontiers
 

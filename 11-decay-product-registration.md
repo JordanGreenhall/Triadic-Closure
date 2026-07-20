@@ -41,7 +41,7 @@ That is a real native account, and it stops exactly there. [flavor-mark-metric-a
 | Kinetic-energy spectrum / beta-spectrum shape | Empirical. Energy balance is native; the distribution is observed. |
 | Lifetime / transition rate / branching ratios | Empirical. Observed rates/frequencies are not a current framework target; derive the local possibility-space/rate structure only if needed. |
 | Beta-decay mechanism: weak interaction, W exchange, V-A operator | Quarantined. Electroweak residuals and W/Z labels are quarantined under Item 5.4; exact weak module remains Open. |
-| Neutron-decay specifics / n-p splitting | Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle receipt / flavor-SU(3) A₂ package is superseded; new mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured. |
+| Neutron-decay specifics / n-p splitting | Decay is P21-owned. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the mass relation: mark-overlap algebra is retained, while the framework sign, physical `1/4` access weight, and magnitude are Conjectured. Old two-circle and flavor-`SU(3)`/`A_2` packages are historical. |
 
 ## Verdict
 

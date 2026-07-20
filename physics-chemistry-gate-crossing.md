@@ -10,7 +10,7 @@ depends-on:
   - triadic-structure-of-relating          # 8.5 D7 selection rule; no-privileged-frame; held/registered (2.5); winding/complete-return
   - chiral-coupling-result                  # spin-½ by minimal lifted rotatability; Spin(3)
   - gauge-structure-result                  # U(1) From-phase valence axis; SU(3) color
-  - flavor-mark-metric-and-neutron          # relief-valve mechanism; no-privileged-frame → angle; marks-remain residue
+  - p20-baryon-closure-and-proton-neutron-relation # Conjectured relief route; P14 mark geometry
   - mass-derivation-three-faces             # mass = maintenance of closure; 6π⁵; m_e = 1
   - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)
@@ -83,16 +83,16 @@ The office grading that unblocked this (previously stuck on a false color-parall
 Binding = closure-completion at the From-axis. Opposite valences are the two sides
 of one From-cut (polarity/pairing, two faces of one office); when they close, each
 edge terminates in the other, both maintenance loads relieved, joint configuration
-coherence-favored. This is the **relief-valve mechanism** (Registered at the
-neutron/mark site) occupying a **second site** (charge).
+coherence-favored. This is an extrapolation of P20's **Conjectured relief-valve mechanism** to a second site. It
+cannot carry Registered-candidate warrant until P20's valence-to-maintenance bridge is discharged.
 
 Consequences:
 
 | Claim | Basis | Grade |
 |---|---|---|
-| mass defect (bound < free; sign of binding energy) | mass = maintenance; binding relieves maintenance | Registered-candidate |
-| termination at neutrality: Z electrons for charge-Z nucleus | valence additive; accretion continues iff residual edge; stops at sum-zero | Registered-candidate |
-| like valences: no binding channel (mutual relief impossible) | same side of a cut twice; no cut composes | Registered-candidate |
+| mass defect (bound < free; sign of binding energy) | mass = maintenance; binding-relief bridge unresolved | Conjectured; depends on P20 sign bridge |
+| termination at neutrality: Z electrons for charge-Z nucleus | valence additive; accretion continues iff residual edge; stops at sum-zero | Conjectured; relief-based stopping rule unproved |
+| like valences: no binding channel (mutual relief impossible) | same side of a cut twice; no cut composes | Conjectured at this unnormalized source |
 | like valences: **repulsion** (positive, not just absence) | needs field structure → Gate B | deferred |
 
 No Coulomb form, no energy-minimization spent (maintenance-relief replaces it).
@@ -269,7 +269,7 @@ This deposit exhibits one proposed physics→chemistry handoff and motivates a c
 |---|---|
 | shell structure imports no quantum numbers (existence of tower + s/p/d/f blocks + Pauli filling) | Registered-candidate |
 | n discreteness via complete-return | Conjectured (form); construction unbuilt |
-| Gate A: binding = From-edge closure-completion; mass-defect sign; Z-termination; no-like-channel | Registered-candidate |
+| Gate A: binding = From-edge closure-completion; mass-defect sign; Z-termination; no-like-channel | Conjectured; inherits unresolved P20 relief bridge |
 | Gate A: like-valence positive repulsion | deferred to Gate B (now paid) |
 | Gate B: 1/r² field / 1/r interaction / both signs | Registered-candidate, conditional on G1 |
 | Gate B: −1/n² spectrum form | Registered-candidate, conditional on Gate B form |

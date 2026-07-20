@@ -2,19 +2,20 @@
 title: The Neutron — Full Consideration
 type: result
 status: current-partially-superseded
-confidence: structure high; mark-metric/flavor premise Registered by flavor-mark-metric-and-neutron; full magnitude conjectured on receipt-complement premise plus proton residual
+confidence: historical/adversarial for P20; P14 geometry retained; P20 sign, physical access weight, and magnitude Conjectured; P21 material not yet normalized
 depends-on: [mass-derivation-three-faces, with-to-this-closure, realizability-weighting-law, flavor-mark-metric-and-neutron]
 superseded-by:
   - flavor-mark-metric-and-neutron # supersedes §5.2(a), §6 premise 2, §7 A₂ / 120° flavor-SU(3) keystone
+  - p20-baryon-closure-and-proton-neutron-relation # governs all current P20 claims and grades
 ---
 
 # The Neutron — Full Consideration
 
 ## Current status / supersession notice
 
-See [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). That page supersedes this draft's §5.2(a), §6 premise 2, and §7 A₂ / 120° flavor-SU(3) keystone. The current live reading is: flavor is color's three This-aspects under marking; the mark-metric `u·d = -1/2` is forced by no-privileged-frame on the three marks; the `1/4` in the neutron/proton splitting is the squared mark-access overlap. The old flavor-SU(3) / A₂ route is provenance only.
+For P20, this document is historical/adversarial evidence. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs current use. The native P14 mark geometry supersedes the old flavor-`SU(3)`/`A_2` route, but the resulting `1/2` normalized mark overlap and `1/4` square do not yet constitute a physical access amplitude or weight. The valence-relief sign mechanism, physical `1/4`, additive splitting ledger, and complete magnitude are Conjectured behind P20's three frontiers.
 
-The neutron sign/mechanism and decay-structure account remain usable where consistent with the newer mark-metric page. The full magnitude remains Conjectured because the receipt-complement partition `[1 - 1/(2π)^2]` is not yet forced and the proton residual `ε_FW` remains Open.
+The body below is retained because it records detailed candidate calculations and wrong-sign failures. Its former **Registered** labels on P20 claims are superseded by P20. Decay material is reserved for P21 and receives no upgrade here.
 
 ## 0. Scope and discipline
 
@@ -93,14 +94,14 @@ internally.
 
 Mass is internally-borne maintenance. Therefore:
 
-- The **proton is the deeper, more-relieved fixed point** — the attractor.
-- The **neutron is the shallower, fully-internalized standing** — metastable.
+- The draft proposes the **proton as the deeper, more-relieved fixed point**.
+- It proposes the **neutron as the shallower, fully-internalized standing**.
 
-**This is not charge-as-mass** (an incommensurable category error: charge is not a quantity
+**Candidate route, not current warrant.** This is not charge-as-mass (an incommensurable category error: charge is not a quantity
 of mass). Charge enters *only* as the marker of which edges face outward (relievable,
 off-books) versus inward (borne, mass-bearing). The neutron is heavier precisely because
-neutrality denies it the relief outlet. Charge is a relief valve, not a cost. **[Registered:
-mechanism and sign.]**
+neutrality denies it the relief outlet. Charge is a proposed relief valve, not a cost.
+**[Historical proposal; Conjectured under P20 because the valence-to-maintenance bridge is absent.]**
 
 This also explains why the earlier charge-based attempts all failed with the wrong sign:
 every rule that treated charge as an interior cost predicted the proton heavier, because the
@@ -230,8 +231,9 @@ P = uud = 2u + d,   N = udd = u + 2d
 cos θ = (3/2)/3 = 1/2   →   θ = π/3
 ```
 
-Because this is computed *in the access-amplitude geometry itself*, the inner product **is**
-the amplitude overlap — no half-angle (Bloch) correction applies. The Born transition cost is:
+The original proposal asserted that this mark-plane overlap **is** an access amplitude. P20
+finds that assertion unconstructed: amplitude-space location, access pairing, and the normalized
+alternative frame remain missing. The mathematical square is:
 
 ```
 cos²(π/3) = 1/4
@@ -290,12 +292,12 @@ hangs on premises 2 and 4.
    (electron interior trivial → one exterior turn; proton factors as `2π × 6π⁵ = 12π⁶`;
    measured ratio confirms modulo the standing residual).
 
-2. **Flavor / mark access has the forced mark-metric `u·d = -1/2`.** *Registered, not Sealed — supersedes the old A₂ flavor-SU(3) keystone.* See [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). The `1/4` now comes from the squared mark-access overlap, where flavor is color's three This-aspects under marking and the `120°` geometry is forced by no-privileged-frame on the three marks, not imported from flavor SU(3).
+2. **The P14 mark metric gives a squared normalized overlap `1/4`.** The mark geometry is Registered, not Sealed, and supersedes the old `A_2` flavor-`SU(3)` keystone. The algebra is conditional mathematics; P20 keeps its physical access interpretation Conjectured.
 
-3. **The Born crossing squares the access overlap.** *Principled.* Decay is a
-   realizability→actuality crossing; actuality is amplitude-squared. The transition cost is
-   `cos²θ`, not `cos θ`, for this reason. The amplitude angle is computed in the access
-   geometry directly, so no Bloch half-angle correction enters.
+3. **The proposed Born crossing squares the mark overlap.** *Conjectured as physical access.*
+   Squaring is licensed only after the amplitude/readout conditions hold. This draft did not
+   construct the amplitude-space location, access pairing, normalized alternatives, or
+   mark-overlap-to-reach map.
 
 4. **Pure advance receives the complement of the reserved receipt channel.** *Conjectured.*
    The `[1 − 1/(2π)²]` structure — receipt reserved off the top, advance gets the remainder.
@@ -303,32 +305,36 @@ hangs on premises 2 and 4.
    partition is *exactly* "reserve the channel measure, release its complement" (rather than
    another split) is the assumption carrying the second-order correction.
 
-**Earned overall:** mechanism, direction, measure-status (the With-face tension is a measure,
-not a rank), scale-type (small abelian-exterior correction on large non-abelian interior), and
-— *given premises 2–4* — the magnitude to 2.6 × 10⁻⁵.
+**Current P20 reading:** shared baryon closure and mark differentiation are retained at their
+owning grades. The relief mechanism and direction, physical access-weight status, additive
+ledger, and magnitude remain Conjectured; numerical agreement is empirical evidence only.
 
-**Not yet earned:** premise 4 (the complement partition). Premise 2 has been discharged by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) as the native mark-metric. The proton residual (1.9 × 10⁻⁵) remains Open and is inherited here, not closed.
+**Not yet earned:** the valence-to-maintenance sign bridge, the mark-overlap-to-access bridge,
+the ledger composition law, and premise 4 (the complement partition). P14 discharges the mark
+geometry only. The proton residual remains Open and inherited.
 
 ---
 
-## 7. Current sharp frontier
+## 7. Historical frontier note
 
-The old frontier — “Why does exterior flavor-access inherit the A₂ (120°) geometry?” — is superseded by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). The live frontier is now narrower:
+The old frontier — “Why does exterior flavor-access inherit the A₂ (120°) geometry?” — is superseded by P14. This draft then proposed the narrower question:
 
 > **Can the receipt-complement partition `[1 - 1/(2π)^2]` be forced rather than posited?**
 
-The mark-metric supplies the `1/4` natively. The remaining 1.6% refinement to the 2×10⁻⁵ magnitude match rests on premise 4: the two-standing receipt channel is reserved off the top and pure advance receives its complement. That partition is principled and constant-free, but still Conjectured.
+P20 shows that this was still too narrow. The mark metric supplies the squared overlap
+mathematically, not a physical weight. P20's local frontier and the global physics frontier are
+the only live frontier locations; this paragraph is provenance, not an independent frontier.
 
 ---
 
 ## 8. One-line summary
 
 The neutron is the same color closure as the proton, spin-equivalent to it, differing only in
-its exterior flavor-access configuration; it is heavier because, presenting no satisfiable
-outward edge, it bears internally the relational load the proton offloads into its
-proton–electron relationship; it drains to the proton by one-directional Born accumulation,
+its exterior mark configuration; this draft proposed that it is heavier because, presenting no
+satisfiable outward edge, it bears internally a load the proton offloads into an external
+relationship; it proposed a drain to the proton by one-directional Born accumulation,
 settling the charge ledger (electron) and the chiral receipt ledger (antineutrino) and venting
 the surplus as advance (kinetic energy). The old A₂ / flavor-SU(3) keystone is superseded by
 [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md): the `1/4` term is now the squared mark-access overlap from
-the native mark-metric `u·d = -1/2`. The full splitting expression remains Conjectured because
-the receipt-complement partition `[1 - 1/(2π)^2]` and proton residual `ε_FW` remain open gates.
+the native mark-metric `u·d = -1/2`. Under P20 the physical `1/4`, sign mechanism, ledger, and
+full splitting expression are Conjectured; P21 governs all decay particulars.

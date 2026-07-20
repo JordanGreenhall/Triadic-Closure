@@ -160,7 +160,7 @@ exact module/hypercharge/electroweak-breaking claims in Items 8/13.
 
 **Current support:** Item 7 passes as an adjudication ledger. Quark/lepton binary
 as interior-triad part/whole distinction is Registered, and the SU(3)/color bridge
-dependency is discharged by Items 3–4. Flavor/mark update: [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) registers flavor as color's three This-aspects under marking, registers quark as marked color, and registers the neutron sign/mechanism and decay structure while leaving the full magnitude Conjectured on its named residuals. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
+dependency is discharged by Items 3–4. P14 registers flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) retains shared baryon closure and `uud`/`udd` differentiation while keeping the framework sign, relief mechanism, physical `1/4` access weight, and magnitude Conjectured. Decay remains P21-owned. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
 
 **Smuggle risk:** using `quark`, `lepton`, `electron`, `neutrino`, `baryon`,
 `proton`, or `neutron` as if their full SM identity is registered. The ledger
@@ -183,7 +183,7 @@ conditional on underived center-lock; anomaly cancellation is quarantined.
 anomaly cancellation, or `Q = T3 + Y/2` arithmetic as if framework-native.
 Empirical charge facts may be cited as observations; they are not derivations.
 
-**Downstream dependencies:** proton/neutron flavor-access geometry, n-p splitting,
+**Downstream dependencies:** proton/neutron mark geometry and candidate access bridge, n-p splitting,
 quark/lepton charge patterns, electroweak module, decay ledgers.
 
 **Cleanup work:** use [08-charge-hypercharge-ledger](08-charge-hypercharge-ledger.md) as control. Charge
