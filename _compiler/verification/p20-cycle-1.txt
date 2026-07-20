@@ -1,0 +1,13 @@
+P20 deterministic normalization verification
+base: main
+changed Markdown files checked: 18
+local Markdown links checked: 281
+frontier file placement: local canonical + global summary
+mark norms: 3, 3
+mark inner product: 3/2
+normalized overlap: 1/2
+squared overlap: 1/4
+P19 boundary: inherited, not reopened
+P21 boundary: decay excluded
+diff hygiene: checked
+PASS
