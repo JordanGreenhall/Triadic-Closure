@@ -46,6 +46,15 @@ def corpus_text(relative: str, overlay: Path | None) -> str:
 
 
 def simulated_text(relative: str, text: str) -> str:
+    if SIMULATE is not None and SIMULATE.startswith("downstream-"):
+        stale = {
+            "downstream-imports": ("12-gravity-full-gr-imports.md", "| `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by grqm-conflict-status: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open. |"),
+            "downstream-ledger": ("03-10-physics-concept-load-pass-ledger.md", "- **`Λ` structural meaning:** stress-energy of self-closure, `w=-1` — **Registered**; scaling `Λ ∼ R_H^-2` **Registered**; native complete `3 R_H^-2` **Conjectured-strong**; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open."),
+            "downstream-smuggle": ("sm-content-smuggle-audit-frontier.md", "Lambda structural meaning and scaling are Registered; native complete `3 R_H^-2` is Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Lambda dynamics remain Open."),
+            "downstream-deferred": ("deferred-articulations-map.md", "Every quantitative claim that has had to be retracted (the Λ magnitude, Σ|h|² for the holding, the coupling constants) came from deferred articulation."),
+        }
+        stale_path, stale_text = stale[SIMULATE]
+        return stale_text if relative == stale_path else text
     if relative != OWNER or SIMULATE is None:
         return text
     if SIMULATE == "frontier":
@@ -77,7 +86,10 @@ def main() -> None:
     parser.add_argument("--overlay", type=Path, help="temporary semantic-check overlay")
     parser.add_argument(
         "--simulate",
-        choices=("confirmation", "coefficient", "dynamics", "flatness", "frontier", "boundary"),
+        choices=(
+            "confirmation", "coefficient", "dynamics", "flatness", "frontier", "boundary",
+            "downstream-imports", "downstream-ledger", "downstream-smuggle", "downstream-deferred",
+        ),
         help="in-memory stale-state mutation for rejection-capability tests",
     )
     args = parser.parse_args()
@@ -195,6 +207,39 @@ def main() -> None:
     ):
         require(corpus_text(route, overlay), OWNER, route)
 
+    downstream_consumers = (
+        "12-gravity-full-gr-imports.md",
+        "03-10-physics-concept-load-pass-ledger.md",
+        "sm-content-smuggle-audit-frontier.md",
+    )
+    downstream_requirements = (
+        OWNER,
+        "Registered at structural scope",
+        "Registered at macro-scaling scope",
+        "Conjectured-strong and Unregistered",
+        "definitional identity",
+        "not empirical confirmation",
+        "empirical input",
+        "Open and Unregistered",
+    )
+    for consumer in downstream_consumers:
+        text = corpus_text(consumer, overlay)
+        for needle in downstream_requirements:
+            require(text, needle, consumer)
+        forbid(text, "`Λ_present = 3 f_reflexive R_H^-2` with empirical note", consumer)
+
+    deferred = corpus_text("deferred-articulations-map.md", overlay)
+    for needle in (
+        OWNER,
+        "unsupported exact/numerical Lambda coefficient",
+        "confirmatory present-magnitude language",
+        "stronger dynamical claims",
+        "Registered macro `Lambda ~ R_H^-2` scaling",
+        "separately grades the coefficient, empirical translation, and dynamics",
+    ):
+        require(deferred, needle, "deferred-articulations-map.md")
+    forbid(deferred, "(the Λ magnitude,", "deferred-articulations-map.md")
+
     # Every declared canonical source must resolve to a tracked file.
     in_frontmatter = False
     for line in owner.splitlines():
@@ -237,6 +282,7 @@ def main() -> None:
         "_compiler/verification/p28-failure-flatness.txt",
         "_compiler/verification/p28-failure-frontier.txt",
         "_compiler/verification/p28-failure-boundary.txt",
+        "_compiler/verification/p28-failure-downstream.txt",
     ):
         require(corpus_text(path, overlay), "Result: REJECTED", path)
 

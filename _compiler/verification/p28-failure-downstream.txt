@@ -1,0 +1,24 @@
+P28 stale-state rejection: downstream consumer conflation/demotion
+Exact base: `92b194970a7fa00f516e759eaeb3e4d3d38aad03`
+
+Commands and exact results:
+
+1. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-imports`
+   Exit: 1
+   Output: `P28 verification: FAIL: 12-gravity-full-gr-imports.md lacks required text: p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
+
+2. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-ledger`
+   Exit: 1
+   Output: `P28 verification: FAIL: 03-10-physics-concept-load-pass-ledger.md lacks required text: p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
+
+3. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-smuggle`
+   Exit: 1
+   Output: `P28 verification: FAIL: sm-content-smuggle-audit-frontier.md lacks required text: p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
+
+4. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-deferred`
+   Exit: 1
+   Output: `P28 verification: FAIL: deferred-articulations-map.md lacks required text: p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
+
+Each simulation replaces exactly one reconciled consumer with its stale A1 claim surface in memory. The untouched reconciled state is verified separately.
+
+Result: REJECTED

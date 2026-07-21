@@ -6,7 +6,7 @@ This note maps the chain beneath the Hamiltonian, the concept whose articulation
 
 ## The recurring fault this addresses
 
-Essences were sealed; articulations were honestly marked deferred. Every quantitative claim that has had to be retracted (the Λ magnitude, Σ|h|² for the holding, the coupling constants) was the result of reaching into a **deferred articulation** and supplying a number by fit, borrow, or narration rather than by building. The discipline: when you reach a deferred articulation, recognize it as the frontier, descend to its floor, and build — do not fudge a value at the top.
+Essences were sealed; articulations were honestly marked deferred. Quantitative claims that had to be retracted or demoted include the unsupported exact/numerical Lambda coefficient, confirmatory present-magnitude language, stronger dynamical claims, Σ|h|² for the holding, and coupling constants: each reached into a **deferred articulation** and supplied a number by fit, borrow, or narration rather than by building. [P28](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) nevertheless preserves Registered macro `Lambda ~ R_H^-2` scaling and separately grades the coefficient, empirical translation, and dynamics. The discipline: when you reach a deferred articulation, recognize it as the frontier, descend to its floor, and build — do not fudge a value at the top.
 
 ## The chain beneath the Hamiltonian
 
