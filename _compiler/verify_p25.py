@@ -202,7 +202,7 @@ def main() -> int:
     for phrase in (
         "flattened/live", "internal carrier pairing", "spatial arena",
         "Conjectured overall", "Unregistered as a completed", "perturbative",
-        "P7", "P16", "P18", "P22", "P24", "P26", "P27", "P28",
+        "P7", "P8", "P16", "P18", "P22", "P24", "P26", "P27", "P28",
     ):
         require(errors, phrase in combined, f"P25 consumer guard missing: {phrase}")
 
@@ -257,7 +257,7 @@ def main() -> int:
     print(f"changed-file local links checked: {link_count}")
     print("frontier placement: local owner + global summary only")
     print("G2/G3 independence countermodel: G2=true, completed-G3=false")
-    print("canonical routing and P7/P16/P18/P22/P24/P26-P28 boundaries: PASS")
+    print("canonical routing and P7/P8/P16/P18/P22/P24/P26-P28 boundaries: PASS")
     return 0
 
 
