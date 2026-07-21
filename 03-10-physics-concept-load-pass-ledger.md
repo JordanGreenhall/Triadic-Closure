@@ -386,28 +386,29 @@ Direction-of-inference rule: use the Registered `SU(3)` bridge downstream. Do no
 
 ## Item 11 — Decay-product registration
 
-See [11-decay-product-registration](11-decay-product-registration.md). Item 11 **PASSES by registration plus quarantine**. The framework-native account of decay is real and non-trivial, but it is only the structural skeleton: metastable escape over a coherence barrier, conservation of registered distinctions, participation-propensity channel weighting, and chiral/orientation-faithful coupling.
+See [P21 With-to-This Closure and Decay](with-to-this-closure.md). Item 11 **PASSES by bounded registration plus quarantine**. P21 Registers the generic structural decay classifier: loss or reconfiguration of a prior identity-constituting invariant through an admitted escape passage. A coherence barrier is included only when actually exhibited. Concrete inverse passages, products, rates, and mechanism retain separate grades.
 
 ### 11.1 Native decay skeleton
 
-- **Decay = escape of a metastable closure over a coherence-barrier:** **Registered, structural** from D6 persistence / identity-over-time.
+- **Decay = loss or reconfiguration of a prior invariant through admitted escape:** **Registered, structural** from P6/P21. No universal coherence barrier or inverse theorem follows.
 - **Charge balance:** **Registered** as Item 8 `U(1)` valence conservation. This is conservation, not exact charge values.
-- **Energy balance:** **Registered-structural** as conservation of the This-closure quantity; stress-energy dynamical population remains Conjectured.
-- **Relative channel weighting:** **Registered as measure** through Item 2 participation-propensity; observed rate/frequency remains empirical or comparison unless the local possibility-space/rate structure is derived.
-- **Chiral/orientation-faithful coupling:** **Registered criterion** through Item 6; exact V-A module remains Open.
+- **Energy balance:** **Registered structural admissibility condition** at the inherited conservation grade; numerical product ledger remains empirical and stress-energy dynamical population remains unconstructed here.
+- **Relative channel weighting:** **Registered as measure only when amplitude/readout conditions hold**; no current neutron channel meets all conditions, and observed rate/frequency remains empirical.
+- **Chiral/orientation-faithful coupling:** **Registered criterion** through Item 6/P12; exact weak identity, `V−A`, and module remain Open/quarantined.
 
 ### 11.2 Received, Open, or quarantined content
 
-- **Product identities:** P21-owned. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) is retained source material, not a current Registered structural result; empirical product identity remains observation.
-- **Antineutrino as such:** Conjectured. From-With missing-partner / receipt reading remains Conjectured; missing-energy observation is allowed, entity is not Registered native.
+- **Inverse passage / neutron `udd -> uud`:** Conjectured under P21. Established endpoints do not supply the passage.
+- **Product identities:** P21-governed. Electron production is Open internally and empirical observationally; the retained neutron ledger is supporting source material, not a Registered product derivation.
+- **Antineutrino as such:** Conjectured as a From-With receipt reading; empirical as an observed particle label; not a Registered native output role.
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
-- **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
+- **Lifetime / transition rate / branching ratios:** Open internally and empirical observationally. Do not route these to generic frequency=weight; P21-F3 records the missing local hazard and calibration.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
-- **Neutron-decay specifics:** P21-owned. P20 retains the mark algebra while keeping the sign bridge, physical access weight, and magnitude Conjectured. The old two-circle / flavor-`SU(3)` `A_2` package is historical.
+- **Neutron-decay specifics:** P21 keeps the office-form inverse, neutron passage, and kinetic-release reading Conjectured or Open at their stated scopes. P20 retains the mark algebra while keeping the sign bridge, physical `1/4` access weight, and magnitude Conjectured. The old two-circle / flavor-`SU(3)` `A_2` package is historical.
 
 ### 11.3 Integration rule
 
-Dependent pages may use decay-as-escape, charge/energy balance, and relative channel propensity as native. Observed rates/frequencies remain empirical or comparison unless the local possibility-space/rate structure is derived. Product identities, spectra, lifetimes, branching ratios, antineutrino identity, and W-mechanism must be marked empirical, Open, or quarantined.
+Dependent pages may use the generic structural decay classifier and inherited charge/energy/chiral admissibility criteria at their bounded grades. They may use relative channel propensity only after amplitude/readout conditions are established. The literal inverse, neutron passage, product identities, spectra, lifetimes, branching ratios, antineutrino receipt, and weak mechanism must retain P21's Conjectured, Open, empirical, or quarantined grades.
 
 Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure feeds back, and that is D6's own Registered result.
 

@@ -50,7 +50,7 @@ Conversely, two later-articulated constructions satisfy P6 at bounded scopes, wh
 
 1. **Baryon singlet closure:** scoped persistence and perturbative stability under the reported color-overlap flows.
 2. **Electron bare repeat:** scoped persistence under per-step self-reselection and a native mass-ruler normalization.
-3. **Proton/neutron identity distinction:** P14/P20 establish distinct mark-configurations on one shared closure; comparative metastability remains Conjectured under P20 and structural decay remains P21-owned.
+3. **Proton/neutron identity distinction:** P14/P20 establish distinct mark-configurations on one shared closure; comparative metastability remains Conjectured under P20. P21 Registers the generic structural decay classifier while keeping the neutron-specific inverse passage Conjectured.
 
 The prior PR version wrongly treated later ownership as a reason to withhold these P6 applications. That was an epistemic-order error.
 
@@ -92,9 +92,9 @@ P14 and P20 supply:
 - **role structure:** neutron `udd` and proton `uud` are distinct mark-configurations on one common color-singlet closure;
 - **candidate order:** P20 Conjectures, but does not Secure, that satisfiable proton valence reduces intrinsic maintenance and makes the proton the lower-load attractor;
 - **candidate access weight:** the normalized mark overlap and its square are mathematical consequences of P14 geometry, while `1/4` as a physical transition weight remains Conjectured;
-- **later transition:** P21 owns the proposed `d -> u` inverse-closure transition and its products.
+- **later transition:** P21 grades the proposed `d -> u` inverse passage Conjectured; electron production is Open internally, the antineutrino receipt is Conjectured, and observed products remain empirical.
 
-The shared closure and mark distinction are P6-relevant identity structure. The stronger comparative-attractor and framework-derived metastability claims remain Conjectured because they depend on P20's unresolved sign bridge. P21 must separately normalize the structural decay transition. Observation that free neutrons decay is empirical evidence, not framework warrant for the missing bridge.
+The shared closure and mark distinction are P6-relevant identity structure. The stronger comparative-attractor and framework-derived metastability claims remain Conjectured because they depend on P20's unresolved sign bridge. P21 now separates the Registered generic decay classifier from the Conjectured neutron inverse passage and unregistered product settlement. Observation that free neutrons decay is empirical evidence, not framework warrant for either missing bridge.
 
 No absolute decay rate, lifetime, frequency law, or accumulation-to-certainty claim is established here.
 
@@ -115,7 +115,7 @@ Open:
 - which closure is ontologically earliest/basic;
 - the full stable-closure hierarchy;
 - external calibration and quantitative lifetimes.
-- the framework-native proton/neutron attractor order and P21 decay construction.
+- the framework-native proton/neutron attractor order and P21's concrete inverse-passage and product-settlement frontiers.
 
 The blanket claim “physics D6 occupancy is Open” is retired.
 
@@ -137,9 +137,9 @@ A fixed point is not automatically an attractor. But an actually exhibited retur
 
 A standing is metastable when it preserves its invariant over a restricted class but admits an escape into a differently registered closure-class. Decay is the loss or reconfiguration of the prior invariant through that escape.
 
-The neutron sources propose this form: `udd` reconfigures toward `uud`, with the prior standing partially reopening into reported With/From products. The framework-native ordering required for **metastability** is Conjectured under P20, and the **structural decay** construction is P21-owned. Empirical decay remains an observation.
+The neutron sources propose this form: `udd` reconfigures toward `uud`, with the prior standing partially reopening into reported With/From products. The framework-native ordering required for **metastability** is Conjectured under P20. P21 Registers decay only as the generic structural classifier; the `udd -> uud` passage and `This -> With + From` reading are Conjectured, while product identities retain their P21 grades. Empirical decay remains an observation.
 
-Products, inverse-closure structure, and their grades remain for P21; calibrated lifetime remains Open.
+P21 owns the detailed passage and product boundaries. Calibrated lifetime remains Open.
 
 ## 7. Escape propensity versus decay rate
 
@@ -150,7 +150,7 @@ An escape weight requires an applicable measure over alternatives. A rate additi
 - clock or step calibration;
 - relevant scale and coupling data.
 
-P20 supplies a squared mark overlap mathematically but only a Conjectured physical access weight. P21 must establish any transition structure. No observed neutron lifetime follows because the access bridge, local hazard, frequency, and calibration remain unresolved.
+P20 supplies a squared mark overlap mathematically but only a Conjectured physical access weight. P21 leaves the inverse passage Conjectured and records the missing local hazard, frequency, and calibration in P21-F3. No observed neutron lifetime follows.
 
 ## 8. Identity through succession
 
@@ -166,7 +166,7 @@ Identity-continuity is continuity of the registered invariant across lineage-rel
 | Baryon stability | **Secured conditionally** by tested return | Stability **Registered** | No universal basin/rate |
 | Electron bare-repeat persistence | **Secured conditionally** at recurrence scope | Electron persistence and native ruler **Registered** | No perturbative stability/basicness/calibration |
 | Framework-native neutron metastability | **Conjectured** from unresolved P20 comparative maintenance route | Unregistered as a secured P6 instance | Empirical decay does not supply the sign bridge |
-| Neutron structural decay | P21-owned; not normalized here | No P6 upgrade from P20 | Products, mechanism, and lifetime retain later grades |
+| Generic structural decay / neutron passage | Generic classifier Registered under P21; neutron passage Conjectured | No P6 upgrade from P20 | Product settlement, mechanism, and lifetime retain P21 boundary grades |
 | Domain-grade physics D6 | **Open** | Unregistered as completed domain result | Relevant persistent totality absent |
 | Basic stable ruler, stronger sense | **Open** | Electron is Registered candidate | Basicness, broader stability, calibration remain |
 | Generic quantitative lifetime | **Open** | Unregistered generically | Frequency/calibration/scale required |
@@ -197,12 +197,12 @@ Next action: survey remaining downstream closures by constitutive dependency, no
 
 ### P6-F2 — Quantitative stability and decay
 
-Established: tested baryon return dynamics; P14 mark-overlap mathematics and empirical neutron decay.
+Established: tested baryon return dynamics; P14 mark-overlap mathematics; P21's Registered generic decay classifier; empirical neutron decay.
 
-Open: P20 sign and access bridges; P21 transition construction; general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
+Open: P20 sign and access bridges; P21-F1 inverse-passage map; P21-F2 product settlement; P21-F3 channel/hazard construction; general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
 
 Next action: test later concrete decay results for actual rate-producing structure without either dismissing them as “later” or upgrading structural weights into frequencies.
 
 ## Result
 
-P6 is normalized by reality-first constitutive applicability. The generic phase-form is established. The baryon supplies scoped persistence and tested stability; the electron supplies scoped persistence and a native ruler candidate; proton and neutron supply a shared-closure identity distinction. Their framework-native attractor order is Conjectured under P20, and decay is P21-owned. Domain-grade completion, ontological basicness, broader stability, hierarchy, calibration, and quantitative lifetimes remain Open.
+P6 is normalized by reality-first constitutive applicability. The generic phase-form is established. The baryon supplies scoped persistence and tested stability; the electron supplies scoped persistence and a native ruler candidate; proton and neutron supply a shared-closure identity distinction. Their framework-native attractor order is Conjectured under P20. P21 Registers the generic decay classifier but keeps the neutron passage Conjectured and product/rate claims bounded. Domain-grade completion, ontological basicness, broader stability, hierarchy, calibration, and quantitative lifetimes remain Open.
