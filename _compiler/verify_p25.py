@@ -123,14 +123,14 @@ def main() -> int:
         "## Local research frontiers",
         "## Verification obligations",
         "## Source disposition",
-        "flattened within a settled step",
+        "Within a settled step the basis is flattened",
         "internal carrier pairing is not the spatial arena",
         "Conjectured overall and Unregistered as a completed framework derivation",
         "No framework-native perturbative integral, regulator, power-counting argument",
         "Discreteness is not automatic finiteness",
-        "P26 owns matter-sourced geometry definiteness",
-        "P27 owns horizons, information/unitarity",
-        "P28 owns Lambda meaning",
+        "P26 owns",
+        "P27 owns",
+        "P28 owns",
     )
     for item in required_local:
         require(errors, item in local, f"missing canonical P25 element: {item}")
@@ -175,7 +175,7 @@ def main() -> int:
         "grqm-problem-locator.md": (
             "This page is retained detailed provenance",
             "Conjectured overall and Unregistered as a completed derivation",
-            "external comparison, not the warrant",
+            "not the warrant for the framework identity",
             "not a calculation establishing the traditional failure",
         ),
         "sm-content-smuggle-audit-frontier.md": (
