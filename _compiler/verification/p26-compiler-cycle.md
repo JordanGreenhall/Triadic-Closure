@@ -1,7 +1,7 @@
 # P26 Compiler / Fixed-Point Cycle
 
 Exact base: `7071e4d6e95f90765f70db18826f0f6952c13de2`
-Reviewed content/evidence head: `39b66db4214643a93a492cb4c5c8d6add70a4960`
+Reviewed content/evidence head: `39b66db36acec5e20caeb882b3c15d42bec0d629`
 
 ## Cycle input
 
