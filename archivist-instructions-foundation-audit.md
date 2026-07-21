@@ -243,10 +243,11 @@ non-contextuality) is located as a consequence of the framework's central seam.
 **WHAT:** The earlier in-session self-regrade (spectrum → Conjectured-strong) is
 **superseded by a repair**. No variational principle is imported: a standing *is* a
 fixed point of re-selection (mass-as-self-closure, Registered), so stationarity is
-definitional, not borrowed. The maintenance functional is native — the quadratic
+definitional, not borrowed. The proposed maintenance functional is the quadratic
 pairing on the one-step conditioning mismatch between neighboring seatings =
-gradient-squared, via the **same one-step-conditioning-locality instrument already
-Registered for the second-order field equation**. Casimir pricing l(l+1)/r² is that
+gradient-squared. Its analogy with the one-step locality route does not Register it:
+[P24](p24-full-einstein-form-as-conditional-rigidity.md) leaves the exact
+locality-to-second-order theorem Conjectured/Unregistered. Casimir pricing l(l+1)/r² is that
 cost on the l-irrep. The tower is the full fixed-point set (excited states are
 standings with their own maintenance); maintenance values = spectrum = −1/n² by
 rule-given math on |∇ψ|²−k/r at unit pairing (normalizability forced: a standing is

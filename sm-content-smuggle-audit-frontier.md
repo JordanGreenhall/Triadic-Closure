@@ -259,20 +259,16 @@ theorem is Secured conditionally and Registered–Sealed on a given carrier/mani
 via the named Alexandrov–Zeeman import; Lambda
 structural meaning is Registered. P23 conditionally Secures the symmetric second-moment source and observer-relative decomposition; sector names are Registered for an independently licensed physical source, while the exact office map is Conjectured/Unregistered and native weights, arbitrary stress population, and tensor conservation remain Open/Conjectured. Λ
 scaling is Registered; native complete `3 R_H^-2` is Conjectured-strong; present
-`Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Λ dynamics remain Open. Full Einstein form remains Registered-conditional through
-the G1-conditioned second-order route plus Lovelock-style tensor rigidity; tensor
+`Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Λ dynamics remain Open. P24 accepts the general named Lovelock-style theorem family as external mathematics at general conditional scope, but its exact claim-specific schema and framework applicability remain Conjectured/Open and Unregistered. The full Einstein form is a selected/Conjectured model and Unregistered as framework physics; the locality/order theorem and complete premise map remain unresolved. Tensor
 completeness, strong-field/nonlinear sector, and exact `G` remain Open or
 values-side.
 
-**Smuggle risk:** importing the full tensor/strong-field Einstein package, turning amplitudes into real source weights, reducing a general multi-stream source to one rank-one tensor, deriving tensor conservation from scalar continuity, treating one selected spatial-stress example as a With-office theorem or arbitrary matter, importing stress-energy dynamical generality, exact `G`, or the full GR field equation as native/sealed merely because the G1-conditioned second-order route is Registered conditional.
+**Smuggle risk:** importing the full tensor/strong-field Einstein package, turning amplitudes into real source weights, reducing a general multi-stream source to one rank-one tensor, deriving tensor conservation from scalar continuity, treating one selected spatial-stress example as a With-office theorem or arbitrary matter, importing stress-energy dynamical generality, exact `G`, or the full GR field equation as native/sealed. One-step locality is established only at bounded update scope and remains a candidate route; locality-to-exact-continuum-order is Conjectured and Unregistered.
 
 **Downstream dependencies:** cosmology, Lambda dynamics, stress-energy source
 claims, strong curvature claims.
 
-**Cleanup work:** use [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source claims and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 boundary. The promotable
-gate is one-step conditioning locality ⇒ second-order metric equations; the
-GR/QM ledger promotes it to Registered conditional on G1, not Sealed, until
-manifold recovery and locality⇒order are formalized.
+**Cleanup work:** use [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source claims and [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) for the full-field boundary. The promotable gate is a formal locality-to-order theorem with scaling and correction control; one-step locality alone does not discharge it.
 
 ### 13. Higgs, Yukawa, electroweak breaking, generations, spectrum
 

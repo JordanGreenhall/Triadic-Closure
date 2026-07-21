@@ -39,13 +39,13 @@ Status: **Registered at the bounded selected static weak-field metric-model scop
 - One executable, convergent `3+1` continuum curvature implementation remains open under P22.
 - Scalar source normalization and `G` remain open under P22.
 - [P23](p23-stress-energy-as-three-office-source.md): bounded source/decomposition mathematics is normalized; the exact office map is Conjectured/Unregistered, and native weights, general stress span, and conservation remain open.
-- P24: full spatial metric, tensor completeness, second-order/full-Einstein route, and nonlinear regime.
+- [P24](p24-full-einstein-form-as-conditional-rigidity.md): theorem-import boundary, full spatial metric, tensor completeness, locality/order route, full-Einstein target, and nonlinear regime.
 
 ## Grade adjudication
 
 The conditional local weighting algebra remains positively Secured at its selected scope. The displayed inverse-clock metric model is Registered at bounded scope, while its bridge and uniqueness remain Open/Conjectured. Documentary numerical reports carry no independent Secured warrant. Conditional analytic `-1/r` mathematics supplies the harmonic exterior and tidal Hessian. The scalar Poisson form is conditional on the source map and normalization; defining `G M:=A/d0` computes neither `M` nor `G`.
 
-Full-Einstein standing is not adjudicated here. Use [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) until P24 is normalized.
+Full-Einstein standing is not adjudicated here. Use [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) as canonical authority; [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) is its concise shadow.
 
 ## Execution caution
 

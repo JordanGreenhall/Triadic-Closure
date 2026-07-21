@@ -1,4 +1,4 @@
-> **P22/P23/P24 authority guard.** This is supersession-sensitive development evidence. [P22](p22-weak-field-gravity-as-participation-curvature.md) governs weak-field gravity; [P23](p23-stress-energy-as-three-office-source.md) governs the source tensor, conservation conditions, and three-office correspondence; P24 owns the full field-equation/Lovelock route. In particular, generic conservation language does not by itself prove `nabla_mu T^{mu nu}=0`, and this source cannot upgrade any numbered owner.
+> **P22/P23/P24 authority guard.** This is supersession-sensitive development evidence. [P22](p22-weak-field-gravity-as-participation-curvature.md) governs weak-field gravity; [P23](p23-stress-energy-as-three-office-source.md) governs source construction and conservation; [P24](p24-full-einstein-form-as-conditional-rigidity.md) governs the full field-equation/Lovelock route. The old `[proved]`, `[argued]`, and “forced” labels below are historical claims adjudicated by those canonical owners. Generic conservation does not prove `nabla_mu T^{mu nu}=0`, one-step locality does not prove exact second-order continuum equations, and this source cannot upgrade any owner's grade.
 >
 > **Historical F3 terminology note:** this superseded synthesis uses `depth` for horizontal address-length. Read those occurrences as **succession count**. Current canon reserves depth for vertical coinductive office-decomposition.
 
@@ -49,22 +49,19 @@ The decisive question: does the per-step tilt (F9) accumulate to a **metric curv
 
 ---
 
-## F11 — The relation is forced to the Einstein form (given four properties)
+## F11 — Retained conditional tensor-rigidity proposal
 
-The relation between the source (conditioning-degree concentration = the Hamiltonian / energy-momentum distribution, a stress-energy-type T) and the curvature. The honest result is a **forcing-argument**, not a from-scratch field-equation derivation.
+The historical source proposed a relation between a conditioning source and curvature. P24 adjudicates this as a conditional theorem implication whose framework premises remain unresolved, not as a completed forcing argument.
 
 **The four properties, with status:**
-1. **Locality.** P's next-configuration weighting depends on P's immediate neighbors' conditioning-degree (the edges incident at P's neighbors). [proved — the weighting is over P's one-step neighbors, intrinsically local.]
-2. **Second-order in the metric.** The curvature is the variation of the cone-tilt-field, a second-order property of the metric. [argued, from F10/F10a.]
-3. **Leading-order linear in the source.** Small conditioning-degree-excess → proportional cone-tilt, because the realizability-weighting is smooth in the coherence-measure (small change in C → proportional change in selection). [argued.]
-4. **Conservation of the source: ∇·T = 0.** This is **conservation of registered distinctions (0.6)** in essence — the conditioning-activity distribution conserves its registered content (nothing destroys a registered distinction). The contracted Bianchi identity's physical content (covariant conservation of stress-energy) *is* the framework's conservation law. [proved-prior, 0.6.]
+1. **Discrete locality.** One-step neighbor dependence is shown for the selected weighting, but does not prove exact continuum derivative order or a natural tensor equation.
+2. **Second-order in the metric.** Conjectured/Unregistered under P24; a continuum order theorem and full geometric tensor are absent.
+3. **Linear source coupling.** Historically argued at leading order; the physical source map, nonzero coupling, and nonlinear extension remain unproved.
+4. **Conservation of the source.** Open generally under P23. Scalar continuity and the Bianchi identity do not construct `nabla_mu T^{mu nu}=0`; generic conservation language does not by itself prove covariant tensor conservation.
 
-**(P24) [argued, citing Lovelock] Given (1)–(4), the curvature-source relation in four dimensions is forced to be G_μν + Λ g_μν = κ T_μν.** A local relation between a second-order, divergence-free, symmetric tensor built from the metric and a conserved symmetric source is, by Lovelock's theorem in four dimensions, exactly the Einstein tensor plus a cosmological term: the only divergence-free symmetric 2-tensor that is second-order in the metric in 4D is aG_μν + bg_μν. Equating to the conserved source κT_μν gives the Einstein equation with cosmological constant. ∎ (modulo F10a supplying the genuine second-order tensor.)
+**(P24) [retained proposal, corrected]** The corpus accepts a general Lovelock-style theorem family externally and retains `H=aG+bg` as the positive target import route, but has not selected one exact claim-specific schema or complete closed hypothesis list. Exact applicability remains Conjectured/Open and Unregistered. The separate selected premises `H=cT` and `a!=0` allow pure normalization algebra to `G_mu nu + Lambda g_mu nu = kappa T_mu nu`; they are not supplied by the theorem import.
 
-**(P25) [proved, given P24] The particulars: c is the unit, G is the one free particular, Λ is allowed.**
-- **c = 1** — the unit (F4), not a parameter. The field equation is natively in c = 1 form; where "his c" enters standard T and the coupling 8πG/c⁴, ours is already absorbed into N's edge/depth identity.
-- **κ = 8πG** — the **one free particular**: the conversion between conditioning-degree-excess and cone-tilt-magnitude (how much a unit of conditioning-degree tilts the cones), a property of N's specific coupling-structure, not fixed by the form.
-- **Λ** — the additive freedom Lovelock leaves open is *not forbidden* by the derivation; a nonzero Λ is allowed, matching observation. (The framework does not here fix its value — an honest open, but its *permission* is a correct prediction.)
+**[Historical continuation, superseded by numbered owners.]** `c=1` remains unit convention at its propagation owner. P22 retains graph/scalar source normalization, physical `G`, and weak-field calibration; P23 retains the physical tensor-source map and dynamics; P24 retains the nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. Lambda remains P28-owned.
 
 ---
 
@@ -73,7 +70,7 @@ The relation between the source (conditioning-degree concentration = the Hamilto
 **Proved:**
 - **F8** (P18): the coherence-participation functional C(k) = pairing-overlap with the standing; admissible; = the realizability-weighting law's physics measure. Gravity and Born are the same law.
 - **F9** (P19, P21): "energy concentration" = conditioning-degree (edge-count, not density); the tilt is universal and couples to energy because coherence-participation is participation-in-conditioning-activity.
-- **F11** (P24, P25, given the properties): the relation is forced to the Einstein form by locality + second-order + leading-linearity + conservation (∇·T=0 = conservation of registered distinctions) via Lovelock; c the unit, G the one free particular, Λ allowed.
+- **F11 retained proposal:** the accepted rigidity theorem yields Einstein-plus-metric form conditionally after all hypotheses and a nondegenerate source coupling are admitted. P24 does not presently Register those framework premises or the full field equation; `G` and Lambda remain with their owning boundaries.
 
 **Argued (right structure, full proof owed):**
 - **(P20/F9a):** the tilt's monotonicity — pairing-overlap is monotone in target conditioning-degree.
@@ -82,4 +79,4 @@ The relation between the source (conditioning-degree concentration = the Hamilto
 **Open (the genuine frontier):**
 - **F10a:** the quantitative tensor form — that the cone-tilt-field is exactly the metric curvature tensor, with the tilt-variation giving Riemann/Ricci. This is the one substantive computation between "argued" and "sealed" for the whole gravity program. Everything else is proved or cleanly argued; F10a is where the real remaining work concentrates.
 
-**The honest headline.** On the sealed flat tier, the curved tier establishes — admissibly, with rate and density banned — that gravity is the coherence-participation re-weighting of next-configurations toward conditioning-degree concentration; that this is the *same* realizability-weighting law as Born; that it is curvature (not a flat-background force), universal, light-included; and that the curvature-source relation is **forced to the Einstein form** G_μν + Λg_μν = 8πG·T_μν given four properties (three established, one — second-order — resting on the open tensor-step F10a), with **c the unit, G the one free particular, Λ allowed**. What remains genuinely open is F10a (the tensor identification) and F9a (the tilt monotonicity); the rest is in hand. This is the strongest form of the result the framework supports without the F10a computation, and it is marked as a forcing-argument, not a completed field-equation derivation.
+**Current adjudication:** this page does not establish the full curved tier. P22 owns the bounded selected weak-field construction and graph/scalar normalization; P23 owns bounded source algebra and open tensor-source dynamics; P24 accepts the general theorem-family route while keeping exact schema/applicability, locality/order, tensor completeness, equation coupling, and nonlinear realization Open or Conjectured and Unregistered. The old forcing headline is superseded.

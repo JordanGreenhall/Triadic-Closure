@@ -95,6 +95,8 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `p22-weak-field-gravity-as-participation-curvature.md`
 - `p23-stress-energy-as-three-office-source.md`
 - `stress-energy-three-offices.md`
+- `p24-full-einstein-form-as-conditional-rigidity.md`
+- `12-gravity-full-gr-imports.md`
 - `lambda-derived.md`
 - `lambda-scaling-validation-task.md`
 

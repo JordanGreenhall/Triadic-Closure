@@ -99,15 +99,15 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **G1a** graph-dimension forced to 3 (With-holds-open) natively | (1) root | **Registered** |
 | **G1** criticality native (c-identity → gapless substrate); global frame-freedom native | (1) | **Registered** |
 | **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; exact local Lorentz is **Secured within its defended-posit ceiling** and **Registered, not Sealed** |
-| **Gate 2 (gravity)** second-order field equation from one-step conditioning locality (replaces Lovelock's *posited* premise) | strong-field | **Registered, conditional on G1** |
+| **Gate 2 (gravity)** exact locality-to-second-order continuum theorem | strong-field | **Conjectured / Unregistered under P24**; one-step locality alone permits higher-derivative finite-spacing corrections |
 | **Lovelock** uses locally finite tensor algebra compatible with an M6 rule-presented treatment; the global impredicativity audit is not discharged | strong-field | **Conditional** on an exhibited closed rule calculus and the separate manifold/carrier premises |
 | **Native horizon**: mass = self-closure; horizon = total self-closure (`d→∞`, `dτ/dt→0`) | (3) | **Registered** |
 | **Near-horizon Rindler form + native κ** (local, strong-field-solution-independent) | (3) | **Registered** (rule-given fragment) |
 | **Area = straddling-link count** (closure de-registers interior; no Planck-area) | (3) | **Registered** (shape); G→length conversion quarantined |
-| **`8π`** (Einstein coefficient: audited Lovelock + 4π solid angle from F11 + Bianchi trace-reversal) | (3) | **Registered (native)** |
+| **`8π`** Einstein/source coefficient | (3) | **Open across P22/P23/P24**: P22 graph/scalar normalization and `G`; P23 tensor-source semantics/conservation; P24 nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure |
 | **`2π`** (temperature period via carrier-conservation signature argument) | (3) | **Registered, not Sealed** — signature falsifier resolved (0.6 conserves the definite `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification |
-| **`1/4` coefficient is profile-independent** (the κ's cancel; mirrors GR's Wald-universality) | (3) | **Registered** (the cancellation); see §6 |
-| **γ = 1** (PPN; spatial metric carries same potential as clock, from pure-`T₀₀` self-closure + trace-reversal) | strong-field | **Registered** (weak-field) |
+| **`1/4` coefficient profile-cancellation** (the kappa factors cancel after premises are admitted) | (3) | **Conditional algebra; P27-owned standing**; P24 leaves `8 pi` and strong-field validity Open |
+| **γ = 1** (PPN spatial/clock response) | strong-field | **Open across P22/P23/P24**; the full spatial metric, physical tensor source, and source-coupled equation are absent |
 | **G5 / conflict (2)**: superposition lives in realizability, definiteness in actuality; actual geometric superposition forbidden by closure | (2) | modal split / permissive half **Registered** (3.3–3.4); no-actual-superposition **Registered** (2.6/2.7, one constitutive With-profile); geometry-rides-matter **Registered-strong** |
 | **Birth-order is gauge; only the partial order is physical; covariance falls out of realizability** | (2) | **Registered** (gauge status); covariance-in-form **Registered-strong** |
 | **Cut-amplitude**: horizon-cut phase and growth-cut phase are one object (no-foliation identifies spatial/temporal cuts) | (2),(3) | identity **Conjectured-strong**; classical skeleton = Rideout–Sorkin **Registered** |
@@ -190,19 +190,13 @@ network these scale as the boundary, not the volume. Area = straddling-link coun
 is the link, **no Planck-area**. `G` enters only the optional link→length conversion (values-side).
 
 **The coefficient `1/4`.**
-- `8π` (denominator): **Registered-native** — audited Lovelock + the analytic 4π solid-angle/distributional factor + Bianchi trace-reversal. F11's separate absent-script `41^3` report (`R²=0.997`, control `0.938`) is documentary evidence and does not warrant that analytic factor.
+- `8π` (denominator): **Open across P22/P23/P24.** P22 retains graph/scalar normalization and physical `G`; P23 retains the physical tensor-source map, coefficient semantics, evolution, and conservation; P24 retains the nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. The analytic `4 pi` factor, theorem-family import, and Bianchi compatibility do not settle these debts. F11's absent-script report remains documentary only.
 - `2π` (numerator): **Conjectured-strong-native** via the signature argument (§7, 2π).
-- **Profile-independence (Registered).** `dS = dM/T = 2π·dM/κ`; the first law `dM = (κ/8π)dA`
+- **Profile-cancellation algebra (conditional).** If the stated first-law and coefficient premises are admitted, `dS = dM/T = 2π·dM/κ`; the relation `dM = (κ/8π)dA`
   gives `dM/κ = dA/8π`; so `dS = dA/4` — **the κ's cancel**. `κ(M)` and `A(M)` (the strong-field
-  profile) do not appear in the coefficient. This is the framework-native shadow of why `A/4` is
-  *universal* in GR (Wald: coefficient from the field equations, not from a solution).
+  profile) do not appear in that conditional cancellation. This does not establish the premises or a framework `A/4` law.
 
-**Honest position of `1/4`.** With the standing conjectures accepted, `1/4 = 2π/8π` with `8π`
-Registered and `2π` Conjectured-strong. The **strong-field profile is not on the coefficient's
-path** (it cancels); it is needed only for *which* black hole has which temperature/area
-(predictions). What the coefficient still rides on: the `2π` (carrier-conservation signature) and
-the Einstein form holding strong-field at the horizon (S2 — favorable, since the horizon is
-locally regular; see §11).
+**P24 boundary on `1/4`.** The displayed cancellation is conditional algebra. P24 does not Register the `8π` denominator or the strong-field Einstein equation, so this downstream page cannot use the cancellation to upgrade either premise. The strong-field profile cancels algebraically only after those premises are admitted; P24 leaves strong-field validity Open. The remaining P27-side `2π` standing is separately owned.
 
 **Impredicativity audit (local compatibility shown; global audit Open).** “Recover the classical
 completed-continuum manifold” targets an object M6 does not admit as framework content. The
@@ -662,10 +656,9 @@ Kept explicit so the corpus shows where the discipline bit.
 - **G2 — phase identity. Registered** (A spatial + C internal).
 - **G3 — symptom. Conjectured** (diagnosis), with the gravity-vs-gauge asymmetry and the
   mislocation-contrast Registered given G2.
-- **G4 — `A/4`. Shape Registered; coefficient = `2π`(Registered, not Sealed) / `8π`(Registered);
-  profile-independent.** The `2π` signature falsifier is resolved (0.6 conserves the definite
+- **G4 — `A/4`. Shape standing is P27-owned; the coefficient calculation remains conditional on an Open P24 `8π`/strong-field premise.** The `2π` signature falsifier is resolved (0.6 conserves the definite
   `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification (modular flow =
-  distinction-conserving flow). Still owed: S2 (Einstein form strong-field — favorable, horizon
+  distinction-conserving flow). Still owed: S2 (Einstein-form strong-field validity — Open under P24; horizon
   locally regular); the boundary *count* itself rides Item 2's frequency=weight Open gate.
 - **G5 — superposition admissibility. Registered, and conflict (2) sealed for the matter-sourced
   case.** Both halves textually grounded (no-actual-superposition from 2.6/2.7; permissive half from
@@ -708,7 +701,7 @@ thermal-flow identification; Gate B for the boundary count).
 
 **Status line.** The dissolution (G2) and its symptom (G3) are Registered; the root gate (G1) is
 advanced to Registered-with-one-defended-posit; the scoreboard `A/4` has a Registered shape and a
-`2π`(Registered-not-Sealed)/`8π`(Registered) coefficient, with the profile shown irrelevant to it;
+conditional coefficient algebra whose `8π` and strong-field Einstein premises remain Open under P24;
 conflict (2) is **sealed for the matter-sourced case** — BMV-positive forced via the proven
 non-exactness of the holonomy, the **decisive tier met** — with only the holonomy *value*
 (empirical contact) and the **vacuum/source-free** case left open; and conflict (4) is **out of

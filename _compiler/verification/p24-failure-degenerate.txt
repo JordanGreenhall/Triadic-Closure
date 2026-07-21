@@ -1,0 +1,25 @@
+P24 deterministic failure capability: degenerate normalization
+
+Permanent verifier commit: ed03582b01b28cd5e479b72486252822b0da0140
+Exact base: 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
+
+Fixture mutation:
+- temporarily replaced the guarded `a == 0` exception in `_compiler/verify_p24.py` with a return of `(0, 0)`;
+- executed the full exact-base verifier;
+- restored the committed verifier before continuing.
+
+Executed output:
+P24 deterministic normalization verification
+base: 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
+changed Markdown files checked: 26
+local Markdown links checked: 401
+frontier placement: canonical local + global summary only
+P7/P19-P23 boundary: inherited, not reopened
+P28 boundary: Lambda source and cosmology not normalized
+retained computation: absent f11_assemble.py remains documentary
+exact algebra: nearest-neighbor expansion, nondegenerate normalization, and executed a=0 rejection checked
+FAIL degenerate a=0 branch incorrectly permits normalization
+
+Fixture exit: 1
+Expected result: PASS — incorrect permission of `a=0` normalization was rejected.
+Permanent verifier after restoration: PASS.
