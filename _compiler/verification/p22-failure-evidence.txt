@@ -1,0 +1,9 @@
+P22 deterministic normalization verification
+base: 9085a7443b9cb71808f8c3afc43161929db1263f
+fixture: replace the retained-report marker in mathematization-F10-resolved.md with an unqualified [checked] marker through an overlay
+expected exit: 1
+actual exit: 1
+changed Markdown files checked: 23
+local Markdown links checked: 324
+FAIL (1 errors)
+- mathematization-F10-resolved.md lacks authority guard: [reported check; scripts absent]
