@@ -15,6 +15,9 @@ sources:
   - p7-manifold-recovery-and-local-continuum.md
   - with-to-this-closure.md
   - p22-weak-field-gravity-as-participation-curvature.md
+  - p23-stress-energy-as-three-office-source.md
+  - p24-full-einstein-form-as-conditional-rigidity.md
+  - p25-grqm-background-conflict-and-nonrenormalizability.md
   - mass-as-self-closure.md
   - flavor-mark-metric-and-neutron.md
   - physics-domain-mature-status.md
@@ -103,6 +106,15 @@ Current status: [P24](p24-full-einstein-form-as-conditional-rigidity.md) accepts
 - Keep P22 graph/scalar normalization and `G`, P23 tensor-source semantics/evolution/conservation, P24 equation coupling/calibration/nonlinear expenditure, and P28 Lambda at their owners.
 - Do not let P25+ strong-field consumers upgrade the P24 equation on which they depend.
 
+### 5c. P25 GR/QM background conflict and non-renormalizability diagnosis
+
+Current status: [P25](p25-grqm-background-conflict-and-nonrenormalizability.md) Secures and Registers the bounded flattened/live spatial With-basis mapping and the internal-pairing/spatial-arena distinction. The overall claim that a vertical/horizontal mislocation explains perturbative gravitational non-renormalizability remains Conjectured and Unregistered as a completed derivation; only the basis/content and discrete-This/continuum-arena contrasts are conditionally Secured and Registered for diagnostic use.
+
+- Implement the settled/live operations on one selected P7-compatible spatial carrier before strengthening the phase identity beyond structural scope.
+- Do not turn `no intrinsic grain`, discreteness, or `arena-points are not closures` into a divergence, counterterm, finiteness, or ultraviolet-completion theorem.
+- Under separate research authorization, select one finite perturbative comparison target and define the translation and failure criterion before calculation.
+- Keep P7 carrier recovery, P16 quantitative gauge dynamics, P22/P24 gravity and coupling, P26 BMV, P27 horizon/information, and P28 Lambda at their owners.
+
 ## Priority 2 — Important downstream frontiers
 
 ### 6. P23 stress-energy source and dynamical generality
@@ -188,17 +200,18 @@ Current status: Open.
 6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open.
 7. P23 stress-energy: conditional source/decomposition mathematics normalized; office correspondence Conjectured/Unregistered; native weights, general stress dynamics, and conservation incomplete.
 8. P24 full field equation: general named theorem family accepted externally at conditional scope; exact schema/applicability, exact order theorem, tensor completeness, nonlinear realization, and coupling remain Conjectured/Open and Unregistered.
-9. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
-10. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
-11. Matter spectrum/generations: Open.
-12. Atoms/periodic landscape: Open as a normalized parent.
-13. Numerical spectrum: Open and deferred.
+9. P25 GR/QM background conflict: bounded phase and internal/spatial mappings Secured/Registered; overall non-renormalizability explanation Conjectured and Unregistered as a completed derivation.
+10. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
+11. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
+12. Matter spectrum/generations: Open.
+13. Atoms/periodic landscape: Open as a normalized parent.
+14. Numerical spectrum: Open and deferred.
 
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), and their shadows/consumers synchronized.
-3. Preserve P22/P23/P24 boundaries and do not reactivate absent computation scripts as evidence.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), and their shadows/consumers synchronized.
+3. Preserve P22/P23/P24/P25 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
 See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md), [d6-persistence](d6-persistence.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md).

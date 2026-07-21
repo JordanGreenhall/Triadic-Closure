@@ -1,0 +1,80 @@
+P25 FINAL VERIFICATION EVIDENCE
+
+Unit: P25 — GR/QM background conflict and non-renormalizability diagnosis
+Exact base: a965f72d339c18bb03cfe15bb036393d0c6cb378
+Verified content/evidence head: d6593a9c9bcc68e602b4c9b66c5525cb6fc5100c
+
+UNIT RESULT
+- Canonical owner: p25-grqm-background-conflict-and-nonrenormalizability.md
+- G2a flattened/live spatial With-basis mapping: Secured at bounded structural scope; Registered for mapped core.
+- G2b internal carrier/pairing versus spatial arena: Secured at bounded structural scope; Registered for distinction.
+- Overall G3 non-renormalizability explanation: Conjectured and Unregistered as a completed framework derivation.
+- Basis/content and discrete-This/continuum-arena contrasts: conditionally Secured and Registered only for bounded diagnostic use.
+- P8 owns the internal carrier/pairing; P18 owns metric selection over it. P7 retains spatial carrier recovery.
+- P22/P23/P24 and P26–P29 boundaries preserved.
+- No perturbative target, divergence, regulator, subtraction/counterterm class, or non-closure theorem imported or invented.
+
+DETERMINISTIC P25 VERIFIER
+Command:
+python3 _compiler/verify_p25.py --base a965f72d339c18bb03cfe15bb036393d0c6cb378
+Result: PASS, exit 0
+Reported:
+- changed Markdown checked: 16
+- changed-file local links checked: 356
+- frontier placement: canonical local owner + global summary only
+- G2/G3 independence countermodel: G2=true, completed-G3=false
+- canonical routing and P7/P8/P16/P18/P22/P24/P26–P28 boundaries: PASS
+
+FAILURE-CAPABILITY PROOFS
+- Duplicate P25 frontier placement overlay: rejected, exit 1.
+- Completed-G3 overgrade overlay: rejected, exit 1.
+- Internal-pairing/spatial-arena collapse overlay: rejected, exit 1.
+- Evidence: p25-failure-frontier.txt, p25-failure-overgrade.txt, p25-failure-collapse.txt.
+
+EXACT BOUNDED-LOGIC CHECK
+- Enumerated all four Boolean valuations of bounded G2 and completed G3.
+- Exact countermodel to G2-entails-completed-G3: G2=true, completed-G3=false.
+- Spatial and internal deployment tuples remain unequal.
+- Evidence: p25-exact-bounded-logic.txt.
+
+CUMULATIVE PROTECTED-UNIT VERIFICATION
+- P24 verifier at base 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a: PASS, exit 0.
+- P23 verifier at base 76207d7a2891f68a1d825ac19864e6d88a0dba80: PASS, exit 0.
+- P20 verifier at base 6d88509b900add3340f7a688ab58e66a0ee30134: PASS, exit 0.
+
+FRONTIER AND SECTION 10.2 CHECKS
+- P25-F1 living locations: canonical P25 owner and physics-domain-mature-status.md only.
+- P25-F2 living locations: canonical P25 owner and physics-domain-mature-status.md only.
+- Both local entries contain standing, strongest achieved result, missing content, dependencies/downstream effects, false-completion warning, and next action.
+- Both global entries contain equivalent standing and affected-claim information plus local-owner routing.
+
+SOURCE AUTHORITY AND PROPAGATION
+- grqm-problem-locator.md: retained detailed provenance, not authority.
+- grqm-conflict-status.md: concise P25+ multi-unit shadow.
+- Canonical-before-shadow routing: PASS in index, physics section guide, physics source map, reading order, and repository inventory.
+- Supersession, registration, work-plan, mature-status, and active smuggle-control propagation: PASS.
+- Stale G3-completion phrases: absent from active P25 surfaces.
+
+LINKS, COMPILATION, AND HYGIENE
+- Repository Markdown files: 180.
+- Repository local links checked: 809.
+- Broken links: 0.
+- python3 -m py_compile _compiler/verify_p25.py: PASS.
+- Exact-base git diff --check: PASS.
+- Total exact-base changed files before this final evidence file: 21.
+- Exact-base changed Markdown files before this final evidence file: 16.
+
+SCOPE AND SOURCE-GENERATION CHECK
+- Protected P7/P8/P18/P22/P23/P24/P28 canonical owners changed: none.
+- Workflow, shell, YAML, JSON, mutator, and restoration paths changed: none.
+- No tracked prose generator/importer/restoration path was found for P25 sources.
+- P26–P29 theory was not normalized in this unit.
+
+FRESH READER AND FIXED POINT
+- Fresh-reader review: PASS; no substantive correction requested.
+- Second compiler cycle: PASS; no substantive change required.
+- Repeated P25 verifier outputs: byte-identical.
+- Repeated-output SHA-256: 2c6a69de1fc36b0e76566c63670a018cafd4bef317ec3b56be21dbcdd8f6408f.
+
+FINAL VERDICT
+PASS. P25 is normalized at its exact bounded reach with source authority, two-axis grades, negative results, frontiers, neighbor ownership, canonical routing, adversarial rejection, fresh-reader review, and no-change fixed point preserved.

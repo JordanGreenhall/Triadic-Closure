@@ -1,0 +1,10 @@
+P25 deterministic rejection evidence — duplicate frontier placement
+
+Exact base: a965f72d339c18bb03cfe15bb036393d0c6cb378
+Verifier head: 4b03c1b1def8dd1978d534221ad2f2d6301fdab0
+Fixture: append `P25-F1 stale duplicate` to an overlay copy of `grqm-conflict-status.md`.
+Command: python3 _compiler/verify_p25.py --base a965f72d339c18bb03cfe15bb036393d0c6cb378 --overlay /tmp/p25-overlay-frontier
+Exit: 1
+
+P25 normalization verification: FAIL
+- P25-F1 must occur only in local/global files; got ['grqm-conflict-status.md', 'p25-grqm-background-conflict-and-nonrenormalizability.md', 'physics-domain-mature-status.md']

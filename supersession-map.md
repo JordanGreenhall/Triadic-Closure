@@ -92,6 +92,14 @@ Execution rule: use P23 for every stress-energy construction and grade. Do not c
 
 Execution rule: use P24 for every full-field grade. Do not infer exact continuum derivative order from a nearest-neighbor rule, source conservation from Bianchi, a nonzero source coupling from tensor rigidity, `8 pi G` from the analytic `4 pi` Green-function factor, or strong-field validity from downstream horizon claims.
 
+### P25 GR/QM background-conflict and non-renormalizability standing
+
+- Earlier detailed ledger: `grqm-problem-locator.md` described G2 as Registered and at points summarized both the G2 dissolution and G3 symptom as Registered, while also calling G3 Conjectured elsewhere.
+- Earlier concise control: `grqm-conflict-status.md` governed the combined P25+ GR/QM surface and could be read as granting one status to background, BMV, horizon, and Lambda material.
+- Current: [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) Secures and Registers the bounded flattened/live spatial With-basis mapping and internal/spatial distinction. The overall claim that mislocation explains perturbative gravitational non-renormalizability is Conjectured and Unregistered as a completed framework derivation. Its basis/content and mislocation contrasts are only conditionally Secured and Registered for bounded diagnostic use.
+
+Execution rule: use P25 for every G2/G3 claim and grade. Do not use a shared `g` symbol as the warrant for phase identity, collapse the internal pairing into the spatial arena, infer P7/P24 completion from the mapping, turn discreteness or `no intrinsic grain` into a perturbative theorem, or use P26–P28 results to upgrade P25.
+
 ### Spacetime dimensionality
 
 - Package-era caution: `cover-letter.md` and superseded `phi-forward-reconstruction.md` say exact `3+1` dimensionality is not derived and is locked-actual/open classification.
