@@ -416,7 +416,7 @@ Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure 
 
 ## Item 12 — Gravity full-GR imports
 
-See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) for the weak-field owner and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 import boundary. Item 12 **PASSES by separation**: the bounded P22 model is not promoted into tensor completeness, full-GR, or strong-field claims.
+See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) for the weak-field owner, [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) for the source-tensor owner, and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 import boundary. Item 12 **PASSES by separation**: neither the bounded P22 model nor P23 source kinematics is promoted into tensor completeness, full-GR, or strong-field claims.
 
 ### 12.1 Registered native gravity results
 
@@ -425,7 +425,7 @@ See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-a
 - **Harmonic exterior and scalar Poisson form:** two distinct three-dimensional reports are retained: underspecified `R²=0.9993`, and F11 `41^3` `R²=0.997` / control `0.938`. Neither report is Secured warrant. Conditional analytic `delta d=A/r+C_d`, `Phi=-delta d/d_0`, `G M:=A/d_0` gives the sign-consistent positive-source Poisson form. Physical `rho`/`G` remain Open.
 - **Lorentzian signature / metric re-coupling symmetry:** P5 Secures the null unit-identity natively; the full interval and re-coupling symmetry are **Secured conditionally and Registered–Sealed on a given carrier/manifold**, using Alexandrov-Zeeman as a named external theorem. P7/G1 carrier recovery remains incompletely sealed; exact local Lorentz on the recovered continuum is Secured within its defended-posit ceiling and Registered-not-Sealed.
 - **`Λ` structural meaning:** stress-energy of self-closure, `w=-1` — **Registered**; scaling `Λ ∼ R_H^-2` **Registered**; native complete `3 R_H^-2` **Conjectured-strong**; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open.
-- **Stress-energy three offices:** From=flux, This=energy, With=relational stress — **Registered representationally**; dynamical population Conjectured, With-mode unproven.
+- **P23 stress-energy source:** the real weighted second moment is symmetric and the observer-relative energy/flux/spatial-stress decomposition is **Secured conditionally**; the bounded This/From/With alignment is **Registered representationally**. An exact selected two-stream source populates all three sectors, including nonzero relational stress. Native weights/vectors, arbitrary spatial-stress population, coefficient meaning, and complete tensor conservation remain Conjectured/Open; scalar continuity alone is insufficient.
 
 ### 12.2 Conditional, Open, or values-side gravity content
 

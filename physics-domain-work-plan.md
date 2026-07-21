@@ -96,13 +96,13 @@ Current status: P22 Registers a bounded selected static model with reported geod
 
 ## Priority 2 — Important downstream frontiers
 
-### 6. Stress-energy dynamical generality
+### 6. P23 stress-energy source and dynamical generality
 
-Current status: representational core Registered; dynamical population incomplete.
+Current status: [P23](p23-stress-energy-as-three-office-source.md) Secures conditional second-moment symmetry and observer-relative decomposition mathematics, Registers the bounded This/From/With source reading, and supplies an exact selected two-stream population example. Native source weights/vectors, general spatial-stress population, coefficient meaning, and complete tensor conservation remain incomplete.
 
-- Exhibit actual population of all three office modes.
-- Supply framework-meaningful coefficients.
-- Resolve the With-mode gate.
+- Construct the native source-vector and real-weight map.
+- Derive full local balance equations; scalar continuity alone is insufficient.
+- Determine the general realized span and framework-meaningful coefficients of the spatial-stress sector.
 
 ### 7. Chiral fermion module, hypercharge, and electroweak particulars
 
@@ -177,7 +177,7 @@ Current status: Open.
 4. P8: same-kind internal carrier is the next normalization unit.
 5. P9: SU(3) bridge remains downstream of P8.
 6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open; P24 nonlinear form incomplete.
-7. Stress-energy: representational Registered; dynamical population incomplete.
+7. P23 stress-energy: conditional source/decomposition mathematics and bounded office reading normalized; native weights, general stress dynamics, and conservation incomplete.
 8. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
 9. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
 10. Matter spectrum/generations: Open.
@@ -187,7 +187,7 @@ Current status: Open.
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Execute P23 under the normalization-program catalog only after P22 merges.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), its concise shadow, and P22/P24 boundary consumers synchronized; P24 remains unopened until P23 merges.
 3. Preserve P22/P23/P24 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
