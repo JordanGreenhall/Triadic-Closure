@@ -132,7 +132,7 @@ The retained F10 source reports independent walk-versus-metric checks:
 
 These values are documentary evidence of what the absent F10 scripts were reported to produce. The report itself is not a Secured framework result and does not supply semantic Registration independently of the displayed selected model.
 
-Separately, conditional on a licensed continuum potential `Phi=-K/r` with `K>0`, its Hessian has positive radial stretching, negative tangential components, and zero trace away from the source. Those radial/tangential and vacuum-trace consequences are exact conditional mathematics. They do not establish the framework bridge that produces the potential.
+Separately, conditional on a licensed continuum potential `Phi=-K/r` with `K>0`, `Hess(Phi)` has radial eigenvalue `-2K/r^3` and two tangential eigenvalues `+K/r^3`, with zero trace away from the source. Under the selected weak-field convention `a=-grad(Phi)`, the tidal/geodesic-deviation operator is `-Hess(Phi)`; its radial eigenvalue `+2K/r^3` gives stretch, while its two tangential eigenvalues `-K/r^3` give squeeze. Those Hessian, tidal, and vacuum-trace consequences are exact conditional mathematics. They do not establish the framework bridge that produces the potential.
 
 They do not constitute a sealed theorem:
 

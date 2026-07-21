@@ -28,7 +28,7 @@ This source separately records an underspecified three-dimensional conditioning-
 - no lattice size, fit range, exact source profile, or executable specification is retained;
 - its relationship to F11's separately described `41^3`, `R²=0.997` / `0.938` graph-source report is unknown.
 
-The `0.9993` value is documentary evidence only and carries no Secured framework standing. Separately, if a licensed continuum clock potential `Phi=-K/r` is assumed, its analytic Hessian has radial stretch, tangential squeeze, and zero trace away from the source. That is conditional mathematics, not a numerical rerun and not a derivation of the profile-to-metric bridge.
+The `0.9993` value is documentary evidence only and carries no Secured framework standing. Separately, if a licensed continuum clock potential `Phi=-K/r` with `K>0` is assumed, `Hess(Phi)` has radial eigenvalue `-2K/r^3` and two tangential eigenvalues `+K/r^3`, with zero trace away from the source. Under the selected weak-field convention `a=-grad(Phi)`, the tidal/geodesic-deviation operator is `-Hess(Phi)`, so its radial eigenvalue `+2K/r^3` gives stretch and its two tangential eigenvalues `-K/r^3` give squeeze. That is conditional mathematics, not a numerical rerun and not a derivation of the profile-to-metric bridge.
 
 ## Weighting, self-maintenance, and selected metric response
 
