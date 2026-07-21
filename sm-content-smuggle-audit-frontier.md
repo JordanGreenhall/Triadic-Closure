@@ -250,7 +250,7 @@ mechanisms do not carry proof load.
 **Downstream dependencies:** neutron decay ledger, chiral face numbering, lepton
 module, frequency/rate language.
 
-**Cleanup work:** use [11-decay-product-registration](11-decay-product-registration.md) as control. Decay-as-
+**Cleanup work:** use [P21 With-to-This Closure and Decay](with-to-this-closure.md) as control. Decay-as-
 escape, charge/energy balance, and relative channel propensity may be native; all
 product identities, spectra, rates, antineutrino roles, W mechanism, and old two-
 circle receipt / n-p splitting packages remain empirical/Open/quarantined.

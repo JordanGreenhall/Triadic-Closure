@@ -77,7 +77,8 @@ Authority is claim-specific. No source governs all of P21.
 - **Supporting:** `flavor-mark-metric-and-neutron.md` for the detailed candidate inverse route and calculations, subject to P21 grades.
 - **Historical/adversarial:** `neutron-consideration.md` for the superseded forced-product and accumulation route.
 - **Dependency controls:** P6, P12, P15, P20, weighting, and amplitude/readout pages at their exact scopes.
-- **Merge/delete candidates after absorption:** the root Item 11 page and its nested loop README, which duplicate a boundary that belongs canonically in P21 and retain no unique derivation.
+- **Compressed supporting shadow:** the root Item 11 page retains the stable audit address but delegates every claim and grade to P21.
+- **Delete after absorption:** the nested Item 11 loop README, which retains no unique derivation, frontier, or execution value.
 - **Direct Jordan rulings:** none carries unique P21 theory work.
 
 ## Mature status
