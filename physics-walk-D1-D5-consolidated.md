@@ -126,7 +126,7 @@ On that given carrier/manifold, causal/null-preserving re-couplings are exactly 
 This source historically proposed that matured metric and rotation/Lorentz structure would allow a spin-statistics bridge. P3 does not supply or validate that bridge. Its completion and downstream uses remain later-owner work, including:
 
 - **The internal-structure (gauge) walk.** Any use of exchange character to fix the symmetry of a closed interior-triad unit requires the later spin-statistics and carrier constructions. P3 contributes no gauge result.
-- **The gravity walk (dynamical metric).** Energy concentration commits conditioning-capacity (a partition of finite coupling-slots between self-transformation and re-coupling): high energy slows local re-coupling (time dilation in essence), and asymmetrically (the directional part — curvature), tilting the causal cones toward energy concentration; free bodies follow tilted cones (geodesic free-fall, forceless, equivalence principle). *Walked in essence; the asymmetry/tilt mechanism (event-density / update-frequency weighting) and the quantitative field-equation are the flagged next deep-dive.*
+- **The gravity walk (P22 normalized).** P22 has completed bounded normalization of a selected static weak-field metric model. F8/F9 local weighting does not by itself change support or prove curvature; the selected inverse-clock map is additional. Exact profile-to-metric/source/clock construction, a common `3+1` implementation, physical source normalization, and `G` remain P22 frontiers.
 - **Mass** — now available as the energy-momentum invariant (the Lorentzian Casimir), filling the kind-label slot D4 left open.
 
 ### D5.4 The realizability-weighting law (cross-cutting, registered)
@@ -143,11 +143,11 @@ The current bounded result is a normalized weighting measure tied to coherence p
 
 **Other legacy records, not P3 results:** matter-extension, field-essence, force-essence, momentum/angular-momentum, spacetime-germ (D3); the invariance-algebra, kind-labels, Noether-essence, sector-preservation proposal, internal-charge-essence, CPT-germ (D4); the realizability-weighting law (cross-cutting). Their standings remain with their owning units.
 
-**Open, with named homes and flagged for the next sessions:**
-- The **gravity asymmetry** (dilation vs curvature; the conditioning-event-density / update-frequency mechanism and whether it integrates exactly to metric curvature) — the immediate next deep-dive.
+**Open, with named homes:**
+- **P22 gravity frontiers:** exact profile-to-metric/source/clock construction, a common `3+1` implementation, physical source normalization, and `G`. P22's selected static weak-field metric model has completed bounded normalization; anisotropic weighting alone is not the missing metric theorem.
 - **P7/G1 carrier recovery:** construct or otherwise seal the physical direction carrier/manifold. The conditional Lorentz theorem itself is complete; the recovery condition is not.
 - The **internal-structure (gauge) walk** (the specific symmetry of the This-flattened distinction; whether the interior triad's count is three) — the major unlocked thread.
-- The **realizability law's three gates**; the **gravity field-equation**.
+- The **realizability law's remaining gates**; P23/P24 own stress-energy and the full gravity field-equation beyond P22.
 - Then D6–D7 (persistence; the periodic-table handoff).
 
 **Superseded by this re-walk:** the "mediation carrier" of *d3-as-established* and *d4-as-established* (color is the This-flattening, not a carrier of guessed dimension); the piecemeal downstream discovery of time/space/color (all are D1 boundary-images); "mass-germ" at D4 (withdrawn; mass is a D5 Lorentzian Casimir).

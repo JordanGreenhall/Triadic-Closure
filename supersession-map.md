@@ -75,7 +75,7 @@ Execution rule: do not say Λ has no framework meaning; say its magnitude is not
 - Earlier negative source: `mathematization-F10-status.md` found the background-time drift and two-clock sign ambiguity and concluded F10 was not done.
 - Current: [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) Registers the selected static weak-field model at bounded scope. It retains the negative source as an adversarial constraint and the later numerical reports as supporting evidence, not rerun verification.
 
-Execution rule: use P22 for every weak-field gravity claim and grade. Do not infer a physical source from P17 mass language, infer the exact inverse clock from atomicity alone, combine separate `2+1` tidal and three-dimensional harmonic reports into a completed `3+1` metric, or treat `M=A/(Gd0)` as a derivation of source normalization or `G`. P23 owns stress-energy and P24 owns full-GR completion.
+Execution rule: use P22 for every weak-field gravity claim and grade. Do not infer a metric or support change from anisotropic weighting alone, infer a physical source from P17 mass language, infer the exact inverse clock from atomicity alone, identify the distinct `2+1`, underspecified `0.9993`, and F11 `41^3` `0.997/0.938` reports, combine them into a completed `3+1` metric, or treat the conditional definition `G M:=A/d0` as a derivation of source normalization or `G`. P23 owns stress-energy and P24 owns full-GR completion.
 
 ### Spacetime dimensionality
 

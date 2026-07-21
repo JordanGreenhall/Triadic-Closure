@@ -2,7 +2,7 @@
 
 # The Gravity Asymmetry: Curvature from the Coherence-Participation Gradient
 
-This source proposes gravitational curvature as anisotropic re-weighting of a standing's realizable-next null directions by a surrounding coherence-participation gradient. In the selected weak-field model, the reported harmonic `1/r` and tidal checks support a curvature interpretation rather than uniform drift. Dilation and curvature are kept distinct; P22 retains the missing source/clock and continuum bridges.
+This source proposes a surrounding coherence-participation profile as input to the selected P22 metric model. Anisotropic weighting changes relative participation over available next-directions; it does not by itself change support, null directions, or the metric. The displayed inverse-clock metric is an additional selected map whose bounded consequences are evaluated separately.
 
 ---
 
@@ -14,33 +14,34 @@ Change in coupling needs no driver. Each step, a standing P's configuration is r
 
 In the self-closure account, a mass `M` is an identity-maintaining standing whose re-selection is dominantly self-directed. This source **proposes** modeling such a standing as a localized concentration of coherence-participation. P22 keeps the map from structural mass to the required conserved-flow source Open; the proposal is the condition under which the asymmetry argument proceeds, not a consequence of the word “mass.”
 
-## Why the asymmetry is a cone-tilt, not a scalar drift (qualitative)
+## What anisotropic weighting does and does not establish
 
 Conditional on that source model, `P`'s realizable-next configurations are weighted by coherence-participation with the surrounding standing. Near `M`, a next-configuration modeled as more coherent with the localized profile carries greater participation weight.
 
-Coherence-with-M is **directional**: M has a location relative to P. The null directions pointing toward M (into M's high-coherence region) carry more participation-weight than those pointing away. The weighting is therefore **anisotropic** (direction-dependent), not isotropic. An isotropic weighting would shift P's expected position uniformly — a scalar drift. An anisotropic weighting reshapes the reachable-next null *set* itself, re-weighting the null directions toward M. That is a position-dependent null structure — **metric curvature** — not a scalar drift.
+Coherence with `M` is modeled as directional because `M` has a location relative to `P`. Alternatives toward the localized profile may therefore receive greater participation weight than alternatives away from it. This changes relative weighting or expectation over the available alternatives but does not logically alter their support, tilt a null cone, or establish metric curvature. P22's selected inverse-clock map is additional structure; the formal countermodel is recorded only in the canonical local/global frontier entries.
 
-## Why it is exactly metric curvature (quantitative — the gate)
+## Underspecified three-dimensional documentary report and analytic comparison
 
-The source models coherence-participation as spreading through a neighbor-by-neighbor conditioning network and reports a graph-Laplacian Green-function calculation on a three-dimensional network with a localized source:
+This source separately records an underspecified three-dimensional conditioning-network report:
 
-- the reported participation field fits the harmonic **1/r** form at `R² = 0.9993` and is proposed as the same modeled field as the F11 potential;
-- its **gradient** is the cone-tilt (the connection structure);
-- its **second derivative** gives the tidal structure: radial stretch and transverse squeeze of opposite sign, with the trace (the Laplacian) ≈ 0 in vacuum — a **traceless tidal tensor**, which is exactly vacuum curvature (geodesic deviation).
+- a localized profile reportedly fits a harmonic `1/r` form at `R²=0.9993`;
+- no lattice size, fit range, exact source profile, or executable specification is retained;
+- its relationship to F11's separately described `41^3`, `R²=0.997` / `0.938` graph-source report is unknown.
 
-Thus the reported participation-asymmetry model reproduces the harmonic `1/r` exterior and traceless tidal signature at its tested scopes. This supports the bounded P22 curvature registration; it does not close uniqueness, common `3+1` implementation, or source normalization.
+The `0.9993` value is documentary evidence only and carries no Secured framework standing. Separately, if a licensed continuum clock potential `Phi=-K/r` is assumed, its analytic Hessian has radial stretch, tangential squeeze, and zero trace away from the source. That is conditional mathematics, not a numerical rerun and not a derivation of the profile-to-metric bridge.
 
-## The two effects, cleanly separated
+## Weighting, self-maintenance, and selected metric response
 
-Dilation and curvature are now distinct effects with distinct sources:
+The source's ingredients have distinct standings:
 
-- **Dilation (scalar, isotropic).** P's *own* self-closure commits its re-selection capacity, slowing its advance uniformly (mass = self-closure). This is the gravitational time dilation. Its source is P's own committed capacity.
-- **Curvature (directional, anisotropic).** The *surrounding* mass's coherence-participation gradient weights P's null directions anisotropically toward M. This is the spacetime curvature (the cone-tilt). Its source is the surrounding participation gradient.
+- **Self-maintenance (scalar, isotropic).** P17 supplies structural mass-as-maintenance but does not by itself derive gravitational time dilation.
+- **Participation weighting (directional).** A surrounding profile can weight available alternatives anisotropically without changing their support.
+- **Selected metric response.** P22's additional inverse-clock/profile-to-metric map supplies the displayed `g00` geometry and its bounded conditional consequences.
 
-Own-self-closure → dilation; surrounding-coherence-gradient → curvature. The two are no longer conflated, and neither presupposes a background measure.
+These three claims must not be collapsed into one arrow. The local weight algebra remains positively warranted; the source and metric bridges remain Open or Conjectured.
 
 ## Result
 
-In the selected weak-field model, gravitational curvature is represented as anisotropic re-weighting of a standing's realizable-next null directions by the surrounding coherence-participation gradient. The retained reports combine a harmonic `1/r` exterior with a traceless tidal signature; within that model, minimally re-selected motion follows the resulting geodesic rather than a content-specific force law.
+In the selected weak-field model, a surrounding profile is fed through an additional inverse-clock metric map. Anisotropic weighting alone changes relative participation, not support or metric structure. The selected map has bounded conditional geometric consequences; all absent-script numerical values remain documentary reports.
 
-This bounded result brings together the realizability-weighting frame, the candidate reading of mass-as-self-closure as a localized participation concentration, and the reported F11 harmonic field. Scope: static weak-field/linear Newtonian modeling. P22 retains the mass-to-source and inverse-clock bridge, the common `3+1` continuum calculation, source normalization, and `G` as open dependencies.
+This source retains the candidate mass-to-profile reading and the underspecified `0.9993` report without identifying either with F11's separate report. Scope: selected static weak-field/linear Newtonian modeling. P22 retains the mass-to-source, profile-to-metric, inverse-clock, common `3+1`, source-normalization, and `G` bridges as Open or Conjectured.

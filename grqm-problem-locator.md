@@ -190,8 +190,7 @@ network these scale as the boundary, not the volume. Area = straddling-link coun
 is the link, **no Planck-area**. `G` enters only the optional link→length conversion (values-side).
 
 **The coefficient `1/4`.**
-- `8π` (denominator): **Registered-native** — audited Lovelock + the 4π solid angle (already
-  computed in F11's `∇²Φ = 4πρ`, R²=0.997) + Bianchi trace-reversal.
+- `8π` (denominator): **Registered-native** — audited Lovelock + the analytic 4π solid-angle/distributional factor + Bianchi trace-reversal. F11's separate absent-script `41^3` report (`R²=0.997`, control `0.938`) is documentary evidence and does not warrant that analytic factor.
 - `2π` (numerator): **Conjectured-strong-native** via the signature argument (§7, 2π).
 - **Profile-independence (Registered).** `dS = dM/T = 2π·dM/κ`; the first law `dM = (κ/8π)dA`
   gives `dM/κ = dA/8π`; so `dS = dA/4` — **the κ's cancel**. `κ(M)` and `A(M)` (the strong-field

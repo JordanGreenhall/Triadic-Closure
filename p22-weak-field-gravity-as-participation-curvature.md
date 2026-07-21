@@ -2,7 +2,7 @@
 title: P22 Weak-Field Gravity as Participation Curvature
 type: canonical
 semantic_unit: P22
-status: active-normalization
+status: current
 created: 2026-07-21
 updated: 2026-07-21
 confidence: bounded
@@ -33,9 +33,9 @@ historical_sources:
 
 ## Bounded verdict
 
-The corpus Registers a **static weak-field gravity construction** in which a position-dependent coherence-participation profile anisotropically weights realizable-next directions, supplies an attractive clock-sector potential in the displayed model, yields geodesic deflection and tidal deviation in reported finite simulations, and has a harmonic `1/r` exterior in the three-dimensional graph-Laplacian calculation. At this scope, gravity is represented as curvature rather than as a selective force on a fixed background.
+The corpus Registers a **selected static weak-field metric construction** in which a position-dependent profile is mapped by an additional inverse-clock rule to an attractive `g00` sector. The F8/F9 algebra Secures unequal local participation weights within its selected construction; unequal weights alone do not alter reachable directions, null support, or metric structure. Separately, absent-script finite calculations are retained as documentary reports, while the radial/tangential Hessian of an assumed licensed `-1/r` continuum potential is conditional mathematics.
 
-This is not a sealed derivation from the framework primitives. The construction inherits the conditions on realizability weighting, positive pairing, standing-state selection, rule calculus, carrier recovery, and continuum use. The source-to-profile and inverse-clock bridges are not uniquely forced; the reported curvature checks and the harmonic calculation have not been rerun because their scripts are absent from the repository; the checks do not yet form one common `3+1` implementation; and neither the scalar source normalization nor `G` is derived.
+This is not a sealed derivation from the framework primitives. The construction inherits the conditions on realizability weighting, positive pairing, standing-state selection, rule calculus, carrier recovery, and continuum use. The source-to-profile, profile/weight-to-metric, and inverse-clock bridges are not uniquely forced. Three numerical records remain distinct documentary reports: static `2+1` F10, an underspecified three-dimensional `R^2=0.9993` report, and F11's `41^3` `R^2=0.997` report with `0.938` control. Their scripts are absent. Neither a common `3+1` implementation, scalar source normalization, nor `G` is derived.
 
 P22 does not supply a stress-energy tensor, the full spatial metric, the full Einstein equation, strong-field behavior, horizons, or cosmology.
 
@@ -44,11 +44,11 @@ P22 does not supply a stress-energy tensor, the full spatial metric, the full Ei
 P22 includes:
 
 - the local discrete participation tilt inherited from M3/F8–F9;
-- the distinction between isotropic self-maintenance and an anisotropic surrounding gradient;
+- the distinction between local participation weighting and the additional selected metric map;
 - the displayed static clock map and `g00` potential;
-- weak-field geodesic steering;
-- radial stretch, transverse squeeze, and vacuum-trace checks;
-- the three-dimensional harmonic Green-function exterior;
+- retained documentary reports of weak-field geodesic steering and numerical tidal behavior;
+- conditional analytic radial stretch, transverse squeeze, and vacuum trace for an assumed `-1/r` potential;
+- two distinct retained three-dimensional radial-field reports of unresolved relationship;
 - the scalar Poisson form and its normalization boundary.
 
 P22 excludes:
@@ -65,8 +65,8 @@ P22 excludes:
 2. `mathematization-F8-done.md` supplies the conditional positive-pairing construction. Its positivity, dimension, frame, and selected-calculus conditions remain inherited.
 3. `mathematization-F9-done.md` supplies the conserved-flow standing-amplitude choice and the conditional local formula `C(e_i)=d_i/Sum_j d_j`. Its detailed file still records the conserved-flow object as selected rather than uniquely forced.
 4. `mathematization-F10-resolved.md` supersedes `mathematization-F10-status.md` for the displayed static weak-field model and retains the earlier sign/drift objections as adversarial constraints.
-5. `gravity-asymmetry.md` supplies the participation-gradient interpretation and the separation of self-maintenance from surrounding anisotropy.
-6. `mathematization-F11.md` supplies the reported three-dimensional graph-Laplacian calculation and scalar Poisson form. Its tensor-source and full-Einstein material belongs to P23/P24, not P22.
+5. `gravity-asymmetry.md` retains an underspecified three-dimensional `R^2=0.9993` report and the proposal that a surrounding profile participates in the metric construction. It does not prove that weighting changes support or that its report is the F11 run.
+6. `mathematization-F11.md` separately retains a described `41^3` graph-source report (`R^2=0.997`, `1/r^2` control `0.938`) and the scalar Poisson form. Its tensor-source and full-Einstein material belongs to P23/P24, not P22.
 7. Later status controls Register the bounded weak-field result while keeping the full metric, nonlinear sector, and `G` Open. Those controls govern permitted use but do not replace the detailed evidence.
 
 ### Superseded and retained formulations
@@ -87,18 +87,19 @@ C(e_i) = d_i / Sum_j d_j.
 
 This Secures the displayed algebra within that construction and Registers it as a bounded local participation tilt. It does not show that every physical standing uniquely selects the conserved-flow amplitude, that every local weighting becomes a trajectory law, or that normalized weight equals observed frequency.
 
-The gravity use adds a further interpretation: a spatially varying conserved-flow perturbation gives unequal participation weights to alternative next-directions. A direction toward a localized high-participation region can therefore carry greater weight than a direction away from it. The anisotropy, not the bare existence of a scalar weight, is the candidate geometric content.
+The gravity use adds a further interpretation: a spatially varying conserved-flow perturbation gives unequal participation weights to available next-directions. A direction toward a localized high-participation region can therefore carry greater weight than a direction away from it. This changes relative participation or expectation over the displayed alternatives. It does not by itself change their support, alter a null cone, or supply a metric. The selected inverse-clock construction is an additional map.
 
 ## 2. Dilation and curvature are different claims
 
 The retained gravity sources distinguish:
 
 - **self-maintenance / dilation:** a standing's own identity-maintaining closure commits its recurrence capacity;
-- **surrounding gradient / curvature:** a position-dependent participation profile changes the relative weighting of available next-directions.
+- **surrounding profile / weighting:** a position-dependent profile changes relative weighting over available next-directions;
+- **selected metric construction:** an additional profile-to-clock/metric map supplies the displayed `g00` geometry.
 
 P17 Secures mass as maintenance of identity-constituting closure at its structural scope. It does not by itself prove that a massive standing is a unique localized conditioning-degree excess, that its exterior perturbation is the selected Green-function source, or that its proper clock is exactly inverse degree. Those are P22 bridge conditions, not consequences hidden in the word “mass.”
 
-The geometric claim is therefore bounded: when the surrounding profile is directional and modifies the local null/next-direction structure on a licensed carrier, the effect is represented by a position-dependent metric/cone structure rather than by a content-specific force. Universality follows only within the model in which every standing reads the same local participation profile.
+The geometric claim is therefore bounded to the selected additional map. Directional weighting alone supplies no support or metric change. When an independently licensed profile-to-clock/metric map modifies the local metric structure on a licensed carrier, its consequences can be represented geometrically. Universality follows only within the model in which every standing reads the same profile through that common metric map.
 
 ## 3. Static clock sector and potential
 
@@ -119,7 +120,7 @@ at first weak-field order, so `g_00` has the standard static weak-field form up 
 
 This relation is **Secured within the displayed inverse-clock model and Registered for that bounded model**. Atomicity distinguishes a content's own step from ambient activity, but the corpus does not yet establish uniqueness of the exact inverse-degree map over all admissible clock maps. The earlier ambient-flow alternative and background-time drift remain countermodels that the final bridge must exclude natively.
 
-## 4. Geodesic and tidal checks
+## 4. Documentary reports and conditional analytic tidal mathematics
 
 The retained F10 source reports independent walk-versus-metric checks:
 
@@ -129,7 +130,9 @@ The retained F10 source reports independent walk-versus-metric checks:
 - measured/predicted tidal-component ratios approximately `0.90` and `0.95`;
 - an off-source trace around two orders smaller than the in-field components.
 
-The radial-stretch/transverse-squeeze opposition is the right qualitative signature for geodesic deviation, and a suppressed vacuum trace is consistent with a harmonic weak-field exterior. These reported checks support the Registered bounded interpretation that the selected tilt can be represented as weak-field curvature rather than uniform drift.
+These values are documentary evidence of what the absent F10 scripts were reported to produce. The report itself is not a Secured framework result and does not supply semantic Registration independently of the displayed selected model.
+
+Separately, conditional on a licensed continuum potential `Phi=-K/r` with `K>0`, its Hessian has positive radial stretching, negative tangential components, and zero trace away from the source. Those radial/tangential and vacuum-trace consequences are exact conditional mathematics. They do not establish the framework bridge that produces the potential.
 
 They do not constitute a sealed theorem:
 
@@ -139,40 +142,50 @@ They do not constitute a sealed theorem:
 - only the clock sector is exercised, not a complete spatial metric;
 - the continuum and differentiation operations inherit P7 and selected-rule-calculus conditions.
 
-## 5. Harmonic exterior and Poisson form
+## 5. Distinct three-dimensional reports, harmonic exterior, and Poisson form
 
-The F11 source reports a graph-Laplacian Green-function calculation on a `41^3` lattice. A localized graph source was fit by
+The corpus retains two three-dimensional documentary reports of unknown relationship:
 
-```text
-Phi(r) = A / r + C
-```
+- `gravity-asymmetry.md` reports `R^2=0.9993` for a three-dimensional conditioning-network `1/r` fit but supplies no lattice size, fit range, exact source profile, or executable specification;
+- F11 separately reports a `41^3` localized graph-source calculation with `R^2=0.997` and a `1/r^2` control of `0.938`.
 
-with reported `R^2 = 0.997`, compared with `0.938` for a `1/r^2` control. Independently of that report, the continuum mathematical implication is conditional and exact:
-
-```text
-nabla^2 Phi = 0                         away from the source,
-nabla^2 (1/r) = -4 pi delta^3(r)       distributionally.
-```
-
-Thus a licensed three-dimensional continuum limit of the graph Green function supplies a harmonic exterior, inverse-square gradient, and traceless Hessian away from the source. It also supplies the **Poisson form**
+No repository evidence identifies them as one run, one field implementation, or one common calculation. For the separately described F11 report, use distinct variables:
 
 ```text
-nabla^2 Phi = 4 pi G rho
+delta d(r) = A / r + C_d
+Phi(r) = -delta d(r) / d_0 = -A / (d_0 r) + C_Phi
 ```
 
-once a scalar source `rho` and conversion `G` are defined with the corresponding sign and normalization.
+with `A>0` and the reported fit values above. `delta d` is the graph/profile perturbation; `Phi` is the selected inverse-clock potential. Independently of either report, the continuum mathematical implication is conditional and exact:
 
-The form is Registered within the bounded weak-field construction. The coefficient is not a native numerical prediction here: the source itself defines the point-source mass through `M=A/(G d_0)`, and `G` remains Open/values-side. P22 does not infer a physical scalar density from bare node degree, nor does it construct P23's stress-energy tensor.
+```text
+nabla^2 delta d = -4 pi A delta^3(r),
+nabla^2 Phi = +(4 pi A/d_0) delta^3(r),
+nabla^2 Phi = 0                          away from the source.
+```
+
+Thus an assumed licensed three-dimensional continuum profile of this form supplies a harmonic exterior, inverse-square gradient, and traceless Hessian away from the source. It also supplies the **Poisson form** consistently if the physical source and calibration are conditionally defined by
+
+```text
+rho = M delta^3(r),
+G M := A/d_0,
+nabla^2 Phi = 4 pi G rho.
+```
+
+This is a definition pending physical source mapping and calibration, not a derivation of `M` or `G`. The conditional analytic form has a positive distributional source for the displayed negative clock potential. P22 does not infer a physical scalar density from bare node degree, nor does it construct P23's stress-energy tensor.
 
 ## 6. Claim and warrant ledger
 
 | Claim | Epistemic standing | Semantic registration | Warrant and reach |
 |---|---|---|---|
 | Conditional local formula `C(e_i)=d_i/Sum d_j` | Secured within the displayed F8/F9 construction | Registered | Algebra from the selected conserved-flow standing and licensed positive pairing; not a frequency theorem. |
-| Direction-dependent participation profile supplies a cone/metric interpretation | Secured conditionally on the carrier and common profile | Registered | Structural anisotropy plus P5/P7 metric carrier; not a unique dynamical derivation. |
-| Inverse-clock map and attractive `g00` model | Secured within the displayed clock selection; uniqueness Conjectured | Registered at static weak-field model scope | F10 construction and reported walk/geodesic comparison; alternative clock maps not natively excluded. |
-| Radial/tangential tidal signature | Secured as reported finite-model evidence | Registered at tested scope | Retained numerical report; scripts absent; static `2+1`; no full tensor theorem. |
-| Three-dimensional harmonic `1/r` exterior | Secured conditionally on source and continuum realization | Registered | Graph-Green-function report plus standard conditional continuum mathematics. |
+| Profile/weight-to-support or metric bridge | Open / Conjectured | Unregistered | The weight algebra supplies no support or metric map; an additional construction is required. |
+| Inverse-clock map and attractive `g00` model | Secured within the explicitly selected clock construction; uniqueness Conjectured | Registered at static weak-field model scope | Exact algebra once the map is selected; alternative support/clock maps not natively excluded. |
+| F10 static `2+1` geodesic/tidal values | Retained documentary report only | No independent framework registration | Scripts absent; the report is evidence about source history, not Secured warrant. |
+| Analytic radial/tangential Hessian and vacuum trace of assumed `Phi=-K/r` | Sealed conditional mathematics | Registered for use within the selected continuum model | Standard derivatives away from the source; does not derive the profile or metric bridge. |
+| Underspecified `R^2=0.9993` three-dimensional report | Retained documentary report only | No independent framework registration | No lattice size, fit range, source profile, script, or established relation to F11. |
+| F11 `41^3`, `R^2=0.997` / `0.938` report | Retained documentary report only | No independent framework registration | Separately described graph-source report; script absent. |
+| Three-dimensional harmonic `1/r` exterior | Secured as conditional analytic mathematics given source/profile and continuum realization | Registered conditionally | Standard Green-function mathematics, not secured by either report. |
 | Scalar Poisson form | Secured conditionally on the source map and continuum normalization | Registered | Harmonic Green function; exact physical `rho` map and `G` remain Open. |
 | Full spatial metric, full `3+1` weak-field implementation, nonlinear gravity | Open | Unregistered | P24 boundary. |
 | Stress-energy tensor and three-office source population | Open here | P23-owned | P22 uses at most a scalar source placeholder. |
@@ -188,11 +201,11 @@ The form is Registered within the bounded weak-field construction. The coefficie
 
 **Standing:** bounded model Registered; uniqueness and source bridge Conjectured/Open.
 
-**Missing:** an occupancy-independent source map, an exclusion of bare-degree/no-distance and ambient-clock countermodels, and a proof that atomicity forces the exact inverse relation rather than only distinguishing own advance from ambient activity.
+**Missing:** an occupancy-independent source map, a profile/weight-to-support-or-metric map, an exclusion of bare-degree/no-distance, ambient-clock, and flat fixed-support anisotropic-walk countermodels, and a proof that atomicity forces the exact inverse relation rather than only distinguishing own advance from ambient activity.
 
 **Affected claims:** attraction, universality, physical mass sourcing, and every later gravity consumer.
 
-**False-completion risk:** the words “mass,” “atomicity,” or “participation concentration” may make the selected source and clock maps look automatic.
+**False-completion risk:** the words “mass,” “atomicity,” or “participation concentration” may make the selected source and clock maps look automatic; unequal weights over unchanged reachable neighbors may be mistaken for changed support, a tilted cone, or metric curvature.
 
 **Next legitimate research action:** enumerate admissible source and clock maps and prove uniqueness or preserve a model family; do not choose by matching known gravity.
 
@@ -200,15 +213,15 @@ The form is Registered within the bounded weak-field construction. The coefficie
 
 **Open question:** Does the same licensed discrete construction yield the clock sector, spatial response, geodesic deviation, and harmonic exterior in one recovered `3+1` continuum?
 
-**Current strongest result:** reported static `2+1` geodesic/tidal checks and a separate three-spatial-dimensional graph-Green-function calculation, with P4 supplying exact dimension and P7 supplying bounded continuum recovery.
+**Current strongest result:** one static `2+1` F10 documentary report, one underspecified three-dimensional `R^2=0.9993` documentary report, one separate F11 `41^3` (`0.997` / `0.938`) documentary report, and conditional analytic `-1/r` Hessian mathematics, with P4 supplying exact dimension and P7 supplying bounded continuum recovery.
 
-**Standing:** Registered as bounded complementary evidence; full common implementation Open.
+**Standing:** the selected metric model and conditional analytic mathematics are Registered at bounded scope; the numerical reports are documentary only; a full common implementation is Open.
 
 **Missing:** the executable calculations, one common `3+1` model, an exhibited closed rule calculus for every derivative/limit, convergence and discretization controls, and the spatial metric sector.
 
 **Affected claims:** tensorial curvature, light bending, P24 tensor completeness, and strong-field extension.
 
-**False-completion risk:** combining a `2+1` tidal simulation and a `3D` harmonic calculation can be misread as a completed full `3+1` metric derivation.
+**False-completion risk:** combining the `2+1` report, either distinct three-dimensional report, and conditional analytic mathematics can be misread as one reproduced or completed full `3+1` metric derivation.
 
 **Next legitimate research action:** restore or reconstruct only under a separately authorized research task, then run one source-defined `3+1` convergence study with independent walk and metric specifications.
 
@@ -216,7 +229,7 @@ The form is Registered within the bounded weak-field construction. The coefficie
 
 **Open question:** What framework-native scalar source `rho` and calibration turn the harmonic graph equation into physically normalized `nabla^2 Phi=4 pi G rho`?
 
-**Current strongest result:** the conditional Green-function form fixes the harmonic exterior and geometric `4 pi` distributional factor once source normalization is supplied.
+**Current strongest result:** for `delta d=A/r+C_d` and the selected `Phi=-delta d/d_0`, conditional mathematics gives `nabla^2 Phi=+(4 pi A/d_0)delta^3`; the definition `G M:=A/d_0` then gives the positive-source Poisson form.
 
 **Standing:** Poisson form Registered conditionally; source map and `G` Open/values-side.
 
@@ -224,7 +237,7 @@ The form is Registered within the bounded weak-field construction. The coefficie
 
 **Affected claims:** force magnitude, quantitative weak-field prediction, later Einstein coupling, horizons, and cosmology.
 
-**False-completion risk:** defining `M=A/(G d_0)` can be mistaken for deriving either `M` or `G`.
+**False-completion risk:** calling the positive graph perturbation `delta d` and the negative clock potential `Phi` by one symbol creates a sign contradiction; defining `G M:=A/d_0` can be mistaken for deriving either `M` or `G`.
 
 **Next legitimate research action:** after P22-F1 and P23 source construction, derive a dimensionless source normalization before any empirical calibration.
 
@@ -233,16 +246,17 @@ The form is Registered within the bounded weak-field construction. The coefficie
 A downstream page may say:
 
 - P22 Registers a static weak-field participation-curvature construction at its stated conditions;
-- the displayed model has an attractive clock-sector potential, geodesic/tidal support, and a harmonic `1/r` exterior;
+- the displayed selected metric model has an attractive clock-sector potential and conditional analytic geodesic/tidal consequences, while numerical values remain documentary reports;
 - the scalar Poisson form follows conditionally from the licensed source and continuum normalization.
 
 A downstream page may not say:
 
 - normalized participation weight is observed frequency, transition rate, or trajectory certainty;
+- anisotropic weighting alone changes support, a null cone, or the metric;
 - P17 mass automatically supplies the needed graph source;
 - atomicity uniquely proves `d tau/dt=d_0/d` without the P22-F1 bridge;
 - the absent scripts were rerun or their reported figures are newly verified;
-- separate `2+1` and three-dimensional checks constitute a complete `3+1` metric;
+- the `2+1` report, either of the two distinct three-dimensional reports, or their combination constitutes a reproduced complete `3+1` metric;
 - `G`, `T_{mu nu}`, the full Einstein equation, or nonlinear gravity is derived by P22.
 
 ## 9. Source disposition

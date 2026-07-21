@@ -56,9 +56,9 @@ The √ in the amplitude (link 2) and the squaring in C (Born, F8) cancel: ampli
 **Flagged choices / owed:**
 - **[condition]** The positive-definite physics pairing assumed by F8 remains separately owned; M5's perfect rational form and M6's Hermitian extension at a selected closed rule-calculus grade do not discharge it. F9 also inherits that M6 calculus condition.
 - **[choice]** The standing-state is the conserved coherence-flow stationary amplitude (not the bare adjacency eigenvector). Motivated by ρ = conservation, and it is what makes the measure conserved — but "forced by ρ" is owed; currently "the framework-consistent choice," not "the unique choice."
-- **The continuum step is still ahead (F10).** This gives the *per-step, discrete* tilt law (linear in degree). Whether the weighting accumulates on an explicitly constructed physical carrier, under a selected closed M6 rule calculus, to exactly the metric curvature is **F10** — still the open frontier. F9 supplies the discrete local input but neither the continuum carrier nor the calculus audit.
+- **P22 owns the later gravity status.** F9 supplies the conditional discrete local tilt. P22 later Registers a selected static weak-field metric model while retaining the profile-to-metric/source/clock bridge, a common `3+1` implementation, source normalization, and `G` as Open. F9 itself does not construct the continuum carrier, show that unequal weighting changes support, or close those P22 bridges.
 
-**The chain, end to end:** conserved coherence-flow ⇒ measure = conditioning-degree (0.6) ⇒ amplitude = √degree (0.4/Born) ⇒ C(e_i) = degree/Σdegree (the tilt, linear). Each arrow a framework fact; the one selection (conserved-flow object) flagged. This is the de-smuggled gravity tilt as an explicit law, ready for the F10 continuum/curvature computation.
+**The bounded chain:** conserved coherence-flow ⇒ measure = conditioning-degree (0.6) ⇒ amplitude = √degree (0.4/Born) ⇒ C(e_i) = degree/Σdegree (the tilt, linear). Each arrow retains the conditions and selected conserved-flow object stated above. This is a local weight law, not a metric/support theorem; use P22 for the completed bounded normalization and live bridges.
 
 ---
 

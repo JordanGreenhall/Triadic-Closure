@@ -23,14 +23,14 @@ This is the concise result shadow for [P22 Weak-Field Gravity as Participation C
 
 ## Mature status
 
-Status: **Registered at the bounded static weak-field model scope**. The participation/source/clock map is not uniquely forced, the reported finite checks are not reproducible from this repository because their scripts are absent, the `2+1` tidal and three-dimensional harmonic calculations are not one complete `3+1` implementation, and the scalar source normalization and `G` remain Open.
+Status: **Registered at the bounded selected static weak-field metric-model scope**. Local weight comparison is Secured within the selected F8/F9 construction, but anisotropic weighting alone does not change support or prove a metric. The profile/source/clock map is not uniquely forced. Absent-script values are documentary reports only; F10 `2+1`, the underspecified three-dimensional `0.9993` report, and F11's `41^3` `0.997/0.938` report remain distinct. Scalar source normalization and `G` remain Open.
 
 ## Current chain
 
-1. Conditional F8/F9 input: a licensed positive pairing and selected conserved-flow standing give `C(e_i)=d_i/Sum d_j` as a normalized local participation weight, not a frequency or rate.
-2. Static F10 model: the selected inverse clock gives `g00=-(d0/d)^2` and an attractive first-order potential.
-3. Reported finite checks: walk/geodesic agreement, radial stretch, transverse squeeze, and a suppressed vacuum trace support curvature rather than uniform drift within their tested model.
-4. F11 weak-field portion: a three-dimensional graph Green function supplies a harmonic `1/r` exterior and the conditional scalar Poisson form.
+1. Conditional F8/F9 input: a licensed positive pairing and selected conserved-flow standing give `C(e_i)=d_i/Sum d_j` as a normalized local participation weight, not a frequency, rate, support change, or metric theorem.
+2. Static F10 model: an additional selected inverse-clock map gives `g00=-(d0/d)^2` and an attractive first-order potential.
+3. Evidence separation: F10 numerical values and two distinct three-dimensional reports remain documentary evidence only. Conditional analytic `Phi=-K/r` mathematics supplies radial/tangential Hessian and vacuum-trace consequences.
+4. Sign-consistent Poisson form: `delta d=A/r+C_d`, `Phi=-delta d/d0`, and the conditional definition `G M:=A/d0` give `nabla^2 Phi=4 pi G rho` for `rho=M delta^3`.
 5. P22 keeps source/clock uniqueness, one common `3+1` continuum implementation, scalar source normalization, and `G` live as local/global frontiers.
 
 ## Open gates
@@ -43,7 +43,7 @@ Status: **Registered at the bounded static weak-field model scope**. The partici
 
 ## Grade adjudication
 
-The conditional local weighting algebra, displayed inverse-clock model, reported finite tidal checks, and harmonic exterior jointly support semantic Registration of the bounded static weak-field construction. They do not Secure a unique source/clock derivation or a complete physical `3+1` continuum theorem. The scalar Poisson form is conditional on the source map and normalization; defining `M=A/(G d0)` does not compute `G`.
+The conditional local weighting algebra remains positively Secured at its selected scope. The displayed inverse-clock metric model is Registered at bounded scope, while its bridge and uniqueness remain Open/Conjectured. Documentary numerical reports carry no independent Secured warrant. Conditional analytic `-1/r` mathematics supplies the harmonic exterior and tidal Hessian. The scalar Poisson form is conditional on the source map and normalization; defining `G M:=A/d0` computes neither `M` nor `G`.
 
 Full-Einstein standing is not adjudicated here. Use [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) until P24 is normalized.
 

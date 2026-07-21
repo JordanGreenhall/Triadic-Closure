@@ -18,15 +18,21 @@ The selected F10 model reports geodesic/tidal evidence in a static weak-field cl
 
 Within the selected construction, F9 and the F11 model use one conserved-flow object. This is conditional internal consistency, not a source-map derivation.
 
-## 3. The reported harmonic-exterior result
+## 3. The separately reported harmonic-exterior result
 
-**[reported check; script absent] (`f11_harmonic.py`)** On a `41^3` lattice, the source reports that a localized graph-source potential fits `Phi=A/r+C` with `R²=0.997`, compared with `0.938` for a `1/r²` control. Conditional on the stated continuum realization, the standard three-dimensional Green function has a harmonic `1/r` exterior.
+**[reported check; script absent] (`f11_harmonic.py`)** On a `41^3` lattice, this source reports that a localized graph/profile perturbation fits `delta d=A/r+C_d` with `R²=0.997`, compared with `0.938` for a `1/r²` control. This is a distinct documentary report of unknown relationship to `gravity-asymmetry.md`'s underspecified `R²=0.9993` report. Conditional on the stated continuum realization, the standard three-dimensional Green function has a harmonic `1/r` exterior.
 
-**Conditional consequence — Poisson form:** with `Phi=-(d-d0)/d0` on the selected conserved-flow potential, harmonic in vacuum:
-- vacuum: ∇²Φ = 0 (the field is harmonic away from sources) — matches F10's traceless vacuum tidal tensor;
-- source: ∇²(A/r) = −4πA·δ³, so ∇²Φ = (4πA/d₀)·δ³ = 4πGρ with point mass M = A/(Gd₀).
+**Conditional consequence — Poisson form:** distinguish the positive graph/profile perturbation from the selected inverse-clock potential:
 
-Thus the conditional continuum Green-function construction supplies the **Poisson form** `∇²Φ = 4πGρ` after a scalar source and conversion are defined. The harmonic `1/r` exterior is the bounded result; the physical mass/source map and `G` are not derived by defining `M=A/(Gd0)`.
+```text
+delta d(r) = A/r + C_d,
+Phi(r) = -delta d(r)/d_0 = -A/(d_0 r) + C_Phi,
+nabla^2 Phi = +(4 pi A/d_0) delta^3(r).
+```
+
+Thus `Phi` is harmonic away from the source. If `rho=M delta^3(r)` and `G M:=A/d_0` are conditionally defined, the same sign-consistent equation is `nabla^2 Phi=4 pi G rho`.
+
+Thus the conditional continuum Green-function construction supplies the **Poisson form** `nabla^2 Phi=4 pi G rho` after a scalar source and conversion are defined. The harmonic `1/r` exterior is conditional analytic mathematics; the absent-script value is documentary evidence only. The physical mass/source map and `G` are not derived by defining `G M:=A/d_0`.
 
 ## 4. Retained P23/P24 proposal — full tensor forcing argument
 
@@ -48,8 +54,8 @@ The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is re
 
 ## 5. Honest status of F11
 
-**Reported and conditionally Registered under P22:**
-- The graph-Laplacian calculation gives a harmonic vacuum exterior (`1/r` in three dimensions, reported `R² = 0.997`). The scalar Poisson form follows once the source map and normalization are supplied. The named computation was not rerun, and P22 keeps the physical mass-source identification and source normalization Open.
+**Retained report and separately Registered conditional mathematics under P22:**
+- This source separately reports a `41^3` graph-source fit (`R²=0.997`, control `0.938`); its relation to the underspecified `0.9993` report is unknown. The report is documentary evidence only. Conditional analytic `1/r` mathematics supplies the harmonic exterior and scalar Poisson form once the source map and normalization are supplied. P22 keeps the physical mass-source identification and source normalization Open.
 
 **Forced, on demonstrated curvature (Lovelock), with one real gap:**
 - G_μν + Λg_μν = 8πG·T_μν, given four premises — three shown/framework (locality, second-order, conservation), the fourth (the source is exactly a symmetric rank-2 stress-energy with the right tensor structure) **argued, not computed**. This is the one remaining real computation for the full tensor equation.
@@ -89,5 +95,5 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 
 ### Appendix: named scripts absent from the repository; retained output claims above
 - `f11_poisson.py` — the weak-field reduction; the harmonic-exterior condition identified; symbolic ∇²(1/r)=0.
-- `f11_harmonic.py` — the conserved-flow Green's function on a 3D lattice: 1/r falloff, R² = 0.997 vs 1/r² control 0.938.
+- `f11_harmonic.py` — absent script named for the separately described `41^3` graph-source report: `1/r` fit `R²=0.997` versus `1/r²` control `0.938`; unknown relation to the `0.9993` report.
 - `f11_assemble.py` — weak-field closure + the Lovelock forcing argument with the four premises checked and gaps stated.
