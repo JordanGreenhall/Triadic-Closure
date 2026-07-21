@@ -109,7 +109,7 @@ Execution rule: use P20 for every baryon-relation claim and grade. Use the integ
 - Earlier Item 11 control: `11-decay-product-registration.md` treated escape over a coherence barrier and relative channel weighting as a generic Registered decay skeleton without requiring a concrete barrier or amplitude frame.
 - Current: [P21 With-to-This Closure and Decay](with-to-this-closure.md) Registers the displayed forward closure and generic structural decay classifier. The office-form inverse and neutron `udd -> uud` passage are Conjectured. Electron production is Open internally; antineutrino receipt is Conjectured; observations are empirical; rates and weak mechanism remain Open or quarantined.
 
-Execution rule: do not reverse a forward attractor into an inverse theorem; infer a coherence barrier without exhibiting it; generate products from conservation constraints; or promote mark overlap, weighting, repeated reselection, or observation into transition probability, certainty, frequency, or lifetime. Use P21-F1 through P21-F3 for the missing passage, product settlement, and hazard/calibration work.
+Execution rule: do not reverse a forward attractor into an inverse theorem; infer a coherence barrier without exhibiting it; generate products from conservation constraints; or promote mark overlap, weighting, repeated reselection, or observation into transition probability, certainty, frequency, or lifetime. Use P21's local frontier for the missing passage, product settlement, and hazard/calibration work.
 
 ## Authority-control succession
 

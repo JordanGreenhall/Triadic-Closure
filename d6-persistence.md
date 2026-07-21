@@ -150,7 +150,7 @@ An escape weight requires an applicable measure over alternatives. A rate additi
 - clock or step calibration;
 - relevant scale and coupling data.
 
-P20 supplies a squared mark overlap mathematically but only a Conjectured physical access weight. P21 leaves the inverse passage Conjectured and records the missing local hazard, frequency, and calibration in P21-F3. No observed neutron lifetime follows.
+P20 supplies a squared mark overlap mathematically but only a Conjectured physical access weight. P21 leaves the inverse passage Conjectured and records the missing local hazard, frequency, and calibration in its local frontier. No observed neutron lifetime follows.
 
 ## 8. Identity through succession
 
@@ -199,7 +199,7 @@ Next action: survey remaining downstream closures by constitutive dependency, no
 
 Established: tested baryon return dynamics; P14 mark-overlap mathematics; P21's Registered generic decay classifier; empirical neutron decay.
 
-Open: P20 sign and access bridges; P21-F1 inverse-passage map; P21-F2 product settlement; P21-F3 channel/hazard construction; general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
+Open: P20 sign and access bridges; P21 inverse-passage map, product settlement, and channel/hazard construction; general hazard laws where claimed, frequency bridge, clock calibration, scale/coupling inputs, observed lifetimes and branching ratios.
 
 Next action: test later concrete decay results for actual rate-producing structure without either dismissing them as “later” or upgrading structural weights into frequencies.
 

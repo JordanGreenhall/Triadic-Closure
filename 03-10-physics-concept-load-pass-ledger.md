@@ -402,7 +402,7 @@ See [P21 With-to-This Closure and Decay](with-to-this-closure.md). Item 11 **PAS
 - **Product identities:** P21-governed. Electron production is Open internally and empirical observationally; the retained neutron ledger is supporting source material, not a Registered product derivation.
 - **Antineutrino as such:** Conjectured as a From-With receipt reading; empirical as an observed particle label; not a Registered native output role.
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
-- **Lifetime / transition rate / branching ratios:** Open internally and empirical observationally. Do not route these to generic frequency=weight; P21-F3 records the missing local hazard and calibration.
+- **Lifetime / transition rate / branching ratios:** Open internally and empirical observationally. Do not route these to generic frequency=weight; P21's local frontier records the missing local hazard and calibration.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
 - **Neutron-decay specifics:** P21 keeps the office-form inverse, neutron passage, and kinetic-release reading Conjectured or Open at their stated scopes. P20 retains the mark algebra while keeping the sign bridge, physical `1/4` access weight, and magnitude Conjectured. The old two-circle / flavor-`SU(3)` `A_2` package is historical.
 

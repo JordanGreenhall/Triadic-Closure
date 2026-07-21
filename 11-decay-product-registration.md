@@ -34,4 +34,4 @@ Inherited charge, energy, weighting, and chiral structures are admissibility cri
 
 ## Verdict
 
-**PASS by bounded registration plus quarantine.** This shadow exists only so Item 11 references resolve to P21's canonical boundary. P21-F1 through P21-F3 own the unresolved inverse passage, product settlement, and hazard/calibration work.
+**PASS by bounded registration plus quarantine.** This shadow exists only so Item 11 references resolve to P21's canonical boundary. P21's local frontier owns the unresolved inverse passage, product settlement, and hazard/calibration work.
