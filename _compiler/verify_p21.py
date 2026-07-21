@@ -20,6 +20,7 @@ from pathlib import Path
 LOCAL = "with-to-this-closure.md"
 GLOBAL = "physics-domain-mature-status.md"
 FRONTIERS = ("P21-F1", "P21-F2", "P21-F3")
+INHERITED_P20_FRONTIERS = ("P20-F1", "P20-F2")
 P21_BASE = "71a6f42de3b1f3c2ef26666a32f9d829777a5da6"
 
 
@@ -153,6 +154,21 @@ def main() -> int:
             f"{frontier} must have one global entry",
         )
 
+    for frontier in INHERITED_P20_FRONTIERS:
+        files = []
+        for path in root.rglob("*.md"):
+            rel = path.relative_to(root)
+            if ".git" in rel.parts or "_compiler/verification" in rel.as_posix():
+                continue
+            if frontier in corpus_text(root, rel, overlay):
+                files.append(rel.as_posix())
+        require(
+            errors,
+            sorted(files)
+            == sorted([GLOBAL, "p20-baryon-closure-and-proton-neutron-relation.md"]),
+            f"{frontier} inherited placement must remain P20 local/global only; got {sorted(files)}",
+        )
+
     required_status = (
         "**Generic structural decay classifier:** Registered",
         "office reading `This -> With + From` is Conjectured",
@@ -172,6 +188,10 @@ def main() -> int:
         "03-10-physics-concept-load-pass-ledger.md",
         "07-particle-identity-ledger.md",
         "11-decay-product-registration.md",
+        "06-spin-helicity-chirality-lift.md",
+        "06-spin-helicity-chirality-lift/06-spin-helicity-chirality-lift Readme.md",
+        "p12-spin-helicity-handedness-and-chiral-coupling.md",
+        "chiral-coupling-result.md",
         "d6-persistence.md",
         "flavor-mark-metric-and-neutron.md",
         "p13-particle-identity-and-native-role-taxonomy.md",
@@ -179,6 +199,10 @@ def main() -> int:
         "physics-section-guide.md",
         "physics-source-map.md",
         "physics-walk-checklist.md",
+        "physics-walk-D1-D5-consolidated.md",
+        "physics-walk-d1-d5-consolidated.md",
+        "realizability-weighting-law.md",
+        "amplitude-readout-theorem.md",
         "sm-content-smuggle-audit-frontier.md",
         "index.md",
     )
@@ -190,6 +214,10 @@ def main() -> int:
         "metastable standing escaping over a coherence-barrier",
         "[Registered: structure of the drain.]",
         "products are forced, not incidental",
+        "binary handedness L/R + maximal chirality / V-A + parity violation",
+        "maximal chirality/V-A and parity violation follow",
+        "frequency proportional to coherence-participation",
+        "**Boltzmann** the energy-measure instance",
     )
     for phrase in banned:
         require(errors, phrase not in combined, f"obsolete active formulation remains: {phrase}")
@@ -203,6 +231,18 @@ def main() -> int:
     )
     for phrase in consumer_guards:
         require(errors, phrase in combined, f"P21 consumer guard missing: {phrase}")
+
+    correction_guards = (
+        "The chiral/vectorial coupling distinction and binary handedness are Registered at their bounded structural scopes.",
+        "Weak-interaction chirality is empirical corroboration only.",
+        "Maximal chirality and exact `V−A` as framework derivations remain Open",
+        "identity of weight with observed long-run frequency remains Open",
+        "claimed Boltzmann end-to-end instance remains undone",
+        "escape weights are not rates",
+        "Weight is not frequency",
+    )
+    for phrase in correction_guards:
+        require(errors, phrase in combined, f"correction standing guard missing: {phrase}")
 
     historical = corpus_text(root, "neutron-consideration.md", overlay)
     require(
@@ -287,6 +327,7 @@ def main() -> int:
     print(f"changed Markdown files checked: {len(changed)}")
     print(f"local Markdown links checked: {link_count}")
     print("frontier placement: canonical local + global summary only")
+    print("inherited P20-F1/P20-F2 placement: P20 local + global summary only")
     print("P19/P20 boundary: inherited, not reopened")
     print("P22 gravity boundary: excluded")
     print("Item 11 nested loop README: absent")
@@ -299,6 +340,8 @@ def main() -> int:
     print("inverse passage: Conjectured, not inferred from forward closure")
     print("products: bounded by internal standing versus observation")
     print("rate/frequency/mechanism: Open, empirical, or quarantined")
+    print("chirality: bounded structural result preserved; exact V−A Open")
+    print("weighting: conditional measure preserved; observed frequency bridge Open")
     print("diff hygiene: checked")
     print("PASS")
     return 0
