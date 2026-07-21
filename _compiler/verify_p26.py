@@ -87,15 +87,15 @@ def main() -> None:
         "P26's postcosm phase is non-exact given complexness",
         "BMV-positive follows from the framework",
         "No intrinsic gravitational decoherence floor",
-        "Entanglement without on-shell gravitational radiation",
+        "Entanglement without on-shell radiation",
         "standard gravitational entangling phase",
         "external comparison",
-        "does not imply",
+        "does not logically entail",
         "not yet a framework-level falsifier",
         "P26-F1",
         "P26-F2",
         "P26-F3",
-        "P27 owns the phase-period",
+        "P27's horizon phase period",
         "AUD-015",
     ):
         require(owner, needle, OWNER)
