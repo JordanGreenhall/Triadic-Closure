@@ -1,0 +1,50 @@
+P23 final verification
+
+exact base: 76207d7a2891f68a1d825ac19864e6d88a0dba80
+verified content head: 848397ab1ffa14ba3aa63a0995dcfd29b925f07b
+branch: agent/normalization-p23-persistent
+
+P23 deterministic verifier:
+- changed Markdown files checked: 22
+- local Markdown links checked: 364
+- frontier placement: canonical local + global summary only
+- P19/P20/P21 boundary: inherited, not reopened
+- P22 source normalization and G: P22-owned
+- P24/P28 field equation and Lambda: not normalized
+- exact symmetry, rank, sector population, and continuity counterexample: checked
+- result: PASS
+
+Cumulative P20 verifier:
+- changed Markdown files checked: 61
+- local Markdown links checked: 498
+- protected P19/P20/P21 state: PASS
+
+Repository-wide local-link scan:
+- tracked Markdown files: 172
+- local links checked: 763
+- broken local links: 0
+
+Additional checks:
+- Python compilation: PASS
+- exact-base git diff check: PASS
+- exact merge base equals origin/main: 76207d7a2891f68a1d825ac19864e6d88a0dba80
+- commits above base: 13
+- changed files above base before this evidence artifact: 27
+- protected P19/P20/P21/P28 owner changes: []
+- tracked tools/workflows write paths: []
+- living frontier files: p23-stress-energy-as-three-office-source.md; physics-domain-mature-status.md
+- working tree before this evidence artifact: clean
+
+Failure-capability fixtures:
+- third frontier location: verifier exit 1
+- general multi-stream to rank-one collapse: verifier exit 1
+- scalar-continuity conservation claim: verifier exit 1
+
+Final bounded standing:
+- real weighted second-moment symmetry and observer decomposition: Secured conditionally;
+- physical energy/flux/stress names: Registered only for an independently licensed physical source;
+- framework second moment as physical stress-energy: candidate pending native source map and coefficient semantics;
+- exact This/From/With correspondence: selected/Conjectured and Unregistered;
+- selected two-stream tensor-sector population: Secured conditionally;
+- native weights/vectors, arbitrary stress span, and covariant conservation: live P23 frontiers;
+- P22 normalization/G, P24 field equations, and P28 Lambda: unchanged boundaries.
