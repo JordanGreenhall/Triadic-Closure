@@ -33,7 +33,7 @@ historical_sources:
 
 ## Bounded verdict
 
-The corpus Registers a **selected static weak-field metric construction** in which a position-dependent profile is mapped by an additional inverse-clock rule to an attractive `g00` sector. The F8/F9 algebra Secures unequal local participation weights within its selected construction; unequal weights alone do not alter reachable directions, null support, or metric structure. Separately, absent-script finite calculations are retained as documentary reports, while the radial/tangential Hessian of an assumed licensed `-1/r` continuum potential is conditional mathematics.
+The corpus Registers a **selected static weak-field metric construction** in which a directional participation profile is identified with geometric/cone/metric content and mapped by an additional inverse-clock rule to an attractive `g00` sector. The F8/F9 algebra Secures the displayed local participation weights within its selected construction, but does not by itself derive P22's further geometric identification. P22 retains that identification as a selected/Conjectured framework bridge inside the bounded model. Separately, absent-script finite calculations are retained as documentary reports, while the radial/tangential Hessian of an explicitly assumed `-1/r` continuum potential is conditional analytic mathematics.
 
 This is not a sealed derivation from the framework primitives. The construction inherits the conditions on realizability weighting, positive pairing, standing-state selection, rule calculus, carrier recovery, and continuum use. The source-to-profile, profile/weight-to-metric, and inverse-clock bridges are not uniquely forced. Three numerical records remain distinct documentary reports: static `2+1` F10, an underspecified three-dimensional `R^2=0.9993` report, and F11's `41^3` `R^2=0.997` report with `0.938` control. Their scripts are absent. Neither a common `3+1` implementation, scalar source normalization, nor `G` is derived.
 
@@ -65,7 +65,7 @@ P22 excludes:
 2. `mathematization-F8-done.md` supplies the conditional positive-pairing construction. Its positivity, dimension, frame, and selected-calculus conditions remain inherited.
 3. `mathematization-F9-done.md` supplies the conserved-flow standing-amplitude choice and the conditional local formula `C(e_i)=d_i/Sum_j d_j`. Its detailed file still records the conserved-flow object as selected rather than uniquely forced.
 4. `mathematization-F10-resolved.md` supersedes `mathematization-F10-status.md` for the displayed static weak-field model and retains the earlier sign/drift objections as adversarial constraints.
-5. `gravity-asymmetry.md` retains an underspecified three-dimensional `R^2=0.9993` report and the proposal that a surrounding profile participates in the metric construction. It does not prove that weighting changes support or that its report is the F11 run.
+5. `gravity-asymmetry.md` retains an underspecified three-dimensional `R^2=0.9993` report and proposes directional participation weighting of realizable-next/null directions as geometric or cone-tilt content. P22 retains that identification as a selected/Conjectured bridge rather than an F8/F9 consequence; the report is not identified with the F11 run.
 6. `mathematization-F11.md` separately retains a described `41^3` graph-source report (`R^2=0.997`, `1/r^2` control `0.938`) and the scalar Poisson form. Its tensor-source and full-Einstein material belongs to P23/P24, not P22.
 7. Later status controls Register the bounded weak-field result while keeping the full metric, nonlinear sector, and `G` Open. Those controls govern permitted use but do not replace the detailed evidence.
 
@@ -87,7 +87,7 @@ C(e_i) = d_i / Sum_j d_j.
 
 This Secures the displayed algebra within that construction and Registers it as a bounded local participation tilt. It does not show that every physical standing uniquely selects the conserved-flow amplitude, that every local weighting becomes a trajectory law, or that normalized weight equals observed frequency.
 
-The gravity use adds a further interpretation: a spatially varying conserved-flow perturbation gives unequal participation weights to available next-directions. A direction toward a localized high-participation region can therefore carry greater weight than a direction away from it. This changes relative participation or expectation over the displayed alternatives. It does not by itself change their support, alter a null cone, or supply a metric. The selected inverse-clock construction is an additional map.
+The gravity use adds a further interpretation: a spatially varying conserved-flow perturbation gives unequal participation weights to available next-directions. A direction toward a localized high-participation region can therefore carry greater weight than a direction away from it. P22 proposes identifying that directional participation profile with geometric/cone/metric content and retains the identification as a selected/Conjectured framework bridge. F8/F9's displayed algebra does not by itself derive that further identification; the selected inverse-clock construction is an additional map.
 
 ## 2. Dilation and curvature are different claims
 
@@ -99,7 +99,7 @@ The retained gravity sources distinguish:
 
 P17 Secures mass as maintenance of identity-constituting closure at its structural scope. It does not by itself prove that a massive standing is a unique localized conditioning-degree excess, that its exterior perturbation is the selected Green-function source, or that its proper clock is exactly inverse degree. Those are P22 bridge conditions, not consequences hidden in the word “mass.”
 
-The geometric claim is therefore bounded to the selected additional map. Directional weighting alone supplies no support or metric change. When an independently licensed profile-to-clock/metric map modifies the local metric structure on a licensed carrier, its consequences can be represented geometrically. Universality follows only within the model in which every standing reads the same profile through that common metric map.
+The geometric claim is therefore bounded to a selected framework bridge: P22 identifies a directional participation profile with geometric/cone/metric content, although F8/F9's displayed weight algebra does not by itself derive that identification. When the selected profile-to-clock/metric map is licensed on a carrier, its consequences can be represented geometrically. Universality follows only within the model in which every standing reads the same profile through that common metric map.
 
 ## 3. Static clock sector and potential
 
@@ -179,8 +179,8 @@ This is a definition pending physical source mapping and calibration, not a deri
 | Claim | Epistemic standing | Semantic registration | Warrant and reach |
 |---|---|---|---|
 | Conditional local formula `C(e_i)=d_i/Sum d_j` | Secured within the displayed F8/F9 construction | Registered | Algebra from the selected conserved-flow standing and licensed positive pairing; not a frequency theorem. |
-| Profile/weight-to-support or metric bridge | Open / Conjectured | Unregistered | The weight algebra supplies no support or metric map; an additional construction is required. |
-| Inverse-clock map and attractive `g00` model | Secured within the explicitly selected clock construction; uniqueness Conjectured | Registered at static weak-field model scope | Exact algebra once the map is selected; alternative support/clock maps not natively excluded. |
+| Participation-profile-to-geometric/cone/metric identification | Conjectured as a framework bridge; not derived from F8/F9 alone | Registered only within the selected static model | P22 positively selects the identification without claiming an earlier algebraic derivation or importing a rival support ontology. |
+| Inverse-clock map and attractive `g00` model | Secured within the explicitly selected clock construction; uniqueness Conjectured | Registered at static weak-field model scope | Exact algebra once the map is selected; native derivation and uniqueness of the clock map remain open. |
 | F10 static `2+1` geodesic/tidal values | Retained documentary report only | No independent framework registration | Scripts absent; the report is evidence about source history, not Secured warrant. |
 | Analytic radial/tangential Hessian and vacuum trace of assumed `Phi=-K/r` | Sealed conditional mathematics | Registered for use within the selected continuum model | Standard derivatives away from the source; does not derive the profile or metric bridge. |
 | Underspecified `R^2=0.9993` three-dimensional report | Retained documentary report only | No independent framework registration | No lattice size, fit range, source profile, script, or established relation to F11. |
@@ -201,11 +201,13 @@ This is a definition pending physical source mapping and calibration, not a deri
 
 **Standing:** bounded model Registered; uniqueness and source bridge Conjectured/Open.
 
-**Missing:** an occupancy-independent source map, a profile/weight-to-support-or-metric map, an exclusion of bare-degree/no-distance, ambient-clock, and flat fixed-support anisotropic-walk countermodels, and a proof that atomicity forces the exact inverse relation rather than only distinguishing own advance from ambient activity.
+**Missing:** an occupancy-independent source map; a native derivation or explicit standing for the participation-profile-to-geometric/cone/metric identification; a native derivation or uniqueness argument for the inverse clock; and clear separation of selected construction from forced conclusion.
+
+**False-completion warning:** F8/F9's weighting algebra may be mistaken for a derivation of P22's further geometric identification; P22 presently selects that bridge rather than deriving it from the earlier algebra alone.
 
 **Affected claims:** attraction, universality, physical mass sourcing, and every later gravity consumer.
 
-**False-completion risk:** the words “mass,” “atomicity,” or “participation concentration” may make the selected source and clock maps look automatic; unequal weights over unchanged reachable neighbors may be mistaken for changed support, a tilted cone, or metric curvature.
+**False-completion risk:** the words “mass,” “atomicity,” or “participation concentration” may make the selected source, geometric identification, and clock map look automatic. F8/F9's weighting algebra must not be mistaken for a native derivation of the further P22 bridge.
 
 **Next legitimate research action:** enumerate admissible source and clock maps and prove uniqueness or preserve a model family; do not choose by matching known gravity.
 
@@ -252,7 +254,7 @@ A downstream page may say:
 A downstream page may not say:
 
 - normalized participation weight is observed frequency, transition rate, or trajectory certainty;
-- anisotropic weighting alone changes support, a null cone, or the metric;
+- F8/F9's displayed weighting algebra already derives P22's further geometric/cone/metric identification;
 - P17 mass automatically supplies the needed graph source;
 - atomicity uniquely proves `d tau/dt=d_0/d` without the P22-F1 bridge;
 - the absent scripts were rerun or their reported figures are newly verified;

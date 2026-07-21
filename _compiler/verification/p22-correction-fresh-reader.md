@@ -1,9 +1,10 @@
-# P22 Frozen-Correction Fresh-Reader Verification
+# P22 Frozen-Correction Fresh-Reader Verification — Constitutionally Narrowed
 
 Date: 2026-07-21
 Exact base: `9085a7443b9cb71808f8c3afc43161929db1263f`
 First-audit head: `138c72926b24799c4b9197fae0d68dac22ba6598`
 Scope: the four frozen Control findings and correction-caused regressions only
+Constitutional narrowing: Control retracted the imported ordinary weighted-graph requirement after reviewing head `3602159d4baad57fd5aca91ff1316eca62d0e41c`.
 
 ## Method
 
@@ -12,7 +13,7 @@ The corrected canonical owner was read as the entry point, then checked against 
 ## Fresh-reader questions and results
 
 1. **What does F8/F9 positively establish?** The local comparison `C(e_i)=d_i/Sum d_j` is Secured within the selected positive-pairing/conserved-flow construction and Registered at that bounded scope. The correction did not demote this algebra.
-2. **Does anisotropic weighting itself alter support or prove curvature?** No. It changes relative participation or expectation over available alternatives. The profile/weight-to-support-or-metric bridge is Open/Conjectured, and the flat fixed-support anisotropic-walk countermodel appears only in the local/global P22-F1 records.
+2. **What follows from F8/F9, and what belongs to P22?** F8/F9 establish the displayed local participation-weight algebra. They do not by themselves derive P22's further identification of a directional participation profile with geometric/cone/metric content. P22 positively retains that identification as a selected/Conjectured framework bridge; no rival external support ontology is used to prove or refute it.
 3. **What metric result remains positive?** The explicitly selected inverse-clock map gives exact `g00=-(d0/d)^2` algebra and an attractive first-order clock potential within that selected model. The model is Registered at bounded static weak-field scope; selection and uniqueness remain debts.
 4. **What standing do absent-script values have?** Documentary only. They preserve source provenance but provide no independent Secured framework warrant.
 5. **What positive tidal result survives?** Conditional on an assumed licensed continuum potential `Phi=-K/r`, the radial/tangential Hessian and zero vacuum trace are conditional analytic mathematics. They are not attributed to an absent numerical rerun.
@@ -24,4 +25,4 @@ The corrected canonical owner was read as the entry point, then checked against 
 
 ## Result
 
-PASS. Starting from canonical P22, F9, the uppercase physics walk, or the compact consumers yields one bounded status. The four frozen distinctions are recoverable without relying on verifier output, and no positive bounded P22 result was unjustifiably demoted.
+PASS. Starting from canonical P22, F9, the uppercase physics walk, or the compact consumers yields one bounded status. The narrowed native bridge debt and the still-valid portions of the four frozen distinctions are recoverable without relying on verifier output. The positive P22 geometric proposal and bounded static metric model are preserved.

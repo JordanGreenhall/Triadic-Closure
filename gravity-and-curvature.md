@@ -23,11 +23,11 @@ This is the concise result shadow for [P22 Weak-Field Gravity as Participation C
 
 ## Mature status
 
-Status: **Registered at the bounded selected static weak-field metric-model scope**. Local weight comparison is Secured within the selected F8/F9 construction, but anisotropic weighting alone does not change support or prove a metric. The profile/source/clock map is not uniquely forced. Absent-script values are documentary reports only; F10 `2+1`, the underspecified three-dimensional `0.9993` report, and F11's `41^3` `0.997/0.938` report remain distinct. Scalar source normalization and `G` remain Open.
+Status: **Registered at the bounded selected static weak-field metric-model scope**. Local weight comparison is Secured within the selected F8/F9 construction, but does not by itself derive P22's further identification of a directional participation profile with geometric/cone/metric content. P22 retains that identification as a selected/Conjectured framework bridge. The profile/source/clock map is not uniquely forced. Absent-script values are documentary reports only; F10 `2+1`, the underspecified three-dimensional `0.9993` report, and F11's `41^3` `0.997/0.938` report remain distinct. Scalar source normalization and `G` remain Open.
 
 ## Current chain
 
-1. Conditional F8/F9 input: a licensed positive pairing and selected conserved-flow standing give `C(e_i)=d_i/Sum d_j` as a normalized local participation weight, not a frequency, rate, support change, or metric theorem.
+1. Conditional F8/F9 input: a licensed positive pairing and selected conserved-flow standing give `C(e_i)=d_i/Sum d_j` as a normalized local participation weight, not a frequency, rate, or derivation of P22's further geometric identification.
 2. Static F10 model: an additional selected inverse-clock map gives `g00=-(d0/d)^2` and an attractive first-order potential.
 3. Evidence separation: F10 numerical values and two distinct three-dimensional reports remain documentary evidence only. Conditional analytic `Phi=-K/r` mathematics supplies radial/tangential Hessian and vacuum-trace consequences.
 4. Sign-consistent Poisson form: `delta d=A/r+C_d`, `Phi=-delta d/d0`, and the conditional definition `G M:=A/d0` give `nabla^2 Phi=4 pi G rho` for `rho=M delta^3`.

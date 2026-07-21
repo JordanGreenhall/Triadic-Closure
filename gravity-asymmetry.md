@@ -2,7 +2,7 @@
 
 # The Gravity Asymmetry: Curvature from the Coherence-Participation Gradient
 
-This source proposes a surrounding coherence-participation profile as input to the selected P22 metric model. Anisotropic weighting changes relative participation over available next-directions; it does not by itself change support, null directions, or the metric. The displayed inverse-clock metric is an additional selected map whose bounded consequences are evaluated separately.
+This source proposes anisotropic coherence-participation weighting of realizable-next/null directions as geometric or cone-tilt content. P22 retains that positive identification as a selected/Conjectured framework bridge: F8/F9 establish the displayed local participation-weight algebra but do not by themselves derive the further geometric identification. The inverse-clock metric is an additional selected map whose bounded consequences are evaluated separately.
 
 ---
 
@@ -18,7 +18,7 @@ In the self-closure account, a mass `M` is an identity-maintaining standing whos
 
 Conditional on that source model, `P`'s realizable-next configurations are weighted by coherence-participation with the surrounding standing. Near `M`, a next-configuration modeled as more coherent with the localized profile carries greater participation weight.
 
-Coherence with `M` is modeled as directional because `M` has a location relative to `P`. Alternatives toward the localized profile may therefore receive greater participation weight than alternatives away from it. This changes relative weighting or expectation over the available alternatives but does not logically alter their support, tilt a null cone, or establish metric curvature. P22's selected inverse-clock map is additional structure; the formal countermodel is recorded only in the canonical local/global frontier entries.
+Coherence with `M` is modeled as directional because `M` has a location relative to `P`. Alternatives toward the localized profile may therefore receive greater participation weight than alternatives away from it. This source proposes that directional participation profile as the framework's geometric or cone-tilt content. P22 retains the proposal as a selected/Conjectured bridge rather than claiming that the F8/F9 weight algebra already derives it.
 
 ## Underspecified three-dimensional documentary report and analytic comparison
 
@@ -35,13 +35,13 @@ The `0.9993` value is documentary evidence only and carries no Secured framework
 The source's ingredients have distinct standings:
 
 - **Self-maintenance (scalar, isotropic).** P17 supplies structural mass-as-maintenance but does not by itself derive gravitational time dilation.
-- **Participation weighting (directional).** A surrounding profile can weight available alternatives anisotropically without changing their support.
+- **Participation-profile/geometric identification.** This source proposes directional weighting of realizable-next/null directions as geometric or cone-tilt content; P22 retains the identification as a selected/Conjectured bridge rather than an F8/F9 derivation.
 - **Selected metric response.** P22's additional inverse-clock/profile-to-metric map supplies the displayed `g00` geometry and its bounded conditional consequences.
 
-These three claims must not be collapsed into one arrow. The local weight algebra remains positively warranted; the source and metric bridges remain Open or Conjectured.
+These three claims must not be collapsed into one arrow. The local weight algebra remains positively warranted; the source map, selected geometric identification, and clock-map derivation/uniqueness retain their stated Open or Conjectured debts.
 
 ## Result
 
-In the selected weak-field model, a surrounding profile is fed through an additional inverse-clock metric map. Anisotropic weighting alone changes relative participation, not support or metric structure. The selected map has bounded conditional geometric consequences; all absent-script numerical values remain documentary reports.
+In the selected weak-field model, the directional participation profile is identified with geometric/cone content and fed through an additional inverse-clock metric map. The first identification is P22's selected/Conjectured framework bridge, not a theorem already supplied by F8/F9 alone. The selected clock map has bounded conditional geometric consequences; all absent-script numerical values remain documentary reports.
 
 This source retains the candidate mass-to-profile reading and the underspecified `0.9993` report without identifying either with F11's separate report. Scope: selected static weak-field/linear Newtonian modeling. P22 retains the mass-to-source, profile-to-metric, inverse-clock, common `3+1`, source-normalization, and `G` bridges as Open or Conjectured.

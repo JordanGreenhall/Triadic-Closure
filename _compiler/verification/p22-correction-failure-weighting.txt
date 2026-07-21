@@ -1,12 +1,14 @@
+fixture: overgrade selected/Conjectured P22 bridge as an F8/F9-derived result
 P22 deterministic normalization verification
 base: 9085a7443b9cb71808f8c3afc43161929db1263f
-fixture: restore anisotropic-weighting-to-metric overclaim in canonical bounded verdict
-changed Markdown files checked: 27
+changed Markdown files checked: 29
 local Markdown links checked: 328
 frontier placement: canonical local + global summary only
 P19/P20/P21 boundary: inherited, not reopened
 P23/P24/P28 boundary: source owners not opened
 retained computations: explicitly reported; named scripts absent
-FAIL (1 errors)
-- p22-weak-field-gravity-as-participation-curvature.md lacks frozen-correction element: unequal weights alone do not alter reachable directions, null support, or metric structure
+FAIL (3 errors)
+- p22-weak-field-gravity-as-participation-curvature.md lacks frozen-correction element: does not by itself derive P22's further geometric identification
+- p22-weak-field-gravity-as-participation-curvature.md lacks frozen-correction element: Participation-profile-to-geometric/cone/metric identification
+- p22-weak-field-gravity-as-participation-curvature.md lacks frozen-correction element: selected/Conjectured framework bridge
 exit status: 1 (expected)

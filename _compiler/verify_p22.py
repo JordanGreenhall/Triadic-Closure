@@ -138,15 +138,6 @@ def main() -> int:
         require(errors, local.count(f"### {frontier} —") == 1, f"{frontier} must have one local heading")
         require(errors, global_text.count(f"**{frontier} —") == 1, f"{frontier} must have one global entry")
 
-    fixed_support = "flat fixed-support anisotropic-walk countermodel"
-    require(errors, local.count(fixed_support) == 1, "P22-F1 local entry must contain the fixed-support anisotropic-walk countermodel once")
-    require(errors, global_text.count(fixed_support) == 1, "P22-F1 global entry must contain the fixed-support anisotropic-walk countermodel once")
-    for path in root.rglob("*.md"):
-        rel = path.relative_to(root)
-        if ".git" in rel.parts or "_compiler/verification" in rel.as_posix() or rel.as_posix() in (LOCAL, GLOBAL):
-            continue
-        require(errors, fixed_support not in corpus_text(root, rel, overlay), f"P22-F1 fixed-support countermodel escaped local/global records: {rel}")
-
     source_guards = {
         "gravity-and-curvature.md": ("type: supporting", "status: shadow", "P22 governs every weak-field claim"),
         "gravity-asymmetry.md": ("**P22 supporting source.**", "scripts are absent"),
@@ -206,13 +197,18 @@ def main() -> int:
 
     correction_requirements = {
         LOCAL: (
-            "unequal weights alone do not alter reachable directions, null support, or metric structure",
-            "Profile/weight-to-support or metric bridge",
+            "does not by itself derive P22's further geometric identification",
+            "Participation-profile-to-geometric/cone/metric identification",
+            "selected/Conjectured framework bridge",
             "Retained documentary report only",
             "delta d(r) = A / r + C_d",
             "Phi(r) = -delta d(r) / d_0 = -A / (d_0 r) + C_Phi",
             "nabla^2 Phi = +(4 pi A/d_0) delta^3(r)",
             "No repository evidence identifies them as one run",
+        ),
+        GLOBAL: (
+            "selected/Conjectured participation-profile-to-geometric identification",
+            "P22 presently selects that bridge rather than deriving it from the earlier algebra alone",
         ),
         "mathematization-F11.md": (
             "delta d=A/r+C_d",
@@ -221,12 +217,13 @@ def main() -> int:
             "distinct documentary report of unknown relationship",
         ),
         "gravity-asymmetry.md": (
-            "does not logically alter their support",
+            "proposes anisotropic coherence-participation weighting of realizable-next/null directions as geometric or cone-tilt content",
+            "selected/Conjectured framework bridge",
             "R²=0.9993",
             "relationship to F11's separately described",
             "documentary evidence only",
         ),
-        "mathematization-F9-done.md": ("P22 owns the later gravity status", "local weight law, not a metric/support theorem"),
+        "mathematization-F9-done.md": ("P22 owns the later gravity status", "local weight law, not by itself a derivation of P22's further geometric identification"),
         "physics-walk-D1-D5-consolidated.md": ("The gravity walk (P22 normalized)", "P22 gravity frontiers"),
     }
     for name, phrases in correction_requirements.items():
