@@ -1,0 +1,13 @@
+P22 deterministic normalization verification
+base: 9085a7443b9cb71808f8c3afc43161929db1263f
+fixture: identify the distinct three-dimensional reports as one field
+changed Markdown files checked: 27
+local Markdown links checked: 328
+frontier placement: canonical local + global summary only
+P19/P20/P21 boundary: inherited, not reopened
+P23/P24/P28 boundary: source owners not opened
+retained computations: explicitly reported; named scripts absent
+FAIL (2 errors)
+- obsolete active P22 formulation remains: same modeled field as the F11 potential
+- mathematization-F11.md lacks frozen-correction element: distinct documentary report of unknown relationship
+exit status: 1 (expected)
