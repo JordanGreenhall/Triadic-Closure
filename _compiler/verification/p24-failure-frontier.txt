@@ -1,0 +1,16 @@
+P24 stale frontier placement failure proof
+
+fixture: overlay adds a third living P24-F1 identifier to mathematization-F11.md
+command: python3 _compiler/verify_p24.py --base 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a --overlay /tmp/p24-fixture-frontier
+exit: 1
+
+P24 deterministic normalization verification
+base: 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
+changed Markdown files checked: 20
+local Markdown links checked: 367
+frontier placement: canonical local + global summary only
+P7/P19-P23 boundary: inherited, not reopened
+P28 boundary: Lambda source and cosmology not normalized
+retained computation: absent f11_assemble.py remains documentary
+exact algebra: nearest-neighbor expansion and coefficient normalization checked
+FAIL P24-F1 must occur only in local/global files; got ['mathematization-F11.md', 'p24-full-einstein-form-as-conditional-rigidity.md', 'physics-domain-mature-status.md']
