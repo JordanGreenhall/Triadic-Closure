@@ -87,6 +87,8 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [Gravity Asymmetry](gravity-asymmetry.md) — supporting P22 source
 - [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) — canonical owner
 - [Stress-Energy: Three Offices](stress-energy-three-offices.md) — concise P23 shadow
+- [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) — canonical owner
+- [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow
 - [Lambda Derived](lambda-derived.md)
 - [GR/QM Conflict Status](grqm-conflict-status.md)
 

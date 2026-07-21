@@ -40,17 +40,19 @@ Curated pages govern status; historical sources are provenance only.
 | [with-to-this-closure](with-to-this-closure.md) | Forward closure, generic decay classifier, inverse-passage boundary, products, and rates; P21 owner |
 | [p22-weak-field-gravity-as-participation-curvature](p22-weak-field-gravity-as-participation-curvature.md) | Conditional local tilt, selected static clock, retained geodesic/tidal evidence, harmonic exterior, and scalar Poisson boundary; P22 owner |
 | [p23-stress-energy-as-three-office-source](p23-stress-energy-as-three-office-source.md) | Symmetric second-moment source, observer-relative energy/flux/stress split, selected office proposal, population example, and conservation boundary; P23 owner |
+| [p24-full-einstein-form-as-conditional-rigidity](p24-full-einstein-form-as-conditional-rigidity.md) | Lovelock-style conditional rigidity, locality/order theorem boundary, complete premise map, tensor completeness, and nonlinear realization; P24 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
 | [gravity-and-curvature](gravity-and-curvature.md) | Concise P22 result shadow; P22 governs claims, grades, and frontiers |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Concise P23 result shadow; P23 governs claims, grades, and frontiers |
+| [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) | Concise P24 import-boundary shadow; P24 governs claims, grades, and frontiers |
 | [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 
 Additional normalized controls:
 
-- P1 through P23 are owned by their normalized pages.
+- P1 through P24 are owned by their normalized pages.
 - [domain-entry-method](domain-entry-method.md) — F4.
 - [physics-walk-checklist](physics-walk-checklist.md).
 - [three-moves-per-stage](three-moves-per-stage.md).
