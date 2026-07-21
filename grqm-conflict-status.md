@@ -84,7 +84,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 ## Integration rules
 
 - Use [grqm-conflict-status](grqm-conflict-status.md) as the current control page for GR/QM conflict claims.
-- Use [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md) for weak-field claims and frontiers. Use this page only for P25+ GR/QM claims and the inherited P24 boundary; it does not upgrade P22's selected source/clock model, retained reports, or conditional Poisson form.
+- Use [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md) for weak-field claims and frontiers and [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source-tensor claims and frontiers. Use this page only for P25+ GR/QM claims and the inherited P24 boundary; it does not upgrade P22's selected source/clock model or P23's native-weight, general-stress, and conservation gaps.
 - Use [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
 - Use [lambda-derived](lambda-derived.md) for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
 - Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
@@ -109,6 +109,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 - [`grqm-problem-locator.md`](grqm-problem-locator.md)
 - [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md)
+- [P23 stress-energy source](p23-stress-energy-as-three-office-source.md)
 - [gravity-and-curvature](gravity-and-curvature.md) — concise P22 shadow
 - [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md)
 - [realizability-weighting-law](realizability-weighting-law.md)

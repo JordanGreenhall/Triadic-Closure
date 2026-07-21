@@ -21,7 +21,7 @@ depends-on:
   - physics-domain-mature-status                     # ledger: F9 standing-state choice Registered and Sealed
   - mathematization-F10-resolved                     # supporting retained P22 model report; scripts absent
   - lambda-derived                                   # Λ structural meaning (Registered); magnitude now derived in §8c (scaling + coefficient)
-  - stress-energy-three-offices                      # source tensor
+  - p23-stress-energy-as-three-office-source         # canonical P23 source-tensor owner and frontiers
   - mass-as-self-closure                             # horizon = total self-closure
   - internal-structure-walk-move2                    # U(1) overall-phase forced; SU(3) color; SU(2) withheld
   - d3-color-forcing-argument-v2                     # (S): physics = dynamical branch; complexness forced
