@@ -94,6 +94,15 @@ Current status: P22 Registers a bounded selected static model with reported geod
 - Route extension beyond `g00`, the second-order premise, and strong-field behavior to P24.
 - Keep exact `G` Open until a source normalization and calibration are derived.
 
+### 5b. P24 conditional tensor rigidity and full-field boundary
+
+Current status: [P24](p24-full-einstein-form-as-conditional-rigidity.md) Secures the accepted Lovelock-style rigidity implication under admitted hypotheses. The full Einstein form is a selected/Conjectured conditional model and Unregistered as framework physics. The one-step locality/order theorem, complete premise map, full spatial tensor, conserved source coupling, nonlinear realization, and calibration remain live frontiers.
+
+- Prove a continuum derivative-order theorem rather than equating one-step locality with exact second order.
+- Exhibit the complete natural tensor and independently check every rigidity premise.
+- Keep P22 source normalization/`G`, P23 conservation, and P28 Lambda at their owners.
+- Do not let P25+ strong-field consumers upgrade the P24 equation on which they depend.
+
 ## Priority 2 — Important downstream frontiers
 
 ### 6. P23 stress-energy source and dynamical generality
@@ -176,18 +185,19 @@ Current status: Open.
 3. P7: manifold recovery split and spatial-sector narrowing established; native smoothness seal remains the real frontier.
 4. P8: same-kind internal carrier is the next normalization unit.
 5. P9: SU(3) bridge remains downstream of P8.
-6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open; P24 nonlinear form incomplete.
+6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open.
 7. P23 stress-energy: conditional source/decomposition mathematics normalized; office correspondence Conjectured/Unregistered; native weights, general stress dynamics, and conservation incomplete.
-8. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
-9. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
-10. Matter spectrum/generations: Open.
-11. Atoms/periodic landscape: Open as a normalized parent.
-12. Numerical spectrum: Open and deferred.
+8. P24 full field equation: conditional rigidity implication Secured as mathematics; framework premises, exact order theorem, tensor completeness, nonlinear realization, and coupling remain Conjectured/Open and Unregistered.
+9. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
+10. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
+11. Matter spectrum/generations: Open.
+12. Atoms/periodic landscape: Open as a normalized parent.
+13. Numerical spectrum: Open and deferred.
 
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), its concise shadow, and P22/P24 boundary consumers synchronized; P24 remains unopened until P23 merges.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), and their shadows/consumers synchronized.
 3. Preserve P22/P23/P24 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 

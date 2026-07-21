@@ -416,7 +416,7 @@ Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure 
 
 ## Item 12 — Gravity full-GR imports
 
-See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) for the weak-field owner, [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) for the source-tensor owner, and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 import boundary. Item 12 **PASSES by separation**: neither the bounded P22 model nor P23 source kinematics is promoted into tensor completeness, full-GR, or strong-field claims.
+See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) for the weak-field owner, [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) for the source owner, [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) for the canonical full-field boundary, and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for its concise shadow. Item 12 **PASSES by separation**.
 
 ### 12.1 Registered native gravity results
 
@@ -429,7 +429,8 @@ See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-a
 
 ### 12.2 Conditional, Open, or values-side gravity content
 
-- **Full Einstein form:** **Registered conditional / Conjectured nonlinear**; rests on Lovelock import, not Sealed.
+- **Lovelock-style rigidity:** **Secured conditionally as accepted mathematics** under every precise theorem hypothesis and a separately admitted source coupling.
+- **Full Einstein form as framework physics:** **Selected/Conjectured conditional model; Unregistered**; locality/order, complete premise map, nonzero coupling, and conserved source remain unresolved.
 - **Tensor completeness / full `3+1` beyond `g00`:** **Open**; asserted by analogy plus Lovelock, not derived component-wise.
 - **Strong-field / nonlinear self-coupled regime:** **Open / Conjectured**; untested.
 - **Exact `G` and Λ dynamics:** **Values-side / Open**. `G` remains values-side. Λ magnitude is no longer simply values-side: `Λ ∼ R_H^-2` Registered; native complete `Λ_complete = 3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; `w(z)`/dynamical rate Open.
@@ -443,11 +444,11 @@ The imports are flagged, not smuggled. The failure condition is promoting weak-f
 
 ### 12.4 Promotable gate
 
-The second-order premise is the single most promotable full-Einstein target. Candidate native route: one-step conditioning locality implies at most second-order metric equations, because local one-step conditioning reaches connection and curvature, while third-order terms would require next-nearest conditioning. The GR/QM ledger promotes this to **Registered conditional on G1**, because the route inherits manifold/order recovery and still needs the continuum/order theorem for a seal.
+The locality-to-order theorem is the most promotable target. One-step conditioning is a native candidate, but a nearest-neighbor operator expands as `f''+(a^2/12)f''''+...`; exact derivative truncation therefore requires a selected scaling theorem and correction control. The route is **Conjectured and Unregistered**, not promoted merely by G1.
 
 ### 12.5 Integration rule
 
-Dependent pages may use P22's bounded selected static metric model, selected/Conjectured participation-profile-to-geometric bridge, conditional analytic `-1/r` consequences, harmonic exterior, and conditional scalar Poisson form only with P22's inherited conditions and three local/global gaps. They may not present F8/F9's weight algebra as already deriving P22's further geometric identification, promote documentary reports into Secured warrant, identify the two three-dimensional reports, present absent scripts as rerun, combine separate dimensional checks into a full `3+1` theorem, or derive a physical source or `G`. The full Einstein equation remains P24-bound and must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results and tensor completeness remain Open.
+Dependent pages may use P22 and P23 only at their bounded grades and may cite P24's rigidity implication only with every admitted hypothesis. They may not turn one-step locality into an exact second-order theorem, infer conservation from Bianchi or scalar continuity, derive `G`, or present the full Einstein equation as Registered framework physics. Nonlinear/strong-field results and tensor completeness remain Open.
 
 ---
 

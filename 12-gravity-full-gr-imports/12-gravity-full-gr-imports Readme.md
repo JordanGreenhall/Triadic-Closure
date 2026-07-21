@@ -24,7 +24,7 @@ Gravity/curvature pages, Item 2 participation weighting, named external theorem 
 
 ## Actual load in current framework
 
-See [P22 Weak-Field Gravity](../p22-weak-field-gravity-as-participation-curvature.md) for the bounded weak-field owner and [12-gravity-full-gr-imports](../12-gravity-full-gr-imports.md) for the P24 import boundary.
+See [P22 Weak-Field Gravity](../p22-weak-field-gravity-as-participation-curvature.md) for the bounded weak-field owner, [P24 Conditional Tensor Rigidity](../p24-full-einstein-form-as-conditional-rigidity.md) for the canonical full-field owner, and [12-gravity-full-gr-imports](../12-gravity-full-gr-imports.md) for its concise import-boundary shadow.
 
 ## Pass condition for the loop agent
 
@@ -36,7 +36,7 @@ FAIL if weak-field success plus external Lovelock assumptions is promoted into f
 
 ## Integration rule
 
-Dependent pages may use P22's bounded selected static model and conditional harmonic/Poisson form only with its explicit gaps. Full Einstein equation remains P24-bound and Registered-conditional through the G1-conditioned second-order route plus Lovelock-style tensor rigidity; nonlinear/strong-field results and tensor completeness remain Open. Stress-energy is P23-owned and Lambda is P28-owned.
+Dependent pages may use P22's bounded model only with its gaps and P24's Lovelock-style implication only under every admitted hypothesis. The full Einstein equation is a selected/Conjectured conditional model and Unregistered as framework physics; the locality/order theorem, nonlinear/strong-field realization, and tensor completeness remain unresolved. Stress-energy is P23-owned and Lambda is P28-owned.
 
 ## Required loop output
 
