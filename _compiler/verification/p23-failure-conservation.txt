@@ -7,8 +7,6 @@ P19/P20/P21 boundary: inherited, not reopened
 P22 boundary: source normalization and G remain P22-owned
 P24/P28 boundary: field equation and Lambda not normalized
 retained computations: exact algebra separated from absent-script reports
+exact algebra: symmetry, rank, sector population, and continuity counterexample checked
 FAIL mathematization-F11.md lacks P23 authority guard: Scalar continuity alone is insufficient
 FAIL obsolete active P23 formulation remains: continuum conservation is exact
-
-fixture exit: 1
-fixture: restored scalar-continuity-as-exact-tensor-conservation through an overlay; repository worktree was not mutated

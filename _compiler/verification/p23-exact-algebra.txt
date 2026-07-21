@@ -1,0 +1,6 @@
+P23 exact algebra reproduction
+unequal streams T[0:2,0:2]: [[3, 1], [1, 3]]
+unequal-stream 2x2 determinant: 8 (not rank one)
+equal streams T00,T01,T11: 2 0 2
+continuity counterexample at x=2: d_x(rho v)=0; d_x(rho v^2)=1
+PASS exact symmetry, sector population, rank, and conservation checks

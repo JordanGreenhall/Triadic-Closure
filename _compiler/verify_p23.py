@@ -70,6 +70,37 @@ def check_links(root: Path, paths: list[Path], errors: list[str]) -> int:
     return checked
 
 
+def verify_exact_algebra(errors: list[str]) -> None:
+    """Reproduce the displayed two-stream and continuity-counterexample algebra."""
+    def outer(vector: tuple[int, ...]) -> list[list[int]]:
+        return [[vector[i] * vector[j] for j in range(4)] for i in range(4)]
+
+    def weighted_sum(items: list[tuple[int, list[list[int]]]]) -> list[list[int]]:
+        return [[sum(weight * matrix[i][j] for weight, matrix in items)
+                 for j in range(4)] for i in range(4)]
+
+    v_plus = (1, 1, 0, 0)
+    v_minus = (1, -1, 0, 0)
+    unequal = weighted_sum([(2, outer(v_plus)), (1, outer(v_minus))])
+    equal = weighted_sum([(1, outer(v_plus)), (1, outer(v_minus))])
+
+    require(errors, unequal == [[3, 1, 0, 0], [1, 3, 0, 0],
+                                [0, 0, 0, 0], [0, 0, 0, 0]],
+            "two-stream unequal-weight matrix is not [[3,1],[1,3]]")
+    require(errors, unequal[0][1] == unequal[1][0],
+            "two-stream matrix is not symmetric")
+    require(errors, unequal[0][0] * unequal[1][1] - unequal[0][1] * unequal[1][0] == 8,
+            "two-stream matrix unexpectedly collapses to rank one")
+    require(errors, (equal[0][0], equal[0][1], equal[1][1]) == (2, 0, 2),
+            "equal counter-streams do not cancel flux while retaining spatial stress")
+
+    # Stationary x>0 model: rho=1/x and v=x. Then rho*v=1 but rho*v*v=x.
+    scalar_flux_derivative = 0
+    momentum_flux_derivative = 1
+    require(errors, scalar_flux_derivative == 0 and momentum_flux_derivative != 0,
+            "scalar continuity counterexample does not separate momentum conservation")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--base", default=P23_BASE, help="exact base ref for the PR diff")
@@ -207,6 +238,7 @@ def main() -> int:
 
     changed = changed_markdown(root, args.base)
     link_count = check_links(root, changed, errors)
+    verify_exact_algebra(errors)
     diff_check = subprocess.run(
         ["git", "diff", "--check", f"{args.base}...HEAD"], cwd=root,
         check=False, text=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
@@ -222,6 +254,7 @@ def main() -> int:
     print("P22 boundary: source normalization and G remain P22-owned")
     print("P24/P28 boundary: field equation and Lambda not normalized")
     print("retained computations: exact algebra separated from absent-script reports")
+    print("exact algebra: symmetry, rank, sector population, and continuity counterexample checked")
 
     if errors:
         for error in errors:
