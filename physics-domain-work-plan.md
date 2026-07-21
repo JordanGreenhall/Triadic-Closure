@@ -38,7 +38,7 @@ Traditional physics may orient and check. It may not silently determine the fram
 
 The numbered normalization units are semantic regions. They are not identical to the generic D-series. A later result may satisfy or constrain an earlier unit when it actually exhibits the relevant constitutive content, but a similarly numbered D-phase may not replace the program unit.
 
-For P6, the current worked witnesses are baryon persistence/stability, electron recurrence/ruler, and neutron metastability/decay. P7 is G1 manifold recovery and local continuum. Successor passability remains generic D7 content and later X1 interface work.
+For P6, the current worked witnesses are baryon persistence/stability and electron recurrence/ruler. Proton/neutron shared-closure identity is established, while comparative metastability is Conjectured under P20 and structural decay is P21-owned. P7 is G1 manifold recovery and local continuum. Successor passability remains generic D7 content and later X1 interface work.
 
 ## Priority 1 — Load-bearing and under-sealed
 
@@ -118,7 +118,7 @@ Current status:
 - generic P6 form established;
 - baryon persistence/stability established conditionally in reported flows;
 - electron persistence and native ruler `m_e=1` established at recurrence scope;
-- neutron metastability and structural decay Registered at owning scope;
+- proton/neutron shared-closure identity differentiated; framework metastability order Conjectured under P20; decay P21-owned;
 - domain-grade persistent population, ontological basicness, broader stability, hierarchy, and external calibration Open.
 
 Work:
@@ -134,7 +134,7 @@ Current status:
 
 - structural classifiers established;
 - baryon tested attractor established;
-- neutron escape/transition structure and conditional overlap weight established;
+- P14 mark-overlap mathematics established; P20 physical access weight Conjectured; P21 transition structure not yet normalized;
 - observed rates and lifetimes Open.
 
 Work:

@@ -20,7 +20,7 @@ sources:
 
 A decay, natively, is a metastable standing escaping over a coherence-barrier to a more stable configuration, conserving registered distinctions, with available channels weighted by participation-propensity and coupling orientation-faithful.
 
-That is a real native account, and it stops exactly there. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) strengthens the neutron-specific structural drain and two-ledger settlement, but product identities as empirical entities, spectra, rates, and weak mechanisms remain empirical/Open/quarantined.
+That is a generic native account, and it stops exactly there. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) retains a neutron-specific drain and two-ledger proposal for P21 normalization; it does not currently Register that neutron-specific structure. Product identities as empirical entities, spectra, rates, and weak mechanisms remain empirical/Open/quarantined.
 
 ## Native decay skeleton
 
@@ -36,12 +36,12 @@ That is a real native account, and it stops exactly there. [flavor-mark-metric-a
 
 | Decay element | Status |
 |---|---|
-| Product identities, including electron-as-product and the missing-energy/momentum event | Mixed. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) gives a Registered structural role for electron-as-With/charge settlement, but the empirical product identity remains observation. |
+| Product identities, including electron-as-product and the missing-energy/momentum event | P21-owned. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) is retained source material, not a current Registered structural result; empirical product identity remains observation. |
 | Antineutrino as such | Conjectured. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) keeps the From-With receipt / missing-partner reading as Conjectured; missing-energy observation is allowed, but the entity is not Registered native. |
 | Kinetic-energy spectrum / beta-spectrum shape | Empirical. Energy balance is native; the distribution is observed. |
 | Lifetime / transition rate / branching ratios | Empirical. Observed rates/frequencies are not a current framework target; derive the local possibility-space/rate structure only if needed. |
 | Beta-decay mechanism: weak interaction, W exchange, V-A operator | Quarantined. Electroweak residuals and W/Z labels are quarantined under Item 5.4; exact weak module remains Open. |
-| Neutron-decay specifics / n-p splitting | Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle receipt / flavor-SU(3) A₂ package is superseded; new mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured. |
+| Neutron-decay specifics / n-p splitting | Decay is P21-owned. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the mass relation: mark-overlap algebra is retained, while the framework sign, physical `1/4` access weight, and magnitude are Conjectured. Old two-circle and flavor-`SU(3)`/`A_2` packages are historical. |
 
 ## Verdict
 

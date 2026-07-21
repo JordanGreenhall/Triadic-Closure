@@ -2,7 +2,7 @@
 
 ## Domain
 
-This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. It contains foundational architectonics, mathematical work, physics and physics-to-chemistry work, controls, historical sources, maintenance scripts, and compiler artifacts.
+This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. It contains foundational architectonics, mathematical work, physics and physics-to-chemistry work, controls, historical sources, and compiler artifacts.
 
 ## Repository topology
 
@@ -11,9 +11,7 @@ Most substantive Markdown files live at repository root. The complete current in
 Actual directories with distinct roles:
 
 - `_compiler/` — semantic adjudication artifacts;
-- `overview/` — residual migration-shadow pages pending consolidation;
-- `tools/` — import, normalization, and audit utilities;
-- `.github/workflows/` — repository automation.
+- `overview/` — residual migration-shadow pages pending consolidation.
 
 Former Drive paths such as `results/`, `concepts/`, `process/`, `raw/package/`, and `raw/context/` are historical provenance unless visibly present.
 

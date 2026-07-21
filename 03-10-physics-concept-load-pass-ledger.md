@@ -236,8 +236,8 @@ See [07-particle-identity-ledger](07-particle-identity-ledger.md). Item 7 **PASS
 
 ### 7.5 Neutron
 
-- **Native / Registered role:** Neutral baryon with mark configuration `udd`, same color singlet as proton, spin-equivalent mixed mark configuration; heavier sign via relief-valve mechanism Registered by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md).
-- **Parked:** Full mass magnitude Conjectured on receipt-complement premise and Open proton residual; charge-neutrality value → Item 8; beta-decay mechanism and antineutrino identity → Open/Conjectured under Item 11.
+- **Native / Registered role:** Companion baryon role with mark configuration `udd` and the same color singlet as proton. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the relation.
+- **Parked:** Equal proton/neutron spin contribution is a selected/model-conditional comparison premise, not a Secured or Registered native nucleon assignment; framework-derived heavier sign and relief mechanism Conjectured; physical `1/4` access weight Conjectured though the mark algebra is conditional mathematics; full magnitude Conjectured; charge value → Item 8; decay mechanism and antineutrino identity → P21 / Item 11.
 - **Fail condition:** Beta-decay familiarity imports full neutron identity.
 
 ### 7.6 Neutrino / antineutrino
@@ -398,12 +398,12 @@ See [11-decay-product-registration](11-decay-product-registration.md). Item 11 *
 
 ### 11.2 Received, Open, or quarantined content
 
-- **Product identities:** Mixed. Electron-as-product has a Registered structural role in the neutron-specific ledger of [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md), while empirical product identity remains observational.
+- **Product identities:** P21-owned. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) is retained source material, not a current Registered structural result; empirical product identity remains observation.
 - **Antineutrino as such:** Conjectured. From-With missing-partner / receipt reading remains Conjectured; missing-energy observation is allowed, entity is not Registered native.
 - **Kinetic-energy spectrum:** Empirical. Energy balances natively; the beta-spectrum distribution is observed.
 - **Lifetime / transition rate / branching ratios:** Empirical. Do not route these to generic frequency=weight; derive the local possibility-space/rate structure if rates become load-bearing.
 - **Beta-decay mechanism:** Quarantined. Weak interaction, W exchange, and V-A operator depend on electroweak residuals, W/Z empirical labels, and exact module content.
-- **Neutron-decay specifics:** Updated by [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md). Old two-circle / flavor-SU(3) A₂ package is superseded; mark-metric structure is Registered where stated, while receipt-complement partition and full magnitude remain Conjectured.
+- **Neutron-decay specifics:** P21-owned. P20 retains the mark algebra while keeping the sign bridge, physical access weight, and magnitude Conjectured. The old two-circle / flavor-`SU(3)` `A_2` package is historical.
 
 ### 11.3 Integration rule
 

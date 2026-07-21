@@ -25,6 +25,7 @@ sources:
   - p17-mass-as-closure-maintenance.md
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p19-native-electron-ruler-and-proton-electron-ratio.md
+  - p20-baryon-closure-and-proton-neutron-relation.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -73,6 +74,11 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P19 spatial seating `3 x 2 pi^5` | Secured relative to P18 and exact-three With; Registered-not-Sealed | one gathered closure borne along three equal bearings | alternative-join seal remains frontier |
 | P19 `6 pi^5` factor | exact within registered construction | With–This color-seating factor | not the complete mass ratio |
 | P19 proton/electron ratio form | Registered-not-Sealed | positive multiplicative correction, second-order scale, coefficient interval | exact internal `c` Open |
+| P20 baryon closure and nucleon differentiation | Secured/Registered at bounded inherited scopes | singlet closure plus shared closure and `uud`/`udd` marks | no universal QCD or decay surplus |
+| P20 equal-spin comparison | Selected/model-conditional premise only | P12 supplies no nucleon spin assignment; P16 quarantines spectrum | not Secured or Registered native nucleon content |
+| P20 neutron-heavier sign | Conjectured as a framework result | candidate valence-relief route; observed sign is empirical | intrinsic relief bridge absent |
+| P20 normalized mark overlap | Sealed mathematics given P14 geometry | overlap `1/2`, square `1/4` | physical access-weight use Conjectured |
+| P20 splitting magnitude | Conjectured | selected additive ledger and receipt complement | no forced exact magnitude |
 | Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
 | Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
 | Generation count and spectrum | Open | no derivation | P29 |
@@ -91,11 +97,14 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 10. **P19-F1:** derive the exact internal selection of `c`.
 11. **P19-F2:** strengthen the additive spatial-seating warrant against admissible alternatives.
 12. **P19-F3:** construct the external step/whole calibration anchor.
-13. Full gravity beyond weak-field.
-14. Matter spectrum and generations.
+13. **P20-F1 — valence-to-maintenance sign bridge:** P15's valence distinction and P17's qualitative load order are established, but the relief mechanism and positive framework sign are Conjectured. Missing: an occupancy-independent map from satisfiable valence to reduced intrinsic maintenance and exclusion of unchanged-load countermodels. This affects P20 ordering and downstream P6/P21 uses; observed sign must not masquerade as warrant. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: define intrinsic maintenance before occupancy and test the candidate map against countermodels.
+14. **P20-F2 — mark-overlap-to-access-amplitude bridge:** the `1/2` overlap and `1/4` square are Sealed mathematics given P14 geometry, while physical access weighting is Conjectured. Missing: amplitude-space location, licensed access pairing, normalized alternatives, and the mark-overlap-to-reach map. This affects P20's magnitude, P6 weight language, and P21 consumers; geometric overlap must not be treated automatically as a Born amplitude. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: construct the alternative frame and verify every amplitude/readout condition.
+15. **P20-F3 — splitting-ledger selection and exact magnitude:** the dimensionless candidate expression and empirical comparison exist, but addition, one-time electron payment, receipt complement, and the complete mass map are Conjectured. This affects every quantitative splitting and energy-release use; numerical proximity must not be reported as derivation. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: enumerate admissible accounting rules and test uniqueness before numerical comparison.
+16. Full gravity beyond weak-field.
+17. Matter spectrum and generations.
 
 ## Bottom line
 
-P19 Registers the electron bare repeat as the native ruler `m_e = 1`, seats one P18 color closure additively across three spatial bearings to obtain the exact With–This factor `6 pi^5`, and records the complete proton/electron relation as `6 pi^5 [1 + c(3 pi^4)^-2]` with `3/2 <= c <= 9/4`. The exact internal selection of `c`, external calibration, proton-neutron splitting, and decay remain later-owned or Open.
+P20 retains the bounded baryon-singlet closure and the shared-singlet/`uud`–`udd` nucleon differentiation at their inherited secured scopes. The framework-derived neutron-heavier sign, `1/4` as a physical access weight, and the complete proton/neutron magnitude are Conjectured behind the three synchronized P20 frontiers. Decay remains P21-owned.
 
-See also: [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md), [P18 Closure-Inherited Metric](p18-closure-inherited-metric-and-2pi5-measure.md), and [Particle Mass from the Three Faces](mass-derivation-three-faces.md).
+See also: [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md), [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md), and [Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md).

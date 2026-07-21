@@ -134,13 +134,6 @@ The complete `_compiler/` inventory is documented in `_compiler/README.md`. It i
 
 ## Automation and maintenance files
 
-- `.github/workflows/normalize-references.yml`
-- `tools/finalize_reference_normalization.py`
-- `tools/normalize_references.py`
-- `tools/normalize_mass_ratio.py`
-- `tools/import_flavor_mark_metric_and_neutron.py`
-- `tools/import_neutron_consideration.py`
-- `tools/import_with_to_this_closure.py`
 - `reference-repair-report.md`
 - `log.md`
 
