@@ -189,6 +189,8 @@ def main() -> int:
         "physics-registration-theorem.md", "sm-content-smuggle-audit-frontier.md",
         "grqm-conflict-status.md", "grqm-problem-locator.md", "index.md",
         "overview/triadic-closure-reading-order.md", "repository-inventory.md",
+        "mathematization-F10-status.md", "archivist-instructions-foundation-audit.md",
+        "overview/corpus-cleanup-pass-report.md",
     )
     combined = "\n".join(corpus_text(root, name, overlay) for name in active_files)
     for phrase in (
