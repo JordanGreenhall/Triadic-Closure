@@ -49,15 +49,15 @@ The decisive question: does the per-step tilt (F9) accumulate to a **metric curv
 
 ---
 
-## F11 — The relation is forced to the Einstein form (given four properties)
+## F11 — Retained conditional tensor-rigidity proposal
 
-The relation between the source (conditioning-degree concentration = the Hamiltonian / energy-momentum distribution, a stress-energy-type T) and the curvature. The honest result is a **forcing-argument**, not a from-scratch field-equation derivation.
+The historical source proposed a relation between a conditioning source and curvature. P24 adjudicates this as a conditional theorem implication whose framework premises remain unresolved, not as a completed forcing argument.
 
 **The four properties, with status:**
-1. **Locality.** P's next-configuration weighting depends on P's immediate neighbors' conditioning-degree (the edges incident at P's neighbors). [proved — the weighting is over P's one-step neighbors, intrinsically local.]
-2. **Second-order in the metric.** The curvature is the variation of the cone-tilt-field, a second-order property of the metric. [argued, from F10/F10a.]
-3. **Leading-order linear in the source.** Small conditioning-degree-excess → proportional cone-tilt, because the realizability-weighting is smooth in the coherence-measure (small change in C → proportional change in selection). [argued.]
-4. **Conservation of the source: ∇·T = 0.** This is **conservation of registered distinctions (0.6)** in essence — the conditioning-activity distribution conserves its registered content (nothing destroys a registered distinction). The contracted Bianchi identity's physical content (covariant conservation of stress-energy) *is* the framework's conservation law. [proved-prior, 0.6.]
+1. **Discrete locality.** One-step neighbor dependence is shown for the selected weighting, but does not prove exact continuum derivative order or a natural tensor equation.
+2. **Second-order in the metric.** Conjectured/Unregistered under P24; a continuum order theorem and full geometric tensor are absent.
+3. **Linear source coupling.** Historically argued at leading order; the physical source map, nonzero coupling, and nonlinear extension remain unproved.
+4. **Conservation of the source.** Open generally under P23. Scalar continuity and the Bianchi identity do not construct `nabla_mu T^{mu nu}=0`.
 
 **(P24) [retained proposal, corrected] If every precise rigidity premise and a nondegenerate linear source coupling are independently supplied, the four-dimensional Lovelock-style implication normalizes to `G_mu nu + Lambda g_mu nu = kappa T_mu nu`.** P24 Secures that conditional mathematical implication, not the framework premise map. The second-order theorem, complete natural tensor, conserved physical source, nonzero Einstein coefficient, and source coupling remain unproved.
 
