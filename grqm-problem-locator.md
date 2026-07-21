@@ -658,7 +658,7 @@ Kept explicit so the corpus shows where the discipline bit.
   mislocation-contrast Registered given G2.
 - **G4 — `A/4`. Shape standing is P27-owned; the coefficient calculation remains conditional on an Open P24 `8π`/strong-field premise.** The `2π` signature falsifier is resolved (0.6 conserves the definite
   `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification (modular flow =
-  distinction-conserving flow). Still owed: S2 (Einstein form strong-field — favorable, horizon
+  distinction-conserving flow). Still owed: S2 (Einstein-form strong-field validity — Open under P24; horizon
   locally regular); the boundary *count* itself rides Item 2's frequency=weight Open gate.
 - **G5 — superposition admissibility. Registered, and conflict (2) sealed for the matter-sourced
   case.** Both halves textually grounded (no-actual-superposition from 2.6/2.7; permissive half from

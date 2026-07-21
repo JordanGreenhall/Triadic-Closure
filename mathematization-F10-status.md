@@ -45,7 +45,7 @@ If (ii) is *forced* by the framework (not merely available), then F10 likely goe
 - **F8** (the coherence-participation functional, forced via Gleason for dim ≥ 3): **done, holds.**
 - **F9** (the standing vector σ_i = √(d_i)/Z; the tilt C(e_i) = d_i/Σd_j, exactly linear in conditioning-degree): **done, holds** (with the one flagged modeling choice — the conserved-flow standing-state).
 - **F10** (the tilt accumulates to exactly metric curvature): **not done.** Two obstacles found: (a) the naive hopping gives a velocity-drift (medium), not geodesic motion — resolvable in principle by the proper-depth framing; (b) the gravitational sign depends on an underived definition of proper time, with the two natural definitions giving opposite signs. F10 reduces to deriving proper time on the network (F10-core), which is owed.
-- **F11** (the Einstein form via Lovelock): **conditional on F10**, as before, and additionally on the sign being resolved attractive.
+- **F11/P24** (the Einstein form via Lovelock): the named rigidity implication is conditional mathematics, but the framework equation is not obtained merely by resolving F10 and its sign. P24 additionally requires an exact locality/order theorem, complete tensor/covariance premises, a conserved physical source, nonzero source coupling, and tensor/nonlinear completion.
 
 **Net:** the gravity program is real and computed through F9, and F10 is honestly open with the obstacle sharply identified (proper time on the network, sign-determining). This is a better place to be than a fitted F10 — the owed thing is now a single precise question — but it is not the completed curvature derivation, and is not claimed as one.
 
