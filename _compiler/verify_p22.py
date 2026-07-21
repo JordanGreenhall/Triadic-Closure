@@ -111,15 +111,17 @@ def main() -> int:
         "## Semantic boundary",
         "## Authority and lineage",
         "## 1. Conditional discrete input",
-        "## 4. Geodesic and tidal checks",
-        "## 5. Harmonic exterior and Poisson form",
+        "## 4. Documentary reports and conditional analytic tidal mathematics",
+        "## 5. Distinct three-dimensional reports, harmonic exterior, and Poisson form",
         "## 6. Claim and warrant ledger",
         "## 7. Local frontier",
         "## 8. Integration rules",
         "## 9. Source disposition",
         "Registered at static weak-field model scope",
         "does not infer a physical scalar density",
-        "`G` remains Open/values-side",
+        "status: current",
+        "G M := A/d_0",
+        "documentary report only",
     )
     for item in required_local:
         require(errors, item in local, f"missing canonical P22 element: {item}")
@@ -135,6 +137,15 @@ def main() -> int:
         require(errors, sorted(files) == sorted([GLOBAL, LOCAL]), f"{frontier} must occur only in local/global files; got {sorted(files)}")
         require(errors, local.count(f"### {frontier} —") == 1, f"{frontier} must have one local heading")
         require(errors, global_text.count(f"**{frontier} —") == 1, f"{frontier} must have one global entry")
+
+    fixed_support = "flat fixed-support anisotropic-walk countermodel"
+    require(errors, local.count(fixed_support) == 1, "P22-F1 local entry must contain the fixed-support anisotropic-walk countermodel once")
+    require(errors, global_text.count(fixed_support) == 1, "P22-F1 global entry must contain the fixed-support anisotropic-walk countermodel once")
+    for path in root.rglob("*.md"):
+        rel = path.relative_to(root)
+        if ".git" in rel.parts or "_compiler/verification" in rel.as_posix() or rel.as_posix() in (LOCAL, GLOBAL):
+            continue
+        require(errors, fixed_support not in corpus_text(root, rel, overlay), f"P22-F1 fixed-support countermodel escaped local/global records: {rel}")
 
     source_guards = {
         "gravity-and-curvature.md": ("type: supporting", "status: shadow", "P22 governs every weak-field claim"),
@@ -182,9 +193,46 @@ def main() -> int:
         "sign forced by atomicity, geodesic motion and tidal deviation verified",
         "scripts (run, outputs recorded above)",
         "weak-field gravity stands without the prior caveat",
+        "Secured as reported finite-model evidence",
+        "same modeled field as the F11 potential",
+        "Phi=A/r+C",
+        "Phi(r) = A / r + C",
+        "The continuum step is still ahead (F10)",
+        "F10 — still the open frontier",
+        "gravity asymmetry** (dilation vs curvature",
     )
     for phrase in banned_active:
         require(errors, phrase not in combined, f"obsolete active P22 formulation remains: {phrase}")
+
+    correction_requirements = {
+        LOCAL: (
+            "unequal weights alone do not alter reachable directions, null support, or metric structure",
+            "Profile/weight-to-support or metric bridge",
+            "Retained documentary report only",
+            "delta d(r) = A / r + C_d",
+            "Phi(r) = -delta d(r) / d_0 = -A / (d_0 r) + C_Phi",
+            "nabla^2 Phi = +(4 pi A/d_0) delta^3(r)",
+            "No repository evidence identifies them as one run",
+        ),
+        "mathematization-F11.md": (
+            "delta d=A/r+C_d",
+            "Phi(r) = -delta d(r)/d_0",
+            "G M:=A/d_0",
+            "distinct documentary report of unknown relationship",
+        ),
+        "gravity-asymmetry.md": (
+            "does not logically alter their support",
+            "R²=0.9993",
+            "relationship to F11's separately described",
+            "documentary evidence only",
+        ),
+        "mathematization-F9-done.md": ("P22 owns the later gravity status", "local weight law, not a metric/support theorem"),
+        "physics-walk-D1-D5-consolidated.md": ("The gravity walk (P22 normalized)", "P22 gravity frontiers"),
+    }
+    for name, phrases in correction_requirements.items():
+        text = corpus_text(root, name, overlay)
+        for phrase in phrases:
+            require(errors, phrase in text, f"{name} lacks frozen-correction element: {phrase}")
 
     for upstream in (
         "p19-native-electron-ruler-and-proton-electron-ratio.md",
