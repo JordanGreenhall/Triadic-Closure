@@ -82,7 +82,14 @@ Authority is claim-specific. No source governs all of P21.
 
 ## Mature status
 
-Status: **Registered** for the closure-as-collapse mechanism, structural colored non-closure, tested-flow singlet-attractor result, and the corresponding scoped P6 persistence/stability witness; **not sealed** for universal uniqueness over the whole admissible-dynamics class; **Open** for the resulting closure's mass-scale and coupling magnitude.
+P21 has mixed standing.
+
+- **Forward closure:** Secured conditionally and Registered for the displayed baryon model, declared flows, singlet attractor, and scoped P6 persistence/stability witness.
+- **Generic structural decay classifier:** Registered for reconfiguration or loss of a prior identity-constituting invariant through an admitted escape passage. A coherence barrier is included only when a barrier is actually exhibited.
+- **Literal inverse-closure theorem:** not established. The office reading `This -> With + From` is Conjectured as a candidate structural account.
+- **Neutron-specific inverse transition and product settlement:** not Registered. The candidate `udd -> uud` route, electron output, antineutrino receipt, and kinetic-release partition retain the grades stated below.
+- **Observed products, spectra, rates, lifetimes, and branching ratios:** empirical; no framework derivation is claimed.
+- **Weak interaction, `W` exchange, exact `V−A`, and the beta-decay operator/module:** Open or quarantined as framework content.
 
 The result fixes which configuration closes and that it is selected and restored under the reported mutual-conditioning flows. The identity-constituting invariant is the gauge-equivalence class of complete color-singlet closure. The declared variation-class is the two reported flow families and their tested perturbations. Within that scope, the closure satisfies P6.
 
@@ -162,6 +169,113 @@ Still Open:
 - whether this is the earliest or most basic stable closure;
 - the stable-ruler/calibration role;
 - any decay rate or lifetime.
+
+## Inverse closure and the decay skeleton
+
+The forward model and a decay passage are not mathematical inverses merely because their office descriptions point in opposite directions. Forward closure exhibits a particular flow into a singlet attractor. A decay construction must separately provide:
+
+1. the prior identity-constituting invariant and admitted persistence class;
+2. an actual escape or reconfiguration passage outside that class;
+3. the successor closure or closures and their independently licensed roles;
+4. every conserved distinction and where it is borne after the passage;
+5. any applicable amplitude/weighting frame;
+6. if a rate is claimed, a local hazard, frequency bridge, and clock/scale calibration.
+
+At the generic P6 level, **decay** is Registered as the structural classifier for loss or reconfiguration of a prior invariant through an admitted escape. **Metastability** additionally requires an established ordering or escape structure for the specific standing. The generic classifier does not prove that every decay crosses a coherence barrier, that every forward closure admits an inverse, or that any particular products occur.
+
+The office-form proposal
+
+> `This -> With + From`
+
+is a coherent candidate reading: a prior gathered standing partially reopens into successor standings held in relation, with released advance. It is **Conjectured**, not Registered, because the corpus contains no general inverse map, no proof of office-complete output decomposition, and no exclusion of alternative de-closure structures.
+
+## Neutron-specific candidate
+
+P14/P20 establish the endpoint mark patterns `udd` and `uud` on one shared baryon closure. They do not establish a transition between them. P20 also leaves the framework-native neutron-heavier sign and physical mark-access weight Conjectured.
+
+Accordingly:
+
+- `udd -> uud` as the framework transition is **Conjectured**; the endpoints are established, but the passage/operator is not;
+- comparative neutron metastability is **Conjectured** and inherits P20-F1;
+- the normalized mark overlap `1/2` and square `1/4` are conditional mathematics, while `1/4` as transition access weight is **Conjectured** and inherits P20-F2;
+- a one-directional drain, zero proton return amplitude, monotonic accumulation to certainty, or any hazard/rate law is **Open**;
+- observed free-neutron decay and its observed products may corroborate or calibrate a later construction but cannot warrant the missing map.
+
+## Conservation, coupling, and product boundary
+
+P21 inherits capacities without converting them into a beta-decay derivation.
+
+| Element | Current standing | Exact boundary |
+|---|---|---|
+| Reconfiguration of the prior invariant | Registered structural classifier | A concrete passage and successor invariants remain case-specific |
+| Signed valence / charge balance | Registered structural admissibility condition from P15 | Exact charge values and output assignments are not derived here |
+| Energy balance | Registered structural admissibility condition at the inherited conservation grade | The numerical mass/energy ledger is empirical; P21 supplies no stress-energy population theorem |
+| Relative channel weighting | Registered as a measure only when amplitude/readout conditions are met | No neutron channel currently meets all conditions; no frequency follows |
+| Chiral/orientation-faithful coupling | Registered structural criterion from P12 | Exact weak identity, maximal chirality, `V−A`, and matter module remain Open/quarantined |
+| Proton successor role | `uud` endpoint established; transition into it Conjectured | Observed proton product is empirical, not a native transition proof |
+| Electron as decay product | Open as a framework derivation; empirical as observation | P15's inverse-equal role recognition does not force production |
+| Antineutrino as From-With receipt | Conjectured role-reading; empirical as observed particle label | No Registered native output role or exact chiral module |
+| Surplus as pure From / kinetic release | Conjectured structural reading; empirical quantitatively | No forced partition or spectrum |
+| Product spectrum and beta-spectrum shape | Empirical | No framework distribution derived |
+| Lifetime, rate, branching ratios | Open as framework derivations; empirical as measurements | Weight is not frequency; hazard and calibration are absent |
+| Weak interaction / `W` exchange / beta operator | Quarantined or Open | P11/P12/P15/P29 dependencies remain unresolved |
+
+The retained two-ledger proposal is therefore a research route, not current product registration. Charge and chirality controls tell a completed construction what it must preserve or distinguish; they do not identify outputs by themselves.
+
+## Claim record
+
+| Claim | Framework state and warrant | Semantic registration | Scope / debt |
+|---|---|---|---|
+| Forward modeled With-to-This closure | Secured conditionally by reported flows | Registered | displayed baryon model only |
+| Generic decay classifier | Secured at P6 structural-definition reach | Registered | no universal barrier or products |
+| `This -> With + From` de-closure reading | Conjectured from office-form proposal | Unregistered as a theorem | inverse map and alternatives absent |
+| Neutron `udd -> uud` transition | Conjectured | Unregistered | endpoints do not supply passage |
+| Neutron metastability order | Conjectured under P20 | Unregistered as Secured instance | valence-to-maintenance bridge absent |
+| Neutron `1/4` access weight | Conjectured under P20 | Unregistered as physical measure | amplitude space/frame absent |
+| Charge conservation criterion | Secured structurally under P15 | Registered | no exact values/products |
+| Chiral coupling criterion | Secured structurally under P12 | Registered | exact weak module Open |
+| Electron product identity | Open internally; empirical observation | Unregistered as native output | transition/settlement proof absent |
+| Antineutrino receipt identity | Conjectured role-reading | Unregistered | product role/module absent |
+| Kinetic-release partition | Conjectured structurally; empirical quantitatively | Unregistered | no unique partition/spectrum |
+| Rate/lifetime/branching law | Open internally; empirical observation | Unregistered as framework result | hazard/frequency/calibration absent |
+
+## Local frontier
+
+### P21-F1 — Inverse-closure map and neutron passage
+
+**Open question:** construct an admissible de-closure map from a prior This to successor closures and released offices, then determine whether the neutron `udd -> uud` passage is an instance.
+
+**Current strongest result:** the generic decay classifier is Registered; the office-form inverse and neutron passage are Conjectured; endpoints are established independently.
+
+**Missing:** a state/passage space, map or operator, preservation and failure conditions, successor invariants, and exclusion of alternative de-closures. P20's sign bridge remains an upstream dependency.
+
+**False-completion risk:** reading the tested forward attractor backward as an inverse theorem or using observed neutron decay as framework warrant.
+
+**Next legitimate research action:** define the admissible passage class and candidate inverse map, then test invariant settlement and countermodels without using product familiarity as input.
+
+### P21-F2 — Product-role and ledger settlement
+
+**Open question:** determine whether electron, antineutrino, and kinetic-release roles follow from a completed inverse passage rather than from empirical recognition.
+
+**Current strongest result:** signed-valence conservation and chiral coupling criteria are Registered; the antineutrino receipt is Conjectured; electron production is Open internally; observed products are empirical.
+
+**Missing:** independently licensed output roles, exact ledger map, conservation expenditure, chiral module, and proof that no alternative settlement satisfies the same constraints.
+
+**False-completion risk:** treating charge/chiral constraints as product generators or an observed balance equation as a derivation.
+
+**Next legitimate research action:** enumerate admissible successor-role decompositions under the registered constraints and test uniqueness only after P21-F1 supplies a passage.
+
+### P21-F3 — Channel measure, hazard, and calibration
+
+**Open question:** determine whether any licensed channel amplitude yields a local escape measure and, separately, a calibrated rate or lifetime.
+
+**Current strongest result:** generic weighting is Registered as a measure under explicit conditions; the P20 mark square is mathematical and its access interpretation Conjectured; observed rates are empirical.
+
+**Missing:** amplitude-space location, normalized alternatives, transition hazard per step, frequency bridge, clock/step calibration, and scale/coupling inputs.
+
+**False-completion risk:** turning `1/4`, accessibility, or repeated reselection into frequency, monotonic certainty, or the observed neutron lifetime.
+
+**Next legitimate research action:** after P21-F1, construct the local alternative frame and hazard separately from empirical calibration.
 
 ## Mass-ratio boundary
 
