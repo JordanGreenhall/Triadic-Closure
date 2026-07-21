@@ -1,6 +1,6 @@
 # P28 Fresh-Reader Review
 
-Reviewed content-correction head: `88637574c34fcf256c50cf5cc3022d91bef41a30`
+Reviewed verifier-reconciliation head: `8c64e33ddd8e29093ccf09e405f3a041e6b2d2b0`
 Exact base: `92b194970a7fa00f516e759eaeb3e4d3d38aad03`
 Reader posture: owner-first review without relying on implementation intent.
 
@@ -50,7 +50,7 @@ Reader posture: owner-first review without relying on implementation intent.
 
 12. **Can stale grades return silently?**
 
-   The exercised surfaces are bounded and explicit. Six owner/frontier/boundary mutations reject present-value confirmation, coefficient registration, native-dynamics registration, unconditional-flatness registration, missing frontier placement, and P29 boundary collapse. Four additional in-memory mutations independently replace each A1 consumer with its stale conflated or all-magnitude-demotion wording; each exits 1. This proves coverage of the named owner/shadow/frontier and four A1 consumer surfaces, not every possible corpus phrase.
+   The exercised surfaces are bounded and explicit. Six owner/frontier/boundary mutations reject present-value confirmation, coefficient registration, native-dynamics registration, unconditional-flatness registration, missing frontier placement, and P29 boundary collapse. Four in-memory local-surface mutations independently restore each A1 consumer's stale conflated or all-magnitude-demotion wording while retaining surrounding content and its P28 route. Three further local-surface mutations independently remove the coefficient grade, translation grade, or positive-sign/metric-proportional/`w=-1` structural elements while retaining the contrasting grade or remaining structural-grade text and route. All thirteen mutations exit 1 for their named semantic assertion. This proves only the enumerated owner/frontier/boundary and consumer mutation classes, not every possible corpus phrase.
 
 13. **Do the four audited consumers now preserve P28 separation?**
 

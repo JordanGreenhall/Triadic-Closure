@@ -1,7 +1,7 @@
 # P28 Compiler Cycle
 
 - Exact merged P27 base: `92b194970a7fa00f516e759eaeb3e4d3d38aad03`
-- Exact clean P28 content-correction head: `88637574c34fcf256c50cf5cc3022d91bef41a30`
+- Exact clean P28 verifier-reconciliation head: `8c64e33ddd8e29093ccf09e405f3a041e6b2d2b0`
 - Branch: `agent/normalization-p28-persistent`
 
 ## Clean fixed-point run
@@ -48,8 +48,14 @@ The bounded A1 consumer packet also executed and rejected four independent stale
 - `--simulate downstream-smuggle`
 - `--simulate downstream-deferred`
 
+Three claim-specific partial-deletion surfaces also rejected with exit code 1 while retaining surrounding content and the P28 route:
+
+- `--simulate downstream-coefficient-grade`
+- `--simulate downstream-translation-grade`
+- `--simulate downstream-structural-elements`
+
 Exact commands and rejection lines are committed in `_compiler/verification/p28-failure-*.txt`.
 
 ## Fixed-point conclusion
 
-The clean content-correction state is stable under repeated verification. `git status --porcelain=v1` emitted no bytes before or after both runs; no untracked evidence or Python cache affected counts. The verifier and algebra reproducer modify no tracked file. Evidence documentation is added only after the named content-correction state and does not alter canonical P28 theory or frontier substance.
+The clean verifier-reconciliation state is stable under repeated verification in a detached case-sensitive checkout of the named commit. `git status --porcelain=v1` emitted no bytes before or after both runs; no untracked evidence or Python cache affected counts. The verifier and algebra reproducer modify no tracked file. Evidence documentation is added only after the named verifier-reconciliation state and does not alter canonical P28 theory, consumers, or frontier substance.
