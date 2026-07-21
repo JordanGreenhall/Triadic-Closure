@@ -41,7 +41,9 @@ P25 does not license:
 - a derivation of a metric, curvature, source, `G`, Einstein equation, or strong-field dynamics beyond P22–P24;
 - the claim that every gauge theory is renormalizable or every metric theory is non-renormalizable;
 - an imported QFT field ontology, path integral, regulator, counterterm theorem, or ultraviolet completion;
-- actual-geometric-superposition, BMV, holonomy, horizon, entropy, or Lambda claims owned by P26–P28;
+- actual-geometric-superposition, BMV, and holonomy claims, which P26 owns;
+- horizons, information/unitarity, area, and entropy claims, which P27 owns;
+- Lambda meaning, magnitude, and dynamics, which P28 owns;
 - the equation of a diagnostic structural contrast with a completed causal or quantitative explanation.
 
 ## Authority and lineage
