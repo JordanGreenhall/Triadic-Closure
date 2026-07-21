@@ -85,7 +85,8 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) — canonical owner
 - [Gravity and Curvature](gravity-and-curvature.md) — concise P22 shadow
 - [Gravity Asymmetry](gravity-asymmetry.md) — supporting P22 source
-- [Stress-Energy: Three Offices](stress-energy-three-offices.md)
+- [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) — canonical owner
+- [Stress-Energy: Three Offices](stress-energy-three-offices.md) — concise P23 shadow
 - [Lambda Derived](lambda-derived.md)
 - [GR/QM Conflict Status](grqm-conflict-status.md)
 
