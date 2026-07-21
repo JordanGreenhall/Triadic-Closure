@@ -19,11 +19,11 @@ P24 is a normalization unit, not a new full-GR derivation. It may reproduce fini
 
 ## Core distinctions to preserve
 
-1. The accepted four-dimensional Lovelock-style result is a conditional mathematical rigidity implication under explicit carrier/dimension, naturality/covariance, locality, symmetry, divergence-free, and derivative-order hypotheses. It does not establish those hypotheses for the framework.
+1. The corpus accepts a general Lovelock-style theorem family as external mathematics and retains `H=aG+bg` as the selected target route. It names only a provisional hypothesis family; no exact P24 schema, complete closed hypothesis list, or claim-specific applicability record is present.
 2. One-step discrete locality does not by itself prove exact at-most-second-order continuum field equations. The centered nearest-neighbor difference already expands as `D_a f = f'' + (a^2/12) f'''' + O(a^4)` for smooth `f`; a scaling/continuum theorem is needed to suppress or control higher-order terms.
 3. P23's scalar continuity does not establish covariant tensor conservation, and P22's `g00` sector does not establish a full metric or tensor equation.
-4. The full Einstein form may be used only as a conditional selected model or as the conclusion of the named theorem after all hypotheses are explicitly supplied. It is not a Registered framework-native field equation at current standing.
-5. Lovelock permits a metric-proportional term but does not derive P28's Lambda source interpretation, magnitude, or dynamics. It also does not fix `kappa=8 pi G`; P22 source normalization and `G` remain Open.
+4. The full Einstein form may be used only as a selected/Conjectured conditional model. The separate premises `H=cT` and `a!=0` are not theorem hypotheses and do not make it a Registered framework-native field equation.
+5. The selected target permits study of a metric-proportional term but does not derive P28's Lambda claims. P22 retains graph/scalar normalization and `G`; P23 retains tensor-source semantics/conservation; P24 retains `kappa:=c/a`, nonzero coupling, `kappa=8 pi G`, calibration, and nonlinear expenditure.
 6. Tensor completeness, nonlinear self-coupling, strong-field solutions, and empirical equivalence remain Open and Unregistered under P24.
 
 ## Source collection and authority

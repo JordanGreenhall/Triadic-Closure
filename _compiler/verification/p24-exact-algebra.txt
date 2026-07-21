@@ -3,7 +3,7 @@ P24 exact algebra reproduction
 method:
 - Taylor coefficient for the centered nearest-neighbor operator is [1^n+(-1)^n]/n! after division by a^2.
 - Nondegenerate rigidity normalization uses Lambda=b/a and kappa=c/a.
-- The a=0 branch is checked separately and cannot be normalized to an Einstein kinetic term.
+- The executable normalization function rejects `a=0` with `ZeroDivisionError`; the verifier calls that branch and requires the exception.
 
 executed output:
 nearest-neighbor centered operator
@@ -13,8 +13,8 @@ order 6: 1/360
 nondegenerate sample: a=3, b=6, c=15
 Lambda=b/a=2
 kappa=c/a=5
-a=0 normalization: unavailable (division by zero)
+a=0 normalization: guarded call executed; ZeroDivisionError required and observed
 PASS exact P24 algebra
 
 Interpretation boundary:
-The centered one-step operator has higher-derivative finite-spacing terms. This proves only that one-step locality does not by itself imply exact derivative truncation; it does not rule out a second-order leading scaling limit. Coefficient division reproduces the conditional normalization but does not establish a nonzero Einstein coefficient, a source coupling, physical G, or Lambda standing.
+The centered one-step operator has higher-derivative finite-spacing terms. This proves only that one-step locality does not by itself imply exact derivative truncation; it does not rule out a second-order leading scaling limit. Nondegenerate coefficient division reproduces only the selected-model algebra. The executed degenerate branch proves that normalization is unavailable at `a=0`; neither branch establishes a physical coupling, physical G, or Lambda standing.
