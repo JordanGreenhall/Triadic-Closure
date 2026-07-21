@@ -1,11 +1,11 @@
 ---
-title: With-to-This Closure as Realizability Collapse
+title: P21 With-to-This Closure and Decay Boundary
 type: physics-mechanism
 created: 2026-06-22
-updated: 2026-07-17
+updated: 2026-07-21
 status: current
 confidence: medium
-section: Realizability, actualization, and weighting
+section: Closure, mass, and decay
 sources:
   - d6-persistence.md
   - realizability-weighting-law.md
@@ -24,7 +24,7 @@ historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
 
-# With-to-This Closure as Realizability Collapse
+# P21 With-to-This Closure and Decay Boundary
 
 How a previously-standing With is closed over by a new This. The result addresses, within one tested baryon model, why a complete-closure configuration is selected rather than merely available, why the result is category-level, and why the modeled closure first appears at the closure-form's arity.
 

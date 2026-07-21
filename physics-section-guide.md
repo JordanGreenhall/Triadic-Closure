@@ -26,6 +26,7 @@ sources:
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p19-native-electron-ruler-and-proton-electron-ratio.md
   - p20-baryon-closure-and-proton-neutron-relation.md
+  - with-to-this-closure.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -63,7 +64,8 @@ Read by semantic dependency rather than file age.
 18. [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md).
 19. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
 20. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md).
-21. [Physics Domain Mature Status](physics-domain-mature-status.md).
+21. [P21 With-to-This Closure and Decay](with-to-this-closure.md).
+22. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -74,13 +76,13 @@ Read by semantic dependency rather than file age.
 3. [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md).
 4. [d6-persistence](d6-persistence.md).
 5. [realizability-weighting-law](realizability-weighting-law.md).
-6. [with-to-this-closure](with-to-this-closure.md).
+
 
 ## 3. Internal structure through color dynamics
 
 Read P8 through P16 in numerical order. The concise shadows remain secondary to their owning normalized pages.
 
-## 4. Mass, closure, and later baryon work
+## 4. Mass, closure, baryons, and decay
 
 1. [P17 Mass as Closure Maintenance](p17-mass-as-closure-maintenance.md).
 2. [Mass as Self-Closure](mass-as-self-closure.md) — concise P17 shadow.
@@ -89,8 +91,10 @@ Read P8 through P16 in numerical order. The concise shadows remain secondary to 
 5. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
 6. [Particle Mass from the Three Faces](mass-derivation-three-faces.md) — concise P19 shadow.
 7. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md).
-8. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — supporting P20 derivation and later P21 source.
-9. [Neutron Consideration](neutron-consideration.md) — historical/adversarial for P20.
+8. [Flavor, Mark-Metric, and Neutron](flavor-mark-metric-and-neutron.md) — supporting P20 derivation and P21 proposal source.
+9. [Neutron Consideration](neutron-consideration.md) — historical/adversarial for P20/P21.
+10. [P21 With-to-This Closure and Decay](with-to-this-closure.md).
+11. [Item 11 Decay-Product Boundary](11-decay-product-registration.md) — concise audit shadow; P21 governs.
 
 Reader guards:
 
@@ -103,6 +107,9 @@ Reader guards:
 - P20 Secures the shared singlet and mark-pattern core; its framework sign, physical `1/4` access weight, and complete magnitude are Conjectured.
 - Equal proton/neutron spin contribution is only a selected/model-conditional P20 comparison premise, not Secured or Registered native nucleon content.
 - P21 owns forward/inverse With-to-This closure and decay.
+- P21 Registers the displayed forward closure and generic decay classifier, not a literal inverse theorem.
+- The office-form inverse and neutron `udd -> uud` passage are Conjectured; electron production is Open internally, antineutrino receipt is Conjectured, and observations remain empirical.
+- Channel weight is not frequency; lifetime, rate, beta spectrum, exact weak module, and mechanism remain Open, empirical, or quarantined.
 - P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
 
 ## 5. Gravity and cosmology

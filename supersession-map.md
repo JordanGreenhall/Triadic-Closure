@@ -102,6 +102,15 @@ Execution rule: do not use “ternary coalgebra ⇒ dimension three” or any ar
 
 Execution rule: use P20 for every baryon-relation claim and grade. Use the integrated source only as supporting derivation and the neutron draft as historical/adversarial evidence. Do not infer a physical Born weight from mark-plane algebra, infer intrinsic maintenance relief from external satisfiability, or promote selected equal-spin comparison to native nucleon theorem.
 
+### P21 inverse closure, products, and rate
+
+- Earlier integrated source: `flavor-mark-metric-and-neutron.md` proposed neutron decay as literal inverse closure, a forced two-ledger settlement, one-directional drain, zero proton return amplitude, and monotonic accumulation to certainty.
+- Earlier draft: `neutron-consideration.md` called the drain structure Registered and used observed beta products and balance inside the explanatory route.
+- Earlier Item 11 control: `11-decay-product-registration.md` treated escape over a coherence barrier and relative channel weighting as a generic Registered decay skeleton without requiring a concrete barrier or amplitude frame.
+- Current: [P21 With-to-This Closure and Decay](with-to-this-closure.md) Registers the displayed forward closure and generic structural decay classifier. The office-form inverse and neutron `udd -> uud` passage are Conjectured. Electron production is Open internally; antineutrino receipt is Conjectured; observations are empirical; rates and weak mechanism remain Open or quarantined.
+
+Execution rule: do not reverse a forward attractor into an inverse theorem; infer a coherence barrier without exhibiting it; generate products from conservation constraints; or promote mark overlap, weighting, repeated reselection, or observation into transition probability, certainty, frequency, or lifetime. Use P21-F1 through P21-F3 for the missing passage, product settlement, and hazard/calibration work.
+
 ## Authority-control succession
 
 The earlier six-step control heuristic that began with the "most advanced complete detailed derivation" is superseded by the claim-specific order in [Corpus Lineage](corpus-lineage.md). Current direct rulings and surviving explicit repairs govern only their exact claims and must be propagated; neither a file's date nor its self-declared status establishes file-wide authority.

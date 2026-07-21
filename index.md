@@ -47,7 +47,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Physics Section Guide](physics-section-guide.md)
 - [Physics Source Map](physics-source-map.md)
 
-## Normalized physics sequence P8–P20
+## Normalized physics sequence P8–P21
 
 - [P8 Same-Kind Carrier and Representation Type](same-kind-carrier-representation-theorem.md)
 - [P9 Alternating Closure Form and Native SU(3)](gauge-structure-result.md)
@@ -62,10 +62,13 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [P18 Closure-Inherited Metric and 2π^5 Measure](p18-closure-inherited-metric-and-2pi5-measure.md)
 - [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md)
 - [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md)
+- [P21 With-to-This Closure and Decay](with-to-this-closure.md)
 
 P19 registers `m_e = 1` as the native internal ruler, seats one P18 color closure across three spatial bearings to give the exact With–This factor `6 pi^5`, and records the complete proton/electron relation as `6 pi^5 [1 + c(3 pi^4)^-2]` with `3/2 <= c <= 9/4`. The exact internal selection of `c` remains Open.
 
 P20 retains baryon singlet closure and the shared-singlet/`uud`–`udd` nucleon distinction at bounded inherited scopes. Its framework-derived neutron-heavier sign, physical `1/4` access weight, and complete splitting magnitude are Conjectured. Decay is P21-owned.
+
+P21 Registers the displayed forward closure and the generic decay classifier. The office-form inverse and neutron passage are Conjectured; product settlement, channel rate, lifetime, beta spectrum, and weak mechanism remain separately Conjectured, Open, empirical, or quarantined.
 
 ## Supporting physics pages
 
@@ -73,8 +76,8 @@ P20 retains baryon singlet closure and the shared-singlet/`uud`–`udd` nucleon 
 - [Mass as Self-Closure — concise P17 shadow](mass-as-self-closure.md)
 - [Closure-Inherited Metric — concise P18 shadow](closure-inherited-metric.md)
 - [Particle Mass from the Three Faces — concise P19 shadow](mass-derivation-three-faces.md)
-- [With-to-This Closure](with-to-this-closure.md)
-- [Flavor, Mark-Metric, and Neutron — supporting P20 derivation](flavor-mark-metric-and-neutron.md)
+- [Item 11 Decay-Product Boundary — concise P21 shadow](11-decay-product-registration.md)
+- [Flavor, Mark-Metric, and Neutron — supporting P20 derivation and P21 proposal](flavor-mark-metric-and-neutron.md)
 - [Realizability Weighting Law](realizability-weighting-law.md)
 
 ## Gravity and cosmology
