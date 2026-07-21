@@ -1,0 +1,35 @@
+=== cumulative P20 verifier ===
+P20 deterministic normalization verification
+base: 6d88509b900add3340f7a688ab58e66a0ee30134
+changed Markdown files checked: 37
+local Markdown links checked: 381
+frontier file placement: local canonical + global summary
+mark norms: 3, 3
+mark inner product: 3/2
+normalized overlap: 1/2
+squared overlap: 1/4
+resolved P13 differentiation frontier: absent
+equal-spin nucleon standing: selected/model-conditional only
+P19 boundary: inherited, not reopened
+P21 boundary: decay excluded
+diff hygiene: checked
+PASS
+=== exact-base P21 verifier ===
+P21 deterministic normalization verification
+base: 71a6f42de3b1f3c2ef26666a32f9d829777a5da6
+changed Markdown files checked: 26
+local Markdown links checked: 349
+frontier placement: canonical local + global summary only
+inherited P20-F1/P20-F2 placement: P20 local + global summary only
+P19/P20 boundary: inherited, not reopened
+P22 gravity boundary: excluded
+Item 11 nested loop README: absent
+inverse passage: Conjectured, not inferred from forward closure
+products: bounded by internal standing versus observation
+rate/frequency/mechanism: Open, empirical, or quarantined
+chirality: bounded structural result preserved; exact V−A Open
+weighting: conditional measure preserved; observed frequency bridge Open
+diff hygiene: checked
+PASS
+=== diff hygiene ===
+PASS
