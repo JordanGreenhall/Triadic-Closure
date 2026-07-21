@@ -165,8 +165,8 @@ def main() -> int:
             "Retained conditional tensor-rigidity proposal", "Bianchi identity do not construct",
         ),
         "grqm-conflict-status.md": (
-            "Conjectured / Unregistered under P24", "`8π` Einstein/source coefficient",
-            "Open under P22/P24",
+            "Conjectured / Unregistered under P24",
+            "| `8π` Einstein/source coefficient | Open under P22/P24 |",
         ),
         "grqm-problem-locator.md": (
             "Conjectured / Unregistered under P24", "`8π`** Einstein/source coefficient",
