@@ -84,7 +84,7 @@ The absent `t_structure.py`, `t_full.py`, and `t_converge.py` scripts and their 
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
 - **F10:** selected inverse-clock curvature model with retained geodesic/tidal reports. **Registered at bounded static `2+1` model scope**; source/clock uniqueness and common `3+1` implementation Open under P22.
-- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. Stress-energy claims await P23 normalization; the full tensor/Lovelock route awaits P24. Lambda is governed separately by P28 sources.
+- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. P23 governs the bounded stress-energy source/decomposition result and its open dynamics; the full tensor/Lovelock route awaits P24. Lambda is governed separately by P28 sources.
 
 **Bounded arc:** the retained sources connect a conditional local participation tilt to a selected static clock metric, reported geodesic/tidal checks, and a separate harmonic three-dimensional exterior. P22 records the exact open edges; P23/P24 govern the tensor and full-GR continuation.
 
