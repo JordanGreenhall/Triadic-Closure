@@ -76,7 +76,7 @@ No tracked generator, importer, restoration script, or workflow rewrites this ow
 | Retained 20,000-sample report | Documentary only; script/payload/raw output absent | Unregistered as reproducible evidence | May motivate a test, not warrant a claim |
 | Holonomy value equals the standard BMV phase | External comparison plus Conjectured framework translation | Unregistered natively | No novel number; P22/P24 `G` and dynamics unresolved |
 | BMV-positive follows from the framework | Conjectured | Unregistered | A null result is not yet a framework falsifier |
-| Positive BMV does not logically entail actual geometric superposition | Secured as a general non-entailment once at least one coherent alternative model is supplied; P26's own alternative remains Conjectured | Registered only as a bounded interpretation warning | Does not establish P26's preferred mechanism or exclude all quantum-gravity readings |
+| Positive BMV does not logically entail actual geometric superposition | Secured only conditionally if a coherent alternative model is supplied; P26's own alternative remains Conjectured | Unregistered as a P26 physical result; retained as a bounded interpretation warning | Does not establish P26's preferred mechanism or exclude all quantum-gravity readings |
 | No actual graviton or geometry mediator is required | Open as a framework mechanism claim | Unregistered | Absence not established by interpretation alone |
 | No intrinsic gravitational decoherence floor | Open under AUD-015 | Unregistered | Discrete-substrate which-path check required |
 | Entanglement without on-shell radiation | Open | Unregistered | Requires a dynamical comparison calculation |

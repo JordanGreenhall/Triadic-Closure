@@ -80,15 +80,15 @@ def main() -> None:
 
     owner = read(OWNER)
     for needle in (
-        "General modal foundation",
-        "Matter-fork / geometry-fork application",
-        "No actual geometric superposition",
-        "Imaginary-part algebra",
-        "Postcosm edge connection and non-exactness",
-        "BMV-positive as a framework implication",
+        "framework's general modal distinction",
+        "matter fork carries alternative participation/geometry extensions",
+        "Complete actual physical geometry cannot superpose",
+        "Im h(x,y) = -Im h(y,x)",
+        "P26's postcosm phase is non-exact given complexness",
+        "BMV-positive follows from the framework",
         "No intrinsic gravitational decoherence floor",
         "Entanglement without on-shell gravitational radiation",
-        "Standard BMV phase form",
+        "standard gravitational entangling phase",
         "external comparison",
         "does not imply",
         "not yet a framework-level falsifier",
