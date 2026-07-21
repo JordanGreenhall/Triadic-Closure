@@ -107,4 +107,4 @@ supersession-map.md
 
 FINAL-EVIDENCE NOTE
 
-This file is the sole post-evidence-head addition. It records the already clean, reproducible state at 244a322d6675befc5f9949614e5b0fb9881c2b92. A final verifier run after committing this file is required and will mechanically report 28 changed files and 19 changed Markdown files without changing semantic results.
+This file is the sole post-evidence-head addition. It records the already clean, reproducible state at 244a322d6675befc5f9949614e5b0fb9881c2b92. A final verifier run after committing this file mechanically reports 28 changed files and 18 changed Markdown files without changing semantic results.
