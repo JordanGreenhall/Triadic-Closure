@@ -57,7 +57,7 @@ The historical source proposed a relation between a conditioning source and curv
 1. **Discrete locality.** One-step neighbor dependence is shown for the selected weighting, but does not prove exact continuum derivative order or a natural tensor equation.
 2. **Second-order in the metric.** Conjectured/Unregistered under P24; a continuum order theorem and full geometric tensor are absent.
 3. **Linear source coupling.** Historically argued at leading order; the physical source map, nonzero coupling, and nonlinear extension remain unproved.
-4. **Conservation of the source.** Open generally under P23. Scalar continuity and the Bianchi identity do not construct `nabla_mu T^{mu nu}=0`.
+4. **Conservation of the source.** Open generally under P23. Scalar continuity and the Bianchi identity do not construct `nabla_mu T^{mu nu}=0`; generic conservation language does not by itself prove covariant tensor conservation.
 
 **(P24) [retained proposal, corrected] If every precise rigidity premise and a nondegenerate linear source coupling are independently supplied, the four-dimensional Lovelock-style implication normalizes to `G_mu nu + Lambda g_mu nu = kappa T_mu nu`.** P24 Secures that conditional mathematical implication, not the framework premise map. The second-order theorem, complete natural tensor, conserved physical source, nonzero Einstein coefficient, and source coupling remain unproved.
 
