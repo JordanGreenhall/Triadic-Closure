@@ -73,6 +73,7 @@ Read by semantic dependency rather than file age.
 23. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md).
 24. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md).
 25. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md).
+26. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md).
 
 Non-unit control: [Physics Domain Mature Status](physics-domain-mature-status.md).
 
@@ -130,8 +131,9 @@ Reader guards:
 5. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) — canonical full-field owner.
 6. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow.
 7. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical P25 owner.
-8. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
-9. [Lambda Derived](lambda-derived.md) — P28 source.
+8. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical P26 owner.
+9. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
+10. [Lambda Derived](lambda-derived.md) — P28 source.
 
 Reader guards:
 
@@ -142,6 +144,7 @@ Reader guards:
 - P23 conditionally Secures the symmetric second-moment and observer decomposition; sector names are Registered for an independently licensed source, while the exact office map is Conjectured/Unregistered and native weights, general stress dynamics, and conservation remain open.
 - P24 accepts the general named Lovelock-style theorem family externally at conditional scope and retains `H=aG+bg` as a target route. Its exact schema/applicability, locality/order theorem, and full framework equation are Conjectured/Open and Unregistered; tensor completeness and nonlinear realization remain Open.
 - P25 Secures and Registers its bounded flattened/live spatial With-basis mapping and internal/spatial distinction. Its non-renormalizability explanation remains Conjectured and Unregistered as a completed derivation; no perturbative theorem or P7/P24 completion follows.
+- P26 preserves the foundation modal core and exact conditional holonomy algebra. Geometry application, postcosm non-exactness, and BMV implication are Conjectured and Unregistered; decoherence/radiation claims are Open.
 
 ## 6. Physics-to-chemistry interface
 

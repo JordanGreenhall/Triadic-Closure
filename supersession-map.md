@@ -100,6 +100,14 @@ Execution rule: use P24 for every full-field grade. Do not infer exact continuum
 
 Execution rule: use P25 for every G2/G3 claim and grade. Do not use a shared `g` symbol as the warrant for phase identity, collapse the internal pairing into the spatial arena, infer P7/P24 completion from the mapping, turn discreteness or `no intrinsic grain` into a perturbative theorem, or use P26–P28 results to upgrade P25.
 
+### P26 matter-sourced geometry, holonomy, and BMV standing
+
+- Earlier detailed ledger: `grqm-problem-locator.md` called the matter-sourced no-actual-superposition conclusion and BMV-positive route Registered, treated complexness plus antisymmetry as proof of non-exact holonomy, reported an untracked 20,000-sample simulation, and promoted the standard phase and several empirical consequences as forced.
+- Earlier concise control: `grqm-conflict-status.md` summarized actual geometry as definite and BMV-positive as forced while retaining AUD-015 only as an internal caveat.
+- Current: [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) preserves the Secured foundation modal distinction and Sealed conditional algebra. Geometry-fork/no-actual-superposition application, postcosm connection/non-exactness, BMV implication, and native phase translation are Conjectured and Unregistered. Decoherence and radiation predictions are Open and Unregistered. The standard phase remains external comparison, the sample report is documentary, and a null BMV result is not yet a framework-level falsifier.
+
+Execution rule: use P26 for every geometry-definiteness, causal-growth/holonomy, BMV, decoherence, radiation, graviton, and null-falsifier grade. Do not infer nonvanishing from antisymmetry or complexness, turn the foundation modal distinction into a joint geometry theorem, use an absent script as reproducible warrant, or let P27/P28 results upgrade P26.
+
 ### Spacetime dimensionality
 
 - Package-era caution: `cover-letter.md` and superseded `phi-forward-reconstruction.md` say exact `3+1` dimensionality is not derived and is locked-actual/open classification.
