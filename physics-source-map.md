@@ -43,6 +43,7 @@ Curated pages govern status; historical sources are provenance only.
 | [p24-full-einstein-form-as-conditional-rigidity](p24-full-einstein-form-as-conditional-rigidity.md) | Lovelock-style conditional rigidity, locality/order theorem boundary, complete premise map, tensor completeness, and nonlinear realization; P24 owner |
 | [p25-grqm-background-conflict-and-nonrenormalizability](p25-grqm-background-conflict-and-nonrenormalizability.md) | Flattened/live spatial With-basis mapping, internal/spatial distinction, and bounded non-renormalizability diagnosis; P25 owner |
 | [p26-matter-sourced-geometry-holonomy-and-bmv](p26-matter-sourced-geometry-holonomy-and-bmv.md) | Geometry-definiteness, causal-growth/holonomy, BMV translation, and Open decoherence/radiation claims; P26 owner |
+| [p27-horizon-area-entropy-temperature-and-information](p27-horizon-area-entropy-temperature-and-information.md) | Physical horizon, area, temperature, entropy, conditional `A/4` algebra, and information/unitarity boundaries; P27 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
@@ -50,7 +51,7 @@ Curated pages govern status; historical sources are provenance only.
 | [gravity-and-curvature](gravity-and-curvature.md) | Concise P22 result shadow; P22 governs claims, grades, and frontiers |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Concise P23 result shadow; P23 governs claims, grades, and frontiers |
 | [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) | Concise P24 import-boundary shadow; P24 governs claims, grades, and frontiers |
-| [grqm-conflict-status](grqm-conflict-status.md) | Concise P25+ multi-unit shadow; P25 governs G2/G3 and P26 governs conflict-(2), holonomy, BMV, decoherence, and radiation claims |
+| [grqm-conflict-status](grqm-conflict-status.md) | Concise P25+ multi-unit shadow; P25 governs G2/G3; P26 governs conflict-(2), holonomy, BMV, decoherence, and radiation claims; P27 governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims |
 | [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 
 Additional normalized controls:

@@ -1,0 +1,6 @@
+P27 stale-state rejection: frontier
+Overlay: index.md
+Command: python3 _compiler/verify_p27.py --base e945b65c5b67afa2818a55cc363eb42f2dc5306c --overlay /tmp/p27-overlay-frontier
+Exit code: 1
+Verifier output: P27 verification: FAIL: P27-F1 living placement is ['index.md', 'p27-horizon-area-entropy-temperature-and-information.md', 'physics-domain-mature-status.md']
+Result: REJECTED

@@ -18,11 +18,11 @@ sources:
 
 # GR/QM Conflict Status
 
-Current concise multi-unit status page for the GR/QM conflict problem-locator and session ledger. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs the root background-conflict and non-renormalizability-diagnosis claims. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2) geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. The detailed ledger lives in [`grqm-problem-locator.md`](grqm-problem-locator.md). Horizon/information and Lambda material remain for P27–P28.
+Current concise multi-unit status page for the GR/QM conflict problem-locator and session ledger. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs the root background-conflict and non-renormalizability-diagnosis claims. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2) geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. The detailed ledger lives in [`grqm-problem-locator.md`](grqm-problem-locator.md). Lambda material remains for P28.
 
 ## Mature status
 
-P25 status: G2a's flattened/live spatial With-basis mapping and G2b's internal-pairing/spatial-arena distinction are **Secured at bounded structural scope and Registered for their mapped cores**. G3's overall non-renormalizability explanation is **Conjectured and Unregistered as a completed framework derivation**; its basis/content and mislocation contrasts are conditionally Secured and Registered only for bounded diagnostic use. P26 status: the foundation's modal distinction and exact conditional holonomy algebra stand at their local grades, but the physical geometry-fork, no-actual-superposition, postcosm non-exactness, and BMV implication are **Conjectured and Unregistered**. Decoherence-floor absence and radiation claims are **Open and Unregistered**. G1 manifold recovery remains P7-owned.
+P25 status: G2a's flattened/live spatial With-basis mapping and G2b's internal-pairing/spatial-arena distinction are **Secured at bounded structural scope and Registered for their mapped cores**. G3's overall non-renormalizability explanation is **Conjectured and Unregistered as a completed framework derivation**; its basis/content and mislocation contrasts are conditionally Secured and Registered only for bounded diagnostic use. P26 status: the foundation's modal distinction and exact conditional holonomy algebra stand at their local grades, but the physical geometry-fork, no-actual-superposition, postcosm non-exactness, and BMV implication are **Conjectured and Unregistered**. Decoherence-floor absence and radiation claims are **Open and Unregistered**. P27 status: P17's architectural horizon relation and exact conditional local/boundary/signature/cancellation mathematics stand, while physical horizon and area are **Conjectured and Unregistered** and temperature, entropy, `S=A/4`, information preservation, and unitary evaporation are **Open and Unregistered**. G1 manifold recovery remains P7-owned.
 
 The standard statement of the GR/QM conflict is treated as a symptom and external comparison target. P25 proposes that naive metric quantization mislocates the vertical/horizontal crossing onto the arena continuum rather than at the discrete This; that explanatory step remains Conjectured overall. The root conflict is the background problem: QM uses a flattened arena while GR makes geometry live.
 
@@ -45,12 +45,12 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 | G1c smoothness / rotational invariance and exact local Lorentz | Smoothness/rotational invariance: Registered-not-Sealed via named universality import. Exact local Lorentz: Secured within the defended-posit ceiling; Registered-not-Sealed. | Do not state manifold recovery as sealed or turn the exactness ceiling into a manufactured proof task. |
 | Exact locality-to-second-order continuum theorem | Conjectured / Unregistered under P24 | One-step locality is a native candidate, but finite-spacing higher-derivative corrections require a scaling/order theorem beyond G1. |
 | Lovelock route | General named theorem family accepted externally at conditional scope; exact P24 schema/applicability Conjectured/Open and Unregistered | `H=aG+bg` remains a positive target, not a completed claim-specific theorem record or native field equation. |
-| Native horizon: mass = self-closure; horizon = total self-closure | Registered | May be used for horizon shape and boundary-count arguments. |
-| Near-horizon Rindler form and native κ | Registered rule-given fragment | Local strong-field-solution-independent result. |
-| Area = straddling-link count | Registered shape | No Planck-area smuggle; `G` only converts native links to length units. |
+| Total-self-closure / physical horizon | Architectural relation Secured at P17 reach; physical horizon Conjectured / Unregistered under P27 | P22 weak-field `d→∞` is not a strong-field solution. |
+| Near-horizon Rindler form and κ | Sealed conditional algebra; physical application Conjectured/Open and Unregistered | Requires a licensed lapse, proper-distance coordinate, and simple zero. |
+| Area = straddling-link count | Exact selected boundary-scaling example; physical area Conjectured / Unregistered | No universal graph horizon, area map, entropy, or Planck-area claim. |
 | `8π` Einstein/source coefficient | Open across P22/P23/P24 | P22 retains graph/scalar normalization and `G`; P23 retains tensor-source semantics/conservation; P24 retains the nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. |
-| `2π` temperature period | Registered, not Sealed | Original carrier-vs-arena falsifier is resolved: 0.6 conserves definite `Σ|ψ|²`, which U(1) preserves and the boost does not. Remaining seal-gap: identify thermal/modular flow with distinction-conserving carrier flow. |
-| `1/4` coefficient cancellation | Conditional algebra; P27-owned standing | The cancellation does not establish its Open `8π` and strong-field Einstein premises. |
+| `2π` carrier period and temperature route | Carrier period/signature algebra Sealed; blocked-From map Conjectured; thermal identification and temperature Open / Unregistered | Compactness is not thermality. |
+| `1/4` coefficient cancellation and `S=A/4` | Cancellation Sealed conditionally; physical entropy law Open / Unregistered | The cancellation does not establish temperature, first law, `8π`, strong-field, units, or entropy. |
 | G5 matter-fork / geometry-fork and no-actual-superposition proposal | Conjectured / Unregistered under P26 | The general modal split and closure unit-status stand, but the physical geometry application, unique constitutive readout, and source-free case remain unconstructed. |
 | Birth-order gauge / partial-order covariance | Selected causal-growth proposal; Conjectured / Unregistered | Avoid a preferred foliation in the research model; no framework-native growth/covariance theorem is present. |
 | Cut-amplitude identity | Conjectured / Unregistered | Magnitude-square versus full-amplitude correction is retained; P26 has not constructed a licensed postcosm path amplitude, and P27 owns the phase-period use. |
@@ -66,14 +66,14 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 | Present Λ value | Conjectured-strong | Present incompleteness gives `Λ = 3 Ω_Λ R_H⁻²`; using `R_H = c/H₀ = 1.37×10²⁶ m`, `Ω_Λ = 0.685`, this gives `1.095×10⁻⁵² m⁻²`, matching measured Λ. |
 | Cosmological-constant problem | Dissolved as units/cutoff artifact, on Conjectured-strong Λ magnitude | `10⁻¹²²` is `(ℓ_P/R_H)²`, i.e. measuring a horizon-scale curvature in Planck units; QFT used a UV cutoff for an IR/horizon-bounded quantity. |
 | Λ dynamics / `w(z)` | Open | FRW/Friedmann/Li-2004/holographic-DE routes are withdrawn as laundering; rate requires framework-native expansion dynamics. |
-| Information/unitarity | Conjectured | §9.7 supports unitary-side conservation by principle; horizon boundary conservation remains conjectural. |
+| Information/unitarity | Conservation principle Secured; boundary balance Conjectured / Unregistered; unitary evaporation Open / Unregistered | Conservation alone supplies no Hilbert state, unitary evolution, radiation map, generalized entropy, or Page curve. |
 
 ## Important corrections and retractions
 
 - Do not equate two `1/4` factors by numerical coincidence. The identity must be derived.
 - The area-law route is **not** “realizability cannot reach inside the horizon.” Realizability has no spatial reach. The live route is closure-de-registration plus straddling-link count.
 - Pure-This elimination for `2π` is retracted: it describes cosmological total closure, not a black-hole horizon. The surviving route is blocked-From registering as carrier phase across a With-straddling link.
-- The original `2π` falsifier is resolved: 0.6 conserves positive-definite carrier measure `Σ|ψ|²`; the boost preserves an indefinite arena form and is non-unitary. The remaining seal-gap is the thermal/modular-flow identification.
+- The exact carrier/boost signature distinction is resolved: 0.6 conserves positive-definite carrier measure `Σ|ψ|²`; the boost preserves an indefinite arena form and is non-unitary. This does not select a physical horizon flow. The thermal/modular-flow identification and temperature remain Open and Unregistered under P27.
 - The earlier phrase “a This stands as one on one With” is textually wrong. 2.5 permits being held by more than one With; the restrictive geometry claim rests on one **constitutive With-profile** and arrived-as-one in 2.6/2.7.
 - The Bell-causality/covariance square is on the **magnitudes** `w`, not on full amplitudes `a`. Imposing it on `a` would force exact phase and zero holonomy. Phases carry the quantum holonomy; birth-order gauge means sum over orders and observe interference, not equal full amplitudes.
 - The earlier claim that complexness proves non-exactness is not retained by P26. Imaginary-part antisymmetry is exact mathematics, but complexness does not construct a postcosm connection or force a nonzero loop; both non-exactness and value remain unresolved.
@@ -84,11 +84,11 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 
 ## Integration rules
 
-- Use [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) as the canonical owner for G2/G3 background-conflict and non-renormalizability-diagnosis claims. Use [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) for conflict-(2), holonomy, BMV, decoherence, and radiation claims. Use this page as a concise multi-unit shadow and `grqm-problem-locator.md` as detailed provenance.
+- Use [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) as the canonical owner for G2/G3 background-conflict and non-renormalizability-diagnosis claims. Use [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) for conflict-(2), holonomy, BMV, decoherence, and radiation claims. Use [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) for conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. Use this page as a concise multi-unit shadow and `grqm-problem-locator.md` as detailed provenance.
 - Use [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md) for weak-field claims and frontiers and [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source-tensor claims and frontiers. Use this page only for P25+ GR/QM claims and the inherited P24 boundary; it does not upgrade P22's selected source/clock model or P23's native-weight, general-stress, and conservation gaps.
 - Use [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
 - Use [lambda-derived](lambda-derived.md) for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
-- Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
+- Do not promote a physical horizon, area, temperature, entropy, `A/4`, information preservation, or unitarity. P27 Registers none of those as completed framework physics; only its explicitly conditional mathematics is Sealed.
 - Do not treat BMV-positive as proof of actual spacetime superposition. P26 preserves the logical warning but leaves its preferred realizability-frontier mechanism and definite-geometry application Conjectured and Unregistered.
 - Do not describe the holonomy as a separate geometric Berry phase relative to gravitational configuration. The usual dynamical gravitational entangling phase is external comparison until the P26 translation is constructed.
 - Do not use FRW/Friedmann/holographic-dark-energy equations to state Λ dynamics unless separately derived framework-natively.
@@ -98,19 +98,20 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 
 1. **G1 manifold recovery.** Dimension/criticality/frame-freedom advanced; smoothness and exact local Lorentz remain not sealed.
 2. **G3 diagnosis.** Non-renormalizability-as-mislocation remains Conjectured and Unregistered as a completed derivation; only its bounded conditional structural contrasts are Registered.
-3. **`2π` thermal-flow identification.** Carrier-vs-arena conservation is resolved; remaining hinge is whether the thermal/modular flow is the distinction-conserving carrier U(1) rather than merely the boost description.
+3. **P27 horizon/entropy implementation.** Construct the physical horizon and graph cut, then a state count/entropy and thermal/modular flow before using temperature or `A/4`.
 4. **Strong-field/full-GR completion.** Full spatial metric sector, nonlinear regime, and exact `G` remain open or values-side.
 5. **Postcosm connection, holonomy, and empirical contact.** Non-exactness and value are unresolved; the standard BMV phase is external comparison, not a native derivation.
 6. **Vacuum/source-free geometric superposition.** Still untouched; the current G5 route piggybacks on matter-forks.
 7. **Discrete-substrate which-path check.** AUD-015 keeps absence of an intrinsic gravitational decoherence floor Open until this is done.
 8. **Λ dynamics / `w(z)`.** Requires framework-native expansion dynamics; imported FRW-based route withdrawn.
-9. **Information/unitarity.** Boundary conservation of registered distinctions is plausible but still Conjectured.
+9. **Information/unitarity.** Boundary balance is Conjectured; state space, evaporation/radiation evolution, generalized entropy, and a Page curve remain Open.
 
 ## Source links
 
 - [`grqm-problem-locator.md`](grqm-problem-locator.md)
 - [P25 GR/QM background conflict and non-renormalizability diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md)
 - [P26 matter-sourced geometry, holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md)
+- [P27 horizon, area/entropy, temperature, and information](p27-horizon-area-entropy-temperature-and-information.md)
 - [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md)
 - [P23 stress-energy source](p23-stress-energy-as-three-office-source.md)
 - [gravity-and-curvature](gravity-and-curvature.md) — concise P22 shadow

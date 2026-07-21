@@ -93,6 +93,7 @@ Gleason frame-function theorem (dimension ≥ 3, as mathematics-as-mathematics).
 | `propagation-…` (both) | explicitly marks the Born measure / frequency as Open | **no** — defers, places no load | ✓ consistent |
 | `d6-persistence` | escape participation-weight as decay "rate-in-essence" | yes — relative propensity | ✓ at measure level (see flag) |
 | `p26-matter-sourced-geometry-holonomy-and-bmv` | candidate amplitudes/phases on a causal-growth square and BMV branch alternatives | yes — beyond weight alone | ✗ connection, edge phase, branch state, and entanglement witness remain Conjectured/Open under P26 |
+| `p27-horizon-area-entropy-temperature-and-information.md` | carrier phase, thermal flow, entropy, and horizon information | yes — beyond weight alone | ✗ normalized weight does not construct thermal/KMS flow, entropy, unitary evolution, radiation, or a Page curve |
 
 ### Carried premises (must travel with downstream uses)
 1. **Dimension ≥ 3** for the exact `|·|²` form (the standard Gleason gap at
@@ -114,6 +115,7 @@ weighting measure; must not silently promote a measure to an observed frequency;
 must keep the dim-2 flag; observed decay/transition *rates* as numbers remain
 empirical or comparison unless the local possibility-space/rate structure is derived.
 P26 may use this item for normalized weighting only; it may not infer a complex edge phase, non-exact holonomy, measured BMV entanglement, or a decoherence prediction from the measure.
+P27 may use this item for normalized weighting only; it may not infer thermality, temperature, entropy, unitary evaporation, or information recovery from the measure.
 **No grade change** to the realizability-weighting law — it stays Registered, not
 Sealed — but frequency=weight must not be presented as a work frontier.
 

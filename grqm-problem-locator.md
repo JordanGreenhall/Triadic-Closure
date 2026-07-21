@@ -42,7 +42,7 @@ keeps a fixed time, pairing, or notion of event) and the **number-coincidence** 
 rather than deriving the identity) — both fired during the session and are logged where they
 fired (§10).
 
-**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2), geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P27–P28 govern horizon/information/entropy and Lambda. Summary language here cannot upgrade those owners.
+**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2), geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P28 governs Lambda. Summary language here cannot upgrade those owners.
 
 **Grade vocabulary.** Open · Conjectured · Conjectured-strong (many native pieces in place, one
 or two stated bets remaining) · Registered · Registered and Sealed · Defended posit (maximal
@@ -104,12 +104,12 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; exact local Lorentz is **Secured within its defended-posit ceiling** and **Registered, not Sealed** |
 | **Gate 2 (gravity)** exact locality-to-second-order continuum theorem | strong-field | **Conjectured / Unregistered under P24**; one-step locality alone permits higher-derivative finite-spacing corrections |
 | **Lovelock** uses locally finite tensor algebra compatible with an M6 rule-presented treatment; the global impredicativity audit is not discharged | strong-field | **Conditional** on an exhibited closed rule calculus and the separate manifold/carrier premises |
-| **Native horizon**: mass = self-closure; horizon = total self-closure (`d→∞`, `dτ/dt→0`) | (3) | **Registered** |
-| **Near-horizon Rindler form + native κ** (local, strong-field-solution-independent) | (3) | **Registered** (rule-given fragment) |
-| **Area = straddling-link count** (closure de-registers interior; no Planck-area) | (3) | **Registered** (shape); G→length conversion quarantined |
+| **Total-self-closure / horizon proposal** | (3) | architectural relation Secured at P17 reach; physical horizon **Conjectured / Unregistered under P27**; `d→∞` exceeds P22 weak-field scope |
+| **Near-horizon Rindler form + κ** | (3) | **Sealed conditional algebra** after a licensed lapse/simple zero; physical application **Conjectured/Open and Unregistered under P27** |
+| **Area = straddling-link count** | (3) | selected finite boundary-scaling model exact; physical horizon area **Conjectured / Unregistered under P27**; entropy remains Open |
 | **`8π`** Einstein/source coefficient | (3) | **Open across P22/P23/P24**: P22 graph/scalar normalization and `G`; P23 tensor-source semantics/conservation; P24 nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure |
-| **`2π`** (temperature period via carrier-conservation signature argument) | (3) | **Registered, not Sealed** — signature falsifier resolved (0.6 conserves the definite `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification |
-| **`1/4` coefficient profile-cancellation** (the kappa factors cancel after premises are admitted) | (3) | **Conditional algebra; P27-owned standing**; P24 leaves `8 pi` and strong-field validity Open |
+| **`2π` carrier period and temperature route** | (3) | normalized `U(1)` period and rotation/boost algebra Sealed as mathematics; blocked-From map Conjectured; thermal/modular identification and `T=kappa/(2 pi)` **Open / Unregistered under P27** |
+| **`1/4` coefficient profile-cancellation** | (3) | **Sealed conditional algebra** after three premises; framework `S=A/4` **Open / Unregistered under P27**; P24 leaves `8 pi` and strong-field validity Open |
 | **γ = 1** (PPN spatial/clock response) | strong-field | **Open across P22/P23/P24**; the full spatial metric, physical tensor source, and source-coupled equation are absent |
 | **G5 / conflict (2)**: matter-fork / geometry-fork and definite-actuality proposal | (2) | general modal distinction stands; physical geometry application and no-actual-superposition inference **Conjectured / Unregistered under P26** |
 | **Birth-order gauge; definite partial order** | (2) | selected causal-growth proposal; **Conjectured / Unregistered under P26** |
@@ -120,7 +120,7 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **BMV-positive and preferred interpretation** | (2) | **Conjectured / Unregistered under P26**; not forced; null result is not yet a framework falsifier |
 | **Absence of intrinsic gravitational decoherence floor** | (2) | **Open / Unregistered under AUD-015**; discrete-substrate which-path check owed |
 | **Born-element phase is complex and configuration-dependent** | (2) | selected P26 proposal; **Conjectured / Unregistered**; P8's conditional carrier and the weighting measure do not construct this edge-phase map |
-| **conservation of registered distinctions (§9.7)** → unitary side | (3),(6) | Registered (principle) |
+| **Conservation of registered distinctions (§9.7)** and unitary-side claim | (3),(6) | conservation principle Secured; boundary balance Conjectured/Unregistered; quantum unitarity/evaporation **Open / Unregistered under P27** |
 | **manifold-recovery** (continuum from discrete) | (1) | advanced — see G1 below; **not Sealed** |
 
 ---
@@ -178,26 +178,18 @@ divergent.
 
 ## 6. The scoreboard (G4 / `A/4`), in full — what closes and what is owed
 
-**The native horizon (Registered).** Mass is a coherence-fixed-point (self-closure). Push to the
-limit: `dτ/dt ∝ 1/d` (atomicity clock) so `g₀₀ = −(d₀/d)²`; a horizon is where proper advance
-halts relative to the exterior, `d→∞` — *total self-closure*. Mass = partial self-closure;
-horizon = boundary of total self-closure. **Flagged as the generative object** — κ, the
-temperature period, the area, and γ=1's role in `A(M)` all read off this one construction.
+**Canonical P27 adjudication.** This section is retained provenance. P27 preserves P17's architectural total-self-closure relation and exact conditional local/boundary/signature/cancellation mathematics. It grades physical horizon identification and straddling-link area Conjectured and Unregistered; thermal-flow identification, temperature, entropy, `S=A/4`, and information/unitarity are Open and Unregistered. Statements below that call the horizon, physical area, or temperature Registered are superseded by P27.
 
-**Near-horizon form (Registered, local).** Only the *local* behavior of `1/d` at its zero is
-needed: linear onset `1/d ≈ κρ` gives `g₀₀ ≈ −κ²ρ²` — Rindler — with native surface gravity
-`κ = [d(d₀/d)/dρ]_horizon` (the sharpness with which self-closure becomes total). Degenerate
-onset `κ=0` = extremal horizon, `T=0`. This does **not** require the global strong-field solution.
+**The horizon proposal (architectural relation Secured; physical identification Conjectured and Unregistered).** Mass is a coherence-fixed-point (self-closure). The retained proposal pushes the selected P22 clock notation `dτ/dt ∝ 1/d`, `g₀₀=−(d₀/d)²`, to `d→∞` and calls the limit total self-closure relative to an exterior. P17 Secures only the architectural limiting relation and grades physical horizon identification Conjectured. P22's model is bounded weak-field, so the displayed limit cannot generate κ, area, temperature, or a physical strong-field horizon without a new source-coupled construction.
 
-**Area (Registered, shape).** A closure de-registers its interior distinctions from the exterior
-ledger (held-as-one), so the exterior registers only the **straddling links**; on a `d=3` local
-network these scale as the boundary, not the volume. Area = straddling-link count; the native unit
-is the link, **no Planck-area**. `G` enters only the optional link→length conversion (values-side).
+**Near-horizon form (Sealed conditional local algebra; physical application Conjectured/Open).** If a separately licensed lapse `f=d₀/d` has a simple zero in a physical proper-distance coordinate, `f≈κρ` gives `g₀₀≈−κ²ρ²`. This does not prove the lapse, coordinate, zero, physical surface gravity, horizon existence, or strong-field solution. The extremal and temperature readings require further premises.
+
+**Area (selected boundary-scaling model exact; physical claim Conjectured and Unregistered).** A selected cubical graph cut has `L²` crossing links versus `L³` bulk vertices. The retained proposal reads exterior-accessible distinctions through straddling links. P27 does not treat that example as a universal horizon-area theorem or entropy: a physical graph horizon, cut rule, convergence, continuum area map, state count, entropy functional, and units are missing. Interior distinctions are not destroyed; exterior coarse-graining is not global erasure.
 
 **The coefficient `1/4`.**
 - `8π` (denominator): **Open across P22/P23/P24.** P22 retains graph/scalar normalization and physical `G`; P23 retains the physical tensor-source map, coefficient semantics, evolution, and conservation; P24 retains the nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. The analytic `4 pi` factor, theorem-family import, and Bianchi compatibility do not settle these debts. F11's absent-script report remains documentary only.
-- `2π` (numerator): **Conjectured-strong-native** via the signature argument (§7, 2π).
-- **Profile-cancellation algebra (conditional).** If the stated first-law and coefficient premises are admitted, `dS = dM/T = 2π·dM/κ`; the relation `dM = (κ/8π)dA`
+- `2π` (numerator): the normalized carrier period is mathematical; the physical temperature premise is **Open and Unregistered under P27** because the thermal/modular-flow identification is absent.
+- **Profile-cancellation algebra (Sealed conditionally).** If the stated temperature, first-law, and coefficient premises are admitted, `dS = dM/T = 2π·dM/κ`; the relation `dM = (κ/8π)dA`
   gives `dM/κ = dA/8π`; so `dS = dA/4` — **the κ's cancel**. `κ(M)` and `A(M)` (the strong-field
   profile) do not appear in that conditional cancellation. This does not establish the premises or a framework `A/4` law.
 
@@ -259,8 +251,8 @@ were taken and two retracted before the surviving one.
   the **thermal/modular** flow (the one the state is KMS against) to *be* the distinction-conserving
   U(1) rather than the boost. Strongly motivated — the registered distinctions (entropy) live on the
   carrier pairing, so their thermality should be read against the flow that conserves them — but this
-  identification is the remaining assumption. Narrower than the original falsifier, which is closed.
-  Grade: `2π` **Conjectured-strong-native → Registered, not Sealed.**
+  identification is absent. The exact signature discrimination is narrower than a physical thermal-flow theorem.
+  Grade under P27: normalized carrier period and signature algebra are **Sealed mathematics**; the blocked-From/carrier map is **Conjectured and Unregistered**; thermal/modular identification and `T=κ/2π` are **Open and Unregistered**.
 
 ---
 
@@ -608,14 +600,9 @@ Kept explicit so the corpus shows where the discipline bit.
 - **G2 — phase identity. Secured at bounded structural scope and Registered for the mapped cores under P25** (A spatial + C internal).
 - **G3 — symptom. Conjectured overall and Unregistered as a completed derivation**, with the gravity-vs-gauge asymmetry and the
   mislocation-contrast conditionally Secured and Registered given G2.
-- **G4 — `A/4`. Shape standing is P27-owned; the coefficient calculation remains conditional on an Open P24 `8π`/strong-field premise.** The `2π` signature falsifier is resolved (0.6 conserves the definite
-  `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification (modular flow =
-  distinction-conserving flow). Still owed: S2 (Einstein-form strong-field validity — Open under P24; horizon
-  locally regular); the boundary *count* itself rides Item 2's frequency=weight Open gate.
+- **G4 — horizon/area/temperature/entropy under P27.** P17's architectural total-self-closure relation stands, but physical horizon and straddling-link area are **Conjectured and Unregistered**. The local lapse, selected boundary-scaling, signature, and `1/4` cancellation results are conditional mathematics. Thermal-flow identification, `T=κ/2π`, entropy, and framework `S=A/4` are **Open and Unregistered**; P24 also leaves `8π` and strong-field validity Open.
 - **G5 — superposition admissibility under P26.** The general modal distinction and closure unit-status stand. The matter-fork/geometry-fork application, no-actual-superposition inference, selected causal-growth model, postcosm non-exactness, and BMV consequence are **Conjectured and Unregistered**. Exact retained mathematics is imaginary-part antisymmetry and the conditional nonzero-loop obstruction. The standard phase is external comparison. Vacuum/source-free geometry is Open.
-- **G6 — information/unitarity.** §9.7 forbids destruction of registered distinctions →
-  unitary-side by principle; the horizon analysis grounds it as **conservation at the boundary**
-  (interiorized + straddling distinctions sum to a conserved total). Conjectured.
+- **G6 — information/unitarity under P27.** §9.7's conservation of registered distinctions is Secured as a framework principle. Boundary balance is **Conjectured and Unregistered**. The principle alone supplies no Hilbert state, linear norm-preserving surjective evolution, evaporation/radiation map, generalized entropy, or Page curve; information preservation and unitary evaporation are **Open and Unregistered**.
 - **Conflict (4) — Λ magnitude (§8c). Out of quarantine.** Scaling `Λ ∼ R_H⁻²` **Registered**;
   coefficient `3` (plane-budget at d=3) **Conjectured-strong**; present value `Λ = 3 Ω_Λ R_H⁻²`
   satisfied by three independent measurements; cosmological-constant problem **dissolved** as a
@@ -635,8 +622,7 @@ Kept explicit so the corpus shows where the discipline bit.
 > — all without re-importing the background we claim to have dissolved.
 
 **Status line.** The bounded dissolution mappings (G2) are Secured and Registered; the overall symptom explanation (G3) is Conjectured and Unregistered as a completed derivation, with only its bounded structural contrasts conditionally Secured and Registered. The root gate (G1) is
-advanced to Registered-with-one-defended-posit; the scoreboard `A/4` has a Registered shape and a
-conditional coefficient algebra whose `8π` and strong-field Einstein premises remain Open under P24;
+advanced to Registered-with-one-defended-posit; under P27 the physical horizon and area proposal are Conjectured and Unregistered, the local/boundary/signature/`1/4` results are conditional mathematics, and temperature, entropy, `S=A/4`, information preservation, and unitary evaporation remain Open and Unregistered;
 conflict (2) is **Conjectured and Unregistered under P26** for the physical geometry application, no-actual-superposition inference, postcosm non-exactness, and BMV implication; decoherence/radiation and vacuum/source-free geometry remain Open; and conflict (4) is **out of
 quarantine** — `Λ ∼ R_H⁻²` Registered, coefficient `3 = C(3,2)` Conjectured-strong, the
 cosmological-constant problem dissolved as a units artifact, with only the dynamical rate (`w(z)`)

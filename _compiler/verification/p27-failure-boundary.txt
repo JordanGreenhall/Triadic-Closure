@@ -1,0 +1,6 @@
+P27 stale-state rejection: boundary
+Overlay: p27-horizon-area-entropy-temperature-and-information.md
+Command: python3 _compiler/verify_p27.py --base e945b65c5b67afa2818a55cc363eb42f2dc5306c --overlay /tmp/p27-overlay-boundary
+Exit code: 1
+Verifier output: P27 verification: FAIL: p27-horizon-area-entropy-temperature-and-information.md lacks required text: P22 selects a bounded weak-field clock model
+Result: REJECTED
