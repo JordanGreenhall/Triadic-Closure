@@ -54,7 +54,7 @@ Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain wit
 **Retained report and separately Registered conditional mathematics under P22:**
 - This source separately reports a `41^3` graph-source fit (`R²=0.997`, control `0.938`); its relation to the underspecified `0.9993` report is unknown. The report is documentary evidence only. Conditional analytic `1/r` mathematics supplies the harmonic exterior and scalar Poisson form once the source map and normalization are supplied. P22 keeps the physical mass-source identification and source normalization Open.
 
-**P23 source standing:** symmetric second-moment algebra and the observer-relative energy/flux/spatial-stress split are Secured conditionally; the bounded three-office correspondence is Registered; one selected two-stream example populates all three sectors. Native source weights/vectors, general stress population, coefficient meaning, and covariant conservation remain live P23 frontiers.
+**P23 source standing:** symmetric second-moment algebra and the observer-relative energy/flux/spatial-stress split are Secured conditionally; sector vocabulary is Registered for an independently licensed physical source; the further three-office correspondence is selected/Conjectured and Unregistered as an exact theorem. One selected two-stream example populates all three tensor sectors. Native source weights/vectors, general stress population, coefficient meaning, and covariant conservation remain live P23 frontiers.
 
 **P24 boundary:** the field-equation form, second-order premise, tensor completeness, and strong-field/nonlinear regime are not settled here. `G` remains Open/values-side at the inherited boundary.
 
@@ -69,7 +69,7 @@ The retained source proposed a weighted second moment of oriented conditioning v
 This tensor is symmetric by exact outer-product algebra. A general multi-stream sum is **not** equal to one rank-one `rho V^mu V^nu` tensor unless the second moment is rank one or additional closure conditions hold. The retained word `amplitude` does not supply a real stress-energy weight; that map remains open.
 
 - **Symmetry:** theorem-Secured given the displayed inputs.
-- **Components:** relative to a selected observer, every symmetric source decomposes into energy scalar, spatial flux, and spatial stress. P23 Registers the This/From/With correspondence at this bounded representational reach.
+- **Components:** relative to a selected observer, every symmetric source decomposes into energy scalar, spatial flux, and spatial stress. P23 Registers those sector names for an independently licensed physical source, but keeps the further This/From/With correspondence selected/Conjectured and Unregistered as an exact office theorem.
 - **Population:** an exact selected two-stream example gives nonzero energy, flux, and relational stress; this does not prove generic network dynamics.
 - **Conservation:** `partial_mu T^{mu nu}` contains both continuity and vector-transport terms. Scalar continuity alone is insufficient when `V_a` varies. Complete local balance equations are required.
 

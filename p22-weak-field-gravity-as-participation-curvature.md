@@ -188,7 +188,7 @@ This is a definition pending physical source mapping and calibration, not a deri
 | Three-dimensional harmonic `1/r` exterior | Secured as conditional analytic mathematics given source/profile and continuum realization | Registered conditionally | Standard Green-function mathematics, not secured by either report. |
 | Scalar Poisson form | Secured conditionally on the source map and continuum normalization | Registered | Harmonic Green function; exact physical `rho` map and `G` remain Open. |
 | Full spatial metric, full `3+1` weak-field implementation, nonlinear gravity | Open | Unregistered | P24 boundary. |
-| Stress-energy tensor and three-office source population | P23 Secures bounded conditional source/decomposition mathematics; native source map and general dynamics remain Open | P23-owned | P22 uses at most a scalar source placeholder and does not inherit a normalization. |
+| Stress-energy tensor and three-office source proposal | P23 Secures bounded conditional source/decomposition mathematics; exact office map Conjectured/Unregistered; native source map and dynamics Open | P23-owned | P22 uses at most a scalar source placeholder and does not inherit a normalization. |
 | Exact `G` | Open / values-side | Unregistered | No internal calibration or conversion derived. |
 
 ## 7. Local frontier

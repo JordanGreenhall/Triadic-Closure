@@ -38,7 +38,7 @@ Status: **Registered at the bounded selected static weak-field metric-model scop
 - Source, participation-profile, and inverse-clock uniqueness remain open under P22.
 - One executable, convergent `3+1` continuum curvature implementation remains open under P22.
 - Scalar source normalization and `G` remain open under P22.
-- [P23](p23-stress-energy-as-three-office-source.md): bounded stress-energy source construction and office population are normalized; native weights, general stress span, and conservation remain open.
+- [P23](p23-stress-energy-as-three-office-source.md): bounded source/decomposition mathematics is normalized; the exact office map is Conjectured/Unregistered, and native weights, general stress span, and conservation remain open.
 - P24: full spatial metric, tensor completeness, second-order/full-Einstein route, and nonlinear regime.
 
 ## Grade adjudication

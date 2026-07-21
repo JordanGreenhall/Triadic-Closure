@@ -18,7 +18,7 @@ This is the concise result shadow for [P23 Stress-Energy as a Three-Office Sourc
 
 ## Mature status
 
-Status: **Registered at bounded representational source scope**.
+Status: symmetric-source and observer-decomposition mathematics **Secured conditionally**; stress-energy sector names **Registered representationally for an independently licensed physical source**; exact This/From/With correspondence **Conjectured / Unregistered**.
 
 Given a licensed Lorentzian tangent carrier, selected observer, real source weights, and oriented vectors, `T^{mu nu}=Sum_a w_a V_a^mu V_a^nu` is symmetric. Every such symmetric source splits observer-relatively into one energy scalar, one spatial flux vector, and one spatial stress tensor. The three sectors contain `1+3+6=10` components; they are not three observer-free scalars.
 
@@ -28,7 +28,7 @@ Given a licensed Lorentzian tangent carrier, selected observer, real source weig
 - From ↔ oriented transport / spatial flux.
 - With ↔ pure spatial relational stress, including isotropic and anisotropic parts.
 
-The correspondence is a constructed representational alignment at the office-signature reach. With is not identical to shear.
+The office table is a selected proposal, not a constructed theorem. P4 directly supplies From-time and With-space index kinds, so the tensor blocks are From–From, From–With, and With–With. P17 reads energy through a This–From relation, not This alone. With is not identical to shear.
 
 ## Caution
 
@@ -44,12 +44,12 @@ The inherited name `stress-energy` is licensed only for the displayed kinematic 
 
 P23 divides the result into exact conditional mathematics, bounded semantic registration, and open dynamics.
 
-**Representational decomposition — Secured conditionally / Registered.** Symmetry of the weighted second moment and the observer-relative `rho/q/S` split are exact mathematics given their inputs. The This/From/With alignment is constructed and Registered at that bounded representational reach.
+**Representational decomposition — Secured conditionally / bounded registration.** Symmetry of the weighted second moment and the observer-relative `rho/q/S` split are exact mathematics given their inputs. The inherited sector names are Registered for an independently licensed physical source. The further This/From/With alignment is selected/Conjectured and Unregistered as an exact office theorem.
 
-**Selected population example — Secured conditionally.** Two admitted counter-directed vectors with positive unequal weights populate energy, flux, and a nonzero spatial stress exactly. Equal weights cancel net flux while retaining relational stress. This closes mere algebraic availability for that selected source example, not generic network dynamics.
+**Selected population example — Secured conditionally.** Two admitted counter-directed vectors with positive unequal weights populate energy, flux, and a nonzero spatial stress exactly. Equal weights cancel net flux while retaining spatial stress. This closes mere algebraic availability of that tensor sector for the selected source example, not a With-office derivation or generic network dynamics.
 
 **Dynamical generality — Open/Conjectured.** The corpus does not yet derive the real source weights/vectors, arbitrary spatial stress, coefficient meaning, or complete local balance equations. A sum of multiple outer products is not generally one rank-one `rho V V` source, and scalar continuity alone does not prove `nabla_mu T^{mu nu}=0`.
 
-**Verdict.** Bounded source symmetry, decomposition, office alignment, and one selected population example stand at P23's recorded scopes. Native source dynamics and general conservation remain live frontiers.
+**Verdict.** Bounded source symmetry, decomposition, and one selected population example stand at P23's recorded scopes. The office alignment is Conjectured/Unregistered; native source dynamics and general conservation remain live frontiers.
 
 See also: [P23](p23-stress-energy-as-three-office-source.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gravity-and-curvature](gravity-and-curvature.md), [claim-status-vocabulary](claim-status-vocabulary.md), [known-failure-modes](known-failure-modes.md).

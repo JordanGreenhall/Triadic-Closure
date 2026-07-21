@@ -134,7 +134,7 @@ def main() -> int:
 
     source_guards = {
         "stress-energy-three-offices.md": (
-            "concise result shadow for [P23", "Registered at bounded representational source scope",
+            "concise result shadow for [P23", "exact This/From/With correspondence **Conjectured / Unregistered**",
             "scalar continuity alone does not prove",
         ),
         "mathematization-F11.md": (
@@ -169,6 +169,7 @@ def main() -> int:
         "real source weights",
         "scalar continuity alone",
         "general stress",
+        "office map is Conjectured/Unregistered",
         "P24",
         "source normalization",
     )
@@ -184,6 +185,8 @@ def main() -> int:
         "So the framework **produces** a symmetric, conserved, rank-2 source",
         "continuum conservation is exact",
         "Stress-energy claims await P23 normalization",
+        "bounded This/From/With alignment is **Registered representationally**",
+        "three-office correspondence is Registered",
     )
     for phrase in banned_active:
         require(errors, phrase not in combined, f"obsolete active P23 formulation remains: {phrase}")

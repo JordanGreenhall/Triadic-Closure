@@ -98,7 +98,7 @@ Current status: P22 Registers a bounded selected static model with reported geod
 
 ### 6. P23 stress-energy source and dynamical generality
 
-Current status: [P23](p23-stress-energy-as-three-office-source.md) Secures conditional second-moment symmetry and observer-relative decomposition mathematics, Registers the bounded This/From/With source reading, and supplies an exact selected two-stream population example. Native source weights/vectors, general spatial-stress population, coefficient meaning, and complete tensor conservation remain incomplete.
+Current status: [P23](p23-stress-energy-as-three-office-source.md) Secures conditional second-moment symmetry and observer-relative decomposition mathematics and supplies an exact selected two-stream population example. Sector names are Registered for an independently licensed physical source. The further This/From/With correspondence is selected/Conjectured and Unregistered as an exact office theorem; native source weights/vectors, general spatial-stress population, coefficient meaning, and complete tensor conservation remain incomplete.
 
 - Construct the native source-vector and real-weight map.
 - Derive full local balance equations; scalar continuity alone is insufficient.
@@ -177,7 +177,7 @@ Current status: Open.
 4. P8: same-kind internal carrier is the next normalization unit.
 5. P9: SU(3) bridge remains downstream of P8.
 6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open; P24 nonlinear form incomplete.
-7. P23 stress-energy: conditional source/decomposition mathematics and bounded office reading normalized; native weights, general stress dynamics, and conservation incomplete.
+7. P23 stress-energy: conditional source/decomposition mathematics normalized; office correspondence Conjectured/Unregistered; native weights, general stress dynamics, and conservation incomplete.
 8. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
 9. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
 10. Matter spectrum/generations: Open.

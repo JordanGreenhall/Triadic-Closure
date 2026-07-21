@@ -39,7 +39,7 @@ Curated pages govern status; historical sources are provenance only.
 | [p20-baryon-closure-and-proton-neutron-relation](p20-baryon-closure-and-proton-neutron-relation.md) | P10/P12–P19 controls, amplitude/readout conditions, and detailed neutron sources; P20 owner |
 | [with-to-this-closure](with-to-this-closure.md) | Forward closure, generic decay classifier, inverse-passage boundary, products, and rates; P21 owner |
 | [p22-weak-field-gravity-as-participation-curvature](p22-weak-field-gravity-as-participation-curvature.md) | Conditional local tilt, selected static clock, retained geodesic/tidal evidence, harmonic exterior, and scalar Poisson boundary; P22 owner |
-| [p23-stress-energy-as-three-office-source](p23-stress-energy-as-three-office-source.md) | Symmetric second-moment source, observer-relative energy/flux/stress split, office alignment, population example, and conservation boundary; P23 owner |
+| [p23-stress-energy-as-three-office-source](p23-stress-energy-as-three-office-source.md) | Symmetric second-moment source, observer-relative energy/flux/stress split, selected office proposal, population example, and conservation boundary; P23 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
