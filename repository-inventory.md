@@ -97,6 +97,9 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `stress-energy-three-offices.md`
 - `p24-full-einstein-form-as-conditional-rigidity.md`
 - `12-gravity-full-gr-imports.md`
+- `p25-grqm-background-conflict-and-nonrenormalizability.md`
+- `grqm-conflict-status.md`
+- `grqm-problem-locator.md`
 - `lambda-derived.md`
 - `lambda-scaling-validation-task.md`
 

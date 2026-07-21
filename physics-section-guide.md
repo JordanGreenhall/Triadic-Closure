@@ -30,6 +30,7 @@ sources:
   - p22-weak-field-gravity-as-participation-curvature.md
   - p23-stress-energy-as-three-office-source.md
   - p24-full-einstein-form-as-conditional-rigidity.md
+  - p25-grqm-background-conflict-and-nonrenormalizability.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -71,6 +72,7 @@ Read by semantic dependency rather than file age.
 22. [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md).
 23. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md).
 24. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md).
+25. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md).
 
 Non-unit control: [Physics Domain Mature Status](physics-domain-mature-status.md).
 
@@ -127,8 +129,9 @@ Reader guards:
 4. [Stress-Energy Three Offices](stress-energy-three-offices.md) — concise P23 shadow.
 5. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) — canonical full-field owner.
 6. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow.
-7. [Lambda Derived](lambda-derived.md) — P28 source.
-8. [GR/QM Conflict Status](grqm-conflict-status.md) — P25+ source.
+7. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical P25 owner.
+8. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
+9. [Lambda Derived](lambda-derived.md) — P28 source.
 
 Reader guards:
 
@@ -138,6 +141,7 @@ Reader guards:
 - The scalar Poisson form is conditional on source map and normalization; physical `rho` and `G` remain Open.
 - P23 conditionally Secures the symmetric second-moment and observer decomposition; sector names are Registered for an independently licensed source, while the exact office map is Conjectured/Unregistered and native weights, general stress dynamics, and conservation remain open.
 - P24 accepts the general named Lovelock-style theorem family externally at conditional scope and retains `H=aG+bg` as a target route. Its exact schema/applicability, locality/order theorem, and full framework equation are Conjectured/Open and Unregistered; tensor completeness and nonlinear realization remain Open.
+- P25 Secures and Registers its bounded flattened/live spatial With-basis mapping and internal/spatial distinction. Its non-renormalizability explanation remains Conjectured and Unregistered as a completed derivation; no perturbative theorem or P7/P24 completion follows.
 
 ## 6. Physics-to-chemistry interface
 
