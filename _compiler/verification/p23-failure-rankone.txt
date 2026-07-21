@@ -1,0 +1,12 @@
+P23 deterministic normalization verification
+base: 76207d7a2891f68a1d825ac19864e6d88a0dba80
+changed Markdown files checked: 20
+local Markdown links checked: 364
+frontier placement: canonical local + global summary only
+P19/P20/P21 boundary: inherited, not reopened
+P22 boundary: source normalization and G remain P22-owned
+P24/P28 boundary: field equation and Lambda not normalized
+retained computations: exact algebra separated from absent-script reports
+exact algebra: symmetry, rank, sector population, and continuity counterexample checked
+FAIL mathematization-F11.md lacks P23 authority guard: A general multi-stream sum is **not** equal
+FAIL obsolete active P23 formulation remains: T^{μν}(x) = Σ_k a_k V_k^μ V_k^ν = ρ V^μ V^ν

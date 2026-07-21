@@ -257,19 +257,19 @@ circle receipt / n-p splitting packages retain P21's Conjectured/Open/empirical/
 the participation-gradient meaning of curvature are Registered; the Lorentzian
 theorem is Secured conditionally and Registered–Sealed on a given carrier/manifold
 via the named Alexandrov–Zeeman import; Lambda
-structural meaning and stress-energy office representation are Registered. Λ
+structural meaning is Registered. P23 conditionally Secures the symmetric second-moment source and observer-relative decomposition; sector names are Registered for an independently licensed physical source, while the exact office map is Conjectured/Unregistered and native weights, arbitrary stress population, and tensor conservation remain Open/Conjectured. Λ
 scaling is Registered; native complete `3 R_H^-2` is Conjectured-strong; present
 `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Λ dynamics remain Open. Full Einstein form remains Registered-conditional through
 the G1-conditioned second-order route plus Lovelock-style tensor rigidity; tensor
 completeness, strong-field/nonlinear sector, and exact `G` remain Open or
 values-side.
 
-**Smuggle risk:** importing the full tensor/strong-field Einstein package, stress-energy dynamical generality, exact `G`, or the full GR field equation as native/sealed merely because the G1-conditioned second-order route is Registered conditional.
+**Smuggle risk:** importing the full tensor/strong-field Einstein package, turning amplitudes into real source weights, reducing a general multi-stream source to one rank-one tensor, deriving tensor conservation from scalar continuity, treating one selected spatial-stress example as a With-office theorem or arbitrary matter, importing stress-energy dynamical generality, exact `G`, or the full GR field equation as native/sealed merely because the G1-conditioned second-order route is Registered conditional.
 
 **Downstream dependencies:** cosmology, Lambda dynamics, stress-energy source
 claims, strong curvature claims.
 
-**Cleanup work:** use [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) as control. The promotable
+**Cleanup work:** use [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source claims and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 boundary. The promotable
 gate is one-step conditioning locality ⇒ second-order metric equations; the
 GR/QM ledger promotes it to Registered conditional on G1, not Sealed, until
 manifold recovery and locality⇒order are formalized.

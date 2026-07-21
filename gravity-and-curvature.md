@@ -38,7 +38,7 @@ Status: **Registered at the bounded selected static weak-field metric-model scop
 - Source, participation-profile, and inverse-clock uniqueness remain open under P22.
 - One executable, convergent `3+1` continuum curvature implementation remains open under P22.
 - Scalar source normalization and `G` remain open under P22.
-- P23: stress-energy source construction and office population.
+- [P23](p23-stress-energy-as-three-office-source.md): bounded source/decomposition mathematics is normalized; the exact office map is Conjectured/Unregistered, and native weights, general stress span, and conservation remain open.
 - P24: full spatial metric, tensor completeness, second-order/full-Einstein route, and nonlinear regime.
 
 ## Grade adjudication
@@ -51,4 +51,4 @@ Full-Einstein standing is not adjudicated here. Use [Item 12 Gravity Full-GR Imp
 
 Do not use `mathematization-F10-status.md` as current, treat absent scripts as rerun evidence, identify weight with frequency, or claim numerical constants are derived.
 
-See also: [P22](p22-weak-field-gravity-as-participation-curvature.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [stress-energy-three-offices](stress-energy-three-offices.md), and [known-failure-modes](known-failure-modes.md).
+See also: [P22](p22-weak-field-gravity-as-participation-curvature.md), [P23](p23-stress-energy-as-three-office-source.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [stress-energy-three-offices](stress-energy-three-offices.md), and [known-failure-modes](known-failure-modes.md).

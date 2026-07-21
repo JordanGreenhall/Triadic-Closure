@@ -118,10 +118,11 @@ Reader guards:
 
 1. [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) — canonical weak-field owner.
 2. [Gravity and Curvature](gravity-and-curvature.md) — concise P22 shadow.
-3. [Stress-Energy Three Offices](stress-energy-three-offices.md) — P23 source, not P22 completion.
-4. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — P24 boundary source.
-5. [Lambda Derived](lambda-derived.md) — P28 source.
-6. [GR/QM Conflict Status](grqm-conflict-status.md) — P25+ source.
+3. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) — canonical source-tensor owner.
+4. [Stress-Energy Three Offices](stress-energy-three-offices.md) — concise P23 shadow.
+5. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — P24 boundary source.
+6. [Lambda Derived](lambda-derived.md) — P28 source.
+7. [GR/QM Conflict Status](grqm-conflict-status.md) — P25+ source.
 
 Reader guards:
 
@@ -129,7 +130,8 @@ Reader guards:
 - The retained finite checks are reports whose named scripts are absent; do not describe them as rerun.
 - Static `2+1` tidal evidence and a separate three-dimensional harmonic calculation are not one complete `3+1` implementation.
 - The scalar Poisson form is conditional on source map and normalization; physical `rho` and `G` remain Open.
-- P23 owns stress-energy and P24 owns the full spatial metric, full Einstein form, and nonlinear regime.
+- P23 conditionally Secures the symmetric second-moment and observer decomposition; sector names are Registered for an independently licensed source, while the exact office map is Conjectured/Unregistered and native weights, general stress dynamics, and conservation remain open.
+- P24 owns the full spatial metric, full Einstein form, and nonlinear regime.
 
 ## 6. Physics-to-chemistry interface
 

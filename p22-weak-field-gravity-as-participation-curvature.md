@@ -53,7 +53,7 @@ P22 includes:
 
 P22 excludes:
 
-- P23: construction and office interpretation of `T_{mu nu}`;
+- [P23](p23-stress-energy-as-three-office-source.md): construction, conservation boundary, and office interpretation of `T_{mu nu}`;
 - P24: tensor completeness, Lovelock rigidity, second-order full-field premise, full Einstein form, and nonlinear completion;
 - P25–P29: GR/QM diagnosis, BMV/holonomy, horizons and entropy, Lambda/cosmology, and Standard Model completion.
 
@@ -66,7 +66,7 @@ P22 excludes:
 3. `mathematization-F9-done.md` supplies the conserved-flow standing-amplitude choice and the conditional local formula `C(e_i)=d_i/Sum_j d_j`. Its detailed file still records the conserved-flow object as selected rather than uniquely forced.
 4. `mathematization-F10-resolved.md` supersedes `mathematization-F10-status.md` for the displayed static weak-field model and retains the earlier sign/drift objections as adversarial constraints.
 5. `gravity-asymmetry.md` retains an underspecified three-dimensional `R^2=0.9993` report and proposes directional participation weighting of realizable-next/null directions as geometric or cone-tilt content. P22 retains that identification as a selected/Conjectured bridge rather than an F8/F9 consequence; the report is not identified with the F11 run.
-6. `mathematization-F11.md` separately retains a described `41^3` graph-source report (`R^2=0.997`, `1/r^2` control `0.938`) and the scalar Poisson form. Its tensor-source and full-Einstein material belongs to P23/P24, not P22.
+6. `mathematization-F11.md` separately retains a described `41^3` graph-source report (`R^2=0.997`, `1/r^2` control `0.938`) and the scalar Poisson form. Its tensor-source material is governed by P23 and its full-Einstein material belongs to P24, not P22.
 7. Later status controls Register the bounded weak-field result while keeping the full metric, nonlinear sector, and `G` Open. Those controls govern permitted use but do not replace the detailed evidence.
 
 ### Superseded and retained formulations
@@ -188,7 +188,7 @@ This is a definition pending physical source mapping and calibration, not a deri
 | Three-dimensional harmonic `1/r` exterior | Secured as conditional analytic mathematics given source/profile and continuum realization | Registered conditionally | Standard Green-function mathematics, not secured by either report. |
 | Scalar Poisson form | Secured conditionally on the source map and continuum normalization | Registered | Harmonic Green function; exact physical `rho` map and `G` remain Open. |
 | Full spatial metric, full `3+1` weak-field implementation, nonlinear gravity | Open | Unregistered | P24 boundary. |
-| Stress-energy tensor and three-office source population | Open here | P23-owned | P22 uses at most a scalar source placeholder. |
+| Stress-energy tensor and three-office source proposal | P23 Secures bounded conditional source/decomposition mathematics; exact office map Conjectured/Unregistered; native source map and dynamics Open | P23-owned | P22 uses at most a scalar source placeholder and does not inherit a normalization. |
 | Exact `G` | Open / values-side | Unregistered | No internal calibration or conversion derived. |
 
 ## 7. Local frontier
@@ -241,7 +241,7 @@ This is a definition pending physical source mapping and calibration, not a deri
 
 **False-completion risk:** calling the positive graph perturbation `delta d` and the negative clock potential `Phi` by one symbol creates a sign contradiction; defining `G M:=A/d_0` can be mistaken for deriving either `M` or `G`.
 
-**Next legitimate research action:** after P22-F1 and P23 source construction, derive a dimensionless source normalization before any empirical calibration.
+**Next legitimate research action:** after the P22 source bridge and P23 native source-vector/weight map are constructed, derive a dimensionless source normalization before any empirical calibration.
 
 ## 8. Integration rules
 
@@ -267,5 +267,5 @@ A downstream page may not say:
 - **Supporting:** `gravity-asymmetry.md`, `mathematization-F10-resolved.md`, and the weak-field portions of `mathematization-F11.md` retain detailed arguments and reported numerical evidence.
 - **Concise shadow:** `gravity-and-curvature.md` routes readers here and summarizes the bounded verdict.
 - **Historical/adversarial:** `mathematization-F10-status.md` and `mathematization-F8-F11.md` retain failed routes and earlier status.
-- **Neighbor controls:** `stress-energy-three-offices.md`, `12-gravity-full-gr-imports.md`, and `grqm-conflict-status.md` retain P23+ boundaries; they do not govern P22's detailed derivation.
+- **Neighbor controls:** [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), `stress-energy-three-offices.md`, `12-gravity-full-gr-imports.md`, and `grqm-conflict-status.md` retain P23+ boundaries; they do not govern P22's detailed derivation.
 - **Delete candidates:** none. The supporting sources retain unique reported evidence or adversarial countermodels; deletion would lose information.
