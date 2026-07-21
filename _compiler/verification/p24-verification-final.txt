@@ -1,24 +1,25 @@
 P24 FINAL NORMALIZATION VERIFICATION
 
 Exact base: 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
-Verified content/evidence head: 41cd4799577eb30c4a96c9f544b2b0bb8adfe238
+Verified correction content/evidence head: e76be9f80d0b2fea683173f68e77cfb791a8298a
 Branch: agent/normalization-p24-persistent
 
 UNIT RESULT
 - Canonical owner installed: p24-full-einstein-form-as-conditional-rigidity.md
-- Conditional Lovelock-style tensor-rigidity implication separated from its framework premise map.
+- General named Lovelock-style theorem family accepted externally at conditional scope; exact P24 schema/applicability preserved as Conjectured/Open and Unregistered debt.
+- Positive target `H=aG+bg` preserved without importing or claiming a closed theorem statement.
 - One-step locality separated from an exact continuum derivative-order theorem.
 - Full Einstein-form equation graded Selected/Conjectured as a conditional model and Unregistered as framework-native physics.
 - Tensor completeness, nonlinear/self-coupled realization, strong-field validity, and coupling calibration left Open/Unregistered.
-- P22 source normalization/G, P23 source dynamics/conservation, and P28 Lambda boundaries preserved.
+- P22 graph/scalar normalization and `G`, P23 tensor-source semantics/conservation, P24 equation coupling/calibration/nonlinear expenditure, and P28 Lambda boundaries separated.
 
 DETERMINISTIC VERIFICATION
 command: python3 _compiler/verify_p24.py --base 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
 result: PASS
-changed Markdown checked: 25
-changed-file local links: 387
+changed Markdown checked: 26
+changed-file local links: 401
 frontier placement: canonical local + global mature-status summary only
-exact algebra: nearest-neighbor expansion and coefficient normalization checked
+exact algebra: nearest-neighbor expansion, nondegenerate normalization, and executed `a=0` rejection checked
 
 CUMULATIVE VERIFICATION
 command: python3 _compiler/verify_p23.py --base 76207d7a2891f68a1d825ac19864e6d88a0dba80
@@ -32,35 +33,38 @@ FAILURE CAPABILITY
 - Third living P24-F1 placement fixture: exit 1, rejected.
 - Registered-conditional locality/order overgrade fixture: exit 1, rejected.
 - Registered-native 8 pi coupling overgrade fixture: exit 1, rejected.
-- Reproducible output committed in p24-failure-frontier.txt, p24-failure-order.txt, and p24-failure-coupling.txt.
+- Incorrectly permissive `a=0` normalization fixture: exit 1, rejected.
+- Reproducible output committed in p24-failure-frontier.txt, p24-failure-order.txt, p24-failure-coupling.txt, and p24-failure-degenerate.txt.
 
 EXACT MATHEMATICS
 - Centered nearest-neighbor operator coefficients: second derivative 1, fourth derivative 1/12, sixth derivative 1/360.
 - Nondegenerate sample a=3, b=6, c=15 normalized to Lambda=2 and kappa=5.
-- a=0 branch cannot be divided into Einstein kinetic normalization.
+- Permanent verifier executed the `a=0` branch and required `ZeroDivisionError`; a permissive mutation was rejected.
 - This check blocks locality-to-exact-order promotion but does not rule out a second-order leading scaling limit.
 
 REPOSITORY VERIFICATION
 tracked Markdown files: 176
-local Markdown links checked: 786
+local Markdown links checked: 791
 broken local links: 0
 exact-base git diff --check: PASS
 protected P7/P19/P20/P21/P22/P23 owner changes: none
 excluded P28 owner change: none
-preexisting tools/workflows altered: none
-new unit-local verifier: _compiler/verify_p24.py
+correction-only tracked tool changes: _compiler/verify_p24.py only
+tracked workflows/mutators/restoration paths changed by correction: none
 
 FRONTIER AND ROUTING
 - P24-F1 living files: canonical owner + physics-domain-mature-status.md only.
 - P24-F2 living files: canonical owner + physics-domain-mature-status.md only.
 - P24-F3 living files: canonical owner + physics-domain-mature-status.md only.
-- Standing and Dependencies/downstream-claims fields present locally and globally for all three.
+- Every Section 10.2 field, including Current strongest achieved result, present and synchronized across all six local/global entries.
 - Canonical-before-shadow routing: PASS in index, section guide, source map, reading order, registration theorem, repository inventory, and supersession map.
+- Sequence guide P22 → P23 → P24 and non-unit mature-status control: PASS.
+- Gravity shadow canonical route and active locality/order smuggle control: PASS.
 
 READER/FIXED POINT
 - Fresh-reader review: PASS.
 - Deterministic compiler run twice with byte-identical output.
-- Second semantic/source/downstream/routing pass requested no content repair.
+- Second theorem-scope, ownership, all-fields, source/downstream/control/routing pass requested no further substantive repair.
 - Fixed-point review: PASS.
 
 COMMIT POLICY
