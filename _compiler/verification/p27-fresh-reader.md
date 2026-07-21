@@ -1,6 +1,6 @@
 # P27 Fresh-Reader Verification
 
-Reviewed content/evidence head: `1cd29c2d71ffafdb196b1ab93e2620e7f44fbe93`
+Reviewed content-correction commit: `ab2ae587b35e7bbc441f3444efd823f3130d116c`
 
 Exact base: `e945b65c5b67afa2818a55cc363eb42f2dc5306c`
 
@@ -50,8 +50,8 @@ Reader posture: this review was performed from the canonical owner and live rout
 
 ## Navigation and evidence check
 
-The canonical owner is routed from the index, section guide, source map, repository inventory, reading order, work plan, registration control, supersession map, concept-load status, smuggle frontier, and both GR/QM shadows. The exact algebra output is byte-identical to its reproducer. Six semantic overlays reject horizon, area/entropy, temperature, unitarity, frontier-placement, and neighbor-boundary corruption.
+The canonical owner is routed from the index, section guide, source map, repository inventory, reading order, work plan, registration control, supersession map, concept-load status, smuggle frontier, and both GR/QM shadows. The living multi-unit source-map row explicitly preserves P25's G2/G3 scope, P26's conflict-(2)/holonomy/BMV/decoherence/radiation scope, and P27's conflict-(3)/G4/G6/horizon/area/temperature/entropy/information-unitarity scope. The exact algebra output is byte-identical to its reproducer. Six semantic overlays reject horizon, area/entropy, temperature, unitarity, frontier-placement, and neighbor-boundary corruption.
 
 ## Fresh-reader verdict
 
-PASS. P27 cleanly separates architectural standing and conditional mathematics from physical horizon, thermodynamic, entropy, and information claims. No correction was identified in this reader pass.
+PASS after bounded evidence reconciliation. P27 cleanly separates architectural standing and conditional mathematics from physical horizon, thermodynamic, entropy, and information claims. The bounded Audit correction replaced one nonexistent source entry, completed the P27 source-map route, and expanded the global P27-F2 `Missing` field to preserve every local debt; it changed no theory, grade, registration, or conditional mathematics.

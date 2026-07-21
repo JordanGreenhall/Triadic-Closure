@@ -2,10 +2,10 @@ P27 FINAL VERIFICATION EVIDENCE
 
 Unit: P27 — Horizon, Area/Entropy, Temperature, and Information
 Exact base: e945b65c5b67afa2818a55cc363eb42f2dc5306c
-Verified content/evidence head: 76e77dd742db4787a4e304e7b73e0b59c3039f6a
+Reviewed clean evidence head: 6e75ae2313c3c13554d9920160e29dcb1794c644
 
 SCOPE
-- 26 changed files over the exact base.
+- 27 changed files over the exact base.
 - 17 changed Markdown files.
 - Canonical owner: p27-horizon-area-entropy-temperature-and-information.md.
 - P28 Lambda/cosmology and P29 Standard Model completion were not normalized.
@@ -56,14 +56,15 @@ STALE-STATE REJECTION
 DETERMINISTIC VERIFICATION
 - Command: python3 _compiler/verify_p27.py --base e945b65c5b67afa2818a55cc363eb42f2dc5306c
 - Result: PASS.
-- Verified output at content/evidence head: 26 changed files; 17 changed Markdown files; 388 changed-file Markdown links scanned.
+- Exact stdout at the reviewed clean evidence head: P27 verification: PASS (base e945b65c5b67afa2818a55cc363eb42f2dc5306c; 27 changed files; 17 changed Markdown files; 388 Markdown links scanned)
+- SHA-256 of that 144-byte stdout: dc2dce8d9032369143b97136eeeeb95da31d1579c786add978694039b8c69df9.
 - Exact algebra reproducer: PASS.
 - Inherited P26 verifier at exact P27 base: PASS.
 - Current cumulative P25/P24/P23/P20 verifiers: PASS.
 - Repository-wide links: 188 tracked Markdown files, 845 links, 0 broken.
 - All 10 tracked Python files compile.
 - Exact-base git diff --check: PASS.
-- Worktree before this final evidence record: clean.
+- `git status --porcelain=v1` emitted zero bytes both before and after verification of the reviewed clean evidence head.
 
 SOURCE / MUTATOR AUDIT
 - Executable/config references to the P27 owner and GR/QM shadows are verifier readers only.
@@ -73,9 +74,9 @@ SOURCE / MUTATOR AUDIT
 
 FRESH READER AND FIXED POINT
 - Fresh-reader report: _compiler/verification/p27-fresh-reader.md.
-- Fresh-reader verdict: PASS; no correction identified.
-- Two complete verifier runs before the cycle evidence record were byte-identical.
-- Recorded stdout SHA-256: ca0743d3e1e93fd43e8e8d996582c6a78477534e7fae4c0ee9103bd686040a18.
+- Fresh-reader verdict: PASS after bounded source-lineage, route, and P27-F2 debt synchronization; no substantive correction was required.
+- Two complete verifier runs from clean content-correction commit ab2ae587b35e7bbc441f3444efd823f3130d116c were byte-identical.
+- Recorded stdout SHA-256: dc2dce8d9032369143b97136eeeeb95da31d1579c786add978694039b8c69df9.
 - Compiler-cycle record: _compiler/verification/p27-compiler-cycle.md.
 
 VERDICT
