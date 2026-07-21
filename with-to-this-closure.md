@@ -197,8 +197,8 @@ P14/P20 establish the endpoint mark patterns `udd` and `uud` on one shared baryo
 Accordingly:
 
 - `udd -> uud` as the framework transition is **Conjectured**; the endpoints are established, but the passage/operator is not;
-- comparative neutron metastability is **Conjectured** and inherits P20-F1;
-- the normalized mark overlap `1/2` and square `1/4` are conditional mathematics, while `1/4` as transition access weight is **Conjectured** and inherits P20-F2;
+- comparative neutron metastability is **Conjectured** and inherits P20's unresolved valence-to-maintenance/sign bridge;
+- the normalized mark overlap `1/2` and square `1/4` are conditional mathematics, while `1/4` as transition access weight is **Conjectured** and inherits P20's unresolved mark-overlap-to-access-amplitude bridge;
 - a one-directional drain, zero proton return amplitude, monotonic accumulation to certainty, or any hazard/rate law is **Open**;
 - observed free-neutron decay and its observed products may corroborate or calibrate a later construction but cannot warrant the missing map.
 
