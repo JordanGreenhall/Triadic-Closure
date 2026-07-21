@@ -158,7 +158,7 @@ def main() -> None:
     if sim_scripts:
         fail(f"unexpected claim that no P26 simulation reproducer is tracked; found {sim_scripts}")
     require(owner, "no tracked script", OWNER)
-    require(locator, "documentary provenance only", "grqm-problem-locator.md")
+    require(locator, "documentary, not reproducible evidence", "grqm-problem-locator.md")
 
     markdown_changed = [p for p in changed if p.endswith(".md")]
     links = 0
