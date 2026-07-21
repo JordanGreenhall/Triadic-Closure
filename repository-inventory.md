@@ -99,6 +99,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `12-gravity-full-gr-imports.md`
 - `p25-grqm-background-conflict-and-nonrenormalizability.md`
 - `p26-matter-sourced-geometry-holonomy-and-bmv.md`
+- `p27-horizon-area-entropy-temperature-and-information.md`
 - `grqm-conflict-status.md`
 - `grqm-problem-locator.md`
 - `lambda-derived.md`

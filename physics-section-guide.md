@@ -74,6 +74,7 @@ Read by semantic dependency rather than file age.
 24. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md).
 25. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md).
 26. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md).
+27. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md).
 
 Non-unit control: [Physics Domain Mature Status](physics-domain-mature-status.md).
 
@@ -132,8 +133,9 @@ Reader guards:
 6. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow.
 7. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical P25 owner.
 8. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical P26 owner.
-9. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
-10. [Lambda Derived](lambda-derived.md) — P28 source.
+9. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) — canonical P27 owner.
+10. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
+11. [Lambda Derived](lambda-derived.md) — P28 source.
 
 Reader guards:
 

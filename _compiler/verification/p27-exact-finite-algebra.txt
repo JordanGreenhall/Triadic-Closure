@@ -1,0 +1,12 @@
+P27 exact finite algebra
+rotation_vector=(Fraction(-1, 1), Fraction(2, 1)) euclidean=5 order=4
+boost_vector=(Fraction(14, 3), Fraction(13, 3)) lorentzian=3 euclidean=365/9
+cube_L=1 crossing_links=1 bulk_vertices=1
+cube_L=2 crossing_links=4 bulk_vertices=8
+cube_L=3 crossing_links=9 bulk_vertices=27
+cube_L=5 crossing_links=25 bulk_vertices=125
+conditional_dS_coefficient=1/4 pi_power=0 kappa_power=0
+lapse_square_rho2=9/4 rho3=6/5
+injection_source_norm=1 image_norm=1 surjective=no
+interpretation=conditional mathematics only; no physical horizon, thermality, entropy, or unitarity inferred
+P27 exact finite algebra: PASS

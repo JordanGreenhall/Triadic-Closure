@@ -91,6 +91,7 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow
 - [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical owner
 - [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical owner
+- [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) — canonical owner
 - [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow
 - [Lambda Derived](lambda-derived.md)
 

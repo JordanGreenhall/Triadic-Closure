@@ -108,6 +108,14 @@ Execution rule: use P25 for every G2/G3 claim and grade. Do not use a shared `g`
 
 Execution rule: use P26 for every geometry-definiteness, causal-growth/holonomy, BMV, decoherence, radiation, graviton, and null-falsifier grade. Do not infer nonvanishing from antisymmetry or complexness, turn the foundation modal distinction into a joint geometry theorem, use an absent script as reproducible warrant, or let P27/P28 results upgrade P26.
 
+### P27 horizon, area/entropy, temperature, and information standing
+
+- Earlier detailed ledger: `grqm-problem-locator.md` called the physical total-self-closure horizon, near-horizon form, and straddling-link area Registered, promoted the carrier period to a Registered temperature route, and treated conservation of registered distinctions as a unitary-side result.
+- Earlier concise control: `grqm-conflict-status.md` repeated those grades and could be read as making the conditional `1/4` cancellation a framework entropy law.
+- Current: [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) preserves P17's bounded architectural relation and exact conditional mathematics. Physical horizon and area are Conjectured and Unregistered. Thermal-flow identification, temperature, entropy, `S=A/4`, information preservation, and unitary evaporation are Open and Unregistered. Boundary balance is Conjectured and Unregistered.
+
+Execution rule: use P27 for every physical horizon, area, temperature, entropy, `A/4`, information, unitarity, evaporation, and Page-curve grade. Do not extrapolate P22's weak-field clock to a horizon, turn boundary scaling into entropy, turn compact period into thermality, let cancellation establish its premises, or equate monotone distinction conservation with unitary quantum evolution.
+
 ### Spacetime dimensionality
 
 - Package-era caution: `cover-letter.md` and superseded `phi-forward-reconstruction.md` say exact `3+1` dimensionality is not derived and is locked-actual/open classification.

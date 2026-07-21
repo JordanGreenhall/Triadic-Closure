@@ -43,6 +43,7 @@ Curated pages govern status; historical sources are provenance only.
 | [p24-full-einstein-form-as-conditional-rigidity](p24-full-einstein-form-as-conditional-rigidity.md) | Lovelock-style conditional rigidity, locality/order theorem boundary, complete premise map, tensor completeness, and nonlinear realization; P24 owner |
 | [p25-grqm-background-conflict-and-nonrenormalizability](p25-grqm-background-conflict-and-nonrenormalizability.md) | Flattened/live spatial With-basis mapping, internal/spatial distinction, and bounded non-renormalizability diagnosis; P25 owner |
 | [p26-matter-sourced-geometry-holonomy-and-bmv](p26-matter-sourced-geometry-holonomy-and-bmv.md) | Geometry-definiteness, causal-growth/holonomy, BMV translation, and Open decoherence/radiation claims; P26 owner |
+| [p27-horizon-area-entropy-temperature-and-information](p27-horizon-area-entropy-temperature-and-information.md) | Physical horizon, area, temperature, entropy, conditional `A/4` algebra, and information/unitarity boundaries; P27 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
