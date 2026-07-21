@@ -1,5 +1,7 @@
 > **Historical F3 terminology note:** this superseded status page uses `depth` for horizontal temporal/address progression. Read those occurrences as **succession count**. Current canon reserves depth for vertical coinductive office-decomposition.
 
+> **P22 historical/adversarial source.** Status: **Superseded as current status; retained as adversarial evidence.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs every current weak-field claim and grade. The drift and reciprocal-clock sign ambiguity below remain live failure tests. The named scripts are absent and their recorded outputs are not rerun evidence.
+
 # F10, Honest Status: Not Derived — the Obstacle Located
 
 ### F10 asked whether F9's tilt law (P selects neighbor i with probability d_i/Σd_j, linear in conditioning-degree) accumulates in the continuum limit to *exactly metric curvature* (geodesic motion in a curved metric), as opposed to a drift/force on a flat background. After explicit computation, **F10 is not established.** This document records what was found — including a genuine obstacle and a sign-ambiguity that controls the entire result — rather than a fitted derivation. Scripts and outputs inline. The honest headline: the gravitational sign hinges on a definition of "proper time on the network" that the framework has not yet supplied, and the two natural definitions give *opposite* signs (attraction vs repulsion). Choosing the one that matches known gravity would be fitting, not deriving, so it is not done here.
