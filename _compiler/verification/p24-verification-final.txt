@@ -1,0 +1,67 @@
+P24 FINAL NORMALIZATION VERIFICATION
+
+Exact base: 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
+Verified content/evidence head: 41cd4799577eb30c4a96c9f544b2b0bb8adfe238
+Branch: agent/normalization-p24-persistent
+
+UNIT RESULT
+- Canonical owner installed: p24-full-einstein-form-as-conditional-rigidity.md
+- Conditional Lovelock-style tensor-rigidity implication separated from its framework premise map.
+- One-step locality separated from an exact continuum derivative-order theorem.
+- Full Einstein-form equation graded Selected/Conjectured as a conditional model and Unregistered as framework-native physics.
+- Tensor completeness, nonlinear/self-coupled realization, strong-field validity, and coupling calibration left Open/Unregistered.
+- P22 source normalization/G, P23 source dynamics/conservation, and P28 Lambda boundaries preserved.
+
+DETERMINISTIC VERIFICATION
+command: python3 _compiler/verify_p24.py --base 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a
+result: PASS
+changed Markdown checked: 25
+changed-file local links: 387
+frontier placement: canonical local + global mature-status summary only
+exact algebra: nearest-neighbor expansion and coefficient normalization checked
+
+CUMULATIVE VERIFICATION
+command: python3 _compiler/verify_p23.py --base 76207d7a2891f68a1d825ac19864e6d88a0dba80
+result: PASS
+command: python3 _compiler/verify_p20.py --base 6d88509b900add3340f7a688ab58e66a0ee30134
+result: PASS
+command: python3 -m py_compile _compiler/verify_p24.py
+result: PASS
+
+FAILURE CAPABILITY
+- Third living P24-F1 placement fixture: exit 1, rejected.
+- Registered-conditional locality/order overgrade fixture: exit 1, rejected.
+- Registered-native 8 pi coupling overgrade fixture: exit 1, rejected.
+- Reproducible output committed in p24-failure-frontier.txt, p24-failure-order.txt, and p24-failure-coupling.txt.
+
+EXACT MATHEMATICS
+- Centered nearest-neighbor operator coefficients: second derivative 1, fourth derivative 1/12, sixth derivative 1/360.
+- Nondegenerate sample a=3, b=6, c=15 normalized to Lambda=2 and kappa=5.
+- a=0 branch cannot be divided into Einstein kinetic normalization.
+- This check blocks locality-to-exact-order promotion but does not rule out a second-order leading scaling limit.
+
+REPOSITORY VERIFICATION
+tracked Markdown files: 176
+local Markdown links checked: 786
+broken local links: 0
+exact-base git diff --check: PASS
+protected P7/P19/P20/P21/P22/P23 owner changes: none
+excluded P28 owner change: none
+preexisting tools/workflows altered: none
+new unit-local verifier: _compiler/verify_p24.py
+
+FRONTIER AND ROUTING
+- P24-F1 living files: canonical owner + physics-domain-mature-status.md only.
+- P24-F2 living files: canonical owner + physics-domain-mature-status.md only.
+- P24-F3 living files: canonical owner + physics-domain-mature-status.md only.
+- Standing and Dependencies/downstream-claims fields present locally and globally for all three.
+- Canonical-before-shadow routing: PASS in index, section guide, source map, reading order, registration theorem, repository inventory, and supersession map.
+
+READER/FIXED POINT
+- Fresh-reader review: PASS.
+- Deterministic compiler run twice with byte-identical output.
+- Second semantic/source/downstream/routing pass requested no content repair.
+- Fixed-point review: PASS.
+
+COMMIT POLICY
+All unit commits use permitted Version 1.0 prefixes: authority, semantic, frontier, propagate, structure, readability, or verify.
