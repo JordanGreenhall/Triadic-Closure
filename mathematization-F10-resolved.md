@@ -8,7 +8,7 @@
 
 ## 1. The two prior obstacles, resolved
 
-**Obstacle 1 — the sign (which way bodies fall): resolved by step-atomicity (F2).** The gravity sign reduces to whether proper-time-rate dτ/dt increases or decreases with local conditioning-degree d. This is built from the one network quantity π_i ∝ d_i (the conserved-flow measure): proper time is either that rate (∝ d) or its reciprocal (∝ 1/d). **F2 (step atomicity) forces the reciprocal:** a content's own tick is *one atomic conditioning*, a fixed unit that does not scale with the neighborhood; per that fixed tick the ambient does d-worth of activity, so the content's own advance per unit global progress is 1/d. Hence dτ/dt ∝ 1/d (clock slower at high degree — gravitational dilation), g₀₀ = −(d₀/d)², Φ = −(d−d₀)/d₀, and geodesic acceleration points toward higher degree — **attractive**. The alternative (dτ/dt ∝ d) would require the atomic step to dilate with local degree, contradicting F2. The sign is forced by an already-proved result, not chosen.
+**Obstacle 1 — the sign (which way bodies fall): selected-model resolution, uniqueness still open.** The gravity sign reduces to whether proper-time rate `d tau/dt` increases or decreases with local conditioning degree `d`. The displayed model reads F2 atomicity as licensing a content's fixed own-step against `d`-scaled ambient activity and therefore selects the reciprocal `d tau/dt proportional to 1/d`. That gives a slower clock at high degree, `g00=-(d0/d)^2`, `Phi=-(d-d0)/d0`, and attraction toward increasing degree. P22 retains the ambient-flow clock as an admissible countermodel not yet excluded by a native uniqueness proof; atomicity distinguishes own advance from ambient activity but does not yet force this exact inverse relation over all clock maps.
 
 **Obstacle 2 — velocity-drift vs. geodesic (is the motion inertial?): resolved conceptually and quantitatively.** *Conceptually* (gerund-native): there are no nouns being pushed. A content is re-selected each step unconditionally; there is no rest state for a "drift" to damp toward. So motion is inertial by default (re-selection persists — "inertia" is the persistence of the re-selection shape, needing no cause because not-relating is impossible for an actual), and a non-uniform realizability field *steers* that inertial motion ("acceleration" = the field-weighting bending the persistent re-selection). The "medium-drift that decays to rest" worry presupposed a background rest-frame the network does not have. *Quantitatively*: see §2.
 
@@ -36,8 +36,8 @@ Opposite signs. A uniform force moves both walkers identically (separation const
 
 ## 4. What F10 now establishes
 
-In the weak-field, static, 2+1 regime tested:
-- conditioning-degree concentration **is** a curved metric (g₀₀ from the atomicity clock);
+In the reported weak-field, static, `2+1` model:
+- a localized conditioning profile is represented through the selected clock metric `g00`;
 - the selected F9 degree-tilt + gerund-native inertia agrees with geodesic motion in the reported finite check, after its stated convention correction;
 - nearby free contents experience **genuine tidal curvature** — correct stretch/squeeze signature, matching magnitudes, traceless in vacuum.
 
@@ -49,7 +49,7 @@ Within the selected model, gravity-as-geometry is supported for this regime: a l
 
 **Not yet shown (the remaining F10/F11 frontier):**
 - **The spatial metric sector (g_ij) and the full 3+1 tensor.** Only the g₀₀ (clock) sector was needed for the weak-field tests, but full GR has spatial curvature too; the strong-field and dynamical regimes are untested.
-- **The full Einstein equation (F11).** The vacuum tracelessness shown here is the weak-field statement ∇²Φ = 0 (vacuum). The *sourced* equation — that the curvature relates to the conditioning-degree distribution by exactly G_μν = 8πG T_μν — is the F11 target. What is now in hand toward it: the source is conditioning-degree (= energy, admissibly), the relation is local and (weak-field) linear, and conservation (∇·T=0) is conservation of registered distinctions (0.6). The Lovelock-forcing argument can now stand on a *demonstrated* curvature rather than an assumed one — but exhibiting the full tensor and fixing G (the one free particular) remains.
+- **The full Einstein equation (F11/P24).** The reported vacuum-trace suppression is consistent with the weak-field statement `nabla^2 Phi=0` away from a source. It does not construct a physical scalar source or `T_{mu nu}`. P23 owns source construction; P24 owns the Lovelock/full-Einstein route, spatial metric, and nonlinear completion.
 - **The conserved-flow standing-state choice** (flagged in F9) still rides underneath.
 
 **Status:** the selected degree-tilt/clock model is **Registered at bounded static weak-field scope** as a curvature rather than uniform-drift construction. The reported simulation is supporting evidence, not a rerun proof. P22's three local frontiers and P23/P24 retain the remaining bridges.

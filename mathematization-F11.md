@@ -8,15 +8,15 @@
 
 ## 1. What F11 actually has to show
 
-F10 demonstrated that conditioning-degree concentration produces genuine curvature (geodesics, tidal deviation, traceless vacuum tensor) in the weak-field static regime, with g₀₀ = −(d₀/d)² and Φ = −(d−d₀)/d₀. F11 asks the *sourced* question: does the curvature relate to the degree distribution by the Einstein equation? In the weak-field limit this is Poisson's equation ∇²Φ = 4πGρ.
+The selected F10 model reports geodesic/tidal evidence in a static weak-field clock sector with `g00=-(d0/d)^2` and `Phi=-(d-d0)/d0`. The weak-field sourced question is whether a licensed physical source and normalization yield the scalar Poisson relation; P22 does not assume that bare degree is that source.
 
 ## 2. The make-or-break question, and its honest resolution
 
 **The trap (stated, not dodged):** if Φ depended on *bare local node-degree*, there would be **no gravity at a distance** — a node far from a mass has its own local degree, unperturbed by the distant clump; bare degree does not propagate or fall off as 1/r. The construction would break.
 
-**The resolution:** the gravitational field is *not* bare degree. From F9, a content selects weighted by coherence-participation = the standing amplitude σ_i = √(π_i), where π is the **conserved-flow measure** — a *global* object (the stationary distribution of the conditioning-flow over the whole network). A localized degree concentration perturbs the global flow, and *that perturbation propagates*. The gravitational potential is the conserved-flow perturbation, governed by the **graph Laplacian**, whose Green's function carries the long-range field.
+**The selected construction:** the proposed gravitational field is not bare degree. F9's conserved-flow standing supplies a global candidate object, and this source models a localized graph source as perturbing that flow. The long-range potential is then represented by the graph-Laplacian Green function. P22 retains as Open the native map from physical mass to this graph source.
 
-This is a consistency win, not a patch: the field that carries gravity (the conserved-flow perturbation) is the *same* conserved flow that defines σ in F9. F9 and F11 use one object.
+Within the selected construction, F9 and the F11 model use one conserved-flow object. This is conditional internal consistency, not a source-map derivation.
 
 ## 3. The reported harmonic-exterior result
 
@@ -28,7 +28,7 @@ This is a consistency win, not a patch: the field that carries gravity (the cons
 
 Thus the conditional continuum Green-function construction supplies the **Poisson form** `∇²Φ = 4πGρ` after a scalar source and conversion are defined. The harmonic `1/r` exterior is the bounded result; the physical mass/source map and `G` are not derived by defining `M=A/(Gd0)`.
 
-## 4. The full tensor equation — forcing-argument on demonstrated curvature
+## 4. Retained P23/P24 proposal — full tensor forcing argument
 
 The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is reached by Lovelock's theorem, but now standing on F10's *demonstrated* curvature rather than an assumed one. **[checked] (`f11_assemble.py`)** the four premises:
 

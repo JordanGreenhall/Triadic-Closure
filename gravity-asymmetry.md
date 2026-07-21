@@ -12,11 +12,11 @@ Change in coupling needs no driver. Each step, a standing P's configuration is r
 
 ## Why a mass concentrates participation
 
-In the self-closure account, a mass M is a coherence-fixed-point: a standing whose re-selection is dominantly self-directed, re-selecting itself in place every step. A coherence-fixed-point is maximally self-participating — so a mass is a standing **concentration of coherence-participation**. This is the characterization that makes the asymmetry argument go through: mass is not an external "source strength" but a localized concentration of the very participation that weights P's re-selection.
+In the self-closure account, a mass `M` is an identity-maintaining standing whose re-selection is dominantly self-directed. This source **proposes** modeling such a standing as a localized concentration of coherence-participation. P22 keeps the map from structural mass to the required conserved-flow source Open; the proposal is the condition under which the asymmetry argument proceeds, not a consequence of the word “mass.”
 
 ## Why the asymmetry is a cone-tilt, not a scalar drift (qualitative)
 
-P's realizable-next configurations are weighted by coherence-participation with the surrounding standing. Near M, the surrounding standing is dominated by M's intense self-coherence, so a P-next-configuration that is more coherent-with-M carries more participation-weight.
+Conditional on that source model, `P`'s realizable-next configurations are weighted by coherence-participation with the surrounding standing. Near `M`, a next-configuration modeled as more coherent with the localized profile carries greater participation weight.
 
 Coherence-with-M is **directional**: M has a location relative to P. The null directions pointing toward M (into M's high-coherence region) carry more participation-weight than those pointing away. The weighting is therefore **anisotropic** (direction-dependent), not isotropic. An isotropic weighting would shift P's expected position uniformly — a scalar drift. An anisotropic weighting reshapes the reachable-next null *set* itself, re-weighting the null directions toward M. That is a position-dependent null structure — **metric curvature** — not a scalar drift.
 
