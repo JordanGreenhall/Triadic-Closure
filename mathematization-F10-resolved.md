@@ -45,7 +45,7 @@ Within the selected model, gravity-as-geometry is supported for this regime: a l
 
 ## 5. Honest scope — what is and isn't shown
 
-**Reported within the selected model:** weak-field, static, `2+1`, `g00`-sector geodesics, tidal deviation, and vacuum-trace suppression. The attractive sign follows from the selected inverse clock; P22-F1 retains the proof that this exact map is uniquely forced.
+**Reported within the selected model:** weak-field, static, `2+1`, `g00`-sector geodesics, tidal deviation, and vacuum-trace suppression. The attractive sign follows from the selected inverse clock; P22 retains as open the proof that this exact map is uniquely forced.
 
 **Not yet shown (the remaining F10/F11 frontier):**
 - **The spatial metric sector (g_ij) and the full 3+1 tensor.** Only the g₀₀ (clock) sector was needed for the weak-field tests, but full GR has spatial curvature too; the strong-field and dynamical regimes are untested.

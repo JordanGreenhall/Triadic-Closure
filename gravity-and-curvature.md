@@ -35,9 +35,9 @@ Status: **Registered at the bounded static weak-field model scope**. The partici
 
 ## Open gates
 
-- P22-F1: source, participation-profile, and inverse-clock uniqueness.
-- P22-F2: one executable, convergent `3+1` continuum curvature implementation.
-- P22-F3: scalar source normalization and `G`.
+- Source, participation-profile, and inverse-clock uniqueness remain open under P22.
+- One executable, convergent `3+1` continuum curvature implementation remains open under P22.
+- Scalar source normalization and `G` remain open under P22.
 - P23: stress-energy source construction and office population.
 - P24: full spatial metric, tensor completeness, second-order/full-Einstein route, and nonlinear regime.
 

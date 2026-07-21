@@ -49,7 +49,7 @@ The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is re
 ## 5. Honest status of F11
 
 **Reported and conditionally Registered under P22:**
-- The graph-Laplacian calculation gives a harmonic vacuum exterior (`1/r` in three dimensions, reported `R² = 0.997`). The scalar Poisson form follows once the source map and normalization are supplied. The named computation was not rerun, and the identification of the perturbation with a physical mass source remains P22-F1/P22-F3.
+- The graph-Laplacian calculation gives a harmonic vacuum exterior (`1/r` in three dimensions, reported `R² = 0.997`). The scalar Poisson form follows once the source map and normalization are supplied. The named computation was not rerun, and P22 keeps the physical mass-source identification and source normalization Open.
 
 **Forced, on demonstrated curvature (Lovelock), with one real gap:**
 - G_μν + Λg_μν = 8πG·T_μν, given four premises — three shown/framework (locality, second-order, conservation), the fourth (the source is exactly a symmetric rank-2 stress-energy with the right tensor structure) **argued, not computed**. This is the one remaining real computation for the full tensor equation.
