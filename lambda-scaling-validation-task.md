@@ -1,5 +1,7 @@
 # Task: Scaling Exponent of a Laplacian Residual on a Network
 
+**P28 disposition.** This is an **Open / Unexecuted**, underdetermined research specification, not a result report. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) governs all Lambda claims and grades. No tracked dataset, graph-family selection, output, or reproducer currently turns the candidate residuals below into P28 warrant.
+
 Determine a single number: the exponent **p** in **Λ(N) ∝ N^(−p)** for large N, where Λ(N) is defined below. Show your work. If the problem is underdetermined — if p depends on a modeling choice — report each value and the choice it depends on. Report what the construction yields.
 
 ## Graphs

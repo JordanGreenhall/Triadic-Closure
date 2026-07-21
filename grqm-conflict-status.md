@@ -18,7 +18,7 @@ sources:
 
 # GR/QM Conflict Status
 
-Current concise multi-unit status page for the GR/QM conflict problem-locator and session ledger. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs the root background-conflict and non-renormalizability-diagnosis claims. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2) geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. The detailed ledger lives in [`grqm-problem-locator.md`](grqm-problem-locator.md). Lambda material remains for P28.
+Current concise multi-unit status page for the GR/QM conflict problem-locator and session ledger. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs the root background-conflict and non-renormalizability-diagnosis claims. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2) geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) governs conflict-(4), Lambda structure/scaling/coefficient/present identity, cosmological dynamics, conditional flatness, and cosmological-constant-problem claims. The detailed ledger lives in [`grqm-problem-locator.md`](grqm-problem-locator.md).
 
 ## Mature status
 
@@ -31,7 +31,7 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 1. **Background problem — root.** QM presupposes a fixed arena; GR makes geometry dynamical. P25's bounded framework answer maps the spatial arena and dynamical metric to one spatial With-basis under two phases — flattened within a settled horizontal use, live across closures — while keeping the internal carrier pairing distinct.
 2. **Definiteness / measurement of geometry.** P26 retains a Conjectured model in which matter alternatives carry participation/geometry alternatives in realizability while actual closure remains definite. The application to physical geometry, no-actual-superposition inference, non-exact postcosm holonomy, and BMV consequence are Unregistered; the matter-sourced case is not sealed.
 3. **Information / horizon — scoreboard.** `S = A/4`, area rather than volume, unitarity vs semiclassical horizons. Horizon/area standing is P27-owned. The coefficient split is conditional algebra: `2π` retains its own P27 grade, while `8π` depends on unresolved P22 graph/scalar normalization and `G`, P23 tensor-source semantics/conservation, and P24 equation coupling/calibration; strong-field validity remains Open under P24.
-4. **Scale / constants — formerly values-side, now partially resolved.** Λ magnitude is no longer simply quarantined: scaling `Λ ∼ R_H⁻²` is Registered; coefficient `3` as spatial 2-plane closure budget is Conjectured-strong; present value `Λ = 3 Ω_Λ R_H⁻²` is Conjectured-strong; the cosmological-constant problem is dissolved as a wrong-units / wrong-cutoff artifact. The dynamical rate `w(z)` remains Open.
+4. **Scale / constants — P28-owned and semantically separated.** Lambda structure and macro scaling `Λ ∼ R_H⁻²` are Registered at their stated scopes. The complete coefficient `3` is Conjectured-strong and Unregistered. `Λ = 3 Ω_Λ R_H⁻²` is a definitional identity, not confirmation. The wrong-scale/wrong-cutoff dissolution is Conjectured-strong and Unregistered as completed; native dynamics and `w(z)` remain Open and Unregistered.
 
 ## Current result ledger
 
@@ -62,10 +62,11 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 | Entanglement without on-shell radiation | Open / Unregistered | A separate dynamical comparison calculation is unworked. |
 | Λ structural meaning | Registered | Λ is the gravitational stress-energy of reflexive self-closure: metric-proportional, positive, `w = -1`. |
 | Λ scaling | Registered | Λ is the reflexive self-holding of the one cosmological closure at its own scale; as curvature from the single horizon scale, `Λ ∼ R_H⁻²`. |
-| Λ coefficient `3` | Conjectured-strong | Λ is a scalar closure-budget over independent spatial 2-planes; in `d=3`, `C(3,2)=3`, giving complete-closure `Λ = 3 R_H⁻²`. |
-| Present Λ value | Conjectured-strong | Present incompleteness gives `Λ = 3 Ω_Λ R_H⁻²`; using `R_H = c/H₀ = 1.37×10²⁶ m`, `Ω_Λ = 0.685`, this gives `1.095×10⁻⁵² m⁻²`, matching measured Λ. |
-| Cosmological-constant problem | Dissolved as units/cutoff artifact, on Conjectured-strong Λ magnitude | `10⁻¹²²` is `(ℓ_P/R_H)²`, i.e. measuring a horizon-scale curvature in Planck units; QFT used a UV cutoff for an IR/horizon-bounded quantity. |
-| Λ dynamics / `w(z)` | Open | FRW/Friedmann/Li-2004/holographic-DE routes are withdrawn as laundering; rate requires framework-native expansion dynamics. |
+| Λ coefficient `3` | Conjectured-strong / Unregistered | Exact `C(3,2)=3` does not prove the scalar-budget, equal-plane, or per-plane `R_H⁻²` premises required for `Λ_complete = 3 R_H⁻²`. |
+| Present Λ expression | Definitional identity | With `Ω_Λ:=Λc²/(3H₀²)` and `R_H:=c/H₀`, `Λ = 3 Ω_Λ R_H⁻²` is exact algebra and cannot independently confirm P28; `f_reflexive≈Ω_DE` is empirical input to a Conjectured-strong translation. |
+| Cosmological-constant problem | Conjectured-strong / Unregistered as a completed dissolution | The wrong-scale/wrong-cutoff proposal depends on horizon-scale provenance and does not calculate or cancel an external vacuum contribution. |
+| Λ dynamics / `w(z)` | Open / Unregistered | FRW/Friedmann/Li-2004/holographic-DE routes are withdrawn as laundering; rate requires framework-native expansion dynamics. |
+| Background flatness | Conjectured conditionally / Unregistered | AUD-014's `k=0` exclusion requires no arena carrier and exhaustive two-mode conditioning at cosmological scope; it is not unconditional observed flatness. |
 | Information/unitarity | Conservation principle Secured; boundary balance Conjectured / Unregistered; unitary evaporation Open / Unregistered | Conservation alone supplies no Hilbert state, unitary evolution, radiation map, generalized entropy, or Page curve. |
 
 ## Important corrections and retractions
@@ -80,6 +81,7 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 - The “geometric phase distinct from the dynamical phase” framing is retracted. The standard dynamical BMV phase is retained as external comparison; P26 does not claim a native reproduction.
 - Λ-dive laundering is withdrawn: holographic-dark-energy / CKN machinery, FRW + Friedmann + Li-2004 `w(z)`, event-horizon cutoff, Schwarzschild `M=L/2`, per-cell volume counts, and DESI `w_a` tension conclusions are not framework results.
 - Λ coefficient `2π` / holonomy-over-area is retracted as a category error. Λ is a scalar closure-budget over independent planes, not sectional/Ricci/scalar curvature from a loop in pre-existing space.
+- The present expression `Λ=3Ω_ΛR_H⁻²` is definitional under the displayed `Ω_Λ` and `R_H` definitions. Substitution of measured inputs is not an independent prediction or confirmation.
 - The σ standing-state map is not owed. F9 supplies the conserved-flow magnitude `σ_i = √d_i/Z`; the remaining value-side phase selection lives in born-element carrier phases, not σ magnitude.
 
 ## Integration rules
@@ -87,7 +89,7 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 - Use [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) as the canonical owner for G2/G3 background-conflict and non-renormalizability-diagnosis claims. Use [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) for conflict-(2), holonomy, BMV, decoherence, and radiation claims. Use [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) for conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. Use this page as a concise multi-unit shadow and `grqm-problem-locator.md` as detailed provenance.
 - Use [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md) for weak-field claims and frontiers and [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md) for source-tensor claims and frontiers. Use this page only for P25+ GR/QM claims and the inherited P24 boundary; it does not upgrade P22's selected source/clock model or P23's native-weight, general-stress, and conservation gaps.
 - Use [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
-- Use [lambda-derived](lambda-derived.md) for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
+- Use [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) for all Lambda and background-cosmology claims. Structure and scaling are Registered at their stated scopes; coefficient `3` is Conjectured-strong/Unregistered; the present `Ω_Λ` expression is definitional; the observational fraction translation is Conjectured-strong with empirical input; problem dissolution is Conjectured-strong/Unregistered; dynamics are Open/Unregistered; flatness is Conjectured conditionally under AUD-014.
 - Do not promote a physical horizon, area, temperature, entropy, `A/4`, information preservation, or unitarity. P27 Registers none of those as completed framework physics; only its explicitly conditional mathematics is Sealed.
 - Do not treat BMV-positive as proof of actual spacetime superposition. P26 preserves the logical warning but leaves its preferred realizability-frontier mechanism and definite-geometry application Conjectured and Unregistered.
 - Do not describe the holonomy as a separate geometric Berry phase relative to gravitational configuration. The usual dynamical gravitational entangling phase is external comparison until the P26 translation is constructed.
@@ -103,7 +105,7 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 5. **Postcosm connection, holonomy, and empirical contact.** Non-exactness and value are unresolved; the standard BMV phase is external comparison, not a native derivation.
 6. **Vacuum/source-free geometric superposition.** Still untouched; the current G5 route piggybacks on matter-forks.
 7. **Discrete-substrate which-path check.** AUD-015 keeps absence of an intrinsic gravitational decoherence floor Open until this is done.
-8. **Λ dynamics / `w(z)`.** Requires framework-native expansion dynamics; imported FRW-based route withdrawn.
+8. **P28 Lambda and cosmology.** Construct the scalar-budget/per-plane normalization and a non-definitional coefficient test; native expansion dynamics and `w(z)` remain Open, imported FRW-based routes withdrawn, and background flatness remains conditional under AUD-014.
 9. **Information/unitarity.** Boundary balance is Conjectured; state space, evaporation/radiation evolution, generalized entropy, and a Page curve remain Open.
 
 ## Source links
@@ -112,6 +114,7 @@ The standard statement of the GR/QM conflict is treated as a symptom and externa
 - [P25 GR/QM background conflict and non-renormalizability diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md)
 - [P26 matter-sourced geometry, holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md)
 - [P27 horizon, area/entropy, temperature, and information](p27-horizon-area-entropy-temperature-and-information.md)
+- [P28 Lambda, cosmological closure, magnitude, and dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md)
 - [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md)
 - [P23 stress-energy source](p23-stress-energy-as-three-office-source.md)
 - [gravity-and-curvature](gravity-and-curvature.md) — concise P22 shadow

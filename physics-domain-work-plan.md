@@ -138,6 +138,18 @@ Current status: [P27](p27-horizon-area-entropy-temperature-and-information.md) p
 - Do not infer quantum unitarity from conservation of registered distinctions; define a state factorization, evolution, and radiation channel first.
 - Keep P28 Lambda and P29 Standard Model completion at their owners.
 
+### 5f. P28 Lambda, cosmological closure, magnitude, and dynamics
+
+- Use [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) as canonical owner and `lambda-derived.md` / GR-QM ledgers as provenance shadows.
+- Preserve Registered standing for structural meaning/sign/`w=-1` and macro `Lambda ~ R_H^-2` scaling only at their recorded scopes.
+- Keep the complete coefficient `3` Conjectured-strong and Unregistered until the scalar-budget, equal-plane, and per-plane-unit premises are constructed.
+- Treat `Lambda=3 Omega_Lambda R_H^-2` as definitional under the displayed definitions; do not reuse `Omega_Lambda` as independent confirmation.
+- Keep `f_reflexive` to observed dark-energy fraction as a Conjectured-strong translation with empirical input, not a native derivation.
+- Keep the wrong-scale/wrong-cutoff dissolution Conjectured-strong and Unregistered as completed; unit conversion is not a vacuum-energy calculation.
+- Keep native expansion dynamics and `w(z)` Open and Unregistered; do not restore FRW/Friedmann, holographic-DE, event-horizon, Schwarzschild, or DESI-rate routes as framework derivations.
+- Keep AUD-014 background flatness Conjectured and conditional on no-arena and exhaustive two-mode premises; do not promote it to observed or unconditional flatness.
+- Preserve P22-P24 source/equation/coupling debts and P27's physical-horizon boundary. Do not begin P29.
+
 ## Priority 2 — Important downstream frontiers
 
 ### 6. P23 stress-energy source and dynamical generality
@@ -235,8 +247,8 @@ Current status: Open.
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), [P26 Geometry/Holonomy/BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md), [P27 Horizon/Entropy/Information](p27-horizon-area-entropy-temperature-and-information.md), and their shadows/consumers synchronized.
-3. Preserve P22/P23/P24/P25/P26/P27 boundaries and do not reactivate absent computation scripts as evidence.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), [P26 Geometry/Holonomy/BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md), [P27 Horizon/Entropy/Information](p27-horizon-area-entropy-temperature-and-information.md), [P28 Lambda/Cosmology](p28-lambda-cosmological-closure-magnitude-and-dynamics.md), and their shadows/consumers synchronized.
+3. Preserve P22/P23/P24/P25/P26/P27/P28 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
 See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md), [d6-persistence](d6-persistence.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md).

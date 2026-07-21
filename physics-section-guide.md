@@ -75,6 +75,7 @@ Read by semantic dependency rather than file age.
 25. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md).
 26. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md).
 27. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md).
+28. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md).
 
 Non-unit control: [Physics Domain Mature Status](physics-domain-mature-status.md).
 
@@ -134,8 +135,9 @@ Reader guards:
 7. [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical P25 owner.
 8. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical P26 owner.
 9. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) — canonical P27 owner.
-10. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
-11. [Lambda Derived](lambda-derived.md) — P28 source.
+10. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) — canonical P28 owner.
+11. [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow.
+12. [Lambda Derived](lambda-derived.md) — concise P28 shadow.
 
 Reader guards:
 
@@ -147,6 +149,7 @@ Reader guards:
 - P24 accepts the general named Lovelock-style theorem family externally at conditional scope and retains `H=aG+bg` as a target route. Its exact schema/applicability, locality/order theorem, and full framework equation are Conjectured/Open and Unregistered; tensor completeness and nonlinear realization remain Open.
 - P25 Secures and Registers its bounded flattened/live spatial With-basis mapping and internal/spatial distinction. Its non-renormalizability explanation remains Conjectured and Unregistered as a completed derivation; no perturbative theorem or P7/P24 completion follows.
 - P26 preserves the foundation modal core and exact conditional holonomy algebra. Geometry application, postcosm non-exactness, and BMV implication are Conjectured and Unregistered; decoherence/radiation claims are Open.
+- P28 preserves Registered Lambda structure and macro scaling while separating the Conjectured-strong coefficient/problem-dissolution proposals, definitional present expression, Open dynamics, and Conjectured conditional flatness.
 
 ## 6. Physics-to-chemistry interface
 
