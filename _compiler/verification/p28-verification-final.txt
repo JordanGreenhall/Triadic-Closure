@@ -1,0 +1,110 @@
+P28 FINAL VERIFICATION EVIDENCE
+
+Unit: P28 — Lambda, Cosmological Closure, Magnitude, and Dynamics
+Exact merged P27 base: 92b194970a7fa00f516e759eaeb3e4d3d38aad03
+Verified clean content head: 9489e0b7211bae8e0be68c35e96b943f1f0c5ba8
+Verified clean evidence head: 244a322d6675befc5f9949614e5b0fb9881c2b92
+Branch: agent/normalization-p28-persistent
+Date: 2026-07-21
+
+CLEAN EVIDENCE-HEAD FIXED POINT
+
+Precondition: git status --porcelain=v1 emitted no bytes at 244a322d6675befc5f9949614e5b0fb9881c2b92.
+Command: python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03
+Exact stdout:
+P28 verification: PASS (base 92b194970a7fa00f516e759eaeb3e4d3d38aad03; 27 changed files; 18 changed Markdown files; 413 Markdown links scanned)
+
+Two runs were byte-identical.
+SHA-256 of stdout including trailing newline: 77ba488d40605e7c76d2ef67d1610f71fb2c17d86a81611d510b29f98f0a004e
+Postcondition: git status --porcelain=v1 emitted no bytes.
+
+SEMANTIC RESULTS
+
+- Lambda structural meaning, metric-proportional form, positive sign, and w=-1 structure: Registered at inherited structural scope.
+- Lambda ~ R_H^-2: Registered at inherited macro-closure scaling scope.
+- Complete coefficient 3: Conjectured-strong and Unregistered as a completed coefficient derivation.
+- C(3,2)=3: exact finite combinatorics only; scalar-budget/equal-plane/per-plane-unit premises remain explicit.
+- Lambda=3 Omega_Lambda R_H^-2: exact definitional identity under the displayed definitions, not prediction or confirmation.
+- Framework reflexive fraction to observed dark-energy fraction: Conjectured-strong translation with empirical input; Unregistered as native derivation.
+- Wrong-scale/wrong-cutoff problem dissolution: Conjectured-strong and Unregistered as completed.
+- Native expansion dynamics, R_H evolution, and w(z): Open and Unregistered; imported routes remain withdrawn.
+- Background k=0: Conjectured and conditional on no-arena plus exhaustive two-mode premises; Unregistered.
+- P28-F1/F2/F3 appear as living identifiers only in the canonical owner and global mature-status page.
+- P7, P22-P27, and P29 owner boundaries remain unchanged.
+
+REPRODUCIBLE MATHEMATICS
+
+- _compiler/verify_p28_algebra.py reproduces _compiler/verification/p28-exact-finite-algebra.txt byte-for-byte.
+- Exact plane counts for dimensions 1 through 5 include C(3,2)=3.
+- Rational witness exactly reconstructs Lambda from the Omega_Lambda and R_H definitions.
+- Four dimensionless coefficients give same-dimension R_H^-2 scaling, proving dimensional scaling does not select alpha=3.
+- Conditional-flatness truth table excludes unsourced background curvature only when both premises are true.
+
+FAILURE CAPABILITY
+
+All six in-memory stale-state simulations exited 1 and emitted the committed rejection lines:
+- present identity promoted to prediction;
+- coefficient 3 promoted to Registered;
+- native dynamics promoted to Registered;
+- background flatness promoted to Registered;
+- P28-F3 removed from canonical owner;
+- P29 boundary collapsed.
+
+SOURCE / REPRODUCER / MUTATOR DISPOSITION
+
+- All eight canonical owner frontmatter sources resolve to tracked files.
+- lambda-derived.md and both GR/QM ledgers are retained authority-bounded shadows/provenance.
+- lambda-scaling-validation-task.md is explicitly Open/Unexecuted and not a result report.
+- No tracked generator, importer, restoration script, workflow, or embedded payload rewrites the P28 owner or Lambda shadows.
+- No delete candidate passes the existence test because each retained source preserves unique lineage, correction, failed-route, or research-specification content.
+
+INHERITED EXACT-UNIT REGRESSION
+
+Clean detached case-sensitive worktrees passed:
+- P27 head a55f43f6a426f8c4a99a8fccec9ba3be28b60bc6 against base e945b65c5b67afa2818a55cc363eb42f2dc5306c.
+- P26 head 2b3f1441ef1719cfd9d74d3e098695a9aa675339 against base 7071e4d6e95f90765f70db18826f0f6952c13de2.
+- P25 head 6a30e05c5323d0d0136e52aca3ec1f60e445111d against base a965f72d339c18bb03cfe15bb036393d0c6cb378.
+- P24 head d5b0cb0d6270ef25d7baeeb493e8ae9d5ff99cff against base 3f3c6a313a0ff678b8b61fcc9a4a290a1ec4de3a.
+- P23 head f305c3db4efd7e806c0050c0b8047b73c76b3084 against base 76207d7a2891f68a1d825ac19864e6d88a0dba80.
+- P20 head a276beca4c1faa6484152e7bd056409ceed358f8 against base 6d88509b900add3340f7a688ab58e66a0ee30134.
+
+REPOSITORY CHECKS
+
+- Repository-wide Markdown link check at evidence head: 192 tracked Markdown files; 867 links examined; 0 broken.
+- All tracked Python plus P28 verifier files compile.
+- Exact-base git diff --check: PASS.
+- Fresh-reader verdict: PASS.
+
+PRE-FINAL CHANGED PATHS (27)
+
+_compiler/verification/p28-compiler-cycle.md
+_compiler/verification/p28-exact-finite-algebra.txt
+_compiler/verification/p28-failure-boundary.txt
+_compiler/verification/p28-failure-coefficient.txt
+_compiler/verification/p28-failure-confirmation.txt
+_compiler/verification/p28-failure-dynamics.txt
+_compiler/verification/p28-failure-flatness.txt
+_compiler/verification/p28-failure-frontier.txt
+_compiler/verification/p28-fresh-reader.md
+_compiler/verification/p28-unit-opening.md
+_compiler/verify_p28.py
+_compiler/verify_p28_algebra.py
+grqm-conflict-status.md
+grqm-problem-locator.md
+index.md
+lambda-derived.md
+lambda-scaling-validation-task.md
+overview/triadic-closure-reading-order.md
+p28-lambda-cosmological-closure-magnitude-and-dynamics.md
+physics-domain-mature-status.md
+physics-domain-work-plan.md
+physics-registration-theorem.md
+physics-section-guide.md
+physics-source-map.md
+repository-inventory.md
+sm-content-smuggle-audit-frontier.md
+supersession-map.md
+
+FINAL-EVIDENCE NOTE
+
+This file is the sole post-evidence-head addition. It records the already clean, reproducible state at 244a322d6675befc5f9949614e5b0fb9881c2b92. A final verifier run after committing this file is required and will mechanically report 28 changed files and 19 changed Markdown files without changing semantic results.
