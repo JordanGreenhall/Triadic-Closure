@@ -17,13 +17,30 @@ sources:
 
 ## Standing summary
 
-At general conditional scope, the corpus accepts a named Lovelock-style tensor-rigidity family as established external mathematics. P24 retains the following positive target form for the selected import route:
+At general conditional scope, the corpus accepts a named Lovelock-style tensor-rigidity family as established external mathematics. P24 retains the following positive theorem-family target for the selected import route:
 
 ```text
-G_{mu nu} + Lambda g_{mu nu} = kappa T_{mu nu}.
+H_{mu nu} = a G_{mu nu} + b g_{mu nu}.
 ```
 
-The corpus has not yet selected and recorded one exact claim-specific theorem schema or its complete closed hypothesis list. Exact applicability of the imported theorem family to a framework tensor is therefore Conjectured/Open and Unregistered under P24-F2, not claim-specifically Secured. Separately selecting a nonzero Einstein-tensor coefficient and a linear source equation allows coefficient normalization inside a conditional model; those source-side selections are not theorem hypotheses. The resulting full equation is selected/Conjectured and Unregistered as a framework-native field equation. It is not a P22 weak-field theorem, a P23 source theorem, or a P28 Lambda derivation.
+The corpus has not yet selected and recorded one exact claim-specific theorem schema or its complete closed hypothesis list. Exact applicability of the imported theorem family to a framework tensor is therefore Conjectured/Open and Unregistered under P24-F2, not claim-specifically Secured.
+
+The source equation and nondegeneracy condition are separate selected model premises, not theorem hypotheses:
+
+```text
+H_{mu nu} = c T_{mu nu},
+a != 0.
+```
+
+Only after selecting those separate premises does coefficient normalization give
+
+```text
+G_{mu nu} + Lambda g_{mu nu} = kappa T_{mu nu},
+Lambda:=b/a,
+kappa:=c/a.
+```
+
+The resulting full equation is selected/Conjectured and Unregistered as a framework-native full field equation; it is a conditional model. It is not a P22 weak-field theorem, a P23 source theorem, or a P28 Lambda derivation.
 
 ## Semantic boundary
 
