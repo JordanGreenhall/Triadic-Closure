@@ -175,7 +175,7 @@ The symmetry, decomposition, two-stream population, and conservation identity on
 | General conditioning-network source law and coefficient meaning | Conjectured | Unregistered beyond the bounded construction | Native vector/weight map and normalization absent. |
 | General covariant conservation | Open as a framework construction; Secured conditionally when full balance equations hold | Registered only conditionally | Scalar continuity alone is insufficient. |
 | Arbitrary spatial-stress population | Open | Unregistered | No construction of every `S^{mu nu}`, pressure law, or material response. |
-| P22 scalar-source identification and `G` | Open under P22 | Unregistered here | P23 does not close P22-F3. |
+| P22 scalar-source identification and `G` | Open under P22 | Unregistered here | P23 does not close P22's scalar-source normalization frontier. |
 | Full Einstein/Lovelock field equation | P24-owned | Unregistered here | No P24 promotion follows from source kinematics. |
 | Lambda source and cosmological dynamics | P28-owned | Unregistered here | Excluded from P23. |
 
@@ -183,15 +183,21 @@ The symmetry, decomposition, two-stream population, and conservation identity on
 
 ### P23-F1 — Native source vectors, weights, and coefficient semantics
 
+**Standing:** the bounded symmetry result is Secured conditionally; the general conditioning-network source law is Conjectured and Unregistered beyond the displayed construction.
+
 **Current strongest result:** a symmetric rank-two second moment is exact once oriented vectors and real weights are supplied; the observer sectors and one selected population example are explicit.
 
 **Missing:** a framework-native map from admitted conditioning events to the tangent vectors and real weights, proof of any positivity/normalization rule, units/ruler meaning, and exclusion or grading of alternative source constructions.
 
 **False-completion risk:** calling `a_k` an amplitude or calling edge count energy can make a real physical source tensor appear automatic.
 
+**Dependencies and downstream claims affected:** depends on the licensed P5/P7 carrier and a native conditioning-event-to-vector/weight map; affects physical naming of the framework second moment, P22 scalar-source compatibility and normalization, and any P24 source coupling.
+
 **Next legitimate research action:** construct the source-vector and real-weight map before coupling it to P22 or P24.
 
 ### P23-F2 — Local balance law and covariant conservation
+
+**Standing:** the divergence identity is Secured mathematics; general covariant conservation is Open as a framework construction and is Secured and Registered only conditionally when complete balance equations and carrier calculus are exhibited.
 
 **Current strongest result:** the exact divergence identity states sufficient conditions; independently conserved constant-vector streams furnish a conditional example.
 
@@ -199,15 +205,21 @@ The symmetry, decomposition, two-stream population, and conservation identity on
 
 **False-completion risk:** scalar continuity or generic conservation language can be mistaken for `nabla_mu T^{mu nu}=0`.
 
+**Dependencies and downstream claims affected:** depends on P7 carrier calculus and the P23 native source-evolution law; affects every conserved-source expenditure and the P24 conservation premise.
+
 **Next legitimate research action:** exhibit the local source evolution and prove all terms in the tensor divergence cancel.
 
 ### P23-F3 — General spatial-stress population and office correspondence
+
+**Standing:** the selected two-stream sector population is Secured conditionally; arbitrary spatial-stress population is Open and Unregistered; the exact office correspondence is Conjectured and Unregistered.
 
 **Current strongest result:** the two-stream construction populates nonzero spatial stress, including a zero-net-flux case, and the full spatial sector is mathematically available. P4 and P17 supply constraints on any office interpretation.
 
 **Missing:** an admissible network construction for general isotropic and anisotropic `S^{mu nu}`, framework-meaningful coefficients, and a derivation or rejection of the proposed office correspondence consistent with P4's From/With index blocks and P17's This–From energy relation.
 
 **False-completion risk:** one nonzero `T^{nn}` or a rank-one kinetic source can be mistaken for arbitrary material stress-energy.
+
+**Dependencies and downstream claims affected:** depends on P4's From/With index kinds, P17's This–From energy distinction, and the P23 native source map; affects general material-source claims, With-office interpretation, and later consumers of spatial stress.
 
 **Next legitimate research action:** enumerate admissible multi-direction source configurations and determine the realized span of the spatial second moment.
 

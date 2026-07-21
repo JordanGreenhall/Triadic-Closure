@@ -93,6 +93,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `gravity-and-curvature.md`
 - `gravity-asymmetry.md`
 - `p22-weak-field-gravity-as-participation-curvature.md`
+- `p23-stress-energy-as-three-office-source.md`
 - `stress-energy-three-offices.md`
 - `lambda-derived.md`
 - `lambda-scaling-validation-task.md`
