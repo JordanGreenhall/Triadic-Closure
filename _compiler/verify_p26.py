@@ -55,6 +55,8 @@ def main() -> None:
     git("cat-file", "-e", f"{args.base}^{{commit}}")
 
     changed = set(git("diff", "--name-only", f"{args.base}...HEAD").splitlines())
+    working_changed = set(git("diff", "--name-only").splitlines())
+    working_changed.update(git("diff", "--cached", "--name-only").splitlines())
     required_paths = {
         OWNER,
         GLOBAL,
@@ -74,7 +76,7 @@ def main() -> None:
         "lambda-derived.md",
         "mass-as-self-closure.md",
     )
-    for path in changed:
+    for path in changed | working_changed:
         if path.startswith(forbidden_prefixes):
             fail(f"later-unit owner changed in P26: {path}")
 
@@ -105,6 +107,16 @@ def main() -> None:
         "no intrinsic gravitational decoherence floor is Registered",
     ):
         forbid(owner, stale, OWNER)
+    for standing in (
+        "geometry-fork application and the claim that complete actual geometry cannot superpose are therefore **Conjectured and Unregistered**",
+        "P26 non-exact-holonomy claim is therefore **Conjectured and Unregistered**",
+        "BMV-positive is **Conjectured and Unregistered as a framework implication**",
+        "absence of an intrinsic gravitational decoherence floor is **Open and Unregistered**",
+        "Entanglement without on-shell radiation is also **Open and Unregistered**",
+        "| BMV-positive follows from the framework | Conjectured | Unregistered |",
+        "| No intrinsic gravitational decoherence floor | Open under AUD-015 | Unregistered |",
+    ):
+        require(owner, standing, OWNER)
 
     status = read("grqm-conflict-status.md")
     locator = read("grqm-problem-locator.md")
