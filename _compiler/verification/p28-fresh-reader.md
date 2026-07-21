@@ -1,6 +1,6 @@
 # P28 Fresh-Reader Review
 
-Reviewed content head: `9489e0b7211bae8e0be68c35e96b943f1f0c5ba8`
+Reviewed content-correction head: `88637574c34fcf256c50cf5cc3022d91bef41a30`
 Exact base: `92b194970a7fa00f516e759eaeb3e4d3d38aad03`
 Reader posture: owner-first review without relying on implementation intent.
 
@@ -50,8 +50,12 @@ Reader posture: owner-first review without relying on implementation intent.
 
 12. **Can stale grades return silently?**
 
-   No under the committed verifier. Six executed in-memory mutations demonstrate rejection of present-value confirmation, coefficient registration, native-dynamics registration, unconditional-flatness registration, missing frontier placement, and P29 boundary collapse.
+   The exercised surfaces are bounded and explicit. Six owner/frontier/boundary mutations reject present-value confirmation, coefficient registration, native-dynamics registration, unconditional-flatness registration, missing frontier placement, and P29 boundary collapse. Four additional in-memory mutations independently replace each A1 consumer with its stale conflated or all-magnitude-demotion wording; each exits 1. This proves coverage of the named owner/shadow/frontier and four A1 consumer surfaces, not every possible corpus phrase.
+
+13. **Do the four audited consumers now preserve P28 separation?**
+
+   Yes. `12-gravity-full-gr-imports.md`, `03-10-physics-concept-load-pass-ledger.md`, and `sm-content-smuggle-audit-frontier.md` each route to P28 and locally state Registered structural and macro-scaling scopes, Conjectured-strong/Unregistered coefficient and empirical translation, definitional-not-confirmatory present identity, empirical-input dependence, and Open/Unregistered native dynamics. `deferred-articulations-map.md` now retracts/demotes only unsupported coefficient, confirmatory present-magnitude, and stronger dynamics language while preserving Registered macro scaling and routing all standing to P28.
 
 ## Verdict
 
-PASS. The owner is independently readable, semantic layers are separated, exact mathematics is not promoted into missing physical warrant, negative routes remain visible, and every open bridge is represented by an explicit frontier.
+PASS for the reviewed bounded surfaces. The canonical owner remains independently readable and substantively unchanged; the four audited consumers now preserve its semantic separation; exact mathematics is not promoted into missing physical warrant; negative routes remain visible; and every open bridge remains represented by an explicit frontier. No claim is made that unenumerated corpus wording was exhaustively sealed.
