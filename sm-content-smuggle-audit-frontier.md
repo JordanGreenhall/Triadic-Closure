@@ -161,7 +161,7 @@ exact module/hypercharge/electroweak-breaking claims in Items 8/13.
 
 **Current support:** Item 7 passes as an adjudication ledger. Quark/lepton binary
 as interior-triad part/whole distinction is Registered, and the SU(3)/color bridge
-dependency is discharged by Items 3–4. P14 registers flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) retains shared baryon closure and `uud`/`udd` differentiation while keeping the framework sign, relief mechanism, physical `1/4` access weight, and magnitude Conjectured. Decay remains P21-owned. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native particle role.
+dependency is discharged by Items 3–4. P14 registers flavor as marked color. [P20](p20-baryon-closure-and-proton-neutron-relation.md) retains shared baryon closure and `uud`/`udd` differentiation while keeping the framework sign, relief mechanism, physical `1/4` access weight, and magnitude Conjectured. [P21](with-to-this-closure.md) Registers the generic decay classifier while keeping the neutron inverse passage Conjectured and product roles unregistered at their stated grades. Electron native mass-ruler and proton/baryon closure roles are Registered. Neutrino/antineutrino have no Registered native decay-product role.
 
 **Smuggle risk:** using `quark`, `lepton`, `electron`, `neutrino`, `baryon`,
 `proton`, or `neutron` as if their full SM identity is registered. The ledger
@@ -234,10 +234,10 @@ decompositions as external comparison until From-With numbering is native.
 
 ### 11. Decay-product registration / neutrino and antineutrino boundary
 
-**Current support:** Item 11 passes by registration plus quarantine. The native
-decay skeleton is Registered: metastable escape over a coherence barrier, charge
-and energy balance, participation-propensity channel weighting, and chiral /
-orientation-faithful coupling. Electron-as-product, missing-energy observation,
+**Current support:** Item 11 passes by bounded registration plus quarantine. P21
+Registers loss or reconfiguration of a prior invariant through admitted escape;
+a coherence barrier is included only when exhibited. Charge, energy, weighting,
+and chiral criteria retain their inherited scoped grades. Electron-as-product, missing-energy observation,
 antineutrino identity, spectra, rates, and weak mechanism are empirical/Open or
 quarantined.
 
@@ -308,9 +308,9 @@ machinery is registered. If used, mark as empirical/SM comparison only.
 inside the framework and which electron properties are used. Then restate the
 proton/electron mass work relative to the licensed electron content only.
 
-7. **Decay-product registration.** Closed by [11-decay-product-registration](11-decay-product-registration.md):
-decay skeleton Registered; product identities, spectra, rates, antineutrino role,
-and W-mechanism empirical/Open/quarantined.
+7. **Decay-product registration.** Governed by [P21 With-to-This Closure and Decay](with-to-this-closure.md):
+generic decay classifier Registered; inverse passage Conjectured; product identities, spectra, rates, antineutrino receipt,
+and W-mechanism Conjectured/Open/empirical/quarantined at their stated scopes.
 
 8. **QCD/SM comparison quarantine.** Closed/narrowed by [09-specific-color-dynamics-qcd-quarantine](09-specific-color-dynamics-qcd-quarantine.md) for SU(3) consequences; keep `91% QCD binding`, `9% Higgs/Yukawa`, W/Z/photon, anomaly logic, and quantitative QCD dynamics as external comparison unless separately derived.
 

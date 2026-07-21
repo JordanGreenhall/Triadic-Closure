@@ -38,7 +38,7 @@ Traditional physics may orient and check. It may not silently determine the fram
 
 The numbered normalization units are semantic regions. They are not identical to the generic D-series. A later result may satisfy or constrain an earlier unit when it actually exhibits the relevant constitutive content, but a similarly numbered D-phase may not replace the program unit.
 
-For P6, the current worked witnesses are baryon persistence/stability and electron recurrence/ruler. Proton/neutron shared-closure identity is established, while comparative metastability is Conjectured under P20 and structural decay is P21-owned. P7 is G1 manifold recovery and local continuum. Successor passability remains generic D7 content and later X1 interface work.
+For P6, the current worked witnesses are baryon persistence/stability and electron recurrence/ruler. Proton/neutron shared-closure identity is established, comparative metastability is Conjectured under P20, and P21 Registers the generic decay classifier while keeping the neutron inverse passage Conjectured. P7 is G1 manifold recovery and local continuum. Successor passability remains generic D7 content and later X1 interface work.
 
 ## Priority 1 — Load-bearing and under-sealed
 
