@@ -11,6 +11,7 @@ sources:
   - lorentz-from-recoupling.md
   - gravity-and-curvature.md
   - gravity-asymmetry.md
+  - p22-weak-field-gravity-as-participation-curvature.md
   - physics-domain-mature-status.md
 ---
 

@@ -1,0 +1,9 @@
+P22 deterministic normalization verification
+base: 9085a7443b9cb71808f8c3afc43161929db1263f
+fixture: append a third living P22-F1 occurrence to gravity-and-curvature.md through an overlay
+expected exit: 1
+actual exit: 1
+changed Markdown files checked: 23
+local Markdown links checked: 324
+FAIL (1 errors)
+- P22-F1 must occur only in local/global files; got ['gravity-and-curvature.md', 'p22-weak-field-gravity-as-participation-curvature.md', 'physics-domain-mature-status.md']

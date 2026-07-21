@@ -1,0 +1,61 @@
+P22 CORRECTION-INTRODUCED CI-1 — HESSIAN/TIDAL SIGN CORRECTION
+Date: 2026-07-21
+Exact base: 9085a7443b9cb71808f8c3afc43161929db1263f
+Correction base/head reviewed by Control: e8b3cd73dd4a7d1c92e066cb3f711936fed7cc7b
+Scope: correction-introduced Hessian/tidal object-sign regression only
+
+EXACT CALCULATION
+Let R=(x^2+y^2+z^2)^(1/2), Phi=-K/R, K>0.
+
+First derivative:
+  partial_i Phi = K x_i R^(-3).
+
+Second derivative:
+  partial_j partial_i Phi
+    = K [delta_ij R^(-3) - 3 x_i x_j R^(-5)].
+
+On a radial axis point (r,0,0), r>0:
+  Hess(Phi) = (K/r^3) diag(-2,+1,+1).
+
+Therefore:
+  radial eigenvalue: -2K/r^3;
+  tangential eigenvalues: +K/r^3, multiplicity two;
+  trace: (-2+1+1)K/r^3 = 0.
+
+Under the selected convention a=-grad(Phi), the tidal/geodesic-deviation operator is -Hess(Phi):
+  -Hess(Phi) = (K/r^3) diag(+2,-1,-1).
+
+Therefore:
+  radial eigenvalue: +2K/r^3, radial stretch;
+  tangential eigenvalues: -K/r^3, multiplicity two, tangential squeeze;
+  trace: 0.
+
+An exact integer-coefficient calculation asserted both matrices and traces and returned:
+  PASS exact differentiation from analytic second-derivative formula
+
+FINITE CONTENT CORRECTION
+- p22-weak-field-gravity-as-participation-curvature.md now distinguishes Hess(Phi) from -Hess(Phi) and gives both eigenvalue triples explicitly.
+- gravity-asymmetry.md now makes the same distinction under the selected a=-grad(Phi) convention.
+- No other living P22 statement attached the wrong stretch/squeeze signs directly to Hess(Phi); neutral references to conditional Hessian mathematics were left unchanged.
+- Existing correction fresh-reader and compiler-cycle evidence did not state the wrong object/sign and was not changed.
+- _compiler/verify_p22.py was not changed; no permanent machinery was added.
+
+FRESH-READER / FIXED-POINT REVIEW
+The canonical owner and gravity-asymmetry.md were reread completely. Every tracked living Markdown line containing Hess/Hessian was enumerated and inspected. The two sign-explicit statements now agree with the exact calculation; all other P22 Hessian references are sign-neutral or refer separately to documentary tidal reports. A post-correction semantic comparison found no additional contradiction and required no further theory, provenance, frontier, lifecycle, or boundary edit.
+
+OBJECTIVE CHECKS
+Exact-base P22 verifier: PASS; 29 changed Markdown files; 328 local links.
+Cumulative P20 verifier: PASS; 55 changed Markdown files; 472 local links.
+All-corpus local links: PASS; 168 tracked Markdown files; 743 local links; 0 broken.
+Exact-base git diff --check: PASS.
+CI-1 correction-only git diff --check from e8b3cd73dd4a7d1c92e066cb3f711936fed7cc7b: PASS.
+Direct wrong-sign Hessian statements in living Markdown: 0.
+Withdrawn fixed-support countermodel occurrences in living Markdown: 0.
+External support-ontology controls in _compiler Python: 0.
+Protected owner changes: [].
+Tracked tools paths: 0.
+Tracked workflow paths: 0.
+P22 frontier placement: canonical local owner plus global status summary only.
+P23 was not begun.
+
+RESULT: PASS

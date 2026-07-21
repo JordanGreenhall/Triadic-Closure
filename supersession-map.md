@@ -26,10 +26,10 @@ This page prevents agents from reviving obsolete claims.
 
 - Earlier: `mathematization-F10-status.md`
   - Status: F10 not done; obstacles located.
-- Current: `mathematization-F10-resolved.md`
-  - Status: F10 substantially closed for weak-field static regime.
+- Current detailed report: `mathematization-F10-resolved.md`, read through P22.
+  - Status: selected static weak-field model Registered at bounded scope; retained numerical report, not rerun verification.
 
-Execution rule: do not cite F10 as simply "not done" without noting the later resolved document.
+Execution rule: do not cite F10 as simply "not done" or "closed." Use P22's bounded source/clock, continuum, and normalization split.
 
 ### F8 formulation
 
@@ -68,6 +68,14 @@ Execution rule: do not use "mediation carrier" as current doctrine unless explic
 - Current: `lambda-derived.md` says Λ now has a definite framework meaning: gravitational stress-energy of self-closure; magnitude remains uncomputed.
 
 Execution rule: do not say Λ has no framework meaning; say its magnitude is not computed.
+
+### P22 weak-field gravity standing
+
+- Earlier integrated pages: `gravity-asymmetry.md`, `mathematization-F10-resolved.md`, and `mathematization-F11.md` described the inverse clock, curvature checks, and Poisson equation as completed or derived, while the named scripts were not retained in GitHub.
+- Earlier negative source: `mathematization-F10-status.md` found the background-time drift and two-clock sign ambiguity and concluded F10 was not done.
+- Current: [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) Registers the selected static weak-field model at bounded scope. It retains the negative source as an adversarial constraint and the later numerical reports as supporting evidence, not rerun verification.
+
+Execution rule: use P22 for every weak-field gravity claim and grade. F8/F9 establish the displayed local participation-weight algebra but do not by themselves derive P22's further geometric identification; preserve that identification as P22's selected/Conjectured framework bridge rather than settling it through an imported support ontology. Do not infer a physical source from P17 mass language, infer the exact inverse clock from atomicity alone, identify the distinct `2+1`, underspecified `0.9993`, and F11 `41^3` `0.997/0.938` reports, combine them into a completed `3+1` metric, or treat the conditional definition `G M:=A/d0` as a derivation of source normalization or `G`. P23 owns stress-energy and P24 owns full-GR completion.
 
 ### Spacetime dimensionality
 
@@ -182,4 +190,4 @@ A candidate deposit, explicitly not wiki-standing. Its D6 atom premise, periodic
 
 A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. P7 must normalize carrier/manifold recovery without treating P5's conditional theorem as recovery. Later atom and chemistry units must begin from P6-F1 rather than reactivating the old D6/Φ route.
 
-See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [gravity-and-curvature](gravity-and-curvature.md), [known-failure-modes](known-failure-modes.md).
+See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md), [gravity-and-curvature](gravity-and-curvature.md), and [known-failure-modes](known-failure-modes.md).

@@ -1,0 +1,84 @@
+P22 FRAMEWORK-NATIVE CONSTITUTIONAL NARROWING — FINAL VERIFICATION
+Date: 2026-07-21
+Exact base: 9085a7443b9cb71808f8c3afc43161929db1263f
+First-audit head: 138c72926b24799c4b9197fae0d68dac22ba6598
+Overbroad-correction head reviewed by Control: 3602159d4baad57fd5aca91ff1316eca62d0e41c
+Scope: Control's retraction and framework-native narrowing of P22 Finding 1; valid portions of Findings 2–4 preserved
+
+CONSTITUTIONAL ADJUDICATION
+- F8/F9 Secure the displayed local participation-weight algebra within its selected conditions.
+- F8/F9 do not by themselves derive P22's further identification of a directional participation profile with geometric/cone/metric content.
+- P22 positively retains that identification as a selected/Conjectured framework bridge inside the bounded static model.
+- The selected inverse-clock metric construction and bounded conditional consequences remain Registered at their existing scope.
+- P22-F1 retains the native source map, native geometric-bridge derivation/standing, inverse-clock derivation/uniqueness, and selected-versus-forced debts.
+- No ordinary weighted-graph support ontology is used to prove or refute the framework proposal.
+
+RETRACTION SEARCHES
+exact external countermodel phrase in living Markdown: 0
+categorical weighting/support/cone/metric denials in living Markdown: 0
+external countermodel requirements in _compiler/verify_p22.py: 0
+correction diff additions matching the retracted formulations: 0
+P22-F1 placement: canonical local owner plus global mature-status summary only
+
+POSITIVE SOURCE CHECK
+gravity-asymmetry.md explicitly proposes anisotropic coherence-participation weighting of realizable-next/null directions as geometric or cone-tilt content.
+Standing: selected/Conjectured P22 framework bridge, not an F8/F9-derived theorem.
+Additional selected inverse-clock metric: bounded conditional consequences preserved.
+Source/profile/clock uniqueness and common continuum implementation: Open.
+
+VALID FIRST-CORRECTION CONTENT PRESERVED
+- delta d / Phi symbol and sign separation
+- conditional positive-source Poisson notation and G M:=A/d0 definition
+- distinct F10 2+1, underspecified 0.9993, and F11 41^3 0.997/0.938 reports
+- documentary-only absent-script standing
+- conditional analytic -1/r Hessian standing
+- canonical status: current
+- corrected F9 and uppercase physics-walk lifecycle handoffs
+- P19/P20/P21 and P23+ boundaries
+
+EXACT-BASE P22 VERIFIER
+base: 9085a7443b9cb71808f8c3afc43161929db1263f
+changed Markdown files checked: 29
+local Markdown links checked: 328
+frontier placement: canonical local + global summary only
+P19/P20/P21 boundary: inherited, not reopened
+P23/P24/P28 boundary: source owners not opened
+weak-field model: Registered at bounded selected static scope
+source/clock uniqueness, common 3+1 implementation, source normalization, G: Open
+PASS
+
+CUMULATIVE P20 VERIFIER
+base: 6d88509b900add3340f7a688ab58e66a0ee30134
+changed Markdown files checked: 55
+local Markdown links checked: 472
+P19 boundary: inherited, not reopened
+P21 boundary: decay excluded
+PASS
+
+ALL-CORPUS LOCAL LINKS
+tracked Markdown files: 168
+local Markdown links checked: 743
+broken links: 0
+PASS
+
+DIFF HYGIENE
+exact-base git diff --check: PASS
+constitutional-correction-only git diff --check from 3602159d4baad57fd5aca91ff1316eca62d0e41c: PASS
+complete constitutional correction diff inspected for ex-framework language: PASS
+
+BOUNDARIES AND MUTATORS
+protected owner changed paths: []
+tracked tools paths: 0
+tracked write workflows: 0
+P23 was not begun.
+
+FAILURE CAPABILITY
+selected/Conjectured bridge overgraded as an F8/F9-derived result: verifier exit 1 (expected)
+The verifier enforces status wording and frontier placement. It contains no requirement or corpus ban that purports to decide support, null, cone, or metric ontology.
+
+MANUAL SEMANTIC EVIDENCE
+Fresh-reader review: _compiler/verification/p22-correction-fresh-reader.md
+Substantive no-change cycle: _compiler/verification/p22-correction-compiler-cycle.md
+Both records were constitutionally narrowed after complete source/consumer rereading. The semantic conclusion depends on that rereading and cross-surface comparison, not verifier repetition alone.
+
+FINAL: PASS

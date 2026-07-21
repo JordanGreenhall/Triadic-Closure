@@ -8,6 +8,7 @@ confidence: medium
 section: GR/QM conflict and quantum-gravity frontier
 sources:
   - grqm-problem-locator.md
+  - p22-weak-field-gravity-as-participation-curvature.md
   - gravity-and-curvature.md
   - propagation-and-invariant-velocity.md
   - realizability-weighting-law.md
@@ -83,7 +84,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 ## Integration rules
 
 - Use [grqm-conflict-status](grqm-conflict-status.md) as the current control page for GR/QM conflict claims.
-- Use [gravity-and-curvature](gravity-and-curvature.md) for weak-field gravity and full-GR status, but read its full-Einstein/Lovelock notes together with this page: the second-order premise has been promoted to Registered conditional on G1, not left as a merely external Lovelock import.
+- Use [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md) for weak-field claims and frontiers. Use this page only for P25+ GR/QM claims and the inherited P24 boundary; it does not upgrade P22's selected source/clock model, retained reports, or conditional Poisson form.
 - Use [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md) for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
 - Use [lambda-derived](lambda-derived.md) for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
 - Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
@@ -107,7 +108,8 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 ## Source links
 
 - [`grqm-problem-locator.md`](grqm-problem-locator.md)
-- [gravity-and-curvature](gravity-and-curvature.md)
+- [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md)
+- [gravity-and-curvature](gravity-and-curvature.md) — concise P22 shadow
 - [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md)
 - [realizability-weighting-law](realizability-weighting-law.md)
 - [mass-as-self-closure](mass-as-self-closure.md)

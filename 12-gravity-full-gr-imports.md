@@ -6,6 +6,7 @@ created: 2026-06-25
 updated: 2026-06-25
 scope: frontier-item-12
 sources:
+  - p22-weak-field-gravity-as-participation-curvature.md
   - gravity-and-curvature.md
   - stress-energy-three-offices.md
   - lambda-derived.md
@@ -17,14 +18,15 @@ sources:
 
 Item 12 is a separation task, not a new proof task. The gravity sector is the most mathematically developed part of the corpus and formerly leaned on Lovelock as a named external theorem import. The newer [grqm-conflict-status](grqm-conflict-status.md) ledger strengthens this: the second-order premise now has a native one-step-conditioning route, Registered conditional on G1/manifold recovery, while Lovelock supplies rule-given tensor rigidity once those premises are admitted. The pass condition remains separation: do not promote weak-field/static gravity into sealed full-GR machinery.
 
-Item 2's PASS quietly upgrades the weak-field gravity dependency: participation-gradient curvature no longer carries the prior Item-2 functional caveat.
+P22 now owns the weak-field dependency. Item 2 supplies normalized selection weight only; P22 retains the source/clock bridge, common `3+1` implementation, source normalization, and `G` as explicit gaps.
 
 ## Adjudication
 
 | Gravity element | Grade | Note |
 |---|---|---|
-| Curvature = anisotropic re-weighting of realizable-next null directions by the participation gradient | **Registered** | Rests on Item 2, now PASS. Gravity-asymmetry uses no rate, no density, no driver; smuggle-clean. |
-| Weak-field static `g00`: participation gradient → Newtonian potential; F9 tilt → geodesic deflection | **Registered** | Item-2 functional dependency is now discharged. Weak-field gravity stands without the prior caveat. |
+| Local anisotropic participation weighting | **Secured within selected F8/F9 construction** | Establishes the displayed local participation-weight algebra, not by itself P22's further geometric identification. |
+| Selected participation-profile/geometric bridge and weak-field static `g00` metric model | **Bridge selected/Conjectured; model Registered at bounded scope** | P22 positively selects the geometric/cone/metric identification and an inverse-clock map; their native derivation/uniqueness and the source map remain open. Absent-script finite values are documentary reports only. |
+| Harmonic `1/r` exterior and scalar Poisson form | **Registered conditionally as analytic mathematics within the selected model** | Distinct `0.9993` and F11 `41^3` `0.997/0.938` documentary reports are not identified; physical source normalization and `G` Open. |
 | Lorentzian signature / metric re-coupling symmetry | **Secured conditionally; Registered–Sealed on a given carrier/manifold** | P5 Secures the null unit-identity natively. The full interval and re-coupling theorem use Alexandrov-Zeeman as a named external implication and do not seal P7/G1 carrier recovery. |
 | `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by [grqm-conflict-status](grqm-conflict-status.md): scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open. |
 | Stress-energy three offices: From=flux, This=energy, With=relational stress | **Registered representationally** | Dynamical population Conjectured; With-mode remains the unproven gate. |
@@ -56,10 +58,10 @@ The GR/QM ledger promotes this from Conjectured to **Registered conditional on G
 
 ## Verdict
 
-**PASS by separation.** Native weak-field/static gravity is Registered. `Λ` meaning and stress-energy representation are Registered; the Lorentz theorem is Registered–Sealed only on its given carrier/manifold, with the import and condition flagged. Full Einstein form remains Registered-conditional, now via the native-conditional second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side; Λ magnitude has been advanced by [grqm-conflict-status](grqm-conflict-status.md).
+**PASS by separation.** P22's selected static weak-field model is Registered at bounded scope, not Sealed. Its source/clock uniqueness, common `3+1` implementation, source normalization, and `G` remain Open. Full Einstein form remains Registered-conditional through the native-conditional second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results and tensor completeness remain Open.
 
 The four hard theorem targets are promotion gates, not load gates. Attempting the nonlinear strong-field construction now would be over-reach.
 
 ## Integration rule
 
-Dependent pages may use weak-field curvature, participation-gradient meaning of curvature, `Λ` structural form, and stress-energy office representation as native. For Λ magnitude, use [lambda-derived](lambda-derived.md) / [grqm-conflict-status](grqm-conflict-status.md): scaling Registered, native complete `3 R_H^-2` Conjectured-strong, present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`, dynamics Open. The full Einstein equation must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity, not Sealed. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics must be marked Open or values-side.
+Dependent pages may use only P22's bounded selected static metric model, selected/Conjectured participation-profile-to-geometric bridge, conditional analytic `-1/r` consequences, harmonic exterior, and conditional scalar Poisson form, with P22's explicit conditions. They may not claim F8/F9 already derive the further P22 bridge, promote documentary reports into Secured warrant, identify the two three-dimensional reports, claim script reproduction, claim a complete `3+1` metric, derive a physical source, or derive exact `G`. Stress-energy belongs to P23. The full Einstein equation must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity, not Sealed. Nonlinear/strong-field results and tensor completeness remain Open. Lambda claims remain P28-owned.

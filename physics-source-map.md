@@ -38,17 +38,18 @@ Curated pages govern status; historical sources are provenance only.
 | [mass-derivation-three-faces](mass-derivation-three-faces.md) | Concise P19 result shadow |
 | [p20-baryon-closure-and-proton-neutron-relation](p20-baryon-closure-and-proton-neutron-relation.md) | P10/P12–P19 controls, amplitude/readout conditions, and detailed neutron sources; P20 owner |
 | [with-to-this-closure](with-to-this-closure.md) | Forward closure, generic decay classifier, inverse-passage boundary, products, and rates; P21 owner |
+| [p22-weak-field-gravity-as-participation-curvature](p22-weak-field-gravity-as-participation-curvature.md) | Conditional local tilt, selected static clock, retained geodesic/tidal evidence, harmonic exterior, and scalar Poisson boundary; P22 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
 | [realizability-weighting-law](realizability-weighting-law.md) | Same-named result and adjudication |
-| [gravity-and-curvature](gravity-and-curvature.md) | F8–F11 mathematics, P7 carrier, gravity sources |
+| [gravity-and-curvature](gravity-and-curvature.md) | Concise P22 result shadow; P22 governs claims, grades, and frontiers |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Same-named result |
 | [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 
 Additional normalized controls:
 
-- P1 through P21 are owned by their normalized pages.
+- P1 through P22 are owned by their normalized pages.
 - [domain-entry-method](domain-entry-method.md) — F4.
 - [physics-walk-checklist](physics-walk-checklist.md).
 - [three-moves-per-stage](three-moves-per-stage.md).

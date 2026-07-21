@@ -11,6 +11,7 @@ depends-on:
   - vertical-and-horizontal                          # the discipline that does the disambiguation
   - amplitude-readout-theorem                        # Item 2: actualization engine (PASS)
   - realizability-weighting-law                      # C(k)=|<sigma|k>|^2; sigma = accumulated standing
+  - p22-weak-field-gravity-as-participation-curvature # canonical P22 weak-field owner and frontiers
   - gravity-and-curvature                            # Item 12: weak-field curvature (Registered)
   - gravity-asymmetry                                # curvature = participation-gradient
   - closure-inherited-metric                         # metric as With
@@ -18,7 +19,7 @@ depends-on:
   - mathematization-F8-F11                           # P18 birth-amplitude = pairing-overlap with standing
   - mathematization-F9-done                          # σ_i = √(d_i)/Z constructed; conserved-flow vs adjacency
   - physics-domain-mature-status                     # ledger: F9 standing-state choice Registered and Sealed
-  - mathematization-F10-resolved                     # weak-field g00, Poisson, tidal
+  - mathematization-F10-resolved                     # supporting retained P22 model report; scripts absent
   - lambda-derived                                   # Λ structural meaning (Registered); magnitude now derived in §8c (scaling + coefficient)
   - stress-energy-three-offices                      # source tensor
   - mass-as-self-closure                             # horizon = total self-closure
@@ -189,8 +190,7 @@ network these scale as the boundary, not the volume. Area = straddling-link coun
 is the link, **no Planck-area**. `G` enters only the optional link→length conversion (values-side).
 
 **The coefficient `1/4`.**
-- `8π` (denominator): **Registered-native** — audited Lovelock + the 4π solid angle (already
-  computed in F11's `∇²Φ = 4πρ`, R²=0.997) + Bianchi trace-reversal.
+- `8π` (denominator): **Registered-native** — audited Lovelock + the analytic 4π solid-angle/distributional factor + Bianchi trace-reversal. F11's separate absent-script `41^3` report (`R²=0.997`, control `0.938`) is documentary evidence and does not warrant that analytic factor.
 - `2π` (numerator): **Conjectured-strong-native** via the signature argument (§7, 2π).
 - **Profile-independence (Registered).** `dS = dM/T = 2π·dM/κ`; the first law `dM = (κ/8π)dA`
   gives `dM/κ = dA/8π`; so `dS = dA/4` — **the κ's cancel**. `κ(M)` and `A(M)` (the strong-field

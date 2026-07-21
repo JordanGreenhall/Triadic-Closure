@@ -416,12 +416,13 @@ Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure 
 
 ## Item 12 — Gravity full-GR imports
 
-See [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md). Item 12 **PASSES by separation**. The pass condition is disjunctive: prove tensor completeness / second-order closure-order / nonlinear strong-field / value-scale theorems, or keep the weak-field/static result cleanly separate from imports. The corpus already maintains the separation.
+See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) for the weak-field owner and [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) for the P24 import boundary. Item 12 **PASSES by separation**: the bounded P22 model is not promoted into tensor completeness, full-GR, or strong-field claims.
 
 ### 12.1 Registered native gravity results
 
-- **Curvature meaning:** anisotropic re-weighting of realizable-next null directions by the participation gradient — **Registered**. Rests on Item 2, now PASS; no rate, no density, no driver smuggle.
-- **Weak-field static `g00`:** participation gradient → Newtonian potential; F9 tilt → geodesic deflection — **Registered**. Item-2 functional dependency is discharged.
+- **Local weighting and metric bridge:** F8/F9 Secure the displayed local participation-weight algebra within the selected construction. They do not by themselves derive P22's further identification of a directional participation profile with geometric/cone/metric content. P22 retains that identification as a selected/Conjectured framework bridge inside the bounded model.
+- **Weak-field static `g00`:** the additional selected inverse-clock map gives an attractive potential — **Registered at bounded static-model scope**. The source-to-profile map and exact inverse clock are not uniquely forced. Absent-script finite values remain documentary reports only; conditional analytic `-1/r` Hessian consequences are separate mathematics.
+- **Harmonic exterior and scalar Poisson form:** two distinct three-dimensional reports are retained: underspecified `R²=0.9993`, and F11 `41^3` `R²=0.997` / control `0.938`. Neither report is Secured warrant. Conditional analytic `delta d=A/r+C_d`, `Phi=-delta d/d_0`, `G M:=A/d_0` gives the sign-consistent positive-source Poisson form. Physical `rho`/`G` remain Open.
 - **Lorentzian signature / metric re-coupling symmetry:** P5 Secures the null unit-identity natively; the full interval and re-coupling symmetry are **Secured conditionally and Registered–Sealed on a given carrier/manifold**, using Alexandrov-Zeeman as a named external theorem. P7/G1 carrier recovery remains incompletely sealed; exact local Lorentz on the recovered continuum is Secured within its defended-posit ceiling and Registered-not-Sealed.
 - **`Λ` structural meaning:** stress-energy of self-closure, `w=-1` — **Registered**; scaling `Λ ∼ R_H^-2` **Registered**; native complete `3 R_H^-2` **Conjectured-strong**; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open.
 - **Stress-energy three offices:** From=flux, This=energy, With=relational stress — **Registered representationally**; dynamical population Conjectured, With-mode unproven.
@@ -446,7 +447,7 @@ The second-order premise is the single most promotable full-Einstein target. Can
 
 ### 12.5 Integration rule
 
-Dependent pages may use weak-field curvature, participation-gradient curvature meaning, `Λ` structural form, Λ scaling, native complete `3 R_H^-2`, and stress-energy office representation as native. The full Einstein equation must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics must be marked Open or values-side; present Λ is `3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`.
+Dependent pages may use P22's bounded selected static metric model, selected/Conjectured participation-profile-to-geometric bridge, conditional analytic `-1/r` consequences, harmonic exterior, and conditional scalar Poisson form only with P22's inherited conditions and three local/global gaps. They may not present F8/F9's weight algebra as already deriving P22's further geometric identification, promote documentary reports into Secured warrant, identify the two three-dimensional reports, present absent scripts as rerun, combine separate dimensional checks into a full `3+1` theorem, or derive a physical source or `G`. The full Einstein equation remains P24-bound and must be marked Registered-conditional on the G1-conditioned second-order route plus Lovelock-style tensor rigidity. Nonlinear/strong-field results and tensor completeness remain Open.
 
 ---
 

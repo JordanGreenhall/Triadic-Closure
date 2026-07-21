@@ -1,9 +1,9 @@
 ---
-title: Gravity and Curvature
-type: result
+title: Gravity and Curvature — P22 Result Shadow
+type: supporting
 created: 2026-06-21
-updated: 2026-06-21
-status: current
+updated: 2026-07-21
+status: shadow
 confidence: medium
 sources:
   - mathematization-F8-done.md
@@ -19,49 +19,36 @@ historical_sources:
 
 # Gravity and Curvature
 
-Current gravity result is distributed across several modules.
+This is the concise result shadow for [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md). P22 governs every weak-field claim, condition, grade, and frontier. P23 owns stress-energy; P24 owns the full-GR route.
 
 ## Mature status
 
-Status: **Registered** for weak-field gravity and the framework meaning of curvature; **Registered conditionally** for the full Einstein equation.
+Status: **Registered at the bounded selected static weak-field metric-model scope**. Local weight comparison is Secured within the selected F8/F9 construction, but does not by itself derive P22's further identification of a directional participation profile with geometric/cone/metric content. P22 retains that identification as a selected/Conjectured framework bridge. The profile/source/clock map is not uniquely forced. Absent-script values are documentary reports only; F10 `2+1`, the underspecified three-dimensional `0.9993` report, and F11's `41^3` `0.997/0.938` report remain distinct. Scalar source normalization and `G` remain Open.
 
 ## Current chain
 
-1. F8: coherence-participation functional constructed/derived/uniqueness argued via frame-function/Gleason route.
-2. F9: standing vector σ and gravity tilt derived as linear in conditioning-degree; later ledger review discharges the conserved-flow standing-state choice by conservation (0.6), with bare adjacency disqualified as a growth mode.
-3. F10: superseded "not done" status; now substantially closed for weak-field static regime.
-4. F11: weak-field Einstein equation derived/computed; broader Einstein form forced through Lovelock-style argument with stated caveats.
-5. Λ: given framework meaning as stress-energy of self-closure; magnitude not computed.
-6. Gravity asymmetry: coherence-participation gradient integrates to weak-field curvature.
+1. Conditional F8/F9 input: a licensed positive pairing and selected conserved-flow standing give `C(e_i)=d_i/Sum d_j` as a normalized local participation weight, not a frequency, rate, or derivation of P22's further geometric identification.
+2. Static F10 model: an additional selected inverse-clock map gives `g00=-(d0/d)^2` and an attractive first-order potential.
+3. Evidence separation: F10 numerical values and two distinct three-dimensional reports remain documentary evidence only. Conditional analytic `Phi=-K/r` mathematics supplies radial/tangential Hessian and vacuum-trace consequences.
+4. Sign-consistent Poisson form: `delta d=A/r+C_d`, `Phi=-delta d/d0`, and the conditional definition `G M:=A/d0` give `nabla^2 Phi=4 pi G rho` for `rho=M delta^3`.
+5. P22 keeps source/clock uniqueness, one common `3+1` continuum implementation, scalar source normalization, and `G` live as local/global frontiers.
 
 ## Open gates
 
-- Strong-field / nonlinear regime.
-- Full spatial metric sector and full 3+1 tensor beyond weak-field tests.
-- Framework derivation of the second-order premise behind the Lovelock route.
-- The value of `G`.
-- Magnitude of Λ.
+- Source, participation-profile, and inverse-clock uniqueness remain open under P22.
+- One executable, convergent `3+1` continuum curvature implementation remains open under P22.
+- Scalar source normalization and `G` remain open under P22.
+- P23: stress-energy source construction and office population.
+- P24: full spatial metric, tensor completeness, second-order/full-Einstein route, and nonlinear regime.
 
-## Grade adjudication (2026-06-21)
+## Grade adjudication
 
-Worked as Item 4 of [physics-domain-work-plan](physics-domain-work-plan.md). The grade splits by regime.
+The conditional local weighting algebra remains positively Secured at its selected scope. The displayed inverse-clock metric model is Registered at bounded scope, while its bridge and uniqueness remain Open/Conjectured. Documentary numerical reports carry no independent Secured warrant. Conditional analytic `-1/r` mathematics supplies the harmonic exterior and tidal Hessian. The scalar Poisson form is conditional on the source map and normalization; defining `G M:=A/d0` computes neither `M` nor `G`.
 
-**Weak-field, static `g00` sector — Registered.** The coherence-participation gradient (F8) integrates to the Newtonian potential, and F9's linear conditioning-degree tilt reproduces the weak-field geodesic deflection. This regime is securely Registered (not claimed sealed, since `G` is uncomputed).
-
-**Full Einstein form — Registered conditional, not Sealed.** Three gates remain open and none is closed this session:
-
-1. *Tensor completeness.* The derivation covers the `g00` energy/closure sector. The spatial metric sector and the full 3+1 tensor structure are asserted by analogy and the Lovelock uniqueness argument, not derived component-wise from the conditioning-network.
-2. *Second-order premise is imported, not grounded.* The Lovelock route forces the Einstein tensor *given* that the field equation is second-order in the metric. That second-order restriction is taken from Lovelock's theorem; it is not yet derived from framework primitives (e.g. from a locality/closure-order bound on how far conditioning propagates per step). Until it is, the full form rests on an imported premise.
-3. *Strong-field / nonlinear regime untested.* The conditioning-network has not been exercised in a regime where the participation field self-couples nonlinearly, so the nonlinear sector of Einstein's equation is unverified rather than derived.
-
-**Smuggle risk flagged.** Clarifying local degree vs conserved-flow perturbation vs curvature must avoid background-density smuggling: the stress-energy source must come from the network's own closure accounting, not from a pre-assumed matter density.
-
-**Verdict.** Weak-field **Registered**; full Einstein equation **Registered conditional / Conjectured for the nonlinear sector**, not Sealed. The single most promotable gate is #2 — derive the second-order restriction from a framework closure-order bound; that would convert the Lovelock step from import to derivation. Confidence >90% attaches to this split grade, not to a seal.
+Full-Einstein standing is not adjudicated here. Use [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) until P24 is normalized.
 
 ## Execution caution
 
-Do not use `mathematization-F10-status.md` as current. See [supersession-map](supersession-map.md).
+Do not use `mathematization-F10-status.md` as current, treat absent scripts as rerun evidence, identify weight with frequency, or claim numerical constants are derived.
 
-Do not claim numerical constants are derived.
-
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [lambda-derived](lambda-derived.md), [stress-energy-three-offices](stress-energy-three-offices.md), [known-failure-modes](known-failure-modes.md).
+See also: [P22](p22-weak-field-gravity-as-participation-curvature.md), [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [stress-energy-three-offices](stress-energy-three-offices.md), and [known-failure-modes](known-failure-modes.md).
