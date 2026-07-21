@@ -5,6 +5,7 @@ status: pass-by-separation
 frontier_item: 12
 updated: 2026-06-25
 sources:
+  - ../p22-weak-field-gravity-as-participation-curvature.md
   - ../gravity-and-curvature.md
   - ../stress-energy-three-offices.md
   - ../lambda-derived.md
@@ -23,7 +24,7 @@ Gravity/curvature pages, Item 2 participation weighting, named external theorem 
 
 ## Actual load in current framework
 
-See [12-gravity-full-gr-imports](../12-gravity-full-gr-imports.md): weak-field gravity, curvature meaning, Lorentz signature, Lambda structural meaning, Λ magnitude split, stress-energy offices, Lovelock/Einstein conditional route, tensor completeness, strong-field regime, exact `G`, and Λ dynamics.
+See [P22 Weak-Field Gravity](../p22-weak-field-gravity-as-participation-curvature.md) for the bounded weak-field owner and [12-gravity-full-gr-imports](../12-gravity-full-gr-imports.md) for the P24 import boundary.
 
 ## Pass condition for the loop agent
 
@@ -35,7 +36,7 @@ FAIL if weak-field success plus external Lovelock assumptions is promoted into f
 
 ## Integration rule
 
-Dependent pages may use weak-field curvature, participation-gradient curvature meaning, Lambda structural form, Λ scaling, native complete `3 R_H^-2`, and stress-energy office representation as native. Full Einstein equation must be marked Registered-conditional through the G1-conditioned second-order route plus Lovelock-style tensor rigidity; nonlinear/strong-field results, tensor completeness, exact `G`, and Λ dynamics remain Open or values-side. Λ magnitude status is split: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`.
+Dependent pages may use P22's bounded selected static model and conditional harmonic/Poisson form only with its explicit gaps. Full Einstein equation remains P24-bound and Registered-conditional through the G1-conditioned second-order route plus Lovelock-style tensor rigidity; nonlinear/strong-field results and tensor completeness remain Open. Stress-energy is P23-owned and Lambda is P28-owned.
 
 ## Required loop output
 

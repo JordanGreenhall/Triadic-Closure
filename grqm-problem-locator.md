@@ -11,6 +11,7 @@ depends-on:
   - vertical-and-horizontal                          # the discipline that does the disambiguation
   - amplitude-readout-theorem                        # Item 2: actualization engine (PASS)
   - realizability-weighting-law                      # C(k)=|<sigma|k>|^2; sigma = accumulated standing
+  - p22-weak-field-gravity-as-participation-curvature # canonical P22 weak-field owner and frontiers
   - gravity-and-curvature                            # Item 12: weak-field curvature (Registered)
   - gravity-asymmetry                                # curvature = participation-gradient
   - closure-inherited-metric                         # metric as With
@@ -18,7 +19,7 @@ depends-on:
   - mathematization-F8-F11                           # P18 birth-amplitude = pairing-overlap with standing
   - mathematization-F9-done                          # σ_i = √(d_i)/Z constructed; conserved-flow vs adjacency
   - physics-domain-mature-status                     # ledger: F9 standing-state choice Registered and Sealed
-  - mathematization-F10-resolved                     # weak-field g00, Poisson, tidal
+  - mathematization-F10-resolved                     # supporting retained P22 model report; scripts absent
   - lambda-derived                                   # Λ structural meaning (Registered); magnitude now derived in §8c (scaling + coefficient)
   - stress-energy-three-offices                      # source tensor
   - mass-as-self-closure                             # horizon = total self-closure

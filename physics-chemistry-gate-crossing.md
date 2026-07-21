@@ -12,7 +12,7 @@ depends-on:
   - gauge-structure-result                  # U(1) From-phase valence axis; SU(3) color
   - p20-baryon-closure-and-proton-neutron-relation # Conjectured relief route; P14 mark geometry
   - mass-derivation-three-faces             # mass = maintenance of closure; 6π⁵; m_e = 1
-  - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
+  - p22-weak-field-gravity-as-participation-curvature # conditional weak-field harmonic/Poisson move-family
   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)
   - lambda-derived                          # complete-return principle (shared with winding tower)
   - boson-fermion-and-holding-statistics   # P3 complete-state exclusion scope
@@ -102,9 +102,9 @@ No Coulomb form, no energy-minimization spent (maintenance-relief replaces it).
 Object: the realizability-texture of one unreturned From-edge through three
 isotropic degrees.
 
-- **1/r² field:** conserved edge over an r²-growing surround. Exponent = d−1;
+- **Conditional 1/r² field family:** conserved edge over an r²-growing surround. Exponent = d−1;
   the registered 3+1 feeds the force law (4-space would give 1/r³ and die).
-  Same move-family as weak-field Poisson.
+  Same mathematical move-family as P22's conditionally Registered scalar Poisson form; this interface deposit does not discharge P22's physical source or calibration gaps.
 - **Sign structure (Gate A's debt, paid from the field side):** carriers compose
   linearly; the **quadratic measure** (the *only* registered measure source) of the
   superposition carries a cross-term whose sign = product of edge valences.
