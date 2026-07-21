@@ -1,42 +1,52 @@
 # P27 Compiler Cycle
 
-Reviewed content/evidence head: `1cd29c2d71ffafdb196b1ab93e2620e7f44fbe93`
+Reviewed content-correction commit: `ab2ae587b35e7bbc441f3444efd823f3130d116c`
 
 Exact base: `e945b65c5b67afa2818a55cc363eb42f2dc5306c`
 
-## First complete cycle
+Checkout: clean case-sensitive Program Agent checkout at the exact reviewed commit. No untracked evidence file or Python cache was present in Git status or entered the changed-path counts.
 
-The first cycle installed the canonical P27 owner, synchronized the detailed and concise GR/QM shadows, routed the owner globally, registered three local/global frontiers, reproduced exact conditional algebra and countermodels, and executed six stale-state overlays.
+## Bounded correction fixed point
 
-Substantive adjudication:
+The reviewed content commit repairs only source lineage, the living multi-unit source-map route, and the explicit global P27-F2 debt list. It does not alter P27 theory, grades, registration, canonical substance, algebra, verifier architecture, or neighboring-unit owners.
+
+The bounded substantive result remains fixed:
 
 - P17's architectural total-self-closure relation remains bounded and does not become a physical black-hole solution.
 - P22's weak-field lapse notation cannot be spent at `d -> infinity` as strong-field warrant.
-- Local simple-zero, selected boundary scaling, carrier/boost signature, and `1/4` cancellation results are conditional mathematics.
-- Physical horizon and straddling-link area are Conjectured and Unregistered.
-- Thermal-flow identification, temperature, entropy, `S=A/4`, information preservation, unitary evaporation, generalized entropy, and a Page curve are Open and Unregistered.
-- Conservation of registered distinctions is not quantum unitarity.
+- Local simple-zero, selected boundary scaling, carrier/boost signature, and `1/4` cancellation results remain conditional mathematics.
+- Physical horizon and straddling-link area remain Conjectured and Unregistered.
+- Thermal-flow identification, temperature, entropy, `S=A/4`, information preservation, unitary evaporation, generalized entropy, and a Page curve remain Open and Unregistered.
+- Conservation of registered distinctions remains distinct from quantum unitarity.
 
-## Fresh-reader cycle
+## Clean deterministic reproduction
 
-The fresh-reader pass reread the canonical owner and routed summaries from current authority. It found no theory, grade, boundary, navigation, evidence, or source-disposition correction. Its report is `_compiler/verification/p27-fresh-reader.md`.
+Status immediately before both runs:
 
-## Second deterministic cycle
+`git status --porcelain=v1` emitted zero bytes.
 
 Command, run twice:
 
 `python3 _compiler/verify_p27.py --base e945b65c5b67afa2818a55cc363eb42f2dc5306c`
 
-Both runs emitted exactly:
+First-run stdout, exactly:
 
-`P27 verification: PASS (base e945b65c5b67afa2818a55cc363eb42f2dc5306c; 25 changed files; 16 changed Markdown files; 388 Markdown links scanned)`
+`P27 verification: PASS (base e945b65c5b67afa2818a55cc363eb42f2dc5306c; 27 changed files; 17 changed Markdown files; 388 Markdown links scanned)`
 
-The two stdout files were byte-identical under `cmp`.
+Second-run stdout, exactly:
+
+`P27 verification: PASS (base e945b65c5b67afa2818a55cc363eb42f2dc5306c; 27 changed files; 17 changed Markdown files; 388 Markdown links scanned)`
+
+The two 144-byte stdout files were byte-identical under `cmp`.
 
 SHA-256 of each stdout file:
 
-`ca0743d3e1e93fd43e8e8d996582c6a78477534e7fae4c0ee9103bd686040a18`
+`dc2dce8d9032369143b97136eeeeb95da31d1579c786add978694039b8c69df9`
+
+Status immediately after both runs:
+
+`git status --porcelain=v1` emitted zero bytes.
 
 ## Fixed-point verdict
 
-PASS. The fresh-reader cycle requested no correction, the second verifier cycle changed no corpus or verifier source, both verifier outputs were byte-identical, and exact-base diff hygiene remained clean.
+PASS. Both runs resolve to the named clean content-correction commit, reproduce the same counts and stdout byte-for-byte, and leave the checkout clean. The correction introduces no substantive theory or grade change.
