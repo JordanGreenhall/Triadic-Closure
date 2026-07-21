@@ -18,6 +18,7 @@ sources:
   - p23-stress-energy-as-three-office-source.md
   - p24-full-einstein-form-as-conditional-rigidity.md
   - p25-grqm-background-conflict-and-nonrenormalizability.md
+  - p26-matter-sourced-geometry-holonomy-and-bmv.md
   - mass-as-self-closure.md
   - flavor-mark-metric-and-neutron.md
   - physics-domain-mature-status.md
@@ -115,6 +116,17 @@ Current status: [P25](p25-grqm-background-conflict-and-nonrenormalizability.md) 
 - Under separate research authorization, select one finite perturbative comparison target and define the translation and failure criterion before calculation.
 - Keep P7 carrier recovery, P16 quantitative gauge dynamics, P22/P24 gravity and coupling, P26 BMV, P27 horizon/information, and P28 Lambda at their owners.
 
+### 5d. P26 matter-sourced geometry, holonomy, and BMV
+
+Current status: [P26](p26-matter-sourced-geometry-holonomy-and-bmv.md) preserves the foundation's bounded realizability/actuality distinction and exact imaginary-pairing/nonzero-loop mathematics. Matter-fork/geometry-fork application, no-actual-superposition, causal-growth connection/non-exactness, BMV implication, and native phase translation remain Conjectured and Unregistered. Absence of an intrinsic decoherence floor and entanglement without radiation are Open and Unregistered.
+
+- Construct one explicit joint matter/geometry branch model before strengthening the geometry-definiteness interpretation.
+- Do not turn P8 complexness or imaginary-part antisymmetry into a nonzero postcosm loop; select and commit a carrier-to-edge connection and exact reproducer first.
+- Keep the standard BMV phase as external comparison until P22/P24 dynamics, `G`, branch translation, and an entanglement witness are exhibited.
+- Preserve AUD-015: check discrete-substrate which-path information before claiming no intrinsic gravitational decoherence floor.
+- Do not call a null BMV result framework-falsifying until the BMV implication is Secured.
+- Keep P27 phase-period/horizon work, P28 Lambda, and P29 Standard Model completion at their owners.
+
 ## Priority 2 — Important downstream frontiers
 
 ### 6. P23 stress-energy source and dynamical generality
@@ -201,17 +213,18 @@ Current status: Open.
 7. P23 stress-energy: conditional source/decomposition mathematics normalized; office correspondence Conjectured/Unregistered; native weights, general stress dynamics, and conservation incomplete.
 8. P24 full field equation: general named theorem family accepted externally at conditional scope; exact schema/applicability, exact order theorem, tensor completeness, nonlinear realization, and coupling remain Conjectured/Open and Unregistered.
 9. P25 GR/QM background conflict: bounded phase and internal/spatial mappings Secured/Registered; overall non-renormalizability explanation Conjectured and Unregistered as a completed derivation.
-10. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
-11. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
-12. Matter spectrum/generations: Open.
-13. Atoms/periodic landscape: Open as a normalized parent.
-14. Numerical spectrum: Open and deferred.
+10. P26 geometry/holonomy/BMV: bounded modal and conditional algebraic cores preserved; physical geometry, non-exactness, and BMV translation Conjectured/Unregistered; decoherence/radiation Open.
+11. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
+12. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
+13. Matter spectrum/generations: Open.
+14. Atoms/periodic landscape: Open as a normalized parent.
+15. Numerical spectrum: Open and deferred.
 
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), and their shadows/consumers synchronized.
-3. Preserve P22/P23/P24/P25 boundaries and do not reactivate absent computation scripts as evidence.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), [P26 Geometry/Holonomy/BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md), and their shadows/consumers synchronized.
+3. Preserve P22/P23/P24/P25/P26 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
 See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md), [d6-persistence](d6-persistence.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md).

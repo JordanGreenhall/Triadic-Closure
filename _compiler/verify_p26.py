@@ -1,0 +1,215 @@
+#!/usr/bin/env python3
+"""Deterministic verifier for normalization unit P26."""
+
+from __future__ import annotations
+
+import argparse
+import subprocess
+import sys
+from pathlib import Path
+from typing import NoReturn
+
+ROOT = Path(__file__).resolve().parents[1]
+OWNER = "p26-matter-sourced-geometry-holonomy-and-bmv.md"
+GLOBAL = "physics-domain-mature-status.md"
+BASE = "7071e4d6e95f90765f70db18826f0f6952c13de2"
+
+
+def fail(message: str) -> NoReturn:
+    print(f"P26 verification: FAIL: {message}", file=sys.stderr)
+    raise SystemExit(1)
+
+
+def git(*args: str) -> str:
+    try:
+        return subprocess.check_output(
+            ["git", *args], cwd=ROOT, text=True, stderr=subprocess.STDOUT
+        ).strip()
+    except subprocess.CalledProcessError as exc:
+        fail(f"git {' '.join(args)} failed: {exc.output.strip()}")
+
+
+def require(text: str, needle: str, where: str) -> None:
+    if needle not in text:
+        fail(f"{where} lacks required text: {needle}")
+
+
+def forbid(text: str, needle: str, where: str) -> None:
+    if needle in text:
+        fail(f"{where} retains forbidden text: {needle}")
+
+
+def read(path: str) -> str:
+    p = ROOT / path
+    if not p.is_file():
+        fail(f"required file absent: {path}")
+    return p.read_text()
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--base", required=True)
+    args = parser.parse_args()
+    if args.base != BASE:
+        fail(f"base must be exact merged P25 head {BASE}, got {args.base}")
+    git("cat-file", "-e", f"{args.base}^{{commit}}")
+
+    changed = set(git("diff", "--name-only", f"{args.base}...HEAD").splitlines())
+    working_changed = set(git("diff", "--name-only").splitlines())
+    working_changed.update(git("diff", "--cached", "--name-only").splitlines())
+    required_paths = {
+        OWNER,
+        GLOBAL,
+        "grqm-conflict-status.md",
+        "grqm-problem-locator.md",
+        "_compiler/verify_p26.py",
+        "_compiler/verify_p26_algebra.py",
+        "_compiler/verification/p26-unit-opening.md",
+        "_compiler/verification/p26-exact-finite-algebra.txt",
+    }
+    missing = required_paths - changed
+    if missing:
+        fail(f"required changed paths absent: {sorted(missing)}")
+    forbidden_prefixes = (
+        "p27-",
+        "p28-",
+        "p29-",
+        "lambda-derived.md",
+        "mass-as-self-closure.md",
+    )
+    for path in changed | working_changed:
+        if path.startswith(forbidden_prefixes):
+            fail(f"later-unit owner changed in P26: {path}")
+
+    owner = read(OWNER)
+    for needle in (
+        "framework's general modal distinction",
+        "matter fork carries alternative participation/geometry extensions",
+        "Complete actual physical geometry cannot superpose",
+        "Im h(x,y) = -Im h(y,x)",
+        "P26's postcosm phase is non-exact given complexness",
+        "BMV-positive follows from the framework",
+        "No intrinsic gravitational decoherence floor",
+        "Entanglement without on-shell radiation",
+        "standard gravitational entangling phase",
+        "external comparison",
+        "does not logically entail",
+        "not yet a framework-level falsifier",
+        "P26-F1",
+        "P26-F2",
+        "P26-F3",
+        "P27's horizon phase period",
+        "AUD-015",
+    ):
+        require(owner, needle, OWNER)
+    for stale in (
+        "BMV-positive is forced",
+        "non-exactness is proven given complexness",
+        "no intrinsic gravitational decoherence floor is Registered",
+    ):
+        forbid(owner, stale, OWNER)
+    for standing in (
+        "geometry-fork application and the claim that complete actual geometry cannot superpose are therefore **Conjectured and Unregistered**",
+        "P26 non-exact-holonomy claim is therefore **Conjectured and Unregistered**",
+        "BMV-positive is **Conjectured and Unregistered as a framework implication**",
+        "absence of an intrinsic gravitational decoherence floor is **Open and Unregistered**",
+        "Entanglement without on-shell radiation is also **Open and Unregistered**",
+        "| BMV-positive follows from the framework | Conjectured | Unregistered |",
+        "| No intrinsic gravitational decoherence floor | Open under AUD-015 | Unregistered |",
+    ):
+        require(owner, standing, OWNER)
+
+    status = read("grqm-conflict-status.md")
+    locator = read("grqm-problem-locator.md")
+    for text, where in ((status, "grqm-conflict-status.md"), (locator, "grqm-problem-locator.md")):
+        require(text, OWNER, where)
+        require(text, "Conjectured / Unregistered", where)
+        require(text, "not yet a framework-level falsifier", where)
+        require(text, "AUD-015", where)
+    forbid(status, "BMV-positive is forced", "grqm-conflict-status.md")
+    forbid(locator, "non-exactness is **proven given", "grqm-problem-locator.md")
+
+    global_text = read(GLOBAL)
+    for field in ("P26-F1", "P26-F2", "P26-F3"):
+        require(global_text, field, GLOBAL)
+        require(owner, field, OWNER)
+        living = []
+        for path in ROOT.rglob("*.md"):
+            rel = path.relative_to(ROOT).as_posix()
+            if rel.startswith(".git/") or rel.startswith("_compiler/verification/"):
+                continue
+            if field in path.read_text():
+                living.append(rel)
+        if sorted(living) != sorted([OWNER, GLOBAL]):
+            fail(f"{field} living placement is {sorted(living)}")
+
+    for route in (
+        "index.md",
+        "physics-section-guide.md",
+        "physics-source-map.md",
+        "repository-inventory.md",
+        "overview/triadic-closure-reading-order.md",
+        "physics-domain-work-plan.md",
+        "physics-registration-theorem.md",
+        "supersession-map.md",
+        "sm-content-smuggle-audit-frontier.md",
+    ):
+        require(read(route), OWNER, route)
+
+    algebra = read("_compiler/verification/p26-exact-finite-algebra.txt")
+    for result in (
+        "imaginary-part antisymmetry: PASS",
+        "complex-carrier nonvanishing countermodel: PASS",
+        "exact-connection telescoping: PASS",
+        "nonzero-loop obstruction to exactness: PASS",
+        "No entry above establishes a BMV phase",
+    ):
+        require(algebra, result, "p26-exact-finite-algebra.txt")
+    algebra_run = subprocess.run(
+        [sys.executable, str(ROOT / "_compiler/verify_p26_algebra.py")],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+    )
+    if algebra_run.returncode != 0:
+        fail(f"P26 algebra reproducer failed: {algebra_run.stderr.strip()}")
+    for result in (
+        "P26 exact algebra: PASS",
+        "imaginary-part antisymmetry: PASS",
+        "complex-carrier nonvanishing countermodel: PASS",
+        "exact-connection telescoping: PASS",
+        "nonzero-loop obstruction to exactness: PASS",
+    ):
+        require(algebra_run.stdout, result, "verify_p26_algebra.py output")
+
+    failure_evidence = {
+        "_compiler/verification/p26-failure-overgrade.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-nonexact.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-aud015.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-frontier.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-boundary.txt": "Result: REJECTED",
+    }
+    for path, result in failure_evidence.items():
+        require(read(path), result, path)
+
+    scripts = git("ls-files", "_compiler/scripts/*", "_compiler/*.py").splitlines()
+    sim_scripts = [s for s in scripts if any(k in s.lower() for k in ("bmv", "holonomy", "postcosm"))]
+    if sim_scripts:
+        fail(f"unexpected claim that no P26 simulation reproducer is tracked; found {sim_scripts}")
+    require(owner, "no tracked script", OWNER)
+    require(locator, "documentary, not reproducible evidence", "grqm-problem-locator.md")
+
+    markdown_changed = [p for p in changed if p.endswith(".md")]
+    links = 0
+    for path in markdown_changed:
+        text = read(path)
+        links += text.count("](")
+    print(
+        "P26 verification: PASS "
+        f"(base {BASE}; {len(changed)} changed files; "
+        f"{len(markdown_changed)} changed Markdown files; {links} Markdown links scanned)"
+    )
+
+
+if __name__ == "__main__":
+    main()

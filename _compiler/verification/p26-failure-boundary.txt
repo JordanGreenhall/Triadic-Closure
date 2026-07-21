@@ -1,0 +1,8 @@
+P26 stale-state fixture: later-unit boundary edit
+Overlay: append P26 text to P28 owner `lambda-derived.md`.
+Expected: deterministic rejection.
+Observed exit: nonzero.
+Observed final diagnostic:
+P26 verification: FAIL: later-unit owner changed in P26: lambda-derived.md
+Result: REJECTED
+Overlay restored; clean canonical verifier rerun: PASS.

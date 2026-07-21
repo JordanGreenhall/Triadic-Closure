@@ -42,7 +42,7 @@ keeps a fixed time, pairing, or notion of event) and the **number-coincidence** 
 rather than deriving the identity) — both fired during the session and are logged where they
 fired (§10).
 
-**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P26–P28 govern BMV/geometry definiteness, horizon/information/entropy, and Lambda. Summary language here cannot upgrade those owners.
+**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2), geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P27–P28 govern horizon/information/entropy and Lambda. Summary language here cannot upgrade those owners.
 
 **Grade vocabulary.** Open · Conjectured · Conjectured-strong (many native pieces in place, one
 or two stated bets remaining) · Registered · Registered and Sealed · Defended posit (maximal
@@ -111,14 +111,15 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **`2π`** (temperature period via carrier-conservation signature argument) | (3) | **Registered, not Sealed** — signature falsifier resolved (0.6 conserves the definite `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification |
 | **`1/4` coefficient profile-cancellation** (the kappa factors cancel after premises are admitted) | (3) | **Conditional algebra; P27-owned standing**; P24 leaves `8 pi` and strong-field validity Open |
 | **γ = 1** (PPN spatial/clock response) | strong-field | **Open across P22/P23/P24**; the full spatial metric, physical tensor source, and source-coupled equation are absent |
-| **G5 / conflict (2)**: superposition lives in realizability, definiteness in actuality; actual geometric superposition forbidden by closure | (2) | modal split / permissive half **Registered** (3.3–3.4); no-actual-superposition **Registered** (2.6/2.7, one constitutive With-profile); geometry-rides-matter **Registered-strong** |
-| **Birth-order is gauge; only the partial order is physical; covariance falls out of realizability** | (2) | **Registered** (gauge status); covariance-in-form **Registered-strong** |
-| **Cut-amplitude**: horizon-cut phase and growth-cut phase are one object (no-foliation identifies spatial/temporal cuts) | (2),(3) | identity **Conjectured-strong**; classical skeleton = Rideout–Sorkin **Registered** |
-| **Phase non-exactness PROVEN given complexness** (coboundary is symmetric; holonomy is the symplectic antisymmetrization of the complex carrier — `hol(b,x,y) = −hol(b,y,x)`) | (2) | **Registered** — non-exactness settled; only the value is open |
-| **Holonomy *value* = standard gravitational entangling phase** (curvature step: gravity is participation/degree-coupled, internal-phase-blind ⇒ no separate geometric phase) | (2),(3) | **Reproduction** — form native, `G` values-side; no novel number |
-| **BMV-positive forced + standard inference denied** (entanglement via frontier coherence, no actual geometric superposition / graviton) | (2) | **Registered** (forced from complexness); discriminating, falsifiable |
-| **Prediction: no intrinsic gravitational decoherence floor** | (2) | **Lead** — direction forced; owed: discrete-substrate which-path check |
-| **Phase is forced complex (S) and forced configuration-dependent (weighting law + re-constraint)** | (2) | **Registered** (both constraints); see §8 |
+| **G5 / conflict (2)**: matter-fork / geometry-fork and definite-actuality proposal | (2) | general modal distinction stands; physical geometry application and no-actual-superposition inference **Conjectured / Unregistered under P26** |
+| **Birth-order gauge; definite partial order** | (2) | selected causal-growth proposal; **Conjectured / Unregistered under P26** |
+| **Cut-amplitude**: horizon-cut phase and growth-cut phase are one object | (2),(3) | **Conjectured / Unregistered under P26**; P27 owns period use; no licensed postcosm path amplitude is constructed |
+| **Imaginary-pairing antisymmetry / nonzero-loop obstruction** | (2) | **Sealed mathematics under premises**; does not force a nonzero loop or construct a connection |
+| **Postcosm phase non-exactness given complexness** | (2) | **Conjectured / Unregistered under P26**; retained sample report has no tracked reproducer |
+| **Holonomy value = standard gravitational entangling phase** | (2),(3) | external comparison plus Conjectured translation; **Unregistered natively**; P22/P24 dynamics and `G` owed |
+| **BMV-positive and preferred interpretation** | (2) | **Conjectured / Unregistered under P26**; not forced; null result is not yet a framework falsifier |
+| **Absence of intrinsic gravitational decoherence floor** | (2) | **Open / Unregistered under AUD-015**; discrete-substrate which-path check owed |
+| **Born-element phase is complex and configuration-dependent** | (2) | selected P26 proposal; **Conjectured / Unregistered**; P8's conditional carrier and the weighting measure do not construct this edge-phase map |
 | **conservation of registered distinctions (§9.7)** → unitary side | (3),(6) | Registered (principle) |
 | **manifold-recovery** (continuum from discrete) | (1) | advanced — see G1 below; **not Sealed** |
 
@@ -265,10 +266,11 @@ were taken and two retracted before the surviving one.
 
 ## 8. Conflict (2): superposition-of-geometries (G5) and the cut-amplitude, in full
 
-**The forced position (G5).** Superposition lives in the realizability register (the coherent
-possible); definiteness in actuality (the This) — the modal engine, applied to geometry.
+**Canonical P26 adjudication.** The remainder of this section is retained session provenance, including its retractions and failed routes. P26 preserves the foundation's general modal distinction and the exact conditional algebra, but grades the physical geometry application, no-actual-superposition inference, postcosm connection/non-exactness, and BMV implication Conjectured and Unregistered. Decoherence-floor absence and radiation claims are Open. Statements below that call the matter-sourced case sealed, holonomy proven from complexness, BMV forced, or a null result framework-falsifying are superseded by P26.
 
-*Permissive half (Registered).* A geometry-fork *rides* a matter-fork via curvature =
+**The selected position (G5).** Superposition is proposed to live in the realizability register (the coherent possible) and definiteness in actuality (the This). The modal distinction stands; its geometry application is Conjectured.
+
+*Permissive half (Conjectured as physical geometry application).* A geometry-fork is proposed to *ride* a matter-fork via curvature =
 participation-gradient (no new superspace pairing needed): superpose a mass over two positions and
 you superpose the participation-gradient it sources. The indefiniteness lives in the realizability
 field — "structured coherence as a field of potential actuality, conditioned by S" (3.3) — and
@@ -279,42 +281,30 @@ register for indefiniteness. *Verification note:* the BMV consequence further ne
 carry **entanglement** (a non-factorizable joint field across two masses). "One textured field
 conditioned by all that stands" (3.3) supports non-factorizability, but 3.3 does not state it
 explicitly; that property is properly grounded in the carrier-pairing / Item 2 structure, not here.
-So "superposition in realizability, definiteness in actuality" is Registered; "realizability carries
-entanglement" is a reasonable reading but grounded elsewhere — flagged, not claimed from 3.3.
+So the general realizability/actuality distinction stands, but its geometry application and the claim that realizability carries a non-factorizable entangled joint field are Conjectured and Unregistered under P26; 3.3 explicitly supplies no measure.
 
-*Restrictive half (Registered — corrected reason).* 2.6 states a This "carries both a From-profile
+*Restrictive half (Conjectured — corrected reason retained as candidate).* 2.6 states a This "carries both a From-profile
 and a With-profile" — **singular**: a closure's *constitutive* With-profile is one. (Distinct from
 2.5, "a member can be held by more than one With at once" — being held by others is not one's own
 constitution.) Geometry is the constitutive With-readout (G2a), so one actual closure = one
 constitutive With = one definite geometry; two complete geometries would be two constitutive
-With-profiles = two closures, which "arrived as one" (2.6/2.7) forbids. **Superposition of complete
-*actual* geometries is forbidden by closure** — grounded in 2.6/2.7 unit-standing. *Correction:* the
+With-profiles = two closures, which the candidate route reads against "arrived as one" (2.6/2.7). P26 does not treat this as a proof that superposition of complete *actual* physical geometries is forbidden: closure unit-status is secured, but the unique geometry-specific constitutive readout and rival classification are absent. *Correction:* the
 earlier reason ("a This stands as one on **one With**") was textually wrong — the text permits a
 This under several Withs; the load-bearing fact is **arrived-as-one** and **one constitutive
-With-profile**, not one-With. Same conclusion, corrected ground; grade **Conjectured-strong →
-Registered**.
+With-profile**, not one-With. The textual correction stands; the physical conclusion is **Conjectured and Unregistered**.
 
-Net: never two actual geometries — one definite actualized causal core + a realizability field of
-superposed possible *extensions*.
+Selected-model target: one definite actualized causal core plus a realizability field of possible extensions, not a Secured exclusion of every actual-geometry-superposition model.
 
 **The regress, and the foliation-smuggle avoided.** The sting of (2) is that geometry defines
 "later," so superposing it should make "which actualizes first" incoherent. A first answer used a
 definite *global* substrate sequence — which smuggles a preferred foliation (the very "fixed
 simultaneous" the locator forbids). Retracted in favor of: the substrate is a definite **partial
 order** (one-step, local, no global now); what orders actualization is the **already-actual causal
-set**; what is superposed is its not-yet-actual extension. Birth-order is **gauge**; only the
-partial order is physical (**Registered**). Covariance then *falls out* of realizability reading
-only the gauge-invariant standing — it is not imposed (**Registered-strong, in form**). This lands
-the framework on a sequential-growth causal-set picture, **derived** (realizability vs. actuality),
-not posited.
+set**; what is superposed is its not-yet-actual extension. Birth-order is treated as **gauge** and only the partial order as physical in the selected P26 causal-growth proposal. The preferred-foliation avoidance is a useful design constraint, but no framework-native growth/covariance theorem derives the sequential-growth causal-set picture. Grade: **Conjectured and Unregistered**.
 
-**Discriminating consequence.** The framework predicts **BMV-type gravitationally-mediated
-entanglement** *and disputes the standard inference from it*: BMV-positive shows the realizability
-frontier is coherent, which **never** implies actual geometric superposition (the actual causal
-structure is always definite). Cuts against both "gravity is fundamentally classical" and
-"spacetime actually superposes."
+**Discriminating consequence proposed.** P26 treats **BMV-type gravitationally mediated entanglement** as a comparison target and disputes the logical necessity of the standard inference to actual geometric superposition. Its own realizability-frontier mechanism, definite-geometry application, and BMV implication remain Conjectured and Unregistered.
 
-**The cut-amplitude (unification).** What the horizon `2π` needs (complex carrier-phase across a
+**The cut-amplitude (selected unification proposal).** What the horizon `2π` needs (complex carrier-phase across a
 *spatial* cut) and what the BMV seal needs (complex amplitude across a *growth/temporal* cut) are
 **one object** — because no preferred foliation means there is no invariant spatial-cut /
 temporal-cut distinction (G5). Setup: the **postcosm** (poset of finite causal sets under
@@ -332,18 +322,11 @@ single-element extension); cut-amplitude `a(x|P) = w·e^{iφ}`.
 - The phase `φ` is a **flat U(1) connection on the postcosm** (flat = locally; the holonomy is the
   global obstruction).
 
-**The crux and the correction to "solve once, seal both."** Genuine quantum content (interference)
-exists **iff `φ` is non-exact** (nonzero `H¹`); if exact it telescopes to a removable global phase
-and the measure collapses to classical. KMS/thermality is orthogonal — it rides on `w`, not on
-`φ`'s cohomology. Therefore:
+**The crux and the correction to "solve once, seal both."** In the selected connection model, nonzero loop holonomy would obstruct exactness and permit interference not removable as a vertex potential. P26 has not constructed the connection or demonstrated a nonzero loop. KMS/thermality is separately P27-owned. Therefore:
 - **`A/4`'s `2π` uses the phase *period*** — robust, survives even if `H¹ = 0`.
-- **BMV / conflict (2)'s seal uses the *holonomy*** — needs `φ` non-exact, **now PROVEN given
-  complexness** (the antisymmetry argument below). So the BMV seal is established, not contingent.
+- **BMV / conflict (2)'s proposed route uses the *holonomy*** — needs a selected non-exact `φ`, which is Conjectured and Unregistered under P26.
 
-So it is **one object, but `A/4` and BMV depend on different features of it** (period vs.
-holonomy) — both now in hand. The earlier "solve once, seal both" was too strong as a *single*
-construction and is retracted to "one object, two features"; but both features are now settled (the
-period via the carrier-conservation argument, the holonomy via the antisymmetry argument).
+The retained proposal is **one object, two features** (period versus holonomy). P27 owns the period standing; P26 leaves the common-object identity, connection, and non-exact holonomy Conjectured and Unregistered.
 
 **Deciding exactness — the EPR square.** The smallest nontrivial postcosm square is two **spacelike
 (concurrent)** elements over a common base — the Bell/EPR question in framework form: does birthing
@@ -353,8 +336,7 @@ carrier is genuinely complex. This is a **Berry phase on the space of causal set
 correlation **without signaling** — the one category consistent with both relativity and
 entanglement.
 
-**The computation (run) and what it established.** Smallest decorated square, complex vs. real
-carrier, 20,000 samples:
+**The computation report (documentary, not reproducible evidence).** The ledger reports a smallest decorated square, complex versus real carrier, and 20,000 samples, but no tracked script, embedded payload, raw output, or fixture survives. The reported observations were:
 - **Complex carrier:** holonomy nonzero and **continuous** on every square.
 - **Real carrier:** holonomy is **only `0` or `±π`** (a ℤ₂ sign, no interference).
 - **Antisymmetry (the decisive structural fact):** `hol(b,x,y) = −hol(b,y,x)` exactly, across all
@@ -362,14 +344,7 @@ carrier, 20,000 samples:
   sign under `x ↔ y`. The holonomy is the antisymmetrization of the carrier pairing — its
   imaginary/symplectic (J) part — which is nonzero precisely when the carrier is complex.
 
-**Conclusion: holonomy non-exact is PROVEN given complexness.** Complexness is Registered (ℤ₃). A
-coboundary is symmetric; the holonomy is structurally antisymmetric (the symplectic part of the
-pairing); the two are incompatible; so `φ` cannot be a coboundary. This is **not** "generic" and
-**not** "forced modulo a residual" — it is proven. Vanishing is not a fine-tuning: it would require
-the antisymmetric part of the carrier pairing to be identically zero, i.e. the carrier to be real,
-which complexness excludes. The **value** of the holonomy (the specific point on the circle) is a
-separate, unpinned task — it depends on the §9.7 phase selection (below) — but the **non-exactness**
-is settled.
+**P26 conclusion: non-exactness is not proven by complexness.** For a Hermitian pairing, the imaginary part is antisymmetric, and a nonzero selected loop would obstruct exactness. But complexness is compatible with zero imaginary pairing on selected vectors; an abstract two-argument antisymmetry is not itself an edge connection or a loop value. P26 therefore leaves the postcosm connection, nonzero loop, non-exactness, and specific value Conjectured and Unregistered.
 
 **The downstream constraint on the phase (the §9.7 follow-through).** §9.7 leaves the pairing
 *values* "a selection at the successor's disposal" — so at the gate the phase is not derived. But
@@ -382,8 +357,7 @@ the physics recursion constrains it in two places:
    subsequent realizability**, so `σ` is **configuration-dependent by construction**. Phase forced
    **configuration-dependent**.
 
-Forced-complex + forced-configuration-dependent are exactly the two properties a non-exact
-(BMV-positive) holonomy requires. **Correction (this consolidation): the standing-state map is not
+The proposed complex and configuration-dependent properties are not sufficient to force a non-exact or BMV-positive holonomy; the carrier-to-edge and loop constructions remain owed. **Correction (this consolidation): the standing-state map is not
 owed.** F9 constructs σ as the conserved-flow stationary amplitude `σ_i = √(π_i) = √(d_i)/Z`, and
 the ledger (physics-domain-mature-status, physics-domain-work-plan) seals this **for the
 standing-state choice** — the bare-adjacency eigenvector is rejected as a non-conserved growth
@@ -398,11 +372,7 @@ A clarification of what the §9.7 selection does and does not leave open: σ rea
 **standing is phase-flat** in the conserved-flow basis, so the holonomy comes not from σ's
 components but from the genuinely-complex carrier phases of the **born elements** (ℤ₃), reweighted
 by the sealed real σ-magnitudes as the configuration changes. This relocates the *value* of the
-holonomy into the un-pinned born-element phases (a §9.7 selection) — but it does **not** reopen
-**non-exactness**, which is settled by the antisymmetry argument above (a coboundary is symmetric;
-the holonomy is the symplectic antisymmetrization of a complex pairing). So: **non-exactness proven
-(given complexness); the specific value is the open selection.** The two were conflated in an
-earlier pass and are now separated.
+holonomy into the un-pinned born-element phases (a §9.7 selection) — but it also does not settle non-exactness. P26 treats both the selected connection's non-exactness and its specific value as unresolved; the exact retained result is only imaginary-part antisymmetry plus the conditional nonzero-loop obstruction.
 
 ### 8a. The holonomy-value dive (a deep dive, recorded with its result and its retractions)
 
@@ -427,56 +397,38 @@ interpretation, and the negative result is itself informative. Recorded honestly
 - **Retraction.** With the internal curvature zero, there is **no separate geometric phase beside
   the dynamical one**, and births on the postcosm *are* time-steps, so the holonomy was never purely
   geometric. The earlier framing "geometric phase distinct from the dynamical phase" is **retracted**.
-- **What the holonomy value actually is.** Non-exactness still holds (antisymmetry stands); its value
-  is the **gravitational dynamical entangling phase** — `∫V_grav dt` differenced across branches —
-  `~ G m₁m₂T/(ℏ d)`. Form **native** (`1/d` from the 3D Green's function, `4π` from F11, the
+- **What the holonomy value was proposed to be.** The proposed value is compared with the **gravitational dynamical entangling phase** — `∫V_grav dt` differenced across branches —
+  `~ G m₁m₂T/(ℏ d)`. The ledger called the form native (`1/d` from the 3D Green's function, `4π` from F11, the
   time-integral Hamiltonian-side, the action-quantum = closure cycle); `G` is the one **values-side**
   input. **No deviation from the standard BMV phase at leading order**, and the curvature step
-  explains *why* (gravity is internal-phase-blind). So the value is **reproduction up to G**, not a
-  novel number.
+  explains *why* (gravity is internal-phase-blind). P26 supersedes that grade: the expression is external comparison and the native translation is Conjectured and Unregistered.
 
-**Net of the dive.** The *value* is corroboration-grade (parameter-free up to G, from a foreign
-start). The non-standard, forced content is **not** the value but the *existence-and-mechanism*:
-holonomy non-exact (proven from complexness) ⇒ **BMV-positive is forced** (the framework cannot
-accommodate a null result — a theorem, not a preference), **and** the standard inference is denied
-(entanglement via realizability-frontier coherence, no actual geometric superposition, no required
-graviton). That is a discriminating stance against *both* the classical-gravity camp (on the
-outcome) and the quantize-the-metric camp (on the interpretation).
+**P26 net of the dive.** The standard value is external comparison up to unresolved `G`, not a framework-native reproduction. The existence, carrier-to-connection map, non-exactness, gravitational translation, entanglement criterion, and preferred interpretation remain Conjectured and Unregistered. The dive supplies a discriminating research stance, not a theorem or null-result falsifier.
 
 ### 8b. Interpretation-derived predictions (falsifiable; documented as the branch closes)
 
 From the interpretive core (entanglement = frontier coherence; actual geometry always definite):
 
-1. **No intrinsic gravitational decoherence (follows cleanly; one check owed).** Quantize-the-metric
+1. **No intrinsic gravitational decoherence (Open under AUD-015).** Quantize-the-metric
    pictures store which-path information in a geometric/soft-graviton degree of freedom, predicting
    an irreducible decoherence floor for a mass in spatial superposition. The framework denies the
-   actual geometric superposition, so there is **no geometric which-path record to leak** — only
-   ordinary environmental decoherence. **Prediction: gravitational superpositions decohere only
-   environmentally, with no intrinsic geometry-sourced floor.** Direction forced; the discriminating
+   actual geometric superposition, motivating the question whether there is a geometric which-path record. P26 does not bank the absence: the discrete substrate may itself encode branch information. **Standing: Open and Unregistered.** The discriminating
    regime needs the competing models' floor values to state sharply. **Owed check (the one that
    could weaken it):** that the *discrete substrate* (causal-set births differing between branches)
    does not itself store a which-path record. If it does, the framework has its own channel and (1)
    weakens. This is the next step if the prediction is to be banked.
-2. **Entanglement without on-shell radiation (a direction, not yet a result).** If correlation is
+2. **Entanglement without on-shell radiation (Open, not a result).** If correlation is
    frontier-coherence rather than graviton exchange, a *dynamical* variant (accelerated/time-varying
    superpositions) could entangle without the radiated power a graviton-mediation picture requires.
    BMV is quasi-static and does not separate these; the dynamical-regime calculation is unworked.
-3. **All-or-nothing BMV commitment (fully forced — the sharpest falsifier).** Because non-exactness
-   is *proven* from Registered complexness, a confirmed **null** BMV result **falsifies the framework
-   outright** — not "disfavors." Most approaches have wiggle room (couplings, mediator assumptions);
-   the framework has none. Maximal falsifiability, and a genuine non-standard commitment.
+3. **All-or-nothing BMV commitment (withdrawn as current standing).** Because P26 does not Secure the postcosm connection, non-exactness, or BMV implication, a confirmed null result is not yet a framework-level falsifier. A Secured implication would be required before that falsification claim could return.
 
 **Honest character of this content.** The interpretation's predictions are largely **negative**
-(predicts *absences*: no intrinsic decoherence floor, no required radiation, no spacetime
+(proposes *absences*: no intrinsic decoherence floor, no required radiation, no spacetime
 superposition). Negative predictions are falsifiable and discriminating but vulnerable to "the effect
-is too small to see," and (1)/(2) need the standard numbers in hand to sharpen. (3) is clean and
-forced. None is a novel positive number — the dive established there isn't one to be had in the
-entangling phase itself.
+is too small to see," and (1)/(2) need selected comparison calculations. None is a current Registered prediction or novel positive number.
 
-**Branch status: closed.** The holonomy value is reproduction-up-to-G (no novel number, by the
-curvature step); the non-standard deliverable is the forced BMV-positive-without-superposition
-position and prediction (3); prediction (1) is the live falsifiable lead, pending the discrete-substrate
-which-path check.
+**P26 branch status: open at the named frontiers.** The standard phase remains external comparison; holonomy and BMV translation are Conjectured; no-actual-superposition is Conjectured; decoherence and radiation predictions are Open.
 
 ---
 
@@ -597,25 +549,21 @@ Kept explicit so the corpus shows where the discipline bit.
    route (§7).
 5. **"Solve once, seal both" (CORRECTED).** The cut-amplitude is one object, but `A/4` needs its
    *period* (robust) and BMV needs its *holonomy* (contingent on `H¹≠0`). Different features.
-6. **Quantitative-seal overclaim, then over-retraction (BOTH CORRECTED).** First I claimed the
+6. **Quantitative-seal overclaim, then over-retraction (P26 FINAL CORRECTION).** First I claimed the
    EPR-square computation sealed everything; then I over-corrected to "non-exactness is only generic,
-   the value is decoration-dependent." Both wrong. The decisive fact is the **antisymmetry**
-   `hol(b,x,y) = −hol(b,y,x)`: a coboundary is symmetric, so non-exactness is **proven given
-   complexness** (Registered, ℤ₃) — not generic, not contingent. Only the holonomy **value** is
-   decoration/selection-dependent; the **non-exactness** is settled.
+   the value is decoration-dependent." P26 retains the antisymmetry as exact mathematics but rejects the inference to a constructed nonzero postcosm loop. Complexness alone does not force nonvanishing. Connection, non-exactness, and value remain Conjectured and Unregistered.
 7. **"Pairing values are a free selection" (CORRECTED downstream); and "the σ-map is owed"
    (CORRECTED this consolidation).** Values are free at the §9.7 gate, but the physics recursion
-   forces the phase complex (S) and configuration-dependent (weighting law). And the σ
+   was proposed to make the phase complex and configuration-dependent. P26 finds that P8 and the weighting law do not construct the born-element edge-phase map. The σ
    **standing-state** map is *not* owed — F9 constructs it (`σ_i = √(d_i)/Z`, conserved-flow;
    adjacency rejected by 0.6) and the ledger seals it for the standing-state choice. The residual
    is narrower than I stated: σ's **magnitude** is sealed; the carrier **phase** (the
-   holonomy-relevant part) is the open piece.
+   holonomy-relevant part) and its map to edges are open pieces.
 8. **Preferred-foliation smuggle (avoided).** "Definite global substrate sequence" / "frontier"
    smuggled a foliation; replaced by definite partial order + gauge birth-order.
 9. **"A This stands as one on one With" (CORRECTED this consolidation).** Textually wrong — 2.6
    permits a This under several Withs (2.5: a member can be held by more than one With), and the
-   constitutive With-profile being singular is the right fact. The no-actual-superposition
-   conclusion stands, re-grounded on **one constitutive With-profile + arrived-as-one** (2.6/2.7);
+   candidate route treats the constitutive With-profile as singular. P26 preserves closure unit-status but leaves the no-actual-superposition physics conclusion Conjectured because unique geometry readout is not proved;
    the permissive half re-grounded on the modal split (3.3–3.4), not on 2.6 horizontal composedness
    (which carries only definite sub-standings).
 10. **Cut-amplitude cocycle on amplitudes (CORRECTED, holonomy dive).** I first wrote the
@@ -664,14 +612,7 @@ Kept explicit so the corpus shows where the discipline bit.
   `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification (modular flow =
   distinction-conserving flow). Still owed: S2 (Einstein-form strong-field validity — Open under P24; horizon
   locally regular); the boundary *count* itself rides Item 2's frequency=weight Open gate.
-- **G5 — superposition admissibility. Registered, and conflict (2) sealed for the matter-sourced
-  case.** Both halves textually grounded (no-actual-superposition from 2.6/2.7; permissive half from
-  the modal split 3.3–3.4). **BMV-positive is forced, not merely predicted** — the holonomy is
-  proven non-exact given complexness (symplectic antisymmetry; §8), so the realizability frontier is
-  genuinely coherent and gravitationally-mediated entanglement is a framework consequence, with the
-  standard inference (actual geometric superposition) disputed. The **decisive tier** of the locator
-  is met. Open: the *quantitative* BMV phase (the holonomy value — a §9.7 selection, empirical
-  contact), and **vacuum (source-free) geometric superposition** (the piggyback needs a matter-fork).
+- **G5 — superposition admissibility under P26.** The general modal distinction and closure unit-status stand. The matter-fork/geometry-fork application, no-actual-superposition inference, selected causal-growth model, postcosm non-exactness, and BMV consequence are **Conjectured and Unregistered**. Exact retained mathematics is imaginary-part antisymmetry and the conditional nonzero-loop obstruction. The standard phase is external comparison. Vacuum/source-free geometry is Open.
 - **G6 — information/unitarity.** §9.7 forbids destruction of registered distinctions →
   unitary-side by principle; the horizon analysis grounds it as **conservation at the boundary**
   (interiorized + straddling distinctions sum to a conserved total). Conjectured.
@@ -681,17 +622,7 @@ Kept explicit so the corpus shows where the discipline bit.
   units artifact (`10⁻¹²² = (ℓ_P/R_H)²`). Open: the **dynamical rate** (`w(z)`) — needs framework-native
   expansion dynamics; the FRW-based version is withdrawn as laundering.
 
-**What is settled and what remains open on the phase (corrected).** *Non-exactness is settled* —
-proven given complexness via the antisymmetry argument (§8); a coboundary is symmetric, the
-holonomy is the symplectic antisymmetrization of the complex carrier, the two are incompatible. The
-σ standing-state map is also not owed — F9 constructs it (`σ_i = √(d_i)/Z`, conserved-flow; adjacency
-rejected by 0.6) and the ledger seals the magnitude. What remains open is narrower than I once
-framed it: only the **value** of the holonomy (the specific phase) — which depends on the
-born-element carrier phases, a §9.7 selection, and is empirical contact rather than a seal. The
-carrier-conservation falsifier behind the `2π` was resolved separately (§7). So conflict (2) is
-sealed for the matter-sourced case; the remaining genuinely-open locator item is **vacuum
-(source-free) geometric superposition**, plus the small grade-tightening seal-gaps (the `2π`
-thermal-flow identification; Gate B for the boundary count).
+**What is settled and what remains open on the phase under P26.** Imaginary-part antisymmetry and the fact that a nonzero selected loop obstructs exactness are exact mathematics. The carrier-to-edge connection, nonzero loop, non-exactness, value, and BMV translation remain unresolved. The σ magnitude does not supply born-element edge phases. The carrier-conservation question behind P27's `2π` remains separate.
 
 ---
 
@@ -706,10 +637,7 @@ thermal-flow identification; Gate B for the boundary count).
 **Status line.** The bounded dissolution mappings (G2) are Secured and Registered; the overall symptom explanation (G3) is Conjectured and Unregistered as a completed derivation, with only its bounded structural contrasts conditionally Secured and Registered. The root gate (G1) is
 advanced to Registered-with-one-defended-posit; the scoreboard `A/4` has a Registered shape and a
 conditional coefficient algebra whose `8π` and strong-field Einstein premises remain Open under P24;
-conflict (2) is **sealed for the matter-sourced case** — BMV-positive forced via the proven
-non-exactness of the holonomy, the **decisive tier met** — with only the holonomy *value*
-(empirical contact) and the **vacuum/source-free** case left open; and conflict (4) is **out of
+conflict (2) is **Conjectured and Unregistered under P26** for the physical geometry application, no-actual-superposition inference, postcosm non-exactness, and BMV implication; decoherence/radiation and vacuum/source-free geometry remain Open; and conflict (4) is **out of
 quarantine** — `Λ ∼ R_H⁻²` Registered, coefficient `3 = C(3,2)` Conjectured-strong, the
 cosmological-constant problem dissolved as a units artifact, with only the dynamical rate (`w(z)`)
-open and the FRW-based version withdrawn. The remaining locator scope is the vacuum-geometry case,
-the Λ dynamical rate, and grade-tightening seal-gaps — not open core territory.
+open and the FRW-based version withdrawn.

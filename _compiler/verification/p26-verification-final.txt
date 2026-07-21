@@ -1,0 +1,84 @@
+P26 FINAL VERIFICATION EVIDENCE
+
+Unit: P26 — Matter-Sourced Geometry Definiteness, Holonomy, and BMV
+Exact base: 7071e4d6e95f90765f70db18826f0f6952c13de2
+Verified content/evidence head: 670092ec44337f89f3c8b18f6a7a27c01f3a9c63
+
+CANONICAL RESULT
+
+- Canonical owner: p26-matter-sourced-geometry-holonomy-and-bmv.md
+- Foundation realizability/actuality distinction and closure unit-status: Secured at bounded modal scope.
+- Matter-fork/geometry-fork and complete no-actual-superposition application: Conjectured and Unregistered.
+- Vacuum/source-free geometry: Open and Unregistered.
+- Hermitian imaginary-part antisymmetry: Sealed conditional mathematics.
+- Nonzero-loop obstruction to exactness: Sealed conditional mathematics.
+- Selected causal-growth/postcosm edge connection and non-exact holonomy: Conjectured and Unregistered.
+- Retained 20,000-sample report: documentary, not reproducible evidence.
+- BMV-positive framework implication: Conjectured and Unregistered.
+- Standard BMV phase: external comparison; native translation Conjectured and Unregistered.
+- Positive-BMV/no-actual-geometry interpretation: bounded conditional warning; preferred P26 mechanism remains Conjectured.
+- Null BMV result: not yet a framework-level falsifier.
+- No intrinsic gravitational decoherence floor: Open and Unregistered under AUD-015.
+- Entanglement without on-shell radiation: Open and Unregistered.
+- P27 horizon/phase-period, P28 Lambda, and P29 Standard Model completion: unchanged and outside P26.
+
+EXACT ALGEBRA
+
+Command:
+  python3 _compiler/verify_p26_algebra.py
+
+Observed:
+  P26 exact algebra: PASS
+  imaginary-part antisymmetry: PASS
+  complex-carrier nonvanishing countermodel: PASS
+  exact-connection telescoping: PASS
+  nonzero-loop obstruction to exactness: PASS
+
+This proves the conditional algebra and proves by countermodel that complexness does not force nonvanishing. It does not construct the proposed postcosm connection or BMV translation.
+
+ADVERSARIAL STALE-STATE FIXTURES
+
+- BMV overgrade to Secured/Registered: REJECTED.
+- Complexness-to-forced-non-exactness promotion: REJECTED.
+- AUD-015 erasure and no-decoherence overgrade: REJECTED.
+- Duplicate P26 frontier placement: REJECTED.
+- Later-unit owner edit: REJECTED.
+- Every overlay was restored before the clean verifier rerun.
+
+DETERMINISTIC VERIFICATION
+
+Command:
+  python3 _compiler/verify_p26.py --base 7071e4d6e95f90765f70db18826f0f6952c13de2
+
+Observed:
+  P26 verification: PASS (base 7071e4d6e95f90765f70db18826f0f6952c13de2; 25 changed files; 17 changed Markdown files; 372 Markdown links scanned)
+
+CUMULATIVE VERIFICATION
+
+- P25 exact-base verifier: PASS.
+- P24 exact-base verifier: PASS.
+- P23 exact-base verifier: PASS.
+- P20 exact-base verifier: PASS.
+
+REPOSITORY VERIFICATION
+
+- Tracked Markdown files: 184.
+- Markdown links checked: 827.
+- Broken links: 0.
+- Exact-base git diff --check: PASS.
+- Python compilation for both P26 verifiers: PASS.
+- P26 living-frontier placement: canonical owner plus physics-domain-mature-status.md only.
+- Local/global standing: PASS.
+- Source collection: references from earlier verifiers and P26 verifier are read-only checks; no generator, importer, restoration script, workflow, embedded payload, or other mutator rewrites the P26 owner or retained GR/QM source shadows.
+
+FRESH-READER AND FIXED POINT
+
+- Fresh-reader review: PASS; no repair required.
+- Dependency and negative-result preservation: PASS.
+- Repeated P26 compiler outputs: byte-identical.
+- Repeated stdout SHA-256: 7c04e11f7f623a0e2a80623ba941b89612ac29fdc38f4940d9e6dc2e4b02dd3c.
+- No-change fixed point: PASS.
+
+BOUNDARY VERDICT
+
+P26 normalizes the conflict-(2), holonomy, and BMV source region without importing an external theorem, experiment schema, causal-set dynamics, path integral, graviton ontology, decoherence model, or P27+ result. Exact algebra remains distinct from the unconstructed physical bridge. No P27 work was begun.

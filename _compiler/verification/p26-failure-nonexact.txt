@@ -1,0 +1,8 @@
+P26 stale-state fixture: forced non-exactness
+Overlay: replace the canonical Conjectured/Unregistered non-exact-holonomy standing with Secured/Registered.
+Expected: deterministic rejection.
+Observed exit: nonzero.
+Observed final diagnostic:
+P26 verification: FAIL: p26-matter-sourced-geometry-holonomy-and-bmv.md lacks required text: P26 non-exact-holonomy claim is therefore **Conjectured and Unregistered**
+Result: REJECTED
+Overlay restored; clean canonical verifier rerun: PASS.

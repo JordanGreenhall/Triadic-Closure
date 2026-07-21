@@ -1,0 +1,34 @@
+P26 EXACT FINITE ALGEBRA
+
+Exact arithmetic: rational real and imaginary coordinates; Hermitian convention `<x,y> = sum_i conjugate(x_i) y_i`.
+
+Witness 1:
+  x = ((1,0),(0,0),(0,0))
+  y = ((0,1),(0,0),(0,0))
+  inner(x,y) = 0 + 1 i
+  inner(y,x) = 0 - 1 i
+  imaginary-part antisymmetry: PASS
+
+Countermodel to forced nonvanishing:
+  use the same complex carrier C^3 and y = x
+  inner(x,x) imaginary part = 0
+  complex-carrier nonvanishing countermodel: PASS
+
+Coboundary square:
+  vertices b, x, y, xy
+  phi(b)=2, phi(x)=5, phi(y)=-1, phi(xy)=7
+  dphi(u,v)=phi(v)-phi(u)
+  dphi(b,x)+dphi(x,xy)-dphi(b,y)-dphi(y,xy)=0
+  exact-connection telescoping: PASS
+
+Selected nonzero square:
+  h(b,x)=1, h(x,xy)=2, h(b,y)=0, h(y,xy)=0
+  h(b,x)+h(x,xy)-h(b,y)-h(y,xy)=3
+  a nonzero loop cannot equal a coboundary because every coboundary loop is zero
+  nonzero-loop obstruction to exactness: PASS
+
+Boundary:
+  The first and third results are conditional mathematics.
+  The countermodel proves that complexness and antisymmetry do not force nonvanishing.
+  No entry above constructs or licenses the corpus's proposed postcosm edge connection.
+  No entry above establishes a BMV phase or entanglement witness.
