@@ -20,6 +20,6 @@ G2=true, completed-G3=false
 Therefore normalization must not promote the bounded G2 mapping into completed G3. The verifier also compares the deployment records:
 
 spatial_arena = (With-image, horizontal, P7 carrier debt)
-internal_pairing = (This-image, vertical, P18 pairing boundary)
+internal_pairing = (This-image, vertical, P8 carrier/pairing; P18 metric-selection boundary)
 
 The tuples are unequal, so the two deployments must not be collapsed. This finite check validates the corpus distinction; it is not a physical perturbative calculation and supplies no G3 warrant.

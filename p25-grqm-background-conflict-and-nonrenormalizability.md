@@ -10,6 +10,7 @@ sources:
   - physics-boundary-and-four-images.md
   - dimension-and-spacetime-status.md
   - p7-manifold-recovery-and-local-continuum.md
+  - same-kind-carrier-representation-theorem.md
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p22-weak-field-gravity-as-participation-curvature.md
   - p24-full-einstein-form-as-conditional-rigidity.md
@@ -50,7 +51,7 @@ P25 does not license:
 
 This page is the canonical P25 owner. [`grqm-conflict-status.md`](grqm-conflict-status.md) is the concise multi-unit status shadow: its P25 G2/G3 claims and grades are governed here, while its BMV, horizon, and Lambda material awaits P26–P28. [`grqm-problem-locator.md`](grqm-problem-locator.md) is the detailed session ledger and provenance source. Its successful distinctions, failed routes, retractions, and comparison language remain evidence; its summary lines cannot override this two-axis record.
 
-The foundation supplies the office and vertical/horizontal distinctions. P2/P4 supply the bounded space/With image and exact dimensional partition. P7 owns recovery of the spatial carrier. P18 supplies the internal pairing distinction but not a spatial metric. P22 and P24 bound every gravitational expenditure. The traditional GR/QM and renormalization descriptions orient the target only; they do not constitute framework warrant.
+The foundation supplies the office and vertical/horizontal distinctions. P2/P4 supply the bounded space/With image and exact dimensional partition. P7 owns recovery of the spatial carrier. P8 owns the same-kind internal carrier and Hermitian pairing; P18 owns closure-inherited metric selection over that pairing and does not turn it into a spatial arena. P22 and P24 bound every gravitational expenditure. The traditional GR/QM and renormalization descriptions orient the target only; they do not constitute framework warrant.
 
 No tracked generator, importer, restoration script, or workflow rewrites either retained GR/QM page or this owner. No absent computation is represented as executed evidence.
 
@@ -131,7 +132,7 @@ A consumer may not:
 
 **Missing:** one selected P7-compatible carrier and rule calculus; explicit settled and re-texturing operations on the same spatial basis; transition conditions; covariance and scale bookkeeping; and proof that the implementation preserves the inherited This/With and vertical/horizontal distinctions.
 
-**Dependencies and downstream claims affected:** depends on P7's spatial carrier and calculus, P18's internal-pairing boundary, and P22/P24 for any physical metric expenditure; affects the strength of the G2 implementation, P25's background-dissolution reach, and every P26+ claim that relies on a live geometry.
+**Dependencies and downstream claims affected:** depends on P7's spatial carrier and calculus, P8's internal carrier/pairing, P18's metric-selection boundary, and P22/P24 for any physical metric expenditure; affects the strength of the G2 implementation, P25's background-dissolution reach, and every P26+ claim that relies on a live geometry.
 
 **False-completion warning:** a shared word such as `basis`, or the fact that QFT on curved spacetime uses one metric symbol, does not construct the framework phase transition.
 
@@ -169,7 +170,7 @@ A conforming P25 corpus state must preserve all of the following:
 - **Canonical owner:** this page.
 - **Detailed retained provenance:** `grqm-problem-locator.md`.
 - **Concise multi-unit shadow:** `grqm-conflict-status.md`.
-- **Foundational dependencies:** `vertical-and-horizontal.md`, P2, P4, P7, and P18.
+- **Foundational dependencies:** `vertical-and-horizontal.md`, P2, P4, P7, P8, and P18.
 - **Gravity boundaries:** P22, P23, and P24.
 - **Later-unit material retained but not normalized here:** P26 BMV/geometry definiteness, P27 horizon/information/entropy, P28 Lambda/cosmology, and P29 Standard Model completion.
 

@@ -9,7 +9,7 @@ Boundary: the corpus's framework-native diagnosis of the root GR/QM background c
 Excluded neighbors:
 
 - P7 owns spatial carrier/manifold recovery, smoothness, rotational invariance, and the exact-local-Lorentz ceiling.
-- P18 owns the closure-inherited internal pairing and its physical-payment boundary.
+- P8 owns the same-kind internal carrier and Hermitian pairing. P18 owns closure-inherited metric selection over that pairing and its physical-payment boundary.
 - P22 owns the weak-field participation/geometry bridge, scalar source normalization, and `G`.
 - P23 owns the tensor-source map, physical source semantics, and conservation.
 - P24 owns tensor rigidity, the field-equation premise map, full tensor/nonlinear realization, strong-field validity, and coupling calibration.
@@ -18,7 +18,7 @@ Excluded neighbors:
 - P28 owns Lambda meaning, magnitude, and dynamics.
 - P29 owns Standard Model completion, electroweak breaking, generations, and spectrum.
 
-Primary lineage: `grqm-problem-locator.md` §§1–5, 9–12 and its explicit correction log; `grqm-conflict-status.md` G2/G3 records; the vertical/horizontal discipline; P2/P4's spatial With-image; P7's spatial-only manifold-recovery boundary; P18's internal carrier/pairing distinction; P22/P24's geometry boundaries; and the current global controls.
+Primary lineage: `grqm-problem-locator.md` §§1–5, 9–12 and its explicit correction log; `grqm-conflict-status.md` G2/G3 records; the vertical/horizontal discipline; P2/P4's spatial With-image; P7's spatial-only manifold-recovery boundary; P8's internal carrier/pairing and P18's metric-selection boundary; P22/P24's geometry boundaries; and the current global controls.
 
 Core distinctions to preserve:
 
