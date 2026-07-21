@@ -86,7 +86,7 @@ At P13 scope, proton identity is Registered only as the stable nucleon-role with
 
 The **neutron** is the alternate nucleon-role within the same color-singlet fermionic composite class, distinguished from the proton by later mark/valence structure rather than by color-singlet form itself.
 
-At P13 scope, neutron identity is Registered as the companion nucleon-role. Its exact mark configuration and neutral valence retain P14/P15 ownership; its mass excess and framework-native metastability remain Conjectured under P20; decay retains P21 ownership.
+At P13 scope, neutron identity is Registered as the companion nucleon-role. Its exact mark configuration and neutral valence retain P14/P15 ownership; its mass excess and framework-native metastability remain Conjectured under P20. P21 Registers the generic decay classifier but keeps the neutron inverse passage Conjectured and beta-product roles unregistered at their stated grades.
 
 ### Nucleon boundary
 
@@ -102,7 +102,7 @@ P13 therefore Registers two named nucleon roles sharing one color-singlet closur
 | electron | persistent color-trivial exterior fermionic role | Registered at bounded core | charge value, mass/ruler status, magnetic moment |
 | neutrino | neutral color-trivial fermionic role | Registered at bounded core | From–With/chiral reading Conjectured; mass/oscillation Open |
 | proton | stable named role in modeled color-singlet nucleon class | Registered at role scope | marks and charge later-owned; proton/neutron relief order Conjectured |
-| neutron | alternate named role in same nucleon class | Registered at role scope | marks/neutrality later-owned; mass excess Conjectured; decay P21-owned |
+| neutron | alternate named role in same nucleon class | Registered at role scope | marks/neutrality later-owned; mass excess Conjectured; P21 neutron passage Conjectured and products bounded |
 
 ## Frontiers
 

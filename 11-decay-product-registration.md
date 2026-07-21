@@ -1,56 +1,37 @@
 ---
-title: "SM Frontier Item 11: Decay-Product Registration"
+title: "Item 11 Decay-Product Boundary — P21 Shadow"
 type: process
-status: current
+status: supporting
 created: 2026-06-25
-updated: 2026-06-26
+updated: 2026-07-21
 scope: frontier-item-11
 sources:
-  - 02-amplitude-readout.md
-  - 06-spin-helicity-chirality-lift.md
-  - 07-particle-identity-ledger.md
-  - 08-charge-hypercharge-ledger.md
-  - chiral-coupling-result.md
-  - mass-derivation-three-faces.md
-  - d6-persistence.md
-  - flavor-mark-metric-and-neutron.md
+  - with-to-this-closure.md
+  - 03-10-physics-concept-load-pass-ledger.md
+  - sm-content-smuggle-audit-frontier.md
 ---
 
-# SM Frontier Item 11 — Decay-Product Registration
+# Item 11 Decay-Product Boundary — P21 Shadow
 
-A decay, natively, is a metastable standing escaping over a coherence-barrier to a more stable configuration, conserving registered distinctions, with available channels weighted by participation-propensity and coupling orientation-faithful.
+This page preserves the Item 11 address used by the Standard-Model smuggle audit. It is not an independent source of decay doctrine. [P21 With-to-This Closure and Decay](with-to-this-closure.md) governs every claim and grade.
 
-That is a generic native account, and it stops exactly there. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) retains a neutron-specific drain and two-ledger proposal for P21 normalization; it does not currently Register that neutron-specific structure. Product identities as empirical entities, spectra, rates, and weak mechanisms remain empirical/Open/quarantined.
+## Bounded result
 
-## Native decay skeleton
+P21 Registers decay only as the generic structural classifier for loss or reconfiguration of a prior identity-constituting invariant through an admitted escape passage. A coherence barrier belongs to a concrete account only when exhibited. A forward attractor does not establish a literal inverse.
 
-| Native element | Grade | Source |
-|---|---|---|
-| Decay = escape of a metastable closure over a coherence-barrier | Registered, structural | `d6-persistence` / identity-over-time. |
-| Charge balance across decay, conservation not exact values | Registered | Item 8: `U(1)` valence conserved. |
-| Energy balance / conservation of the This-closure quantity | Registered-structural | Stress-energy / closure; dynamical population still Conjectured. |
-| Relative channel weighting as participation-propensity | Registered as measure | Item 2; observed rates remain empirical/comparison unless the local possibility-space/rate structure is derived. Do not route this to generic frequency=weight. |
-| Coupling is chiral / orientation-faithful | Registered criterion | Item 6; exact V-A module remains Open. |
+Inherited charge, energy, weighting, and chiral structures are admissibility criteria at their owning grades. They do not generate products. A channel measure applies only after the amplitude/readout conditions are met and does not become frequency.
 
-## Received, Open, or quarantined decay content
+## Quarantine readout
 
 | Decay element | Status |
 |---|---|
-| Product identities, including electron-as-product and the missing-energy/momentum event | P21-owned. The neutron-specific ledger in [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) is retained source material, not a current Registered structural result; empirical product identity remains observation. |
-| Antineutrino as such | Conjectured. [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) keeps the From-With receipt / missing-partner reading as Conjectured; missing-energy observation is allowed, but the entity is not Registered native. |
-| Kinetic-energy spectrum / beta-spectrum shape | Empirical. Energy balance is native; the distribution is observed. |
-| Lifetime / transition rate / branching ratios | Empirical. Observed rates/frequencies are not a current framework target; derive the local possibility-space/rate structure only if needed. |
-| Beta-decay mechanism: weak interaction, W exchange, V-A operator | Quarantined. Electroweak residuals and W/Z labels are quarantined under Item 5.4; exact weak module remains Open. |
-| Neutron-decay specifics / n-p splitting | Decay is P21-owned. [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the mass relation: mark-overlap algebra is retained, while the framework sign, physical `1/4` access weight, and magnitude are Conjectured. Old two-circle and flavor-`SU(3)`/`A_2` packages are historical. |
+| Office-form inverse and neutron `udd -> uud` passage | Conjectured; no inverse map or transition operator. |
+| Electron product | Open as framework derivation; empirical as observation. |
+| Antineutrino receipt | Conjectured role-reading; empirical as observed particle label; no Registered native output role. |
+| Kinetic release and beta-spectrum | Conjectured structural reading / empirical quantitative record; no unique partition or spectrum. |
+| Lifetime, rate, branching ratios | Open internally and empirical observationally; hazard, frequency bridge, and calibration absent. |
+| Weak interaction, `W` exchange, exact `V−A`, beta operator | Open or quarantined. |
 
 ## Verdict
 
-**PASS by registration plus quarantine.** Item 11 does not derive beta-decay products, rates, spectra, or mechanisms. It registers the framework-native skeleton of decay — escape over a coherence-barrier with charge/energy balance, propensity-weighted channels, and chiral/orientation-faithful coupling — while keeping product identities, rate/frequency, spectra, antineutrino identity, and W-mediated weak mechanism empirical/Open/quarantined.
-
-No new derivation is owed here. Deriving beta-decay products, rates, or mechanism would require electroweak residuals, W labels, antineutrino identity, exact module content, and the local possibility-space/rate structure. Do not route this into generic frequency=weight. Not attempting rates is discipline, not a gap.
-
-## Integration rule
-
-Dependent pages may use decay-as-escape, charge/energy balance, and relative channel propensity as native. Observed rates/frequencies remain empirical or comparison unless the local possibility-space/rate structure is derived. Product identities, spectra, lifetimes, branching ratios, antineutrino identity, and W-mechanism must be marked empirical, Open, or quarantined.
-
-Item 11 is acyclic: it is a terminal consumer. Only the native escape-structure feeds back, and that is D6's own Registered result.
+**PASS by bounded registration plus quarantine.** This shadow exists only so Item 11 references resolve to P21's canonical boundary. P21's local frontier owns the unresolved inverse passage, product settlement, and hazard/calibration work.

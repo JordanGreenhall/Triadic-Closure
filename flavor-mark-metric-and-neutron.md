@@ -1,8 +1,8 @@
 ---
 title: "Flavor, the Mark-Metric, and the Neutron Mass Constraint"
 type: result
-status: current-supporting
-confidence: "P14 flavor/mark geometry supporting; P20 sign, physical access weight, and magnitude Conjectured; P21 decay material later-owned"
+status: supporting-partially-superseded
+confidence: "P14 supporting derivation; P20 and P21 govern current relation and decay grades"
 created: 2026-06-26
 depends-on:
   - triadic-structure-of-relating                  # J polarity, flattened triad, no-privileged-frame
@@ -10,13 +10,15 @@ depends-on:
   - same-kind-carrier-representation-theorem       # Item 4: carrier, Hermitian pairing, ℤ₃ cyclic
   - amplitude-readout-theorem                      # conditions any physical access-weight use must satisfy
   - mass-derivation-three-faces                    # canonical bracketed proton/electron ratio
-  - with-to-this-closure                           # forward closure; decay as its inverse
+  - with-to-this-closure                           # forward closure and P21 inverse/decay boundary
 supersedes:
   - "neutron-consideration.md §5.2(a), §6 premise 2, §7 (the A₂ / 120° flavor-SU(3) keystone)"
 claim_statuses: [Open, Conjectured, Registered, "Registered and Sealed"]
 ---
 
 # Flavor, the Mark-Metric, and the Neutron Mass Constraint
+
+> **Supporting-source notice.** P14 governs flavor and mark geometry, P20 governs the proton/neutron relation, and P21 governs inverse closure and decay. This page retains detailed derivation and proposal material but is not an alternative canonical owner. Its claim table and local P21 subsection state the surviving grades.
 
 ## 0. Scope
 
@@ -183,25 +185,28 @@ intrinsic maintenance. The relief mechanism and framework-derived positive sign 
 **Conjectured under P20**. The observed sign corroborates the proposal but does not warrant it.
 The wrong-sign charge-as-interior-cost route remains negative evidence only.
 
-**3.3 P21-owned decay proposal: inverse closure (This → With + From).** This subsection
-retains source material for P21; it is not a current P20 result and its former Registered labels
-do not govern. Forward (`with-to-this-closure`): a
-With closes into a This. Neutron decay is the inverse: a This (the neutron) partially re-opens
-into a With (proton + electron, held in an external relationship) plus a From (kinetic
-advance). The three faces appear in the three products. The drain is ordinary
-realizability/Born dynamics, one-directional (the proton, fully relieved, has no return
-amplitude), accumulating monotonically to certainty. The neutron flips one inward mark outward
-(one `d → u`) and settles two ledgers at once:
+**3.3 P21-governed decay proposal: inverse closure (This → With + From).** This subsection
+retains supporting source material; it is not a current P20 result and its former Registered
+labels do not govern. [P21](with-to-this-closure.md) Registers the generic decay classifier but
+grades the office-form inverse and candidate `d → u` passage Conjectured. A forward With closes
+into a This; the proposal reads neutron decay as partial reopening into a With (successor
+standings in external relation) plus released From. No inverse map or office-complete output
+theorem is yet constructed. The older one-directional drain, zero return amplitude, and
+monotonic accumulation-to-certainty claims are Open. The proposed passage would settle two
+ledgers at once:
 
-- **With / charge ledger →** the **electron** (the inverse-equal partner the open edge reaches
-  toward);
+- **With / charge ledger →** the **electron** as a proposed output. P21 grades electron
+  production Open internally and empirical observationally; inverse-equal role recognition does
+  not force production.
 - **From-With / chiral receipt ledger →** the **antineutrino** (near-pure open From-With, the
   receipt and almost nothing else — the framework's missing-partner object). **[Conjectured —
   the antineutrino identification is the corpus's Conjectured From-With reading.]**
-- **Surplus → pure From: kinetic energy.**
+- **Surplus → pure From: kinetic energy**, Conjectured as a structural reading and empirical
+  quantitatively.
 
-Energy balances in the dialect: `m_n = m_p + m_e + m_ν + KE` (939.565 = 938.272 + 0.511 + 0 +
-0.782 MeV). **[Historical source proposal; standing awaits P21 normalization.]**
+Energy balances empirically in the dialect: `m_n = m_p + m_e + m_ν + KE` (939.565 = 938.272 +
+0.511 + 0 + 0.782 MeV). The structural conservation condition is inherited; the numerical
+ledger is observation, not a derivation of products or partition.
 
 ---
 
@@ -273,7 +278,7 @@ an empirical check rather than framework warrant.
 | **mark-metric `u·d = −1/2`** | **Registered, not Sealed** | no-privileged-frame (Item 3) + carrier pairing (Item 4) |
 | spin gate (cancels in n–p difference) | **Selected/model-conditional comparison premise; not Secured or Registered** | Pauli/spin-`SU(2)` nucleon assignment external or unconstructed at current native scope |
 | neutron heavier — relief-valve mechanism and **sign** | **Conjectured** | P20 canonical frontier; missing valence-to-maintenance bridge |
-| decay as inverse closure; two-ledger settlement | **P21-owned source proposal; no current P20 registration** | former source grade superseded pending P21 normalization |
+| decay as inverse closure; two-ledger settlement | **Conjectured P21 source proposal; not a Registered inverse theorem** | inverse map, successor roles, and unique settlement absent |
 | antineutrino = From-With receipt | **Conjectured** | corpus missing-partner reading |
 | normalized mark overlap `1/2`; square `1/4` | **Sealed mathematics given P14 geometry** | §2 and displayed algebra |
 | **`1/4` as physical access weight** | **Conjectured** | P20 canonical frontier; amplitude/readout conditions incomplete |

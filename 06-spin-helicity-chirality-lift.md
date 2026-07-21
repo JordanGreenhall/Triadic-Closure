@@ -28,7 +28,7 @@ Item 6 passes for the spin/helicity/chirality machinery. It does not carry the e
 | Fermion ↔ half-integer / boson ↔ integer | Registered | J-sector split ↔ `Spin(3)` representation-class correspondence; stripped spin-statistics. |
 | 6.2 helicity = spin-orientation vs propagation-direction | Registered structural | Both objects are native: spin from lift, direction from propagation; helicity is their alignment comparison. |
 | `σ·p` operator form | Registered for `j=1/2` | Fundamental-representation matrix form of the helicity comparison; derived, not inserted as Pauli notation. |
-| 6.3 binary handedness L/R + maximal chirality / V-A + parity violation | Registered | Two orientation-classes of the spinor under From-orientation; parity violation follows because parity reverses orientation and the coupling is orientation-faithful. |
+| 6.3 binary handedness L/R and chiral/vectorial criterion | Registered | Two orientation classes and the orientation-faithful versus vectorial distinction only; weak-interaction chirality is empirical corroboration, while maximal chirality and exact `V−A` remain Open. |
 
 ## Not Item 6's load
 
@@ -40,7 +40,7 @@ Item 6 passes for the spin/helicity/chirality machinery. It does not carry the e
 
 **PASS** for the spin/helicity/chirality machinery, at **Registered** status. Item 6 consumes P3's independently controlled, scoped boson/fermion and Pauli/Bose registrations; it may not widen them.
 
-The machinery is derived from metric/lifted rotatability/propagation plus the J-sector split: spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity as spin-vs-propagation comparison with `σ·p` as its `j=1/2` form, chiral criterion, binary handedness, maximal chirality/V-A, and parity violation. Pauli matrices and SM handedness are not imported as primitives.
+The machinery is derived from metric/lifted rotatability/propagation plus the J-sector split: spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity as spin-vs-propagation comparison with `σ·p` as its `j=1/2` form, the chiral/vectorial criterion, and binary handedness. Weak-interaction chirality is empirical corroboration only; maximal chirality, exact `V−A`, parity-violation derivation, and the exact chiral matter module remain Open. Pauli matrices and SM handedness are not imported as primitives.
 
 ## Caveats carried forward
 

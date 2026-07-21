@@ -1,0 +1,11 @@
+P21 deterministic normalization verification
+base: 71a6f42de3b1f3c2ef26666a32f9d829777a5da6
+changed Markdown files checked: 18
+local Markdown links checked: 341
+frontier placement: canonical local + global summary only
+P19/P20 boundary: inherited, not reopened
+P22 gravity boundary: excluded
+Item 11 nested loop README: absent
+FAIL (1 errors)
+- canonical P21 status guard missing: office reading `This -> With + From` is Conjectured
+exit status: 1

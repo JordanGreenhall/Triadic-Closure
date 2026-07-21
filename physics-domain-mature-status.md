@@ -26,6 +26,7 @@ sources:
   - p18-closure-inherited-metric-and-2pi5-measure.md
   - p19-native-electron-ruler-and-proton-electron-ratio.md
   - p20-baryon-closure-and-proton-neutron-relation.md
+  - with-to-this-closure.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---
@@ -79,6 +80,11 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 | P20 neutron-heavier sign | Conjectured as a framework result | candidate valence-relief route; observed sign is empirical | intrinsic relief bridge absent |
 | P20 normalized mark overlap | Sealed mathematics given P14 geometry | overlap `1/2`, square `1/4` | physical access-weight use Conjectured |
 | P20 splitting magnitude | Conjectured | selected additive ledger and receipt complement | no forced exact magnitude |
+| P21 forward With-to-This closure | Secured conditionally / Registered | displayed flows, singlet attractor, and scoped P6 witness | no universal dynamics or inverse theorem |
+| P21 generic decay classifier | Secured at P6 structural-definition reach / Registered | prior invariant reconfigures through admitted escape | barrier only when exhibited; no products follow |
+| P21 inverse office form and neutron passage | Conjectured | candidate `This -> With + From` and `udd -> uud` route | inverse map and successor invariants absent |
+| P21 beta-product settlement | Mixed Open / Conjectured / empirical | antineutrino receipt Conjectured; observed products empirical | electron production, unique ledger, exact module unconstructed |
+| P21 channel rate and mechanism | Open internally; empirical/quarantined externally | generic weight is not frequency | hazard, calibration, beta operator, and weak module absent |
 | Realizability weighting | Registered-not-Sealed | coherence-participation law | quantitative bridges retain conditions |
 | Weak-field gravity | Registered | geodesic/tidal/Poisson support | strong-field/full metric/G Open |
 | Generation count and spectrum | Open | no derivation | P29 |
@@ -100,11 +106,14 @@ P10 owns color and singlet consequences. P11 owns gauge sources beyond color. P1
 13. **P20-F1 — valence-to-maintenance sign bridge:** P15's valence distinction and P17's qualitative load order are established, but the relief mechanism and positive framework sign are Conjectured. Missing: an occupancy-independent map from satisfiable valence to reduced intrinsic maintenance and exclusion of unchanged-load countermodels. This affects P20 ordering and downstream P6/P21 uses; observed sign must not masquerade as warrant. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: define intrinsic maintenance before occupancy and test the candidate map against countermodels.
 14. **P20-F2 — mark-overlap-to-access-amplitude bridge:** the `1/2` overlap and `1/4` square are Sealed mathematics given P14 geometry, while physical access weighting is Conjectured. Missing: amplitude-space location, licensed access pairing, normalized alternatives, and the mark-overlap-to-reach map. This affects P20's magnitude, P6 weight language, and P21 consumers; geometric overlap must not be treated automatically as a Born amplitude. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: construct the alternative frame and verify every amplitude/readout condition.
 15. **P20-F3 — splitting-ledger selection and exact magnitude:** the dimensionless candidate expression and empirical comparison exist, but addition, one-time electron payment, receipt complement, and the complete mass map are Conjectured. This affects every quantitative splitting and energy-release use; numerical proximity must not be reported as derivation. Local owner: `p20-baryon-closure-and-proton-neutron-relation.md`. Next research action: enumerate admissible accounting rules and test uniqueness before numerical comparison.
-16. Full gravity beyond weak-field.
-17. Matter spectrum and generations.
+16. **P21-F1 — inverse-closure map and neutron passage:** the generic decay classifier is Registered, the office-form inverse and `udd -> uud` passage are Conjectured, and the endpoint roles are independently established. Missing: an admissible passage space/map, preservation and failure conditions, successor invariants, alternative exclusion, and the upstream P20 sign bridge. This affects every neutron transition and product claim; a forward attractor or observed decay must not be read as the inverse theorem. Local owner: `with-to-this-closure.md`. Next research action: define and test the passage class without importing products.
+17. **P21-F2 — product-role and ledger settlement:** signed-valence and chiral admissibility criteria are Registered, the antineutrino receipt is Conjectured, electron production is Open internally, and observed products are empirical. Missing: independently licensed outputs, exact ledger map and expenditure, chiral module, and uniqueness against alternative settlements. This affects beta-product claims; conservation constraints must not be treated as product generators. Local owner: `with-to-this-closure.md`. Next research action: enumerate successor-role decompositions after P21-F1 supplies a passage.
+18. **P21-F3 — channel measure, hazard, and calibration:** generic weighting is Registered under explicit conditions, while the P20 `1/4` access interpretation is Conjectured and observed rates are empirical. Missing: amplitude-space location, normalized alternatives, local hazard, frequency bridge, clock/step calibration, and scale/coupling inputs. This affects every lifetime and branching claim; weight or repeated reselection must not become frequency or certainty. Local owner: `with-to-this-closure.md`. Next research action: construct the local alternative frame and hazard separately from calibration.
+19. Full gravity beyond weak-field.
+20. Matter spectrum and generations.
 
 ## Bottom line
 
-P20 retains the bounded baryon-singlet closure and the shared-singlet/`uud`–`udd` nucleon differentiation at their inherited secured scopes. The framework-derived neutron-heavier sign, `1/4` as a physical access weight, and the complete proton/neutron magnitude are Conjectured behind the three synchronized P20 frontiers. Decay remains P21-owned.
+P21 Registers the displayed forward With-to-This closure and the generic structural decay classifier. It does not reverse the attractor into a theorem: the office-form inverse and neutron `udd -> uud` passage are Conjectured; product settlement, rate, lifetime, spectrum, and weak mechanism remain Conjectured, Open, empirical, or quarantined behind the three synchronized P21 frontiers. P20's sign, physical access weight, and complete magnitude remain Conjectured and are not upgraded by decay observation.
 
-See also: [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md), [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md), and [Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md).
+See also: [P21 With-to-This Closure and Decay](with-to-this-closure.md), [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md), and [Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md).

@@ -1,12 +1,13 @@
 ---
 title: The Neutron — Full Consideration
 type: result
-status: current-partially-superseded
-confidence: historical/adversarial for P20; P14 geometry retained; P20 sign, physical access weight, and magnitude Conjectured; P21 material not yet normalized
+status: historical-adversarial
+confidence: historical/adversarial for P20/P21; P14 geometry retained; current grades governed by P20 and P21
 depends-on: [mass-derivation-three-faces, with-to-this-closure, realizability-weighting-law, flavor-mark-metric-and-neutron]
 superseded-by:
   - flavor-mark-metric-and-neutron # supersedes §5.2(a), §6 premise 2, §7 A₂ / 120° flavor-SU(3) keystone
   - p20-baryon-closure-and-proton-neutron-relation # governs all current P20 claims and grades
+  - with-to-this-closure # governs all current P21 claims and grades
 ---
 
 # The Neutron — Full Consideration
@@ -15,7 +16,7 @@ superseded-by:
 
 For P20, this document is historical/adversarial evidence. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md) governs current use. The native P14 mark geometry supersedes the old flavor-`SU(3)`/`A_2` route, but the resulting `1/2` normalized mark overlap and `1/4` square do not yet constitute a physical access amplitude or weight. The valence-relief sign mechanism, physical `1/4`, additive splitting ledger, and complete magnitude are Conjectured behind P20's three frontiers. This draft's Registered equal-spin and nucleon spin-assignment claims are also superseded: equality is only a selected/model-conditional premise of the displayed comparison, and the native nucleon assignment is unconstructed.
 
-The body below is retained because it records detailed candidate calculations and wrong-sign failures. Its former **Registered** labels on P20 claims are superseded by P20. Decay material is reserved for P21 and receives no upgrade here.
+The body below is retained because it records detailed candidate calculations and wrong-sign failures. Its former **Registered** labels on P20 claims are superseded by P20. [P21 With-to-This Closure and Decay](with-to-this-closure.md) governs the decay material: generic decay is a Registered structural classifier, while the literal inverse, neutron passage, forced products, one-directional drain, accumulation-to-certainty, and rate claims retain P21's narrower grades.
 
 ## 0. Scope and discipline
 
@@ -111,6 +112,8 @@ proton carries more outward charge. The correct reading inverts this — the out
 ---
 
 ## 3. Decay as the inverse closure (This → With)
+
+> **Historical/adversarial section.** The assertions below are retained to expose the earlier route, not as current doctrine. P21 grades the literal inverse and `udd -> uud` passage Conjectured; electron production Open internally; antineutrino receipt Conjectured; kinetic release Conjectured structurally and empirical quantitatively; and the one-directional drain, zero return, accumulation, rate, and forced-product claims Open or superseded. Former Registered labels in this section do not govern.
 
 The companion result [with-to-this-closure](with-to-this-closure.md) derives the forward direction: a With (relata
 held apart) flows up the realizability gradient and closes into a This (a gathered standing).

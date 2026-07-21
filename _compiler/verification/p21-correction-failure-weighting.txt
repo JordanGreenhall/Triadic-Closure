@@ -1,0 +1,15 @@
+P21 deterministic normalization verification
+base: 71a6f42de3b1f3c2ef26666a32f9d829777a5da6
+changed Markdown files checked: 24
+local Markdown links checked: 349
+frontier placement: canonical local + global summary only
+inherited P20-F1/P20-F2 placement: P20 local + global summary only
+P19/P20 boundary: inherited, not reopened
+P22 gravity boundary: excluded
+Item 11 nested loop README: absent
+FAIL (4 errors)
+- obsolete active formulation remains: frequency proportional to coherence-participation
+- obsolete active formulation remains: **Boltzmann** the energy-measure instance
+- correction standing guard missing: identity of weight with observed long-run frequency remains Open
+- correction standing guard missing: claimed Boltzmann end-to-end instance remains undone
+exit status: 1

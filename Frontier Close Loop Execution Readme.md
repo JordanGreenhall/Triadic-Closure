@@ -48,6 +48,6 @@ Critical rule: the numbered folders are **frontier items**, not loops. A loop is
 - [Item 8: Charge / hypercharge ledger](08-charge-hypercharge-ledger.md) — PASS as adjudication ledger; native charge structure Registered, exact values/hypercharge parked
 - [Item 9: Specific color dynamics / QCD-operator quarantine](09-specific-color-dynamics-qcd-quarantine.md) — PASS as narrowed quarantine; SU(3) consequences Registered, quantitative QCD quarantined
 - [Item 10: Native mass-ruler proof](10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md) — NON-PASS proof setup only
-- [Item 11: Decay-product registration](11-decay-product-registration.md) — PASS by registration plus quarantine; native decay skeleton Registered, beta specifics parked
+- [Item 11: Decay-product boundary](11-decay-product-registration.md) — concise P21 shadow; generic classifier Registered, inverse/products/rates bounded by P21
 - [Item 12: Gravity full-GR imports](12-gravity-full-gr-imports.md) — PASS by separation; weak-field Registered, full-GR imports conditional/Open
 - [Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md) — NON-PASS quarantine maintained

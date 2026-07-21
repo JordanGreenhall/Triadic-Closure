@@ -40,7 +40,7 @@ Run [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md) whene
 
 1. the generic D6 phase-form — invariant-preservation across an exhibited D5 variation-field — is Secured and Native;
 2. persistence is Registered–Sealed only within that exact phase-form scope;
-3. baryon persistence and tested stability plus electron bare-repeat persistence/ruler are bounded physical witnesses at their owning grades and conditions; proton/neutron shared-closure identity is established, comparative metastability remains Conjectured under P20, and structural decay is P21-owned;
+3. baryon persistence and tested stability plus electron bare-repeat persistence/ruler are bounded physical witnesses at their owning grades and conditions; proton/neutron shared-closure identity is established, comparative metastability remains Conjectured under P20, and P21 Registers only the generic decay classifier while keeping the neutron inverse passage Conjectured;
 4. domain-grade persistent population, the stronger basic stable ruler, stable-closure hierarchy, and calibrated rates remain Open.
 
 Do not demand an unrestricted passage-class before recognizing a scoped witness. Do not confuse one witness with domain-grade D6. Do not infer attraction from fixed-point language, a barrier from a local maximum, a frequency from a weight, or a lifetime from an escape measure. Do not revive the superseded D6 stability proof of exact `3+1`; P4 owns dimensionality. P6 supplies no atom derivation, universal confinement dynamics, Higgs structure, complete particle spectrum, or chemistry gate.
