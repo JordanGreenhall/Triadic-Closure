@@ -1,0 +1,8 @@
+P26 stale-state fixture: BMV overgrade
+Overlay: change canonical BMV row from `Conjectured | Unregistered` to `Secured | Registered`.
+Expected: deterministic rejection.
+Observed exit: nonzero.
+Observed final diagnostic:
+P26 verification: FAIL: p26-matter-sourced-geometry-holonomy-and-bmv.md lacks required text: | BMV-positive follows from the framework | Conjectured | Unregistered |
+Result: REJECTED
+Overlay restored; clean canonical verifier rerun: PASS.

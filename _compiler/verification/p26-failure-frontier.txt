@@ -1,0 +1,8 @@
+P26 stale-state fixture: duplicate frontier placement
+Overlay: append a living `P26-F1` placement to `index.md`.
+Expected: deterministic rejection.
+Observed exit: nonzero.
+Observed final diagnostic:
+P26 verification: FAIL: P26-F1 living placement is ['index.md', 'p26-matter-sourced-geometry-holonomy-and-bmv.md', 'physics-domain-mature-status.md']
+Result: REJECTED
+Overlay restored; clean canonical verifier rerun: PASS.

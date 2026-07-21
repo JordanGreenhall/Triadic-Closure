@@ -1,0 +1,8 @@
+P26 stale-state fixture: AUD-015 erasure
+Overlay: replace the canonical no-decoherence row `Open under AUD-015 | Unregistered` with `Secured | Registered`.
+Expected: deterministic rejection.
+Observed exit: nonzero.
+Observed final diagnostic:
+P26 verification: FAIL: p26-matter-sourced-geometry-holonomy-and-bmv.md lacks required text: | No intrinsic gravitational decoherence floor | Open under AUD-015 | Unregistered |
+Result: REJECTED
+Overlay restored; clean canonical verifier rerun: PASS.

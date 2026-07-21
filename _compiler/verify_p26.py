@@ -63,6 +63,7 @@ def main() -> None:
         "grqm-conflict-status.md",
         "grqm-problem-locator.md",
         "_compiler/verify_p26.py",
+        "_compiler/verify_p26_algebra.py",
         "_compiler/verification/p26-unit-opening.md",
         "_compiler/verification/p26-exact-finite-algebra.txt",
     }
@@ -164,6 +165,32 @@ def main() -> None:
         "No entry above establishes a BMV phase",
     ):
         require(algebra, result, "p26-exact-finite-algebra.txt")
+    algebra_run = subprocess.run(
+        [sys.executable, str(ROOT / "_compiler/verify_p26_algebra.py")],
+        cwd=ROOT,
+        text=True,
+        capture_output=True,
+    )
+    if algebra_run.returncode != 0:
+        fail(f"P26 algebra reproducer failed: {algebra_run.stderr.strip()}")
+    for result in (
+        "P26 exact algebra: PASS",
+        "imaginary-part antisymmetry: PASS",
+        "complex-carrier nonvanishing countermodel: PASS",
+        "exact-connection telescoping: PASS",
+        "nonzero-loop obstruction to exactness: PASS",
+    ):
+        require(algebra_run.stdout, result, "verify_p26_algebra.py output")
+
+    failure_evidence = {
+        "_compiler/verification/p26-failure-overgrade.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-nonexact.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-aud015.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-frontier.txt": "Result: REJECTED",
+        "_compiler/verification/p26-failure-boundary.txt": "Result: REJECTED",
+    }
+    for path, result in failure_evidence.items():
+        require(read(path), result, path)
 
     scripts = git("ls-files", "_compiler/scripts/*", "_compiler/*.py").splitlines()
     sim_scripts = [s for s in scripts if any(k in s.lower() for k in ("bmv", "holonomy", "postcosm"))]
