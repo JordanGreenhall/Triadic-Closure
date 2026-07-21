@@ -1,0 +1,28 @@
+P29 exact finite countermodels
+
+A. Upstream capacities do not entail electroweak completion
+capacities=(1,1,1)
+completion=(0,0,0)
+same premises, absent completion: countermodel
+
+B. Primitive triadic arity does not entail three generations
+primitive_arity=3
+admissible_repeated_module_counts=1,2,3,4
+generation_count_not_function_of_arity_without_extra_axiom: countermodel
+
+C. Fixed structural labels do not entail a unique numerical spectrum
+labels=r1,r2,r3
+shared_internal_ruler=1
+spectrum_A=1,2,5
+spectrum_B=1,3,8
+same labels and ruler, distinct spectra: countermodel
+
+D. A global scale remains free without calibration
+dimensionless_shape=1,2,5
+scale_A=1
+scale_B=7/3
+physical_A=1,2,5
+physical_B=7/3,14/3,35/3
+same dimensionless shape, distinct calibration: countermodel
+
+P29 exact countermodels: PASS

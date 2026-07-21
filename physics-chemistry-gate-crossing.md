@@ -296,8 +296,10 @@ This deposit exhibits one proposed physics→chemistry handoff and motivates a c
 2. **Build the winding tower** — discharge the Conjectured construction of n; this
    also resolves the radial/principal seam (§4).
 3. **Native Madelung** — attempt the self-consistent screening computation
-   framework-natively (this is also the **generations tool**: D5 mass-Casimir
-   spectral multiplicity over a D4 charge profile is the identical template).
+   framework-natively (this is also the candidate **generations tool**: D5 mass-Casimir
+   spectral multiplicity over a D4 charge profile is the identical template). Under
+   [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md)
+   that route is Unexecuted and Unregistered and does not presently determine generation count.
 4. **Carry the handoff mechanism to chemistry→biology** — only after the above; the
    forward prediction in §3 is recognition-strength and must not be walked on
    candidate-grade parents.

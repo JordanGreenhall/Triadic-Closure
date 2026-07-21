@@ -269,7 +269,7 @@ claims, strong curvature claims.
 
 ### 13. Higgs, Yukawa, electroweak breaking, generations, spectrum
 
-**Current support:** Open or conditional in control layer.
+**Current support:** [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) Registers the quarantine adjudication only. Exact electroweak module/breaking, Higgs/Yukawa construction, generation count, and complete/numerical spectrum are Open and Unregistered. The D5 mass-Casimir route is candidate, Unexecuted, and Unregistered.
 
 **Smuggle risk:** any use of Higgs potential/value/mass, Yukawa couplings,
 fermion hierarchy, generation count, W/Z/photon sectors, or electroweak mixing as
@@ -278,8 +278,7 @@ if derived.
 **Downstream dependencies:** From-With chiral numbering, residual mass work,
 fermion masses, full particle spectrum.
 
-**Cleanup work:** do not pursue these until upstream gauge/module/charge/value
-machinery is registered. If used, mark as empirical/SM comparison only.
+**Cleanup work:** use P29 for every grade and frontier. Do not pursue physical completion until the matching local frontier machinery is constructed. If mature content is used, mark it as empirical/SM comparison only.
 
 ## Immediate cleanup work frontier
 

@@ -50,4 +50,4 @@ Critical rule: the numbered folders are **frontier items**, not loops. A loop is
 - [Item 10: Native mass-ruler proof](10-native-mass-ruler-proof/10-native-mass-ruler-proof Readme.md) — NON-PASS proof setup only
 - [Item 11: Decay-product boundary](11-decay-product-registration.md) — concise P21 shadow; generic classifier Registered, inverse/products/rates bounded by P21
 - [Item 12: Gravity full-GR imports](12-gravity-full-gr-imports.md) — PASS by separation; weak-field Registered, full-GR imports conditional/Open
-- [Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md) — NON-PASS quarantine maintained
+- [Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md) — PASS only as a P29 authority-bounded quarantine; all physical completion claims remain Open/Unregistered

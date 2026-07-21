@@ -105,6 +105,8 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `lambda-derived.md`
 - `lambda-scaling-validation-task.md`
 - `p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
+- `p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md`
+- `13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine Readme.md`
 
 ## Physics-to-chemistry handoff
 

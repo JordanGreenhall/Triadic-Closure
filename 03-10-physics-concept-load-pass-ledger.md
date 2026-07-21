@@ -454,6 +454,40 @@ Dependent pages may use P22 and P23 only at their bounded grades and may cite th
 
 ---
 
+## Item 13 — Standard Model completion quarantine
+
+See [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) for the canonical owner and [Item 13 quarantine](13-higgs-yukawa-electroweak-generations-spectrum-quarantine/13-higgs-yukawa-electroweak-generations-spectrum-quarantine%20Readme.md) for the concise process shadow. Item 13 **PASSES only as an authority-bounded quarantine adjudication**; no physical Standard Model-completion claim is Registered.
+
+### 13.1 Exact electroweak module and breaking
+
+- **Physics capacity:** one exact chiral matter module, gauge actions, assignments/normalization, consistency conditions, a breaking variable/state/rule, and residual photon/W/Z sectors.
+- **Framework use:** target vocabulary and empirical recognition only.
+- **Grade:** **Open and Unregistered.** P11 source forms, P12 chirality criteria, and P15 phase architecture retain their own bounded grades but do not combine into the missing module or breaking theorem.
+- **Pass condition:** exhibit one carrier, complete role population, exact actions/assignments, native consistency conditions, breaking state space and rule, selected state, and residual action.
+- **Fail condition:** group-form, chirality, hypercharge naming, or observed boson labels are used as warrant.
+
+### 13.2 Higgs and Yukawa construction
+
+- **Physics capacity:** a breaking object/representation, state functional or dynamics, selected ground, coupling maps, normalization, and mass translation.
+- **Framework use:** external comparison near P17–P19 mass claims; no native proof load.
+- **Grade:** **Open and Unregistered.** P17 closure-maintenance mass is distinct and is neither a Higgs/Yukawa derivation nor invalidated by its absence.
+- **Pass condition:** after the exact module, define the object, carrier, functional/update, variation class, selected stable state, coupling map, and non-fitted mass translation.
+- **Fail condition:** a scalar name, fixed point, invariant polynomial, mature mass word, or fitted coefficient is treated as the missing construction.
+
+### 13.3 Generations and spectrum
+
+- **Physics capacity:** a multiplicity theorem and complete calibrated physical spectrum with role interpretation.
+- **Framework use:** observed generations and numerical values are empirical targets only; the D5 mass-Casimir-over-D4-charge-profile route is a candidate specification.
+- **Grade:** generation count and complete/numerical spectrum are **Open and Unregistered**; the candidate route is **Unexecuted and Unregistered**.
+- **Pass condition:** exhibit an exact operator/state problem, domain, boundary conditions, native charge/module input, multiplicity semantics, uniqueness/cutoff, role map, scale/calibration, and reproducer.
+- **Fail condition:** primitive triadic arity, three offices/colors/marks/directions/faces, a Casimir name, representation eigenvalue, or empirical fit is promoted into three generations or a particle spectrum.
+
+### 13.4 Integration rule
+
+Consumers may use P29 only for the quarantine boundary and the exact grades above. No consumer may infer electroweak completion, Higgs/Yukawa mass generation, three generations, or numerical spectrum from upstream capacities. Any future promotion must update the canonical P29 owner first and satisfy the matching P29 frontier.
+
+---
+
 ## Loop-agent output contract
 
 For any loop spawned from this ledger, the agent must return:

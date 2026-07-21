@@ -162,11 +162,12 @@ Current status: [P23](p23-stress-energy-as-three-office-source.md) Secures condi
 
 ### 7. Chiral fermion module, hypercharge, and electroweak particulars
 
-Current status: criterion Registered; exact module and assignments Open or conditional.
+Current status: [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) preserves the P11/P12/P15 upstream criteria at their owning grades while the exact module, assignments, electroweak breaking, and residual sectors remain Open and Unregistered.
 
 - Derive or explicitly posit one-generation content.
 - Keep hypercharge ratios conditional on module and center-lock premises.
 - Keep generation count separate.
+- Do not use `SU(2)` group-form, chirality, or hypercharge naming as a substitute for an explicit carrier, action, module, and breaking rule.
 
 ### 8. P6 persistent population and basic stable ruler
 
@@ -204,9 +205,9 @@ Work:
 
 ### 10. Matter spectrum / generations
 
-Current status: Open.
+Current status: [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) keeps generation count and the complete spectrum Open and Unregistered.
 
-- Use D5 mass-Casimir spectral multiplicity over a D4 charge profile, or leave Open.
+- The D5 mass-Casimir spectral-multiplicity-over-D4-charge-profile route is candidate, Unexecuted, and Unregistered; formulate its operator, domain, boundary conditions, and multiplicity semantics or leave Open.
 - Do not force generation count from the primitive triad.
 
 ### 11. Atoms and periodic landscape
@@ -221,9 +222,10 @@ Current status: Open as a fully normalized wiki-standing derivation.
 
 ### 12. Numerical particle spectrum
 
-Current status: Open.
+Current status: Open and Unregistered under [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md).
 
 - Defer calibrated values until basic-ruler and calibration machinery exist.
+- Do not combine independently scoped exact numbers, representation eigenvalues, or empirical fits into a spectrum by availability.
 
 ## Normalized adjudication summary
 
@@ -238,17 +240,17 @@ Current status: Open.
 9. P25 GR/QM background conflict: bounded phase and internal/spatial mappings Secured/Registered; overall non-renormalizability explanation Conjectured and Unregistered as a completed derivation.
 10. P26 geometry/holonomy/BMV: bounded modal and conditional algebraic cores preserved; physical geometry, non-exactness, and BMV translation Conjectured/Unregistered; decoherence/radiation Open.
 11. P27 horizon/entropy/information: conditional algebra preserved; physical horizon/area Conjectured/Unregistered; temperature, entropy, `A/4`, and unitarity Open/Unregistered.
-12. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
+12. Chiral module/hypercharge: upstream criterion grades preserved; exact P29 content Open and Unregistered.
 13. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
-14. Matter spectrum/generations: Open.
+14. P29 Standard Model completion: quarantine Registered as a control boundary; exact electroweak module/breaking, Higgs/Yukawa construction, generations, and numerical spectrum Open and Unregistered.
 15. Atoms/periodic landscape: Open as a normalized parent.
-16. Numerical spectrum: Open and deferred.
+16. Numerical spectrum: Open, Unregistered, and deferred under P29.
 
 ## Immediate edit targets
 
 1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), [P26 Geometry/Holonomy/BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md), [P27 Horizon/Entropy/Information](p27-horizon-area-entropy-temperature-and-information.md), [P28 Lambda/Cosmology](p28-lambda-cosmological-closure-magnitude-and-dynamics.md), and their shadows/consumers synchronized.
-3. Preserve P22/P23/P24/P25/P26/P27/P28 boundaries and do not reactivate absent computation scripts as evidence.
+2. Keep [P23 Stress-Energy](p23-stress-energy-as-three-office-source.md), [P24 Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md), [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md), [P26 Geometry/Holonomy/BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md), [P27 Horizon/Entropy/Information](p27-horizon-area-entropy-temperature-and-information.md), [P28 Lambda/Cosmology](p28-lambda-cosmological-closure-magnitude-and-dynamics.md), [P29 Standard Model Completion](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md), and their shadows/consumers synchronized.
+3. Preserve P22/P23/P24/P25/P26/P27/P28/P29 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
 See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md), [d6-persistence](d6-persistence.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md).
