@@ -1,4 +1,4 @@
-> **P22/P23/P24 scope guard.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs the weak-field use below. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) governs the source-tensor construction, office correspondence, conservation conditions, and frontiers. The named scripts are absent and were not rerun. P22 Registers the harmonic exterior and scalar Poisson **form conditionally**; the graph-source-to-physical-source map, normalization, and `G` remain Open. The full Einstein/Lovelock route belongs to P24.
+> **P22/P23/P24 scope guard.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs the weak-field use below. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) governs source construction and conservation. [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) governs the retained forcing proposal. The named scripts are absent and were not rerun. Neither locality, source kinematics, nor the theorem's form supplies the missing P24 premise map.
 
 # F11: Retained Weak-Field and Full-Tensor Development Source
 
@@ -41,11 +41,11 @@ The full (not just weak-field) claim is `G_mu nu + Lambda g_mu nu = kappa T_mu n
 | Premise | Status |
 |---|---|
 | (1) source is a symmetric rank-2 tensor `T_mu nu` | **P23-bounded.** The weighted second moment is symmetric and admits the observer-relative three-sector split under P23's stated inputs; native weights/vectors and general dynamics remain open. |
-| (2) locality | **[shown]** — the field is the graph-Laplacian Green's function, nearest-neighbor. |
-| (3) second-order in the metric | **P24-owned.** P22's bounded clock-sector evidence does not prove a full nonlinear second-order tensor equation. |
+| (2) locality | **Shown only for the displayed nearest-neighbor graph rule.** This does not prove exact continuum derivative order, naturality, or a full tensor equation. |
+| (3) second-order in the metric | **Conjectured/Unregistered under P24.** One-step locality admits higher-derivative finite-spacing corrections; a scaling/order theorem is absent. |
 | (4) `nabla_mu T^{mu nu}=0` | **P23-conditional.** Scalar continuity or generic conservation language alone is insufficient; complete local balance equations and carrier calculus are required. |
 
-**P24 boundary:** a Lovelock-style implication may be assessed once all of its precise manifold, locality, derivative-order, symmetry, and conservation premises stand. P23 supplies only its bounded source-side result and does not force the Einstein equation.
+**P24 boundary:** the accepted Lovelock-style implication is conditional mathematics once all precise carrier/dimension, naturality/covariance, locality, derivative-order, symmetry, divergence, and source-coupling premises stand. Those premises do not currently stand as one framework construction. P23 supplies only its bounded source-side result and does not force the Einstein equation.
 
 Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain with their numbered later owners. They are not consequences of P23 source kinematics.
 
@@ -56,7 +56,7 @@ Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain wit
 
 **P23 source standing:** symmetric second-moment algebra and the observer-relative energy/flux/spatial-stress split are Secured conditionally; sector vocabulary is Registered for an independently licensed physical source; the further three-office correspondence is selected/Conjectured and Unregistered as an exact theorem. One selected two-stream example populates all three tensor sectors. Native source weights/vectors, general stress population, coefficient meaning, and covariant conservation remain live P23 frontiers.
 
-**P24 boundary:** the field-equation form, second-order premise, tensor completeness, and strong-field/nonlinear regime are not settled here. `G` remains Open/values-side at the inherited boundary.
+**P24 standing:** the normalized Einstein-plus-metric form is a selected/Conjectured conditional model and Unregistered as a framework-native field equation. The accepted rigidity implication is Secured only under admitted hypotheses. The locality/order theorem, complete tensor premise map, tensor completeness, and strong-field/nonlinear regime remain unresolved. `G` remains Open at the inherited P22 boundary.
 
 ## 5b. Retained P23 source proposal, corrected through canonical authority
 
@@ -84,7 +84,7 @@ The absent `t_structure.py`, `t_full.py`, and `t_converge.py` scripts and their 
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
 - **F10:** selected inverse-clock curvature model with retained geodesic/tidal reports. **Registered at bounded static `2+1` model scope**; source/clock uniqueness and common `3+1` implementation Open under P22.
-- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. P23 governs the bounded stress-energy source/decomposition result and its open dynamics; the full tensor/Lovelock route awaits P24. Lambda is governed separately by P28 sources.
+- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. P23 governs bounded source/decomposition mathematics and open dynamics. P24 Secures only the conditional rigidity implication; its full equation remains selected/Conjectured and Unregistered. Lambda is governed separately by P28 sources.
 
 **Bounded arc:** the retained sources connect a conditional local participation tilt to a selected static clock metric, reported geodesic/tidal checks, and a separate harmonic three-dimensional exterior. P22 records the exact open edges; P23/P24 govern the tensor and full-GR continuation.
 
