@@ -1,6 +1,8 @@
-# F10, Substantially Closed: Gravity Is Genuine Curvature
+> **P22 supporting source.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs current claims and grades. The checks below are retained reports: their named scripts are absent and were not rerun. The selected static `2+1` inverse-clock model supports bounded curvature Registration; source/clock uniqueness, a common `3+1` implementation, the spatial metric sector, source normalization, and `G` remain open.
 
-### Supersedes the earlier "F10 not done" status. After resolving the sign (via step-atomicity) and the velocity-drift-vs-geodesic worry (via gerund-native inertia + direct simulation), F10's spine is established: the F9 conditioning-degree tilt produces **genuine spacetime curvature** — geodesic motion, tidal geodesic deviation with the correct stretch/squeeze signature, matching tidal-tensor magnitudes, and a traceless vacuum tensor. All checks use **independent specifications**: the walkers know only F9 (degree-tilt) + gerund-native inertia + the atomicity clock; the geometric predictions come only from the metric. Agreement is therefore structural, not fitted. Scope limits stated honestly at the end. Scripts and outputs inline.
+# F10, Bounded Model Report: Gravity as Curvature
+
+### Supersedes the earlier conclusion that no bounded F10 model exists. In the selected inverse-clock model, the reported independent walk and metric specifications agree at static weak-field scope and exhibit the expected geodesic/tidal signatures. This does not prove that atomicity uniquely forces the inverse clock, and the absent scripts prevent fresh reproduction from this repository.
 
 ---
 
@@ -36,21 +38,21 @@ Opposite signs. A uniform force moves both walkers identically (separation const
 
 In the weak-field, static, 2+1 regime tested:
 - conditioning-degree concentration **is** a curved metric (g₀₀ from the atomicity clock);
-- the F9 degree-tilt + gerund-native inertia **is** geodesic motion in that metric (quantitative match, no free parameter);
+- the selected F9 degree-tilt + gerund-native inertia agrees with geodesic motion in the reported finite check, after its stated convention correction;
 - nearby free contents experience **genuine tidal curvature** — correct stretch/squeeze signature, matching magnitudes, traceless in vacuum.
 
-Gravity-as-geometry is therefore not asserted but **demonstrated** for this regime: a mass is a region of excess conditioning-degree; it curves the metric; free contents fall along geodesics; nearby contents feel true tidal forces. All from F9 + atomicity + gerund-native inertia, with no geometry assumed and every geometric prediction specified independently of the walk.
+Within the selected model, gravity-as-geometry is supported for this regime: a localized conditioning-profile source changes the clock metric, and the reported free paths and relative deviations agree with the independently specified metric behavior. P22 does not treat the mass-to-source map or inverse clock as uniquely forced.
 
 ## 5. Honest scope — what is and isn't shown
 
-**Shown:** weak-field, static, 2+1, the g₀₀-sector curvature: geodesics, tidal deviation, tracelessness. The sign is forced (F2); the motion is inertial (gerund-native, confirmed numerically); the deviation is genuine curvature (not a potential).
+**Reported within the selected model:** weak-field, static, `2+1`, `g00`-sector geodesics, tidal deviation, and vacuum-trace suppression. The attractive sign follows from the selected inverse clock; P22-F1 retains the proof that this exact map is uniquely forced.
 
 **Not yet shown (the remaining F10/F11 frontier):**
 - **The spatial metric sector (g_ij) and the full 3+1 tensor.** Only the g₀₀ (clock) sector was needed for the weak-field tests, but full GR has spatial curvature too; the strong-field and dynamical regimes are untested.
 - **The full Einstein equation (F11).** The vacuum tracelessness shown here is the weak-field statement ∇²Φ = 0 (vacuum). The *sourced* equation — that the curvature relates to the conditioning-degree distribution by exactly G_μν = 8πG T_μν — is the F11 target. What is now in hand toward it: the source is conditioning-degree (= energy, admissibly), the relation is local and (weak-field) linear, and conservation (∇·T=0) is conservation of registered distinctions (0.6). The Lovelock-forcing argument can now stand on a *demonstrated* curvature rather than an assumed one — but exhibiting the full tensor and fixing G (the one free particular) remains.
 - **The conserved-flow standing-state choice** (flagged in F9) still rides underneath.
 
-**Status:** F10's core claim — that the degree-tilt produces genuine curvature, not a flat-background force — is **established for the weak-field static regime**, with the sign forced by atomicity and the geodesic/tidal structure verified by independent simulation. The full-tensor / sourced-equation extension (F11) is the remaining frontier, now resting on demonstrated curvature.
+**Status:** the selected degree-tilt/clock model is **Registered at bounded static weak-field scope** as a curvature rather than uniform-drift construction. The reported simulation is supporting evidence, not a rerun proof. P22's three local frontiers and P23/P24 retain the remaining bridges.
 
 ---
 

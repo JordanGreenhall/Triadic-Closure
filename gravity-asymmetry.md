@@ -1,6 +1,8 @@
+> **P22 supporting source.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs this source's claims and grades. The argument supports a bounded static model; it does not prove a unique source/clock map, a complete `3+1` metric, source normalization, or `G`. The named numerical scripts are absent from the repository, so their recorded outputs are retained evidence rather than rerun verification.
+
 # The Gravity Asymmetry: Curvature from the Coherence-Participation Gradient
 
-The last owed gate of the gravity walk. Gravitational curvature is the anisotropic re-weighting of a standing's realizable-next null directions by the surrounding coherence-participation gradient. It integrates to exactly metric curvature — the harmonic 1/r potential and the traceless tidal structure of the F11 weak-field result — not merely a drift. Dilation and curvature are cleanly separated, each grounded in a distinct source.
+This source proposes gravitational curvature as anisotropic re-weighting of a standing's realizable-next null directions by a surrounding coherence-participation gradient. In the selected weak-field model, the reported harmonic `1/r` and tidal checks support a curvature interpretation rather than uniform drift. Dilation and curvature are kept distinct; P22 retains the missing source/clock and continuum bridges.
 
 ---
 
@@ -26,7 +28,7 @@ Coherence-participation spreads through the same neighbor-by-neighbor conditioni
 - its **gradient** is the cone-tilt (the connection structure);
 - its **second derivative** gives the tidal structure: radial stretch and transverse squeeze of opposite sign, with the trace (the Laplacian) ≈ 0 in vacuum — a **traceless tidal tensor**, which is exactly vacuum curvature (geodesic deviation).
 
-So the participation asymmetry integrates to exactly metric curvature: the same harmonic 1/r potential and the same traceless tidal structure already established for the weak-field metric. The gate — "does the asymmetry integrate to metric curvature rather than merely a drift?" — is closed.
+Thus the reported participation-asymmetry model reproduces the harmonic `1/r` exterior and traceless tidal signature at its tested scopes. This supports the bounded P22 curvature registration; it does not close uniqueness, common `3+1` implementation, or source normalization.
 
 ## The two effects, cleanly separated
 
@@ -39,6 +41,6 @@ Own-self-closure → dilation; surrounding-coherence-gradient → curvature. The
 
 ## Result
 
-Gravitational curvature is the anisotropic re-weighting of a standing's realizable-next null directions by the surrounding coherence-participation gradient — anisotropic because coherence-with-a-mass is directional (the mass has a location), and integrating to exactly the harmonic 1/r potential and traceless tidal curvature of the weak-field result (verified on the conditioning-network). Free fall follows: a standing re-selecting minimally has its position participation-resolved, and the resolution is weighted toward the mass, so "straight ahead" is "toward the mass" — geodesic motion, forceless.
+In the selected weak-field model, gravitational curvature is represented as anisotropic re-weighting of a standing's realizable-next null directions by the surrounding coherence-participation gradient. The retained reports combine a harmonic `1/r` exterior with a traceless tidal signature; within that model, minimally re-selected motion follows the resulting geodesic rather than a content-specific force law.
 
-This closes the gravity walk's last owed gate. It rests on three results brought together: the realizability-weighting frame (the no-background account of why couplings change), mass-as-self-closure (which characterizes a mass as a coherence-fixed-point — a participation concentration), and the F11 field (which the participation field is now shown to *be*, harmonic 1/r). Scope: weak-field, the linear/Newtonian regime where the participation field is the 1/r Green's function; the strong-field nonlinear regime and the full quantitative field-equation coefficient remain, as before, beyond this result.
+This bounded result brings together the realizability-weighting frame, the candidate reading of mass-as-self-closure as a localized participation concentration, and the reported F11 harmonic field. Scope: static weak-field/linear Newtonian modeling. P22-F1 retains the mass-to-source and inverse-clock bridge; P22-F2 retains the common `3+1` continuum calculation; P22-F3 retains source normalization and `G`.

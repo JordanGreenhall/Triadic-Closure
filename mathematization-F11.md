@@ -1,6 +1,8 @@
-# F11: The Sourced Einstein Equation — Weak-Field Derived, Full-Tensor Forced (with one real gap)
+> **P22/P23/P24 scope guard.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs the weak-field use below. The named scripts are absent and were not rerun. P22 Registers the harmonic exterior and scalar Poisson **form conditionally**; the graph-source-to-physical-source map, normalization, and `G` remain Open. Stress-energy belongs to P23 and the full Einstein/Lovelock route to P24.
 
-### Final gate of the gravity-mathematization. The weak-field Einstein equation (Poisson) is **derived**: the gravitational field is the conserved-flow perturbation, which is harmonic in vacuum (1/r in 3D, computed), giving ∇²Φ = 4πGρ with no free choice. The full tensor equation G_μν + Λg_μν = 8πG·T_μν is a **forcing-argument** (Lovelock) now resting on the *demonstrated* curvature of F10, with three of four premises solid and the fourth — the stress-energy tensor structure — the one remaining real computation. Honest throughout; scripts inline.
+# F11: Retained Weak-Field and Full-Tensor Development Source
+
+### The weak-field portion reports a three-dimensional graph Green function with harmonic `1/r` exterior. This supplies the scalar Poisson form once a source map and normalization are given; it does not derive `G` or a physical `rho`. The remaining tensor material is retained for P23/P24 normalization and does not enlarge P22.
 
 ---
 
@@ -24,7 +26,7 @@ This is a consistency win, not a patch: the field that carries gravity (the cons
 - vacuum: ∇²Φ = 0 (the field is harmonic away from sources) — matches F10's traceless vacuum tidal tensor;
 - source: ∇²(A/r) = −4πA·δ³, so ∇²Φ = (4πA/d₀)·δ³ = 4πGρ with point mass M = A/(Gd₀).
 
-So **∇²Φ = 4πGρ — Poisson's equation, the weak-field Einstein equation — holds, derived**, not assumed: gravity falls off as 1/r *because* the conserved-flow Green's function on a 3D network is harmonic, and an isolated mass's exterior degree-field is forced to the harmonic 1/r form.
+Thus the conditional continuum Green-function construction supplies the **Poisson form** `∇²Φ = 4πGρ` after a scalar source and conversion are defined. The harmonic `1/r` exterior is the bounded result; the physical mass/source map and `G` are not derived by defining `M=A/(Gd0)`.
 
 ## 4. The full tensor equation — forcing-argument on demonstrated curvature
 
@@ -46,8 +48,8 @@ The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is re
 
 ## 5. Honest status of F11
 
-**Derived (computed, solid):**
-- The weak-field Einstein equation (Poisson) ∇²Φ = 4πGρ, via the conserved-flow potential being harmonic in vacuum (1/r in 3D, R² = 0.997). Gravity's long-range 1/r field is a computed consequence of the graph-Laplacian Green's function. The "no gravity at a distance" trap is resolved: the field is the conserved-flow perturbation (same object as F9's σ), which propagates.
+**Reported and conditionally Registered under P22:**
+- The graph-Laplacian calculation gives a harmonic vacuum exterior (`1/r` in three dimensions, reported `R² = 0.997`). The scalar Poisson form follows once the source map and normalization are supplied. The named computation was not rerun, and the identification of the perturbation with a physical mass source remains P22-F1/P22-F3.
 
 **Forced, on demonstrated curvature (Lovelock), with one real gap:**
 - G_μν + Λg_μν = 8πG·T_μν, given four premises — three shown/framework (locality, second-order, conservation), the fourth (the source is exactly a symmetric rank-2 stress-energy with the right tensor structure) **argued, not computed**. This is the one remaining real computation for the full tensor equation.
@@ -79,9 +81,9 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
 - **F10:** genuine curvature — sign forced by atomicity, geodesic motion and tidal deviation verified by independent simulation. **Core done** (weak-field static 2+1; full-tensor/strong-field ahead).
-- **F11:** weak-field Einstein equation **derived** (harmonic Green's function → Poisson); the stress-energy tensor structure **derived** (symmetric from From-orientation, conserved from 0.6 — premise (1) closed, the framework-discriminating step); full tensor **forced** via Lovelock, whose inputs are now framework-supplied, with the rigidity step (second-order ⇒ Einstein) borrowed from GR and shown only weak-field. Λ has no framework meaning as yet.
+- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. Stress-energy claims await P23 normalization; the full tensor/Lovelock route awaits P24. Lambda is governed separately by P28 sources.
 
-**The arc is real:** from a conditioning-network (the horizontal build of the terminal mathematical object) to Newtonian gravity with 1/r falloff, geodesic motion, tidal curvature, and the Einstein form — with the key steps *computed and independently cross-checked*, not asserted. The remaining work is well-identified: the stress-energy tensor structure (F11 premise 1), the strong-field regime, the full spatial-metric sector, and computing G; plus the standing-state choice flagged in F9. This is a derivation with named open edges, not a closed claim — but the weak-field theory is genuinely in hand.
+**Bounded arc:** the retained sources connect a conditional local participation tilt to a selected static clock metric, reported geodesic/tidal checks, and a separate harmonic three-dimensional exterior. P22 records the exact open edges; P23/P24 govern the tensor and full-GR continuation.
 
 ---
 
