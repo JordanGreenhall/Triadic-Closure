@@ -30,7 +30,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 1. **Background problem — root.** QM presupposes a fixed arena; GR makes geometry dynamical. Current framework answer: the arena and dynamical metric are one With under two phases — flattened within a horizontal step, live across closures.
 2. **Definiteness / measurement of geometry.** Superposed masses source superposed realizability-geometry, but a complete actual geometry cannot itself be superposed. The matter-sourced case is sealed at the decisive tier: BMV-positive is forced by proven non-exact holonomy, while the standard inference to actual spacetime superposition is denied.
-3. **Information / horizon — scoreboard.** `S = A/4`, area rather than volume, unitarity vs semiclassical horizons. Current framework answer: horizon as total self-closure, area as straddling-link count, coefficient split into `2π / 8π` with `2π` Registered-not-Sealed.
+3. **Information / horizon — scoreboard.** `S = A/4`, area rather than volume, unitarity vs semiclassical horizons. Horizon/area standing is P27-owned. The coefficient split is conditional algebra: `2π` retains its own P27 grade, while the `8π` source-coupling and strong-field Einstein premises remain Open under P22/P24.
 4. **Scale / constants — formerly values-side, now partially resolved.** Λ magnitude is no longer simply quarantined: scaling `Λ ∼ R_H⁻²` is Registered; coefficient `3` as spatial 2-plane closure budget is Conjectured-strong; present value `Λ = 3 Ω_Λ R_H⁻²` is Conjectured-strong; the cosmological-constant problem is dissolved as a wrong-units / wrong-cutoff artifact. The dynamical rate `w(z)` remains Open.
 
 ## Current result ledger
@@ -43,14 +43,14 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 | G1a graph-dimension forced to 3 by With-holds-open | Registered | Advances manifold recovery but does not seal smooth continuum. |
 | G1 criticality / gapless substrate / global frame-freedom | Registered | Native ingredients for continuum recovery. |
 | G1c smoothness / rotational invariance and exact local Lorentz | Smoothness/rotational invariance: Registered-not-Sealed via named universality import. Exact local Lorentz: Secured within the defended-posit ceiling; Registered-not-Sealed. | Do not state manifold recovery as sealed or turn the exactness ceiling into a manufactured proof task. |
-| Second-order field equation from one-step conditioning locality | Registered conditional on G1 | Replaces the old “pure Lovelock import” posture, but remains conditional on manifold/order recovery. |
-| Lovelock route | Registered as native rule-given math, not external doctrine | Use as rule-given tensor rigidity once the second-order/locality premises are admitted. |
+| Exact locality-to-second-order continuum theorem | Conjectured / Unregistered under P24 | One-step locality is a native candidate, but finite-spacing higher-derivative corrections require a scaling/order theorem beyond G1. |
+| Lovelock route | Secured conditionally as accepted mathematical rigidity | It is an external implication under explicit premises, not a construction of those premises or a native field equation. |
 | Native horizon: mass = self-closure; horizon = total self-closure | Registered | May be used for horizon shape and boundary-count arguments. |
 | Near-horizon Rindler form and native κ | Registered rule-given fragment | Local strong-field-solution-independent result. |
 | Area = straddling-link count | Registered shape | No Planck-area smuggle; `G` only converts native links to length units. |
-| `8π` Einstein coefficient | Registered-native | Comes from audited Lovelock + `4π` solid angle + Bianchi trace reversal. |
+| `8π` Einstein/source coefficient | Open under P22/P24 | Lovelock rigidity, the analytic `4 pi` factor, and Bianchi compatibility do not derive the physical source normalization or coupling. |
 | `2π` temperature period | Registered, not Sealed | Original carrier-vs-arena falsifier is resolved: 0.6 conserves definite `Σ|ψ|²`, which U(1) preserves and the boost does not. Remaining seal-gap: identify thermal/modular flow with distinction-conserving carrier flow. |
-| `1/4` coefficient profile-independence | Registered cancellation | Strong-field profile cancels out of the coefficient; remaining hinge is the `2π` thermal-flow identification plus strong-field validity of Einstein form. |
+| `1/4` coefficient cancellation | Conditional algebra; P27-owned standing | The cancellation does not establish its Open `8π` and strong-field Einstein premises. |
 | G5 superposition of geometry | Registered; matter-sourced case sealed at decisive tier | Permissive modal split is Registered; no-actual-geometric-superposition is Registered; BMV-positive is forced via proven non-exact holonomy while actual geometric superposition is denied. Vacuum/source-free geometric superposition remains open. |
 | Birth-order gauge / partial-order covariance | Registered for gauge status; Registered-strong in form | Use causal-set partial order and sum over birth-order; do not smuggle a preferred foliation. |
 | Cut-amplitude identity | One object, two features | `A/4` uses the phase period; BMV uses holonomy. The full amplitude is not constrained by the classical Bell-causality square; the square is on magnitudes `w`, while phases carry holonomy. |

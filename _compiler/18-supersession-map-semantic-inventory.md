@@ -68,15 +68,15 @@ at the grades established in the detailed probability lineage.
 
 ---
 
-## SUP-005 — The full gravity route is stronger than an external Lovelock import but remains unsealed
+## SUP-005 — Conditional tensor rigidity does not establish the P24 premises
 
-**Canonical formulation:** The current gravity and GR/QM lineage contains a native one-step-conditioning route to the second-order premise, conditional on the spatial-sector manifold debt. Lovelock supplies rigidity after those premises are admitted. The route is therefore not merely an external import, while full GR and quantum gravity remain unsealed.
+**Canonical formulation:** P24 accepts the Lovelock-style rigidity implication as conditional mathematics after every precise hypothesis is admitted. One-step conditioning locality does not by itself prove exact second-order continuum equations: the native locality/order theorem and complete framework premise map remain Conjectured/Unregistered, while tensor completeness, nonlinear realization, and coupling calibration remain Open.
 
 **Standing:** routing and scope control; local grades remain source-specific.
 
 **Scope:** the G1 manifold debt is spatial-sector-only and may not be inherited by unrelated internal quantitative claims.
 
-**Excluded revival:** describing the whole route as merely imported; describing full GR or quantum gravity as sealed.
+**Excluded revival:** promoting one-step locality to exact derivative order; treating the theorem conclusion as proof of its premises; deriving `8 pi G` from tensor rigidity, the analytic `4 pi` factor, or Bianchi; describing full GR or quantum gravity as Registered or sealed.
 
 ---
 
