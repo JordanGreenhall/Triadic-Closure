@@ -160,11 +160,11 @@ P24 does **not** Register the full Einstein equation as a framework-native physi
 
 **Missing:** a complete `3+1` metric response, nonlinear local evolution, source backreaction, well-posed solution rule, and weak-to-strong continuity; P22 graph/scalar normalization and `G`; P23 physical tensor-source semantics and conserved dynamics; and P24's nonzero source coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure.
 
-**False-completion risk:** a weak-field `g00` construction, a conditional theorem form, or later horizon reasoning can be read backward as proof of a full nonlinear equation and its coefficients.
+**False-completion risk:** a weak-field `g00` construction, theorem-family import, target form, or later horizon reasoning can be read backward as proof of a full nonlinear equation and its coefficients.
 
-**Dependencies and downstream claims affected:** depends on all P24-F1/F2 premises, P22's full metric and source normalization, and P23's conserved source dynamics; affects P25+ GR/QM, BMV/holonomy, horizons/entropy, quantitative gravitational coupling, and any claim of full-GR equivalence. P28 Lambda standing remains separately owned.
+**Dependencies and downstream claims affected:** depends on P24-F1/F2, P22's full metric and graph/scalar source normalization, P23's tensor-source map and conserved dynamics, and P24's nonzero equation coupling; affects P25+ GR/QM, BMV/holonomy, horizons/entropy, quantitative coupling, and every full-GR equivalence claim. P28 Lambda remains separately owned.
 
-**Next legitimate research action:** only after P24-F1/F2, construct one source-coupled nonlinear update and test its complete metric response without importing a conventional completion.
+**Next legitimate research action:** only after P24-F1/F2, construct and test one source-coupled nonlinear update.
 
 ## 6. Integration rule
 
