@@ -104,10 +104,10 @@ This replaces the original short inventory. Grades are honest and several are pa
 | **Native horizon**: mass = self-closure; horizon = total self-closure (`d→∞`, `dτ/dt→0`) | (3) | **Registered** |
 | **Near-horizon Rindler form + native κ** (local, strong-field-solution-independent) | (3) | **Registered** (rule-given fragment) |
 | **Area = straddling-link count** (closure de-registers interior; no Planck-area) | (3) | **Registered** (shape); G→length conversion quarantined |
-| **`8π`** Einstein/source coefficient | (3) | **Open under P22/P24**; tensor rigidity, `4 pi` Green-function normalization, and Bianchi compatibility do not fix the physical coupling |
+| **`8π`** Einstein/source coefficient | (3) | **Open across P22/P23/P24**: P22 graph/scalar normalization and `G`; P23 tensor-source semantics/conservation; P24 nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure |
 | **`2π`** (temperature period via carrier-conservation signature argument) | (3) | **Registered, not Sealed** — signature falsifier resolved (0.6 conserves the definite `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification |
 | **`1/4` coefficient profile-cancellation** (the kappa factors cancel after premises are admitted) | (3) | **Conditional algebra; P27-owned standing**; P24 leaves `8 pi` and strong-field validity Open |
-| **γ = 1** (PPN spatial/clock response) | strong-field | **Open under P22/P24**; the full spatial metric and source-coupled tensor equation are absent |
+| **γ = 1** (PPN spatial/clock response) | strong-field | **Open across P22/P23/P24**; the full spatial metric, physical tensor source, and source-coupled equation are absent |
 | **G5 / conflict (2)**: superposition lives in realizability, definiteness in actuality; actual geometric superposition forbidden by closure | (2) | modal split / permissive half **Registered** (3.3–3.4); no-actual-superposition **Registered** (2.6/2.7, one constitutive With-profile); geometry-rides-matter **Registered-strong** |
 | **Birth-order is gauge; only the partial order is physical; covariance falls out of realizability** | (2) | **Registered** (gauge status); covariance-in-form **Registered-strong** |
 | **Cut-amplitude**: horizon-cut phase and growth-cut phase are one object (no-foliation identifies spatial/temporal cuts) | (2),(3) | identity **Conjectured-strong**; classical skeleton = Rideout–Sorkin **Registered** |
@@ -190,7 +190,7 @@ network these scale as the boundary, not the volume. Area = straddling-link coun
 is the link, **no Planck-area**. `G` enters only the optional link→length conversion (values-side).
 
 **The coefficient `1/4`.**
-- `8π` (denominator): **Open under P22/P24.** The analytic `4 pi` Green-function factor is separate from the physical source coupling; Lovelock-style rigidity and the Bianchi identity do not fix `kappa=8 pi G`. F11's absent-script report remains documentary only.
+- `8π` (denominator): **Open across P22/P23/P24.** P22 retains graph/scalar normalization and physical `G`; P23 retains the physical tensor-source map, coefficient semantics, evolution, and conservation; P24 retains the nonzero equation coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. The analytic `4 pi` factor, theorem-family import, and Bianchi compatibility do not settle these debts. F11's absent-script report remains documentary only.
 - `2π` (numerator): **Conjectured-strong-native** via the signature argument (§7, 2π).
 - **Profile-cancellation algebra (conditional).** If the stated first-law and coefficient premises are admitted, `dS = dM/T = 2π·dM/κ`; the relation `dM = (κ/8π)dA`
   gives `dM/κ = dA/8π`; so `dS = dA/4` — **the κ's cancel**. `κ(M)` and `A(M)` (the strong-field

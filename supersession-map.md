@@ -88,7 +88,7 @@ Execution rule: use P23 for every stress-energy construction and grade. Do not c
 ### P24 full-field and tensor-rigidity standing
 
 - Earlier integrated pages: `12-gravity-full-gr-imports.md` and the GR/QM ledgers promoted one-step conditioning locality to a Registered-conditional second-order field equation and treated `8 pi` as native.
-- Current: [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) Secures the accepted Lovelock-style implication only under admitted hypotheses. The one-step locality/order theorem and complete framework premise map are Conjectured/Unregistered; the full equation is a selected/Conjectured conditional model; tensor completeness, nonlinear realization, `8 pi G`, and calibration remain Open.
+- Current: [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) accepts the named Lovelock-style family externally at general conditional scope and retains `H=aG+bg` as the target import route. The exact adopted schema and claim-specific applicability remain Conjectured/Open and Unregistered. The full equation is a selected/Conjectured conditional model; P22 graph/scalar normalization and `G`, P23 tensor-source semantics/conservation, P24 coupling/calibration/nonlinear expenditure, and P28 Lambda remain separated.
 
 Execution rule: use P24 for every full-field grade. Do not infer exact continuum derivative order from a nearest-neighbor rule, source conservation from Bianchi, a nonzero source coupling from tensor rigidity, `8 pi G` from the analytic `4 pi` Green-function factor, or strong-field validity from downstream horizon claims.
 

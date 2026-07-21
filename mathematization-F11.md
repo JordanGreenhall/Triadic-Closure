@@ -45,7 +45,7 @@ The full (not just weak-field) claim is `G_mu nu + Lambda g_mu nu = kappa T_mu n
 | (3) second-order in the metric | **Conjectured/Unregistered under P24.** One-step locality admits higher-derivative finite-spacing corrections; a scaling/order theorem is absent. |
 | (4) `nabla_mu T^{mu nu}=0` | **P23-conditional.** Scalar continuity or generic conservation language alone is insufficient; complete local balance equations and carrier calculus are required. |
 
-**P24 boundary:** the accepted Lovelock-style implication is conditional mathematics once all precise carrier/dimension, naturality/covariance, locality, derivative-order, symmetry, divergence, and source-coupling premises stand. Those premises do not currently stand as one framework construction. P23 supplies only its bounded source-side result and does not force the Einstein equation.
+**P24 boundary:** the corpus accepts a general Lovelock-style theorem family as external mathematics and retains `H=aG+bg` as the selected target route. It has not adopted one exact claim-specific schema or complete closed hypothesis list, so applicability to a framework tensor remains Conjectured/Open and Unregistered. `H=cT`, `a!=0`, P23 source conservation, and coupling calibration are separate model/source premises, not hypotheses supplied by the import.
 
 Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain with their numbered later owners. They are not consequences of P23 source kinematics.
 
@@ -56,7 +56,7 @@ Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain wit
 
 **P23 source standing:** symmetric second-moment algebra and the observer-relative energy/flux/spatial-stress split are Secured conditionally; sector vocabulary is Registered for an independently licensed physical source; the further three-office correspondence is selected/Conjectured and Unregistered as an exact theorem. One selected two-stream example populates all three tensor sectors. Native source weights/vectors, general stress population, coefficient meaning, and covariant conservation remain live P23 frontiers.
 
-**P24 standing:** the normalized Einstein-plus-metric form is a selected/Conjectured conditional model and Unregistered as a framework-native field equation. The accepted rigidity implication is Secured only under admitted hypotheses. The locality/order theorem, complete tensor premise map, tensor completeness, and strong-field/nonlinear regime remain unresolved. `G` remains Open at the inherited P22 boundary.
+**P24 standing:** the named rigidity family is accepted externally at general conditional scope; the exact P24 schema and claim-specific applicability remain Conjectured/Open and Unregistered. The normalized Einstein-plus-metric form is a selected/Conjectured conditional model and Unregistered as a native field equation. P22 retains graph/scalar normalization and physical `G`; P23 retains tensor-source semantics/evolution/conservation; P24 retains `kappa:=c/a` inside the selected model, the nonzero source coupling, `kappa=8 pi G`, calibration, and nonlinear expenditure.
 
 ## 5b. Retained P23 source proposal, corrected through canonical authority
 
@@ -84,7 +84,7 @@ The absent `t_structure.py`, `t_full.py`, and `t_converge.py` scripts and their 
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
 - **F10:** selected inverse-clock curvature model with retained geodesic/tidal reports. **Registered at bounded static `2+1` model scope**; source/clock uniqueness and common `3+1` implementation Open under P22.
-- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. P23 governs bounded source/decomposition mathematics and open dynamics. P24 Secures only the conditional rigidity implication; its full equation remains selected/Conjectured and Unregistered. Lambda is governed separately by P28 sources.
+- **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while retaining graph/scalar normalization and `G`. P23 governs bounded source/decomposition mathematics and open tensor-source dynamics. P24 accepts the general theorem-family import but leaves exact schema/applicability and the selected full equation Conjectured/Open and Unregistered. Lambda is governed separately by P28.
 
 **Bounded arc:** the retained sources connect a conditional local participation tilt to a selected static clock metric, reported geodesic/tidal checks, and a separate harmonic three-dimensional exterior. P22 records the exact open edges; P23/P24 govern the tensor and full-GR continuation.
 

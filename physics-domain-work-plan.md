@@ -96,11 +96,11 @@ Current status: P22 Registers a bounded selected static model with reported geod
 
 ### 5b. P24 conditional tensor rigidity and full-field boundary
 
-Current status: [P24](p24-full-einstein-form-as-conditional-rigidity.md) Secures the accepted Lovelock-style rigidity implication under admitted hypotheses. The full Einstein form is a selected/Conjectured conditional model and Unregistered as framework physics. The one-step locality/order theorem, complete premise map, full spatial tensor, conserved source coupling, nonlinear realization, and calibration remain live frontiers.
+Current status: [P24](p24-full-einstein-form-as-conditional-rigidity.md) accepts the general named Lovelock-style theorem family externally at general conditional scope and retains `H=aG+bg` as its positive target route. The exact adopted schema and claim-specific framework applicability remain Conjectured/Open and Unregistered. The full Einstein form is a selected/Conjectured conditional model and Unregistered as framework physics.
 
 - Prove a continuum derivative-order theorem rather than equating one-step locality with exact second order.
-- Exhibit the complete natural tensor and independently check every rigidity premise.
-- Keep P22 source normalization/`G`, P23 conservation, and P28 Lambda at their owners.
+- Under separate research authorization, select and record one exact schema before checking a framework tensor against it; compiler mode must not fill that debt externally.
+- Keep P22 graph/scalar normalization and `G`, P23 tensor-source semantics/evolution/conservation, P24 equation coupling/calibration/nonlinear expenditure, and P28 Lambda at their owners.
 - Do not let P25+ strong-field consumers upgrade the P24 equation on which they depend.
 
 ## Priority 2 — Important downstream frontiers
@@ -187,7 +187,7 @@ Current status: Open.
 5. P9: SU(3) bridge remains downstream of P8.
 6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open.
 7. P23 stress-energy: conditional source/decomposition mathematics normalized; office correspondence Conjectured/Unregistered; native weights, general stress dynamics, and conservation incomplete.
-8. P24 full field equation: conditional rigidity implication Secured as mathematics; framework premises, exact order theorem, tensor completeness, nonlinear realization, and coupling remain Conjectured/Open and Unregistered.
+8. P24 full field equation: general named theorem family accepted externally at conditional scope; exact schema/applicability, exact order theorem, tensor completeness, nonlinear realization, and coupling remain Conjectured/Open and Unregistered.
 9. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
 10. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
 11. Matter spectrum/generations: Open.

@@ -429,16 +429,18 @@ See [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-a
 
 ### 12.2 Conditional, Open, or values-side gravity content
 
-- **Lovelock-style rigidity:** **Secured conditionally as accepted mathematics** under every precise theorem hypothesis and a separately admitted source coupling.
-- **Full Einstein form as framework physics:** **Selected/Conjectured conditional model; Unregistered**; locality/order, complete premise map, nonzero coupling, and conserved source remain unresolved.
+- **General named Lovelock-style theorem family:** **Accepted external mathematics at general conditional scope**; `H=aG+bg` remains the positive target import route.
+- **Exact P24 theorem schema and framework applicability:** **Conjectured/Open and Unregistered**; the corpus records only a provisional hypothesis family, not a selected closed schema. `H=cT` and `a!=0` remain separate model premises.
+- **Full Einstein form as framework physics:** **Selected/Conjectured conditional model; Unregistered**; locality/order, exact schema, P22 graph/scalar normalization and `G`, P23 tensor-source semantics/conservation, and P24 nonzero coupling/calibration remain unresolved.
 - **Tensor completeness / full `3+1` beyond `g00`:** **Open**; asserted by analogy plus Lovelock, not derived component-wise.
 - **Strong-field / nonlinear self-coupled regime:** **Open / Conjectured**; untested.
-- **Exact `G` and Λ dynamics:** **Values-side / Open**. `G` remains values-side. Λ magnitude is no longer simply values-side: `Λ ∼ R_H^-2` Registered; native complete `Λ_complete = 3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; `w(z)`/dynamical rate Open.
+- **Coupling ownership:** P22 retains graph/scalar source normalization, physical `G`, and weak-field calibration input; P23 retains the tensor-source map, coefficient semantics, evolution, and conservation; P24 defines `kappa:=c/a` only inside the selected equation and retains the nonzero coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure. All physical coupling claims remain Conjectured/Open.
+- **Lambda:** P28 retains meaning, magnitude, and dynamics.
 
 ### 12.3 External theorem imports
 
 - **Alexandrov-Zeeman:** accepted named external theorem for the Lorentzian recognition step on a given carrier/manifold; it does not construct or recover that carrier.
-- **Lovelock:** accepted named external theorem for the conditional full-Einstein route, given the second-order premise.
+- **Lovelock:** accepted named external theorem family at general conditional scope. The exact P24 schema and its complete closed hypothesis list have not been selected or recorded.
 
 The imports are flagged, not smuggled. The failure condition is promoting weak-field success plus Lovelock into a sealed native full Einstein equation.
 
@@ -448,7 +450,7 @@ The locality-to-order theorem is the most promotable target. One-step conditioni
 
 ### 12.5 Integration rule
 
-Dependent pages may use P22 and P23 only at their bounded grades and may cite P24's rigidity implication only with every admitted hypothesis. They may not turn one-step locality into an exact second-order theorem, infer conservation from Bianchi or scalar continuity, derive `G`, or present the full Einstein equation as Registered framework physics. Nonlinear/strong-field results and tensor completeness remain Open.
+Dependent pages may use P22 and P23 only at their bounded grades and may cite the P24 theorem family only as a general conditional import route with unresolved claim-specific schema/applicability. They may not turn one-step locality into an exact second-order theorem, infer conservation from Bianchi or scalar continuity, collapse P22/P23/P24 coupling debts, derive `G` or `kappa=8 pi G`, or present the full Einstein equation as Registered framework physics. Nonlinear/strong-field results and tensor completeness remain Open.
 
 ---
 

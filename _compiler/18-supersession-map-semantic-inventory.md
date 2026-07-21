@@ -70,7 +70,7 @@ at the grades established in the detailed probability lineage.
 
 ## SUP-005 — Conditional tensor rigidity does not establish the P24 premises
 
-**Canonical formulation:** P24 accepts the Lovelock-style rigidity implication as conditional mathematics after every precise hypothesis is admitted. One-step conditioning locality does not by itself prove exact second-order continuum equations: the native locality/order theorem and complete framework premise map remain Conjectured/Unregistered, while tensor completeness, nonlinear realization, and coupling calibration remain Open.
+**Canonical formulation:** P24 accepts the named Lovelock-style theorem family as external mathematics at general conditional scope and retains `H=aG+bg` as the target route. The exact claim-specific schema and complete closed hypothesis list are not present, so exact applicability remains Conjectured/Open and Unregistered. One-step locality does not prove exact second-order continuum equations; tensor completeness, nonlinear realization, and coupling calibration remain Open.
 
 **Standing:** routing and scope control; local grades remain source-specific.
 

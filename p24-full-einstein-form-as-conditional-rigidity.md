@@ -17,19 +17,19 @@ sources:
 
 ## Standing summary
 
-P24 Secures one bounded mathematical implication: on an admitted four-dimensional metric carrier, a Lovelock-style rigidity theorem narrows a symmetric, divergence-free, natural local metric tensor satisfying the theorem's derivative-order hypotheses to a linear combination of the Einstein tensor and the metric. If a nonzero Einstein-tensor coefficient and a separately licensed linear source coupling are selected, coefficient normalization gives the displayed form
+At general conditional scope, the corpus accepts a named Lovelock-style tensor-rigidity family as established external mathematics. P24 retains the following positive target form for the selected import route:
 
 ```text
 G_{mu nu} + Lambda g_{mu nu} = kappa T_{mu nu}.
 ```
 
-That implication does not show that the framework supplies its premises. The corpus has no native proof that one-step conditioning locality yields an exact at-most-second-order continuum equation, no complete physical metric carrier or full spatial metric, no generally conserved P23 source, no source-to-geometry coefficient map, and no nonlinear/self-coupled construction. The displayed field equation is therefore a selected/Conjectured conditional model and is Unregistered as a framework-native full field equation. It is not a P22 weak-field theorem, a P23 source theorem, or a P28 Lambda derivation.
+The corpus has not yet selected and recorded one exact claim-specific theorem schema or its complete closed hypothesis list. Exact applicability of the imported theorem family to a framework tensor is therefore Conjectured/Open and Unregistered under P24-F2, not claim-specifically Secured. Separately selecting a nonzero Einstein-tensor coefficient and a linear source equation allows coefficient normalization inside a conditional model; those source-side selections are not theorem hypotheses. The resulting full equation is selected/Conjectured and Unregistered as a framework-native field equation. It is not a P22 weak-field theorem, a P23 source theorem, or a P28 Lambda derivation.
 
 ## Semantic boundary
 
 P24 includes:
 
-- the exact conditional role of the named Lovelock/tensor-rigidity import;
+- the general conditional role of the named Lovelock/tensor-rigidity import and the unresolved claim-specific schema;
 - the framework proposal that local one-step conditioning controls continuum derivative order;
 - the separation of discrete locality from an exact continuum order theorem;
 - the premise map needed before a full metric/source equation can be inferred;
@@ -47,19 +47,19 @@ P24 excludes:
 
 This page is the canonical P24 owner. [`12-gravity-full-gr-imports.md`](12-gravity-full-gr-imports.md) becomes its concise import-boundary shadow. [`mathematization-F11.md`](mathematization-F11.md) retains the corrected forcing proposal. [`mathematization-F8-F11.md`](mathematization-F8-F11.md) is supersession-sensitive development evidence whose old completion language cannot govern current standing. [`grqm-problem-locator.md`](grqm-problem-locator.md) and [`grqm-conflict-status.md`](grqm-conflict-status.md) are P25+ consumers and cannot upgrade P24.
 
-The named `f11_assemble.py` script is absent. No execution or output from it is claimed. The theorem schema and the finite-difference expansion below are independently reproducible mathematics, not a reconstruction of that absent program.
+The named `f11_assemble.py` script is absent. No execution or output from it is claimed. The finite-difference expansion and coefficient normalization below are independently reproducible mathematics, not a reconstruction of that absent program. The exact theorem schema is not reproduced here because the living corpus has not selected and recorded one.
 
 ## 1. The conditional rigidity implication
 
-Let `H_{mu nu}[g]` be a geometric tensor on an admitted four-dimensional metric carrier. A Lovelock-style rigidity implication requires the theorem's precise hypotheses, including the relevant naturality/diffeomorphism-covariance, locality, symmetry, divergence-free identity, and derivative-order or quasi-linearity conditions. Under those admitted hypotheses, the accepted named theorem gives
+The corpus accepts a general Lovelock-style rigidity family as external established mathematics and associates the selected import route with the target conditional form
 
 ```text
 H_{mu nu} = a G_{mu nu} + b g_{mu nu}.
 ```
 
-This is an external mathematical implication used transparently. It neither constructs the carrier nor proves that a framework object satisfies the hypotheses.
+The current corpus names only a provisional hypothesis family: an admitted four-dimensional metric carrier, suitable naturality/covariance, locality/order control, a symmetric rank-two geometric tensor, and a divergence-free identity. It has not selected and recorded one exact theorem schema or resolved alternative derivative-order/quasilinearity formulations. Those are explicit P24-F2 debts. The positive target form may be studied conditionally, but exact claim-specific applicability is not yet Secured or Registered.
 
-A source equation adds another premise. If one separately selects
+A source equation is a separate selected model premise, not part of the imported tensor-rigidity record. If one separately selects
 
 ```text
 H_{mu nu} = c T_{mu nu}
@@ -92,28 +92,31 @@ The claim that curvature is second-order also does not prove that the framework'
 
 ## 3. Premise ledger
 
-| Required element | Current standing | Consequence |
+| Required element | Epistemic standing | Semantic registration / consequence |
 |---|---|---|
-| Four-dimensional metric carrier and rule calculus | P7/G1-conditioned; incomplete | The theorem may be read on an admitted carrier but does not construct one. |
-| Natural/local symmetric geometric tensor | Conjectured as a framework map | P22's selected `g00` sector is not a complete tensor construction. |
-| Exact at-most-second-order or theorem-equivalent condition | Conjectured; Unregistered | One-step locality supplies a candidate route, not the continuum theorem. |
-| Divergence-free geometric identity | Secured for the admitted Einstein/Lovelock tensor | It is a property of the theorem conclusion, not proof of source dynamics. |
+| General named Lovelock-style theorem family | Accepted external mathematical import at general conditional scope | Registered only as a transparent import route; this does not Secure one exact P24 schema or its applicability. |
+| Exact P24 theorem schema and complete closed hypothesis list | Open | Unregistered; the corpus records only a provisional hypothesis family and unresolved formulation alternatives. |
+| Framework tensor satisfying an adopted exact schema | Conjectured/Open | Unregistered; P22's selected `g00` sector is not a complete tensor construction. |
+| Exact locality/order condition for the adopted schema | Conjectured | Unregistered; one-step locality supplies a candidate route, not a continuum theorem. |
 | Symmetric rank-two source | P23 Secures bounded algebra conditionally | Physical vectors, weights, coefficients, and general material scope remain open. |
 | Covariantly conserved source | Open as a general framework construction under P23 | Scalar continuity is insufficient. |
-| Linear source coupling with nonzero Einstein coefficient | Selected/Conjectured; Unregistered | Lovelock rigidity does not supply `H=cT` or `a!=0`. |
-| Lovelock-style four-dimensional rigidity implication | Secured conditionally as accepted mathematics | Gives `a G + b g` only when every hypothesis is admitted. |
+| Separate source equation `H=cT` and `a!=0` | Selected/Conjectured | Unregistered; these are model premises and are not hypotheses supplied by the imported theorem family. |
 | Full Einstein-form framework equation | Conjectured conditional model; Unregistered | It is not a completed native derivation. |
 | Full spatial metric and tensor completeness | Open; Unregistered | No component-wise `3+1` construction exists. |
 | Nonlinear/self-coupled and strong-field realization | Open; Unregistered | No full solution calculus or empirical equivalence is established. |
-| `kappa`, `G`, and source normalization | Open under P22 boundary | Coefficient notation is not calibration. |
+| Graph/scalar source normalization, physical `G`, weak-field calibration input | Open under P22 | P22 does not define the physical tensor source or the full equation coupling. |
+| Physical tensor-source map, vector/weight/coefficient semantics, source evolution and conservation | Conjectured/Open under P23 | P23 source debts cannot be moved into P24. |
+| `kappa:=c/a`, nonzero source-to-geometry coupling, `kappa=8 pi G`, coupling dimensions/calibration, nonlinear expenditure | Definition inside the selected equation; remaining claims Conjectured/Open under P24 | The algebraic definition does not Secure a physical coupling or calibration. |
 | Lambda meaning, magnitude, and dynamics | P28-owned | The allowed `b g` term does not settle P28. |
 
 ## 4. What is and is not Registered
 
-Registered use is limited to this semantic separation:
+Epistemic standing and semantic registration remain distinct:
 
-- the named tensor-rigidity theorem is an accepted conditional mathematical import;
-- if all premises are independently admitted, its normalized nondegenerate branch has Einstein-plus-metric form;
+- the named tensor-rigidity family is accepted external mathematics at general conditional scope;
+- the exact P24 theorem schema and claim-specific framework applicability are Conjectured/Open and Unregistered pending schema selection and the premise map;
+- the target `H=aG+bg` remains the positive conditional form associated with the selected route;
+- if the separate selected premises `H=cT` and `a!=0` are admitted, pure coefficient algebra gives the normalized Einstein-plus-metric model;
 - one-step conditioning locality is a framework-native candidate for an order-control theorem;
 - the unproved premise map and downstream field equation remain explicitly bounded.
 
@@ -125,6 +128,8 @@ P24 does **not** Register the full Einstein equation as a framework-native physi
 
 **Current standing:** one-step conditioning locality is Secured for the displayed local update scope; its promotion to an exact at-most-second-order continuum metric equation is Conjectured and Unregistered. The nearest-neighbor expansion Secures the negative result that locality alone does not imply exact derivative truncation.
 
+**Current strongest achieved result:** one-step locality is established only for the bounded update scope; the displayed nearest-neighbor expansion establishes that finite dependency locality alone does not imply exact derivative truncation, while allowing a second-order leading scaling limit.
+
 **Missing:** a selected local rule calculus, recovered carrier and scale map, continuum/scaling theorem, symmetry and cancellation hypotheses, correction bounds, and proof that the geometric output closes on the metric two-jet required by the rigidity theorem.
 
 **False-completion risk:** identifying nearest-neighbor dependence with an exact second-order continuum field equation can hide finite-spacing higher-derivative terms and an unproved scaling limit.
@@ -135,21 +140,25 @@ P24 does **not** Register the full Einstein equation as a framework-native physi
 
 ### P24-F2 — Complete tensor-rigidity premise map
 
-**Current standing:** the Lovelock-style implication is Secured conditionally as accepted mathematics; the claim that a framework tensor satisfies its complete naturality, covariance, symmetry, divergence, dimension, and derivative-order hypotheses is Conjectured and Unregistered. The source-side conservation premise remains Open under P23.
+**Current standing:** the general named Lovelock-style theorem family is accepted as external mathematics at general conditional scope. The exact P24 theorem schema, its complete closed hypothesis list, and claim-specific framework applicability are not yet Secured; they are Conjectured/Open and Unregistered. The source equation, `a!=0`, and P23 conservation are separate model/source premises, not theorem hypotheses.
 
-**Missing:** the full metric tensor, a natural geometric tensor construction, exact theorem hypotheses, P23 source evolution and covariant conservation, the linear source-coupling map, and proof of a nonzero Einstein-tensor coefficient.
+**Current strongest achieved result:** a Lovelock-style target rigidity form is retained as a generally accepted external import route and conditional model target; coefficient normalization follows once the separate selected source equation and nondegenerate coefficient are assumed, but the exact adopted schema and framework premise map are not present.
+
+**Missing:** selection and recording of one exact theorem schema and complete closed hypothesis list; resolution of alternative derivative-order/quasilinearity formulations; the full metric tensor; and a framework geometric tensor checked against that adopted schema. Separately missing under P23/P24 are source evolution/conservation, `H=cT`, and `a!=0`.
 
 **False-completion risk:** the theorem's conclusion can be mistaken for a derivation of its premises, or the Bianchi identity can be used circularly to manufacture source conservation.
 
-**Dependencies and downstream claims affected:** depends on P7/G1 carrier/covariance, P22 tensor completion, P23 physical source and conservation, and the P24 order theorem; affects the full Einstein-form claim, `8 pi G` expenditures, P25+ tensor reasoning, and every strong-field consumer.
+**Dependencies and downstream claims affected:** claim-specific theorem applicability depends on P7/G1 carrier/covariance, P22 tensor completion, and the P24 order theorem; the separate source equation depends on P23's physical tensor-source map and conservation plus P24's nonzero coupling premise. These debts affect the full Einstein-form claim, `8 pi G` expenditures, P25+ tensor reasoning, and every strong-field consumer.
 
-**Next legitimate research action:** exhibit one framework geometric tensor and source map, then check every named rigidity hypothesis without using the desired conclusion.
+**Next legitimate research action:** first select and record one exact schema under separate research authorization, then check one framework tensor against it without importing the conclusion.
 
 ### P24-F3 — Tensor-complete nonlinear realization and coupling
 
 **Current standing:** the normalized Einstein-plus-metric equation is a selected/Conjectured conditional model and Unregistered as a framework-native full field equation. Full spatial-metric population, nonlinear self-coupling, strong-field validity, and coupling calibration are Open and Unregistered.
 
-**Missing:** a complete `3+1` metric response, nonlinear local evolution, source backreaction, well-posed solution rule, weak-to-strong continuity, source normalization, `kappa`/`G` calibration, and independently checkable calculations.
+**Current strongest achieved result:** in the selected nondegenerate model, pure algebra gives `Lambda=b/a` and `kappa=c/a`; no tensor completeness, physical coefficient, nonlinear dynamics, or strong-field result follows.
+
+**Missing:** a complete `3+1` metric response, nonlinear local evolution, source backreaction, well-posed solution rule, and weak-to-strong continuity; P22 graph/scalar normalization and `G`; P23 physical tensor-source semantics and conserved dynamics; and P24's nonzero source coupling, `kappa=8 pi G`, dimensions/calibration, and nonlinear expenditure.
 
 **False-completion risk:** a weak-field `g00` construction, a conditional theorem form, or later horizon reasoning can be read backward as proof of a full nonlinear equation and its coefficients.
 
@@ -159,7 +168,7 @@ P24 does **not** Register the full Einstein equation as a framework-native physi
 
 ## 6. Integration rule
 
-Dependent pages may cite the accepted conditional tensor-rigidity implication and may study the displayed equation as a selected model. They must state that the framework premise map, exact derivative-order theorem, source conservation, tensor completeness, nonlinear realization, and coupling calibration remain unproved at their owning frontiers.
+Dependent pages may cite the accepted general theorem-family import and may study `H=aG+bg` and the displayed source equation as selected conditional targets. They must state that the exact theorem schema and framework premise map, derivative-order theorem, P23 source conservation, P24 equation coupling/calibration, tensor completeness, and nonlinear realization remain unresolved at their owning frontiers.
 
 They may not:
 
