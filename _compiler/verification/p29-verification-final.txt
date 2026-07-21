@@ -1,0 +1,73 @@
+P29 FINAL VERIFICATION EVIDENCE
+Date: 2026-07-21
+Exact base: e017d0876126a3f44d9e16dfe28bca4994b8dd6f
+Verified semantic content head: ceb721fdbd7b1d98ffd119d36d8d699208079eac
+Verified fresh-reader evidence head: e3158da4e72237b3cbb7a1b6ea40fefb2ac4b63e
+
+SCOPE
+- Canonical owner: p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md
+- Positive result: authority-bounded quarantine adjudication only.
+- Physical standing: exact electroweak module/breaking, Higgs/Yukawa construction, generation count, and complete/numerical spectrum Open and Unregistered.
+- Candidate D5 mass-Casimir route: Unexecuted and Unregistered.
+- P29-F1/F2/F3 installed locally and globally with all required fields.
+- P8-P28 canonical owners byte-unchanged from exact base.
+
+P29 VERIFIER
+Command:
+  python3 _compiler/verify_p29.py --base e017d0876126a3f44d9e16dfe28bca4994b8dd6f
+Expected exact stdout after this record is staged:
+  P29 verification: PASS (base e017d0876126a3f44d9e16dfe28bca4994b8dd6f; 25 changed files; 20 changed Markdown files; 447 Markdown links scanned)
+Expected stdout bytes including trailing newline: 144
+Expected stdout SHA-256: 22a0d7eb5d20264ee79392ae76e2b85d1747d1e925eb2178eb9e5e665cd0400e
+
+EXACT COUNTERMODELS
+Command:
+  python3 _compiler/verify_p29_algebra.py
+Committed record:
+  _compiler/verification/p29-exact-countermodels.txt
+Bytes including trailing newline: 804
+SHA-256: 1ba5ed8a2cd77262a11f78c57f7057a829ccd80abb1f0df7bd9efce804631cb3
+Rerun comparison: byte-identical PASS
+
+STALE-STATE REJECTION
+- eleven exact in-memory mutation classes rejected with exit 1;
+- module, Higgs/Yukawa, generation, spectrum, and primitive-triad overclaims rejected;
+- all three local frontier deletions rejected;
+- mature-status and concept-ledger overgrades rejected;
+- shadow canonical-route deletion rejected;
+- exact outputs retained in p29-failure-simulations.txt.
+
+FRESH READER
+- ten-question owner-first extraction: PASS;
+- quarantine-only positive result recovered without prior chat;
+- empirical, historical, candidate-route, no-import, and unit boundaries recovered;
+- each frontier has exact two-file corpus placement and seven required fields.
+
+SOURCE / MUTATOR AUDIT
+- no non-Markdown live source references canonical P29 owner except verify_p29.py;
+- no generator, importer, restoration path, embedded payload, or workflow can rewrite the owner;
+- process shadow retained for unique loop-contract/provenance content;
+- no source passed the existence test for deletion.
+
+CUMULATIVE VERIFICATION
+Detached clean persistent heads:
+- P28 9cd605938b50a493124aece52a78afd401838e60: PASS
+- P27 a55f43f6a426f8c4a99a8fccec9ba3be28b60bc6: PASS
+- P26 2b3f1441ef1719cfd9d74d3e098695a9aa675339: PASS
+- P25 6a30e05c5323d0d0136e52aca3ec1f60e445111d: PASS
+- P24 d5b0cb0d6270ef25d7baeeb493e8ae9d5ff99cff: PASS
+- P23 f305c3db4efd7e806c0050c0b8047b73c76b3084: PASS
+- P20 a276beca4c1faa6484152e7bd056409ceed358f8: PASS
+
+REPOSITORY CHECKS
+- tracked Markdown after fresh-reader evidence: 196 files
+- repository Markdown links: 890
+- broken links: 0
+- compiled Python verifier files: 14
+- exact-base diff check: PASS
+- prior canonical-owner diff count: 0
+- P29 frontier living placement: PASS
+- clean semantic and evidence commits: PASS
+
+FIXED POINT
+The semantic content head and fresh-reader evidence head agree. This final record adds no corpus semantics and changes no verifier machinery. A repeated clean run must reproduce the exact P29 stdout and exact countermodel bytes above.
