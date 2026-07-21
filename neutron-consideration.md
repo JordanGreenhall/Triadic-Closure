@@ -113,6 +113,8 @@ proton carries more outward charge. The correct reading inverts this — the out
 
 ## 3. Decay as the inverse closure (This → With)
 
+> **Historical/adversarial section.** The assertions below are retained to expose the earlier route, not as current doctrine. P21 grades the literal inverse and `udd -> uud` passage Conjectured; electron production Open internally; antineutrino receipt Conjectured; kinetic release Conjectured structurally and empirical quantitatively; and the one-directional drain, zero return, accumulation, rate, and forced-product claims Open or superseded. Former Registered labels in this section do not govern.
+
 The companion result [with-to-this-closure](with-to-this-closure.md) derives the forward direction: a With (relata
 held apart) flows up the realizability gradient and closes into a This (a gathered standing).
 Neutron decay is the **inverse**: a This (the neutron, one closure) partially **re-opens into

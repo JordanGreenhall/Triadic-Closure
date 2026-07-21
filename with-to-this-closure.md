@@ -26,7 +26,7 @@ historical_sources:
 
 # P21 With-to-This Closure and Decay Boundary
 
-How a previously-standing With is closed over by a new This. The result addresses, within one tested baryon model, why a complete-closure configuration is selected rather than merely available, why the result is category-level, and why the modeled closure first appears at the closure-form's arity.
+This page governs both a displayed forward closure and the boundary on reading decay as its inverse. Within one tested baryon model, the forward result explains why a complete-closure configuration is selected rather than merely available, why the result is category-level, and why the modeled closure first appears at the closure-form's arity. The decay analysis then separates the Registered generic classifier from the Conjectured inverse passage and unregistered beta particulars.
 
 Walk order is not epistemic authority. Although this mechanism is articulated after the generic P6 phase-form, its exhibited invariant and return dynamics are directly applicable to P6. It supplies a scoped, conditional physical persistence and stability witness.
 
@@ -298,7 +298,13 @@ The standalone `6 pi^5` is the exact With-This color-seating factor within the r
 ## Source links
 
 - [P6 Persistence, Stability, and the Decay Boundary](d6-persistence.md)
+- [P12 Spin, Helicity, Handedness, and Chiral Coupling](p12-spin-helicity-handedness-and-chiral-coupling.md)
+- [P15 Charge, Hypercharge, Valence, and Center-Locking](p15-charge-hypercharge-valence-and-center-locking.md)
+- [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md)
 - [Realizability Weighting Law](realizability-weighting-law.md)
+- [Amplitude / Readout Theorem](amplitude-readout-theorem.md)
+- [Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md)
+- [Item 11 Decay-Product Boundary](11-decay-product-registration.md)
 - [Mass as Self-Closure](mass-as-self-closure.md)
 - [Gauge Structure Result](gauge-structure-result.md)
 - [Quark-Lepton Split](quark-lepton-split.md)

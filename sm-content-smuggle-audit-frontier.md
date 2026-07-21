@@ -237,8 +237,8 @@ decompositions as external comparison until From-With numbering is native.
 **Current support:** Item 11 passes by bounded registration plus quarantine. P21
 Registers loss or reconfiguration of a prior invariant through admitted escape;
 a coherence barrier is included only when exhibited. Charge, energy, weighting,
-and chiral criteria retain their inherited scoped grades. Electron-as-product, missing-energy observation,
-antineutrino identity, spectra, rates, and weak mechanism are empirical/Open or
+and chiral criteria retain their inherited scoped grades. Electron production is Open internally,
+the antineutrino receipt is Conjectured, observations and spectra are empirical, and rates and weak mechanism are Open or
 quarantined.
 
 **Smuggle risk:** using neutrino, antineutrino, sterile right-handed neutrino,
@@ -251,9 +251,8 @@ mechanisms do not carry proof load.
 module, frequency/rate language.
 
 **Cleanup work:** use [P21 With-to-This Closure and Decay](with-to-this-closure.md) as control. Decay-as-
-escape, charge/energy balance, and relative channel propensity may be native; all
-product identities, spectra, rates, antineutrino roles, W mechanism, and old two-
-circle receipt / n-p splitting packages remain empirical/Open/quarantined.
+escape and charge/energy/chiral admissibility criteria may be used at their owning grades; relative channel propensity requires the amplitude/readout conditions. Product identities, spectra, rates, antineutrino roles, W mechanism, and old two-
+circle receipt / n-p splitting packages retain P21's Conjectured/Open/empirical/quarantined grades.
 
 ### 12. Gravity full-GR imports
 
