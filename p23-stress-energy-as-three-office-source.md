@@ -13,6 +13,8 @@ sources:
   - claim-status-vocabulary.md
   - propagation-and-invariant-velocity.md
   - p7-manifold-recovery-and-local-continuum.md
+  - dimension-and-spacetime-status.md
+  - p17-mass-as-closure-maintenance.md
 ---
 
 # P23 — Stress-Energy as a Three-Office Source
@@ -25,7 +27,7 @@ P23 Secures two pieces of conditional mathematics and adjudicates a bounded cand
 T^{mu nu} = Sum_a w_a V_a^mu V_a^nu
 ```
 
-is symmetric. Relative to the selected unit timelike observer, any symmetric rank-two source has three tensor sectors: observer-scalar energy, mixed spatial flux, and pure spatial stress. For a source already licensed as physical stress-energy, that decomposition and its sector vocabulary are Registered at kinematic scope. The further This/From/With alignment is a selected **Conjectured** representational proposal, not a one-to-one theorem: P4 supplies From-time and With-space index kinds, while P17 reads energy through a This–From relation rather than equating energy with This alone.
+is symmetric. Relative to the selected unit timelike observer, any symmetric rank-two source has three tensor sectors: one observer scalar, one mixed spatial vector, and one pure spatial tensor. For a source already licensed as physical stress-energy, those sectors carry the familiar energy-density, flux/momentum-density, and spatial-stress names, Registered at kinematic scope. The further This/From/With alignment is a selected **Conjectured** representational proposal, not a one-to-one theorem: P4 supplies From-time and With-space index kinds, while P17 reads energy through a This–From relation rather than equating energy with This alone.
 
 P23 does **not** establish that every conditioning network supplies the required real weights and tangent vectors, that scalar continuity alone implies tensor conservation, that one effective velocity represents a general multi-stream source, that the network dynamically realizes every spatial-stress component, or that P23's source is already the normalized scalar source of P22. It supplies no Einstein equation, `G`, full metric, nonlinear dynamics, or Lambda result.
 
@@ -49,7 +51,7 @@ Quarantined surplus includes:
 
 ## Authority and lineage
 
-This page is the canonical P23 owner. `stress-energy-three-offices.md` is its concise result shadow. `mathematization-F11.md` retains the detailed source proposal and absent-script reports; its full-Einstein/Lovelock continuation is P24 material. `mathematization-F8-F11.md` is earlier supersession-sensitive development evidence. P22 continues to own the weak-field participation-curvature model, its scalar source-normalization gap, and `G`. P24 owns field-equation and full-GR completion.
+This page is the canonical P23 owner. `stress-energy-three-offices.md` is its concise result shadow. `mathematization-F11.md` retains the detailed source proposal and absent-script reports; its full-Einstein/Lovelock continuation is P24 material. `mathematization-F8-F11.md` is earlier supersession-sensitive development evidence. P4 supplies the temporal/spatial index kinds, and P17 controls the corpus's mass/energy distinction. P22 continues to own the weak-field participation-curvature model, its scalar source-normalization gap, and `G`. P24 owns field-equation and full-GR completion.
 
 The named `t_structure.py`, `t_full.py`, and `t_converge.py` scripts are absent. Their alleged executions and convergence values are documentary reports only. The exact algebra below is reproduced independently and does not depend on those reports.
 
@@ -109,7 +111,7 @@ T^{mu nu} = rho u^mu u^nu
           + S^{mu nu},
 ```
 
-with `q^mu u_mu=0` and `S^{mu nu}u_nu=0`. This is theorem-Secured decomposition mathematics on the stated carrier and observer split. It is observer-relative, not three observer-free scalar invariants. Component counting remains `1 + 3 + 6 = 10`; “three sectors” must not be misread as three tensor components.
+with `q^mu u_mu=0` and `S^{mu nu}u_nu=0`. This is theorem-Secured decomposition mathematics on the stated carrier and observer split. It is observer-relative, not three observer-free scalar invariants. Component counting remains `1 + 3 + 6 = 10`; “three sectors” must not be misread as three tensor components. Calling those sectors energy density, momentum/energy flux, and stress additionally presupposes that `T` has independently earned the physical stress-energy interpretation.
 
 The selected candidate office reading is:
 
@@ -138,7 +140,7 @@ T^{0n} = w_+ - w_-,
 T^{nn} = w_+ + w_-.
 ```
 
-If `w_+ != w_-`, the energy, flux, and spatial-stress sectors are all nonzero. If `w_+=w_-`, net flux cancels while energy and a nonzero relational stress remain. This exact two-stream calculation closes the claim that a nonzero **spatial-stress tensor sector** is merely algebraically available: within the selected multi-stream construction, it is concretely populated. It does not by itself close a With-office derivation, because the office correspondence and native source dynamics remain unconstructed.
+If `w_+ != w_-`, the observer scalar, mixed flux, and spatial-tensor sectors are all nonzero. If `w_+=w_-`, net flux cancels while the observer scalar and a nonzero spatial stress remain. This exact two-stream calculation closes the claim that a nonzero **spatial-stress tensor sector** is merely algebraically available: within the selected multi-stream construction, it is concretely populated. It does not by itself license the physical sector names or close a With-office derivation, because the physical source map, office correspondence, and native dynamics remain unconstructed.
 
 The result is conditional. P23 does not thereby prove that the corpus's actual conditioning dynamics admits these vectors and weights, selects them generically, supplies transverse stresses, or realizes every symmetric spatial tensor. The population of an arbitrary `S^{mu nu}` and the framework meaning of its coefficients remain open.
 

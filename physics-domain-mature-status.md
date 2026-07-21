@@ -28,6 +28,7 @@ sources:
   - p20-baryon-closure-and-proton-neutron-relation.md
   - with-to-this-closure.md
   - p22-weak-field-gravity-as-participation-curvature.md
+  - p23-stress-energy-as-three-office-source.md
   - architectonic-rigor-complete.md
   - domain-entry-method.md
 ---

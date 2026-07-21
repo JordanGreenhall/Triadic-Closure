@@ -20,7 +20,7 @@ This is the concise result shadow for [P23 Stress-Energy as a Three-Office Sourc
 
 Status: symmetric-source and observer-decomposition mathematics **Secured conditionally**; stress-energy sector names **Registered representationally for an independently licensed physical source**; exact This/From/With correspondence **Conjectured / Unregistered**.
 
-Given a licensed Lorentzian tangent carrier, selected observer, real source weights, and oriented vectors, `T^{mu nu}=Sum_a w_a V_a^mu V_a^nu` is symmetric. Every such symmetric source splits observer-relatively into one energy scalar, one spatial flux vector, and one spatial stress tensor. The three sectors contain `1+3+6=10` components; they are not three observer-free scalars.
+Given a licensed Lorentzian tangent carrier, selected observer, real source weights, and oriented vectors, `T^{mu nu}=Sum_a w_a V_a^mu V_a^nu` is symmetric. Every such symmetric source splits observer-relatively into one scalar, one mixed spatial vector, and one spatial tensor. Only an independently licensed physical stress-energy source earns the corresponding energy-density, flux/momentum-density, and stress names. The sectors contain `1+3+6=10` components; they are not three observer-free scalars.
 
 ## Claimed decomposition
 
@@ -32,7 +32,7 @@ The office table is a selected proposal, not a constructed theorem. P4 directly 
 
 ## Caution
 
-The inherited name `stress-energy` is licensed only for the displayed kinematic source/decomposition core. P23 does not derive arbitrary matter sources, weights, equations of state, energy conditions, source normalization, `G`, Einstein's equation, full GR, or Lambda dynamics.
+The inherited name `stress-energy` is licensed at the displayed kinematic decomposition scope only for an input independently established as a physical source. The framework second moment remains a stress-energy-type **candidate** pending its native source map and coefficient semantics. P23 does not derive arbitrary matter sources, weights, equations of state, energy conditions, source normalization, `G`, Einstein's equation, full GR, or Lambda dynamics.
 
 ## Open gates
 

@@ -70,12 +70,12 @@ This tensor is symmetric by exact outer-product algebra. A general multi-stream 
 
 - **Symmetry:** theorem-Secured given the displayed inputs.
 - **Components:** relative to a selected observer, every symmetric source decomposes into energy scalar, spatial flux, and spatial stress. P23 Registers those sector names for an independently licensed physical source, but keeps the further This/From/With correspondence selected/Conjectured and Unregistered as an exact office theorem.
-- **Population:** an exact selected two-stream example gives nonzero energy, flux, and relational stress; this does not prove generic network dynamics.
+- **Population:** an exact selected two-stream example gives nonzero observer-scalar, mixed-vector, and spatial-tensor sectors; physical source naming and generic network dynamics remain unproved.
 - **Conservation:** `partial_mu T^{mu nu}` contains both continuity and vector-transport terms. Scalar continuity alone is insufficient when `V_a` varies. Complete local balance equations are required.
 
 The absent `t_structure.py`, `t_full.py`, and `t_converge.py` scripts and their convergence figures are documentary source claims only. They were not rerun and do not Secure a continuum conservation law.
 
-**What this fixes, and what it does not.** P23 supplies a bounded source-tensor construction and semantic registration, not the full source dynamics. It does not close P22's scalar source normalization, derive `G`, provide every P24 premise, or adjudicate P28 Lambda claims.
+**What this fixes, and what it does not.** P23 supplies a bounded source-tensor construction and conditional decomposition registration, not a native physical stress-energy identification or full source dynamics. It does not close P22's scalar source normalization, derive `G`, provide every P24 premise, or adjudicate P28 Lambda claims.
 
 ## 6. The gravity program, end to end
 
