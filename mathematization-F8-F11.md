@@ -1,3 +1,5 @@
+> **P22/P23/P24 authority guard.** This is supersession-sensitive development evidence. [P22](p22-weak-field-gravity-as-participation-curvature.md) governs weak-field gravity; [P23](p23-stress-energy-as-three-office-source.md) governs the source tensor, conservation conditions, and three-office correspondence; P24 owns the full field-equation/Lovelock route. In particular, generic conservation language does not by itself prove `nabla_mu T^{mu nu}=0`, and this source cannot upgrade any numbered owner.
+>
 > **Historical F3 terminology note:** this superseded synthesis uses `depth` for horizontal address-length. Read those occurrences as **succession count**. Current canon reserves depth for vertical coinductive office-decomposition.
 
 # Mathematizing the Curved Substrate: F8–F11 (the gravity tilt, curvature, and the forced Einstein form)

@@ -1,4 +1,4 @@
-> **P22/P23/P24 scope guard.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs the weak-field use below. The named scripts are absent and were not rerun. P22 Registers the harmonic exterior and scalar Poisson **form conditionally**; the graph-source-to-physical-source map, normalization, and `G` remain Open. Stress-energy belongs to P23 and the full Einstein/Lovelock route to P24.
+> **P22/P23/P24 scope guard.** [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) governs the weak-field use below. [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) governs the source-tensor construction, office correspondence, conservation conditions, and frontiers. The named scripts are absent and were not rerun. P22 Registers the harmonic exterior and scalar Poisson **form conditionally**; the graph-source-to-physical-source map, normalization, and `G` remain Open. The full Einstein/Lovelock route belongs to P24.
 
 # F11: Retained Weak-Field and Full-Tensor Development Source
 
@@ -34,51 +34,48 @@ Thus `Phi` is harmonic away from the source. If `rho=M delta^3(r)` and `G M:=A/d
 
 Thus the conditional continuum Green-function construction supplies the **Poisson form** `nabla^2 Phi=4 pi G rho` after a scalar source and conversion are defined. The harmonic `1/r` exterior is conditional analytic mathematics; the absent-script value is documentary evidence only. The physical mass/source map and `G` are not derived by defining `G M:=A/d_0`.
 
-## 4. Retained P23/P24 proposal — full tensor forcing argument
+## 4. Retained P24 proposal — full tensor forcing argument
 
-The full (not just weak-field) claim is G_μν + Λg_μν = κT_μν. This is reached by Lovelock's theorem, but now standing on F10's *demonstrated* curvature rather than an assumed one. **[checked] (`f11_assemble.py`)** the four premises:
+The full (not just weak-field) claim is `G_mu nu + Lambda g_mu nu = kappa T_mu nu`. That P24 proposal invokes Lovelock-style rigidity under additional premises. It is not a P23 result, and the absent `f11_assemble.py` script was not rerun.
 
 | Premise | Status |
 |---|---|
-| (1) source is a symmetric rank-2 tensor T_μν | **[argued, not computed]** — the conserved conditioning-current J_μ is clear; that its flux is exactly the GR stress-energy tensor needs the tensor structure *derived*. **The one real gap.** |
+| (1) source is a symmetric rank-2 tensor `T_mu nu` | **P23-bounded.** The weighted second moment is symmetric and admits the observer-relative three-sector split under P23's stated inputs; native weights/vectors and general dynamics remain open. |
 | (2) locality | **[shown]** — the field is the graph-Laplacian Green's function, nearest-neighbor. |
-| (3) second-order in the metric | **[shown, F10]** — curvature = the tidal tensor = second derivatives of the metric. |
-| (4) ∇·T = 0 (conservation) | **[framework]** — conservation of registered distinctions (0.6). |
+| (3) second-order in the metric | **P24-owned.** P22's bounded clock-sector evidence does not prove a full nonlinear second-order tensor equation. |
+| (4) `nabla_mu T^{mu nu}=0` | **P23-conditional.** Scalar continuity or generic conservation language alone is insufficient; complete local balance equations and carrier calculus are required. |
 
-**Lovelock's theorem (4D):** the only symmetric, divergence-free 2-tensor built locally from the metric and its first two derivatives is aG_μν + bg_μν. Given premises (1)–(4), the curvature–source relation is therefore forced to **G_μν + Λg_μν = κT_μν** — the Einstein equation with cosmological term.
+**P24 boundary:** a Lovelock-style implication may be assessed once all of its precise manifold, locality, derivative-order, symmetry, and conservation premises stand. P23 supplies only its bounded source-side result and does not force the Einstein equation.
 
-**The particulars, as predicted:**
-- **c = 1** — the unit (F4), not a parameter; the equation is natively in c = 1 form.
-- **κ = 8πG** — the **one free particular**: the conditioning-degree-to-curvature conversion, a property of N's specific coupling, not fixed by the form.
-- **Λ** — the additive freedom Lovelock leaves open is *not forbidden*; a nonzero Λ is allowed, matching the observed cosmological constant. (Its value is not fixed here.)
+Claims about `c`, `kappa=8 pi G`, Lambda, and the full field equation remain with their numbered later owners. They are not consequences of P23 source kinematics.
 
 ## 5. Honest status of F11
 
 **Retained report and separately Registered conditional mathematics under P22:**
 - This source separately reports a `41^3` graph-source fit (`R²=0.997`, control `0.938`); its relation to the underspecified `0.9993` report is unknown. The report is documentary evidence only. Conditional analytic `1/r` mathematics supplies the harmonic exterior and scalar Poisson form once the source map and normalization are supplied. P22 keeps the physical mass-source identification and source normalization Open.
 
-**Forced, on demonstrated curvature (Lovelock), with one real gap:**
-- G_μν + Λg_μν = 8πG·T_μν, given four premises — three shown/framework (locality, second-order, conservation), the fourth (the source is exactly a symmetric rank-2 stress-energy with the right tensor structure) **argued, not computed**. This is the one remaining real computation for the full tensor equation.
+**P23 source standing:** symmetric second-moment algebra and the observer-relative energy/flux/spatial-stress split are Secured conditionally; the bounded three-office correspondence is Registered; one selected two-stream example populates all three sectors. Native source weights/vectors, general stress population, coefficient meaning, and covariant conservation remain live P23 frontiers.
 
-**Untested:** the strong-field/nonlinear regime (only weak-field computed); G computed from N's coupling (identified structurally only).
+**P24 boundary:** the field-equation form, second-order premise, tensor completeness, and strong-field/nonlinear regime are not settled here. `G` remains Open/values-side at the inherited boundary.
 
-## 5b. Premise (1) closed: the stress-energy tensor structure DERIVED (not assumed)
+## 5b. Retained P23 source proposal, corrected through canonical authority
 
-The earlier version flagged premise (1) — that the conditioning-source is a symmetric, conserved, rank-2 stress-energy tensor — as "argued, not computed," and noted it was the framework-discriminating step (a Lovelock argument "derives" Einstein from *any* substrate supplying a GR-shaped source; the framework must actually *produce* that source). This is now derived.
+The retained source proposed a weighted second moment of oriented conditioning vectors. P23 preserves the exact algebra while correcting its scope and evidence standing.
 
-**The construction (`t_structure.py`, `t_full.py`, `t_converge.py`).** A conditioning is **oriented** (From, one-way), so it carries a spacetime worldline-tangent V^μ = (1, n_k): one succession step (time) and a spatial step n_k. Transporting this oriented quantity — the flux of the conditioning's own orientation — gives the source
+**The proposed construction.** Given a licensed tangent carrier, admitted oriented vectors `V_a^mu`, and real source weights `w_a`, define
 
-> T^{μν}(x) = Σ_k a_k V_k^μ V_k^ν = ρ V^μ V^ν,
+> `T^{mu nu}(x) = Sum_a w_a V_a^mu V_a^nu`.
 
-with a_k the amplitude on edge k, ρ = Σ_k a_k. This is forced to have exactly the stress-energy structure:
+This tensor is symmetric by exact outer-product algebra. A general multi-stream sum is **not** equal to one rank-one `rho V^mu V^nu` tensor unless the second moment is rank one or additional closure conditions hold. The retained word `amplitude` does not supply a real stress-energy weight; that map remains open.
 
-- **[checked] Symmetric — automatically.** T^{μν} = ρ V^μ V^ν is an outer product of the orientation with itself, so T^{μν} = T^{νμ} by construction, for *any* edge configuration (including shear, verified with diagonal edges). The symmetry of the stress-energy tensor — elsewhere a postulate or a consequence of angular-momentum conservation — here follows from From-orientation + transport. Not assumed.
-- **[checked] Correct components.** T^{00} = ρ (energy density = total conditioning rate); T^{0i} = ρu^i (momentum density / energy flux); T^{ij} = ρu^i u^j (momentum flux / stress). Exactly the kinetic stress-energy of a flow, read off the conditioning structure, not borrowed.
-- **[checked] Conserved — from 0.6.** ∂_μ T^{μν} = 0 holds whenever the conditioning-flow satisfies continuity ∂_t ρ + ∇·(ρu) = 0, which *is* conservation of registered distinctions (0.6). Verified on an advected flow; the residual is discretization, confirmed by **second-order convergence** (error ∝ 1/L²: L=30 → 9.6×10⁻³, L=120 → 5.9×10⁻⁴), so the continuum conservation is exact.
+- **Symmetry:** theorem-Secured given the displayed inputs.
+- **Components:** relative to a selected observer, every symmetric source decomposes into energy scalar, spatial flux, and spatial stress. P23 Registers the This/From/With correspondence at this bounded representational reach.
+- **Population:** an exact selected two-stream example gives nonzero energy, flux, and relational stress; this does not prove generic network dynamics.
+- **Conservation:** `partial_mu T^{mu nu}` contains both continuity and vector-transport terms. Scalar continuity alone is insufficient when `V_a` varies. Complete local balance equations are required.
 
-So the framework **produces** a symmetric, conserved, rank-2 source with the right components — premise (1) is met by the framework, not assumed. The symmetry comes from From-orientation, the conservation from 0.6: both genuinely framework, not imported from GR.
+The absent `t_structure.py`, `t_full.py`, and `t_converge.py` scripts and their convergence figures are documentary source claims only. They were not rerun and do not Secure a continuum conservation law.
 
-**What this fixes, and what it does not.** Fixed: the framework-discriminating gap. The Lovelock argument's inputs (a symmetric conserved second-order source) are now supplied by the framework rather than assumed, so the chain conditioning-flow → T_μν → (with F10's curvature) Einstein form has framework content at every link except the Lovelock rigidity step itself. **Not fixed:** (a) the Lovelock step remains GR's own uniqueness theorem — even with T_μν derived, "the field equation is *second-order*" (which makes Lovelock select Einstein over higher-derivative theories) is shown only in the weak-field tidal limit, so the full nonlinear Einstein equation is still "forced *given* second-order," untested in the strong field; (b) **Λ still has no framework meaning.** The derived T^{μν} = ρV^μV^ν is purely *kinetic* — it has no g_{μν}-proportional piece, which would be a curvature present even with no flow (ρ = 0), i.e. a background tilt from the baseline d₀ itself. Whether such a term exists or what sets it is not derived. "Λ allowed" is a Lovelock math-permission; the framework neither produces nor forbids it as shown, and it should not be presented as a framework match.
+**What this fixes, and what it does not.** P23 supplies a bounded source-tensor construction and semantic registration, not the full source dynamics. It does not close P22's scalar source normalization, derive `G`, provide every P24 premise, or adjudicate P28 Lambda claims.
 
 ## 6. The gravity program, end to end
 
@@ -97,3 +94,4 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 - `f11_poisson.py` — the weak-field reduction; the harmonic-exterior condition identified; symbolic ∇²(1/r)=0.
 - `f11_harmonic.py` — absent script named for the separately described `41^3` graph-source report: `1/r` fit `R²=0.997` versus `1/r²` control `0.938`; unknown relation to the `0.9993` report.
 - `f11_assemble.py` — weak-field closure + the Lovelock forcing argument with the four premises checked and gaps stated.
+- `t_structure.py`, `t_full.py`, `t_converge.py` — absent scripts named for the retained P23 symmetry/component/conservation reports; outputs and convergence values are documentary only.
