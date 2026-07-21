@@ -7,13 +7,20 @@ status: current
 confidence: medium
 section: Realizability, actualization, and weighting
 sources:
+  - d6-persistence.md
   - realizability-weighting-law.md
+  - amplitude-readout-theorem.md
+  - p12-spin-helicity-handedness-and-chiral-coupling.md
+  - p15-charge-hypercharge-valence-and-center-locking.md
+  - p20-baryon-closure-and-proton-neutron-relation.md
+  - 11-decay-product-registration.md
+  - flavor-mark-metric-and-neutron.md
   - mass-as-self-closure.md
   - gauge-structure-result.md
   - physics-walk-checklist.md
-  - d6-persistence.md
   - 09-specific-color-dynamics-qcd-quarantine.md
 historical_sources:
+  - neutron-consideration.md
   - raw/context/full-conversation-ledger.md
 ---
 
@@ -22,6 +29,56 @@ historical_sources:
 How a previously-standing With is closed over by a new This. The result addresses, within one tested baryon model, why a complete-closure configuration is selected rather than merely available, why the result is category-level, and why the modeled closure first appears at the closure-form's arity.
 
 Walk order is not epistemic authority. Although this mechanism is articulated after the generic P6 phase-form, its exhibited invariant and return dynamics are directly applicable to P6. It supplies a scoped, conditional physical persistence and stability witness.
+
+## Unit opening note
+
+**Unit:** P21 — With-to-This closure and decay
+
+**Boundary:** forward closure from a standing With into a new This; inverse/de-closure as a decay skeleton; the distinction between the generic native decay structure and neutron/beta-decay particulars; and the warranted standing of product identity, conservation, channel weighting, coupling orientation, spectra, lifetime, rate, and mechanism claims at this boundary.
+
+**Excluded neighbors:** P20's baryon closure and proton–neutron mass relation are inherited rather than reopened; P19's electron ruler and proton/electron ratio remain upstream; P16 retains quantitative QCD dynamics; P22 and later gravity units are not addressed; no electroweak, particle-spectrum, empirical-rate, or beta-decay research is performed.
+
+**Primary dependencies:** M3 amplitude/readout and realizability weighting; P6 persistence, stability, and escape; P10 singlet closure; P11/P12 bounded gauge/chiral structure; P13 particle-role limits; P15 charge/valence conservation; P16 quantitative quarantine; P17 closure-maintenance mass; P20 baryon and proton/neutron relation; this page's current With-to-This closure model; and the Item 11 decay-product control.
+
+**Expected downstream propagation:** P6 persistence and decay boundary; the Item 11 decay-product registration control; particle-identity and concept-load ledgers; neutron retained sources; physics status, work plan, guide, source map, reading order, index, and supersession controls; physics–chemistry gate consumers where decay is spent.
+
+**Applicable passes:** 0–11 (full physics-derivation pass set).
+
+## Authority adjudication
+
+Authority is claim-specific. No source governs all of P21.
+
+### Primary current sources by scope
+
+- [P6 Persistence](d6-persistence.md) governs persistence, stability, metastability, structural escape, identity reconfiguration, and the distinction between an escape weight and a calibrated decay rate. It does not construct a neutron-specific transition or products.
+- This page's forward model governs the tested With-to-This baryon closure, its declared flow class, and its scoped persistence/stability result. A forward attractor does not by itself supply an inverse transition theorem.
+- [P12](p12-spin-helicity-handedness-and-chiral-coupling.md) governs the chiral/vectorial coupling distinction while leaving maximal chirality, exact `V−A`, and the weak matter module Open. [P15](p15-charge-hypercharge-valence-and-center-locking.md) governs signed relational valence and its conservation core while leaving exact charge assignments Open.
+- [Realizability Weighting](realizability-weighting-law.md) and [Amplitude / Readout](amplitude-readout-theorem.md) govern weighting measures and prohibit promotion to observed frequency or rate without the missing bridge and local hazard/calibration structure.
+- [P20](p20-baryon-closure-and-proton-neutron-relation.md) governs the inherited proton/neutron relation. Its framework sign, physical access weight, and complete magnitude remain Conjectured and cannot be upgraded by empirical decay.
+- [Item 11](11-decay-product-registration.md) governs the pre-P21 registration/quarantine boundary for generic conservation and coupling capacities versus beta-decay products, spectra, rates, and mechanism. P21 must absorb that boundary rather than treating the ledger as a derivation.
+
+### Subsidiary and retained sources
+
+[Flavor, the Mark-Metric, and the Neutron Mass Constraint](flavor-mark-metric-and-neutron.md) retains the most detailed inverse-closure, two-ledger, antineutrino-receipt, and kinetic-release proposal. Its calculations and candidate route are source material; its former Registered labels do not govern P21.
+
+[The Neutron — Full Consideration](neutron-consideration.md) retains the earlier stronger drain, forced-product, accumulation-to-certainty, and quantitative-settlement claims. It is historical/adversarial evidence, not current authority.
+
+### Superseded formulations
+
+- A forward With-to-This attractor does not establish that every decay is its literal inverse or that the neutron-specific inverse map exists.
+- The neutron drain is not Registered merely because the forward singlet is a tested attractor.
+- A structural weighting measure does not establish one-directional per-step transition probability, monotonic accumulation to certainty, decay frequency, or lifetime.
+- Electron and antineutrino products are not forced by charge/chiral ledger language. Exact product-role settlement requires a transition map and independently licensed output roles.
+- The observed energy ledger is empirical balance, not a framework derivation of product identity, exact masses, spectrum, or kinetic partition.
+
+### Required disposition
+
+- **Canonical after normalization:** this P21 page.
+- **Supporting:** `flavor-mark-metric-and-neutron.md` for the detailed candidate inverse route and calculations, subject to P21 grades.
+- **Historical/adversarial:** `neutron-consideration.md` for the superseded forced-product and accumulation route.
+- **Dependency controls:** P6, P12, P15, P20, weighting, and amplitude/readout pages at their exact scopes.
+- **Merge/delete candidates after absorption:** the root Item 11 page and its nested loop README, which duplicate a boundary that belongs canonically in P21 and retain no unique derivation.
+- **Direct Jordan rulings:** none carries unique P21 theory work.
 
 ## Mature status
 
