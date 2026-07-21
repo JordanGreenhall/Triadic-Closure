@@ -1,0 +1,17 @@
+P28 exact finite algebra
+spatial_dimension=1 unordered_two_planes=0
+spatial_dimension=2 unordered_two_planes=1
+spatial_dimension=3 unordered_two_planes=3
+spatial_dimension=4 unordered_two_planes=6
+spatial_dimension=5 unordered_two_planes=10
+definitional_witness=c=5 H0=2 Lambda=7 Omega_Lambda=175/12 R_H=5/2 reconstructed_Lambda=7
+scaling_countermodel_alpha=1 R_H=11/3 Lambda_alpha=9/121
+scaling_countermodel_alpha=2 R_H=11/3 Lambda_alpha=18/121
+scaling_countermodel_alpha=3 R_H=11/3 Lambda_alpha=27/121
+scaling_countermodel_alpha=7/2 R_H=11/3 Lambda_alpha=63/242
+flatness_conditional=no_arena=false exhaustive_two_mode=false unsourced_background_excluded=false
+flatness_conditional=no_arena=false exhaustive_two_mode=true unsourced_background_excluded=false
+flatness_conditional=no_arena=true exhaustive_two_mode=false unsourced_background_excluded=false
+flatness_conditional=no_arena=true exhaustive_two_mode=true unsourced_background_excluded=true
+interpretation=plane count does not select a coefficient; the present expression is definitional; flatness is conditional
+P28 exact finite algebra: PASS

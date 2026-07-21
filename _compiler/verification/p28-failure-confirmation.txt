@@ -1,0 +1,5 @@
+P28 stale-state rejection: present identity as prediction
+Command: `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate confirmation`
+Exit: 1
+Output: `P28 verification: FAIL: p28-lambda-cosmological-closure-magnitude-and-dynamics.md retains forbidden text: present value is predicted`
+Result: REJECTED

@@ -104,6 +104,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `grqm-problem-locator.md`
 - `lambda-derived.md`
 - `lambda-scaling-validation-task.md`
+- `p28-lambda-cosmological-closure-magnitude-and-dynamics.md`
 
 ## Physics-to-chemistry handoff
 

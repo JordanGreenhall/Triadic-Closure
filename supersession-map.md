@@ -62,12 +62,12 @@ Current formulation: color is the **This-flattening / interior triadic distincti
 
 Execution rule: do not use "mediation carrier" as current doctrine unless explicitly marked historical.
 
-### Gravity/Λ meaning
+### Gravity / Lambda
 
-- Earlier: F11 allowed Λ as a Lovelock-permitted term without full framework meaning.
-- Current: `lambda-derived.md` says Λ now has a definite framework meaning: gravitational stress-energy of self-closure; magnitude remains uncomputed.
+- Earlier: F11 allowed Lambda as a Lovelock-permitted term without full framework meaning; later GR/QM ledger language conflated macro scaling, coefficient, present-state definition, dynamics, and empirical confirmation.
+- Current: [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) preserves Registered structural meaning and macro `R_H^-2` scaling, keeps coefficient `3` Conjectured-strong/Unregistered, classifies `Lambda=3 Omega_Lambda R_H^-2` as definitional, keeps observational-fraction translation Conjectured-strong with empirical input, keeps problem dissolution Conjectured-strong/Unregistered, dynamics Open/Unregistered, and AUD-014 flatness Conjectured conditionally.
 
-Execution rule: do not say Λ has no framework meaning; say its magnitude is not computed.
+Execution rule: use P28 for every Lambda/cosmology grade. Do not say Lambda has no framework meaning, but do not turn plane count into coefficient warrant, definition into confirmation, unit conversion into a vacuum-energy calculation, imported dynamics into native dynamics, or conditional flatness into unconditional observed flatness.
 
 ### P22 weak-field gravity standing
 

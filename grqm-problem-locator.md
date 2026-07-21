@@ -42,7 +42,7 @@ keeps a fixed time, pairing, or notion of event) and the **number-coincidence** 
 rather than deriving the identity) — both fired during the session and are logged where they
 fired (§10).
 
-**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2), geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P28 governs Lambda. Summary language here cannot upgrade those owners.
+**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) governs conflict-(2), geometry-definiteness, causal-growth/holonomy, BMV, decoherence, and radiation claims. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) governs conflict-(4), Lambda, background flatness, and cosmological dynamics. P7 governs manifold recovery; P24 governs full-field and strong-field premises. Summary language here cannot upgrade those owners.
 
 **Grade vocabulary.** Open · Conjectured · Conjectured-strong (many native pieces in place, one
 or two stated bets remaining) · Registered · Registered and Sealed · Defended posit (maximal
@@ -426,6 +426,8 @@ is too small to see," and (1)/(2) need selected comparison calculations. None is
 
 ## 8c. The cosmological constant (conflict 4) — taken out of quarantine
 
+**Canonical P28 adjudication.** This section is retained proposal and retraction provenance. P28 preserves Registered standing for Lambda's structural meaning and macro `R_H^-2` scaling, keeps the complete coefficient `3` Conjectured-strong and Unregistered, and corrects the present-state expression to an exact definitional identity rather than confirmation. The reflexive-fraction/observation map remains a Conjectured-strong translation with empirical input. The wrong-scale/wrong-cutoff dissolution is Conjectured-strong and Unregistered as completed; native dynamics and `w(z)` are Open and Unregistered. AUD-014 background flatness is Conjectured conditionally, not unconditional. Statements below claiming independent present-value confirmation or a completed dissolution are superseded while their route is retained.
+
 A deep dive on Λ's *magnitude*, run framework-only after the prior documentation was found to carry
 only the structure (`w = −1`, metric-proportional, positive — `lambda-derived`, Registered) and not
 the magnitude. The dive used the three legitimate tools kept strictly separate — framework, math,
@@ -469,10 +471,8 @@ The present whole is at incomplete closure.
 - Present value: **`Λ = 3 Ω_Λ R_H⁻²`**; asymptote (`Ω_Λ → 1`, closure completes): **`Λ → 3 R_H⁻²`** (derived, not assumed).
 - Residual: "completeness = instantaneous source-fraction `Ω_Λ`" vs. some other measure (count of closed standings, time-integral). The two-mode split is forced; this last identification is plausible-strong, not necessary.
 
-**Empirical check (bridge; three independent measurements).** `R_H = c/H₀ = 1.37×10²⁶ m`;
-`Ω_Λ = 0.685` (CMB budget, independent of Λ); predicted `Λ = 3 Ω_Λ R_H⁻² = 1.09×10⁻⁵² m⁻²` =
-**measured Λ**. The raw, identification-free anchor is `Λ_measured / R_H⁻² = 2.06`, against the
-complete-closure `3` — the universe measured short of complete closure.
+**Present-state identity (AUD-013 correction).** Given `R_H:=c/H₀` and
+`Ω_Λ:=Λc²/(3H₀²)`, the expression `Λ = 3 Ω_Λ R_H⁻²` is a definitional identity and cannot independently predict or confirm Lambda. The retained empirical content is the raw order-one ratio `Λ_measured R_H²≈2.06`, compared with the Conjectured-strong complete-closure coefficient `3`. Identifying framework `f_reflexive` with observed `Ω_DE` remains a Conjectured-strong translation using empirical input.
 
 **The catastrophe dissolved as a units artifact.** In Planck units `Λ ≈ 2.85×10⁻¹²²` and
 `R_H⁻² = (ℓ_P/R_H)² = 1.39×10⁻¹²²`. The famous `10⁻¹²²` is just `(ℓ_P/R_H)² = (8.5×10⁶⁰)⁻²` — Λ
@@ -491,16 +491,11 @@ framework-only, which is **not done** and must not be faked via FRW.
 **Grades:**
 - `Λ ∼ R_H⁻²` (scaling): **Registered** (framework concept + dimensional necessity given the macro insight; two powers from registration-locality × dissolution-time via invariant velocity).
 - Coefficient `3` (plane-budget at d=3): **Conjectured-strong** — Λ-as-scalar-budget fixes the category; the soft joint (per-plane unit is *exactly* `R_H⁻²`) is now the framework's *definition* of the closure unit, not an open O(1). The earlier `2π`/holonomy-over-area route was a category error (computed a tensor curvature of a loop in a pre-existing space) — see §10.
-- `Λ = 3 Ω_Λ R_H⁻²` (present value): **Conjectured-strong** — two-mode split forced; `completeness = Ω_Λ` plausible-strong with one residual; three independent measurements satisfy it.
-- Magnitude / catastrophe-as-units-artifact: **Conjectured-strong**, on native machinery (`A/4`, the macro insight).
+- `Λ = 3 Ω_Λ R_H⁻²` (present expression): **definitional identity** under the displayed definitions; it is not a prediction. The `f_reflexive≈Ω_DE` translation is **Conjectured-strong with empirical input**.
+- Magnitude / catastrophe-as-units-artifact: **Conjectured-strong and Unregistered as a completed dissolution**; the source-scale premise remains load-bearing.
 - `w(z)` / dynamical-DE rate: **Open**, and the FRW-based version is **withdrawn** (laundering).
 
-**Net.** Conflict (4)'s magnitude moves from Open/values-side to: scaling **Registered**, coefficient
-**Conjectured-strong** (`Λ = 3 R_H⁻²` at complete closure, `3 Ω_Λ R_H⁻²` now), and the
-cosmological-constant problem **dissolved** as a wrong-units/wrong-cutoff artifact. The number is
-right (`2.06` vs `3` short by the closure-incompleteness), framework-native in concept and scaling,
-with the coefficient derived as the three-plane closure budget. The open piece is the *dynamical
-rate*, which needs framework-native expansion dynamics and must not be laundered from FRW.
+**P28 net.** Conflict (4) is separated into Registered structure and macro scaling; a Conjectured-strong/Unregistered complete coefficient `3`; an exact but non-confirmatory present-state definition; a Conjectured-strong empirical translation; a Conjectured-strong/Unregistered wrong-scale dissolution; and Open/Unregistered dynamics. Framework-native expansion dynamics are absent and must not be laundered from FRW.
 
 ---
 
@@ -603,11 +598,7 @@ Kept explicit so the corpus shows where the discipline bit.
 - **G4 — horizon/area/temperature/entropy under P27.** P17's architectural total-self-closure relation stands, but physical horizon and straddling-link area are **Conjectured and Unregistered**. The local lapse, selected boundary-scaling, signature, and `1/4` cancellation results are conditional mathematics. Thermal-flow identification, `T=κ/2π`, entropy, and framework `S=A/4` are **Open and Unregistered**; P24 also leaves `8π` and strong-field validity Open.
 - **G5 — superposition admissibility under P26.** The general modal distinction and closure unit-status stand. The matter-fork/geometry-fork application, no-actual-superposition inference, selected causal-growth model, postcosm non-exactness, and BMV consequence are **Conjectured and Unregistered**. Exact retained mathematics is imaginary-part antisymmetry and the conditional nonzero-loop obstruction. The standard phase is external comparison. Vacuum/source-free geometry is Open.
 - **G6 — information/unitarity under P27.** §9.7's conservation of registered distinctions is Secured as a framework principle. Boundary balance is **Conjectured and Unregistered**. The principle alone supplies no Hilbert state, linear norm-preserving surjective evolution, evaporation/radiation map, generalized entropy, or Page curve; information preservation and unitary evaporation are **Open and Unregistered**.
-- **Conflict (4) — Λ magnitude (§8c). Out of quarantine.** Scaling `Λ ∼ R_H⁻²` **Registered**;
-  coefficient `3` (plane-budget at d=3) **Conjectured-strong**; present value `Λ = 3 Ω_Λ R_H⁻²`
-  satisfied by three independent measurements; cosmological-constant problem **dissolved** as a
-  units artifact (`10⁻¹²² = (ℓ_P/R_H)²`). Open: the **dynamical rate** (`w(z)`) — needs framework-native
-  expansion dynamics; the FRW-based version is withdrawn as laundering.
+- **Conflict (4) — P28 Lambda/cosmology (§8c).** Structure and macro `Λ ∼ R_H⁻²` scaling are **Registered**; coefficient `3` is **Conjectured-strong and Unregistered**; `Λ = 3 Ω_Λ R_H⁻²` is a **definitional identity**, not confirmation; the observational-fraction translation is Conjectured-strong with empirical input; wrong-scale dissolution is Conjectured-strong/Unregistered; dynamics are **Open and Unregistered**; AUD-014 flatness is Conjectured conditionally.
 
 **What is settled and what remains open on the phase under P26.** Imaginary-part antisymmetry and the fact that a nonzero selected loop obstructs exactness are exact mathematics. The carrier-to-edge connection, nonzero loop, non-exactness, value, and BMV translation remain unresolved. The σ magnitude does not supply born-element edge phases. The carrier-conservation question behind P27's `2π` remains separate.
 
@@ -624,6 +615,4 @@ Kept explicit so the corpus shows where the discipline bit.
 **Status line.** The bounded dissolution mappings (G2) are Secured and Registered; the overall symptom explanation (G3) is Conjectured and Unregistered as a completed derivation, with only its bounded structural contrasts conditionally Secured and Registered. The root gate (G1) is
 advanced to Registered-with-one-defended-posit; under P27 the physical horizon and area proposal are Conjectured and Unregistered, the local/boundary/signature/`1/4` results are conditional mathematics, and temperature, entropy, `S=A/4`, information preservation, and unitary evaporation remain Open and Unregistered;
 conflict (2) is **Conjectured and Unregistered under P26** for the physical geometry application, no-actual-superposition inference, postcosm non-exactness, and BMV implication; decoherence/radiation and vacuum/source-free geometry remain Open; and conflict (4) is **out of
-quarantine** — `Λ ∼ R_H⁻²` Registered, coefficient `3 = C(3,2)` Conjectured-strong, the
-cosmological-constant problem dissolved as a units artifact, with only the dynamical rate (`w(z)`)
-open and the FRW-based version withdrawn.
+quarantine under P28's separated record** — structure and `Λ ∼ R_H⁻²` scaling Registered, coefficient `3 = C(3,2)` Conjectured-strong/Unregistered, present `Ω_Λ` expression definitional, problem dissolution Conjectured-strong/Unregistered, conditional flatness Conjectured, and dynamics/`w(z)` Open/Unregistered with FRW-based routes withdrawn.

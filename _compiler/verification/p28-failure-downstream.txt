@@ -1,0 +1,41 @@
+P28 stale-state rejection: bounded downstream semantic conflation/demotion
+Exact base: `92b194970a7fa00f516e759eaeb3e4d3d38aad03`
+
+Each simulation mutates only the named local P28 claim surface in memory. The surrounding tracked file and canonical `[P28](p28-lambda-cosmological-closure-magnitude-and-dynamics.md)` route remain present. The verifier checks the route before the claim-specific assertions, so the failure lines below demonstrate semantic rejection rather than route loss.
+
+Commands and exact results:
+
+1. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-imports`
+   Exit: 1
+   Output: `P28 verification: FAIL: 12-gravity-full-gr-imports.md lacks claim-specific P28 structural claim`
+
+2. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-ledger`
+   Exit: 1
+   Output: `P28 verification: FAIL: 03-10-physics-concept-load-pass-ledger.md lacks claim-specific P28 structural claim`
+
+3. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-smuggle`
+   Exit: 1
+   Output: `P28 verification: FAIL: sm-content-smuggle-audit-frontier.md lacks claim-specific P28 structural claim`
+
+4. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-deferred`
+   Exit: 1
+   Output: `P28 verification: FAIL: deferred-articulations-map.md retains forbidden text: include the Λ magnitude`
+
+5. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-coefficient-grade`
+   Exit: 1
+   Output: `P28 verification: FAIL: 12-gravity-full-gr-imports.md lacks claim-specific P28 coefficient claim`
+   Mutation: removes the coefficient's Conjectured-strong/Unregistered grade while leaving the translation grade and route intact.
+
+6. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-translation-grade`
+   Exit: 1
+   Output: `P28 verification: FAIL: 12-gravity-full-gr-imports.md lacks claim-specific P28 observed-fraction translation claim`
+   Mutation: removes the translation's Conjectured-strong/Unregistered grade while leaving the coefficient grade and route intact.
+
+7. `python3 _compiler/verify_p28.py --base 92b194970a7fa00f516e759eaeb3e4d3d38aad03 --simulate downstream-structural-elements`
+   Exit: 1
+   Output: `P28 verification: FAIL: 12-gravity-full-gr-imports.md lacks claim-specific P28 structural claim`
+   Mutation: removes positive sign, metric-proportional form, and inherited `w=-1` while retaining structural meaning, Registered-at-structural-scope grade text, surrounding content, and route.
+
+The untouched reconciled state passes. The six pre-A1 owner/frontier/boundary simulations remain independently exercised by their existing evidence records.
+
+Result: REJECTED
