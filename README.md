@@ -24,9 +24,7 @@ filename.md
 The following directories currently have distinct roles:
 
 - `_compiler/` — semantic inventories and adjudication controls;
-- `overview/` — residual migration-shadow pages requiring consolidation;
-- `tools/` — import, reference-normalization, and audit scripts;
-- `.github/workflows/` — repository automation.
+- `overview/` — residual migration-shadow pages requiring consolidation.
 
 ## Corpus scope
 
