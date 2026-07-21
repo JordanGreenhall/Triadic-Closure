@@ -207,6 +207,11 @@ def main() -> int:
     historical = corpus_text(root, "neutron-consideration.md", overlay)
     require(
         errors,
+        "status: historical-adversarial" in historical,
+        "retained neutron draft is not marked historical/adversarial",
+    )
+    require(
+        errors,
         "**Historical/adversarial section.**" in historical,
         "historical neutron decay route lacks a local authority guard",
     )
@@ -214,6 +219,18 @@ def main() -> int:
         errors,
         "Former Registered labels in this section do not govern" in historical,
         "historical Registered labels are not explicitly superseded",
+    )
+
+    supporting = corpus_text(root, "flavor-mark-metric-and-neutron.md", overlay)
+    require(
+        errors,
+        "status: supporting-partially-superseded" in supporting,
+        "integrated neutron source is not marked supporting/partially superseded",
+    )
+    require(
+        errors,
+        "is not an alternative canonical owner" in supporting,
+        "integrated neutron source lacks its canonical-authority guard",
     )
 
     shadow = corpus_text(root, "11-decay-product-registration.md", overlay)

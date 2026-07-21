@@ -1,8 +1,8 @@
 ---
 title: "Flavor, the Mark-Metric, and the Neutron Mass Constraint"
 type: result
-status: current-supporting
-confidence: "P14 flavor/mark geometry supporting; P20 sign, physical access weight, and magnitude Conjectured; P21 decay material later-owned"
+status: supporting-partially-superseded
+confidence: "P14 supporting derivation; P20 and P21 govern current relation and decay grades"
 created: 2026-06-26
 depends-on:
   - triadic-structure-of-relating                  # J polarity, flattened triad, no-privileged-frame
@@ -10,13 +10,15 @@ depends-on:
   - same-kind-carrier-representation-theorem       # Item 4: carrier, Hermitian pairing, ℤ₃ cyclic
   - amplitude-readout-theorem                      # conditions any physical access-weight use must satisfy
   - mass-derivation-three-faces                    # canonical bracketed proton/electron ratio
-  - with-to-this-closure                           # forward closure; decay as its inverse
+  - with-to-this-closure                           # forward closure and P21 inverse/decay boundary
 supersedes:
   - "neutron-consideration.md §5.2(a), §6 premise 2, §7 (the A₂ / 120° flavor-SU(3) keystone)"
 claim_statuses: [Open, Conjectured, Registered, "Registered and Sealed"]
 ---
 
 # Flavor, the Mark-Metric, and the Neutron Mass Constraint
+
+> **Supporting-source notice.** P14 governs flavor and mark geometry, P20 governs the proton/neutron relation, and P21 governs inverse closure and decay. This page retains detailed derivation and proposal material but is not an alternative canonical owner. Its claim table and local P21 subsection state the surviving grades.
 
 ## 0. Scope
 

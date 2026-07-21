@@ -1,7 +1,7 @@
 ---
 title: The Neutron — Full Consideration
 type: result
-status: current-partially-superseded
+status: historical-adversarial
 confidence: historical/adversarial for P20/P21; P14 geometry retained; current grades governed by P20 and P21
 depends-on: [mass-derivation-three-faces, with-to-this-closure, realizability-weighting-law, flavor-mark-metric-and-neutron]
 superseded-by:
