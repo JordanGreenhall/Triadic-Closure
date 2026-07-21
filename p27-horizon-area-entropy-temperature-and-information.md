@@ -13,7 +13,7 @@ sources:
   - grqm-conflict-status.md
   - realizability-weighting-law.md
   - same-kind-carrier-representation-theorem.md
-  - conservation-of-distinctions.md
+  - triadic-structure-of-relating-rev-canonical.md
 ---
 
 # P27 Horizon, Area/Entropy, Temperature, and Information

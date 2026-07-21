@@ -51,7 +51,7 @@ Curated pages govern status; historical sources are provenance only.
 | [gravity-and-curvature](gravity-and-curvature.md) | Concise P22 result shadow; P22 governs claims, grades, and frontiers |
 | [stress-energy-three-offices](stress-energy-three-offices.md) | Concise P23 result shadow; P23 governs claims, grades, and frontiers |
 | [12-gravity-full-gr-imports](12-gravity-full-gr-imports.md) | Concise P24 import-boundary shadow; P24 governs claims, grades, and frontiers |
-| [grqm-conflict-status](grqm-conflict-status.md) | Concise P25+ multi-unit shadow; P25 governs G2/G3 and P26 governs conflict-(2), holonomy, BMV, decoherence, and radiation claims |
+| [grqm-conflict-status](grqm-conflict-status.md) | Concise P25+ multi-unit shadow; P25 governs G2/G3; P26 governs conflict-(2), holonomy, BMV, decoherence, and radiation claims; P27 governs conflict-(3), G4, G6, horizon, area, temperature, entropy, and information/unitarity claims |
 | [known-failure-modes](known-failure-modes.md) | Anti-smuggle controls including reverse smuggle |
 
 Additional normalized controls:
