@@ -42,6 +42,8 @@ keeps a fixed time, pairing, or notion of event) and the **number-coincidence** 
 rather than deriving the identity) — both fired during the session and are logged where they
 fired (§10).
 
+**Current authority.** This page is retained detailed provenance. [P25 GR/QM Background Conflict](p25-grqm-background-conflict-and-nonrenormalizability.md) governs G2/G3 claims and grades. P7 governs manifold recovery; P24 governs full-field and strong-field premises; P26–P28 govern BMV/geometry definiteness, horizon/information/entropy, and Lambda. Summary language here cannot upgrade those owners.
+
 **Grade vocabulary.** Open · Conjectured · Conjectured-strong (many native pieces in place, one
 or two stated bets remaining) · Registered · Registered and Sealed · Defended posit (maximal
 honest grade where the completeness diagnostic forbids a seal).
@@ -52,8 +54,9 @@ honest grade where the completeness diagnostic forbids a seal).
 
 Unchanged. The textbook framing — GR is a classical field theory of a dynamical metric; QFT
 quantizes fields on a fixed background; quantizing the metric the same way is non-renormalizable
-— describes a **procedure failing**, not reality contradicting itself. Non-renormalizability is
-to be *explained as a symptom* (now done — §5/G3), not answered as the problem.
+— describes a **procedure failing**, not reality contradicting itself. P25 retains
+non-renormalizability as a proposed symptom diagnosis (§5/G3), not as a completed perturbative
+derivation and not as the root problem itself.
 
 ---
 
@@ -93,9 +96,9 @@ This replaces the original short inventory. Grades are honest and several are pa
 
 | Result | Bears on | Grade |
 |---|---|---|
-| **G2a** arena ↔ dynamical metric = one With, two phases | (1),(3) | **Registered** |
-| **G2b** amplitude-pairing ↔ arena = two triad-flattenings crossing at the This (option C) | (1),(2) | **Registered** |
-| **G3** non-renormalizability = mislocating the V/H crossing from the discrete This onto the arena continuum | (1) symptom | **Conjectured** (diagnosis); gravity-vs-gauge asymmetry and mislocation-contrast **Registered** given G2 |
+| **G2a** arena ↔ dynamical metric = one spatial With-basis, flattened/live phases | (1),(3) | **Secured at bounded structural scope; Registered for the mapped core under P25** |
+| **G2b** internal carrier pairing ↔ arena = distinct deployments integrated at the This (option C) | (1),(2) | **Secured at bounded structural scope; Registered for the distinction under P25** |
+| **G3** non-renormalizability = mislocating the V/H crossing from the discrete This onto the arena continuum | (1) symptom | **Conjectured overall and Unregistered as a completed derivation**; basis/content and mislocation contrasts **conditionally Secured/Registered** given G2 |
 | **G1a** graph-dimension forced to 3 (With-holds-open) natively | (1) root | **Registered** |
 | **G1** criticality native (c-identity → gapless substrate); global frame-freedom native | (1) | **Registered** |
 | **G1c** smoothness / rotational invariance | (1) | **Registered, not Sealed** via named universality import; exact local Lorentz is **Secured within its defended-posit ceiling** and **Registered, not Sealed** |
@@ -123,17 +126,17 @@ This replaces the original short inventory. Grades are honest and several are pa
 
 ## 5. The dissolution and its symptom (G2 + G3), in full
 
-**G2 — the phase identity.** Split into two questions, against the discipline that "both are
+**G2 — the phase identity (P25-governed).** Split into two questions, against the discipline that "both are
 Withs" is not "the same With."
 
-- **G2a (arena ↔ metric): Registered.** The spatial arena is the With-flattening of the triad
+- **G2a (arena ↔ metric): Secured at bounded structural scope and Registered for the mapped core.** The spatial arena is the With-flattening of the triad
   into three degrees; the metric is the closure-inherited basis on them. A basis carries two
   horizontal readings (settled vs. re-texturing). Flattened basis = QM's fixed arena; live basis
-  = GR's dynamical metric. One office, two horizontal phases. This is option (A) — *licensed
-  here* because arena and metric are one physical object (QFT-on-curved-spacetime uses the same
-  `g`), not two objects asserted identical.
+  = GR's dynamical metric. One office, two horizontal phases. This is option (A) at the bounded
+  P25 mapping scope. The fact that QFT-on-curved-spacetime uses the same `g` is external comparison,
+  not the warrant for the framework identity.
 
-- **G2b (amplitude-pairing ↔ arena): Registered as option (C).** The amplitude pairing is *not*
+- **G2b (internal carrier pairing ↔ arena): Secured at bounded structural scope and Registered for the distinction as option (C).** The amplitude pairing is *not*
   the spatial arena. Space is the **With-image** flattening; the internal carrier pairing is the
   **This-image** deployment. They are two flattenings of one closure's triad. (A) ruled out: the
   carrier pairing is J-compatible (vertical), so a live (horizontal) arena cannot drag it. (B)
@@ -148,7 +151,7 @@ Withs" is not "the same With."
   (constitution, owes no background debt); only the **spatial** sector is a horizontal-flattened
   arena owing manifold-recovery. G1 narrows to the spatial arena.
 
-**G3 — non-renormalizability as signature. Conjectured (diagnosis); two parts Registered.**
+**G3 — non-renormalizability as signature. Conjectured overall and Unregistered as a completed derivation; two structural contrasts are conditionally Secured and Registered.**
 *G1-firewall:* the continuum is used only as the tradition's own posited object, never as
 framework structure. The legitimate locus of the V/H crossing is the discrete This (continuum-free,
 from G2). Naive metric quantization mislocates that crossing onto the arena continuum — a
@@ -159,13 +162,14 @@ cannot *terminate* conditioning by closing — the divergence is non-closeable b
 (the structural content of "infinitely many counterterms"): non-renormalizable, not merely
 divergent.
 
-- **Gravity-vs-gauge asymmetry (Registered given G2).** A With has two roles: the basis, and what
+- **Gravity-vs-gauge asymmetry (conditionally Secured and Registered for bounded diagnostic use given G2).** A With has two roles: the basis, and what
   is held on the basis. Gauge fields are *content held on* the arena (fixed basis → renormalizable);
   the metric **is the basis** (quantizing it destroys the grain → non-renormalizable). The
-  framework predicts the exact asymmetry the tradition observes.
-- **Mislocation-contrast (Registered given G2).** Where the crossing sits at the This there is no
+  framework proposes this as an explanation of the observed asymmetry; the universal and
+  perturbative claims remain inside G3's Conjectured overall record.
+- **Mislocation-contrast (conditionally Secured and Registered for bounded diagnostic use given G2).** Where the crossing sits at the This there is no
   all-scales sum and no such divergence; so non-renormalizability is the *signature of mislocation*.
-  This meets the minimum-tier bar ("explain why the tradition hit its wall").
+  This is the proposed mechanism, not a calculation establishing the traditional failure.
 - Dimensionful-coupling (Step 6) stays Recognition/Open; identifying `G` with any closure-measure
   was refused (number-coincidence guard).
 
@@ -653,9 +657,9 @@ Kept explicit so the corpus shows where the discipline bit.
   a completed continuous symmetry cannot be sealed from a discrete base; same ceiling as exactly-three
   and 3+1. Whole: Registered-with-one-defended-posit, *not* fully background-free until the
   remaining seam (the isotropic-fixed-point residual / `σ`-map) is settled.
-- **G2 — phase identity. Registered** (A spatial + C internal).
-- **G3 — symptom. Conjectured** (diagnosis), with the gravity-vs-gauge asymmetry and the
-  mislocation-contrast Registered given G2.
+- **G2 — phase identity. Secured at bounded structural scope and Registered for the mapped cores under P25** (A spatial + C internal).
+- **G3 — symptom. Conjectured overall and Unregistered as a completed derivation**, with the gravity-vs-gauge asymmetry and the
+  mislocation-contrast conditionally Secured and Registered given G2.
 - **G4 — `A/4`. Shape standing is P27-owned; the coefficient calculation remains conditional on an Open P24 `8π`/strong-field premise.** The `2π` signature falsifier is resolved (0.6 conserves the definite
   `Σ|ψ|²`; the boost violates it); seal-gap = thermal-flow identification (modular flow =
   distinction-conserving flow). Still owed: S2 (Einstein-form strong-field validity — Open under P24; horizon
@@ -699,7 +703,7 @@ thermal-flow identification; Gate B for the boundary count).
 > signature of confusing the two phases; and recover `A/4` as a consequence of the closure-boundary
 > — all without re-importing the background we claim to have dissolved.
 
-**Status line.** The dissolution (G2) and its symptom (G3) are Registered; the root gate (G1) is
+**Status line.** The bounded dissolution mappings (G2) are Secured and Registered; the overall symptom explanation (G3) is Conjectured and Unregistered as a completed derivation, with only its bounded structural contrasts conditionally Secured and Registered. The root gate (G1) is
 advanced to Registered-with-one-defended-posit; the scoreboard `A/4` has a Registered shape and a
 conditional coefficient algebra whose `8π` and strong-field Einstein premises remain Open under P24;
 conflict (2) is **sealed for the matter-sourced case** — BMV-positive forced via the proven
