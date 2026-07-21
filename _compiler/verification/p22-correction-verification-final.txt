@@ -1,0 +1,72 @@
+P22 FROZEN-CORRECTION FINAL VERIFICATION
+Date: 2026-07-21
+Exact base: 9085a7443b9cb71808f8c3afc43161929db1263f
+First-audit head: 138c72926b24799c4b9197fae0d68dac22ba6598
+Scope: exactly four frozen Control findings and correction-caused regressions
+
+EXACT-BASE P22 VERIFIER
+P22 deterministic normalization verification
+base: 9085a7443b9cb71808f8c3afc43161929db1263f
+changed Markdown files checked: 29
+local Markdown links checked: 328
+frontier placement: canonical local + global summary only
+P19/P20/P21 boundary: inherited, not reopened
+P23/P24/P28 boundary: source owners not opened
+retained computations: explicitly reported; named scripts absent
+weak-field model: Registered at bounded selected static scope
+source/clock uniqueness, common 3+1 implementation, source normalization, G: Open
+diff hygiene: checked
+PASS
+
+CUMULATIVE P20 VERIFIER
+P20 deterministic normalization verification
+base: 6d88509b900add3340f7a688ab58e66a0ee30134
+changed Markdown files checked: 55
+local Markdown links checked: 472
+frontier file placement: local canonical + global summary
+mark norms: 3, 3
+mark inner product: 3/2
+normalized overlap: 1/2
+squared overlap: 1/4
+resolved P13 differentiation frontier: absent
+equal-spin nucleon standing: selected/model-conditional only
+P19 boundary: inherited, not reopened
+P21 boundary: decay excluded
+diff hygiene: checked
+PASS
+
+ALL-CORPUS LOCAL LINKS
+tracked Markdown files: 168
+local Markdown links checked: 743
+broken links: 0
+PASS
+
+DIFF HYGIENE
+git diff --check 9085a7443b9cb71808f8c3afc43161929db1263f...HEAD: PASS
+git diff --check 138c72926b24799c4b9197fae0d68dac22ba6598...HEAD: PASS
+
+BOUNDARIES AND MUTATORS
+protected owner changed paths: []
+tracked tools paths: 0
+tracked write workflows: 0
+P23 was not begun.
+
+FROZEN-FINDING REGRESSION CAPABILITY
+weighting/metric overclaim overlay: exit 1 (expected)
+potential/sign contradiction overlay: exit 1 (expected)
+three-dimensional provenance conflation overlay: exit 1 (expected)
+pre-P22 lifecycle handoff overlay: exit 1 (expected)
+
+TARGETED SEMANTIC SEARCHES
+stale same-field/same-calculation language: 0 living matches
+stale report-as-Secured language: 0 living matches
+stale positive A/r clock-potential language: 0 living matches
+stale F9/uppercase-walk lifecycle language: 0 living matches
+fixed-support countermodel living placement: canonical P22 owner plus global mature-status summary only
+
+MANUAL SEMANTIC EVIDENCE
+Fresh-reader review: _compiler/verification/p22-correction-fresh-reader.md
+Substantive no-change cycle: _compiler/verification/p22-correction-compiler-cycle.md
+The semantic conclusion depends on complete post-correction source/consumer rereading and cross-surface comparison, not verifier repetition alone.
+
+FINAL: PASS
