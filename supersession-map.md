@@ -69,6 +69,14 @@ Execution rule: do not use "mediation carrier" as current doctrine unless explic
 
 Execution rule: do not say Λ has no framework meaning; say its magnitude is not computed.
 
+### P22 weak-field gravity standing
+
+- Earlier integrated pages: `gravity-asymmetry.md`, `mathematization-F10-resolved.md`, and `mathematization-F11.md` described the inverse clock, curvature checks, and Poisson equation as completed or derived, while the named scripts were not retained in GitHub.
+- Earlier negative source: `mathematization-F10-status.md` found the background-time drift and two-clock sign ambiguity and concluded F10 was not done.
+- Current: [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) Registers the selected static weak-field model at bounded scope. It retains the negative source as an adversarial constraint and the later numerical reports as supporting evidence, not rerun verification.
+
+Execution rule: use P22 for every weak-field gravity claim and grade. Do not infer a physical source from P17 mass language, infer the exact inverse clock from atomicity alone, combine separate `2+1` tidal and three-dimensional harmonic reports into a completed `3+1` metric, or treat `M=A/(Gd0)` as a derivation of source normalization or `G`. P23 owns stress-energy and P24 owns full-GR completion.
+
 ### Spacetime dimensionality
 
 - Package-era caution: `cover-letter.md` and superseded `phi-forward-reconstruction.md` say exact `3+1` dimensionality is not derived and is locked-actual/open classification.
@@ -182,4 +190,4 @@ A candidate deposit, explicitly not wiki-standing. Its D6 atom premise, periodic
 
 A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. P7 must normalize carrier/manifold recovery without treating P5's conditional theorem as recovery. Later atom and chemistry units must begin from P6-F1 rather than reactivating the old D6/Φ route.
 
-See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [gravity-and-curvature](gravity-and-curvature.md), [known-failure-modes](known-failure-modes.md).
+See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md), [gravity-and-curvature](gravity-and-curvature.md), and [known-failure-modes](known-failure-modes.md).

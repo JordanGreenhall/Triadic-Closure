@@ -27,6 +27,7 @@ sources:
   - p19-native-electron-ruler-and-proton-electron-ratio.md
   - p20-baryon-closure-and-proton-neutron-relation.md
   - with-to-this-closure.md
+  - p22-weak-field-gravity-as-participation-curvature.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -65,7 +66,8 @@ Read by semantic dependency rather than file age.
 19. [P19 Native Electron Ruler and Proton/Electron Ratio](p19-native-electron-ruler-and-proton-electron-ratio.md).
 20. [P20 Baryon Closure and Proton–Neutron Relation](p20-baryon-closure-and-proton-neutron-relation.md).
 21. [P21 With-to-This Closure and Decay](with-to-this-closure.md).
-22. [Physics Domain Mature Status](physics-domain-mature-status.md).
+22. [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md).
+23. [Physics Domain Mature Status](physics-domain-mature-status.md).
 
 `physics-walk-D1-D6.md` is historical development material; dedicated normalized pages govern.
 
@@ -114,10 +116,20 @@ Reader guards:
 
 ## 5. Gravity and cosmology
 
-1. [gravity-and-curvature](gravity-and-curvature.md).
-2. [stress-energy-three-offices](stress-energy-three-offices.md).
-3. [lambda-derived](lambda-derived.md).
-4. [grqm-conflict-status](grqm-conflict-status.md).
+1. [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) — canonical weak-field owner.
+2. [Gravity and Curvature](gravity-and-curvature.md) — concise P22 shadow.
+3. [Stress-Energy Three Offices](stress-energy-three-offices.md) — P23 source, not P22 completion.
+4. [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — P24 boundary source.
+5. [Lambda Derived](lambda-derived.md) — P28 source.
+6. [GR/QM Conflict Status](grqm-conflict-status.md) — P25+ source.
+
+Reader guards:
+
+- P22 Registers a bounded selected static model, not a sealed gravity derivation.
+- The retained finite checks are reports whose named scripts are absent; do not describe them as rerun.
+- Static `2+1` tidal evidence and a separate three-dimensional harmonic calculation are not one complete `3+1` implementation.
+- The scalar Poisson form is conditional on source map and normalization; physical `rho` and `G` remain Open.
+- P23 owns stress-energy and P24 owns the full spatial metric, full Einstein form, and nonlinear regime.
 
 ## 6. Physics-to-chemistry interface
 
