@@ -22,9 +22,9 @@ Coherence-with-M is **directional**: M has a location relative to P. The null di
 
 ## Why it is exactly metric curvature (quantitative — the gate)
 
-Coherence-participation spreads through the same neighbor-by-neighbor conditioning network as everything else, so participation-with-M at conditioning-distance r is the network-Laplacian Green's function. Solved explicitly on a 3D conditioning-network with a mass at the center:
+The source models coherence-participation as spreading through a neighbor-by-neighbor conditioning network and reports a graph-Laplacian Green-function calculation on a three-dimensional network with a localized source:
 
-- the participation field fits the harmonic **1/r** form at R² = 0.9993 — it is the *same* field as the F11 gravitational potential, not a new object;
+- the reported participation field fits the harmonic **1/r** form at `R² = 0.9993` and is proposed as the same modeled field as the F11 potential;
 - its **gradient** is the cone-tilt (the connection structure);
 - its **second derivative** gives the tidal structure: radial stretch and transverse squeeze of opposite sign, with the trace (the Laplacian) ≈ 0 in vacuum — a **traceless tidal tensor**, which is exactly vacuum curvature (geodesic deviation).
 

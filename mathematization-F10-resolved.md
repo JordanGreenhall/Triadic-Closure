@@ -14,7 +14,7 @@
 
 ## 2. Geodesic motion matches (the walk = the metric's geodesic)
 
-**[checked] (`f10_geodesic_check.py`, `f10_factor2.py`)** Two independent specifications:
+**[reported check; scripts absent] (`f10_geodesic_check.py`, `f10_factor2.py`)** Two independent specifications:
 1. **The walk** — a content with position and re-selection-direction; each proper step, inertia advances it by its direction, the F9 degree-tilt steers the direction, and the atomicity clock sets coordinate-time-per-proper-step ∝ d. No geometry input.
 2. **The geodesic** — of the metric g₀₀ = −(d₀/d)², acceleration −½ ∂ₓ(d₀/d)² = d₀²·d′/d³. No walk input.
 
@@ -24,13 +24,13 @@ They agree: near-static acceleration ratio walk/geodesic = **1.01** (after fixin
 
 A potential is not curvature; **curvature is geodesic deviation** (tidal forces between nearby free worldlines), trivial in 1+1, so tested in 2+1.
 
-**[checked] (`f10_deviation.py`) The curvature signature is present and correct.** Two free walkers released near a degree bump (a "mass"), falling in:
+**[reported check; script absent] (`f10_deviation.py`)** Two free walkers released near a degree bump (a modeled source), falling in:
 - **radial separation** (along infall): **grows** 6.0 → 16.1 — tidal **stretch**;
 - **transverse separation** (perpendicular): **shrinks** 6.0 → 4.8 — tidal **squeeze**.
 
 Opposite signs. A uniform force moves both walkers identically (separation constant); only genuine **tidal curvature** stretches radially while squeezing transversely. This is the unmistakable fingerprint of curvature (the same effect as tidal stretching and ocean tides).
 
-**[checked] (`f10_tidal_quant.py`) The tidal-tensor magnitudes match, and the tensor is traceless in vacuum:**
+**[reported check; script absent] (`f10_tidal_quant.py`)** The source reports matching tidal-component magnitudes and a suppressed vacuum trace:
 - measured vs. predicted tidal components T_xx (ratio 0.90), T_yy (ratio 0.95) — agreement to ~10%, the residual consistent with discretization of second derivatives of a Gaussian on a grid (both components off similarly — a discretization scale, not a structural gap);
 - **tracelessness:** far from the source the tidal trace is ~10⁻⁷ versus in-field components ~10⁻⁵ — two orders smaller. The vacuum tidal tensor is traceless (∇²Φ → 0 off-source): radial stretch exactly balances transverse squeeze. This is the genuine curvature/vacuum condition.
 
@@ -56,7 +56,7 @@ Within the selected model, gravity-as-geometry is supported for this regime: a l
 
 ---
 
-### Appendix: scripts (run, outputs recorded above)
+### Appendix: named scripts absent from the repository; retained output claims above
 - `f10_geodesic_check.py` — walk vs. g₀₀-geodesic acceleration (ratio → 1 after convention fix).
 - `f10_factor2.py` — the factor of 2 is a constant convention, not a varying disagreement; located and removed.
 - `f10_deviation.py` — geodesic deviation: radial stretch + transverse squeeze (the curvature signature).

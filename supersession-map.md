@@ -26,10 +26,10 @@ This page prevents agents from reviving obsolete claims.
 
 - Earlier: `mathematization-F10-status.md`
   - Status: F10 not done; obstacles located.
-- Current: `mathematization-F10-resolved.md`
-  - Status: F10 substantially closed for weak-field static regime.
+- Current detailed report: `mathematization-F10-resolved.md`, read through P22.
+  - Status: selected static weak-field model Registered at bounded scope; retained numerical report, not rerun verification.
 
-Execution rule: do not cite F10 as simply "not done" without noting the later resolved document.
+Execution rule: do not cite F10 as simply "not done" or "closed." Use P22's bounded source/clock, continuum, and normalization split.
 
 ### F8 formulation
 

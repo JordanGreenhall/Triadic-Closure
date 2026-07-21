@@ -18,11 +18,11 @@ F10 demonstrated that conditioning-degree concentration produces genuine curvatu
 
 This is a consistency win, not a patch: the field that carries gravity (the conserved-flow perturbation) is the *same* conserved flow that defines σ in F9. F9 and F11 use one object.
 
-## 3. The harmonic-exterior result (computed)
+## 3. The reported harmonic-exterior result
 
-**[checked] (`f11_harmonic.py`) The conserved-flow response to a localized degree concentration is harmonic — 1/r in 3D.** On a 41³ lattice, solving the graph-Laplacian Green's function for a localized source, the potential fits Φ = A/r + C with **R² = 0.997**, decisively better than a 1/r² control (R² = 0.938). The graph Laplacian's Green's function in 3D falls off as 1/r — the harmonic exterior. (This is the discrete analogue of ∇²(1/r) = 0; verified symbolically too: the 3D radial Laplacian of 1/r is 0.)
+**[reported check; script absent] (`f11_harmonic.py`)** On a `41^3` lattice, the source reports that a localized graph-source potential fits `Phi=A/r+C` with `R²=0.997`, compared with `0.938` for a `1/r²` control. Conditional on the stated continuum realization, the standard three-dimensional Green function has a harmonic `1/r` exterior.
 
-**Consequence — Poisson closes:** with Φ = −(d−d₀)/d₀ on the conserved-flow potential, harmonic in vacuum:
+**Conditional consequence — Poisson form:** with `Phi=-(d-d0)/d0` on the selected conserved-flow potential, harmonic in vacuum:
 - vacuum: ∇²Φ = 0 (the field is harmonic away from sources) — matches F10's traceless vacuum tidal tensor;
 - source: ∇²(A/r) = −4πA·δ³, so ∇²Φ = (4πA/d₀)·δ³ = 4πGρ with point mass M = A/(Gd₀).
 
@@ -80,14 +80,14 @@ So the framework **produces** a symmetric, conserved, rank-2 source with the rig
 - **F4–F7:** the flat tier — `c = 1` and the direct-bound null relation are native; the Lorentzian metric and `Aut(N) = SO^+(1,3)` are **Secured conditionally and Registered–Sealed on the stated direction carrier/manifold**. P7/G1 carrier recovery remains incompletely sealed.
 - **F8:** the coherence-participation functional, forced via Gleason (dim ≥ 3). **Done.**
 - **F9:** the standing vector σ_i = √(d_i)/Z; the tilt exactly linear in conditioning-degree. **Done.**
-- **F10:** genuine curvature — sign forced by atomicity, geodesic motion and tidal deviation verified by independent simulation. **Core done** (weak-field static 2+1; full-tensor/strong-field ahead).
+- **F10:** selected inverse-clock curvature model with retained geodesic/tidal reports. **Registered at bounded static `2+1` model scope**; source/clock uniqueness and common `3+1` implementation Open under P22.
 - **F11:** P22 conditionally Registers the harmonic exterior and scalar Poisson form while leaving source normalization and `G` Open. Stress-energy claims await P23 normalization; the full tensor/Lovelock route awaits P24. Lambda is governed separately by P28 sources.
 
 **Bounded arc:** the retained sources connect a conditional local participation tilt to a selected static clock metric, reported geodesic/tidal checks, and a separate harmonic three-dimensional exterior. P22 records the exact open edges; P23/P24 govern the tensor and full-GR continuation.
 
 ---
 
-### Appendix: scripts (run, outputs recorded above)
+### Appendix: named scripts absent from the repository; retained output claims above
 - `f11_poisson.py` — the weak-field reduction; the harmonic-exterior condition identified; symbolic ∇²(1/r)=0.
 - `f11_harmonic.py` — the conserved-flow Green's function on a 3D lattice: 1/r falloff, R² = 0.997 vs 1/r² control 0.938.
 - `f11_assemble.py` — weak-field closure + the Lovelock forcing argument with the four premises checked and gaps stated.
