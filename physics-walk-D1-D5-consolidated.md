@@ -131,7 +131,7 @@ This source historically proposed that matured metric and rotation/Lorentz struc
 
 ### D5.4 The realizability-weighting law (cross-cutting, registered)
 
-Actualization at a realizability fork follows P(k) = C(k)/Σⱼ C(j) — frequency proportional to coherence-participation, normalized, with the coherence-measure supplied by the domain. **Born** is the instance with the complex Hermitian-pairing measure (C = |ψ|²; the squared modulus and interference are that measure's signatures); **Boltzmann** the energy-measure instance; **deterministic admissibility** the binary-measure limit. Schrödinger = the realizability field evolving under the Hamiltonian (continuous: the coherent possible); collapse = the realizability→actuality transition (discrete: an actual is a This); the measurement problem dissolves as a confusion of two modal registers. *Registered; three gates to sealing (the frequency-weight identity; the exact |ψ|²-from-pairing computation; one end-to-end non-physics derivation).*
+The current bounded result is a normalized weighting measure tied to coherence participation, subject to the positive-pairing, rule-calculus, frame, normalization, and dimension conditions stated in `realizability-weighting-law.md` and `amplitude-readout-theorem.md`. Born-form quadratic weighting is conditional mathematics at that scope. The identity of weight with observed long-run frequency remains Open, the claimed Boltzmann end-to-end instance remains undone, and Schrödinger/collapse language contributes recognition rather than additional framework warrant.
 
 ---
 
