@@ -141,10 +141,7 @@ lattice, electroweak mixing, decay product typing.
 
 ### 6. Fermion/boson versus spin/helicity/chirality
 
-**Current support:** [P3](boson-fermion-and-holding-statistics.md) now governs the upstream mode/statistics load. The M4/M5 exchange theorem is Secured and inherited whole inside D1; boson/fermion and Pauli/Bose are Registered–Sealed only within their exact exchange-mode and complete-state holding scopes, with the holding consequences conditional on the D2 same-kind holding construction. Item 6 separately passes for spin/helicity/chirality machinery at Registered status. Spin as lifted-rotatability representation, elementary
-spin-1/2 by minimality, helicity as spin-vs-propagation comparison, `sigma . p`
-for `j=1/2`, binary handedness, maximal chirality/V-A, and parity violation are
-Registered. Exact chiral fermion module and hypercharge particulars remain Open.
+**Current support:** [P3](boson-fermion-and-holding-statistics.md) now governs the upstream mode/statistics load. The M4/M5 exchange theorem is Secured and inherited whole inside D1; boson/fermion and Pauli/Bose are Registered–Sealed only within their exact exchange-mode and complete-state holding scopes, with the holding consequences conditional on the D2 same-kind holding construction. Item 6 separately passes for spin/helicity/chirality machinery at Registered status. Spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity as spin-vs-propagation comparison, `sigma . p` for `j=1/2`, binary handedness, and the chiral/vectorial coupling distinction are Registered at their bounded structural scopes. Weak-interaction chirality is empirical corroboration only. Maximal chirality and exact `V−A` as framework derivations remain Open, and the exact chiral matter module and hypercharge particulars remain Open.
 
 **Smuggle risk:** demanding a second physical population or compatibility proof for the inherited `J` modes; reading Pauli as spatial-only exclusion; reading Bose permission as unlimited occupation; or importing universal later sector-purity, spin-statistics, matter/force roles, exact SM module content, hypercharge, Higgs/electroweak breaking, or unrelated higher-spin content from the registered machinery. A page
 may use the machinery; it may not automatically use the full SM representation

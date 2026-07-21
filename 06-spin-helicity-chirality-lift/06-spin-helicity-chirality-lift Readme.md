@@ -25,7 +25,7 @@ Item 5 `SU(2)` lift source; propagation direction; J-sector split; metric/lifted
 
 ## Actual load in current framework
 
-See [06-spin-helicity-chirality-lift](../06-spin-helicity-chirality-lift.md): spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity comparison and `σ·p` j=1/2 form, chiral/vectorial criterion, binary handedness, maximal chirality/V-A, and stripped Pauli/Bose holding.
+See [06-spin-helicity-chirality-lift](../06-spin-helicity-chirality-lift.md): spin as lifted-rotatability representation, elementary spin-1/2 by minimality, helicity comparison and `σ·p` j=1/2 form, the Registered chiral/vectorial criterion and binary handedness, and stripped Pauli/Bose holding. Weak-interaction chirality is empirical corroboration only; maximal chirality and exact `V−A` as framework derivations remain Open, as does the exact chiral matter module.
 
 ## Pass condition for the loop agent
 

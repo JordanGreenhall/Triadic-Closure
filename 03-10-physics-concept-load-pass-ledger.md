@@ -186,14 +186,14 @@ See [06-spin-helicity-chirality-lift](06-spin-helicity-chirality-lift.md). Item 
 - **Boundary:** Identification of discrete propagation-direction with continuum momentum direction inherits the Open manifold-recovery theorem.
 - **Fail condition:** Pauli matrices or `σ·p` are inserted because they are standard physics notation.
 
-### 6.3 Chirality / handedness / V-A / parity violation
+### 6.3 Chirality / handedness / weak-interaction boundary
 
-- **Physics concept:** Chirality, left/right handedness, V-A/maximal chirality, parity violation.
-- **Actual physics job:** Explains weak parity violation and orientation-faithful coupling behavior.
+- **Physics concept:** Chirality, left/right handedness, chiral/vectorial coupling, and the exact weak-interaction boundary.
+- **Actual physics job:** Distinguishes orientation-faithful from vectorial coupling behavior without deriving the weak interaction's exact chiral form.
 - **Current framework use:** Chiral/vectorial criterion; weak handedness; future exact chiral module.
-- **Grade:** **Registered.** Chiral iff orientation-faithful; binary handedness L/R arises as the two orientation-classes of the spinor under From-orientation; maximal chirality/V-A and parity violation follow because parity reverses orientation and the coupling is orientation-faithful.
-- **Boundary:** Exact chiral fermion module, L-doublets/R-singlets, multiplicities, V-A exact module content, and hypercharge particulars remain Open under Items 8/13 and are not Item 6 load.
-- **Fail condition:** Structural chirality is treated as if it already supplies the exact SM chiral fermion module.
+- **Grade:** **Registered.** The chiral/vectorial coupling distinction and binary handedness are Registered at their bounded structural scopes.
+- **Boundary:** Weak-interaction chirality is empirical corroboration only. Maximal chirality and exact `V−A` as framework derivations remain Open, and the exact chiral matter module remains Open under Items 8/13.
+- **Fail condition:** Structural chirality is treated as if it already supplies maximal chirality, exact `V−A`, parity-violation derivation, or the exact SM chiral fermion module.
 
 ### 6.4 Pauli/Bose, boson/fermion essence
 
