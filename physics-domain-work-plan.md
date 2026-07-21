@@ -14,6 +14,7 @@ sources:
   - d6-persistence.md
   - p7-manifold-recovery-and-local-continuum.md
   - with-to-this-closure.md
+  - p22-weak-field-gravity-as-participation-curvature.md
   - mass-as-self-closure.md
   - flavor-mark-metric-and-neutron.md
   - physics-domain-mature-status.md
@@ -84,14 +85,14 @@ Current status: P8 carrier theorem Registered with named seal residuals; P9 SU(3
 - Do not use P9 to prove P8 dimension or complexness.
 - Do not attach P7/G1 to the internal carrier merely because the carrier is continuous.
 
-### 5. Full gravity beyond weak-field
+### 5. P22 weak-field gravity and full-gravity boundary
 
-Current status: weak-field Registered; full route conditional; nonlinear sector incomplete.
+Current status: P22 Registers a bounded selected static model with reported geodesic/tidal support and a conditional harmonic/Poisson form. Source/clock uniqueness, a common `3+1` implementation, source normalization, and `G` remain Open. Full route is P24-conditional; nonlinear sector incomplete.
 
-- Extend beyond `g00`.
-- Establish the second-order premise or state its exact condition.
-- Test strong-field behavior.
-- Keep exact `G` Open until computed.
+- Preserve P22's three local/global gaps and retained-report status.
+- Do not identify normalized weight with trajectory frequency or a physical source.
+- Route extension beyond `g00`, the second-order premise, and strong-field behavior to P24.
+- Keep exact `G` Open until a source normalization and calibration are derived.
 
 ## Priority 2 — Important downstream frontiers
 
@@ -175,7 +176,7 @@ Current status: Open.
 3. P7: manifold recovery split and spatial-sector narrowing established; native smoothness seal remains the real frontier.
 4. P8: same-kind internal carrier is the next normalization unit.
 5. P9: SU(3) bridge remains downstream of P8.
-6. Gravity: weak-field Registered; full nonlinear form incomplete.
+6. P22 gravity: bounded static model Registered; source/clock uniqueness, common `3+1` implementation, source normalization, and `G` Open; P24 nonlinear form incomplete.
 7. Stress-energy: representational Registered; dynamical population incomplete.
 8. Chiral module/hypercharge: criterion Registered; exact content Open/conditional.
 9. P6: generic form and bounded witnesses established; domain-grade population and stronger basic-ruler problem Open.
@@ -185,9 +186,9 @@ Current status: Open.
 
 ## Immediate edit targets
 
-1. Keep [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), [Gravity and Curvature](gravity-and-curvature.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
-2. Execute P8 under the normalization-program catalog.
-3. Remove successor-handoff language from P7 consumers; retain it for X1.
+1. Keep [P22 Weak-Field Gravity](p22-weak-field-gravity-as-participation-curvature.md), [P7 Manifold Recovery](p7-manifold-recovery-and-local-continuum.md), [P5 Propagation](propagation-and-invariant-velocity.md), and [Mature Status](physics-domain-mature-status.md) synchronized.
+2. Execute P23 under the normalization-program catalog only after P22 merges.
+3. Preserve P22/P23/P24 boundaries and do not reactivate absent computation scripts as evidence.
 4. Preserve local frontiers in owning pages and only corpus-wide summaries globally.
 
 See also: [physics-domain-mature-status](physics-domain-mature-status.md), [p7-manifold-recovery-and-local-continuum](p7-manifold-recovery-and-local-continuum.md), [d6-persistence](d6-persistence.md), [same-kind-carrier-representation-theorem](same-kind-carrier-representation-theorem.md).
