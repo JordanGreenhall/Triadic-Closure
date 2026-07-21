@@ -1,0 +1,25 @@
+P25 exact bounded-logic evidence
+
+Exact base: a965f72d339c18bb03cfe15bb036393d0c6cb378
+Verifier head: 4b03c1b1def8dd1978d534221ad2f2d6301fdab0
+
+The deterministic verifier enumerates the Boolean valuations of:
+- G2: the bounded arena/metric phase mapping stands;
+- completed-G3: a completed perturbative non-renormalizability derivation stands.
+
+Valuations:
+- G2=false, completed-G3=false
+- G2=false, completed-G3=true
+- G2=true, completed-G3=false
+- G2=true, completed-G3=true
+
+The exact countermodel to `G2 entails completed-G3` is:
+
+G2=true, completed-G3=false
+
+Therefore normalization must not promote the bounded G2 mapping into completed G3. The verifier also compares the deployment records:
+
+spatial_arena = (With-image, horizontal, P7 carrier debt)
+internal_pairing = (This-image, vertical, P18 pairing boundary)
+
+The tuples are unequal, so the two deployments must not be collapsed. This finite check validates the corpus distinction; it is not a physical perturbative calculation and supplies no G3 warrant.

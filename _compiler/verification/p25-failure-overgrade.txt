@@ -1,0 +1,10 @@
+P25 deterministic rejection evidence — completed-G3 overgrade
+
+Exact base: a965f72d339c18bb03cfe15bb036393d0c6cb378
+Verifier head: 4b03c1b1def8dd1978d534221ad2f2d6301fdab0
+Fixture: in an overlay copy of the canonical owner, replace the first `Conjectured overall and Unregistered as a completed framework derivation` record with `Secured and Registered as a completed framework derivation`.
+Command: python3 _compiler/verify_p25.py --base a965f72d339c18bb03cfe15bb036393d0c6cb378 --overlay /tmp/p25-overlay-overgrade
+Exit: 1
+
+P25 normalization verification: FAIL
+- missing canonical P25 element: Conjectured overall and Unregistered as a completed framework derivation
