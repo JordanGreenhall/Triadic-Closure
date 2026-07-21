@@ -66,7 +66,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 
 P19 registers `m_e = 1` as the native internal ruler, seats one P18 color closure across three spatial bearings to give the exact With–This factor `6 pi^5`, and records the complete proton/electron relation as `6 pi^5 [1 + c(3 pi^4)^-2]` with `3/2 <= c <= 9/4`. The exact internal selection of `c` remains Open.
 
-P20 retains baryon singlet closure and the shared-singlet/`uud`–`udd` nucleon distinction at bounded inherited scopes. Its framework-derived neutron-heavier sign, physical `1/4` access weight, and complete splitting magnitude are Conjectured. Decay is P21-owned.
+P20 retains baryon singlet closure and the shared-singlet/`uud`–`udd` nucleon distinction at bounded inherited scopes. Its framework-derived neutron-heavier sign, physical `1/4` access weight, and complete splitting magnitude are Conjectured. P21 governs decay without upgrading those P20 results.
 
 P21 Registers the displayed forward closure and the generic decay classifier. The office-form inverse and neutron passage are Conjectured; product settlement, channel rate, lifetime, beta spectrum, and weak mechanism remain separately Conjectured, Open, empirical, or quarantined.
 

@@ -278,6 +278,10 @@ The retained two-ledger proposal is therefore a research route, not current prod
 
 **Next legitimate research action:** after P21-F1, construct the local alternative frame and hazard separately from empirical calibration.
 
+## Verdict
+
+P21 Registers the displayed forward With-to-This closure and the generic structural decay classifier at their bounded scopes. It does not establish a literal inverse theorem. The office-form inverse and neutron `udd -> uud` passage are Conjectured; electron production is Open internally; the antineutrino receipt and kinetic-release reading are Conjectured; observed products and quantitative ledgers are empirical; and rates, lifetimes, spectra, exact weak module, and beta mechanism remain Open, empirical, or quarantined. P20's sign, access-weight, and magnitude frontiers remain inherited and unchanged.
+
 ## Mass-ratio boundary
 
 This result fixes a modeled closure configuration and its tested selection. It does not determine the magnitude of the resulting closure's self-bearing. That measure belongs to [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
