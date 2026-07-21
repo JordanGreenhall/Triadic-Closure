@@ -8,6 +8,7 @@ failure-capability tests without changing the worktree.
 from __future__ import annotations
 
 import argparse
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -47,14 +48,53 @@ def corpus_text(relative: str, overlay: Path | None) -> str:
 
 def simulated_text(relative: str, text: str) -> str:
     if SIMULATE is not None and SIMULATE.startswith("downstream-"):
-        stale = {
-            "downstream-imports": ("12-gravity-full-gr-imports.md", "| `Λ` structural meaning: stress-energy of self-closure, `w = -1` | **Registered** | Magnitude advanced by grqm-conflict-status: scaling Registered; native complete `3 R_H^-2` Conjectured-strong; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open. |"),
-            "downstream-ledger": ("03-10-physics-concept-load-pass-ledger.md", "- **`Λ` structural meaning:** stress-energy of self-closure, `w=-1` — **Registered**; scaling `Λ ∼ R_H^-2` **Registered**; native complete `3 R_H^-2` **Conjectured-strong**; present value `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; dynamics Open."),
-            "downstream-smuggle": ("sm-content-smuggle-audit-frontier.md", "Lambda structural meaning and scaling are Registered; native complete `3 R_H^-2` is Conjectured-strong; present `Λ_present = 3 f_reflexive R_H^-2` with empirical note `f_reflexive ≈ Ω_DE ≈ 0.685`; Lambda dynamics remain Open."),
-            "downstream-deferred": ("deferred-articulations-map.md", "Every quantitative claim that has had to be retracted (the Λ magnitude, Σ|h|² for the holding, the coupling constants) came from deferred articulation."),
-        }
-        stale_path, stale_text = stale[SIMULATE]
-        return stale_text if relative == stale_path else text
+        lower_body = (
+            "structural meaning, positive sign, metric-proportional form, and inherited `w=-1` semantics are "
+            "**Registered at structural scope**; macro `Lambda ~ R_H^-2` scaling is **Registered at macro-scaling scope**; "
+            "complete/full-closure coefficient `3` is **Conjectured-strong and Unregistered**; "
+            "`Lambda = 3 Omega_Lambda R_H^-2` is a **definitional identity** under the adopted definitions, "
+            "**not empirical confirmation**; the framework reflexive-fraction to observed-fraction mapping is "
+            "**Conjectured-strong and Unregistered**, dependent on **empirical input**; native expansion dynamics and "
+            "`w(z)` are **Open and Unregistered**"
+        )
+        old_body = (
+            "structural meaning and scaling are **Registered**; native complete `3 R_H^-2` is "
+            "**Conjectured-strong**; present `Lambda_present = 3 f_reflexive R_H^-2` with an empirical observed-fraction "
+            "note; dynamics remain Open"
+        )
+
+        def replace_once(old: str, new: str) -> str:
+            if old not in text:
+                fail(f"simulation source surface absent in {relative}: {SIMULATE}")
+            return text.replace(old, new, 1)
+
+        if SIMULATE == "downstream-imports" and relative == "12-gravity-full-gr-imports.md":
+            return replace_once(lower_body, old_body)
+        if SIMULATE == "downstream-ledger" and relative == "03-10-physics-concept-load-pass-ledger.md":
+            return replace_once("Structural" + lower_body[10:], "Structural meaning and scaling are **Registered**; native complete `3 R_H^-2` is **Conjectured-strong**; present identity carries an empirical observed-fraction note; dynamics remain Open")
+        if SIMULATE == "downstream-smuggle" and relative == "sm-content-smuggle-audit-frontier.md":
+            return replace_once(lower_body, old_body)
+        if SIMULATE == "downstream-deferred" and relative == "deferred-articulations-map.md":
+            return replace_once(
+                "the unsupported exact/numerical Lambda coefficient, confirmatory present-magnitude language, stronger dynamical claims",
+                "the Λ magnitude",
+            )
+        if SIMULATE == "downstream-coefficient-grade" and relative == "12-gravity-full-gr-imports.md":
+            return replace_once(
+                "complete/full-closure coefficient `3` is **Conjectured-strong and Unregistered**",
+                "complete/full-closure coefficient `3` is retained without a grade",
+            )
+        if SIMULATE == "downstream-translation-grade" and relative == "12-gravity-full-gr-imports.md":
+            return replace_once(
+                "the framework reflexive-fraction to observed-fraction mapping is **Conjectured-strong and Unregistered**, dependent on **empirical input**",
+                "the framework reflexive-fraction to observed-fraction mapping is dependent on **empirical input**",
+            )
+        if SIMULATE == "downstream-structural-elements" and relative == "12-gravity-full-gr-imports.md":
+            return replace_once(
+                "structural meaning, positive sign, metric-proportional form, and inherited `w=-1` semantics are **Registered at structural scope**",
+                "structural meaning is **Registered at structural scope**",
+            )
+        return text
     if relative != OWNER or SIMULATE is None:
         return text
     if SIMULATE == "frontier":
@@ -89,6 +129,7 @@ def main() -> None:
         choices=(
             "confirmation", "coefficient", "dynamics", "flatness", "frontier", "boundary",
             "downstream-imports", "downstream-ledger", "downstream-smuggle", "downstream-deferred",
+            "downstream-coefficient-grade", "downstream-translation-grade", "downstream-structural-elements",
         ),
         help="in-memory stale-state mutation for rejection-capability tests",
     )
@@ -213,22 +254,25 @@ def main() -> None:
         "sm-content-smuggle-audit-frontier.md",
     )
     downstream_requirements = (
-        OWNER,
-        "Registered at structural scope",
-        "Registered at macro-scaling scope",
-        "Conjectured-strong and Unregistered",
-        "definitional identity",
-        "not empirical confirmation",
-        "empirical input",
-        "Open and Unregistered",
+        ("structural claim", r"structural meaning, positive sign, metric-proportional form, and inherited `w=-1` semantics are \*\*Registered at structural scope\*\*"),
+        ("macro-scaling claim", r"macro `Lambda ~ R_H\^-2` scaling is \*\*Registered at macro-scaling scope\*\*"),
+        ("coefficient claim", r"complete/full-closure coefficient `3` is \*\*Conjectured-strong and Unregistered\*\*"),
+        ("definitional-identity claim", r"`Lambda = 3 Omega_Lambda R_H\^-2` is a \*\*definitional identity\*\* under the adopted definitions, \*\*not empirical confirmation\*\*"),
+        ("observed-fraction translation claim", r"framework reflexive-fraction to observed-fraction mapping is \*\*Conjectured-strong and Unregistered\*\*, dependent on \*\*empirical input\*\*"),
+        ("native-dynamics claim", r"native expansion dynamics and `w\(z\)` are \*\*Open and Unregistered\*\*"),
     )
     for consumer in downstream_consumers:
         text = corpus_text(consumer, overlay)
-        for needle in downstream_requirements:
-            require(text, needle, consumer)
+        route = f"[P28]({OWNER})"
+        require(text, route, consumer)
+        surface = text[text.index(route):text.index(route) + 1600]
+        for label, pattern in downstream_requirements:
+            if re.search(pattern, surface, flags=re.IGNORECASE) is None:
+                fail(f"{consumer} lacks claim-specific P28 {label}")
         forbid(text, "`Λ_present = 3 f_reflexive R_H^-2` with empirical note", consumer)
 
     deferred = corpus_text("deferred-articulations-map.md", overlay)
+    forbid(deferred, "include the Λ magnitude", "deferred-articulations-map.md")
     for needle in (
         OWNER,
         "unsupported exact/numerical Lambda coefficient",
