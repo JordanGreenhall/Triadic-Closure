@@ -31,6 +31,10 @@ sources:
   - p23-stress-energy-as-three-office-source.md
   - p24-full-einstein-form-as-conditional-rigidity.md
   - p25-grqm-background-conflict-and-nonrenormalizability.md
+  - p26-matter-sourced-geometry-holonomy-and-bmv.md
+  - p27-horizon-area-entropy-temperature-and-information.md
+  - p28-lambda-cosmological-closure-magnitude-and-dynamics.md
+  - p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md
   - physics-domain-mature-status.md
   - domain-entry-method.md
 ---
@@ -76,6 +80,7 @@ Read by semantic dependency rather than file age.
 26. [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md).
 27. [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md).
 28. [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md).
+29. [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md).
 
 Non-unit control: [Physics Domain Mature Status](physics-domain-mature-status.md).
 
@@ -122,7 +127,7 @@ Reader guards:
 - P21 Registers the displayed forward closure and generic decay classifier, not a literal inverse theorem.
 - The office-form inverse and neutron `udd -> uud` passage are Conjectured; electron production is Open internally, antineutrino receipt is Conjectured, and observations remain empirical.
 - Channel weight is not frequency; lifetime, rate, beta spectrum, exact weak module, and mechanism remain Open, empirical, or quarantined.
-- P27 owns horizon entropy and `A/4`; P29 owns Higgs/Yukawa mass generation and spectrum.
+- P27 owns horizon entropy and `A/4`; [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) owns exact electroweak completion, Higgs/Yukawa mass generation, generations, and spectrum, all currently Open and Unregistered as physical completion.
 
 ## 5. Gravity and cosmology
 

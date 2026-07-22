@@ -1,0 +1,43 @@
+simulation=owner-module
+P29 verification: FAIL: canonical standing summary: missing 'the exact chiral matter module and one-generation content are **Open and Unregistered**'
+exit=1
+
+simulation=owner-higgs
+P29 verification: FAIL: canonical standing summary: missing 'a framework Higgs object, representation, potential, vacuum/ground selection, breaking scale, Yukawa map, Yukawa couplings, and resulting mass mechanism are **Open and Unregistered**'
+exit=1
+
+simulation=owner-generations
+P29 verification: FAIL: canonical standing summary: missing 'generation count is **Open and Unregistered**'
+exit=1
+
+simulation=owner-spectrum
+P29 verification: FAIL: canonical standing summary: missing 'a framework numerical particle spectrum is **Open and Unregistered**'
+exit=1
+
+simulation=owner-triad
+P29 verification: FAIL: canonical standing summary: missing 'the primitive triad does not entail three generations'
+exit=1
+
+simulation=frontier-f1
+P29 verification: FAIL: P29-F1: expected one canonical local frontier, got 0
+exit=1
+
+simulation=frontier-f2
+P29 verification: FAIL: missing section end '### P29-F2'
+exit=1
+
+simulation=frontier-f3
+P29 verification: FAIL: missing section end '### P29-F3'
+exit=1
+
+simulation=status-overgrade
+P29 verification: FAIL: mature status: missing '| P29 generations and numerical particle spectrum | Open; mass-Casimir route candidate/Unexecuted | Unregistered |'
+exit=1
+
+simulation=ledger-overgrade
+P29 verification: FAIL: Item 13 ledger: missing 'Unexecuted and Unregistered'
+exit=1
+
+simulation=shadow-route
+P29 verification: FAIL: Item 13 shadow route: missing '[P29](../p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md)'
+exit=1

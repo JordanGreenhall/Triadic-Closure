@@ -1,10 +1,11 @@
 ---
 title: "Frontier Item 13: Higgs / Yukawa / electroweak / generations / spectrum quarantine"
 type: process
-status: quarantined-until-upstream-machinery
+status: current-shadow
 frontier_item: 13
 updated: 2026-06-25
 sources:
+  - ../p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md
   - ../gauge-structure-result.md
   - ../chiral-coupling-result.md
   - ../physics-domain-mature-status.md
@@ -14,7 +15,7 @@ sources:
 
 ## Brief
 
-Keep Higgs/Yukawa/electroweak/generations/spectrum claims out of native proof work until prerequisite machinery exists.
+Keep Higgs/Yukawa/electroweak/generations/spectrum claims out of native proof work until prerequisite machinery exists. [P29](../p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) now controls every claim, grade, and frontier; this page is its concise process shadow.
 
 ## Dependencies
 
@@ -26,7 +27,7 @@ Higgs value/potential/mass, Yukawa couplings, electroweak breaking, W/Z/photon s
 
 ## Pass condition for the loop agent
 
-PASS requires either native derivation from completed gauge/module/charge/value machinery or explicit quarantine/comparison status. This item mostly guards against premature use rather than proving content now.
+PASS is achieved as an authority-bounded quarantine under P29. Physical completion would still require native derivation from completed gauge/module/charge/value machinery. This item guards against premature use rather than proving content now.
 
 ## Fail / smuggle condition
 

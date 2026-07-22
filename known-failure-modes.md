@@ -35,8 +35,10 @@ Examples:
 - treating color as a mediation carrier rather than This-flattening;
 - using the historical D6 stability route to prove exact `3+1`;
 - treating the historical D6 walk or Φ as a current derivation of atoms, confinement dynamics, particle spectrum, Higgs structure, or the periodic landscape.
+- treating upstream gauge/chirality/charge/mass structures, primitive triadic arity, or a named Casimir as a derivation of P29 electroweak breaking, Higgs/Yukawa structure, three generations, or a numerical spectrum.
 
 Always consult [supersession-map](supersession-map.md).
+Use [P29 Standard Model Completion](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) for every electroweak/Higgs/Yukawa/generation/spectrum grade.
 
 ## 3. Vertical/horizontal collapse
 

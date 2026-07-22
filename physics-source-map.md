@@ -45,6 +45,7 @@ Curated pages govern status; historical sources are provenance only.
 | [p26-matter-sourced-geometry-holonomy-and-bmv](p26-matter-sourced-geometry-holonomy-and-bmv.md) | Geometry-definiteness, causal-growth/holonomy, BMV translation, and Open decoherence/radiation claims; P26 owner |
 | [p27-horizon-area-entropy-temperature-and-information](p27-horizon-area-entropy-temperature-and-information.md) | Physical horizon, area, temperature, entropy, conditional `A/4` algebra, and information/unitarity boundaries; P27 owner |
 | [p28-lambda-cosmological-closure-magnitude-and-dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) | Lambda structure, macro scaling, complete coefficient, present-state identity, native dynamics, conditional flatness, and problem-dissolution boundaries; P28 owner |
+| [p29-standard-model-completion-electroweak-breaking-generations-and-spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) | Exact electroweak module/breaking, Higgs/Yukawa construction, generation multiplicity, numerical spectrum, and quarantine boundaries; P29 owner |
 | [11-decay-product-registration](11-decay-product-registration.md) | Concise Item 11 shadow; P21 governs every claim and grade |
 | [flavor-mark-metric-and-neutron](flavor-mark-metric-and-neutron.md) | Supporting P14/P20 derivation and P21 inverse/product proposal; canonical numbered owners govern claims and grades |
 | [neutron-consideration](neutron-consideration.md) | Historical/adversarial for P20/P21; retains failed routes and candidate calculations |
@@ -58,7 +59,7 @@ Curated pages govern status; historical sources are provenance only.
 
 Additional normalized controls:
 
-- P1 through P28 are owned by their normalized pages.
+- P1 through P29 are owned by their normalized pages.
 - [domain-entry-method](domain-entry-method.md) — F4.
 - [physics-walk-checklist](physics-walk-checklist.md).
 - [three-moves-per-stage](three-moves-per-stage.md).

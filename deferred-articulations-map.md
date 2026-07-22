@@ -12,7 +12,7 @@ Essences were sealed; articulations were honestly marked deferred. Quantitative 
 
 From the record, the sealed Hamiltonian is **essence only**: "the conserved coherent total generator of the field's joint self-transformation, generating temporal succession, conservation = time-translation invariance — full form, not full articulation." The strip-down test explicitly deferred "kinetic + potential + interaction terms, **spectrum**, continuum-filling" as articulation.
 
-The masses are the **spectrum** of the Hamiltonian (closure = eigenstate of the step-generator; mass = eigenvalue; lepton = lowest; ratios = eigenvalue ratios). So:
+The proposed masses-as-Hamiltonian-spectrum articulation is a candidate route governed by [P29](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md), not a current derivation. P29 keeps the complete/numerical particle spectrum Open and Unregistered. In the deferred chain:
 
 - **H spectrum (the masses)** depends on →
 - **H articulation** (the actual operator: kinetic/potential/interaction terms) depends on →

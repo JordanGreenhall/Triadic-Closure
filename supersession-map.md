@@ -69,6 +69,14 @@ Execution rule: do not use "mediation carrier" as current doctrine unless explic
 
 Execution rule: use P28 for every Lambda/cosmology grade. Do not say Lambda has no framework meaning, but do not turn plane count into coefficient warrant, definition into confirmation, unit conversion into a vacuum-energy calculation, imported dynamics into native dynamics, or conditional flatness into unconditional observed flatness.
 
+### P29 Standard Model-completion standing
+
+- Earlier D6 walk: `physics-walk-D1-D6.md` declared a particle spectrum from stabilized Casimirs and electroweak mass generation from a minimal Higgs.
+- Earlier/open controls: the Item 13 quarantine and work plan retained exact module, breaking, Higgs/Yukawa, generations, and spectrum without one canonical owner.
+- Current: [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) Registers only the authority-bounded quarantine. Exact electroweak module/breaking, Higgs/Yukawa construction, generation count, and numerical spectrum are Open and Unregistered. The D5 mass-Casimir route is candidate, Unexecuted, and Unregistered.
+
+Execution rule: use P29 for every electroweak-breaking, Higgs/Yukawa, generation, and full/numerical-spectrum grade. Do not turn group-form, chirality, hypercharge architecture, primitive triadic arity, representation eigenvalues, fixed points, or empirical fits into the missing constructions.
+
 ### P22 weak-field gravity standing
 
 - Earlier integrated pages: `gravity-asymmetry.md`, `mathematization-F10-resolved.md`, and `mathematization-F11.md` described the inverse clock, curvature checks, and Poisson equation as completed or derived, while the named scripts were not retained in GitHub.
