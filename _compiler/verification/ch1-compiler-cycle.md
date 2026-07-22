@@ -19,7 +19,7 @@ Separated candidate boundary, candidate D1 form, and established occupant. Prese
 
 ### Pass 3 — Dependency and propagation
 
-Installed one CH1 owner, one global chemistry status/frontier control, and routes in the corpus index and repository inventory. X1 debts remain attached.
+Installed one CH1 owner, one global chemistry status/frontier control, one claim-specific supersession control, and routes in the corpus index and repository inventory. X1 debts remain attached.
 
 ### Pass 4 — Structural normalization
 
@@ -51,8 +51,8 @@ No source was deleted. The supplemental chemistry material retains detailed deri
 
 ### Pass 11 — Verification and readability
 
-Installed `_compiler/verify_ch1.py`; performed connector-backed exact reads of the owner and global control; confirmed required standing language, CH2 boundary, and local/global frontier placement; completed a stateless fresh-reader review.
+Installed `_compiler/verify_ch1.py`; performed connector-backed exact reads of the owner and global control; confirmed required standing language, CH2 boundary, local/global frontier placement, and claim-specific succession; completed a stateless fresh-reader review.
 
 ## Cycle 2 — No-change review
 
-Re-read the canonical owner and global control after the explicit CH2-boundary repair. No further authority, grade, boundary, frontier, or readability change was required. CH1 reached a semantic fixed point for the staged artifact set.
+Re-read the canonical owner, global control, and claim-specific supersession control after the final boundary repairs. No further authority, grade, boundary, frontier, succession, or readability change was required. CH1 reached a semantic fixed point for the staged artifact set.
