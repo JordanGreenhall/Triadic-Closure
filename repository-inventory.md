@@ -121,8 +121,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `ch1-supersession-control.md` — claim-specific CH1 succession and execution control
 - `ch2-two-center-capacity-ownership-and-mode-fork.md` — canonical CH2 owner
 - `ch2-supersession-control.md` — claim-specific CH2 succession and execution control
+- `ch3-maintenance-relief-and-energetic-ordering.md` — canonical CH3 owner
+- `ch3-supersession-control.md` — claim-specific CH3 succession and execution control
 
-The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns only the bounded capacity, occupancy distinction, ownership interpretation, and mode-count consequences. CH3 and later chemistry remain unnormalized.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and the unresolved energetic-ordering boundary. CH4 and later chemistry remain unnormalized.
 
 ## Historical, superseded, or provenance material
 
