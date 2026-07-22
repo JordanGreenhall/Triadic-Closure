@@ -2,7 +2,7 @@
 title: Supersession Map
 type: overview
 created: 2026-06-21
-updated: 2026-07-17
+updated: 2026-07-21
 status: control
 confidence: high
 sources:
@@ -12,6 +12,7 @@ sources:
   - d6-persistence.md
   - gauge-structure-result.md
   - mathematization-F10-resolved.md
+  - x1-physics-maturity-and-chemistry-entry-gate.md
 historical_sources:
   - raw/context/full-conversation-ledger.md
 ---
@@ -76,6 +77,13 @@ Execution rule: use P28 for every Lambda/cosmology grade. Do not say Lambda has 
 - Current: [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) Registers only the authority-bounded quarantine. Exact electroweak module/breaking, Higgs/Yukawa construction, generation count, and numerical spectrum are Open and Unregistered. The D5 mass-Casimir route is candidate, Unexecuted, and Unregistered.
 
 Execution rule: use P29 for every electroweak-breaking, Higgs/Yukawa, generation, and full/numerical-spectrum grade. Do not turn group-form, chirality, hypercharge architecture, primitive triadic arity, representation eigenvalues, fixed points, or empirical fits into the missing constructions.
+
+### X1 physics-to-chemistry interface standing
+
+- Earlier candidate deposit: `physics-chemistry-gate-crossing.md` treated an atom/periodic landscape as the physics D6 ground, proposed shell-edge closure-completion as the chemistry boundary, moved directly into the bond primitive, and selected carbon and a universal handoff law at candidate grade.
+- Current: [X1 Physics Maturity and Chemistry Entry Gate](x1-physics-maturity-and-chemistry-entry-gate.md) Registers only the authority-bounded interface adjudication. A framework atom, shells, periodic landscape, and shell-edge object are Open and Unregistered. Shell-edge completion is candidate/Conjectured and has not met F4 validity or nonemptiness. Static mass hierarchy does not supply dynamical scale separation. Carbon and the universal handoff generalization remain Conjectured and Unregistered.
+
+Execution rule: use X1 for every physics-to-chemistry gate, scale-separation, D7-carbon, and general handoff grade. Do not use P6, particle-role names, P15 charge-valence, P19's ratio, empirical atoms or molecules, carbon's familiar chemistry, or the historical deposit to manufacture the missing atomic ground, boundary, bond, adiabatic theorem, selection maximum, or universal law.
 
 ### P22 weak-field gravity standing
 
@@ -231,10 +239,10 @@ Cleaner than `d3-as-established.md` in some respects, but still must be checked 
 
 ### `physics-chemistry-gate-crossing.md`
 
-A candidate deposit, explicitly not wiki-standing. Its D6 atom premise, periodic landscape, carbon selection, and successor-gate claims cannot be used as current P6 or chemistry doctrine until P6-F1 and the owning later units are discharged and the deposit receives its own normalization.
+This file is now a historical/process shadow. Its original atom, shell, periodic-landscape, bond, carbon, and general handoff routes remain useful candidate research and adversarial provenance, but current standing and grades are owned by [X1 Physics Maturity and Chemistry Entry Gate](x1-physics-maturity-and-chemistry-entry-gate.md).
 
 ## Open supersession work
 
-A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. P7 must normalize carrier/manifold recovery without treating P5's conditional theorem as recovery. Later atom and chemistry units must begin from P6-F1 rather than reactivating the old D6/Φ route.
+A future consolidation should produce one clean gravity derivation and one clean gauge/internal-structure derivation, marking older modules explicitly historical. P7 must normalize carrier/manifold recovery without treating P5's conditional theorem as recovery. Atomic and chemistry work must begin from the exact X1 frontier rather than reactivating the old D6/Φ or gate-deposit routes.
 
-See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md), [P23 stress-energy](p23-stress-energy-as-three-office-source.md), [gravity-and-curvature](gravity-and-curvature.md), and [known-failure-modes](known-failure-modes.md).
+See also: [corpus-lineage](corpus-lineage.md), [dimension-and-spacetime-status](dimension-and-spacetime-status.md), [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md), [d6-persistence](d6-persistence.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [gauge-structure-result](gauge-structure-result.md), [X1 Physics Maturity and Chemistry Entry Gate](x1-physics-maturity-and-chemistry-entry-gate.md), [P22 weak-field gravity](p22-weak-field-gravity-as-participation-curvature.md), [P23 stress-energy](p23-stress-energy-as-three-office-source.md), [gravity-and-curvature](gravity-and-curvature.md), and [known-failure-modes](known-failure-modes.md).

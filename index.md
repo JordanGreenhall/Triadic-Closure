@@ -99,7 +99,10 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 
 ## Physics-to-chemistry transition
 
-- [Physics–Chemistry Gate Crossing — X1 candidate source](physics-chemistry-gate-crossing.md)
+- [X1 Physics Maturity and Chemistry Entry Gate](x1-physics-maturity-and-chemistry-entry-gate.md) — canonical interface owner
+- [Physics–Chemistry Gate-Crossing](physics-chemistry-gate-crossing.md) — historical/process shadow
+
+X1 records that the inherited physics package does not yet construct the atomic ground, shell-edge object, or dynamical scale separation required to establish chemistry entry. Shell-edge completion remains a candidate constraint; CH1 does not begin as an already licensed result.
 
 ## Historical and provenance
 
