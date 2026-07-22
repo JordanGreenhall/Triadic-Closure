@@ -8,6 +8,7 @@ confidence: high
 sources:
   - x1-physics-maturity-and-chemistry-entry-gate.md
   - ch1-chemical-domain-gate-and-bond-primitive.md
+  - ch2-two-center-capacity-ownership-and-mode-fork.md
 ---
 
 # Chemistry Domain Mature Status
@@ -19,15 +20,17 @@ This page is the global chemistry status and frontier control. It records only n
 | Unit | Owner | Current result | Boundary |
 |---|---|---|---|
 | X1 | `x1-physics-maturity-and-chemistry-entry-gate.md` | Registered control boundary; chemistry antecedents not discharged | physics-to-chemistry interface only |
-| CH1 | `ch1-chemical-domain-gate-and-bond-primitive.md` | bond retained as Conjectured-strong candidate D1 form; no established occupant | CH2 and later chemistry excluded |
+| CH1 | `ch1-chemical-domain-gate-and-bond-primitive.md` | bond retained as Conjectured-strong candidate D1 form; no established occupant | CH2 consequences remain conditional |
+| CH2 | `ch2-two-center-capacity-ownership-and-mode-fork.md` | bounded capacity and mode-count consequences Secured conditionally; ownership Conjectured-strong | CH3 energy/maintenance excluded |
 
 ## Current chemistry standing
 
-- Chemistry entry is not yet established.
-- The framework-native atom, shell decomposition, residual shell edge, boundary validity, and framework nonemptiness remain unfinished under X1.
-- The bond-as-joint-standing formulation is the current selected CH1 form and is Conjectured-strong.
-- No chemistry D1 occupant is Registered.
-- CH2 has not begun and may not be read backward as warrant for CH1.
+- Chemistry entry and an actual bond occupant remain unestablished under X1/CH1.
+- CH2 conditionally Secures capacity two for one shared spatial mode under inherited spin holding.
+- Capacity does not determine occupancy.
+- The two-center symmetric/antisymmetric mode decomposition and bounded `n`-center dimension count are Secured conditionally.
+- Composite ownership remains Conjectured-strong and Unregistered as a physical ownership theorem.
+- No energetic ordering or bonding/antibonding identification is established.
 
 ## Global frontiers
 
@@ -79,6 +82,54 @@ This page is the global chemistry status and frontier control. It records only n
 
 **Next legitimate research action:** define the structural passage class.
 
+### CH2-F1 — physical occupancy rule
+
+**Standing:** Open and Unregistered.
+
+**Current strongest:** bounded capacity two and admissibility of one occupancy are separated.
+
+**Missing:** a native occupancy-selection rule for a concrete standing.
+
+**Dependencies:** CH1-F2 and inherited fermionic holding.
+
+**False-completion warning:** capacity is not filling.
+
+**Local owner:** `ch2-two-center-capacity-ownership-and-mode-fork.md`.
+
+**Next legitimate research action:** construct one admitted standing and derive occupancy.
+
+### CH2-F2 — composite ownership registration
+
+**Standing:** Conjectured-strong; Unregistered as physical theorem.
+
+**Current strongest:** joint standing supports composite ownership as the selected structural interpretation.
+
+**Missing:** explicit passage/readout registering constituent assignment.
+
+**Dependencies:** CH1 and actualization/readout controls.
+
+**False-completion warning:** basis-relative decomposition is not a measurement construction.
+
+**Local owner:** `ch2-two-center-capacity-ownership-and-mode-fork.md`.
+
+**Next legitimate research action:** specify one constituent-localizing passage.
+
+### CH2-F3 — energetic interpretation of the mode fork
+
+**Standing:** Open and Unregistered.
+
+**Current strongest:** exact conditional symmetric/antisymmetric decomposition.
+
+**Missing:** native maintenance or interaction functional ordering the modes.
+
+**Dependencies:** CH3.
+
+**False-completion warning:** symmetry type does not determine energy.
+
+**Local owner:** `ch2-two-center-capacity-ownership-and-mode-fork.md`.
+
+**Next legitimate research action:** normalize CH3 maintenance comparison.
+
 ## Execution boundary
 
-No later chemistry claim is current merely because it appears in the supplemental chemistry walk or semantic inventory. Later units must be normalized one at a time after CH1 is accepted.
+No CH3 or later chemistry claim is current merely because it appears in supplemental material. Later units must be normalized one at a time after CH2 is accepted.
