@@ -1,0 +1,31 @@
+X1 exact finite countermodels
+
+A. Static mass hierarchy does not entail slow/fast dynamics
+shared_masses=1,1836
+update_rates_A=1,1
+update_rates_B=1,100
+same masses, distinct response ratios: countermodel
+
+B. Signed relational valence does not entail a shell-edge
+shared_valence=1,-1
+shell_structure_A=2,8
+shell_structure_B=1,3,5
+same valence orientation, distinct shell structures: countermodel
+
+C. Empirical molecules do not establish framework nonemptiness
+empirical_molecule=1
+framework_atom=0
+shell_edge_map=0
+observation without native map: countermodel
+
+D. One proposed gate does not entail a universal handoff law
+proposed_instances=1
+admissible_next_gate_counterexample=1
+single instance compatible with universal failure: countermodel
+
+E. Carbon maximality does not follow without a selected recursion measure
+measure_A: carbon=4 silicon=3
+measure_B: carbon=4 silicon=5
+same named candidates, distinct selected maxima: countermodel
+
+X1 exact countermodels: PASS

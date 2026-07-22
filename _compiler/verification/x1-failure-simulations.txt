@@ -1,0 +1,13 @@
+X1 stale-state failure simulations
+01. remove non-completion boundary: REJECTED
+02. overgrade shell-edge constraint: REJECTED
+03. erase boundary failure: REJECTED
+04. delete local atomic frontier: REJECTED
+05. delete global atomic frontier: REJECTED
+06. duplicate scale frontier in shadow: REJECTED
+07. break canonical shadow route: REJECTED
+08. remove canonical index route: REJECTED
+09. restore stale supersession route: REJECTED
+10. claim Born–Oppenheimer derivation: REJECTED
+11. register carbon selection: REJECTED
+X1 failure simulations: PASS (11 mutation classes rejected)
