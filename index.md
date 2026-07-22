@@ -108,8 +108,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 
 - [Chemistry Domain Mature Status](chemistry-domain-mature-status.md) — global chemistry control
 - [CH1 Chemical Domain Gate and Bond Primitive](ch1-chemical-domain-gate-and-bond-primitive.md) — canonical owner
+- [CH2 Two-Center Capacity, Ownership, and Mode Fork](ch2-two-center-capacity-ownership-and-mode-fork.md) — canonical owner
 
-CH1 retains the bond as one composite joint standing at **Conjectured-strong** as the selected candidate D1 form. It does not establish chemistry entry or an actual chemistry occupant; X1's atomic/shell, validity, and nonemptiness antecedents remain attached. CH2 has not begun.
+CH1 retains the bond as one composite joint standing at **Conjectured-strong** as the selected candidate D1 form. CH2 conditionally Secures the bounded capacity-two and symmetric/antisymmetric mode results while keeping occupancy, composite ownership registration, and energetic ordering separate. Chemistry entry and an actual occupant remain unestablished; CH3 has not begun.
 
 ## Historical and provenance
 
