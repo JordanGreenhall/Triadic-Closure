@@ -104,6 +104,13 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 
 X1 records that the inherited physics package does not yet construct the atomic ground, shell-edge object, or dynamical scale separation required to establish chemistry entry. Shell-edge completion remains a candidate constraint; CH1 does not begin as an already licensed result.
 
+## Normalized chemistry sequence
+
+- [Chemistry Domain Mature Status](chemistry-domain-mature-status.md) — global chemistry control
+- [CH1 Chemical Domain Gate and Bond Primitive](ch1-chemical-domain-gate-and-bond-primitive.md) — canonical owner
+
+CH1 retains the bond as one composite joint standing at **Conjectured-strong** as the selected candidate D1 form. It does not establish chemistry entry or an actual chemistry occupant; X1's atomic/shell, validity, and nonemptiness antecedents remain attached. CH2 has not begun.
+
 ## Historical and provenance
 
 - [Jordan Decisions](jordan-decisions.md)
