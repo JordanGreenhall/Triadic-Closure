@@ -42,6 +42,8 @@ CH1 excludes:
 - molecular geometry, covalent/ionic interpolation, electronegativity, catenation, aromaticity, reactions, kinetics, thermodynamics, and catalysis;
 - new atomic-shell, spectral, Born–Oppenheimer, or quantitative bonding research.
 
+CH2 has not begun.
+
 ## Authority and lineage
 
 - `domain-entry-method.md` governs the generic requirement that a domain boundary be valid and nonempty in an actual standing ground.
