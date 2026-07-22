@@ -118,6 +118,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 - `chemistry-domain-mature-status.md` — global chemistry status and frontier control
 - `ch1-chemical-domain-gate-and-bond-primitive.md` — canonical CH1 owner
+- `ch1-supersession-control.md` — claim-specific CH1 succession and execution control
 
 The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file named in `_compiler/source-manifest.md` is not present at repository root and remains an external supplemental source until migrated. CH1 preserves its joint-standing bond reconstruction at bounded candidate standing without promoting the supplemental source into a second canonical chemistry walk.
 
