@@ -111,8 +111,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH2 Two-Center Capacity, Ownership, and Mode Fork](ch2-two-center-capacity-ownership-and-mode-fork.md) — canonical owner
 - [CH3 Maintenance Relief and Energetic Ordering](ch3-maintenance-relief-and-energetic-ordering.md) — canonical owner
 - [CH4 Ideal Local Molecular Geometry](ch4-ideal-local-molecular-geometry.md) — canonical owner
+- [CH5 Covalent–Ionic Closure and Electronegativity](ch5-covalent-ionic-closure-and-electronegativity.md) — canonical owner
 
-CH4 Secures the exact `180°/120°/109.47°` ideal direction families only under identical partners, isotropic three-space, a center-direction representation, and an explicit maximal-separation objective. The physical selection of that objective remains Conjectured; no-privileged-frame alone is not an optimizing functional. Chemistry entry and an actual occupant remain unestablished; CH5 has not begun.
+CH5 owns the Conjectured two-site reconstruction: covalent closure as jointly held shell-edge completion, ionic closure as transfer followed by opposite charge-site closure, and electronegativity as partner-relative screening texture that biases apportionment. Scale separation and Born–Oppenheimer remain X1-owned; explicit occupants, interpolation, screening values, and quantitative consequences remain unfinished. CH6 has not begun.
 
 ## Historical and provenance
 
