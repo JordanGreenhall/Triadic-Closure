@@ -37,7 +37,8 @@ CH4 owns only:
 1. the repaired license for no-privileged-frame at the partner level;
 2. the exact ideal configurations for two, three, and four identical partner directions under maximal separation;
 3. the distinction between an exact conditional spherical configuration and its physical selection;
-4. the bounded near-family status of mixed-partner and lone-pair deviations.
+4. the bounded near-family status of mixed-partner and lone-pair deviations;
+5. chirality at the geometric criterion level: a fully textured non-coplanar partner arrangement is chiral exactly when it is not superposable on its mirror by a proper rotation; the framework origin, selection, and persistence of a handed configuration are deferred to a later partner-texture/chirality unit.
 
 CH4 excludes:
 
@@ -46,7 +47,7 @@ CH4 excludes:
 - lone-pair repulsion magnitudes or ordering;
 - quantitative distortion energies;
 - extended molecular conformations;
-- covalent/ionic structure, electronegativity, recursion, aromaticity, chirality, reactions, kinetics, thermodynamics, and catalysis;
+- covalent/ionic structure, electronegativity, recursion, aromaticity, reactions, kinetics, thermodynamics, and catalysis;
 - CH5 and later chemistry.
 
 ## Authority and repair
@@ -81,6 +82,7 @@ These are exact finite geometry statements. They do not determine bond lengths, 
 | `N=2,3,4` maximal-separation configurations | Secured conditionally | Registered for the exact finite geometry within assumptions | assumptions must travel with the result |
 | chemistry selects maximal mutual separation | Conjectured | Unregistered | requires a native maintenance/interaction functional |
 | mixed partners or lone pairs produce deviations | Conjectured qualitatively | Unregistered | no direction or magnitude without added texture |
+| geometric chirality criterion for a fully textured non-coplanar arrangement | Secured definitionally at geometric scope | Registered only as a criterion | does not derive a chiral center, handedness selection, or persistence |
 | exact distortion angles and energies | Open | Unregistered | requires quantitative functional and concrete system |
 | hybridization is derived by CH4 | Not established | Unregistered | may not be inferred from the ideal geometry |
 
@@ -92,6 +94,7 @@ These are exact finite geometry statements. They do not determine bond lengths, 
 4. **Ideal family is not universal geometry.** Mixed partners, lone pairs, multiple bonds, and environmental constraints lie outside the exact result.
 5. **Angle is not energy.** CH4 does not derive a distortion potential or bond-angle stiffness.
 6. **Geometry is not hybridization.** Textbook orbital labels may describe a realized geometry but are not derived here.
+7. **Chirality criterion is not chirality generation.** Mirror non-superposability classifies a fully specified geometry; it does not construct the partner textures, select one hand, or prove persistence.
 
 ## Local research frontiers
 
@@ -139,8 +142,8 @@ These are exact finite geometry statements. They do not determine bond lengths, 
 
 ## Downstream use rule
 
-Later units may use the `180°/120°/109.47°` families only as exact conditional ideal geometries with partner identity, isotropic three-space, center-direction representation, and maximal-separation premises attached. They may not cite CH4 as deriving universal VSEPR, hybridization, distortion magnitudes, or an actual molecule.
+Later units may use the `180°/120°/109.47°` families only as exact conditional ideal geometries with partner identity, isotropic three-space, center-direction representation, and maximal-separation premises attached. They may use CH4's chirality statement only as the geometric mirror-nonsuperposability criterion for a fully textured arrangement; construction, handedness selection, persistence, and chemical realization remain deferred. They may not cite CH4 as deriving universal VSEPR, hybridization, distortion magnitudes, or an actual molecule.
 
 ## Bottom line
 
-CH4 preserves the repaired partner-level geometry result while removing the hidden inference from symmetry to optimization. The ideal families are exact under a maximal-separation rule; the framework-native physical selection of that rule remains Conjectured.
+CH4 preserves the repaired partner-level geometry result while removing the hidden inference from symmetry to optimization. The ideal families are exact under a maximal-separation rule; the framework-native physical selection of that rule remains Conjectured. Chirality is owned at the geometric criterion level only, with its construction and physical selection explicitly deferred.
