@@ -11,6 +11,7 @@ sources:
   - ch2-two-center-capacity-ownership-and-mode-fork.md
   - ch3-maintenance-relief-and-energetic-ordering.md
   - ch4-ideal-local-molecular-geometry.md
+  - ch5-covalent-ionic-closure-and-electronegativity.md
 ---
 
 # Chemistry Domain Mature Status
@@ -21,21 +22,23 @@ This page is the global chemistry status and frontier control. It records only n
 
 | Unit | Owner | Current result | Boundary |
 |---|---|---|---|
-| X1 | `x1-physics-maturity-and-chemistry-entry-gate.md` | Registered control boundary; chemistry antecedents not discharged | physics-to-chemistry interface only |
+| X1 | `x1-physics-maturity-and-chemistry-entry-gate.md` | Registered control boundary; chemistry antecedents not discharged; scale separation owned here | physics-to-chemistry interface only |
 | CH1 | `ch1-chemical-domain-gate-and-bond-primitive.md` | bond retained as Conjectured-strong candidate D1 form; no established occupant | CH2 consequences conditional |
 | CH2 | `ch2-two-center-capacity-ownership-and-mode-fork.md` | bounded capacity and mode-count consequences Secured conditionally; ownership Conjectured-strong | energetic interpretation deferred |
 | CH3 | `ch3-maintenance-relief-and-energetic-ordering.md` | maintenance relief Conjectured structurally; functional, ordering, and scale unfinished | geometry not inferred from energy language |
-| CH4 | `ch4-ideal-local-molecular-geometry.md` | exact ideal `N=2,3,4` geometries Secured conditionally; physical maximal-separation rule Conjectured | CH5 and later chemistry excluded |
+| CH4 | `ch4-ideal-local-molecular-geometry.md` | exact ideal `N=2,3,4` geometries Secured conditionally; physical maximal-separation rule Conjectured | CH5 site structure not inferred |
+| CH5 | `ch5-covalent-ionic-closure-and-electronegativity.md` | covalent/ionic two-site architecture and screening-texture electronegativity Conjectured; occupants, interpolation, and values unfinished | CH6 and later chemistry excluded |
 
 ## Current chemistry standing
 
 - Chemistry entry and an actual bond occupant remain unestablished under X1/CH1.
+- X1 owns the qualitative and quantitative status of physics-to-chemistry scale separation. Static mass hierarchy does not establish dynamical or Born–Oppenheimer separation.
 - CH2 conditionally Secures capacity two and the two-center mode decomposition at bounded scope; capacity does not determine occupancy and symmetry does not determine energy.
 - Composite ownership remains Conjectured-strong.
 - CH3 retains maintenance relief as a Conjectured structural interpretation; no native chemical maintenance functional or quantitative binding scale is established.
 - CH4 Secures the `180°`, `120°`, and `arccos(-1/3) ≈ 109.47°` ideal direction families only under partner identity, isotropic three-space, center-direction representation, and a maximal-separation objective.
-- The physical selection of maximal separation is Conjectured and Unregistered. No-privileged-frame alone is not an optimizing functional.
-- Mixed-partner deviations, lone-pair effects, hybridization, distortion magnitudes, and actual molecular realization remain unfinished.
+- CH5 retains covalent closure as jointly held shell-edge completion and ionic closure as transfer followed by opposite charge-site closure. The two-limit architecture is Conjectured-strong and Unregistered.
+- Electronegativity is retained as the proposed partner-relative screening texture at a shared standing; numerical scales and the screening-to-apportionment map remain Open.
 
 ## Global frontiers
 
@@ -147,6 +150,33 @@ This page is the global chemistry status and frontier control. It records only n
 **Local owner:** `ch4-ideal-local-molecular-geometry.md`.
 **Next legitimate research action:** connect one admitted standing to one directional readout.
 
+### CH5-F1 — explicit two-site occupants
+**Standing:** Open and Unregistered.
+**Current strongest:** covalent and ionic limiting structures are stated.
+**Missing:** one joint-shell occupant and one transfer-plus-charge-site occupant in a common representation.
+**Dependencies:** X1, CH1-F2, CH3-F1, P15.
+**False-completion warning:** familiar molecules and salts do not supply framework occupants.
+**Local owner:** `ch5-covalent-ionic-closure-and-electronegativity.md`.
+**Next legitimate research action:** construct the two smallest finite comparison cases.
+
+### CH5-F2 — screening-to-apportionment map
+**Standing:** Open and Unregistered.
+**Current strongest:** screening-texture difference is the selected source of asymmetry.
+**Missing:** screening object, shared-standing evaluation, monotone apportionment map, and sign theorem.
+**Dependencies:** X1 atomic/shell work, CH2 ownership, CH3 functional.
+**False-completion warning:** empirical electronegativity values cannot be reverse-installed.
+**Local owner:** `ch5-covalent-ionic-closure-and-electronegativity.md`.
+**Next legitimate research action:** define a dimensionless two-partner screening contrast.
+
+### CH5-F3 — site character and aggregate form
+**Standing:** Conjectured qualitatively; exact discriminator Open.
+**Current strongest:** shell-edge closure is directional and charge-site closure is proposed as more isotropic.
+**Missing:** aggregation rule, persistence criterion, mixed-site treatment, and bounded molecule/lattice consequence.
+**Dependencies:** CH4 geometry, CH5-F1, later aggregation units.
+**False-completion warning:** empirical molecule/lattice vocabulary is not a theorem.
+**Local owner:** `ch5-covalent-ionic-closure-and-electronegativity.md`.
+**Next legitimate research action:** prove one bounded aggregation consequence for each site.
+
 ## Execution boundary
 
-CH5 has not begun. No CH5 or later chemistry claim is current merely because it appears in supplemental material.
+CH6 has not begun. No CH6 or later chemistry claim is current merely because it appears in supplemental material.
