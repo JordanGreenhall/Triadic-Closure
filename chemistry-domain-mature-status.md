@@ -10,6 +10,7 @@ sources:
   - ch1-chemical-domain-gate-and-bond-primitive.md
   - ch2-two-center-capacity-ownership-and-mode-fork.md
   - ch3-maintenance-relief-and-energetic-ordering.md
+  - ch4-ideal-local-molecular-geometry.md
 ---
 
 # Chemistry Domain Mature Status
@@ -23,16 +24,18 @@ This page is the global chemistry status and frontier control. It records only n
 | X1 | `x1-physics-maturity-and-chemistry-entry-gate.md` | Registered control boundary; chemistry antecedents not discharged | physics-to-chemistry interface only |
 | CH1 | `ch1-chemical-domain-gate-and-bond-primitive.md` | bond retained as Conjectured-strong candidate D1 form; no established occupant | CH2 consequences conditional |
 | CH2 | `ch2-two-center-capacity-ownership-and-mode-fork.md` | bounded capacity and mode-count consequences Secured conditionally; ownership Conjectured-strong | energetic interpretation deferred |
-| CH3 | `ch3-maintenance-relief-and-energetic-ordering.md` | maintenance relief Conjectured structurally; functional, ordering, and scale unfinished | CH4 and later chemistry excluded |
+| CH3 | `ch3-maintenance-relief-and-energetic-ordering.md` | maintenance relief Conjectured structurally; functional, ordering, and scale unfinished | geometry not inferred from energy language |
+| CH4 | `ch4-ideal-local-molecular-geometry.md` | exact ideal `N=2,3,4` geometries Secured conditionally; physical maximal-separation rule Conjectured | CH5 and later chemistry excluded |
 
 ## Current chemistry standing
 
 - Chemistry entry and an actual bond occupant remain unestablished under X1/CH1.
-- CH2 conditionally Secures capacity two and the two-center mode decomposition at bounded scope.
-- Capacity does not determine occupancy, and symmetry does not determine energy.
+- CH2 conditionally Secures capacity two and the two-center mode decomposition at bounded scope; capacity does not determine occupancy and symmetry does not determine energy.
 - Composite ownership remains Conjectured-strong.
-- CH3 retains maintenance relief as a Conjectured structural interpretation.
-- No native chemical maintenance functional, bonding/antibonding ordering, or quantitative binding scale is established.
+- CH3 retains maintenance relief as a Conjectured structural interpretation; no native chemical maintenance functional or quantitative binding scale is established.
+- CH4 Secures the `180°`, `120°`, and `arccos(-1/3) ≈ 109.47°` ideal direction families only under partner identity, isotropic three-space, center-direction representation, and a maximal-separation objective.
+- The physical selection of maximal separation is Conjectured and Unregistered. No-privileged-frame alone is not an optimizing functional.
+- Mixed-partner deviations, lone-pair effects, hybridization, distortion magnitudes, and actual molecular realization remain unfinished.
 
 ## Global frontiers
 
@@ -110,13 +113,40 @@ This page is the global chemistry status and frontier control. It records only n
 
 ### CH3-F3 — quantitative binding scale and passage consequence
 **Standing:** Open and Unregistered.
-**Current strongest:** a structural route from comparative maintenance to stabilization.
+**Current strongest:** structural route from comparative maintenance to stabilization.
 **Missing:** coupling, units, reference, quantitative difference, passage/persistence theorem.
 **Dependencies:** CH3-F1, CH3-F2, X1 scale separation.
 **False-completion warning:** qualitative ordering is not binding energy or reaction direction.
 **Local owner:** `ch3-maintenance-relief-and-energetic-ordering.md`.
 **Next legitimate research action:** derive a dimensionless comparison before calibration.
 
+### CH4-F1 — physical maximal-separation rule
+**Standing:** Conjectured and Unregistered.
+**Current strongest:** exact ideal configurations are known conditionally.
+**Missing:** native functional selecting maximal partner separation.
+**Dependencies:** CH3-F1 and CH3-F2.
+**False-completion warning:** no-privileged-frame is not an energy functional.
+**Local owner:** `ch4-ideal-local-molecular-geometry.md`.
+**Next legitimate research action:** evaluate one finite partner model under a native functional.
+
+### CH4-F2 — mixed-partner and lone-pair deviations
+**Standing:** Conjectured qualitatively; magnitudes Open and Unregistered.
+**Current strongest:** identical-partner ideal families provide the reference.
+**Missing:** registered partner textures, lone-pair status, comparison rule, distortion functional.
+**Dependencies:** CH4-F1 and future partner-texture work.
+**False-completion warning:** empirical VSEPR trends are not a native derivation.
+**Local owner:** `ch4-ideal-local-molecular-geometry.md`.
+**Next legitimate research action:** introduce one controlled asymmetry and prove a displacement sign.
+
+### CH4-F3 — realization and readout
+**Standing:** Open and Unregistered.
+**Current strongest:** exact direction sets under stated assumptions.
+**Missing:** admitted chemical standing, bond-direction readout, persistence, empirical comparison.
+**Dependencies:** CH1-F2, CH3-F3, CH4-F1.
+**False-completion warning:** mathematical configuration is not an exhibited chemistry occupant.
+**Local owner:** `ch4-ideal-local-molecular-geometry.md`.
+**Next legitimate research action:** connect one admitted standing to one directional readout.
+
 ## Execution boundary
 
-No CH4 or later chemistry claim is current merely because it appears in supplemental material. Later units must be normalized one at a time after CH3 is accepted.
+CH5 has not begun. No CH5 or later chemistry claim is current merely because it appears in supplemental material.
