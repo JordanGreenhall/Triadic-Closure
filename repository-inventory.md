@@ -123,8 +123,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `ch2-supersession-control.md` — claim-specific CH2 succession and execution control
 - `ch3-maintenance-relief-and-energetic-ordering.md` — canonical CH3 owner
 - `ch3-supersession-control.md` — claim-specific CH3 succession and execution control
+- `ch4-ideal-local-molecular-geometry.md` — canonical CH4 owner
+- `ch4-supersession-control.md` — claim-specific CH4 succession and execution control
 
-The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and the unresolved energetic-ordering boundary. CH4 and later chemistry remain unnormalized.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and the unresolved energetic-ordering boundary. CH4 owns the repaired ideal identical-partner geometry result and its symmetry/optimization boundary. CH5 and later chemistry remain unnormalized.
 
 ## Historical, superseded, or provenance material
 
@@ -142,7 +144,7 @@ The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-sem
 - `neutron-consideration.md` where superseded by `flavor-mark-metric-and-neutron.md`
 - `physics-chemistry-gate-crossing.md` for its detailed original proposal and repaired-geometry provenance; current interface standing is owned by X1
 
-Historical classification is claim-specific. These files may retain useful derivations or provenance, but they may not override later detailed work or explicit adjudications.
+Historical classification is claim-specific. These files may retain useful derivations or provenance content, but they may not override later detailed work or explicit adjudications.
 
 ## Residual overview directory
 
