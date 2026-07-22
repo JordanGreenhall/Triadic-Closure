@@ -119,8 +119,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `chemistry-domain-mature-status.md` — global chemistry status and frontier control
 - `ch1-chemical-domain-gate-and-bond-primitive.md` — canonical CH1 owner
 - `ch1-supersession-control.md` — claim-specific CH1 succession and execution control
+- `ch2-two-center-capacity-ownership-and-mode-fork.md` — canonical CH2 owner
+- `ch2-supersession-control.md` — claim-specific CH2 succession and execution control
 
-The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file named in `_compiler/source-manifest.md` is not present at repository root and remains an external supplemental source until migrated. CH1 preserves its joint-standing bond reconstruction at bounded candidate standing without promoting the supplemental source into a second canonical chemistry walk.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns only the bounded capacity, occupancy distinction, ownership interpretation, and mode-count consequences. CH3 and later chemistry remain unnormalized.
 
 ## Historical, superseded, or provenance material
 
