@@ -87,7 +87,7 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [Gravity Asymmetry](gravity-asymmetry.md) — supporting P22 source
 - [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) — canonical owner
 - [Stress-Energy: Three Offices](stress-energy-three-offices.md) — concise P23 shadow
-- [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) — canonical owner
+- [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-tensor-rigidity.md) — canonical owner
 - [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow
 - [P25 GR/QM Background Conflict and Non-Renormalizability Diagnosis](p25-grqm-background-conflict-and-nonrenormalizability.md) — canonical owner
 - [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical owner
@@ -110,8 +110,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH1 Chemical Domain Gate and Bond Primitive](ch1-chemical-domain-gate-and-bond-primitive.md) — canonical owner
 - [CH2 Two-Center Capacity, Ownership, and Mode Fork](ch2-two-center-capacity-ownership-and-mode-fork.md) — canonical owner
 - [CH3 Maintenance Relief and Energetic Ordering](ch3-maintenance-relief-and-energetic-ordering.md) — canonical owner
+- [CH4 Ideal Local Molecular Geometry](ch4-ideal-local-molecular-geometry.md) — canonical owner
 
-CH1 retains the bond as one composite joint standing at **Conjectured-strong** as the selected candidate D1 form. CH2 conditionally Secures bounded capacity and mode-decomposition results. CH3 retains maintenance relief as a **Conjectured structural interpretation** while leaving the native functional, bonding/antibonding ordering, and quantitative binding scale unfinished. Chemistry entry and an actual occupant remain unestablished; CH4 has not begun.
+CH4 Secures the exact `180°/120°/109.47°` ideal direction families only under identical partners, isotropic three-space, a center-direction representation, and an explicit maximal-separation objective. The physical selection of that objective remains Conjectured; no-privileged-frame alone is not an optimizing functional. Chemistry entry and an actual occupant remain unestablished; CH5 has not begun.
 
 ## Historical and provenance
 
