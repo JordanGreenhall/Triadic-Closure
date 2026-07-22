@@ -15,6 +15,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `dimension-and-spacetime-status.md`
 - `physics-domain-mature-status.md`
 - `physics-domain-work-plan.md`
+- `chemistry-domain-mature-status.md`
 - `known-failure-modes.md`
 - `deferred-articulations-map.md`
 - `physics-section-guide.md`
@@ -113,7 +114,12 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner
 - `physics-chemistry-gate-crossing.md` — historical/process shadow of the original candidate deposit
 
-The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file named in `_compiler/source-manifest.md` is not present at repository root and remains an external supplemental source until migrated. X1 does not promote that source into a canonical chemistry walk.
+## Normalized chemistry
+
+- `chemistry-domain-mature-status.md` — global chemistry status and frontier control
+- `ch1-chemical-domain-gate-and-bond-primitive.md` — canonical CH1 owner
+
+The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source file named in `_compiler/source-manifest.md` is not present at repository root and remains an external supplemental source until migrated. CH1 preserves its joint-standing bond reconstruction at bounded candidate standing without promoting the supplemental source into a second canonical chemistry walk.
 
 ## Historical, superseded, or provenance material
 
@@ -129,7 +135,7 @@ The chemistry D1–D4 deposit is currently represented in `_compiler/04-chemistr
 - `internal-structure-walk-move1.md`
 - `internal-structure-walk-move2.md`
 - `neutron-consideration.md` where superseded by `flavor-mark-metric-and-neutron.md`
-- `physics-chemistry-gate-crossing.md` for its detailed original proposal and repaired-geometry provenance; current standing is owned by X1
+- `physics-chemistry-gate-crossing.md` for its detailed original proposal and repaired-geometry provenance; current interface standing is owned by X1
 
 Historical classification is claim-specific. These files may retain useful derivations or provenance, but they may not override later detailed work or explicit adjudications.
 
