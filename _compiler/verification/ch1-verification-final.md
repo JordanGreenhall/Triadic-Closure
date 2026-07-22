@@ -11,6 +11,7 @@ Exact base: `5399636583c3c39fbb3fee0e4a4d2497dff2a926`
 
 - canonical owner installed: `ch1-chemical-domain-gate-and-bond-primitive.md`;
 - global status/frontier control installed: `chemistry-domain-mature-status.md`;
+- claim-specific supersession control installed: `ch1-supersession-control.md`;
 - corpus index route installed;
 - repository inventory route installed;
 - opening and claim-specific authority records retained;
