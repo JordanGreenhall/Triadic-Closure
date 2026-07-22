@@ -10,6 +10,7 @@ sources:
   - x1-physics-maturity-and-chemistry-entry-gate.md
   - _compiler/04-chemistry-walk-semantic-inventory.md
   - _compiler/verification/ch1-authority-adjudication.md
+  - ch1-supersession-control.md
 ---
 
 # CH1 — Chemical Domain Gate and Bond Primitive
@@ -51,6 +52,7 @@ CH2 has not begun.
 - The supplemental chemistry walk is the latest detailed derivational source for the bond-as-joint-standing reconstruction.
 - `_compiler/04-chemistry-walk-semantic-inventory.md` retains that reconstruction as the strongest framework-native bond concept while separating it from quantitative and later-stage claims.
 - `_compiler/verification/ch1-authority-adjudication.md` records the claim-specific comparison and current governing formulation.
+- `ch1-supersession-control.md` records the current claim-specific succession and execution rule.
 
 No located later source supplies a contrary bond primitive or explicitly supersedes the joint-standing formulation. X1 limits its standing but does not refute its form.
 
