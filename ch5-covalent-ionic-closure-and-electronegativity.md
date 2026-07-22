@@ -22,6 +22,8 @@ sources:
 
 CH5 owns the proposed unification of covalent and ionic bonding as two limiting sites of one closure-relief architecture under registrable partner difference.
 
+**Boundary principle:** CH5 begins where chemistry differentiates bonding architectures, not where physics licenses a chemistry description.
+
 - **Covalent limit:** shell-edge completion remains jointly held across the partners; identical partners require symmetric apportionment at the level licensed by CH4 partner identity.
 - **Ionic limit:** apportionment approaches transfer to one partner; the resulting opposite charge edges then require charge-site closure.
 - **Electronegativity:** the effective screening texture presented by each partner at the shared standing; partner difference in that texture is the proposed source of apportionment asymmetry.
@@ -51,7 +53,9 @@ CH5 does not own or derive:
 
 The supplemental chemistry walk places mass separation in D2(b) as a configuration-space antecedent and places covalent/ionic closure plus electronegativity in D2(d–e) as the keystone following geometry. X1 already owns the qualitative and quantitative status of scale separation. Therefore the earlier draft of PR 57 was mislabeled: its mass-separation/Born–Oppenheimer content duplicated X1 and did not discharge CH5.
 
-CH5 now owns only the D2(d–e) content. CH3 contributes maintenance-relief language but does not own the slow/fast configuration-space gate or this site distinction.
+That material is folded into the existing X1 adjudication. No separate scale-separation owner is created, and CH3 does not receive it. CH3 contributes maintenance-relief language but does not own the slow/fast configuration-space gate or this bonding-site distinction.
+
+CH5 now owns only the D2(d–e) content.
 
 ## Structural reconstruction
 
@@ -74,9 +78,11 @@ The proposed covalent–ionic continuum is not a continuum between two substance
 
 No native scalar coordinate on this continuum has yet been constructed. “Percent ionic character,” dipole moment, and empirical electronegativity differences may test such a coordinate after construction; they cannot supply it.
 
-### Electronegativity
+### Electronegativity — CH5 smuggle-watch
 
 Electronegativity is provisionally reconstructed as partner-relative screening texture evaluated at a shared standing. Difference in screening texture is proposed to bias held apportionment. The concept is **Conjectured-strong**; numerical scales, periodic values, environment dependence, oxidation-state dependence, and quantitative prediction are Open.
+
+This is the named CH5 smuggle-watch. The familiar word may not carry into the framework any empirical electronegativity table, periodic trend, Pauling or Mulliken scale, bond-polarity magnitude, transfer threshold, oxidation-state correction, or environment-dependent value. Each such item requires an independently constructed screening object, comparison rule, and screening-to-apportionment map.
 
 ### Directionality and aggregation
 
@@ -91,7 +97,7 @@ The tendency is not an absolute dichotomy. Mixed bonding, directional ionic inte
 | covalent limit as jointly held shell-edge closure | Conjectured-strong | Unregistered as physical theorem | requires CH1 occupant and CH3 functional |
 | ionic limit as transfer plus charge-site closure | Conjectured-strong | Unregistered | transfer and charge-edge construction required |
 | covalent–ionic continuum is site-apportionment continuum | Conjectured | Unregistered | no native interpolation coordinate yet |
-| electronegativity as screening texture at shared standing | Conjectured-strong concept | Unregistered | empirical scales are values-side only |
+| electronegativity as screening texture at shared standing | Conjectured-strong concept | Unregistered | named smuggle-watch; empirical scales are values-side only |
 | partner screening difference biases apportionment | Conjectured | Unregistered | sign and magnitude require explicit model |
 | directional shell site / more isotropic charge site | Conjectured qualitatively | Unregistered | tendency only, not absolute prohibition |
 | exact lattice/molecule discriminator | Open | Unregistered | requires aggregation and persistence theorem |
@@ -101,9 +107,9 @@ The tendency is not an absolute dichotomy. Mixed bonding, directional ionic inte
 1. **Charge exists is not ionic bonding.** P15 charge does not construct transfer or paired charge-site closure.
 2. **Joint standing exists is not covalent realization.** CH1 still lacks an established occupant.
 3. **A continuum label is not an interpolation parameter.** The native coordinate and comparison rule remain owed.
-4. **Screening is not an electronegativity table.** Conceptual reconstruction does not derive values.
+4. **Electronegativity is the smuggle-watch.** The name does not import empirical tables, trends, scales, polarity magnitudes, or transfer thresholds.
 5. **Directionality is not exclusivity.** The site distinction supports tendencies, not universal material classes.
-6. **Mass separation is not CH5.** It remains owned by X1 as a chemistry-entry antecedent.
+6. **Mass separation is not CH5.** Its adjudication is folded into the existing X1 owner; no duplicate owner is created and it is not reassigned to CH3.
 
 ## Local research frontiers
 
@@ -131,7 +137,7 @@ The tendency is not an absolute dichotomy. Mixed bonding, directional ionic inte
 
 **Dependencies:** X1 atomic/shell work, CH2 ownership, CH3 functional.
 
-**False-completion warning:** Pauling values cannot be reverse-installed as the native map.
+**False-completion warning:** empirical electronegativity values cannot be reverse-installed as the native map.
 
 **Next legitimate research action:** define a dimensionless two-partner screening contrast and test whether it orders apportionment.
 
@@ -151,7 +157,7 @@ The tendency is not an absolute dichotomy. Mixed bonding, directional ionic inte
 
 ## Downstream use rule
 
-Later chemistry may use covalent and ionic as the two selected limiting site descriptions only with their Conjectured status attached. Electronegativity may be used only as the proposed screening-texture concept. No later unit may cite CH5 as deriving transfer thresholds, numerical electronegativity, lattice energies, bond polarity magnitudes, or an exhaustive binary classification.
+Later chemistry may use covalent and ionic as the two selected limiting site descriptions only with their Conjectured status attached. Electronegativity may be used only as the proposed screening-texture concept and must remain under the CH5 smuggle-watch. No later unit may cite CH5 as deriving empirical electronegativity values or trends, transfer thresholds, lattice energies, bond-polarity magnitudes, or an exhaustive binary classification.
 
 ## Bottom line
 
