@@ -2,7 +2,7 @@
 title: Known Failure Modes
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-23
 status: control
 confidence: high
 sources:
@@ -68,5 +68,12 @@ The conversation shows that earlier docs often contain good work in obsolete fra
 ## 8. Treating the ledger as polished doctrine
 
 The full conversation is a lineage source, not a final document. Use it to understand decisions, not to quote every provisional statement as doctrine.
+
+
+## 9. Smuggled demand
+
+A smuggled demand is a question imported from a rival ontology and imposed as though the framework owed an answer. The governing example is `frequency=weight`: it presupposes that weight and degree-of-actualization are different things requiring a bridge, although the framework identifies them as one coherence-participation quantity.
+
+Rule: when the requested bridge exists only because of an imported bifurcation, classify the demand **Dissolved**. Do not preserve it as an open gate, inherited caveat, or unfinished derivation.
 
 See also: [agent-execution-rules](agent-execution-rules.md), [supersession-map](supersession-map.md), [corpus-lineage](corpus-lineage.md).

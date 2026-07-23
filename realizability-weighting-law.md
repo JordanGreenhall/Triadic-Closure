@@ -2,35 +2,33 @@
 title: Realizability Weighting Law
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-23
 status: current
-confidence: medium
-sources:
-  - mathematization-F8-done.md
-historical_sources:
-  - realizability-weighting-law.md
+confidence: high
 ---
 
 # Realizability Weighting Law
 
-Result module for actualization weighting and its physics instance in the Born-rule/coherence-participation direction.
+At a realizability fork with candidates `k`, actualization is weighted by
 
-## Mature status
+> `P(k) = C(k) / Σⱼ C(j)`
 
-Status: **Registered, not sealed**.
+where `C(k)` is the coherence-participation of candidate `k`, measured by the domain's own coherence measure. The universal law supplies normalization; the form of `C` belongs to the domain. In quantum physics the Hermitian-pairing measure gives the Born instance `C(k)=|h(σ,k)|²`.
 
-The source names three gates to sealing: frequency=weight identity, exact `|ψ|²` from pairing, and one non-physics end-to-end derivation. Preserve that status.
+## Status
 
-## Seal adjudication (2026-06-21)
+**Registered.** The exact quadratic Born form is carried by the pairing, normalization, and Gleason frame-function route in dimension at least three. The dimension-two caveat remains local to that theorem.
 
-Worked as Item 1 of [physics-domain-work-plan](physics-domain-work-plan.md). Net grade: **Registered, not sealed** (confidence >90% in the grade). The three gates resolve unevenly.
+## The frequency=weight demand is Dissolved
 
-**Gate 2 — exact `|ψ|²` from the pairing (Registered, approaching Sealed).** Given that actualization weight is a frame function on the closure-pairing (the bilinear `h(σ,k)`), Gleason's theorem plus the frame-function argument forces the quadratic form `C(k) = |h(σ,k)|²` on dimension ≥ 3. The pairing-origin (weight 0.4) and conservation/normalization (weight 0.6) jointly fix the bilinear; Gleason then removes the freedom to choose any other power or functional. This gate is essentially discharged modulo the dim≥3 restriction (dim 2 is the standard Gleason gap and is not closed here).
+The former demand to derive that long-run frequencies match the weights is a category error, not an open gate.
 
-**Gate 1 — frequency = weight (Open; the blocker).** Identifying the realizability weight with an observed long-run frequency is exactly the Born-rule-from-frequency problem. Nothing in the closure machinery forces a frequentist reading of `C(k)`: the law fixes a *measure*, not that repeated actualizations sample it. This is the load-bearing gap and is not closed.
+A categorical derivation would make actualization non-chancy and destroy the explanandum. A probabilistic derivation would already use the weight-to-frequency relation it was supposed to establish. Both versions presuppose that weight and degree-of-actualization are two different things requiring a bridge. The framework does not make that bifurcation: degree-of-coherence-toward is degree-of-actualization.
 
-**Gate 3 — one non-physics end-to-end instance (not done).** The Boltzmann/statistical-mechanics instance that would show the weighting law operating outside the quantum setting was not carried out.
+Therefore `frequency=weight` is **Dissolved**. It is not a condition on the Born instance, mass, flavor and neutron results, atomic binding or spectrum, chemistry gate-crossing, or decay propensity.
 
-**Verdict.** Gate 2 strong, gate 1 the genuine blocker, gate 3 undone. The grade stays **Registered, not sealed**; the blocker is gate 1 specifically.
+## Remaining work
 
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gravity-and-curvature](gravity-and-curvature.md), [claim-status-vocabulary](claim-status-vocabulary.md), [known-failure-modes](known-failure-modes.md).
+A non-physics end-to-end instance, naturally the Boltzmann case, remains useful seal-polish. A native typicality theorem and reproducibility theorem may be developed as consistency results, but neither is a condition on the weighting law.
+
+Absolute decay or transition rates still require the local possibility-space and rate structure of the process. That values-side requirement is distinct from the dissolved frequency=weight demand.

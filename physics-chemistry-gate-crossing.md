@@ -19,7 +19,6 @@ supersedes:
   - "Φ periodic-table downstream claims (already dead provenance; not reactivated)"
 inherited_caveats:
   - "G1 manifold recovery: every step spending 'r'/'surround' is conditional on G1 (Registered-not-Sealed)."
-  - "frequency=weight (Item 1): every step spending the weighting-law propensity inherits this Open gate."
 claim_statuses: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed"]
 ---
 
@@ -27,6 +26,8 @@ claim_statuses: [Open, Conjectured, "Conjectured-strong", "Registered-candidate"
 **Canonical mass-ratio rule.** The complete proton/electron ratio is `m_p/m_e = 6π⁵[1 + c(3π⁴)⁻²], with 3/2 ≤ c ≤ 9/4`. The standalone `6π⁵` is only the exact With–This color-seating factor within that ratio. The bracketed form, positive sign, second-order scale, multiplicative placement, and coefficient bounds are Registered. Only the exact internal selection of `c` remains Open; observation places `c ≈ 1.6076`.
 
 # The Physics→Chemistry Gate-Crossing: D6 Atom to D7 Carbon
+
+**Inherited-condition correction.** The former `frequency=weight` caveat is discharged: the demand is Dissolved, and no result in Gates A–C inherits it. G1 remains where spatial texture is spent.
 
 ## 0. What this deposit is
 

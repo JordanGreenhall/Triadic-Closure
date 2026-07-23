@@ -3,7 +3,7 @@ title: "SM Frontier Item 2: Amplitude / Readout Theorem"
 type: process
 status: pass-for-load
 frontier_item: 2
-updated: 2026-06-25
+updated: 2026-07-23
 sources:
   - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
   - Frontier Close Loop Execution/amplitude-readout-theorem.md
@@ -20,9 +20,7 @@ The Born rule: assign normalized weights to outcomes/channels from a state-or-fo
 context by squaring an amplitude in an inner-product space.
 
 ### The scoping insight
-The previous process stalled trying to seal the identity
-`observed long-run frequency = framework weighting measure`. Current correction:
-that identity was misposed. Actuality needs no second bridge from weights to events;
+The former demand for a second bridge from framework weight to observed long-run frequency is Dissolved as a category error. Actuality needs no second bridge from weights to events;
 the shape of the possibility space gives the actualization rate/measure,
 and frequency is the many-event view of that actuality. The downstream load is
 Born-rule-level **weighting/selection among registered alternatives**, and the
@@ -65,9 +63,5 @@ Downstream pages may use `|amplitude|²` / coherence-participation as a native
 weighting measure; must not silently promote a measure to an observed frequency;
 must keep the dim-2 flag; observed decay/transition *rates* as numbers remain
 empirical or comparison unless the local possibility-space/rate structure is derived.
-**No grade change** to the realizability-weighting law — it stays Registered, not
-Sealed — but frequency=weight must not be presented as a work frontier.
+The realizability-weighting law is **Registered**. `frequency=weight` is Dissolved and must not be presented as a work frontier or inherited condition.
 
-## Integration note
-
-This supersedes the earlier load-audit-correction-in-progress state. The old frequency=weight identity remains outside the current load and is now treated as misposed. Downstream uses may use the Registered weighting measure but must not silently promote measure to a local observed rate unless the local possibility-space/rate structure is derived.
