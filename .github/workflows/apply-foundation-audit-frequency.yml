@@ -1,16 +1,18 @@
 name: Apply foundation audit frequency-weight dissolution
 
 on:
-  push:
+  pull_request:
     branches:
-      - agent/foundation-audit-execution
+      - main
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
   apply:
-    if: github.actor != 'github-actions[bot]'
+    if: github.head_ref == 'agent/foundation-audit-execution' && github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -23,13 +25,9 @@ jobs:
           from pathlib import Path
           import re
 
-          def read(path):
-              return Path(path).read_text(encoding='utf-8')
-
           def write(path, text):
               Path(path).write_text(text, encoding='utf-8')
 
-          # 1. Replace the source result with the current, fresh-reader statement.
           write('realizability-weighting-law.md', '''---
           title: Realizability Weighting Law
           type: result
@@ -66,7 +64,6 @@ jobs:
           Absolute decay or transition rates still require the local possibility-space and rate structure of the process. That values-side requirement is distinct from the dissolved frequency=weight demand.
           ''')
 
-          # 2. Align the amplitude/readout page and remove process-history prose.
           p = Path('02-amplitude-readout.md')
           text = p.read_text(encoding='utf-8')
           text = text.replace('updated: 2026-06-25', 'updated: 2026-07-23')
@@ -81,7 +78,6 @@ jobs:
           text = re.sub(r'\n## Integration note\n\nThis supersedes.*\Z', '\n', text, flags=re.S)
           p.write_text(text, encoding='utf-8')
 
-          # 3. Register Dissolved in the live status vocabulary.
           p = Path('claim-status-vocabulary.md')
           text = p.read_text(encoding='utf-8')
           text = text.replace('updated: 2026-06-21', 'updated: 2026-07-23')
@@ -92,7 +88,6 @@ jobs:
               text = text.replace(needle, addition)
           p.write_text(text, encoding='utf-8')
 
-          # 4. Add the failure mode required by the audit.
           p = Path('known-failure-modes.md')
           text = p.read_text(encoding='utf-8')
           text = text.replace('updated: 2026-06-21', 'updated: 2026-07-23')
@@ -106,13 +101,9 @@ jobs:
           Rule: when the requested bridge exists only because of an imported bifurcation, classify the demand **Dissolved**. Do not preserve it as an open gate, inherited caveat, or unfinished derivation.
           '''
               marker = '\nSee also:'
-              if marker in text:
-                  text = text.replace(marker, insert + marker)
-              else:
-                  text += insert
+              text = text.replace(marker, insert + marker) if marker in text else text + insert
           p.write_text(text, encoding='utf-8')
 
-          # 5. Delete the inherited caveat at the physics→chemistry gate.
           p = Path('physics-chemistry-gate-crossing.md')
           text = p.read_text(encoding='utf-8')
           text = text.replace('   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)',
@@ -125,7 +116,6 @@ jobs:
               text = text.replace(anchor, note, 1)
           p.write_text(text, encoding='utf-8')
 
-          # 6. Remove exact inherited-caveat phrases wherever they occur in current Markdown.
           replacements = {
               'conditional on frequency=weight': 'unconditional with respect to the dissolved frequency=weight demand',
               'inherits Item-1 gate': 'does not inherit the dissolved Item-1 demand',
@@ -147,7 +137,6 @@ jobs:
               if new != text:
                   path.write_text(new, encoding='utf-8')
 
-          # 7. Verify no live page still classifies the demand as an Open gate or blocker.
           forbidden = [
               re.compile(r'frequency\s*=\s*weight.{0,100}(Open|blocker|condition)', re.I | re.S),
               re.compile(r'(Open|blocker|condition).{0,100}frequency\s*=\s*weight', re.I | re.S),
@@ -158,7 +147,6 @@ jobs:
               if rel in excluded or '.git' in path.parts:
                   continue
               text = path.read_text(encoding='utf-8')
-              # Historical/process files may describe the old error; only current/control/result/deposit pages are checked.
               head = text[:1200]
               if not re.search(r'(?m)^(status:\s*(current|control)|type:\s*(result|deposit|process))', head):
                   continue
@@ -169,7 +157,6 @@ jobs:
           if violations:
               raise SystemExit('Live pages still treat frequency=weight as open: ' + ', '.join(sorted(set(violations))))
 
-          # The automation is temporary and must not enter the PR.
           Path('.github/workflows/apply-foundation-audit-frequency.yml').unlink()
           PY
       - name: Commit audit execution
