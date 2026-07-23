@@ -16,6 +16,7 @@ sources:
   - ch7-cyclic-delocalization-and-aromatic-closure.md
   - ch8-reaction-site-taxonomy-and-acid-base-readings.md
   - ch9-activation-rates-and-catalysis.md
+  - ch10-thermodynamic-direction-and-equilibrium.md
 ---
 
 # Chemistry Domain Mature Status
@@ -36,6 +37,7 @@ This page is the global chemistry status and frontier control. It records only n
 | CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 passages excluded |
 | CH8 | `ch8-reaction-site-taxonomy-and-acid-base-readings.md` | shell-edge, charge-transfer, and mixed passage classes plus acid/base site-readings Conjectured-strong | CH9 activation/rates/catalysis excluded |
 | CH9 | `ch9-activation-rates-and-catalysis.md` | activation and catalyst-cycle structure Conjectured; exponential rate form Secured conditionally | CH10 direction/equilibrium excluded |
+| CH10 | `ch10-thermodynamic-direction-and-equilibrium.md` | settlement direction and equilibrium Conjectured-strong; stationary and exponential ratio forms Secured conditionally | quantitative thermodynamics and later chemistry excluded |
 
 ## Current chemistry standing
 
@@ -50,7 +52,9 @@ This page is the global chemistry status and frontier control. It records only n
 - CH8 retains the proposed passage taxonomy by site: shell-edge re-partnering, charge transfer, and mixed passages. Brønsted and Lewis acid/base are retained as charge-site and shell-edge-site readings.
 - CH9 retains activation as maximal excess maintenance along an admitted route, comparative rate propensity, and catalysis as a restored alternate passage cycle with a lower maximal activation burden.
 - CH9 Secures the exponential rate form only conditionally on an exponential tail in the dimensionless activation burden and a defined passage dynamics.
-- CH9 does not derive numerical rate constants, activation energies, detailed mechanisms, transition-state geometries, thermodynamic direction, free energy, equilibrium, or equilibrium constants.
+- CH10 retains thermodynamic direction as comparative maintained settlement under one provision and equilibrium as balanced opposed passage with no net bias.
+- CH10 Secures the stationary ratio and exponential equilibrium ratio only conditionally on a reversible ensemble representation and exponential weighting law.
+- CH10 does not derive Gibbs free energy, entropy, temperature, chemical potential, activities, numerical equilibrium constants, phase behavior, transport, or quantitative thermochemistry.
 
 ## Global frontiers
 
@@ -195,6 +199,24 @@ This page is the global chemistry status and frontier control. It records only n
 **False-completion warning:** empirical catalytic acceleration does not itself exhibit the framework cycle.  
 **Local owner:** `ch9-activation-rates-and-catalysis.md`.
 
+### CH10-F1 — native thermodynamic maintenance functional
+**Standing:** Open and Unregistered.  
+**Missing:** common provision space, endpoint maintenance functional, normalization, units, and one evaluated reversible pair.  
+**False-completion warning:** empirical enthalpy or free-energy tables cannot supply the framework functional.  
+**Local owner:** `ch10-thermodynamic-direction-and-equilibrium.md`.
+
+### CH10-F2 — equilibrium ensemble and balance realization
+**Standing:** Open and Unregistered.  
+**Missing:** admitted repeated-settlement or ensemble representation, forward/reverse realized weights, persistence, and one stationary balance occupant.  
+**False-completion warning:** writing a double arrow does not construct equilibrium.  
+**Local owner:** `ch10-thermodynamic-direction-and-equilibrium.md`.
+
+### CH10-F3 — exponential weighting and quantitative calibration
+**Standing:** conditional form Secured; physical law and calibration Open.  
+**Missing:** derivation of the exponential weighting rule, identification and units of `Theta`, activity corrections, concentration/pressure readout, and empirical comparison.  
+**False-completion warning:** the Boltzmann form cannot be reverse-installed from textbook familiarity.  
+**Local owner:** `ch10-thermodynamic-direction-and-equilibrium.md`.
+
 ## Execution boundary
 
-CH10 has not begun. Thermodynamic direction, free-energy ordering, equilibrium, equilibrium constants, product distributions, and all later chemistry remain unnormalized.
+CH10 is normalized. Native quantitative thermodynamics, statistical mechanics, phase behavior, transport, and all later chemistry remain unopened.
