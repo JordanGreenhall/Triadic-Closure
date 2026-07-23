@@ -13,7 +13,7 @@ depends-on:
   - flavor-mark-metric-and-neutron          # relief-valve mechanism; no-privileged-frame → angle; marks-remain residue
   - mass-derivation-three-faces             # mass = maintenance of closure; 6π⁵; m_e = 1
   - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
-  - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)
+  - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required
   - lambda-derived                          # complete-return principle (shared with winding tower)
 supersedes:
   - "Φ periodic-table downstream claims (already dead provenance; not reactivated)"

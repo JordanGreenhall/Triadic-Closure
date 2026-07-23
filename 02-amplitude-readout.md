@@ -41,7 +41,7 @@ Gleason frame-function theorem (dimension ≥ 3, as mathematics-as-mathematics).
 | `gravity-asymmetry` | participation-weight comparison of next-configurations ("no rate, no density, no driver") | yes — weighting/comparison | ✓ measure |
 | `mass-as-self-closure` | coupling strength ≡ `|h(σ,k)|²` overlap | yes — definition = squared amplitude | ✓ Registered as program |
 | `mass-derivation-three-faces` | "equal weighting" = spatial isotropy; "cyclotron frequency" = measurement | **no** — symmetry + empirical metrology | n/a |
-| `propagation-…` (both) | explicitly marks the Born measure / frequency as Open | **no** — defers, places no load | ✓ consistent |
+| `propagation-…` (both) | distinguishes native weighting from local observed rates | no generic frequency bridge required | ✓ consistent |
 | `d6-persistence` | escape participation-weight as decay "rate-in-essence" | yes — relative propensity | ✓ at measure level (see flag) |
 
 ### Carried premises (must travel with downstream uses)
