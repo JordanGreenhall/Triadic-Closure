@@ -8,7 +8,7 @@ confidence: medium
 sources:
   - gauge-structure-result.md
   - propagation-and-invariant-velocity.md
-claim_statuses: [Open, Conditional, "Registered-candidate", Registered]
+claim_statuses: [Open, "Registered-candidate", Registered]
 ---
 
 # Chiral Coupling Result
@@ -27,7 +27,7 @@ The propagation arrow is the only registered direction. Rotations about that arr
 
 Because `h` is nondegenerate on a two-dimensional space, its commutant is exactly
 
-> `Comm(h) = span{I,h}`.
+> `Comm(h) = span_C{I,h}`.
 
 Equivalently, in the helicity basis `h = diag(1,-1)`, every operator commuting with `h` is diagonal and therefore has the form
 
@@ -55,9 +55,9 @@ The nontrivial oriented solutions are
 > `P_L = (I-h)/2`,  
 > `P_R = (I+h)/2`.
 
-Thus coherent orientation-faithful attachment is forced to a pure helicity projector: maximal chirality, the `V-A` form. The framework forces the pure-projector form but does not select which projector; left versus right is the remaining binary selection.
+Thus coherent orientation-faithful attachment is forced to a pure helicity projector: the maximally chiral form. The framework does not select which projector. Choosing `P_L` gives the observed `V-A` coupling; choosing `P_R` would give `V+A`. Left versus right is the remaining binary selection.
 
-**Grade:** parity violation and maximal chirality / pure-projector form are **Registered**. The commutant closure is the Registered-candidate joint through which the projector argument runs.
+**Grade:** parity violation and the maximally chiral pure-projector form are **Registered**. The left-handed `V-A` choice is the selected handedness. The commutant closure is the Registered-candidate joint through which the projector argument runs.
 
 ## Boundary
 
