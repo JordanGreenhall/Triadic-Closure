@@ -1,15 +1,15 @@
 # CH8 Compiler Cycle
 
-## First pass
+## First repair pass
 
-- unit boundary matched named specification;
-- functional groups remained CH6-owned;
-- aromaticity remained CH7-owned;
-- kinetics and later dynamics excluded;
-- grades separated by claim.
+- compared merged CH8 against the normalization-program catalog;
+- identified scope broadening into conservation ledgers and oxidation-state bookkeeping;
+- rebuilt the canonical owner to reaction-site taxonomy only;
+- preserved CH6, CH7, CH9, and CH10 ownership boundaries;
+- propagated the corrected path and frontiers.
 
 ## Second pass
 
-No semantic broadening found. Conservation constraints were not converted into passage occurrence. Acid/base unification remained structural. Oxidation state remained bookkeeping rather than literal charge.
+No residual broadening found. A stateless reader recovers shell-edge re-partnering, charge transfer, mixed passages, and Brønsted/Lewis site-readings as the complete CH8 scope.
 
 Result: PASS, no further semantic change.

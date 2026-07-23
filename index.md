@@ -85,7 +85,7 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [P22 Weak-Field Gravity as Participation Curvature](p22-weak-field-gravity-as-participation-curvature.md) — canonical owner
 - [Gravity and Curvature](gravity-and-curvature.md) — concise P22 shadow
 - [Gravity Asymmetry](gravity-asymmetry.md) — supporting P22 source
-- [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-office-source.md) — canonical owner
+- [P23 Stress-Energy as a Three-Office Source](p23-stress-energy-as-three-offices.md) — canonical owner
 - [Stress-Energy: Three Offices](stress-energy-three-offices.md) — concise P23 shadow
 - [P24 Full Einstein Form as Conditional Tensor Rigidity](p24-full-einstein-form-as-conditional-rigidity.md) — canonical owner
 - [Item 12 Gravity Full-GR Imports](12-gravity-full-gr-imports.md) — concise P24 shadow
@@ -114,9 +114,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH5 Covalent–Ionic Closure and Electronegativity](ch5-covalent-ionic-closure-and-electronegativity.md) — canonical owner
 - [CH6 Catenation, Branching, Isomerism, and Functional Groups](ch6-catenation-branching-isomerism-and-functional-groups.md) — canonical owner
 - [CH7 Cyclic Delocalization and Aromatic Closure](ch7-cyclic-delocalization-and-aromatic-closure.md) — canonical owner
-- [CH8 Chemical Passages, Conservation, Acid/Base, and Oxidation State](ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md) — canonical owner
+- [CH8 Reaction-Site Taxonomy and Acid/Base Readings](ch8-reaction-site-taxonomy-and-acid-base-readings.md) — canonical owner
 
-CH8 owns chemistry's no-transmutation passage boundary, conservation ledgers, shell-edge/charge-site passage taxonomy, Brønsted/Lewis site unification, and oxidation-state bookkeeping. Functional groups remain CH6-owned; aromatic closure remains CH7-owned. Kinetics, thermodynamics, equilibrium, catalysis, mechanisms, quantitative acid/base scales, redox potentials, and later chemistry remain unfinished.
+CH8 owns only the specified reaction-site taxonomy: shell-edge re-partnering, charge transfer, mixed passages, and Brønsted/Lewis site-readings. It does not own conservation ledgers, oxidation-state bookkeeping, activation, rates, catalysis, thermodynamic direction, or equilibrium. CH9 remains activation, rates, and catalysis; CH10 remains thermodynamic direction and equilibrium.
 
 ## Historical and provenance
 

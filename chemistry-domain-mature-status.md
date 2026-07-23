@@ -14,7 +14,7 @@ sources:
   - ch5-covalent-ionic-closure-and-electronegativity.md
   - ch6-catenation-branching-isomerism-and-functional-groups.md
   - ch7-cyclic-delocalization-and-aromatic-closure.md
-  - ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md
+  - ch8-reaction-site-taxonomy-and-acid-base-readings.md
 ---
 
 # Chemistry Domain Mature Status
@@ -33,7 +33,7 @@ This page is the global chemistry status and frontier control. It records only n
 | CH5 | `ch5-covalent-ionic-closure-and-electronegativity.md` | covalent/ionic architecture and screening-texture electronegativity Conjectured | CH6 recursion not inferred |
 | CH6 | `ch6-catenation-branching-isomerism-and-functional-groups.md` | recursive closure, constitution/isomerism, and carried local invariants Conjectured-strong | CH7 aromaticity excluded |
 | CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 passages excluded |
-| CH8 | `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md` | passage boundary and ledgers normalized; site taxonomy, acid/base unification, and oxidation-state bookkeeping Conjectured-strong | dynamics and quantitative chemistry excluded |
+| CH8 | `ch8-reaction-site-taxonomy-and-acid-base-readings.md` | shell-edge, charge-transfer, and mixed passage classes plus acid/base site-readings Conjectured-strong | CH9 activation/rates/catalysis excluded |
 
 ## Current chemistry standing
 
@@ -45,8 +45,8 @@ This page is the global chemistry status and frontier control. It records only n
 - CH5 retains the Conjectured covalent/ionic two-site architecture and screening-texture electronegativity.
 - CH6 retains residual-edge recursion, constitution/isomerism, and functional groups as carried local invariants at Conjectured grades.
 - CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic mode and `4k+2` arithmetic; physical aromatic realization and stabilization remain unfinished.
-- CH8 retains chemistry's no-transmutation passage boundary conditionally, inherits total charge conservation, distinguishes exact element from near-exact mass ledgers, and reconstructs passage taxonomy, acid/base, and oxidation state structurally.
-- CH8 does not derive passage occurrence, mechanisms, rates, equilibrium, thermodynamics, catalysis, pKa values, or redox potentials.
+- CH8 retains the proposed passage taxonomy by site: shell-edge re-partnering, charge transfer, and mixed passages. Brønsted and Lewis acid/base are retained as charge-site and shell-edge-site readings.
+- CH8 does not own no-transmutation/conservation ledgers, oxidation-state bookkeeping, passage occurrence, activation barriers, rates, catalysis, thermodynamic direction, equilibrium, or quantitative acid/base scales.
 
 ## Global frontiers
 
@@ -155,24 +155,24 @@ This page is the global chemistry status and frontier control. It records only n
 **Missing:** unequal-site/coupling model, heterocycle treatment, fused-ring rule, non-planar boundary, and empirical readout.  
 **Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
 
-### CH8-F1 — explicit chemistry passage occupant
+### CH8-F1 — explicit shell-edge passage occupant
 **Standing:** Open and Unregistered.  
-**Missing:** one admitted passage preserving element identity while re-apportioning a specified shell-edge or charge site.  
-**False-completion warning:** an empirical balanced equation is not a framework passage construction.  
-**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
+**Missing:** one admitted shell-edge standing opened and re-partnered while predecessor-domain identities persist.  
+**False-completion warning:** a substitution equation is not the framework construction.  
+**Local owner:** `ch8-reaction-site-taxonomy-and-acid-base-readings.md`.
 
-### CH8-F2 — site taxonomy completeness
-**Standing:** Conjectured-strong; completeness Open.  
-**Missing:** formal passage representation and proof that every admitted chemistry passage decomposes into shell-edge, charge-site, or mixed re-apportionment.  
-**False-completion warning:** familiar textbook classes do not prove exhaustiveness.  
-**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
+### CH8-F2 — explicit charge-transfer and mixed occupants
+**Standing:** Open and Unregistered.  
+**Missing:** one admitted charge-transfer passage and one admitted mixed passage in a common representation.  
+**False-completion warning:** oxidation-number changes do not themselves exhibit transfer.  
+**Local owner:** `ch8-reaction-site-taxonomy-and-acid-base-readings.md`.
 
-### CH8-F3 — acid/base and redox realization
-**Standing:** structural unifications Conjectured-strong; realization Open.  
-**Missing:** explicit Brønsted, Lewis, and transfer cases under one passage representation.  
-**False-completion warning:** pKa tables and oxidation-number assignments are values-side aids only.  
-**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
+### CH8-F3 — taxonomy completeness and acid/base realization
+**Standing:** taxonomy Conjectured-strong; completeness and realization Open.  
+**Missing:** formal passage representation, decomposition theorem, one Brønsted case, and one Lewis case.  
+**False-completion warning:** empirical acid/base classifications do not prove the native unification.  
+**Local owner:** `ch8-reaction-site-taxonomy-and-acid-base-readings.md`.
 
 ## Execution boundary
 
-CH9 has not begun. Passage actualization, kinetics, thermodynamics, equilibrium, catalysis, quantitative acid/base and redox scales, and all later chemistry remain unnormalized.
+CH9 has not begun. Activation ridges, rate propensity, exponential rate form, catalyst cycles, and later chemistry remain unnormalized.
