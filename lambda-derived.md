@@ -2,31 +2,64 @@
 title: Lambda Derived
 type: result
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-23
 status: current
 confidence: medium
 sources:
   - mathematization-F11.md
+  - grqm-conflict-status.md
 historical_sources:
   - lambda-derived.md
 ---
 
 # Lambda Derived
 
-Current result: Λ has a framework meaning as the gravitational stress-energy of reflexive self-closure.
+Λ is the gravitational stress-energy of reflexive cosmological self-closure.
 
 ## Mature status
 
-Status: **Registered** for Λ's framework meaning, tensor form, sign, and equation-of-state structure; **Open** for magnitude.
+Status: **Registered** for Λ's framework meaning, metric-proportional tensor form, positive sign, `w = -1`, and horizon-scale scaling `Λ ∼ R_H⁻²`; **Conjectured-strong** for the complete-closure coefficient `3`; **definitional, not confirmatory** for the present-value FRW relation `Λ = 3 Ω_Λ R_H⁻²`; **Open** for framework-native expansion dynamics and `w(z)`.
 
-## What is resolved
+## Structural derivation
 
-Earlier F11 status treated Λ largely as Lovelock-permitted. `lambda-derived.md` says this is resolved: Λ has tensor form, sign, and equation-of-state meaning through reflexive closure.
+A universe with no reflexive self-holding would not stand as one cosmological closure. The reflexive mode is therefore mandatory rather than merely permitted: Λ is positive, metric-proportional, and has `w = -1`. This is the modal upgrade over GR's free cosmological constant. A confirmed `Λ ≤ 0` cosmological background would falsify this branch; the 1998 discovery of positive acceleration passed a prohibition GR itself had not issued.
 
-## What remains open
+At the scale of the whole, the horizon reach `R_H` is the only available cosmological length. Since Λ is curvature, its registered scaling is
 
-- The magnitude of Λ.
-- Explicit closure dynamics behind the `w = -1` structural argument.
-- The cosmological-constant smallness question.
+`Λ ∼ R_H⁻²`,
 
-See also: [physics-domain-mature-status](physics-domain-mature-status.md), [physics-domain-work-plan](physics-domain-work-plan.md), [gravity-and-curvature](gravity-and-curvature.md), [claim-status-vocabulary](claim-status-vocabulary.md), [supersession-map](supersession-map.md).
+or equivalently `ΛR_H² = O(1)`. The world need not have exhibited an order-one coefficient; empirically it does.
+
+## Complete-closure coefficient
+
+Λ is a scalar closure-budget over the independent spatial 2-planes. In three spatial dimensions there are `C(3,2) = 3`, giving the complete-closure proposal
+
+`Λ_complete = 3 R_H⁻²`.
+
+The exact coefficient `3` remains **Conjectured-strong**. The empirical comparison is the dimensionless value
+
+`ΛR_H² = 3 Ω_Λ ≈ 2.05`,
+
+against the complete-closure value `3`.
+
+## Present-value identity: ledger, not law
+
+By FRW definition,
+
+`Ω_Λ ≡ Λc²/(3H₀²)`.
+
+With `R_H = c/H₀`, this rearranges identically to
+
+`Λ = 3 Ω_Λ R_H⁻²`.
+
+This holds in every FRW universe and cannot confirm the framework. The previous presentation of the equality as an independently successful prediction is withdrawn.
+
+The identity is not the proof of cosmological closure. The proof-bearing claim is structural: the whole must self-hold to stand; the reflexive term is therefore mandatory-positive rather than a freely signed constant. `Ω_Λ` is simply Λ expressed in horizon units—the world's accounting convention happens to use closure-native units.
+
+## Remaining frontier
+
+- The exact complete-closure coefficient `3` remains Conjectured-strong.
+- Framework-native expansion dynamics and the rate `w(z)` remain Open.
+- FRW/Friedmann/holographic-dark-energy dynamics must not be used as framework derivations.
+
+See also: [grqm-conflict-status](grqm-conflict-status.md), [gravity-and-curvature](gravity-and-curvature.md), [physics-domain-mature-status](physics-domain-mature-status.md), [claim-status-vocabulary](claim-status-vocabulary.md).
