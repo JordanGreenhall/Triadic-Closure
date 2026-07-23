@@ -14,6 +14,7 @@ sources:
   - ch5-covalent-ionic-closure-and-electronegativity.md
   - ch6-catenation-branching-isomerism-and-functional-groups.md
   - ch7-cyclic-delocalization-and-aromatic-closure.md
+  - ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md
 ---
 
 # Chemistry Domain Mature Status
@@ -31,7 +32,8 @@ This page is the global chemistry status and frontier control. It records only n
 | CH4 | `ch4-ideal-local-molecular-geometry.md` | exact ideal `N=2,3,4` geometries Secured conditionally; physical maximal-separation rule Conjectured | CH5 site structure not inferred |
 | CH5 | `ch5-covalent-ionic-closure-and-electronegativity.md` | covalent/ionic architecture and screening-texture electronegativity Conjectured | CH6 recursion not inferred |
 | CH6 | `ch6-catenation-branching-isomerism-and-functional-groups.md` | recursive closure, constitution/isomerism, and carried local invariants Conjectured-strong | CH7 aromaticity excluded |
-| CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 and later chemistry excluded |
+| CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 passages excluded |
+| CH8 | `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md` | passage boundary and ledgers normalized; site taxonomy, acid/base unification, and oxidation-state bookkeeping Conjectured-strong | dynamics and quantitative chemistry excluded |
 
 ## Current chemistry standing
 
@@ -42,8 +44,9 @@ This page is the global chemistry status and frontier control. It records only n
 - CH4 Secures the ideal `180°`, `120°`, and `arccos(-1/3) ≈ 109.47°` direction families only under its stated conditions.
 - CH5 retains the Conjectured covalent/ionic two-site architecture and screening-texture electronegativity.
 - CH6 retains residual-edge recursion, constitution/isomerism, and functional groups as carried local invariants at Conjectured grades.
-- CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic mode and `4k+2` arithmetic.
-- Physical cyclic delocalization, aromatic closure, stabilization, heterocycle/fused-ring extension, spectra, ring currents, and reaction consequences remain unfinished.
+- CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic mode and `4k+2` arithmetic; physical aromatic realization and stabilization remain unfinished.
+- CH8 retains chemistry's no-transmutation passage boundary conditionally, inherits total charge conservation, distinguishes exact element from near-exact mass ledgers, and reconstructs passage taxonomy, acid/base, and oxidation state structurally.
+- CH8 does not derive passage occurrence, mechanisms, rates, equilibrium, thermodynamics, catalysis, pKa values, or redox potentials.
 
 ## Global frontiers
 
@@ -139,25 +142,37 @@ This page is the global chemistry status and frontier control. It records only n
 
 ### CH7-F1 — admitted cyclic delocalized occupant
 **Standing:** Open and Unregistered.  
-**Current strongest:** candidate cyclic standing and ideal ring-mode space.  
 **Missing:** admitted multi-center ring standing, holding relation, occupancy, persistence, and readout.  
-**False-completion warning:** benzene recognition or resonance notation is not the framework occupant.  
 **Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
 
 ### CH7-F2 — native cyclic interaction and aromatic stabilization
 **Standing:** Open and Unregistered.  
-**Current strongest:** ideal cyclic spectrum and `4k+2` comparison template.  
 **Missing:** native functional, locality rule, coupling, reference state, and stabilization theorem.  
-**False-completion warning:** closed-shell arithmetic does not prove energetic stabilization.  
 **Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
 
 ### CH7-F3 — unequal-center and extended aromatic systems
 **Standing:** Open and Unregistered.  
-**Current strongest:** equal-center/equal-coupling cyclic arithmetic is conditionally Secured.  
 **Missing:** unequal-site/coupling model, heterocycle treatment, fused-ring rule, non-planar boundary, and empirical readout.  
-**False-completion warning:** familiar aromatic classifications cannot be reverse-installed.  
 **Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
+
+### CH8-F1 — explicit chemistry passage occupant
+**Standing:** Open and Unregistered.  
+**Missing:** one admitted passage preserving element identity while re-apportioning a specified shell-edge or charge site.  
+**False-completion warning:** an empirical balanced equation is not a framework passage construction.  
+**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
+
+### CH8-F2 — site taxonomy completeness
+**Standing:** Conjectured-strong; completeness Open.  
+**Missing:** formal passage representation and proof that every admitted chemistry passage decomposes into shell-edge, charge-site, or mixed re-apportionment.  
+**False-completion warning:** familiar textbook classes do not prove exhaustiveness.  
+**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
+
+### CH8-F3 — acid/base and redox realization
+**Standing:** structural unifications Conjectured-strong; realization Open.  
+**Missing:** explicit Brønsted, Lewis, and transfer cases under one passage representation.  
+**False-completion warning:** pKa tables and oxidation-number assignments are values-side aids only.  
+**Local owner:** `ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md`.
 
 ## Execution boundary
 
-CH8 has not begun. Reaction taxonomy, acid/base, later passage structure, kinetics, thermodynamics, catalysis, and all later chemistry remain unnormalized.
+CH9 has not begun. Passage actualization, kinetics, thermodynamics, equilibrium, catalysis, quantitative acid/base and redox scales, and all later chemistry remain unnormalized.
