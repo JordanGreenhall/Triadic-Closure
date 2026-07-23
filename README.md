@@ -2,6 +2,10 @@
 
 This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. It is organized by semantic dependency: foundational architectonics, mathematics, physics, the physics–chemistry interface, and chemistry. Navigation is supplied by the current controls rather than inferred from filenames or former Drive folders.
 
+## Normalization release
+
+The Version 1.0 corpus-normalization sequence is complete. See [Normalization Release](NORMALIZATION-RELEASE.md). The release tag is `normalization-v1.0` and must point to the final `main` commit containing the release record.
+
 ## Reader entry
 
 1. [Corpus Index](index.md) — canonical reading order through the living theory.
