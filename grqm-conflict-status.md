@@ -21,7 +21,7 @@ Current curated status page for the GR/QM conflict problem-locator and session l
 
 ## Mature status
 
-Status: **Registered** for the root dissolution G2 and its non-renormalizability symptom G3's registered subclaims; **Registered / Registered-not-Sealed / defended-posit split** for G1 manifold-recovery subpieces; **Registered shape with Registered-not-Sealed coefficient hinge** for `A/4`; **Registered and sealed-for-matter-sourced-case** for conflict (2) / BMV-positive-without-actual-geometric-superposition; **out of quarantine** for conflict (4) / Λ magnitude, with scaling Registered and coefficient/present-value Conjectured-strong; **Conjectured** for information/unitarity.
+Status: **Registered** for the root dissolution G2 and its non-renormalizability symptom G3's registered subclaims; **Registered / Registered-not-Sealed / defended-posit split** for G1 manifold-recovery subpieces; **Registered shape with Registered-not-Sealed coefficient hinge** for `A/4`; **Registered and sealed-for-matter-sourced-case** for conflict (2) / BMV-positive-without-actual-geometric-superposition; **out of quarantine** for conflict (4) / Λ magnitude, with scaling Registered, complete-closure coefficient Conjectured-strong, and the present-value FRW relation classified as definitional rather than confirmatory; **Conjectured** for information/unitarity.
 
 The standard statement of the GR/QM conflict is treated as a symptom: naive metric quantization fails because it mislocates the vertical/horizontal crossing onto the arena continuum rather than at the discrete This. The root conflict is the background problem: QM uses a flattened arena; GR makes the With live.
 
@@ -30,7 +30,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 1. **Background problem — root.** QM presupposes a fixed arena; GR makes geometry dynamical. Current framework answer: the arena and dynamical metric are one With under two phases — flattened within a horizontal step, live across closures.
 2. **Definiteness / measurement of geometry.** Superposed masses source superposed realizability-geometry, but a complete actual geometry cannot itself be superposed. The matter-sourced case is sealed at the decisive tier: BMV-positive is forced by proven non-exact holonomy, while the standard inference to actual spacetime superposition is denied.
 3. **Information / horizon — scoreboard.** `S = A/4`, area rather than volume, unitarity vs semiclassical horizons. Current framework answer: horizon as total self-closure, area as straddling-link count, coefficient split into `2π / 8π` with `2π` Registered-not-Sealed.
-4. **Scale / constants — formerly values-side, now partially resolved.** Λ magnitude is no longer simply quarantined: scaling `Λ ∼ R_H⁻²` is Registered; coefficient `3` as spatial 2-plane closure budget is Conjectured-strong; present value `Λ = 3 Ω_Λ R_H⁻²` is Conjectured-strong; the cosmological-constant problem is dissolved as a wrong-units / wrong-cutoff artifact. The dynamical rate `w(z)` remains Open.
+4. **Scale / constants — formerly values-side, now partially resolved.** Λ magnitude is no longer simply quarantined: sign, `w = -1`, metric-proportionality and scaling `Λ ∼ R_H⁻²` are Registered; coefficient `3` as the complete-closure spatial 2-plane budget is Conjectured-strong. The present relation `Λ = 3 Ω_Λ R_H⁻²` is not a prediction: from `Ω_Λ ≡ Λc²/(3H₀²)` and `R_H = c/H₀`, it is a definitional identity in every FRW universe. The empirical content is instead `ΛR_H² = 3Ω_Λ ≈ 2.05`, a positive order-one coefficient against the complete-closure prediction `3`. The dynamical rate `w(z)` remains Open.
 
 ## Current result ledger
 
@@ -61,7 +61,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 | Λ structural meaning | Registered | Λ is the gravitational stress-energy of reflexive self-closure: metric-proportional, positive, `w = -1`. |
 | Λ scaling | Registered | Λ is the reflexive self-holding of the one cosmological closure at its own scale; as curvature from the single horizon scale, `Λ ∼ R_H⁻²`. |
 | Λ coefficient `3` | Conjectured-strong | Λ is a scalar closure-budget over independent spatial 2-planes; in `d=3`, `C(3,2)=3`, giving complete-closure `Λ = 3 R_H⁻²`. |
-| Present Λ value | Conjectured-strong | Present incompleteness gives `Λ = 3 Ω_Λ R_H⁻²`; using `R_H = c/H₀ = 1.37×10²⁶ m`, `Ω_Λ = 0.685`, this gives `1.095×10⁻⁵² m⁻²`, matching measured Λ. |
+| Present Λ relation | Definitional identity; not evidence | `Ω_Λ ≡ Λc²/(3H₀²)` and `R_H = c/H₀` imply `Λ = 3 Ω_Λ R_H⁻²` identically in every FRW universe. Empirical contact belongs to the dimensionless coefficient: observed `ΛR_H² = 3Ω_Λ ≈ 2.05`, compared with the complete-closure prediction `3`. |
 | Cosmological-constant problem | Dissolved as units/cutoff artifact, on Conjectured-strong Λ magnitude | `10⁻¹²²` is `(ℓ_P/R_H)²`, i.e. measuring a horizon-scale curvature in Planck units; QFT used a UV cutoff for an IR/horizon-bounded quantity. |
 | Λ dynamics / `w(z)` | Open | FRW/Friedmann/Li-2004/holographic-DE routes are withdrawn as laundering; rate requires framework-native expansion dynamics. |
 | Information/unitarity | Conjectured | §9.7 supports unitary-side conservation by principle; horizon boundary conservation remains conjectural. |
@@ -86,6 +86,7 @@ What remains is not a rival fixed point or an unfinished derivation. Smooth mani
 - The “geometric phase distinct from the dynamical phase” framing is retracted. Gravity is internal-phase-blind; the holonomy value reproduces the standard dynamical BMV entangling phase up to `G`.
 - Λ-dive laundering is withdrawn: holographic-dark-energy / CKN machinery, FRW + Friedmann + Li-2004 `w(z)`, event-horizon cutoff, Schwarzschild `M=L/2`, per-cell volume counts, and DESI `w_a` tension conclusions are not framework results.
 - Λ coefficient `2π` / holonomy-over-area is retracted as a category error. Λ is a scalar closure-budget over independent planes, not sectional/Ricci/scalar curvature from a loop in pre-existing space.
+- The former claim that `Λ = 3 Ω_Λ R_H⁻²` matches measured Λ as independent confirmation is retracted. That equation is ΩΛ's FRW definition unpacked. The structural evidence is instead the forced positive self-holding term and the observed order-one value of `ΛR_H²`; the identity is ledger, not law.
 - The σ standing-state map is not owed. F9 supplies the conserved-flow magnitude `σ_i = √d_i/Z`; the remaining value-side phase selection lives in born-element carrier phases, not σ magnitude.
 
 ## Integration rules
@@ -94,7 +95,7 @@ What remains is not a rival fixed point or an unfinished derivation. Smooth mani
 - Apply G1 only where spatial manifold/order structure is spent. Do not attach it to the internal carrier, Born weighting, closure measure or mass spine.
 - Use [[gravity-and-curvature]] for weak-field gravity and full-GR status, but read its full-Einstein/Lovelock notes together with this page: the second-order premise has been promoted to Registered conditional on G1, not left as a merely external Lovelock import.
 - Use [[propagation-and-invariant-velocity]] for propagation and `c`, but keep the split exact: several native subpieces are Registered; smooth manifold recovery is still not Sealed; exact local Lorentz is a defended posit at the foundation's maximal-warrant rank.
-- Use [[lambda-derived]] for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
+- Use [[lambda-derived]] for Λ structure and magnitude status: meaning/sign/`w=-1` and scaling Registered; complete-closure coefficient `3` Conjectured-strong; `Λ = 3 Ω_Λ R_H⁻²` definitional rather than confirmatory; dynamics/`w(z)` Open.
 - Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
 - Do not treat BMV-positive as proof of actual spacetime superposition. The framework position is stronger and different: BMV-positive is forced through realizability-frontier coherence, while actual geometry remains definite.
 - Do not describe the holonomy as a separate geometric Berry phase relative to gravitational configuration. The curvature step says gravity is internal-phase-blind; the phase value is the usual dynamical gravitational entangling phase.
