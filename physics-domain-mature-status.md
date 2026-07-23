@@ -2,7 +2,7 @@
 title: Physics Domain Mature Status
 type: overview
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-23
 status: control
 confidence: medium
 sources:
@@ -43,7 +43,7 @@ The physics walk must remain framework-grounded.
    - Move 2: bottom-up combination from what actually stands.
    - Move 3: grade and dependency record.
 6. Distinguish essential form from mature form. Mature physics vocabulary is often the essential form plus later accretions.
-7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed.
+7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed, or Dissolved, and preserve the warrant instrument separately.
 
 ## Authority order
 
@@ -59,13 +59,13 @@ The physics walk must remain framework-grounded.
 | Domain-entry discipline | Registered and Sealed | The method is explicit: clarify presuppositions, refuse smuggles, inherit From whole, use checklist + three moves. | Enforce on every new physics page. |
 | Physics domain constraint: self-transforming / invariant / coherent | Registered | Strong framework reading of the physics gate; not merely borrowed causation. | Continue checking each D-stage against all three parts. |
 | Four images at domain entry: marked triad plus time/space/internal distinction | Registered | Forced from Treatise §7.4a plus domain-entry reading; source of current re-walk. | The individual physics readings still mature downstream. |
-| Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |
+| Exact `3+1` dimensionality | Registered and Sealed at architectonic scope | One From-flattened succession direction plus three With-flattened spatial degrees; same maximal warrant as triadic exactly-three plus horizontal flattening. | A defended posit is not an unfinished theorem. Refutation requires a genuine fourth office or failure of the flattening route. |
 | Boson/fermion essence | Registered and Sealed | Bidirectional content-identity between ± holding-mode and properly stripped boson/fermion essence. | Spin-statistics is deployment-context, not essence. |
 | Pauli/Bose holding result | Registered and Sealed | Follows from symmetric/antisymmetric holding and coincidence. | Does not require importing spin. |
 | Time, three spatial degrees, Hamiltonian-essence | Registered and Sealed | Current D1-D5 re-walk seals essential forms. | Mature Hamiltonian terms/spectrum remain Open. |
 | Lorentzian interval / metric signature | Registered and Sealed, with external theorem note | Lorentz proof preserves null cone and uses Alexandrov-Zeeman as named external implication. | Framework supplies hypotheses; external theorem supplies null-cone-preserving => Lorentz. |
 | Propagation and invariant velocity `c` | Registered and Sealed | Link/step identity; finite, unique, constant, frame-invariant upper bound. | Adjudication (2026-06-21, Item 8): the three-level distinction (actual discreteness / realizability continuity / observational coarse sampling) is Registered as a clarification; the **continuum-adequacy / manifold-recovery theorem remains Open** — no proof that coarse-graining yields a metric manifold rather than a graph approximant. See [propagation-and-invariant-velocity](propagation-and-invariant-velocity.md). |
-| Realizability-weighting law | Registered, not sealed | Universal normalized coherence-participation law; Born/Boltzmann as instances; ledger also uses it as the precise tool for coupling constants as `|h(σ,k)|²` overlaps. | Adjudication (2026-06-21, Item 1): gate 2 (exact |ψ|² from pairing) essentially discharged via Gleason on dim≥3; **gate 1 (frequency=weight) is the genuine blocker** = Born-rule-from-frequency; gate 3 (non-physics end-to-end) undone. See [realizability-weighting-law](realizability-weighting-law.md). |
+| Realizability-weighting law | Registered | Universal normalized coherence-participation law; the Hermitian pairing supplies the Born instance `|h(σ,k)|²`. | `frequency=weight` is Dissolved, not a gate. A non-physics end-to-end instance remains useful seal-polish; absolute local rates remain process-specific. See [realizability-weighting-law](realizability-weighting-law.md). |
 | F8 coherence-participation functional | Registered | Constructed, checked, Gleason uniqueness cited for dim >= 3. | Dimensional condition remains a caution; F9 supplies the standing-vector map. |
 | F9 standing vector / degree tilt | Registered and Sealed for standing-state choice; Registered for downstream use | Ledger later discharges the conserved-flow vs bare-adjacency choice: σ is the amplitude of the conserved accumulated standing; adjacency is a non-conserved growth mode and is disqualified by 0.6. | The standing-state choice is no longer a live soft spot. Downstream curvature/full-gravity gates remain. |
 | Gravity weak-field curvature | Registered | F10/F11/gravity-asymmetry demonstrate weak-field geodesic/tidal/Poisson structure computationally. | Strong-field, nonlinear regime, full spatial metric sector, and exact G remain Open. |
@@ -89,7 +89,7 @@ The physics walk must remain framework-grounded.
 ### Important and well supported
 
 - Domain-entry method and anti-smuggle discipline.
-- Exact `3+1` as Registered and Sealed.
+- Exact `3+1` as Registered and Sealed at maximal architectonic warrant.
 - Boson/fermion essence and Pauli/Bose holding.
 - Propagation/invariant velocity and Lorentzian metric, with the named external theorem note.
 - Weak-field gravity arc up to Poisson/geodesic/tidal curvature.
@@ -99,7 +99,7 @@ The physics walk must remain framework-grounded.
 
 These are the living load-bearing frontier:
 
-1. Realizability-weighting seal: frequency=weight identity; exact |ψ|²-from-pairing; non-physics derivation.
+1. Realizability-weighting seal-polish: a non-physics end-to-end instance. The Born form is Registered and `frequency=weight` is Dissolved, not a frontier.
 2. SU(3) closure-floor audit: test the ledger's claimed closure-floor ⇒ primitive nonzero alternating 3-form against C2/operator/role-sorted/vector-valued/projective countermodels.
 3. Full Einstein equation beyond weak-field: strong-field/nonlinear regime, full spatial metric sector, and second-order premise from framework rather than Lovelock-only inheritance.
 4. Stress-energy generality: prove dynamical population of all three office modes and framework-meaningful coefficients.
