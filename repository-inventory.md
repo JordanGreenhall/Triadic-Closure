@@ -5,6 +5,7 @@ Generated from the current normalized tree. This is the live migration-reconcili
 ## Governing navigation and controls
 
 - `README.md`
+- `NORMALIZATION-RELEASE.md`
 - `index.md`
 - `SCHEMA.md`
 - `repository-inventory.md`
