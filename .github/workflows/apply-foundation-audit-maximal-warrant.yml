@@ -1,0 +1,214 @@
+name: Apply foundation audit maximal warrant
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/foundation-audit-maximal-warrant
+          fetch-depth: 0
+      - name: Apply audit section 2
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          Path('architectonic-rigor.md').write_text('''---
+title: Architectonic Rigor
+type: result
+created: 2026-06-21
+updated: 2026-07-23
+status: current
+confidence: high
+sources:
+  - architectonic-rigor-complete.md
+  - triadic-structure-of-relating-rev-canonical.md
+---
+
+# Architectonic Rigor
+
+Architectonic rigor governs what each securing instrument can establish and where that instrument structurally stops. A claim's standing is fixed by the route that reaches it; a different kind of claim may require a different kind of warrant.
+
+## The completeness ceiling
+
+Retorsion secures ineliminability: at least this condition must operate in any determination. It cannot certify an exhaustive inventory, because the act certifying the inventory would itself deploy that inventory. Construction has the same limit. This is not a weakness of one candidate inventory. It binds every claim of the form “these are all the ultimate terms.”
+
+The completeness diagnostic identifies that ceiling. Once it fires, demanding a stronger formal derivation is a category mistake: formal proof already presupposes a fixed inventory and therefore cannot certify the completeness of the inventory it uses.
+
+## Defended posit
+
+A defended posit is the correct and maximal warrant for a claim at the completeness ceiling. Its defense profile has three parts:
+
+1. **Forced floor:** collapse below the proposed inventory is blocked by retorsion.
+2. **Survived examination:** candidate rivals have been examined and return as subdivisions, textures, or second-order statuses rather than genuine alternatives.
+3. **Reflexive stability:** the posit, turned on itself, returns itself rather than self-destructing.
+
+A defended posit is not unfinished proof. It is closed to stronger certification because stronger certification is structurally unavailable to every rival, while remaining open to refutation: exhibit a genuine irreducible alternative and the posit fails.
+
+## Exactly-three
+
+Exactly-three carries the strongest warrant any ultimate office-count can carry. The at-least-three floor is retorsion-secured; proposed fourth offices have returned as subdivisions or second-order statuses; and the defense itself is a From/With/This act. Downstream successful derivations and empirical passes provide the available upward confirmation without changing the claim's warrant type.
+
+## Execution rule
+
+Do not report a defended posit as apologetic, weak, provisional, or awaiting a formal proof. Do not promote it to a theorem. State its maximal warrant, its defense profile, its dependency scope, and its open refutation condition.
+''', encoding='utf-8')
+
+          Path('claim-status-vocabulary.md').write_text('''---
+title: Claim Status Vocabulary
+type: concept
+created: 2026-06-21
+updated: 2026-07-23
+status: current
+confidence: high
+sources:
+  - architectonic-rigor-complete.md
+  - triadic-structure-of-relating-rev-canonical.md
+---
+
+# Claim Status Vocabulary
+
+Preserve both a claim's live status and the warrant instrument that reaches it.
+
+## Live claim statuses
+
+- **Open** — explicitly not closed; a genuine work frontier.
+- **Conjectured** — plausible proposal not yet registered by the framework.
+- **Registered** — framework structure reaches the item in essence or under stated conditions, while some closure remains incomplete.
+- **Registered and Sealed** — the item carries no additional load beyond the registered structure at its stated scope.
+- **Dissolved** — a purported problem or demand shown to be a category error and removed rather than answered.
+
+## Warrant instruments
+
+- **Retorsion-secured** — denial necessarily deploys the denied condition.
+- **Forced** — secured by dependency, construction, or another exhibited instrument.
+- **Selected** — admitted by an exhibited boundary but not uniquely compelled.
+- **Recognition** — a downstream name attached after the structure is earned; surplus remains quarantined.
+- **Defended posit** — a completeness claim at the universal certification ceiling, carried by a forced floor, survived rival examination, and reflexive stability.
+
+A defended posit is not a low-confidence status or unfinished theorem. It is the maximal warrant available to any exhaustive foundational inventory. It remains open to refutation by a genuine counterexample, not open as an owed proof task.
+
+## Deprecated status
+
+- **Locked actual** — deprecated because it obscures whether an item is Open, Conjectured, Registered, Registered and Sealed, or otherwise classified.
+
+## Execution rule
+
+Never strengthen a claim beyond its route. Equally, never weaken a defended posit by comparing it to a formal proof whose fixed inventory already presupposes the kind of completeness at issue.
+''', encoding='utf-8')
+
+          Path('dimension-and-spacetime-status.md').write_text('''---
+title: Dimension and Spacetime Status
+type: overview
+created: 2026-06-21
+updated: 2026-07-23
+status: control
+confidence: high
+sources:
+  - triadic-structure-of-relating-rev-canonical.md
+  - physics-walk-d1-d5-consolidated.md
+---
+
+# Dimension and Spacetime Status
+
+## Current result
+
+Exact `3+1` is **Registered and Sealed at architectonic scope**: three interchangeable spatial degrees are the horizontal With-flattening of the triad, while the `+1` is the oriented From-succession direction.
+
+## Warrant
+
+The spatial count inherits the exactly-three defended posit and the horizontal flattening. Exactly-three carries the maximal warrant available to any ultimate inventory: an at-least-three retorsive floor, survived examination of proposed fourth offices, and reflexive stability. The `3+1` result therefore does not await a stronger formal proof of the office inventory. Formal proof operates inside an already fixed inventory and cannot certify that inventory's completeness.
+
+The claim remains refutable in the proper way: a genuine irreducible fourth office, or a failure of the From/With flattening into one oriented succession direction and three interchangeable spatial degrees, would defeat it.
+
+## Scope
+
+This status does not claim a proof-assistant derivation from arity alone, nor does it rest on D6 bound-state stability. Those are not the warrant route. The governing route is one oriented From-flattening plus three horizontal With-flattened degrees.
+
+## Execution rule
+
+State exact `3+1` positively at the same maximal architectonic warrant as exactly-three plus horizontal flattening. Do not call it an empirical trajectory lock, a weakness, or an unfinished proof task.
+''', encoding='utf-8')
+
+          p = Path('triadic-structure-of-relating-rev-canonical.md')
+          s = p.read_text(encoding='utf-8')
+          old = 'What can be said is weaker and important, and it has the exact shape the companion document requires of a strong posit: a defense profile in three parts.'
+          new = 'The completeness ceiling does not weaken exactly-three relative to a rival count; it binds every ultimate inventory symmetrically. The rational question is comparative: which count carries the strongest defense beneath that ceiling? Exactly-three carries the exact shape the companion document requires of a strong posit: a defense profile in three parts.'
+          if old not in s:
+              raise SystemExit('canonical exactly-three sentence not found')
+          p.write_text(s.replace(old, new), encoding='utf-8')
+
+          p = Path('grqm-conflict-status.md')
+          s = p.read_text(encoding='utf-8')
+          replacements = {
+          '| G1c smoothness / rotational invariance | Registered-not-Sealed via named universality import; exact local Lorentz = defended posit | Do not state manifold recovery as sealed. |': '| G1c smoothness / rotational invariance | Smoothness Registered-not-Sealed via named universality import; exact local Lorentz = defended posit | Smooth manifold recovery remains unsealed. Exact local Lorentz stands at the maximal warrant available to an exact symmetry claim and is not an unfinished proof task. |',
+          '- Use [[propagation-and-invariant-velocity]] for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.': '- Use [[propagation-and-invariant-velocity]] for propagation and `c`, but keep the split exact: several native subpieces are Registered; smooth manifold recovery is still not Sealed; exact local Lorentz is a defended posit at the foundation’s maximal-warrant rank.',
+          '1. **G1 manifold recovery.** Dimension/criticality/frame-freedom advanced; smoothness and exact local Lorentz remain not sealed.': '1. **G1 manifold recovery.** Dimension, criticality, and frame-freedom have advanced; smoothness remains not sealed. Exact local Lorentz is a defended posit at the maximal warrant available to an exact symmetry claim, open to refutation rather than awaiting a stronger proof.'
+          }
+          for old, new in replacements.items():
+              if old not in s:
+                  raise SystemExit(f'GR/QM target not found: {old[:60]}')
+              s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+
+          p = Path('physics-domain-mature-status.md')
+          s = p.read_text(encoding='utf-8')
+          replacements = {
+          '7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed.': '7. No `locked actual`. Use Open, Conjectured, Registered, Registered and Sealed, or Dissolved, and preserve the warrant instrument separately.',
+          '| Exact `3+1` dimensionality | Registered and Sealed | One From-flattened succession direction plus three With-flattened spatial degrees; same standing as triadic exactly-three plus horizontal flattening. | Do not justify by arity-to-dimension or D6 stability alone. |': '| Exact `3+1` dimensionality | Registered and Sealed at architectonic scope | One From-flattened succession direction plus three With-flattened spatial degrees; same maximal warrant as triadic exactly-three plus horizontal flattening. | A defended posit is not an unfinished theorem. Refutation requires a genuine fourth office or failure of the flattening route. |',
+          '| Realizability-weighting law | Registered, not sealed | Universal normalized coherence-participation law; Born/Boltzmann as instances; ledger also uses it as the precise tool for coupling constants as `|h(σ,k)|²` overlaps. | Adjudication (2026-06-21, Item 1): gate 2 (exact |ψ|² from pairing) essentially discharged via Gleason on dim≥3; **gate 1 (frequency=weight) is the genuine blocker** = Born-rule-from-frequency; gate 3 (non-physics end-to-end) undone. See [realizability-weighting-law](realizability-weighting-law.md). |': '| Realizability-weighting law | Registered | Universal normalized coherence-participation law; the Hermitian pairing supplies the Born instance `|h(σ,k)|²`. | `frequency=weight` is Dissolved, not a gate. A non-physics end-to-end instance remains useful seal-polish; absolute local rates remain process-specific. See [realizability-weighting-law](realizability-weighting-law.md). |',
+          '1. Realizability-weighting seal: frequency=weight identity; exact |ψ|²-from-pairing; non-physics derivation.': '1. Realizability-weighting seal-polish: a non-physics end-to-end instance. The Born form is Registered and `frequency=weight` is Dissolved, not a frontier.'
+          }
+          for old, new in replacements.items():
+              if old not in s:
+                  raise SystemExit(f'physics status target not found: {old[:60]}')
+              s = s.replace(old, new)
+          p.write_text(s, encoding='utf-8')
+
+          checks = {
+              'architectonic-rigor.md': ['correct and maximal warrant', 'Exactly-three carries the strongest warrant'],
+              'claim-status-vocabulary.md': ['Defended posit', 'maximal warrant available'],
+              'dimension-and-spacetime-status.md': ['Registered and Sealed at architectonic scope', 'does not await a stronger formal proof'],
+              'triadic-structure-of-relating-rev-canonical.md': ['binds every ultimate inventory symmetrically'],
+              'grqm-conflict-status.md': ['open to refutation rather than awaiting a stronger proof'],
+              'physics-domain-mature-status.md': ['frequency=weight` is Dissolved', 'same maximal warrant as triadic exactly-three']
+          }
+          for file, needles in checks.items():
+              text = Path(file).read_text(encoding='utf-8')
+              for needle in needles:
+                  if needle not in text:
+                      raise SystemExit(f'missing verification text in {file}: {needle}')
+
+          forbidden = {
+              'triadic-structure-of-relating-rev-canonical.md': ['What can be said is weaker and important'],
+              'dimension-and-spacetime-status.md': ['weaker/different than a completed formal proof-assistant theorem'],
+              'grqm-conflict-status.md': ['smoothness and exact local Lorentz remain not sealed'],
+              'physics-domain-mature-status.md': ['frequency=weight) is the genuine blocker']
+          }
+          for file, needles in forbidden.items():
+              text = Path(file).read_text(encoding='utf-8')
+              for needle in needles:
+                  if needle in text:
+                      raise SystemExit(f'stale framing remains in {file}: {needle}')
+          PY
+      - name: Commit audit execution
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add architectonic-rigor.md claim-status-vocabulary.md dimension-and-spacetime-status.md triadic-structure-of-relating-rev-canonical.md grqm-conflict-status.md physics-domain-mature-status.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'State exactly-three at maximal warrant'
+          git push origin HEAD:agent/foundation-audit-maximal-warrant
