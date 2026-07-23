@@ -14,7 +14,7 @@ claim_statuses: [Open, "Registered-candidate", Registered, Dissolved]
 
 At a realizability fork with candidates `k`, actualization is weighted by
 
-> `P(k) = C(k) / sum_j C(j)`
+> `P(k) = C(k) / Σⱼ C(j)`
 
 where `C(k)` is the coherence-participation of candidate `k`, measured by the domain's own coherence measure. The universal law supplies normalization; the form of `C` belongs to the domain.
 
