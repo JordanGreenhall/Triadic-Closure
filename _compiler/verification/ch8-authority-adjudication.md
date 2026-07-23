@@ -1,9 +1,9 @@
 # CH8 Authority Adjudication
 
-The named specification controls the unit boundary.
+The normalization-program catalog controls the unit boundary.
 
-CH8 owns chemical passages and invariants: no transmutation, conservation ledgers, site-based reaction taxonomy, acid/base unification, and oxidation-state bookkeeping.
+CH8 owns only reaction-site taxonomy: shell-edge re-partnering, charge transfer, mixed passages, and Brønsted/Lewis acid-base readings.
 
-CH6 already owns functional groups. CH7 already owns cyclic delocalization and aromatic closure. Neither is duplicated here.
+The prior broad owner incorrectly added no-transmutation/conservation ledgers and oxidation-state bookkeeping. Those claims are removed from CH8 ownership and are not reassigned speculatively.
 
-The chemistry walk's D4 passage material is admitted only at the grades recorded in the canonical CH8 owner. Passage occurrence, mechanisms, rates, equilibrium, thermodynamics, catalysis, quantitative acid/base scales, and redox potentials remain outside CH8.
+CH6 retains functional groups. CH7 retains cyclic delocalization and aromatic closure. CH9 owns activation, rates, and catalysis. CH10 owns thermodynamic direction and equilibrium.
