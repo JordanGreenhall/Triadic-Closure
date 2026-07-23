@@ -1,11 +1,11 @@
 # CH8 Supersession Control
 
-`ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md` is the canonical CH8 owner.
+`ch8-reaction-site-taxonomy-and-acid-base-readings.md` is the canonical CH8 owner.
 
-CH8 owns the no-transmutation chemistry passage boundary, conservation ledgers, site-based passage taxonomy, Brønsted/Lewis site unification, and oxidation-state bookkeeping.
+CH8 owns only the reaction-site taxonomy specified by the normalization program: shell-edge re-partnering, charge transfer, mixed passages, and Brønsted/Lewis acid-base readings.
 
-CH6 remains the sole owner of functional groups and carried local invariants. CH7 remains the sole owner of cyclic delocalization and aromatic closure.
+The earlier broad CH8 owner incorrectly added no-transmutation/conservation ledgers and oxidation-state bookkeeping. Those claims are removed from CH8 ownership and are not reassigned without a specified unit.
 
-Kinetics, thermodynamics, equilibrium, catalysis, mechanisms, rates, pKa values, redox potentials, and later chemistry remain unopened.
+CH6 retains functional groups. CH7 retains cyclic delocalization and aromatic closure. CH9 owns activation, rates, and catalysis. CH10 owns thermodynamic direction and equilibrium.
 
-The named smuggle-watches are: reaction names do not supply the native site taxonomy; acid/base labels do not import scales or mechanisms; oxidation numbers are not literal charges.
+Smuggle-watches: reaction names do not supply the taxonomy; transfer does not import oxidation-state bookkeeping; acid/base terminology does not import scales or mechanisms; classification does not establish passage occurrence.
