@@ -1,0 +1,34 @@
+name: Create normalization-v1.0 tag
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/create-normalization-tag.yml
+
+permissions:
+  contents: write
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create exact release tag and remove accidental branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          TARGET_SHA: 3a5c0f918e1ab33100e063abbe6df5b412978b55
+        run: |
+          set -euo pipefail
+          git init repo
+          cd repo
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${REPO}.git"
+          git fetch --no-tags --depth=1 origin "${TARGET_SHA}"
+          git tag normalization-v1.0 "${TARGET_SHA}"
+          git push origin refs/tags/normalization-v1.0
+          curl --fail --silent --show-error \
+            -X DELETE \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${REPO}/git/refs/heads/tags/normalization-v1.0" || true
