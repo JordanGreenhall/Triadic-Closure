@@ -1,0 +1,182 @@
+name: Apply foundation audit frequency-weight dissolution
+
+on:
+  push:
+    branches:
+      - agent/foundation-audit-execution
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/foundation-audit-execution
+          fetch-depth: 0
+      - name: Apply exact audit instructions
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          def read(path):
+              return Path(path).read_text(encoding='utf-8')
+
+          def write(path, text):
+              Path(path).write_text(text, encoding='utf-8')
+
+          # 1. Replace the source result with the current, fresh-reader statement.
+          write('realizability-weighting-law.md', '''---
+          title: Realizability Weighting Law
+          type: result
+          created: 2026-06-21
+          updated: 2026-07-23
+          status: current
+          confidence: high
+          ---
+
+          # Realizability Weighting Law
+
+          At a realizability fork with candidates `k`, actualization is weighted by
+
+          > `P(k) = C(k) / Σⱼ C(j)`
+
+          where `C(k)` is the coherence-participation of candidate `k`, measured by the domain's own coherence measure. The universal law supplies normalization; the form of `C` belongs to the domain. In quantum physics the Hermitian-pairing measure gives the Born instance `C(k)=|h(σ,k)|²`.
+
+          ## Status
+
+          **Registered.** The exact quadratic Born form is carried by the pairing, normalization, and Gleason frame-function route in dimension at least three. The dimension-two caveat remains local to that theorem.
+
+          ## The frequency=weight demand is Dissolved
+
+          The former demand to derive that long-run frequencies match the weights is a category error, not an open gate.
+
+          A categorical derivation would make actualization non-chancy and destroy the explanandum. A probabilistic derivation would already use the weight-to-frequency relation it was supposed to establish. Both versions presuppose that weight and degree-of-actualization are two different things requiring a bridge. The framework does not make that bifurcation: degree-of-coherence-toward is degree-of-actualization.
+
+          Therefore `frequency=weight` is **Dissolved**. It is not a condition on the Born instance, mass, flavor and neutron results, atomic binding or spectrum, chemistry gate-crossing, or decay propensity.
+
+          ## Remaining work
+
+          A non-physics end-to-end instance, naturally the Boltzmann case, remains useful seal-polish. A native typicality theorem and reproducibility theorem may be developed as consistency results, but neither is a condition on the weighting law.
+
+          Absolute decay or transition rates still require the local possibility-space and rate structure of the process. That values-side requirement is distinct from the dissolved frequency=weight demand.
+          ''')
+
+          # 2. Align the amplitude/readout page and remove process-history prose.
+          p = Path('02-amplitude-readout.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('updated: 2026-06-25', 'updated: 2026-07-23')
+          text = text.replace(
+              'The previous process stalled trying to seal the identity\n`observed long-run frequency = framework weighting measure`. Current correction:\nthat identity was misposed.',
+              'The former demand for a second bridge from framework weight to observed long-run frequency is Dissolved as a category error.'
+          )
+          text = text.replace(
+              '**No grade change** to the realizability-weighting law — it stays Registered, not\nSealed — but frequency=weight must not be presented as a work frontier.',
+              'The realizability-weighting law is **Registered**. `frequency=weight` is Dissolved and must not be presented as a work frontier or inherited condition.'
+          )
+          text = re.sub(r'\n## Integration note\n\nThis supersedes.*\Z', '\n', text, flags=re.S)
+          p.write_text(text, encoding='utf-8')
+
+          # 3. Register Dissolved in the live status vocabulary.
+          p = Path('claim-status-vocabulary.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('updated: 2026-06-21', 'updated: 2026-07-23')
+          text = text.replace('Use these four statuses when decrementing package-era physics claims:', 'Use these statuses for live claims:')
+          needle = '- **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.\n'
+          addition = needle + '- **Dissolved** — a purported problem or demand shown to be a category error. It is removed rather than answered. `frequency=weight` is the governing example.\n'
+          if '- **Dissolved**' not in text:
+              text = text.replace(needle, addition)
+          p.write_text(text, encoding='utf-8')
+
+          # 4. Add the failure mode required by the audit.
+          p = Path('known-failure-modes.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('updated: 2026-06-21', 'updated: 2026-07-23')
+          if '## 9. Smuggled demand' not in text:
+              insert = '''
+
+          ## 9. Smuggled demand
+
+          A smuggled demand is a question imported from a rival ontology and imposed as though the framework owed an answer. The governing example is `frequency=weight`: it presupposes that weight and degree-of-actualization are different things requiring a bridge, although the framework identifies them as one coherence-participation quantity.
+
+          Rule: when the requested bridge exists only because of an imported bifurcation, classify the demand **Dissolved**. Do not preserve it as an open gate, inherited caveat, or unfinished derivation.
+          '''
+              marker = '\nSee also:'
+              if marker in text:
+                  text = text.replace(marker, insert + marker)
+              else:
+                  text += insert
+          p.write_text(text, encoding='utf-8')
+
+          # 5. Delete the inherited caveat at the physics→chemistry gate.
+          p = Path('physics-chemistry-gate-crossing.md')
+          text = p.read_text(encoding='utf-8')
+          text = text.replace('   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)',
+                              '   - realizability-weighting-law             # |·|² coherence-participation measure; frequency=weight demand Dissolved')
+          text = text.replace('  - "frequency=weight (Item 1): every step spending the weighting-law propensity inherits this Open gate."\n', '')
+          anchor = '# The Physics→Chemistry Gate-Crossing: D6 Atom to D7 Carbon\n'
+          note = ('# The Physics→Chemistry Gate-Crossing: D6 Atom to D7 Carbon\n\n'
+                  '**Inherited-condition correction.** The former `frequency=weight` caveat is discharged: the demand is Dissolved, and no result in Gates A–C inherits it. G1 remains where spatial texture is spent.\n')
+          if '**Inherited-condition correction.**' not in text:
+              text = text.replace(anchor, note, 1)
+          p.write_text(text, encoding='utf-8')
+
+          # 6. Remove exact inherited-caveat phrases wherever they occur in current Markdown.
+          replacements = {
+              'conditional on frequency=weight': 'unconditional with respect to the dissolved frequency=weight demand',
+              'inherits Item-1 gate': 'does not inherit the dissolved Item-1 demand',
+              'inherits the Item-1 gate': 'does not inherit the dissolved Item-1 demand',
+              'frequency=weight identity remains outside the current load': 'frequency=weight demand is Dissolved',
+          }
+          excluded = {
+              Path('archivist-instructions-foundation-audit.md'),
+              Path('.github/workflows/apply-foundation-audit-frequency.yml'),
+          }
+          for path in Path('.').rglob('*.md'):
+              rel = path.relative_to('.')
+              if rel in excluded or '.git' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              new = text
+              for old, replacement in replacements.items():
+                  new = new.replace(old, replacement)
+              if new != text:
+                  path.write_text(new, encoding='utf-8')
+
+          # 7. Verify no live page still classifies the demand as an Open gate or blocker.
+          forbidden = [
+              re.compile(r'frequency\s*=\s*weight.{0,100}(Open|blocker|condition)', re.I | re.S),
+              re.compile(r'(Open|blocker|condition).{0,100}frequency\s*=\s*weight', re.I | re.S),
+          ]
+          violations = []
+          for path in Path('.').rglob('*.md'):
+              rel = path.relative_to('.')
+              if rel in excluded or '.git' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              # Historical/process files may describe the old error; only current/control/result/deposit pages are checked.
+              head = text[:1200]
+              if not re.search(r'(?m)^(status:\s*(current|control)|type:\s*(result|deposit|process))', head):
+                  continue
+              for pattern in forbidden:
+                  if pattern.search(text):
+                      violations.append(str(rel))
+                      break
+          if violations:
+              raise SystemExit('Live pages still treat frequency=weight as open: ' + ', '.join(sorted(set(violations))))
+
+          # The automation is temporary and must not enter the PR.
+          Path('.github/workflows/apply-foundation-audit-frequency.yml').unlink()
+          PY
+      - name: Commit audit execution
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Dissolve frequency-weight pseudo-gate"
+          git push origin HEAD:agent/foundation-audit-execution
