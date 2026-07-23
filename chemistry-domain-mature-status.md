@@ -13,6 +13,7 @@ sources:
   - ch4-ideal-local-molecular-geometry.md
   - ch5-covalent-ionic-closure-and-electronegativity.md
   - ch6-catenation-branching-isomerism-and-functional-groups.md
+  - ch7-cyclic-delocalization-and-aromatic-closure.md
 ---
 
 # Chemistry Domain Mature Status
@@ -29,18 +30,20 @@ This page is the global chemistry status and frontier control. It records only n
 | CH3 | `ch3-maintenance-relief-and-energetic-ordering.md` | maintenance relief Conjectured structurally; functional, ordering, and scale unfinished | geometry not inferred from energy language |
 | CH4 | `ch4-ideal-local-molecular-geometry.md` | exact ideal `N=2,3,4` geometries Secured conditionally; physical maximal-separation rule Conjectured | CH5 site structure not inferred |
 | CH5 | `ch5-covalent-ionic-closure-and-electronegativity.md` | covalent/ionic architecture and screening-texture electronegativity Conjectured | CH6 recursion not inferred |
-| CH6 | `ch6-catenation-branching-isomerism-and-functional-groups.md` | recursive closure, constitution/isomerism, and carried local invariants Conjectured-strong | CH7 cyclic delocalization and aromaticity excluded |
+| CH6 | `ch6-catenation-branching-isomerism-and-functional-groups.md` | recursive closure, constitution/isomerism, and carried local invariants Conjectured-strong | CH7 aromaticity excluded |
+| CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 and later chemistry excluded |
 
 ## Current chemistry standing
 
 - Chemistry entry and an actual bond occupant remain unestablished under X1/CH1.
 - X1 owns physics-to-chemistry scale separation. Static mass hierarchy does not establish Born–Oppenheimer separation.
-- CH2 conditionally Secures capacity two and the two-center mode decomposition; capacity does not determine occupancy and symmetry does not determine energy.
+- CH2 conditionally Secures capacity two and bounded mode-count consequences; occupancy and energetic ordering remain separate.
 - CH3 retains maintenance relief as a Conjectured structural interpretation; no native chemical maintenance functional or quantitative binding scale is established.
 - CH4 Secures the ideal `180°`, `120°`, and `arccos(-1/3) ≈ 109.47°` direction families only under its stated conditions.
-- CH5 retains covalent closure as jointly held shell-edge completion, ionic closure as transfer followed by opposite charge-site closure, and electronegativity as proposed partner-relative screening texture.
-- CH6 retains residual-edge recursion as the proposed route to termination, chains, branches, and non-aromatic rings; composition and constitution are distinguished; constitutional isomerism and functional groups as carried local invariants are Conjectured-strong.
-- CH6 supplies no cyclic delocalization, ring modes, aromatic closure, `4k+2` result, resonance, or aromatic stabilization. CH7 remains fully owed.
+- CH5 retains the Conjectured covalent/ionic two-site architecture and screening-texture electronegativity.
+- CH6 retains residual-edge recursion, constitution/isomerism, and functional groups as carried local invariants at Conjectured grades.
+- CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic mode and `4k+2` arithmetic.
+- Physical cyclic delocalization, aromatic closure, stabilization, heterocycle/fused-ring extension, spectra, ring currents, and reaction consequences remain unfinished.
 
 ## Global frontiers
 
@@ -121,26 +124,40 @@ This page is the global chemistry status and frontier control. It records only n
 
 ### CH6-F1 — explicit recursive occupant
 **Standing:** Open and Unregistered.  
-**Current strongest:** residual-edge recursion is structurally specified.  
-**Missing:** one admitted bond product that preserves a prior closure while completing another through an engageable residual edge.  
-**Dependencies:** X1, CH1-F2, CH3-F3, CH5-F1.  
-**False-completion warning:** an empirical hydrocarbon chain is not the framework construction.  
+**Missing:** one admitted bond product preserving a prior closure while completing another through a residual edge.  
 **Local owner:** `ch6-catenation-branching-isomerism-and-functional-groups.md`.
 
 ### CH6-F2 — topology, constitution, and isomer admissibility
 **Standing:** Conjectured-strong; physical realization Open.  
-**Current strongest:** composition and closure graph are distinguished.  
 **Missing:** admissible graph class, equivalence criterion, persistence rule, and two non-isomorphic occupants with one composition record.  
-**False-completion warning:** graph enumeration alone does not establish chemical realization.  
 **Local owner:** `ch6-catenation-branching-isomerism-and-functional-groups.md`.
 
 ### CH6-F3 — functional-group invariant and carriage
 **Standing:** Open and Unregistered beyond the concept.  
-**Current strongest:** local closure texture is selected as the candidate invariant.  
 **Missing:** neighborhood definition, equivalence relation, preservation class, and one host-changing passage preserving the local texture.  
-**False-completion warning:** empirical reaction regularity is not an invariant proof.  
 **Local owner:** `ch6-catenation-branching-isomerism-and-functional-groups.md`.
+
+### CH7-F1 — admitted cyclic delocalized occupant
+**Standing:** Open and Unregistered.  
+**Current strongest:** candidate cyclic standing and ideal ring-mode space.  
+**Missing:** admitted multi-center ring standing, holding relation, occupancy, persistence, and readout.  
+**False-completion warning:** benzene recognition or resonance notation is not the framework occupant.  
+**Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
+
+### CH7-F2 — native cyclic interaction and aromatic stabilization
+**Standing:** Open and Unregistered.  
+**Current strongest:** ideal cyclic spectrum and `4k+2` comparison template.  
+**Missing:** native functional, locality rule, coupling, reference state, and stabilization theorem.  
+**False-completion warning:** closed-shell arithmetic does not prove energetic stabilization.  
+**Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
+
+### CH7-F3 — unequal-center and extended aromatic systems
+**Standing:** Open and Unregistered.  
+**Current strongest:** equal-center/equal-coupling cyclic arithmetic is conditionally Secured.  
+**Missing:** unequal-site/coupling model, heterocycle treatment, fused-ring rule, non-planar boundary, and empirical readout.  
+**False-completion warning:** familiar aromatic classifications cannot be reverse-installed.  
+**Local owner:** `ch7-cyclic-delocalization-and-aromatic-closure.md`.
 
 ## Execution boundary
 
-CH7 has not begun. Cyclic delocalization, ring modes, aromatic closure, the conditional `4k+2` result, resonance, aromatic stabilization, and later chemistry remain unnormalized.
+CH8 has not begun. Reaction taxonomy, acid/base, later passage structure, kinetics, thermodynamics, catalysis, and all later chemistry remain unnormalized.
