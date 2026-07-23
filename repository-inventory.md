@@ -127,8 +127,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `ch4-supersession-control.md` — claim-specific CH4 succession and execution control
 - `ch5-covalent-ionic-closure-and-electronegativity.md` — canonical CH5 owner
 - `ch5-supersession-control.md` — claim-specific CH5 succession and execution control
+- `ch6-catenation-branching-isomerism-and-functional-groups.md` — canonical CH6 owner
+- `ch6-supersession-control.md` — claim-specific CH6 succession and execution control
 
-The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and energetic-ordering boundary. CH4 owns repaired ideal geometry. CH5 owns the covalent/ionic two-site architecture and screening-texture electronegativity. Mass separation and Born–Oppenheimer status remain X1-owned. CH6 and later chemistry remain unnormalized.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and energetic-ordering boundary. CH4 owns repaired ideal geometry. CH5 owns the covalent/ionic two-site architecture and screening-texture electronegativity. CH6 owns residual-edge recursion, catenation, branching, composition/constitution separation, constitutional isomerism, and functional groups as carried local invariants. Cyclic delocalization, ring modes, aromatic closure, `4k+2`, and aromatic stabilization remain unnormalized and belong to CH7. Mass separation and Born–Oppenheimer status remain X1-owned.
 
 ## Historical, superseded, or provenance material
 
