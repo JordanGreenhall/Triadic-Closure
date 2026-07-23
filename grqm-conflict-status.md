@@ -2,7 +2,7 @@
 title: GR/QM Conflict Status
 type: physics-frontier-status
 created: 2026-06-27
-updated: 2026-06-27
+updated: 2026-07-23
 status: current
 confidence: medium
 sources:
@@ -41,7 +41,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 | G3 non-renormalizability as mislocated V/H crossing | Conjectured overall; gravity-vs-gauge asymmetry Registered given G2 | Use as diagnosis, not completed theorem. |
 | G1a graph-dimension forced to 3 by With-holds-open | Registered | Advances manifold recovery but does not seal smooth continuum. |
 | G1 criticality / gapless substrate / global frame-freedom | Registered | Native ingredients for continuum recovery. |
-| G1c smoothness / rotational invariance | Registered-not-Sealed via named universality import; exact local Lorentz = defended posit | Do not state manifold recovery as sealed. |
+| G1c smoothness / rotational invariance | Smoothness Registered-not-Sealed via named universality import; exact local Lorentz = defended posit | Smooth manifold recovery remains unsealed. Exact local Lorentz stands at the maximal warrant available to an exact symmetry claim and is not an unfinished proof task. |
 | Second-order field equation from one-step conditioning locality | Registered conditional on G1 | Replaces the old “pure Lovelock import” posture, but remains conditional on manifold/order recovery. |
 | Lovelock route | Registered as native rule-given math, not external doctrine | Use as rule-given tensor rigidity once the second-order/locality premises are admitted. |
 | Native horizon: mass = self-closure; horizon = total self-closure | Registered | May be used for horizon shape and boundary-count arguments. |
@@ -84,7 +84,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 - Use [[grqm-conflict-status]] as the current control page for GR/QM conflict claims.
 - Use [[gravity-and-curvature]] for weak-field gravity and full-GR status, but read its full-Einstein/Lovelock notes together with this page: the second-order premise has been promoted to Registered conditional on G1, not left as a merely external Lovelock import.
-- Use [[propagation-and-invariant-velocity]] for propagation and `c`, but read manifold recovery as split: several native subpieces are now Registered, while smooth manifold recovery is still not Sealed.
+- Use [[propagation-and-invariant-velocity]] for propagation and `c`, but keep the split exact: several native subpieces are Registered; smooth manifold recovery is still not Sealed; exact local Lorentz is a defended posit at the foundation's maximal-warrant rank.
 - Use [[lambda-derived]] for Λ structure and magnitude status: meaning/sign/`w=-1` Registered; scaling Registered; coefficient/present value Conjectured-strong; dynamics/`w(z)` Open.
 - Do not promote `A/4` to sealed: shape and cancellation are strong; `2π` is Registered-not-Sealed and the strong-field Einstein use remains gated.
 - Do not treat BMV-positive as proof of actual spacetime superposition. The framework position is stronger and different: BMV-positive is forced through realizability-frontier coherence, while actual geometry remains definite.
@@ -94,7 +94,7 @@ The standard statement of the GR/QM conflict is treated as a symptom: naive metr
 
 ## Open gates
 
-1. **G1 manifold recovery.** Dimension/criticality/frame-freedom advanced; smoothness and exact local Lorentz remain not sealed.
+1. **G1 manifold recovery.** Dimension, criticality, and frame-freedom have advanced; smoothness remains not sealed. Exact local Lorentz is a defended posit at the maximal warrant available to an exact symmetry claim, open to refutation rather than awaiting a stronger proof.
 2. **G3 diagnosis.** Non-renormalizability-as-mislocation remains a diagnosis with registered subclaims, not a completed derivation.
 3. **`2π` thermal-flow identification.** Carrier-vs-arena conservation is resolved; remaining hinge is whether the thermal/modular flow is the distinction-conserving carrier U(1) rather than merely the boost description.
 4. **Strong-field/full-GR completion.** Full spatial metric sector, nonlinear regime, and exact `G` remain open or values-side.
