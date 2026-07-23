@@ -23,13 +23,14 @@ The tag target is the final `main` commit produced by merging this verification 
 - Frontier routing: PASS; integrated physics and chemistry frontiers remain with their mature-status controls and local numbered owners.
 - Architecture: PASS; one canonical reader path and no duplicate overview navigation remain.
 - Semantic compression: PASS; the provenance queue is closed and no historical-retention class remains.
+- Python load-bearing audit: PASS; all 29 Python files were nonessential normalization machinery or executable restatements of transparent calculations and were removed.
 - Inventory reconciliation: PASS; the release record is added to the classified live inventory.
 - Theory and standing mutation: NONE.
 - Fresh-reader result: PASS; the route is README → index → numbered owners, with status controls explicitly separate.
 
 ## Second-cycle result
 
-After adding only the release record and its two required navigation/inventory references, a second review produced no further theory, standing, ownership, frontier, architecture, compression, or readability changes.
+After release propagation and the executable-retention audit, a second review produced no further theory, standing, ownership, frontier, architecture, compression, executable-retention, or readability changes.
 
 ## Release disposition
 
