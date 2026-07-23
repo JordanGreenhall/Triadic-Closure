@@ -1,82 +1,58 @@
 # Triadic Closure Corpus
 
-This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. Most files formerly distributed across Google Drive folders have been migrated into a flattened root-level layout. The `_compiler/` directory remains the principal subdirectory.
+This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. It is organized by semantic dependency: foundational architectonics, mathematics, physics, the physics–chemistry interface, and chemistry. The root remains largely flat for migration continuity; navigation is supplied by the files below rather than inferred from filenames or former Drive folders.
 
-## Start here
+## Reader entry
 
-1. [Corpus Index](index.md)
-2. [Repository Inventory](repository-inventory.md)
-3. [Repository Schema](SCHEMA.md)
-4. [Corpus Lineage](corpus-lineage.md)
-5. [Supersession Map](supersession-map.md)
-6. [Agent Execution Rules](agent-execution-rules.md)
+1. [Corpus Index](index.md) — canonical reading order through the living theory.
+2. [Claim Status Vocabulary](claim-status-vocabulary.md) — warrant and semantic-registration language used throughout.
+3. [Repository Inventory](repository-inventory.md) — complete classified tree, including supporting and historical material.
 
-## Current topology
+A reader should follow the canonical sequence in `index.md`. Supporting derivations, status controls, historical sources, and compiler artifacts are not part of the default theory path unless the index expressly routes to them.
 
-Most substantive Markdown files live at repository root. Former paths such as `results/`, `overview/`, `concepts/`, `process/`, `raw/package/`, and `raw/context/` are historical provenance unless the directory visibly exists in GitHub.
+## Executor entry
 
-The live path for a migrated root document is:
+Before changing the corpus, read in this order:
 
-```text
-filename.md
-```
+1. [Repository Schema](SCHEMA.md)
+2. [Corpus Lineage](corpus-lineage.md)
+3. [Supersession Map](supersession-map.md)
+4. [Agent Execution Rules](agent-execution-rules.md)
+5. [Known Failure Modes](known-failure-modes.md)
+6. [Repository Inventory](repository-inventory.md)
 
-The following directories currently have distinct roles:
+GitHub is primary for every migrated file. Google Drive is fallback provenance and source recovery only.
 
-- `_compiler/` — semantic inventories and adjudication controls;
-- `overview/` — residual migration-shadow pages requiring consolidation.
+## Corpus architecture
 
-## Corpus scope
+The living reader path has five levels:
 
-The repository now contains:
+1. foundational architectonics and generic domain method;
+2. mathematical construction and instruments;
+3. physics, from domain entry through spacetime, matter, mass, gravity, and the Standard Model boundary;
+4. the physics–chemistry interface;
+5. chemistry, from the domain gate through bonding, geometry, recursion, aromaticity, reactions, kinetics, and thermodynamics.
 
-- foundational architectonics and domain-entry method;
-- mathematical and mathematization work;
-- physics walks, spacetime, gauge, mass, gravity, and cosmology modules;
-- the physics-to-chemistry gate;
-- control, audit, historical, and provenance documents;
-- compiler artifacts.
+Control documents govern authority, standing, execution, and frontiers. Supporting pages retain derivational or explanatory work. Historical and superseded pages preserve unique provenance but cannot override canonical owners.
 
-The substantive chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has not yet been migrated as a root source file. Its compiler inventory is present, but the source remains external.
+## Repository topology
+
+Most substantive Markdown files live at repository root. The directories with distinct current roles are:
+
+- `_compiler/` — disposable or adjudicative normalization artifacts subordinate to the substantive corpus;
+- `overview/` — residual migration-era pages, not governing navigation;
+- `13-higgs-yukawa-electroweak-generations-spectrum-quarantine/` — retained boundary packet.
+
+Former Drive paths such as `results/`, `concepts/`, `process/`, `raw/package/`, and `raw/context/` are provenance only unless visibly present in GitHub.
 
 ## Authority
 
-GitHub is the primary working source for every migrated file. Google Drive is fallback provenance and a source-recovery location for material not yet migrated.
+Authority is claim-specific, not file-wide. Apply the order in [Corpus Lineage](corpus-lineage.md): exact direct ruling until propagation; surviving repair or adjudication; integrated ledger; repaired complete derivation; unsuperseded earlier derivation; scoped frontier; necessary downstream expenditure; summary; compiler inventory; historical evidence. Chronology alone never settles authority.
 
-Authority is claim-specific, not file-wide or folder-wide. For each semantic object, prefer:
+## Standing and registration
 
-1. a current direct Jordan ruling, for the exact claim ruled on, until propagated;
-2. the latest surviving explicit repair, supersession, or adjudication, for the exact claim it resolves;
-3. the latest integrated frontier ledger or concept-load ledger, for the exact claim it grades or closes;
-4. the latest complete detailed derivation that incorporates the relevant repair;
-5. portions of an earlier detailed derivation that have not been superseded;
-6. a current frontier, quarantine, or implementation document, only for the boundary it defines;
-7. downstream work that necessarily spends the corrected result;
-8. summaries, status pages, and reading guides;
-9. compiler inventories;
-10. historical failed routes, development ledgers, migration reports, memorials, and reverted commits.
-
-Chronology alone does not settle authority. A direct ruling governs only its exact claim and must be propagated; once fully absorbed, its standalone record is provenance.
-
-A newer or shorter summary may not override stronger detailed work.
-
-## Standing and warrant
-
-The corpus separates framework warrant from semantic registration. Claims offered for warrant are Open, Conjectured, or Secured, with the securing route and its reach stated. A pure posit is instead a foundational premise category: no warrant is claimed, it is neither Conjectured nor Secured, and downstream results remain conditional on it. Semantic registration is Native, Unregistered, Registered, or Registered–Sealed and applies only to inherited names. Registered means the name is licensed over a secured core while legacy surplus remains quarantined; Registered–Sealed means bidirectional content-identity with no remainder within scope. Registration is not proof strength. See [Epistemic Warrant and Semantic Registration](claim-status-vocabulary.md). `Locked actual` is deprecated.
+Claims offered for warrant are Open, Conjectured, or Secured. A pure posit is a premise category with no warrant claimed. Inherited names are Native, Unregistered, Registered, or Registered–Sealed. Registration licenses mapped semantic content; it is not proof strength. `Locked actual` is deprecated. See [Claim Status Vocabulary](claim-status-vocabulary.md).
 
 ## Normalization discipline
 
-Normalization proceeds one semantic unit at a time under [Agent Execution Rules](agent-execution-rules.md). Define the unit before editing; keep neighboring units read-only except for required propagation; collect the full authority lineage; run passes without mixing objectives; do not invent theory; and do not claim completion until propagation, real verification, fresh-AI review, and a second no-change compiler cycle are complete.
-
-## Historical material
-
-Package-era and superseded files remain for provenance, but may not be treated as current doctrine without adjudication. In particular, `cover-letter.md` and `phi-forward-reconstruction.md` are historical package materials whose broad status claims have been superseded in multiple places.
-
-## Maintenance priorities
-
-- keep [repository-inventory.md](repository-inventory.md) synchronized with the actual tree;
-- consolidate or remove shadow duplicates under `overview/`;
-- mark superseded files conspicuously in-file;
-- ensure all governing links resolve;
-- migrate the remaining substantive chemistry source;
-- keep `_compiler/` synchronized with, but subordinate to, the substantive corpus.
+Normalization activates exactly one semantic unit or one expressly global pass. Neighboring theory remains read-only except for required propagation. Do not invent theory, average contradictions, infer authority from recency, or claim completion before real verification, fresh-reader review, and a second no-change cycle.
