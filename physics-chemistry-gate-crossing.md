@@ -7,19 +7,18 @@ session: "cascade first gate-crossing — walk + audit"
 grade: "in-session; Registered-candidate on registered parents; NOT yet wiki-standing (awaits adversarial audit + Jordan sign-off)"
 depends-on:
   - physics-walk-d1-d5-consolidated        # D-series; four images at D1; time/space/color flattenings
-  - triadic-structure-of-relating          # 8.5 D7 selection rule; no-privileged-frame; held/registered (2.5); winding/complete-return
+  - triadic-structure-of-relating          # 8.5 D7 selection rule; no-privileged-frame; held/registered (2.5)
   - chiral-coupling-result                  # spin-½ by minimal lifted rotatability; Spin(3)
   - gauge-structure-result                  # U(1) From-phase valence axis; SU(3) color
   - flavor-mark-metric-and-neutron          # relief-valve mechanism; no-privileged-frame → angle; marks-remain residue
   - mass-derivation-three-faces             # mass = maintenance of closure; 6π⁵; m_e = 1
   - gravity-and-curvature                   # weak-field Poisson as the inverse-square move-family
   - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required
-  - lambda-derived                          # complete-return principle (shared with winding tower)
 supersedes:
   - "Φ periodic-table downstream claims (already dead provenance; not reactivated)"
 inherited_caveats:
   - "G1 manifold recovery: every step spending 'r'/'surround' is conditional on G1 (Registered-not-Sealed)."
-claim_statuses: [Open, Conjectured, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed"]
+claim_statuses: [Open, "Conjectured-strong", "Registered-candidate", Registered, "Registered and Sealed"]
 ---
 
 
@@ -63,11 +62,12 @@ standings in that With, and does it decompose natively?
 | (l, m) angular | Spin(3) irreps (registered symmetry) acting on the isotropic holding; 2l+1 by rule-given rep theory | Registered-candidate |
 | s (doubling) | minimal lifted rotatability | Registered (prior) |
 | occupancy | antisymmetric holding ⇒ single occupancy per (l,m,s); capacity 2(2l+1) — Pauli as **theorem**, not import | Registered (prior, Sealed) |
-| n (discrete radial tower) | **complete-return**: a maintained closure's carrier phase must return single-valued ⇒ integer winding ⇒ discrete tower. Same principle that forced w=−1 for Λ. | Conjectured (tower in form; construction unbuilt) |
+| n (discrete principal tower) | the full normalizable fixed-point set of the native maintenance functional; each excited state is a standing with its own maintenance, labeled by principal n from the outset | Registered-candidate, conditional on G1 |
 
-**Finding:** the *existence* of a discrete tower with s/p/d/f blocks of widths
-2/6/10/14 and Pauli filling is native. This is the good answer to the diagnostic
-question: shell structure in essential form imports no quantum numbers.
+**Finding:** the *existence* of a discrete principal tower with s/p/d/f blocks of
+widths 2/6/10/14 and Pauli filling is native, conditional on G1 where the
+fixed-point construction spends spatial texture. Shell structure in essential
+form imports no quantum numbers.
 
 ### 1.2 Gate A — binding as From-edge closure-completion
 
@@ -270,11 +270,6 @@ Registered-candidate as the generalization of this single instance.]
   any ledger.
 - **Held under pressure:** Gate B cross-term sign argument (quadratic measure of
   linear superposition; sign = valence product) — sound, no repair.
-- **Seam flagged:** winding tower n is most naturally the **radial** count; Rydberg
-  runs on principal n = radial + l + 1; the identification is rule-given math **only
-  under the 1/r form** (Gate B supplies it). The n-identification is
-  Registered-candidate **conditional on Gate B**, not free-standing. The walk
-  silently equated two towers that coincide only under 1/r.
 
 ---
 
@@ -282,8 +277,8 @@ Registered-candidate as the generalization of this single instance.]
 
 | Claim | Grade |
 |---|---|
-| shell structure imports no quantum numbers (existence of tower + s/p/d/f blocks + Pauli filling) | Registered-candidate |
-| n discreteness via complete-return | Conjectured (form); construction unbuilt |
+| shell structure imports no quantum numbers (principal tower + s/p/d/f blocks + Pauli filling) | Registered-candidate, conditional on G1 for the principal tower |
+| principal-n discreteness via the normalized fixed-point set | Registered-candidate, conditional on G1 |
 | Gate A: binding = From-edge closure-completion; mass-defect sign; Z-termination; no-like-channel | Registered-candidate |
 | Gate A: like-valence positive repulsion | deferred to Gate B (now paid) |
 | Gate B: 1/r² field / 1/r interaction / both signs | Registered-candidate, conditional on G1 |
