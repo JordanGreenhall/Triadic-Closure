@@ -93,7 +93,7 @@ P21 Registers the displayed forward closure and the generic decay classifier. Th
 - [P26 Matter-Sourced Geometry, Holonomy, and BMV](p26-matter-sourced-geometry-holonomy-and-bmv.md) — canonical owner
 - [P27 Horizon, Area/Entropy, Temperature, and Information](p27-horizon-area-entropy-temperature-and-information.md) — canonical owner
 - [P28 Lambda, Cosmological Closure, Magnitude, and Dynamics](p28-lambda-cosmological-closure-magnitude-and-dynamics.md) — canonical owner
-- [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-and-spectrum.md) — canonical quarantine owner
+- [P29 Standard Model Completion, Electroweak Breaking, Generations, and Spectrum](p29-standard-model-completion-electroweak-breaking-generations-spectrum.md) — canonical quarantine owner
 - [GR/QM Conflict Status](grqm-conflict-status.md) — concise P25+ multi-unit shadow
 - [Lambda Derived](lambda-derived.md) — concise P28 shadow
 
@@ -113,8 +113,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH4 Ideal Local Molecular Geometry](ch4-ideal-local-molecular-geometry.md) — canonical owner
 - [CH5 Covalent–Ionic Closure and Electronegativity](ch5-covalent-ionic-closure-and-electronegativity.md) — canonical owner
 - [CH6 Catenation, Branching, Isomerism, and Functional Groups](ch6-catenation-branching-isomerism-and-functional-groups.md) — canonical owner
+- [CH7 Cyclic Delocalization and Aromatic Closure](ch7-cyclic-delocalization-and-aromatic-closure.md) — canonical owner
 
-CH6 owns the Conjectured recursive-constitution package: residual-edge recursion into termination, chains, branches, and non-aromatic rings; composition/constitution separation; constitutional isomerism; and functional groups as carried local invariants. It does not own cyclic delocalization, ring modes, aromatic closure, `4k+2`, resonance, or aromatic stabilization. CH7 remains fully owed.
+CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic ring-mode structure and `4k+2` closed-shell arithmetic. Cyclic delocalization and aromatic closure remain Conjectured as physical chemistry; admitted occupants, native stabilization, unequal-center systems, spectra, ring currents, and reaction consequences remain unfinished. CH8 has not begun.
 
 ## Historical and provenance
 
