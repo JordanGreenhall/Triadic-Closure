@@ -15,6 +15,7 @@ sources:
   - ch6-catenation-branching-isomerism-and-functional-groups.md
   - ch7-cyclic-delocalization-and-aromatic-closure.md
   - ch8-reaction-site-taxonomy-and-acid-base-readings.md
+  - ch9-activation-rates-and-catalysis.md
 ---
 
 # Chemistry Domain Mature Status
@@ -34,6 +35,7 @@ This page is the global chemistry status and frontier control. It records only n
 | CH6 | `ch6-catenation-branching-isomerism-and-functional-groups.md` | recursive closure, constitution/isomerism, and carried local invariants Conjectured-strong | CH7 aromaticity excluded |
 | CH7 | `ch7-cyclic-delocalization-and-aromatic-closure.md` | ideal ring modes and `4k+2` Secured conditionally; physical aromatic closure Conjectured | CH8 passages excluded |
 | CH8 | `ch8-reaction-site-taxonomy-and-acid-base-readings.md` | shell-edge, charge-transfer, and mixed passage classes plus acid/base site-readings Conjectured-strong | CH9 activation/rates/catalysis excluded |
+| CH9 | `ch9-activation-rates-and-catalysis.md` | activation and catalyst-cycle structure Conjectured; exponential rate form Secured conditionally | CH10 direction/equilibrium excluded |
 
 ## Current chemistry standing
 
@@ -46,7 +48,9 @@ This page is the global chemistry status and frontier control. It records only n
 - CH6 retains residual-edge recursion, constitution/isomerism, and functional groups as carried local invariants at Conjectured grades.
 - CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic mode and `4k+2` arithmetic; physical aromatic realization and stabilization remain unfinished.
 - CH8 retains the proposed passage taxonomy by site: shell-edge re-partnering, charge transfer, and mixed passages. Brønsted and Lewis acid/base are retained as charge-site and shell-edge-site readings.
-- CH8 does not own no-transmutation/conservation ledgers, oxidation-state bookkeeping, passage occurrence, activation barriers, rates, catalysis, thermodynamic direction, equilibrium, or quantitative acid/base scales.
+- CH9 retains activation as maximal excess maintenance along an admitted route, comparative rate propensity, and catalysis as a restored alternate passage cycle with a lower maximal activation burden.
+- CH9 Secures the exponential rate form only conditionally on an exponential tail in the dimensionless activation burden and a defined passage dynamics.
+- CH9 does not derive numerical rate constants, activation energies, detailed mechanisms, transition-state geometries, thermodynamic direction, free energy, equilibrium, or equilibrium constants.
 
 ## Global frontiers
 
@@ -173,6 +177,24 @@ This page is the global chemistry status and frontier control. It records only n
 **False-completion warning:** empirical acid/base classifications do not prove the native unification.  
 **Local owner:** `ch8-reaction-site-taxonomy-and-acid-base-readings.md`.
 
+### CH9-F1 — native activation functional and explicit route
+**Standing:** Open and Unregistered.  
+**Missing:** one admitted CH8 passage, a common configuration class, a native maintenance functional, an explicit route, and a finite activation burden.  
+**False-completion warning:** a textbook reaction coordinate is not a framework route construction.  
+**Local owner:** `ch9-activation-rates-and-catalysis.md`.
+
+### CH9-F2 — physical rate law and scale
+**Standing:** exponential form Secured conditionally; physical law Open and Unregistered.  
+**Missing:** variation distribution, provision scale, attempt factor, units, normalization, and one calibrated rate comparison.  
+**False-completion warning:** fitting an Arrhenius plot does not derive the framework law.  
+**Local owner:** `ch9-activation-rates-and-catalysis.md`.
+
+### CH9-F3 — explicit catalyst cycle
+**Standing:** structural cycle definition Conjectured-strong; realization Open.  
+**Missing:** one admitted uncatalyzed route, one catalyst-participating route, catalyst restoration, common net passage, and proof of a lower maximal activation burden.  
+**False-completion warning:** empirical catalytic acceleration does not itself exhibit the framework cycle.  
+**Local owner:** `ch9-activation-rates-and-catalysis.md`.
+
 ## Execution boundary
 
-CH9 has not begun. Activation ridges, rate propensity, exponential rate form, catalyst cycles, and later chemistry remain unnormalized.
+CH10 has not begun. Thermodynamic direction, free-energy ordering, equilibrium, equilibrium constants, product distributions, and all later chemistry remain unnormalized.
