@@ -2,7 +2,7 @@
 title: Particle Mass from the Three Faces of the Closure
 type: physics-closure-mass
 created: 2026-06-23
-updated: 2026-06-26
+updated: 2026-07-23
 status: current
 confidence: medium
 section: Closure, confinement, and mass/value machinery
@@ -90,21 +90,11 @@ closure: three quark colors gathered by the alternating form (the determinant)
 into one color singlet, one joint frame in C^3 — one determinant, one closure, not
 three. [Registered; the one-closure reading is settled.]
 
-**Its measure is the closure-inherited Vol(SU(3)) = 2 pi^5.** See [closure-inherited-metric](closure-inherited-metric.md) for the self-standing metric result. The no-distinction
-freedom of the frame is SU(3); a normalized color standing ranges over the round
-S^5 (the pairing on unit vectors in C^3), and its determinant-preserving
-completion over the round S^3. Vol = Vol(S^5) x Vol(S^3) = pi^3 x 2 pi^2 = 2 pi^5.
+**Its measure is the closure-space measure `2 pi^5`.** See [closure-inherited-metric](closure-inherited-metric.md) for the full construction. The quantity measured is the normalized space of moment-standings, not an abstract operator group. A first unit moment in `C^3` contributes `S^5`; a second unit moment in its orthogonal complement `C^2` contributes `S^3` by restriction of the same pairing; orthonormality plus `det=1` forces the third moment with no remaining freedom. Therefore
 
-This metric is **forced, not chosen**, over the abstract trace metric (which gives
-sqrt(3) pi^5): the pairing (primitive 0.4) is the only metric source and measures
-standings, not abstract operators; SU(3) is *derived*, the no-distinction freedom
-*of* the standing; the entire sqrt(3)-vs-2 difference lives in the single
-determinant-balancing direction (lambda_8 = diag(1,1,-2)/sqrt(3)), which the
-det = 1 condition makes the *forced completion* of the closure rather than an
-independent freedom; and confinement means there is no free abstract color for the
-trace metric to measure. The same det = 1 that yields SU(3) yields its measure.
-[Registered — the metric forcing was nailed: the 2/sqrt(3) lives wholly in
-lambda_8, verified, and det = 1 makes that direction dependent.]
+> `Vol(closure) = Vol(S^5) x Vol(S^3) x 1 = pi^3 x 2 pi^2 = 2 pi^5`.
+
+The measure is invariant under the closure's `SU(3)` no-distinction action, and its scale is fixed by self-pairing equal to one. The abstract trace metric gives `sqrt(3) pi^5`, but no operator direction is measured in the closure-space construction. The same exclusion appears algebraically in the determinant-balancing direction `lambda_8 = diag(1,1,-2)/sqrt(3)`: after the first two moments stand, `det=1` makes the third phase a forced completion rather than an independent freedom. [Registered.]
 
 **The electron's interior is 1, and the electron bare repeat is the native mass
 ruler.** By the identical construction the electron's color is the trivial rep;

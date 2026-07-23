@@ -3,6 +3,7 @@ title: "ε_FW — Forced Bracket and Terminal Status"
 type: deposit
 status: current
 created: 2026-06-30
+updated: 2026-07-23
 session: "ε_FW serious effort — close"
 supersedes: "from-with-transport-deposit.md (this session's opening deposit)"
 depends-on:
@@ -10,7 +11,7 @@ depends-on:
   - flavor-mark-metric-and-neutron     # exterior turn 2π; 3π⁴; mark-metric u·d=−1/2; marks-remain
   - quark-lepton-split                 # three roots; chiral lift; marked color
   - chiral-coupling-result             # spin lift; helicity
-  - closure-inherited-metric           # measure machinery (color: 2π⁵)
+  - closure-inherited-metric           # closure-space measure: S⁵ first moment × S³ second moment × forced third moment
 claim_statuses: [Open, Conjectured, "Conjectured-strong", Registered, "Registered and Sealed"]
 ---
 
@@ -26,6 +27,8 @@ chiral face of the proton mass, one-sided against the fixed ruler `m_e = 1`.
 Write `ε_FW = c · s²`, with `s = 1/(3π⁴) = 3.422×10⁻³` the interior-only maintenance
 seam (`3π⁴ = 6π⁵/2π`). Then `s² = 1.171×10⁻⁵` and the measured coefficient is
 `c = 1.6076`.
+
+**Metric input.** The `2π⁵` interior measure used here is the normalized closure-space measure derived in [closure-inherited-metric](closure-inherited-metric.md): the first unit moment contributes `S⁵`, the second unit moment in its orthogonal `C²` complement contributes `S³` by the same pairing, and orthonormality plus `det=1` forces the third moment with no remaining freedom. Thus `Vol(closure)=π³·2π²=2π⁵`, with scale fixed by self-pairing rather than by an independently chosen group metric.
 
 ## 1. Where ε_FW lives, and why
 

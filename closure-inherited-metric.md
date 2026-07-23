@@ -2,7 +2,7 @@
 title: Closure-Inherited Metric
 type: physics-closure-mass
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-07-23
 status: current
 confidence: medium-high
 section: Closure, confinement, and mass/value machinery
@@ -14,47 +14,57 @@ sources:
 
 # Closure-Inherited Metric
 
-A load-bearing metric result extracted from [mass-derivation-three-faces](mass-derivation-three-faces.md). It fixes which measure belongs to the color closure before that measure is used in the mass-ratio synthesis.
+The measure of one color closure is the measure of its normalized moment-standings, not the volume of an abstract operator group:
 
-## Result
+> `Vol(closure) = Vol(S^5) · Vol(S^3) · 1 = pi^3 · 2 pi^2 = 2 pi^5`.
 
-The measure of one seated color closure is the closure-inherited metric
+This page fixes the metric and its scale before the measure is used in the proton/electron relation.
 
-> Vol(SU(3))_closure = Vol(S^5) x Vol(S^3) = pi^3 x 2 pi^2 = 2 pi^5.
+## Closure-space construction
 
-Status: **Registered** for the metric forcing. This page does not by itself derive the proton/electron ratio; it supplies the color-closure measure used by [mass-derivation-three-faces](mass-derivation-three-faces.md).
+A determinant-one orthonormal color frame is constructed moment by moment from the primitive Hermitian pairing on standings.
 
-## Place in the physics section
+1. **First moment.** Choose a unit standing `e_1` in `C^3`. The self-pairing condition `h(e_1,e_1)=1` gives the unit standing-space `S^5`, with radius fixed at one by the standing's own normalization.
+2. **Second moment.** Choose a unit standing `e_2` in the orthogonal complement `e_1^perp ≅ C^2`. Restricting the same pairing to that complement gives the unit standing-space `S^3`, again at radius one. The second factor is therefore derived by pairing-on-standings within the remaining closure-space.
+3. **Third moment.** Orthonormality leaves a one-dimensional complex complement. The determinant-one condition selects the unique phase of `e_3`. The third moment is forced and contributes no continuous freedom and therefore the multiplicative factor `1`.
 
-Section: **Closure, confinement, and mass/value machinery**.
+Thus
 
-Read this page in the sequence given by [physics-section-guide](physics-section-guide.md). Current claim grade is governed by [physics-domain-mature-status](physics-domain-mature-status.md). Source/provenance links are collected in [physics-source-map](physics-source-map.md).
+> `Vol(S^5) · Vol(S^3) · 1 = pi^3 · 2 pi^2 = 2 pi^5`.
 
-## Why the metric is 2 pi^5, not sqrt(3) pi^5
+The construction is order-independent: no moment is privileged, and choosing a different first moment merely applies the `SU(3)` action to the same normalized standing-space.
 
-The abstract trace metric on SU(3) gives sqrt(3) pi^5. That is not the metric the framework is allowed to use for the physical color closure.
+## Why this is the invariant measure
 
-The framework's metric source is the primitive pairing on standings. It measures the standing's closure, not the abstract operator group detached from the standing. The standing is a normalized color vector in C^3, so the free color-standing part is the round S^5. The determinant-preserving completion supplies the round S^3. Their product gives 2 pi^5.
+The pairing supplies the metric locally at each moment, and the `SU(3)` action preserves both the pairing and the determinant-one completion. The product measure is therefore invariant under the closure's no-distinction freedom. Its scale is not conventional: both sphere radii are fixed by self-pairing equal to one.
 
-The entire difference between sqrt(3) pi^5 and 2 pi^5 lives in the determinant-balancing direction lambda_8 = diag(1,1,-2)/sqrt(3). In the abstract trace metric lambda_8 is counted as a free operator direction. In the closure-inherited metric it is not free: det = 1 makes that direction the forced completion of the closure. The same condition that yields SU(3) also fixes the measure by making the determinant-balancing direction dependent.
+No operator direction is measured anywhere in the construction. The abstract trace metric, which gives `sqrt(3) pi^5`, is therefore inapplicable to the physical closure.
+
+## Algebraic cross-check
+
+The geometric construction and the frame-side `lambda_8` result are the same fact read two ways. After `e_1` and `e_2` are chosen, the determinant-balancing direction is not independent: `det=1` forces the third phase. In the algebraic description this is the dependence of
+
+> `lambda_8 = diag(1,1,-2)/sqrt(3)`.
+
+Counting that direction as free produces the abstract trace-metric result. Treating it as the forced completion of the standing-space produces `2 pi^5`.
 
 ## Why confinement matters
 
-Confinement removes the possibility of measuring a free abstract color group. There is no physical free color standing whose independent trace metric could be used. What exists is the closure that preserves determinant and closes color into a singlet. Therefore the measure belongs to the closure, not to an abstract color freedom considered apart from confinement.
+There is no physical free color standing whose detached operator-group metric could be measured. Color stands only in determinant-preserving closure. The measure therefore belongs to the closed standing-space itself.
 
-## Grade
+## Grade and boundary
 
 **Registered:**
-- the pairing, not the trace form, is the framework metric source;
-- the color standing is measured as S^5 with determinant-preserving S^3 completion;
-- the 2/sqrt(3) discrepancy is localized wholly in lambda_8;
-- det = 1 makes lambda_8 dependent rather than independent for the closure;
-- confinement forbids replacing the closure-inherited metric with a free abstract group metric.
 
-**Boundary:** the factor-3 spatialization is Registered in [mass-derivation-three-faces](mass-derivation-three-faces.md) as an additive seating result. The From-With chiral face is theorem-bounded there by
+- the primitive pairing, not a trace form, is the metric source;
+- the first unit moment contributes `S^5`;
+- the second unit moment contributes `S^3` by restriction of the same pairing to `e_1^perp ≅ C^2`;
+- orthonormal completion plus `det=1` forces the third moment with zero remaining freedom;
+- the resulting invariant, normalized closure measure is `2 pi^5`;
+- the geometric forced-completion result agrees with the registered `lambda_8` dependence argument.
 
-> epsilon_FW = c(3 pi^4)^-2,  3/2 <= c <= 9/4.
+This page supplies the single-closure measure. Spatial seating produces the separate factor `3`, giving the exact With-This factor `6 pi^5`, in [mass-derivation-three-faces](mass-derivation-three-faces.md). The complete proton/electron relation remains
 
-Only the exact internal selection of c remains Open.
+> `m_p / m_e = 6 pi^5 [1 + c(3 pi^4)^-2]`, with `3/2 <= c <= 9/4`.
 
-See also: [mass-as-self-closure](mass-as-self-closure.md), [gauge-structure-result](gauge-structure-result.md).
+Only the exact internal selection of `c` remains Open. See [epsilon-fw-bracket-result](epsilon-fw-bracket-result.md).
