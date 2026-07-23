@@ -110,13 +110,23 @@ isotropic degrees.
   superposition carries a cross-term whose sign = product of edge valences.
   Opposite → attraction; same → **repulsion forced**. Cross-term of two 1/r²
   integrates to interaction ∝ 1/r.
-- **Rydberg form:** 1/r relief + winding tower + quadratic measure ⇒ E_n ∝ −1/n²
-  by rule-given math.
+- **Rydberg form (fixed-point construction):** no variational principle is
+  imported. A standing *is* a fixed point of re-selection
+  ([mass-as-self-closure](mass-as-self-closure.md), Registered), so stationarity is
+  definitional. The maintenance functional is native: the quadratic pairing on
+  the one-step conditioning mismatch between neighboring seatings gives the
+  gradient-squared term, through the same one-step-conditioning-locality
+  instrument already Registered for the second-order field equation. On the
+  `l`-irrep, that maintenance cost is the Casimir term `l(l+1)/r²`. The tower is
+  the full fixed-point set; excited states are standings with their own
+  maintenance. At unit pairing, normalizability is forced because a standing is
+  one unit of coherence, and rule-given mathematics on `|∇ψ|² − k/r` gives the
+  spectrum form `E_n ∝ −1/n²`.
 
 | Claim | Grade |
 |---|---|
 | 1/r² field / 1/r interaction / like-repels-unlike-attracts (form) | Registered-candidate, conditional on G1 |
-| −1/n² spectrum form | Registered-candidate, conditional on Gate B form |
+| −1/n² spectrum form (fixed-point/native-maintenance construction) | Registered-candidate, conditional on G1 |
 | coefficient α (fine-structure strength) | **Open** (κ-class of this axis, values-side) |
 | radiation, photon-as-entity, dynamics | quarantined (Items 6/8/13) |
 
@@ -277,7 +287,7 @@ Registered-candidate as the generalization of this single instance.]
 | Gate A: binding = From-edge closure-completion; mass-defect sign; Z-termination; no-like-channel | Registered-candidate |
 | Gate A: like-valence positive repulsion | deferred to Gate B (now paid) |
 | Gate B: 1/r² field / 1/r interaction / both signs | Registered-candidate, conditional on G1 |
-| Gate B: −1/n² spectrum form | Registered-candidate, conditional on Gate B form |
+| Gate B: −1/n² spectrum form (fixed-point/native-maintenance construction) | Registered-candidate, conditional on G1 |
 | Gate B: coefficient α | Open (values-side) |
 | Gate C: screening, centrifugal barrier, splitting direction, crossings | Registered-candidate |
 | Gate C: Madelung n+l exact order | Conjectured-strong |
@@ -298,8 +308,9 @@ Registered-candidate as the generalization of this single instance.]
    engageable-edge payoff (§2.5) can move from Conjectured-strong to Registered.
    This is the single link the carbon selection's *geometry bonus* leans on; the
    *selection itself* does not need it.
-2. **Build the winding tower** — discharge the Conjectured construction of n; this
-   also resolves the radial/principal seam (§4).
+2. **Gate B values-side completion** — the fixed-point construction now supplies
+   the `−1/n²` spectrum form; determine the coefficient `α` from the From-axis
+   `κ`-class without importing an empirical constant.
 3. **Native Madelung** — attempt the self-consistent screening computation
    framework-natively (this is also the **generations tool**: D5 mass-Casimir
    spectral multiplicity over a D4 charge profile is the identical template).
