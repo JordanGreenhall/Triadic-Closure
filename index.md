@@ -114,8 +114,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH5 Covalent–Ionic Closure and Electronegativity](ch5-covalent-ionic-closure-and-electronegativity.md) — canonical owner
 - [CH6 Catenation, Branching, Isomerism, and Functional Groups](ch6-catenation-branching-isomerism-and-functional-groups.md) — canonical owner
 - [CH7 Cyclic Delocalization and Aromatic Closure](ch7-cyclic-delocalization-and-aromatic-closure.md) — canonical owner
+- [CH8 Chemical Passages, Conservation, Acid/Base, and Oxidation State](ch8-chemical-passages-conservation-acid-base-and-oxidation-state.md) — canonical owner
 
-CH7 conditionally Secures the ideal equal-center/equal-coupling cyclic ring-mode structure and `4k+2` closed-shell arithmetic. Cyclic delocalization and aromatic closure remain Conjectured as physical chemistry; admitted occupants, native stabilization, unequal-center systems, spectra, ring currents, and reaction consequences remain unfinished. CH8 has not begun.
+CH8 owns chemistry's no-transmutation passage boundary, conservation ledgers, shell-edge/charge-site passage taxonomy, Brønsted/Lewis site unification, and oxidation-state bookkeeping. Functional groups remain CH6-owned; aromatic closure remains CH7-owned. Kinetics, thermodynamics, equilibrium, catalysis, mechanisms, quantitative acid/base scales, redox potentials, and later chemistry remain unfinished.
 
 ## Historical and provenance
 
