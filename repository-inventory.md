@@ -111,7 +111,7 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 ## Physics-to-chemistry handoff
 
-- `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner
+- `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner, including scale-separation status
 - `physics-chemistry-gate-crossing.md` — historical/process shadow of the original candidate deposit
 
 ## Normalized chemistry
@@ -125,8 +125,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `ch3-supersession-control.md` — claim-specific CH3 succession and execution control
 - `ch4-ideal-local-molecular-geometry.md` — canonical CH4 owner
 - `ch4-supersession-control.md` — claim-specific CH4 succession and execution control
+- `ch5-covalent-ionic-closure-and-electronegativity.md` — canonical CH5 owner
+- `ch5-supersession-control.md` — claim-specific CH5 succession and execution control
 
-The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and the unresolved energetic-ordering boundary. CH4 owns the repaired ideal identical-partner geometry result and its symmetry/optimization boundary. CH5 and later chemistry remain unnormalized.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and energetic-ordering boundary. CH4 owns repaired ideal geometry. CH5 owns the covalent/ionic two-site architecture and screening-texture electronegativity. Mass separation and Born–Oppenheimer status remain X1-owned. CH6 and later chemistry remain unnormalized.
 
 ## Historical, superseded, or provenance material
 
