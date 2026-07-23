@@ -1,67 +1,60 @@
 ---
-title: "SM Frontier Item 2: Amplitude / Readout Theorem"
-type: process
-status: pass-for-load
-frontier_item: 2
+title: "Amplitude / Readout Theorem"
+type: result
+status: current
+created: 2026-06-21
 updated: 2026-07-23
+confidence: medium
 sources:
-  - process/sm-frontier-loop-state/02-04-items-2-3-4-status.md
-  - Frontier Close Loop Execution/amplitude-readout-theorem.md
-  - process/sm-frontier-loop-state/02-with-to-this-item2-load-audit.md
-  - results/realizability-weighting-law.md
+  - realizability-weighting-law.md
+  - gauge-structure-result.md
+claim_statuses: [Open, "Registered-candidate", Registered]
 ---
 
-# Item 2 — Amplitude / Readout Theorem
+# Amplitude / Readout Theorem
 
-## Item 2 — Amplitude / Readout: **PASS**
+## Scope
 
-### Concept and capacity
-The Born rule: assign normalized weights to outcomes/channels from a state-or-fork
-context by squaring an amplitude in an inner-product space.
+A squared amplitude is framework-native only when the unsquared quantity is an access or coherence-participation amplitude in a registered pairing geometry. A numerical readout label, angle, or ladder coefficient does not become a probability amplitude merely because it can be squared.
 
-### The scoping insight
-The former demand for a second bridge from framework weight to observed long-run frequency is Dissolved as a category error. Actuality needs no second bridge from weights to events;
-the shape of the possibility space gives the actualization rate/measure,
-and frequency is the many-event view of that actuality. The downstream load is
-Born-rule-level **weighting/selection among registered alternatives**, and the
-Registered weighting measure carries all of it. No current downstream page needs a
-separate native *frequency=weight* theorem.
+For a standing `sigma` and an admissible fork of alternatives `{e_i}`, write `w_sigma(e_i)` for the candidate's coherence-participation. The quantum instance is carried by the complex carrier and its Hermitian pairing.
 
-### Native object
-A normalized `|amplitude|²` / coherence-participation measure on a licensed
-pairing/frame. Registered via pairing-origin + conservation/normalization + the
-Gleason frame-function theorem (dimension ≥ 3, as mathematics-as-mathematics).
+## R5: noncontextuality from held and registered
 
-### Dependency map (completed)
+The Gleason route requires the candidate weight to depend on the candidate ray rather than on which orthonormal basis contains it, and requires the total over every complete orthonormal basis to be constant. Both conditions follow from the held/registered discipline.
 
-| Downstream page | Use of Item 2 | Item 2 load? | Carried? |
-|---|---|---|---|
-| `with-to-this-closure` | weighted actuality-selection among closure forks | yes — weighting only | ✓ measure; attractor uniqueness carried by local arity/stability |
-| `gravity-and-curvature` | the F8 coherence-participation functional + its gradient | yes — supply the measure | ✓ math-as-math; integration to curvature is local F9/F11 |
-| `gravity-asymmetry` | participation-weight comparison of next-configurations ("no rate, no density, no driver") | yes — weighting/comparison | ✓ measure |
-| `mass-as-self-closure` | coupling strength ≡ `|h(σ,k)|²` overlap | yes — definition = squared amplitude | ✓ Registered as program |
-| `mass-derivation-three-faces` | "equal weighting" = spatial isotropy; "cyclotron frequency" = measurement | **no** — symmetry + empirical metrology | n/a |
-| `propagation-…` (both) | distinguishes native weighting from local observed rates | no generic frequency bridge required | ✓ consistent |
-| `d6-persistence` | escape participation-weight as decay "rate-in-essence" | yes — relative propensity | ✓ at measure level (see flag) |
+1. **Fork inventory.** In the registered carrier, orthogonality is registrable distinctness. An orthonormal family is therefore a family of mutually registrably distinct alternatives, and a complete orthonormal basis is a complete admissible fork.
+2. **Alternative-alone dependence.** `w_sigma(e)` is the registered participation relation between the standing `sigma` and the candidate `e`. The other basis members are the held decomposition accompanying `e`. Allowing those co-alternatives to change `w_sigma(e)` would treat held bookkeeping as a registered distinction in the `sigma -> e` relation.
+3. **Constant fork total.** A complete fork registers actuality-as-such: exactly one alternative actualizes. Its total coherence-participation is therefore fixed by the standing and is not altered by which held orthogonal decomposition presents the fork.
 
-### Carried premises (must travel with downstream uses)
-1. **Dimension ≥ 3** for the exact `|·|²` form (the standard Gleason gap at
-   dim 2 is not closed and must not be hidden).
-2. **`d6-persistence` "rate-in-essence"** is licit only as a *relative escape
-   propensity* (a weighting/comparison). Observed decay rates remain empirical or
-   comparison unless the local escape possibility-space/rate structure is derived;
-   do not route this back into a generic frequency=weight work item.
+Thus `w_sigma` is a nonnegative frame function on rays satisfying
 
-### Verdict
-**PASS** — the Registered weighting measure carries every measured downstream load.
-The `cos²(θ)` smuggle the audit warns about is *guarded-against, not active*: every
-`cos²(θ)` occurrence in the corpus is in the control/audit pages that set the rule,
-not in a live derivation.
+> `sum_i w_sigma(e_i) = W_sigma`
 
-### Integration rule
-Downstream pages may use `|amplitude|²` / coherence-participation as a native
-weighting measure; must not silently promote a measure to an observed frequency;
-must keep the dim-2 flag; observed decay/transition *rates* as numbers remain
-empirical or comparison unless the local possibility-space/rate structure is derived.
-The realizability-weighting law is **Registered**. `frequency=weight` is Dissolved and must not be presented as a work frontier or inherited condition.
+for every complete orthonormal basis `{e_i}`, with `W_sigma` independent of the basis.
 
+**Grade:** **Registered-candidate** for the R5/noncontextuality grounding.
+
+## The Born instance
+
+In complex dimension at least three, Gleason's theorem then gives a positive operator `rho_sigma` such that
+
+> `w_sigma(e) = <e, rho_sigma e>`.
+
+For a pure standing, `rho_sigma = |sigma><sigma|`, so
+
+> `w_sigma(e) = |h(sigma,e)|^2`.
+
+After normalization over the fork,
+
+> `P(e_i) = |h(sigma,e_i)|^2 / sum_j |h(sigma,e_j)|^2`.
+
+The pairing, the R5 grounding, and the Gleason theorem therefore carry the exact quadratic Born form. The dimension-two caveat remains local to Gleason and must travel wherever this route is used.
+
+## Access is not readout
+
+A `cos^2(theta)` factor is admissible only when `theta` belongs to the carrier's access geometry. A normalized ladder coefficient, eigenvalue label, or other readout quantity belongs to the result space and cannot be imported as an access amplitude without a separate bridge.
+
+## Boundary
+
+This theorem supplies relative weighting among registered alternatives. It does not by itself supply an absolute decay or transition rate; that requires the local possibility-space and rate structure of the process. The separate demand that long-run frequency be derived from weight is Dissolved and is not a condition on this theorem.
