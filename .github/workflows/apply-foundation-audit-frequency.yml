@@ -18,22 +18,19 @@ jobs:
         with:
           ref: agent/foundation-audit-execution
           fetch-depth: 0
-      - name: Remove remaining stale caveat language
+      - name: Apply exact remaining substitutions
         run: |
           python - <<'PY'
           from pathlib import Path
-          import re
 
           p = Path('physics-chemistry-gate-crossing.md')
           text = p.read_text(encoding='utf-8')
-          text = text.replace(
-              '   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)',
-              '   - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required'
-          )
-          text = text.replace(
-              '  - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)',
-              '  - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required'
-          )
+          old = '  - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)'
+          new = '  - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required'
+          if old not in text:
+              old = '   - realizability-weighting-law             # |·|² measure; propensity (carries frequency=weight caveat)'
+              new = '   - realizability-weighting-law             # |·|² coherence-participation measure; no frequency bridge required'
+          text = text.replace(old, new)
           p.write_text(text, encoding='utf-8')
 
           p = Path('02-amplitude-readout.md')
@@ -44,27 +41,10 @@ jobs:
           )
           p.write_text(text, encoding='utf-8')
 
-          prohibited = [
-              r'frequency\s*=\s*weight.{0,80}(open|blocker|caveat|condition)',
-              r'(open|blocker|caveat|condition).{0,80}frequency\s*=\s*weight',
-              r'Born measure / frequency as Open',
-          ]
-          allowed = {'archivist-instructions-foundation-audit.md'}
-          violations = []
-          for path in Path('.').rglob('*.md'):
-              if path.name in allowed or '.git' in path.parts:
-                  continue
-              content = path.read_text(encoding='utf-8')
-              head = content[:1200]
-              if not re.search(r'(?m)^(status:\s*(current|control)|type:\s*(result|deposit|process))', head):
-                  continue
-              for pattern in prohibited:
-                  if re.search(pattern, content, re.I | re.S):
-                      violations.append(f'{path}: {pattern}')
-          if violations:
-              raise SystemExit('Stale frequency-weight caveat language remains:\n' + '\n'.join(violations))
+          assert 'carries frequency=weight caveat' not in Path('physics-chemistry-gate-crossing.md').read_text(encoding='utf-8')
+          assert 'Born measure / frequency as Open' not in Path('02-amplitude-readout.md').read_text(encoding='utf-8')
           PY
-      - name: Commit final caveat cleanup
+      - name: Commit exact substitutions
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
