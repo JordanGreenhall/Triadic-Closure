@@ -1,6 +1,6 @@
 # Repository Inventory
 
-Generated from a recursive comparison of the repository initialization commit `186a43094f4947502ebfe7d863c607012d0afe37` to `main`. This is the current migration-reconciliation inventory for the flattened corpus.
+Generated from a recursive comparison of repository initialization commit `186a43094f4947502ebfe7d863c607012d0afe37` to the current normalized tree. This is the live migration-reconciliation inventory.
 
 ## Governing navigation and controls
 
@@ -63,10 +63,19 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `lorentz-from-recoupling.md`
 - `ternary-coalgebra-dimension-task.md`
 - `d6-persistence.md`
+- `p7-manifold-recovery-and-local-continuum.md`
 
 ## Gauge, internal structure, and matter taxonomy
 
+- `same-kind-carrier-representation-theorem.md`
 - `gauge-structure-result.md`
+- `p10-color-singlet-and-representation-consequences.md`
+- `p11-gauge-sources-beyond-color.md`
+- `p12-spin-helicity-handedness-and-chiral-coupling.md`
+- `p13-particle-identity-and-native-role-taxonomy.md`
+- `p14-flavor-and-mark-geometry.md`
+- `p15-charge-hypercharge-valence-and-center-locking.md`
+- `p16-quantitative-qcd-dynamics-and-quarantine.md`
 - `quark-lepton-split.md`
 - `chiral-coupling-result.md`
 - `d3-color-forcing-argument.md`
@@ -80,6 +89,10 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 ## Closure, mass, flavor, and neutron
 
+- `p17-mass-as-closure-maintenance.md`
+- `p18-closure-inherited-metric-and-2pi5-measure.md`
+- `p19-native-electron-ruler-and-proton-electron-ratio.md`
+- `p20-baryon-closure-and-proton-neutron-relation.md`
 - `mass-as-self-closure.md`
 - `mass-derivation-three-faces.md`
 - `closure-inherited-metric.md`
@@ -88,6 +101,9 @@ Generated from a recursive comparison of the repository initialization commit `1
 - `flavor-mark-metric-and-neutron.md`
 - `neutron-consideration.md`
 - `with-to-this-closure.md`
+- `11-decay-product-registration.md`
+- `realizability-weighting-law.md`
+- `09-specific-color-dynamics-qcd-quarantine.md`
 
 ## Gravity and cosmology
 
@@ -111,38 +127,40 @@ Generated from a recursive comparison of the repository initialization commit `1
 
 ## Physics-to-chemistry handoff
 
-- `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner, including scale-separation status
-- `physics-chemistry-gate-crossing.md` — historical/process shadow of the original candidate deposit
+- `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner
+- `physics-chemistry-gate-crossing.md`
 
 ## Normalized chemistry
 
-- `chemistry-domain-mature-status.md` — global chemistry status and frontier control
-- `ch1-chemical-domain-gate-and-bond-primitive.md` — canonical CH1 owner
-- `ch1-supersession-control.md` — claim-specific CH1 succession and execution control
-- `ch2-two-center-capacity-ownership-and-mode-fork.md` — canonical CH2 owner
-- `ch2-supersession-control.md` — claim-specific CH2 succession and execution control
-- `ch3-maintenance-relief-and-energetic-ordering.md` — canonical CH3 owner
-- `ch3-supersession-control.md` — claim-specific CH3 succession and execution control
-- `ch4-ideal-local-molecular-geometry.md` — canonical CH4 owner
-- `ch4-supersession-control.md` — claim-specific CH4 succession and execution control
-- `ch5-covalent-ionic-closure-and-electronegativity.md` — canonical CH5 owner
-- `ch5-supersession-control.md` — claim-specific CH5 succession and execution control
-- `ch6-catenation-branching-isomerism-and-functional-groups.md` — canonical CH6 owner
-- `ch6-supersession-control.md` — claim-specific CH6 succession and execution control
-- `ch7-cyclic-delocalization-and-aromatic-closure.md` — canonical CH7 owner
-- `ch7-supersession-control.md` — claim-specific CH7 succession and execution control
-- `ch8-reaction-site-taxonomy-and-acid-base-readings.md` — canonical CH8 owner
-- `ch8-supersession-control.md` — claim-specific CH8 succession and execution control
-- `ch9-activation-rates-and-catalysis.md` — canonical CH9 owner
-- `ch9-supersession-control.md` — claim-specific CH9 succession and execution control
-- `ch10-thermodynamic-direction-and-equilibrium.md` — canonical CH10 owner
-- `ch10-supersession-control.md` — claim-specific CH10 succession and execution control
+- `chemistry-domain-mature-status.md`
+- `ch1-chemical-domain-gate-and-bond-primitive.md`
+- `ch1-supersession-control.md`
+- `ch2-two-center-capacity-ownership-and-mode-fork.md`
+- `ch2-supersession-control.md`
+- `ch3-maintenance-relief-and-energetic-ordering.md`
+- `ch3-supersession-control.md`
+- `ch4-ideal-local-molecular-geometry.md`
+- `ch4-supersession-control.md`
+- `ch5-covalent-ionic-closure-and-electronegativity.md`
+- `ch5-supersession-control.md`
+- `ch6-catenation-branching-isomerism-and-functional-groups.md`
+- `ch6-supersession-control.md`
+- `ch7-cyclic-delocalization-and-aromatic-closure.md`
+- `ch7-supersession-control.md`
+- `ch8-reaction-site-taxonomy-and-acid-base-readings.md`
+- `ch8-supersession-control.md`
+- `ch9-activation-rates-and-catalysis.md`
+- `ch9-supersession-control.md`
+- `ch10-thermodynamic-direction-and-equilibrium.md`
+- `ch10-supersession-control.md`
 
-The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. CH1 owns the joint-standing bond form. CH2 owns bounded capacity, occupancy distinction, ownership interpretation, and mode decomposition. CH3 owns maintenance-relief interpretation and energetic-ordering boundary. CH4 owns repaired ideal geometry. CH5 owns the covalent/ionic two-site architecture and screening-texture electronegativity. CH6 owns residual-edge recursion, catenation, branching, composition/constitution separation, constitutional isomerism, and functional groups as carried local invariants. CH7 owns cyclic delocalization, ideal ring modes, aromatic closure, and the conditional `4k+2` result. CH8 owns reaction-site taxonomy: shell-edge re-partnering, charge transfer, mixed passages, and Brønsted/Lewis acid-base readings. CH9 owns activation, rates, and catalysis. CH10 owns thermodynamic direction, reversible passage balance, equilibrium, and the conditional exponential equilibrium ratio. Native thermodynamic functionals, empirical calibration, phase behavior, transport, and later chemistry remain unfinished. Mass separation and Born–Oppenheimer status remain X1-owned.
+The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. X1 and CH1–CH10 are the living canonical sequence.
 
-## Historical, superseded, or provenance material
+## Current provenance candidates pending semantic-compression adjudication
 
-- `jordan-decisions.md` — direct-ruling provenance; all four rulings absorbed into dedicated living pages
+The following files remain in the tree but are not retained merely because they are historical. Each must either demonstrate substantial current value or be decomposed, absorbed, and deleted during the continuing compression pass:
+
+- `jordan-decisions.md`
 - `cover-letter.md`
 - `phi-forward-reconstruction.md`
 - `mathematization-F10-status.md`
@@ -153,19 +171,10 @@ The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-sem
 - `d4-as-established.md`
 - `internal-structure-walk-move1.md`
 - `internal-structure-walk-move2.md`
-- `neutron-consideration.md` where superseded by `flavor-mark-metric-and-neutron.md`
-- `physics-chemistry-gate-crossing.md` for its detailed original proposal and repaired-geometry provenance; current interface standing is owned by X1
+- `neutron-consideration.md`
+- `physics-chemistry-gate-crossing.md`
 
-Historical classification is claim-specific. These files may retain useful derivations or provenance content, but they may not override later detailed work or explicit adjudications.
-
-## Residual overview directory
-
-The exact duplicate shadows `jordan-decisions.md` and `viewing-this-wiki.md` were compared with their root counterparts and removed. Two unique migration-era pages remain:
-
-- `overview/triadic-closure-reading-order.md`
-- `overview/corpus-cleanup-pass-report.md`
-
-They are not governing navigation. They should be retained only for their distinct control or provenance content and eventually migrated to root or explicitly classified historical.
+This list is a work queue, not a retention class.
 
 ## Compiler workspace
 
@@ -176,6 +185,6 @@ The complete `_compiler/` inventory is documented in `_compiler/README.md`. It i
 - `reference-repair-report.md`
 - `log.md`
 
-## Authority rule after migration
+## Authority and retention rule
 
-GitHub is the primary execution corpus for every file present here. Google Drive is used only to locate missing migration sources, compare provenance, or recover a source not yet present. Claim authority remains semantic and claim-specific; migration location does not itself determine standing.
+GitHub is primary for every migrated file. Claim authority remains semantic and claim-specific. Git history is the archive. A live document must perform a substantial current function; otherwise useful fragments are absorbed into living owners and the obsolete container is deleted.
