@@ -118,7 +118,7 @@ The framework's modal triad gives a clean account of the two faces of quantum ev
 
 **Observation** is the registration of accumulated actuals — coarsely sampled, discrete, and at rates far above the fundamental scale. It is not a separate mechanism that forces actualization; it is the standing-actual registered.
 
-**The genuine open frontier.** The framework supplies the *structure* of the transition — a realizability field of multiple forks, from which one actual is selected and stands. It does not, as presented here, supply the *measure* on the selection: why the selection is weighted as it is (the Born rule, the |ψ|²-weighting of outcomes). Deriving that measure from the structure of realizability is the open problem this account locates but does not close.
+**Selection weighting.** The structure of the transition is supplied here: a realizability field of multiple forks, from which one actual is selected and stands. The measure on that selection is supplied by the Registered Realizability Weighting Law and its Born instance, `|h(σ,k)|²`. No separate frequency bridge is required. Absolute local transition rates still require the possibility-space and rate structure of the process.
 
 ## 10. Summary
 
@@ -129,4 +129,4 @@ The framework's modal triad gives a clean account of the two faces of quantum ev
 - **Propagation** is the neighbor-by-neighbor resolution of coherence-differences as the unified coherent standing (the Hamiltonian) advances one step — the same event read as the whole (time) and as the differentiated field (space). No traveler.
 - **Motion** is local incremental re-coupling of the conditioning-network, bounded at one link per step; the geometry is thereby dynamical. That this dynamism *is* the gravitational character of the metric is a **strong lead requiring a dedicated walk** (energy concentration constraining re-coupling, causal cones tilting/curving, recovery of geodesic behavior and field equations), not a sealed result.
 - This is a **discrete causal network** with a minimum causal event, arrived at as forced; recovery of smooth large-scale geometry is a located but open problem.
-- The **Schrödinger equation** is the evolution of the **realizability** field under the Hamiltonian (continuous: the coherent possible); **collapse** is the **realizability-to-actuality** transition (discrete: an actual is a This). The measurement problem dissolves as a confusion of two modal registers. The **Born measure** on the selection is the open frontier.
+- The **Schrödinger equation** is the evolution of the **realizability** field under the Hamiltonian (continuous: the coherent possible); **collapse** is the **realizability-to-actuality** transition (discrete: an actual is a This). The measurement problem dissolves as a confusion of two modal registers. The **Born measure** on the selection is supplied by the Registered weighting law; absolute local transition rates remain process-specific.
