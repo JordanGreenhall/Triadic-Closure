@@ -143,15 +143,20 @@ proton it produces a value (resolved triad, `2 pi^5`), while in the electron the
 trivial orbit produces no additional color value beyond the unit ruler.
 [Registered.]
 
-**Spatialization gives the factor 3 additively (-> 6 pi^5).** With-flattening
-*separates* the triad into three independent degrees (space), where
-This-flattening *gathers* it into one (color) — opposite handlings of the same
-triad, which is exactly why color is one closure and space is three. The
-With-This seats the one gathered interior into the three independent exterior
-degrees. The seating operation is now closed: three full equal bearings of the
-one color closure are summed,
+**Spatialization gives the factor 3 by additivity (-> 6 pi^5).** With-flattening
+separates the triad into three independent, registrably distinct spatial holdings,
+while This-flattening gathers the same triad into one color closure. Each spatial
+holding bears the whole gathered closure. Because coherence-participation is
+additive over registrably distinct holdings, the seating measure is forced:
 
-> 3 x 2 pi^5 = 6 pi^5.
+> `2 pi^5 + 2 pi^5 + 2 pi^5 = 3 x 2 pi^5 = 6 pi^5`.
+
+The three terms are equal because the With-flattened degrees are interchangeable
+and each bears the same whole closure. Treating the three holdings as one joint
+bearing would make re-selection blind to registered structure and violate
+additivity. No inventory of product, distribution, addition, or other imagined
+joining operations carries the result; the factor three is a direct corollary of
+whole-closure maintenance plus additivity.
 
 Two guards against the dead factor-of-three still apply: (i) this 3 is the
 exterior *separation*, never the color count; (ii) it applies to the This-face
@@ -159,20 +164,6 @@ being seated, not to the whole standing — so the electron, having no nontrivia
 color This (trivial color, no value produced), is *absent* from the With-This pair
 and receives no spatial factor at all, not by exemption but because there is no
 interior there to seat.
-
-**Why the join is addition, not product or distribution.** Three operations were
-a priori live: product, distribution, or addition. Product is excluded by the
-one-closure result: `(2 pi^5)^3` would require three independent color closures,
-but the baryon has exactly one gathered color closure — one determinant, one
-singlet, one seated This. There is nothing to multiply. Distribution is excluded
-by symmetric full occupation: a distributed conserved source thins across its
-arena and profiles from a center; the proton is not a point source merely located
-in space, but a filled body whose color closure is borne isotropically through its
-spatial arena. Full symmetric occupation means full bearing per independent
-spatial degree, not a divided share. With product and distribution excluded, the
-only available operation for multiple full bearings of one object is summation.
-Isotropy fixes the equal weighting: each of the three With-flattened degrees bears
-the same full `2 pi^5`.
 
 Checked that space is not already inside 2 pi^5: that measure is built from C^3
 with no spatial coordinate; it counts the triad *gathered*, while the spatial
@@ -314,12 +305,12 @@ face-pairs above are readings of the one closure, not three accumulations.
 closure measure from additivity, no-distinction invariance, and uniqueness of the
 Haar-induced measure; electron bare repeat as native mass ruler (`m_e = 1`);
 `2 pi^5` as the forced closure-inherited measure of one
-seated color closure; additive spatialization of that one closure across the
-three With-flattened degrees, giving the With-This color-seating face `6 pi^5`;
-electron color interior = 1; This-From contributes no factor; combination law is
-multiplicative and additive assembly is excluded; the boundary-geometry residual
-route is a clean negative; the metrology-seam explanation is excluded; the
-neutrino's lightness traces to a missing chiral partner.
+seated color closure; factor-three seating from three registrably distinct
+whole-closure bearings plus additivity, giving the With-This color-seating face
+`6 pi^5`; electron color interior = 1; This-From contributes no factor; combination
+law is multiplicative and additive assembly is excluded; the boundary-geometry
+residual route is a clean negative; the metrology-seam explanation is excluded;
+the neutrino's lightness traces to a missing chiral partner.
 
 **Registered in origin/sign, Open in numbering:** the From-With chiral face. The
 proton/electron residual (`1.882 x 10^-5`) is this face's admixture in the proton,
