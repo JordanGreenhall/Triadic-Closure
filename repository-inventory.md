@@ -1,6 +1,6 @@
 # Repository Inventory
 
-Generated from a recursive comparison of repository initialization commit `186a43094f4947502ebfe7d863c607012d0afe37` to the current normalized tree. This is the live migration-reconciliation inventory.
+Generated from the current normalized tree. This is the live migration-reconciliation inventory.
 
 ## Governing navigation and controls
 
@@ -21,6 +21,7 @@ Generated from a recursive comparison of repository initialization commit `186a4
 - `physics-section-guide.md`
 - `physics-source-map.md`
 - `viewing-this-wiki.md`
+- `global-semantic-compression-rule.md`
 
 ## Foundational architectonics and method
 
@@ -41,10 +42,8 @@ Generated from a recursive comparison of repository initialization commit `186a4
 
 - `mathematization-F1-F2.md`
 - `mathematization-F4-F7.md`
-- `mathematization-F8-F11.md`
 - `mathematization-F8-done.md`
 - `mathematization-F9-done.md`
-- `mathematization-F10-status.md`
 - `mathematization-F10-resolved.md`
 - `mathematization-F11.md`
 - `verification-companion.md`
@@ -78,14 +77,8 @@ Generated from a recursive comparison of repository initialization commit `186a4
 - `p16-quantitative-qcd-dynamics-and-quarantine.md`
 - `quark-lepton-split.md`
 - `chiral-coupling-result.md`
-- `d3-color-forcing-argument.md`
 - `d3-color-forcing-argument-v2.md`
-- `d3-su3-conditional-theorem.md`
-- `d3-as-established.md`
 - `d3-standing-and-d4-walk.md`
-- `d4-as-established.md`
-- `internal-structure-walk-move1.md`
-- `internal-structure-walk-move2.md`
 
 ## Closure, mass, flavor, and neutron
 
@@ -99,7 +92,6 @@ Generated from a recursive comparison of repository initialization commit `186a4
 - `epsilon-fw-bracket-result.md`
 - `mass-ratio-audit-report.md`
 - `flavor-mark-metric-and-neutron.md`
-- `neutron-consideration.md`
 - `with-to-this-closure.md`
 - `11-decay-product-registration.md`
 - `realizability-weighting-law.md`
@@ -128,7 +120,6 @@ Generated from a recursive comparison of repository initialization commit `186a4
 ## Physics-to-chemistry handoff
 
 - `x1-physics-maturity-and-chemistry-entry-gate.md` — canonical X1 owner
-- `physics-chemistry-gate-crossing.md`
 
 ## Normalized chemistry
 
@@ -156,26 +147,6 @@ Generated from a recursive comparison of repository initialization commit `186a4
 
 The chemistry D1–D4 deposit is represented in `_compiler/04-chemistry-walk-semantic-inventory.md`; the substantive source remains external supplemental provenance. X1 and CH1–CH10 are the living canonical sequence.
 
-## Current provenance candidates pending semantic-compression adjudication
-
-The following files remain in the tree but are not retained merely because they are historical. Each must either demonstrate substantial current value or be decomposed, absorbed, and deleted during the continuing compression pass:
-
-- `jordan-decisions.md`
-- `cover-letter.md`
-- `phi-forward-reconstruction.md`
-- `mathematization-F10-status.md`
-- `mathematization-F8-F11.md`
-- `d3-color-forcing-argument.md`
-- `d3-su3-conditional-theorem.md`
-- `d3-as-established.md`
-- `d4-as-established.md`
-- `internal-structure-walk-move1.md`
-- `internal-structure-walk-move2.md`
-- `neutron-consideration.md`
-- `physics-chemistry-gate-crossing.md`
-
-This list is a work queue, not a retention class.
-
 ## Compiler workspace
 
 The complete `_compiler/` inventory is documented in `_compiler/README.md`. It is an adjudication layer, not a substitute for the substantive corpus.
@@ -188,3 +159,5 @@ The complete `_compiler/` inventory is documented in `_compiler/README.md`. It i
 ## Authority and retention rule
 
 GitHub is primary for every migrated file. Claim authority remains semantic and claim-specific. Git history is the archive. A live document must perform a substantial current function; otherwise useful fragments are absorbed into living owners and the obsolete container is deleted.
+
+The global archive/delete pass removed the thirteen former provenance candidates after confirming that their surviving claims, warnings, and frontiers were already represented in living owners. No historical-retention queue remains.
