@@ -2,7 +2,7 @@
 title: Claim Status Vocabulary
 type: concept
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-23
 status: current
 confidence: high
 sources:
@@ -17,12 +17,13 @@ Future agents must preserve modal status exactly.
 
 ## Live claim statuses
 
-Use these four statuses when decrementing package-era physics claims:
+Use these statuses for live claims:
 
 - **Open** — explicitly not closed; work frontier.
 - **Conjectured** — plausible/live proposal, not yet registered by the framework.
 - **Registered** — framework structure reaches the item in essence or under stated conditions, but sealing/full closure is incomplete.
 - **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.
+- **Dissolved** — a purported problem or demand shown to be a category error. It is removed rather than answered. `frequency=weight` is the governing example.
 
 ## Deprecated status
 
