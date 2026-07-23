@@ -74,7 +74,7 @@ When one completed This is borne through three registrably distinct With-separat
 
 > `mu + mu + mu = 3 mu`.
 
-Treating the three holdings as one joint bearing would make re-selection blind to registered structure and violate additivity. The factor three is therefore a corollary of whole-closure maintenance plus additivity, not the survivor of an inventory of imagined joining operations. For the color closure, `mu = 2 pi^5`, giving the exact With-This factor `6 pi^5` in [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
+Treating the three holdings as one joint bearing would make re-selection blind to registered structure and violate additivity. The factor three is therefore forced by whole-closure maintenance plus additivity. For the color closure, `mu = 2 pi^5`, giving the exact With-This factor `6 pi^5` in [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
 
 ## Boundary
 
