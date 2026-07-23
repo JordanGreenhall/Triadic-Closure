@@ -4,7 +4,7 @@ type: physics-closure-mass
 created: 2026-06-23
 updated: 2026-07-23
 status: current
-confidence: high
+confidence: medium-high
 section: Closure, confinement, and mass/value machinery
 sources:
   - mass-derivation-three-faces.md
