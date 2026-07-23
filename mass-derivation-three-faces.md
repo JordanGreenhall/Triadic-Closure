@@ -52,9 +52,45 @@ self-re-selection *is* the mass (see [with-to-this-closure](with-to-this-closure
 There is no closure that additionally "provides" mass — the distinction between a
 color closure and a mass-giving color closure is a phantom. [Registered.]
 
+## Why maintenance is linear in closure measure
+
+A closure is its whole no-distinction orbit. Re-selecting the closure at each step
+therefore re-coheres the whole orbit: leaving out a configuration would register a
+distinction inside a freedom whose content is precisely no distinction.
+
+Let `M(A)` be the per-step coherence-participation of a registrably distinct region
+`A` of the closure orbit.
+
+1. **Additivity.** For disjoint registrably distinct regions, participation adds:
+   `M(A union B) = M(A) + M(B)`. This is the same sum-structure already Registered
+   in the realizability weighting law.
+2. **Invariance.** No orbit configuration is privileged, so `M` is invariant under
+   the closure freedom's group action.
+3. **Uniqueness.** On the compact homogeneous standing-spaces used here, an additive
+   invariant set-function is proportional to the Haar-induced invariant measure.
+   Hence `M = kappa mu`. A logarithm, square root, or other nonlinear function of
+   `mu` fails additivity and is excluded.
+4. **Scale.** The primitive self-pairing fixes one unit of participation per unit
+   standing. In standing units `kappa = 1`; the electron's point orbit therefore
+   has measure `1`, rather than receiving that value by stipulation.
+
+Mass ratios are consequently ratios of invariant closure measures. The comparison
+across standing-spaces of different dimensions is licensed because the pairing
+renders every measure dimensionless in the same standing-unit normalization.
+Conversion to kg or eV remains external calibration.
+
+This is the Gleason move at the mass site: additive plus invariant structure forces
+a linear functional. The Born weighting law and the mass bridge use the same
+quantitative instrument on different objects.
+
+**Status.** Registered on the stated parents. The exposed joint is explicit:
+no-distinction, first read statically as the whole orbit, is read diachronically as
+whole-orbit re-coherence at every maintaining step. This is the maintenance claim,
+not an additional numerical assumption.
+
 Consequently masses are not free parameters; they are read off *which closures a
-standing maintains* and *the measure of each*, in relation to a native ruler. For
-mass, that ruler is the electron bare repeat: `m_e = 1`.
+standing maintains* and the invariant measure of each, in relation to the electron
+bare repeat as native ruler: `m_e = 1`.
 
 
 ## Place in the physics section
@@ -98,13 +134,14 @@ The measure is invariant under the closure's `SU(3)` no-distinction action, and 
 
 **The electron's interior is 1, and the electron bare repeat is the native mass
 ruler.** By the identical construction the electron's color is the trivial rep;
-its SU(3) orbit is a single point (0-dimensional, verified). No S^5, no
-completion — a point, measure 1. Its From-With repeat is the minimal stable
-positive mass case: elementary, rest-capable, color-trivial, and minimally
-contextual. Therefore `m_e = 1` framework-natively. Both particles carry the full
-color sector; in the proton it produces a value (resolved triad, 2 pi^5), in the
-electron it produces no additional color value (trivial, 1). [Registered for the
-trivial interior and the ruler choice.]
+its `SU(3)` orbit is a single point. In the standing-unit normalization fixed by
+self-pairing, that point carries the unit measure `1`; the value is principled, not
+stipulated. Its From-With repeat is the minimal stable positive-mass case:
+elementary, rest-capable, color-trivial, and minimally contextual. Therefore
+`m_e = 1` framework-natively. Both particles carry the full color sector; in the
+proton it produces a value (resolved triad, `2 pi^5`), while in the electron the
+trivial orbit produces no additional color value beyond the unit ruler.
+[Registered.]
 
 **Spatialization gives the factor 3 additively (-> 6 pi^5).** With-flattening
 *separates* the triad into three independent degrees (space), where
@@ -273,8 +310,10 @@ face-pairs above are readings of the one closure, not three accumulations.
 
 ## Status ledger
 
-**Registered:** mass = maintenance of closure; electron bare repeat as native
-mass ruler (`m_e = 1`); `2 pi^5` as the forced closure-inherited measure of one
+**Registered:** mass = maintenance of closure; linearity of mass in invariant
+closure measure from additivity, no-distinction invariance, and uniqueness of the
+Haar-induced measure; electron bare repeat as native mass ruler (`m_e = 1`);
+`2 pi^5` as the forced closure-inherited measure of one
 seated color closure; additive spatialization of that one closure across the
 three With-flattened degrees, giving the With-This color-seating face `6 pi^5`;
 electron color interior = 1; This-From contributes no factor; combination law is
