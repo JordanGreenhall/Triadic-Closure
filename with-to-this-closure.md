@@ -2,7 +2,7 @@
 title: With-to-This Closure as Realizability Collapse
 type: physics-mechanism
 created: 2026-06-22
-updated: 2026-06-25
+updated: 2026-07-23
 status: current
 confidence: medium
 section: Realizability, actualization, and weighting
@@ -67,6 +67,14 @@ Using the pairwise color-overlap operator `H = Σ_{i<j} T_i·T_j` on `C³ ⊗ C�
 - That attractor is the complete-closure singlet.
 - The closure is forced under the tested dynamics, category-level, and first available at the closure-form's arity.
 - Attractor, rather than merely maximal, is the load-bearing characterization.
+
+## Seating corollary
+
+When one completed This is borne through three registrably distinct With-separated holdings, each holding bears the whole closure. Coherence-participation is additive over registrably distinct holdings, so a closure of measure `mu` contributes
+
+> `mu + mu + mu = 3 mu`.
+
+Treating the three holdings as one joint bearing would make re-selection blind to registered structure and violate additivity. The factor three is therefore a corollary of whole-closure maintenance plus additivity, not the survivor of an inventory of imagined joining operations. For the color closure, `mu = 2 pi^5`, giving the exact With-This factor `6 pi^5` in [Particle Mass from the Three Faces of the Closure](mass-derivation-three-faces.md).
 
 ## Boundary
 
