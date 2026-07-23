@@ -7,7 +7,6 @@ updated: 2026-07-23
 confidence: medium
 sources:
   - realizability-weighting-law.md
-  - gauge-structure-result.md
 claim_statuses: [Open, "Registered-candidate", Registered]
 ---
 
