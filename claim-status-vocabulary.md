@@ -8,33 +8,34 @@ confidence: high
 sources:
   - architectonic-rigor-complete.md
   - triadic-structure-of-relating-rev-canonical.md
-  - verification-companion.md
 ---
 
 # Claim Status Vocabulary
 
-Future agents must preserve modal status exactly.
+Preserve both a claim's live status and the warrant instrument that reaches it.
 
 ## Live claim statuses
 
-Use these statuses for live claims:
+- **Open** — explicitly not closed; a genuine work frontier.
+- **Conjectured** — plausible proposal not yet registered by the framework.
+- **Registered** — framework structure reaches the item in essence or under stated conditions, while some closure remains incomplete.
+- **Registered and Sealed** — the item carries no additional load beyond the registered structure at its stated scope.
+- **Dissolved** — a purported problem or demand shown to be a category error and removed rather than answered.
 
-- **Open** — explicitly not closed; work frontier.
-- **Conjectured** — plausible/live proposal, not yet registered by the framework.
-- **Registered** — framework structure reaches the item in essence or under stated conditions, but sealing/full closure is incomplete.
-- **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.
-- **Dissolved** — a purported problem or demand shown to be a category error. It is removed rather than answered. `frequency=weight` is the governing example.
+## Warrant instruments
+
+- **Retorsion-secured** — denial necessarily deploys the denied condition.
+- **Forced** — secured by dependency, construction, or another exhibited instrument.
+- **Selected** — admitted by an exhibited boundary but not uniquely compelled.
+- **Recognition** — a downstream name attached after the structure is earned; surplus remains quarantined.
+- **Defended posit** — a completeness claim at the universal certification ceiling, carried by a forced floor, survived rival examination, and reflexive stability.
+
+A defended posit is not a low-confidence status or unfinished theorem. It is the maximal warrant available to any exhaustive foundational inventory. It remains open to refutation by a genuine counterexample, not open as an owed proof task.
 
 ## Deprecated status
 
-- **Locked actual** — deprecated / disfavored. It was package-era shorthand for “actual trajectory fact, not derived,” but it hides whether the item is Open, Conjectured, Registered, or Registered and Sealed. Do not use it for live claims; consult [locked-actual-decrement-map](locked-actual-decrement-map.md).
-
-## Supporting proof/force vocabulary
-
-Terms such as retorsion-secured, forced, defended posit, selection, recognition, checked, and argued may still describe the *instrument* or *evidence* behind a claim, but the live claim status for the physics wiki should be one of the four statuses above.
+- **Locked actual** — deprecated because it obscures whether an item is Open, Conjectured, Registered, Registered and Sealed, or otherwise classified.
 
 ## Execution rule
 
-Never upgrade status. If a document says "argued," do not report "proved." If raw package text says "locked actual," translate through [locked-actual-decrement-map](locked-actual-decrement-map.md) before using it.
-
-See also: [agent-execution-rules](agent-execution-rules.md), [known-failure-modes](known-failure-modes.md), [locked-actual-decrement-map](locked-actual-decrement-map.md), [architectonic-rigor](architectonic-rigor.md).
+Never strengthen a claim beyond its route. Equally, never weaken a defended posit by comparing it to a formal proof whose fixed inventory already presupposes the kind of completeness at issue.
