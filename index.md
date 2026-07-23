@@ -112,8 +112,9 @@ X1 records that the inherited physics package does not yet construct the atomic 
 - [CH3 Maintenance Relief and Energetic Ordering](ch3-maintenance-relief-and-energetic-ordering.md) — canonical owner
 - [CH4 Ideal Local Molecular Geometry](ch4-ideal-local-molecular-geometry.md) — canonical owner
 - [CH5 Covalent–Ionic Closure and Electronegativity](ch5-covalent-ionic-closure-and-electronegativity.md) — canonical owner
+- [CH6 Catenation, Branching, Isomerism, and Functional Groups](ch6-catenation-branching-isomerism-and-functional-groups.md) — canonical owner
 
-CH5 owns the Conjectured two-site reconstruction: covalent closure as jointly held shell-edge completion, ionic closure as transfer followed by opposite charge-site closure, and electronegativity as partner-relative screening texture that biases apportionment. Scale separation and Born–Oppenheimer remain X1-owned; explicit occupants, interpolation, screening values, and quantitative consequences remain unfinished. CH6 has not begun.
+CH6 owns the Conjectured recursive-constitution package: residual-edge recursion into termination, chains, branches, and non-aromatic rings; composition/constitution separation; constitutional isomerism; and functional groups as carried local invariants. It does not own cyclic delocalization, ring modes, aromatic closure, `4k+2`, resonance, or aromatic stabilization. CH7 remains fully owed.
 
 ## Historical and provenance
 
