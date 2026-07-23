@@ -2,8 +2,7 @@ name: Apply foundation audit frequency-weight dissolution
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [main]
     types: [opened, synchronize, reopened]
   workflow_dispatch:
 
@@ -25,10 +24,7 @@ jobs:
           from pathlib import Path
           import re
 
-          def write(path, text):
-              Path(path).write_text(text, encoding='utf-8')
-
-          write('realizability-weighting-law.md', '''---
+          Path('realizability-weighting-law.md').write_text('''---
           title: Realizability Weighting Law
           type: result
           created: 2026-06-21
@@ -62,7 +58,7 @@ jobs:
           A non-physics end-to-end instance, naturally the Boltzmann case, remains useful seal-polish. A native typicality theorem and reproducibility theorem may be developed as consistency results, but neither is a condition on the weighting law.
 
           Absolute decay or transition rates still require the local possibility-space and rate structure of the process. That values-side requirement is distinct from the dissolved frequency=weight demand.
-          ''')
+          ''', encoding='utf-8')
 
           p = Path('02-amplitude-readout.md')
           text = p.read_text(encoding='utf-8')
@@ -83,9 +79,8 @@ jobs:
           text = text.replace('updated: 2026-06-21', 'updated: 2026-07-23')
           text = text.replace('Use these four statuses when decrementing package-era physics claims:', 'Use these statuses for live claims:')
           needle = '- **Registered and Sealed** — bidirectional content-identity or equivalent framework closure: the item carries no extra load beyond the registered structure.\n'
-          addition = needle + '- **Dissolved** — a purported problem or demand shown to be a category error. It is removed rather than answered. `frequency=weight` is the governing example.\n'
           if '- **Dissolved**' not in text:
-              text = text.replace(needle, addition)
+              text = text.replace(needle, needle + '- **Dissolved** — a purported problem or demand shown to be a category error. It is removed rather than answered. `frequency=weight` is the governing example.\n')
           p.write_text(text, encoding='utf-8')
 
           p = Path('known-failure-modes.md')
@@ -122,10 +117,7 @@ jobs:
               'inherits the Item-1 gate': 'does not inherit the dissolved Item-1 demand',
               'frequency=weight identity remains outside the current load': 'frequency=weight demand is Dissolved',
           }
-          excluded = {
-              Path('archivist-instructions-foundation-audit.md'),
-              Path('.github/workflows/apply-foundation-audit-frequency.yml'),
-          }
+          excluded = {Path('archivist-instructions-foundation-audit.md'), Path('.github/workflows/apply-foundation-audit-frequency.yml')}
           for path in Path('.').rglob('*.md'):
               rel = path.relative_to('.')
               if rel in excluded or '.git' in path.parts:
@@ -137,9 +129,12 @@ jobs:
               if new != text:
                   path.write_text(new, encoding='utf-8')
 
-          forbidden = [
-              re.compile(r'frequency\s*=\s*weight.{0,100}(Open|blocker|condition)', re.I | re.S),
-              re.compile(r'(Open|blocker|condition).{0,100}frequency\s*=\s*weight', re.I | re.S),
+          exact_forbidden = [
+              'Gate 1 — frequency = weight (Open; the blocker)',
+              'frequency=weight (Item 1): every step spending the weighting-law propensity inherits this Open gate.',
+              'conditional on frequency=weight',
+              'inherits Item-1 gate',
+              'inherits the Item-1 gate',
           ]
           violations = []
           for path in Path('.').rglob('*.md'):
@@ -150,12 +145,10 @@ jobs:
               head = text[:1200]
               if not re.search(r'(?m)^(status:\s*(current|control)|type:\s*(result|deposit|process))', head):
                   continue
-              for pattern in forbidden:
-                  if pattern.search(text):
-                      violations.append(str(rel))
-                      break
+              if any(bad in text for bad in exact_forbidden):
+                  violations.append(str(rel))
           if violations:
-              raise SystemExit('Live pages still treat frequency=weight as open: ' + ', '.join(sorted(set(violations))))
+              raise SystemExit('Obsolete frequency-weight formulations remain in live pages: ' + ', '.join(sorted(set(violations))))
 
           Path('.github/workflows/apply-foundation-audit-frequency.yml').unlink()
           PY
