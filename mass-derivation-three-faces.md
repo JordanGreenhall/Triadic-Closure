@@ -154,9 +154,8 @@ additive over registrably distinct holdings, the seating measure is forced:
 The three terms are equal because the With-flattened degrees are interchangeable
 and each bears the same whole closure. Treating the three holdings as one joint
 bearing would make re-selection blind to registered structure and violate
-additivity. No inventory of product, distribution, addition, or other imagined
-joining operations carries the result; the factor three is a direct corollary of
-whole-closure maintenance plus additivity.
+additivity. The factor three is a direct corollary of whole-closure maintenance
+plus additivity.
 
 Two guards against the dead factor-of-three still apply: (i) this 3 is the
 exterior *separation*, never the color count; (ii) it applies to the This-face
