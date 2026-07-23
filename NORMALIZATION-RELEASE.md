@@ -32,9 +32,10 @@ The release completes the full normalization sequence:
 - X1 remains an unresolved interface gate: the atomic ground, shell-edge object, and dynamical scale separation are not constructed.
 - CH1–CH10 remain conditional on the X1 interface debt and do not retroactively prove it.
 - Git history is the archive; obsolete provenance containers are not retained in the live corpus.
+- No Python file remains merely as normalization history, textual-check machinery, or an executable restatement of transparent mathematics. The release contains no `.py` files.
 
 ## Verification result
 
-The release audit found no required theory, standing, ownership, architecture, compression, or frontier changes. Canonical navigation, repository controls, inventory classification, and the normalized unit sequence are mutually consistent.
+The release audit found no required theory, standing, ownership, architecture, compression, or frontier changes. Canonical navigation, repository controls, inventory classification, the normalized unit sequence, and the executable-retention boundary are mutually consistent.
 
 The immutable release tag is to be applied to the final merge commit of the global-verification pull request.
