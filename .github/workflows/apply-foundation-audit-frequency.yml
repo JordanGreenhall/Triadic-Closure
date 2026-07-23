@@ -149,14 +149,13 @@ jobs:
                   violations.append(str(rel))
           if violations:
               raise SystemExit('Obsolete frequency-weight formulations remain in live pages: ' + ', '.join(sorted(set(violations))))
-
-          Path('.github/workflows/apply-foundation-audit-frequency.yml').unlink()
           PY
       - name: Commit audit execution
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --check
+          git status --short
+          git diff --cached --stat
           git commit -m "Dissolve frequency-weight pseudo-gate"
           git push origin HEAD:agent/foundation-audit-execution
