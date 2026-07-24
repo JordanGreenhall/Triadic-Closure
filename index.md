@@ -19,7 +19,7 @@ The corpus is primarily flattened at repository root. [Repository Inventory](rep
 - [Architectonic Rigor — complete](architectonic-rigor-complete.md)
 - [Architectonic Rigor — concise](architectonic-rigor.md)
 - [Triadic Structure of Relating — canonical source](triadic-structure-of-relating-rev-canonical.md)
-- [Triadic Structure of Relating — concise](triadic-structure-of-relating.md)
+- [Triadic Structure of Relating — M1 control](triadic-structure-of-relating.md)
 - [Domain Entry Method](domain-entry-method.md)
 - [Entering a New Domain](entering-a-new-domain.md)
 - [Three Moves per Stage](three-moves-per-stage.md)
