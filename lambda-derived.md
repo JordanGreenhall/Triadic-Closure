@@ -18,7 +18,7 @@ historical_sources:
 
 ## Mature status
 
-Status: **Registered** for Λ's framework meaning, metric-proportional tensor form, positive sign, `w = -1`, and horizon-scale scaling `Λ ∼ R_H⁻²`; **Conjectured-strong** for the complete-closure coefficient `3`; **definitional, not confirmatory** for the present-value FRW relation `Λ = 3 Ω_Λ R_H⁻²`; **Open** for framework-native expansion dynamics and `w(z)`.
+Status: **Registered** for Λ's framework meaning, metric-proportional tensor form, positive sign, `w = -1`, and horizon-scale scaling `Λ ∼ R_H⁻²`; **Conjectured-strong** for the complete-closure coefficient `3`; **definitional, not confirmatory** for the present-value FRW relation `Λ = 3 Ω_Λ R_H⁻²`; **Registered-candidate, conditional on cosmological two-mode exhaustiveness and G1**, for exact background flatness `Ω_k = 0`; **Open** for framework-native expansion dynamics and `w(z)`.
 
 ## Structural derivation
 
@@ -56,9 +56,31 @@ This holds in every FRW universe and cannot confirm the framework. The previous 
 
 The identity is not the proof of cosmological closure. The proof-bearing claim is structural: the whole must self-hold to stand; the reflexive term is therefore mandatory-positive rather than a freely signed constant. `Ω_Λ` is simply Λ expressed in horizon units—the world's accounting convention happens to use closure-native units.
 
+## Companion result: exact background flatness
+
+In FRW language, `k` is homogeneous background curvature. In the framework, curvature is not an arena-substance that can stand without a carrier; it is a registered response borne by conditioning structure.
+
+Under the cosmological two-mode premise, the From-office is exhausted by:
+
+- **transitive** conditioning, borne by matter and radiation, including their sourced perturbative curvature;
+- **reflexive** conditioning, borne by the mandatory-positive cosmological self-holding term Λ.
+
+A nonzero homogeneous `k` left over after those two modes would require either an arena-substance bearing unsourced curvature or a third conditioning mode. The framework supplies no arena-substance; the stated two-mode premise excludes the third mode. Therefore, conditional on cosmological two-mode exhaustiveness and G1's spatial manifold translation,
+
+`k = 0`, hence `Ω_k = 0`,
+
+**exactly for the background mode**. This is an impossibility result, not an inflation-style attractor or a claim that curvature dynamically relaxes toward zero.
+
+Sourced perturbation curvature does not violate the result. Apparent curvature at the measurement floor, of order `10⁻⁵`, is matter/radiation-sourced perturbation curvature expressed in `Ω_k` units, not a homogeneous background `k`.
+
+**Grade:** Registered-candidate, conditional on cosmological two-mode exhaustiveness and G1. **Falsifier:** any confirmed `|Ω_k|` above the sourced-perturbation floor.
+
+The Λ and flatness results are companions. GR leaves Λ freely signed and `k` freely signed; the framework constrains both from the same two-mode structure: Λ is mandatory-positive in the reflexive mode, and unsourced background curvature is absent because there is no third mode.
+
 ## Remaining frontier
 
 - The exact complete-closure coefficient `3` remains Conjectured-strong.
+- Exact background flatness remains conditional on cosmological two-mode exhaustiveness and G1.
 - Framework-native expansion dynamics and the rate `w(z)` remain Open.
 - FRW/Friedmann/holographic-dark-energy dynamics must not be used as framework derivations.
 
