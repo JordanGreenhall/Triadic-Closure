@@ -9,7 +9,9 @@ Triadic Closure is a foundational architectonics developed through a canonical s
 3. [01 — The Triadic Structure of Relating](01-foundation-triadic-structure-of-relating.md)
 4. [02 — Architectonic Rigor and the Mathematics Walk](02-architectonic-rigor-and-the-mathematics-walk.md)
 5. [03 — Domain-Entry Method](03-domain-entry-method.md)
-6. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
+6. [Appendix — Foundation Floor and Engine](appendix-foundation-floor-and-engine.md)
+7. [Appendix — Generated Structures and Domain Form](appendix-foundation-structures-and-domains.md)
+8. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
 
 The remaining domain documents are read through the index until their canonical consolidation is complete.
 
