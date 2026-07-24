@@ -78,10 +78,10 @@ e_u\cdot e_d=e_d\cdot e_s=e_s\cdot e_u=-\frac12.
 For proton and neutron mark configurations,
 
 \[
-P\cdot N=\frac32,\qquad \cos\theta=\frac12.
+|P|^2=|N|^2=3,\qquad P\cdot N=\frac32,
 \]
 
-The Born-squared mark-access weight is \(1/4\).
+so the mark-access angle has \(\cos\theta=1/2\) and Born-squared access weight \(1/4\).
 
 **Status:** mark metric and access weight are Registered, not Sealed.
 
