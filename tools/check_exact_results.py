@@ -20,14 +20,15 @@ CHECKS: tuple[tuple[str, str, tuple[str, ...]], ...] = (
     ("flat interval", "04-physics-i-the-walk.md", ("ds² = −dt² + dx² + dy² + dz²", "c = 1")),
     ("native SU(3)", "05-physics-ii-internal-structure-and-matter.md", (r"SL(3,\mathbb C)\cap U(3)=SU(3)",)),
     ("chiral projectors", "05-physics-ii-internal-structure-and-matter.md", (r"P_L=\frac{I-h}{2},\qquad P_R=\frac{I+h}{2}",)),
-    ("mark geometry", "05-physics-ii-internal-structure-and-matter.md", (r"e_u\cdot e_d=e_d\cdot e_s=e_s\cdot e_u=-\frac12",)),
+    ("mark geometry", "05-physics-ii-internal-structure-and-matter.md", (r"e_u\cdot e_d=e_d\cdot e_s=e_s\cdot e_u=-\frac12", r"|P|^2=|N|^2=3,\qquad P\cdot N=\frac32")),
     ("closure measure", "06-physics-iii-actualization-measure-and-mass.md", (r"\operatorname{Vol}_{\rm closure}=\operatorname{Vol}(S^5)\operatorname{Vol}(S^3)=\pi^3\cdot2\pi^2=2\pi^5",)),
     ("seating factor", "06-physics-iii-actualization-measure-and-mass.md", (r"3\cdot2\pi^5=6\pi^5",)),
     ("mass relation", "06-physics-iii-actualization-measure-and-mass.md", (r"\frac{m_p}{m_e}", r"6\pi^5\left[1+c(3\pi^4)^{-2}\right]", r"\frac32\le c\le\frac94")),
     ("atomic occupancy", "08-chemistry-the-walk.md", ("2(2l+1)",)),
     ("atomic spectrum", "08-chemistry-the-walk.md", (r"E_n\propto-\frac{1}{n^2}",)),
-    ("Lambda identity", "07-physics-iv-gravity-lambda-grqm.md", (r"\Lambda=3\Omega_\Lambda R_H^{-2}",)),
+    ("Lambda identity", "07-physics-iv-gravity-lambda-grqm.md", (r"w=-1", r"\Lambda=3\Omega_\Lambda R_H^{-2}")),
     ("background flatness", "07-physics-iv-gravity-lambda-grqm.md", (r"\Omega_k=0",)),
+    ("aromatic closure", "08-chemistry-the-walk.md", ("2+4k", "4n+2")),
 )
 
 LINK_SURFACES = ("README.md", "index.md", "EXACT-RESULTS.md")
