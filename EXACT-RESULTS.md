@@ -153,7 +153,7 @@ E_n\propto-\frac{1}{n^2}.
 
 **Status:** occupancy is Registered and Sealed at the inherited spin/Pauli scope; the principal fixed-point tower and spectrum are Registered-candidate conditional on G1.
 
-**Do not confuse with:** exact empirical energies, fine structure, or a winding-number derivation.
+**Do not confuse with:** exact empirical energies or fine-structure corrections.
 
 **Canonical source:** [08 — Chemistry](08-chemistry-the-walk.md), Part A, §§1 and 3.
 
