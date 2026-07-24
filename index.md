@@ -20,5 +20,3 @@
 - [Mathematical Constructions](appendix-mathematical-constructions.md)
 - [Internal-Structure Derivations](appendix-internal-structure-derivations.md)
 - [Mass, Measure, and Ratio](appendix-mass-measure-and-ratio.md)
-
-`EXACT-RESULTS.md` will provide the compact exact-result register. Until it is added, exact high-risk statements are governed by their principal documents and named technical appendices.
