@@ -15,6 +15,7 @@ Triadic Closure is a foundational architectonics developed through a canonical s
 9. [07 — Physics IV: Gravity, Lambda, and the GR/QM Conflict](07-physics-iv-gravity-lambda-grqm.md)
 10. [08 — Chemistry: The Walk](08-chemistry-the-walk.md)
 11. [09 — Frontier and Open Ledger](09-frontier-and-open-ledger.md)
+12. [Exact Results](EXACT-RESULTS.md)
 
 Technical derivations are retained only where their absorption would make a principal document unwieldy:
 
