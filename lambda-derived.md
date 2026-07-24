@@ -84,4 +84,4 @@ The Λ and flatness results are companions. GR leaves Λ freely signed and `k` f
 - Framework-native expansion dynamics and the rate `w(z)` remain Open.
 - FRW/Friedmann/holographic-dark-energy dynamics must not be used as framework derivations.
 
-See also: [grqm-conflict-status](grqm-conflict-status.md), [gravity-and-curvature](gravity-and-curvature.md), [physics-domain-mature-status](physics-domain-mature-status.md), [claim-status-vocabulary](claim-status-vocabulary.md).
+See also: [cosmological-two-mode-budget-reading](cosmological-two-mode-budget-reading.md), [grqm-conflict-status](grqm-conflict-status.md), [gravity-and-curvature](gravity-and-curvature.md), [physics-domain-mature-status](physics-domain-mature-status.md), [claim-status-vocabulary](claim-status-vocabulary.md).
