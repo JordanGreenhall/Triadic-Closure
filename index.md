@@ -6,7 +6,9 @@
 2. [01 — The Triadic Structure of Relating](01-foundation-triadic-structure-of-relating.md)
 3. [02 — Architectonic Rigor and the Mathematics Walk](02-architectonic-rigor-and-the-mathematics-walk.md)
 4. [03 — Domain-Entry Method](03-domain-entry-method.md)
-5. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
+5. [Appendix — Foundation Floor and Engine](appendix-foundation-floor-and-engine.md)
+6. [Appendix — Generated Structures and Domain Form](appendix-foundation-structures-and-domains.md)
+7. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
 
 ## Current physics treatments
 
