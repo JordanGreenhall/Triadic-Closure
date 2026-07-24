@@ -8,6 +8,8 @@ updated: 2026-07-24
 
 # The Triadic Structure of Relating
 
+Detailed supporting arguments are retained in [Foundation Floor and Engine](appendix-foundation-floor-and-engine.md) and [Generated Structures and Domain Form](appendix-foundation-structures-and-domains.md). This document governs their claim standing and scope.
+
 ## 0. Method, standing, and the count
 
 This is an architectonic account of the conditions under which proof, derivation, domain, object, and determinate content can appear. It proceeds by dependency: each claim is placed at the earliest level at which its dependencies are available, and no later disciplinary content is allowed to do work before it is earned.
