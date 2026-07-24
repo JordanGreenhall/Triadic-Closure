@@ -20,7 +20,7 @@ Status: **Interpretation-grade; not a derivation, prediction, or independent con
 
 The present cosmological budget is dominated by two entries, conventionally written `Ω_m` and `Ω_Λ`. The framework permits these to be read as the two cosmological conditioning modes:
 
-- `Ω_m`: the transitive budget entry, carried by matter and radiation through `T_{μν}`;
+- `Ω_m`: the dominant transitive budget entry, carried by cosmological matter through `T_{μν}`; radiation and other transported source components belong to the same transitive family when separately itemized;
 - `Ω_Λ`: the reflexive budget entry, carried by the metric-proportional self-holding term `Λg_{μν}`.
 
 At the geometric-response level, this is the same two-part division represented by the Einstein term and the cosmological metric term permitted by the Lovelock form.
@@ -43,7 +43,7 @@ The reading supplies a coherent interpretation of why the observed budget is nat
 - framework-native Friedmann dynamics or `w(z)`;
 - cosmological two-mode exhaustiveness.
 
-Radiation and other transported source components belong to the transitive family even when separately itemized in the empirical ledger. Exact background flatness remains a separate Registered-candidate result conditional on cosmological two-mode exhaustiveness and G1; this interpretation does not strengthen that premise.
+Exact background flatness remains a separate Registered-candidate result conditional on cosmological two-mode exhaustiveness and G1; this interpretation does not strengthen that premise.
 
 ## Use rule
 
