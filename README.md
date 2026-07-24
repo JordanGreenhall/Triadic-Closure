@@ -1,74 +1,22 @@
-# Triadic Closure Corpus
+# Triadic Closure
 
-This repository is the primary execution corpus for Jordan Hall's Triadic Closure project. Most files formerly distributed across Google Drive folders have been migrated into a flattened root-level layout. The `_compiler/` directory remains the principal subdirectory.
+Triadic Closure is a foundational architectonics developed through a canonical sequence: foundation, warrant instruments, domain-entry method, mathematics, physics, gravity/cosmology, and chemistry.
 
-## Start here
+## Begin here
 
-1. [Corpus Index](index.md)
-2. [Repository Inventory](repository-inventory.md)
-3. [Repository Schema](SCHEMA.md)
-4. [Corpus Lineage](corpus-lineage.md)
-5. [Supersession Map](supersession-map.md)
-6. [Agent Execution Rules](agent-execution-rules.md)
+1. [Corpus index](index.md)
+2. [00 — Spine and Protocol](00-spine-and-protocol.md)
+3. [01 — The Triadic Structure of Relating](01-foundation-triadic-structure-of-relating.md)
+4. [02 — Architectonic Rigor and the Mathematics Walk](02-architectonic-rigor-and-the-mathematics-walk.md)
+5. [03 — Domain-Entry Method](03-domain-entry-method.md)
+6. [Appendix — Foundation Floor and Engine](appendix-foundation-floor-and-engine.md)
+7. [Appendix — Generated Structures and Domain Form](appendix-foundation-structures-and-domains.md)
+8. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
 
-## Current topology
+The remaining domain documents are read through the index until their canonical consolidation is complete.
 
-Most substantive Markdown files live at repository root. Former paths such as `results/`, `overview/`, `concepts/`, `process/`, `raw/package/`, and `raw/context/` are historical provenance unless the directory visibly exists in GitHub.
+## Governing editorial rule
 
-The live path for a migrated root document is:
+The live repository contains the best current statement of the framework. Claim authority is claim-specific: the most recent substantive statement or repair governs only the claim it addresses. Compiler, process, verification, migration, provenance, and reading-guide files have no claim authority.
 
-```text
-filename.md
-```
-
-The following directories currently have distinct roles:
-
-- `_compiler/` — semantic inventories and adjudication controls;
-- `overview/` — residual migration-shadow pages requiring consolidation;
-- `tools/` — import, reference-normalization, and audit scripts;
-- `.github/workflows/` — repository automation.
-
-## Corpus scope
-
-The repository now contains:
-
-- foundational architectonics and domain-entry method;
-- mathematical and mathematization work;
-- physics walks, spacetime, gauge, mass, gravity, and cosmology modules;
-- the physics-to-chemistry gate;
-- control, audit, historical, and provenance documents;
-- compiler artifacts.
-
-The substantive chemistry D1–D4 source deposit named in `_compiler/source-manifest.md` has not yet been migrated as a root source file. Its compiler inventory is present, but the source remains external.
-
-## Authority
-
-GitHub is the primary working source for every migrated file. Google Drive is fallback provenance and a source-recovery location for material not yet migrated.
-
-Authority is claim-specific, not file-wide or folder-wide. For each semantic object, prefer:
-
-1. the most advanced complete detailed derivation;
-2. later detailed repairs or extensions;
-3. explicit adjudications and current rulings;
-4. downstream work that necessarily spends and sharpens the claim;
-5. current control pages;
-6. summaries and orientation prose.
-
-A newer or shorter summary may not override stronger detailed work.
-
-## Standing and warrant
-
-Claim standing and warrant route are separate. Authorized standings currently used across the corpus include Open, Conjectured, Conjectured-strong, Registered-candidate, Registered, Registered and Sealed, Defended posit, and Dissolved. `Locked actual` is deprecated.
-
-## Historical material
-
-Package-era and superseded files remain for provenance, but may not be treated as current doctrine without adjudication. In particular, `cover-letter.md` and `phi-forward-reconstruction.md` are historical package materials whose broad status claims have been superseded in multiple places.
-
-## Maintenance priorities
-
-- keep [repository-inventory.md](repository-inventory.md) synchronized with the actual tree;
-- consolidate or remove shadow duplicates under `overview/`;
-- mark superseded files conspicuously in-file;
-- ensure all governing links resolve;
-- migrate the remaining substantive chemistry source;
-- keep `_compiler/` synchronized with, but subordinate to, the substantive corpus.
+Editorial work may change presentation, location, and duplication. It may not change theory.
