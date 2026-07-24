@@ -31,7 +31,7 @@ The principal sequence is:
 | 08 | Chemistry — The Walk | atomic handoff, chemistry D1–D4, dynamics, and equilibrium |
 | 09 | Frontier and Open Ledger | only current open gates, conjectures, conditions, and quarantines |
 
-Three technical appendices preserve derivational detail that would make the principal documents unwieldy: mathematical constructions; internal-structure derivations; mass, measure, and ratio. `EXACT-RESULTS.md` records exact high-risk expressions identically with their canonical owners.
+Five technical appendices preserve derivational detail that would make the principal documents unwieldy: foundation floor and engine; generated structures and domain form; mathematical constructions; internal-structure derivations; mass, measure, and ratio. `EXACT-RESULTS.md` records exact high-risk expressions identically with their canonical owners.
 
 Dependency runs downward. Each successor inherits the prior object **whole, as a constraint, never as a buffet**.
 
