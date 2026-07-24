@@ -8,6 +8,27 @@
 4. [03 — Domain-Entry Method](03-domain-entry-method.md)
 5. [Appendix — Mathematical Constructions](appendix-mathematical-constructions.md)
 
-## Physics and chemistry
+## Current physics treatments
 
-The current physics and chemistry result pages remain available during consolidation. Their compact canonical owners will occupy documents 04–09.
+These remain the governing domain treatments until compact documents 04–07 are installed:
+
+- [Physics Registration Theorem](physics-registration-theorem.md)
+- [Physics Walk D1–D5](physics-walk-d1-d5-consolidated.md)
+- [Dimension and Spacetime Status](dimension-and-spacetime-status.md)
+- [Propagation and Invariant Velocity](propagation-invariant-velocity-and-modal-structure.md)
+- [Lorentz from Recoupling](lorentz-from-recoupling.md)
+- [Gauge Structure](gauge-structure-result.md)
+- [Chiral Coupling](chiral-coupling-result.md)
+- [Flavor, Mark Metric, and Neutron](flavor-mark-metric-and-neutron.md)
+- [Mass as Self-Closure](mass-as-self-closure.md)
+- [Mass Derivation](mass-derivation-three-faces.md)
+- [Closure-Inherited Metric](closure-inherited-metric.md)
+- [Gravity and Curvature](gravity-and-curvature.md)
+- [GR/QM Conflict Status](grqm-conflict-status.md)
+- [Lambda](lambda-derived.md)
+
+## Current physics–chemistry boundary
+
+- [Physics–Chemistry Gate Crossing](physics-chemistry-gate-crossing.md)
+
+The compact chemistry owner will be document 08. The single current frontier ledger will be document 09.
