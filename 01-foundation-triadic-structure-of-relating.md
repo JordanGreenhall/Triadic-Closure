@@ -173,9 +173,10 @@ The mathematical gate does not supply spacetime, physical dimension, dynamics, e
 
 ## 10. Standing open joints
 
-The foundation leaves the following joints explicit:
+The exactly-three completeness ceiling is not an open work joint. It marks the maximal warrant available to every ultimate inventory and carries no additional proof task.
 
-- absolute certification of exactly-three, structurally unavailable to every ultimate inventory;
+The foundation leaves the following genuine work joints explicit:
+
 - a deeper positive account of From-to-With co-conditioning;
 - literal numerical self-holding;
 - a floor-level sorter of self-relation and other-relation;
