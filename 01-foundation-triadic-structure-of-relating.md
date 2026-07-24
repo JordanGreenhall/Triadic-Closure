@@ -12,9 +12,9 @@ updated: 2026-07-24
 
 This is an architectonic account of the conditions under which proof, derivation, domain, object, and determinate content can appear. It proceeds by dependency: each claim is placed at the earliest level at which its dependencies are available, and no later disciplinary content is allowed to do work before it is earned.
 
-The internal warrant tags used here are:
+The standing and warrant labels used here are:
 
-- **Posited:** a defended posit carried with its defense profile.
+- **Defended posit:** a completeness claim carried at the universal certification ceiling with its defense profile.
 - **Forced:** secured by dependency, retorsion, or exhibited construction.
 - **Selected:** admitted under an exhibited boundary but not uniquely compelled.
 - **Recognition:** an inherited name attached after the structure is earned; surplus does no work.
