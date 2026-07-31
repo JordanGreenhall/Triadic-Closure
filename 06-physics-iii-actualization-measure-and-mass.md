@@ -3,7 +3,7 @@ title: "Physics III — Actualization, Measure, and Mass"
 wiki-doc: 06
 type: domain-result
 status: canonical
-updated: 2026-07-24
+updated: 2026-07-31
 depends-on: [01-foundation-triadic-structure-of-relating, 02-architectonic-rigor-and-the-mathematics-walk, 04-physics-i-the-walk, 05-physics-ii-internal-structure-and-matter]
 ---
 
@@ -121,7 +121,7 @@ The baryon's gathered interior contributes \(2\pi^5\). Seating the whole closure
 3\cdot2\pi^5=6\pi^5.
 \]
 
-This factor is not the full proton/electron mass ratio. The complete relation is
+The proton/electron mass relation composes the With–This seating factor with the From–With contribution:
 
 \[
 \frac{m_p}{m_e}
@@ -141,7 +141,7 @@ s=\frac{1}{3\pi^4},\qquad \varepsilon_{FW}=cs^2,
 \frac{m_p}{m_e}=6\pi^5(1+\varepsilon_{FW}).
 \]
 
-The correction is the second-order self-back-reaction of the exterior turn on the interior it carries. Its existence, positive sign, second-order scale, electron-zero, and bracket are **Registered**. The position within the bracket—the normalization of the From–With connection—remains Open, with the observed position Conjectured. The correction is non-load-bearing for atomic spectra and periodic ordering.
+The From–With contribution is the second-order self-back-reaction of the exterior turn on the interior it carries. Its existence, positive sign, second-order structure, electron-zero, and bracket are **Registered**. The position within the bracket—the normalization of the From–With connection—remains Open, with the observed position Conjectured. The open bracket position is non-load-bearing for atomic spectra and periodic ordering.
 
 ## 7. The bracket
 
@@ -180,6 +180,6 @@ A massless fermionic limit is pure advance. A neutrino lacks an individuated opp
 | With–This seating factor \(6\pi^5\) | Registered |
 | complete proton/electron relation and coefficient bracket | Registered except position within bracket |
 | position within bracket | Open; observed position Conjectured |
-| correction non-load-bearing downstream | Registered |
+| open bracket position non-load-bearing downstream | Registered |
 | missing-partner neutrino mechanism | Registered; interpretation Conjectured |
 | absolute unit conversion | external calibration |
