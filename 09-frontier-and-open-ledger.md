@@ -3,7 +3,7 @@ title: "Frontier and Open Ledger"
 wiki-doc: 09
 type: frontier-control
 status: canonical
-updated: 2026-07-24
+updated: 2026-07-31
 depends-on: [00-spine-and-protocol, 01-foundation-triadic-structure-of-relating, 02-architectonic-rigor-and-the-mathematics-walk, 03-domain-entry-method, 04-physics-i-the-walk, 05-physics-ii-internal-structure-and-matter, 06-physics-iii-actualization-measure-and-mass, 07-physics-iv-gravity-lambda-grqm, 08-chemistry-the-walk]
 ---
 
@@ -67,7 +67,7 @@ The exactly-three completeness ceiling is not a frontier. It is a defended posit
 - From–With interpretation of the neutrino missing-partner mechanism — **Conjectured**;
 - absolute unit conversion — external calibration, not a native frontier.
 
-The correction bracket is non-load-bearing for the atomic spectrum and periodic ordering.
+The open position of \(c\) within its Registered bracket is non-load-bearing for the atomic spectrum and periodic ordering.
 
 ## 5. Physics IV — gravity, Lambda, and GR/QM
 
@@ -123,7 +123,7 @@ The general handoff mechanism is **Registered-candidate** from one fully exhibit
 
 | Watch | Required discipline |
 |---|---|
-| exact mass relation | never replace the complete bracketed relation with \(6\pi^5\) alone |
+| exact mass relation | use the complete relation \(m_p/m_e=6\pi^5[1+c(3\pi^4)^{-2}]\); \(6\pi^5\) names the With–This seating factor |
 | two-center mode count | “exactly two modes” applies only to two centers; \(n\) centers give \(n\) modes |
 | partner geometry | exact 2/3/4-partner angles require registrably identical partners |
 | G1 scope | carry G1 only into spatial-texture claims |
