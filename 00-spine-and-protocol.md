@@ -3,7 +3,7 @@ title: "Triadic Closure — Spine and Protocol"
 wiki-doc: 00
 type: control
 status: canonical-control
-updated: 2026-07-24
+updated: 2026-07-31
 ---
 
 # Triadic Closure — Spine and Protocol
@@ -90,7 +90,7 @@ Layers and nesting are horizontal even when their ordinary presentation feels hi
 - Do not ask a concept to bear content that its actual downstream use does not require.
 - Do not hard-code a desired result and report the output as verification.
 - Do not inherit G1 outside the spatial manifold/order sector.
-- Do not truncate exact formulas. In particular,
+- Do not truncate exact formulas. The proton/electron mass relation is
 
 \[
 \frac{m_p}{m_e}
@@ -100,7 +100,7 @@ Layers and nesting are horizontal even when their ordinary presentation feels hi
 \frac32\le c\le\frac94.
 \]
 
-The factor \(6\pi^5\) is the exact With–This seating factor. It is not the proton/electron mass ratio.
+Its With–This seating factor is \(6\pi^5\); its From–With contribution is \(c(3\pi^4)^{-2}\), entering multiplicatively in the bracket.
 
 ## 7. Maintenance rule
 
