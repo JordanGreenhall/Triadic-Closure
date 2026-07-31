@@ -2,7 +2,7 @@
 title: "Exact Results"
 type: exact-results-register
 status: canonical-control
-updated: 2026-07-24
+updated: 2026-07-31
 ---
 
 # Exact Results
@@ -111,9 +111,7 @@ so the mark-access angle has \(\cos\theta=1/2\) and Born-squared access weight \
 3\cdot2\pi^5=6\pi^5.
 \]
 
-**Status:** Registered.
-
-**Do not confuse with:** the proton/electron mass ratio. \(6\pi^5\) is the exact With–This seating factor only.
+**Status:** Registered as the With–This seating factor in the mass construction.
 
 **Canonical source:** [06 — Physics III](06-physics-iii-actualization-measure-and-mass.md), §6; [Mass, Measure, and Ratio](appendix-mass-measure-and-ratio.md), §3.
 
@@ -129,9 +127,13 @@ so the mark-access angle has \(\cos\theta=1/2\) and Born-squared access weight \
 \frac32\le c\le\frac94.
 \]
 
-**Status:** the complete relation, positive second-order correction, and coefficient bracket are Registered; the position of \(c\) within the bracket remains Open, with the observed position Conjectured.
+Its contributions are:
 
-**Do not confuse with:** \(6\pi^5\) alone. That is only the With–This seating factor.
+- With–This seating: \(6\pi^5\);
+- From–With self-back-reaction: \(\varepsilon_{FW}=c(3\pi^4)^{-2}\), entering multiplicatively as \(1+\varepsilon_{FW}\);
+- This–From: no additional mass contribution.
+
+**Status:** the complete relation, positive second-order From–With contribution, and coefficient bracket are Registered; the position of \(c\) within the bracket remains Open, with the observed position Conjectured.
 
 **Canonical source:** [06 — Physics III](06-physics-iii-actualization-measure-and-mass.md), §§6–7; [Mass, Measure, and Ratio](appendix-mass-measure-and-ratio.md), §§5–8.
 
