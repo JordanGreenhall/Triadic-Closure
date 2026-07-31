@@ -97,7 +97,7 @@ The identity
 
 is definitional, because \(\Omega_\Lambda\equiv\Lambda c^2/(3H_0^2)\). It holds in every FRW model and supplies no independent confirmation. The empirical comparison belongs to the proposed coefficient or to the measured dimensionless combination \(\Lambda R_H^2\), not to this identity.
 
-The conventional \(10^{-122}\) discrepancy is Dissolved as a scale/cutoff mismatch at the stated magnitude reading: a horizon-scale curvature expressed in Planck units. Framework-native expansion dynamics and \(w(z)\) remain Open.
+Framework-native expansion dynamics and \(w(z)\) remain Open.
 
 ### 3.2 Flatness
 
@@ -112,6 +112,10 @@ k=0,
 for the background mode. This is an impossibility claim rather than an inflationary attractor. It is **Registered-candidate**, conditional on two-mode exhaustiveness at cosmological scope and on G1. Confirmed background curvature above the sourced perturbation floor would falsify it.
 
 The reading of \((\Omega_m,\Omega_\Lambda)\) as the transitive/reflexive two-mode budget is interpretation only, not a derivation.
+
+### 3.3 Conventional comparison
+
+The conventional \(10^{-122}\) discrepancy is Dissolved as a scale/cutoff mismatch at the stated magnitude reading: a horizon-scale curvature expressed in Planck units.
 
 ## 4. GR/QM
 
