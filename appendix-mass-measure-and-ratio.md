@@ -2,7 +2,7 @@
 title: "Appendix — Mass, Measure, and Ratio"
 type: technical-appendix
 status: canonical-appendix
-updated: 2026-07-24
+updated: 2026-07-31
 ---
 
 # Appendix — Mass, Measure, and Ratio
@@ -73,7 +73,7 @@ All mass statements are relative until an external empirical bridge assigns kilo
 
 ## 5. Complete proton/electron relation
 
-The exact relation is
+The proton/electron mass relation composes the With–This seating factor with the From–With contribution:
 
 \[
 \frac{m_p}{m_e}
@@ -83,9 +83,13 @@ The exact relation is
 \frac32\le c\le\frac94.
 \]
 
-The leading factor \(6\pi^5\) is exactly the With–This seating factor. It is not the proton/electron mass ratio.
+The With–This seating factor is
 
-Define
+\[
+6\pi^5.
+\]
+
+Define the interior seam scale and From–With contribution by
 
 \[
 s=(3\pi^4)^{-1},\qquad \varepsilon_{FW}=cs^2.
@@ -97,7 +101,7 @@ Then
 \frac{m_p}{m_e}=6\pi^5(1+\varepsilon_{FW}).
 \]
 
-The first-order closure load is already the seating factor. The remaining From–With back-reaction therefore begins at second order in the interior seam scale \(s\).
+The From–With contribution is second order in the interior seam scale \(s\), as the self-back-reaction of the exterior turn on the interior it carries.
 
 ## 6. Lower wall
 
@@ -115,7 +119,7 @@ c\ge\frac32.
 
 ## 7. Upper wall
 
-The exterior turn is an \(S^1\) recurrence. Its connection is a one-form and does not supply an independent two-form channel. The correction is therefore two-body. Maximal simultaneous alignment contributes the mark floor plus three squared access channels:
+The exterior turn is an \(S^1\) recurrence. Its connection is a one-form and does not supply an independent two-form channel. The From–With contribution is therefore two-body. Maximal simultaneous alignment contributes the mark floor plus three squared access channels:
 
 \[
 c\le\frac32+3\left(\frac14\right)=\frac94.
@@ -131,7 +135,7 @@ The bracket is a theorem at the stated construction. The internal position of \(
 
 ## 8. Downstream license
 
-For atomic and periodic structure, the hierarchy established by the leading factor is sufficient. The correction is of order \(10^{-5}\) at the mass-ratio level and reaches atomic structure several orders further down. It may be retained for precision work but cannot block the atomic or chemistry walk.
+For atomic and periodic structure, the complete mass relation establishes the heavy/light hierarchy. Variation across the open position of \(c\) within its Registered bracket reaches atomic structure several orders below the structures being resolved and therefore cannot block the atomic or chemistry walk.
 
 ## 9. Boundaries
 
