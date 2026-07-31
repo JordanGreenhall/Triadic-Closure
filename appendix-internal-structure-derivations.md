@@ -100,7 +100,7 @@ With \(u\cdot d=-1/2\),
 
 The Born-squared access weight is therefore \(1/4\). This access overlap is distinct from the normalized isospin ladder matrix element, which lives in the orthonormal doublet readout space.
 
-The relief-valve mechanism assigns the sign of the proton–neutron splitting: the proton's outward edge can be satisfied by an external inverse partner, whereas the neutron bears its valence load internally. The exact magnitude retains the conjectured receipt-complement factor and the mass-side correction stated in documents 05 and 06.
+The relief-valve mechanism assigns the sign of the proton–neutron splitting: the proton's outward edge can be satisfied by an external inverse partner, whereas the neutron bears its valence load internally. The exact magnitude retains the conjectured receipt-complement factor and the mass structure stated in documents 05 and 06.
 
 ## 8. Boundaries
 
